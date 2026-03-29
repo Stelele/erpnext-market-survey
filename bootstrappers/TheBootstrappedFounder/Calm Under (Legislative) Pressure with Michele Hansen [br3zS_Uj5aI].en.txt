@@ -1,0 +1,2133 @@
+﻿Arvid Kahl: All right, this is
+Arvid and Tyler catch up. And
+today we have a special guest on
+the show. Michelle Hanson, the
+co founder of JUCO, do a SaaS
+business that provides hassle
+free geocoding. She's also the
+author of a very practical book
+called deploy empathy, of which
+I own two copies, one of which
+has signed. So, you know, it's I
+care about the book. And now
+she's an entrepreneurial
+activist as well. And we'll
+catch up with each other. So
+let's get started. Tyler, what
+have you been up to this week?
+Tyler Tringas: This week has
+been really interesting. We've
+been doing a lot of work on
+leveraging sort of automation
+and AI, internally at the fund.
+So we've been kind of just going
+nuts on a lot of little things
+where we've got little bots
+going around and summarizing
+things out of our CRM and
+turning it into a feed for us
+and quick commands that we can
+call right out of our slack to
+go and send little GPT powered
+bots to go and do tasks for us.
+And it's been a really fun sort
+of deep dive, we are actually
+going to be spinning out a
+couple of these as as really,
+really micro sasses. Sometime in
+the next couple of weeks. There,
+they're going to be more
+experiments than full fledged
+products. But that's what we've
+been working on a bit this week.
+Arvid Kahl: So cool. Yeah, I've
+been having a lot of
+illustrations on Twitter, right.
+But as that is my job,
+apparently, about AI and the
+impact that AI has on Bootstrap
+businesses, SAS businesses, I
+wish we all would have time to
+experiment with AI. But there
+are more pressing problems. And
+we'll get to that in a minute.
+One thing that I've been doing
+this week, is preparing my
+little SATA talk, really, but
+it's a roundtable discussion
+that I'm going to be
+facilitating at this year is
+MicroConf, us in Denver in a
+couple of weeks from now, just
+kind of crazy thinking about
+that, that stuff just sneaks up
+on you. I'll be I'll be like
+hosting a little roundtable
+about the challenges of
+entrepreneurship, from SAS and
+Bootstrap to entrepreneurship in
+particular, because I guess I've
+been talking a lot about mental
+health issues, and just like
+dealing with things. And today,
+again, we're going to be
+discussing one of these super
+impactful, super stressful
+anxiety inducing things that you
+just have to deal with, and try
+to stay calm through. So I want
+to encourage people to have a
+little conversation about this.
+Not a little an actual
+conversation, honest, eager and
+peer based conversation. So what
+I'm going to be doing, and I
+obviously have to prepare for
+this right set people up to have
+as productive discussion as
+possible. So I've been working
+on this. And then obviously, the
+AI topic is still going on with
+all the new things. And we can
+talk about that later, too. But
+I do want to pass this
+conversation to Michelle now
+because she probably had a an
+amazing week as what have you
+been doing? For the last couple
+days?
+Michele Hansen: I have been
+having a lot of phone calls. So
+many calls, which, you know, as
+as a founder of a calm company.
+Most of us probably don't say
+what did you do yesterday? Oh, I
+spent four hours on calls
+talking about taxes. But that's
+what I've been working on.
+Because I mean, we just went
+through sales tax compliance
+last year, and are still kind of
+working out a last couple last
+few things with that, you know,
+we are in we are a US company,
+but we live in Denmark, and
+Denmark doesn't have the concept
+of LLCs. And so now we're in the
+middle of a gigantic
+International Tax mess. And then
+the US Congress, they changed
+the part of the tax code that
+deals with software development,
+which is giving everyone massive
+increases in their tax bills.
+And so I don't even think I can
+count the number of accountants
+that I'm talking to lately. Like
+I need to hire an accountant to
+count all of my accountants. And
+that's, you know, honestly,
+that's the kind of thing we
+don't really talk about. But
+that's, you know, what, when you
+have a business, it's kind of
+post product market fit, right,
+like, and I don't know where
+this inflection point is, for
+me, it felt like, things got way
+more on the operations side, in
+a way that I hadn't really heard
+people talk about, like, when we
+got like over the 2 million
+error mark. But yeah, I mean,
+honestly, I I'm kind of jealous
+of your week. Tyler, like
+playing with chat GPT and like,
+I mean, I saw some of the bots
+in the calm slack and there was
+somebody like trying to get it
+to write a press release about
+like an oil spill or something
+but like put in like puns about
+and it was so funny. It was it
+was it was so funny.
+Tyler Tringas: I would cuz that
+was my entire week. But yeah.
+Man, oh, well, I don't envy you.
+But in part, one of the reasons
+we did want to have you on to
+talk about a couple of things we
+want to talk about, you know, a
+couple of the normal topics that
+we typically cover here, but we
+were chatting with you about
+this, this issue of section 174
+in the tax code, and we thought,
+you know, the audience of folks
+that that listen to this are
+probably going to be
+particularly impacted and should
+be moved to act. So we want to
+just dive right into that, if
+that makes sense. Or do you
+think just like,
+Arvid Kahl: I want to dive into
+taxes, I love taxes, man, this
+is this is my job.
+Tyler Tringas: Yeah. So just a
+little bit of context, what
+we're gonna do is we're gonna
+get a deep dive on what's I
+think we're gonna get a, a
+primer on what's going on, maybe
+not the full deep dive, that one
+can be saved for the
+accountants, we're gonna get a
+status update on what's going on
+with the tax code, how it's
+gonna affect founders of
+software companies in
+particular. And then we're going
+to talk a little about what you
+can do about it. And then I want
+to shift the topic as well to
+kind of the the mental game
+aspect of dealing with stuff
+like this, especially as it
+seems to be, you know, every
+month, there's a new thing. And
+so I'd love to talk a little bit
+about that. But starting with
+just what is it what's going on
+with section 174? Michelle?
+Michele Hansen: Yes. And so
+before I launch into that, the
+disclaimer that the experts I
+have been talking to have told
+me to say every time I talk
+about this is that I am not a
+tax accountant and to get advice
+about your specific situation,
+talk to a tax accountant. Yeah.
+Okay. So section 174 is the part
+of the tax code that deals with
+what is called research and
+experimental activities. And
+this includes software
+development, and has for over 60
+years. And the reason why we're
+talking about it is that for in
+all that time, companies have
+had the option to either
+expense, those r&amp;d expenses, or
+they could amortize them. And
+now, I should note that this is
+different than the r&amp;d tax
+credit, this likely applies to
+you, even if you don't take the
+r&amp;d tax credit, even if you
+don't think you're doing our N E
+or r&amp;d, because while we are
+still waiting for the IRS to
+define what software development
+is, because they have never had
+to do that before, even though
+it is in the tax code. The way
+big companies and their very
+well paid accountants are
+interpreting this is that this
+is not only new product
+development, and all of the
+costs that go into that servers,
+salaries, everything, market
+research, also new feature
+development on existing
+products. And so when people
+think about r&amp;d, they tend to
+think, oh, that's when you're
+doing something that's very,
+very experimental, you know,
+maybe you're building a new
+product, and you're also
+completely building your own new
+framework way of doing that. And
+then Okay, maybe in that case,
+all apply for this r&amp;d tax
+credit. This is different than
+that this applies to things you
+are already doing and have
+already done. Because this took
+effect starting January 1 2022.
+And the reason why you're just
+hearing about it now is that
+when Congress made this change
+in 2017, they actually intended
+to revert the change, before it
+took effect for 2022. And so at
+the end of last year, there was
+a lot of conversation in
+Congress about repealing this,
+and reverting section 174 to
+give us the option to expense.
+And that kind of fell through
+the last minute. And so now
+we're in a situation where
+companies who, you know, let's
+say they spent $100,000, to pay
+a developer to build a new
+product last year, plus, let's
+say, another $5,000 and other
+expenses, like servers, and, you
+know, other licenses, maybe that
+went into that, right? So of
+that $105,000. Normally, they
+would just take that off the top
+of their taxable income.
+Instead, that has to be
+amortized, which means it has to
+be spread out over many years.
+And for the first year, you can
+only take 10% of that. And the
+other part of that is now
+profit, apparently. Right. And
+but it's not real profit,
+because you've already spent
+that money. And so it's phantom
+profit. And we're small
+companies, we're not really
+following tax policy. Right. And
+so all of us are finding out
+about this now, and like there
+are founders who are getting tax
+bills that are 466% higher than
+they anticipated. And are
+freezing hiring, laying people
+off. Yeah. taking out loans.
+It's It's very serious. And it's
+just wild that Congress never
+intended for this to go into
+effect. And they have been
+intending to repeal it, but just
+haven't gotten around to it.
+Tyler Tringas: Yeah, got it. So
+just to kind of maybe play back
+some of the highlights here.
+This tax code change that is
+effective as of actually last
+year, right. So it's for this
+year's taxes, it affects most of
+what we would consider a
+software development, right. So
+the salaries of software
+developers the inputs, right,
+AWS bills, basically, if you run
+a SaaS business, a lot of your
+costs, maybe excluding like
+customer support or design, but
+anybody doing, you know,
+software development, a big
+chunk of that we don't know
+exactly how much but a large
+portion of that is going to be
+affected. And instead of being
+able to just write it off on
+your taxes in the normal way
+that you would do with all of
+your salaries, basically, right?
+I mean, most people's taxes,
+everybody gets paid. And that
+gets deducted from profit and
+profits just above that,
+specifically, your software
+development stuff is actually
+going to have to be spread out
+over someone routine is five
+years or 15 years, depending on
+Michele Hansen: Yeah, years for
+us expenses and 15 for
+international.
+Tyler Tringas: So the point
+being
+Arvid Kahl: is crazy, right?
+Yeah, we didn't even have a word
+for Indy businesses 15 years
+ago, like indie SAS businesses,
+that that might be a rather new
+thing comparatively, right?
+Michele Hansen: I mean, the
+problem, right, is that even if
+you can get these expenses
+spread out over five years, is
+the business going to make it
+that long? And especially that
+first year is tough, right?
+Because if we have to split out
+new features and new products
+from maintenance work, so like
+bug fixes, for example? Do we
+all have to be time tracking all
+the time, right? Like, oh, I
+spent, I use the staging server
+for 15 minutes to test this new
+feature. But then I used it for
+15 minutes to work on this bug
+fix. Yeah, we haven't been time
+tracking that. Right. Yeah. Like
+it's an administrative headache,
+too.
+Tyler Tringas: Yeah, just to
+again, put the a little bit of
+context on the impact here. Is
+it fair to say I mean, again,
+we're not accountants, but I
+think you can just sort of
+squint your eyes and look at the
+effect of this, it is a sort of
+show, there's a sort of, you
+know, inverted curve here of how
+the effect is going to happen,
+where the first year is going to
+absolutely suck. But eventually,
+they kind of start to pile on
+top of each other. So if you can
+sort of make it to the other
+side, you won't have such a
+dramatic year over year impact,
+because you'll have previous
+year's cost starting like four
+years from now, you know, you're
+you're not going to be in such
+bad shape, assuming you can make
+it there, of course, but it's
+not like forever and all time,
+every single tax year is going
+to go up by 500%. It just is
+really a cute thing right now,
+like your one year two, that
+could sink businesses, right.
+And it also just makes the
+businesses less profitable over
+time as well, is that the right
+way to think about how the basic
+math kind of works with us?
+Michele Hansen: Yeah, I think
+that's fair. And I think it will
+also change how people run their
+businesses. And, you know, there
+are people who run pretty lean
+operations, and they're
+basically taking out all the
+money at the end of the month.
+You can't do that. And, and so
+it's, it's if you make it
+through the first two years of
+this, then, you know, we'll
+hopefully have figured out a way
+to live with this by that point.
+But considering that Congress
+never intended for this to go
+into effect, and they are still
+intending to repeal it, they
+just haven't gotten around to
+it. I see no reason for us to
+wait for 1000s and 1000s of
+small businesses to go out of
+business and 1000s more to never
+even come into existence.
+Tyler Tringas: Gotcha. And so
+we've got two things that are
+pending, that, you know, we're
+sort of waiting for more
+information that could
+dramatically change this.
+Presumably, it can only get
+better from where it is right
+now. The first one would be
+clarification on what is
+software development? Right.
+You're saying that the IRS has
+not really clarified what that
+is? It's, you know, there's, I
+guess some chance that they
+could provide a narrower
+definition that wouldn't have so
+much of these costs be affected?
+Like, correct me if that's
+wrong. And then the second piece
+being pending legislation that
+would just I'm guessing what's
+on the table? I mean, I think
+you've looked at some of the
+prepared documents. It's just
+all this goes away, or is there
+a kind of new status quo that's
+being proposed in these
+legislations? Is it like switch
+off go right back to 100%
+deduction, or is some other
+squishy or middle ground being
+proposed?
+Michele Hansen: Right, so the
+first one, we are waiting for
+final IRS guidance because
+everyone in Washington expected
+this to be reverted before it
+took effect. The IRS didn't
+issue the full guidance. going
+back years from the time that
+They made this change in 2017,
+it was expected to be reverted.
+And big companies have been
+talking to Congress since 2019.
+sending them letters being like,
+hey, remember that thing that
+you intended to revert before it
+goes into effect? Let's not
+forget that. And they still
+haven't done it. So yes, we are
+still waiting for full guidance
+from the IRS. We only have
+partial guidance at this point.
+And then the other part is,
+there has already been
+legislation introduced in the
+Senate, there are 21 co sponsors
+and counting, that number is
+going up. I just checked it
+again today and it was up. The
+problem is, is that tax bills
+never get voted on on their own
+stand alone. And from what I've
+been reading, and talking to
+people the soonest opportunity,
+barring Congress, understanding
+how urgent of a crisis this is
+for small businesses would be at
+the end of September. And there
+are three bills that are an
+option at the end of September
+to put this in, or it gets
+pushed to the end of the year
+again. Now, the problem with
+this is, first of all, people
+are having trouble paying their
+tax bills right now. So even
+waiting until September, and you
+know, and these bills would make
+it retroactive to 2022. So you
+would get a refund. But most
+small businesses are not in the
+position to float the IRS a
+couple $100,000 or more for six
+to nine months, while Congress
+gets this tangled up and other
+issues, which is what happened
+in December. So we are sending a
+coalition letter to Congress,
+which is a very effective tool,
+a group of small biotech
+companies sent one to Congress
+recently, and then a senator
+mentioned it and a hearing last
+week. So these are very
+effective, sending a letter to
+Congress telling them that this
+is a problem for small software
+businesses. And that this is an
+urgent crisis that needs an
+immediate solution. Otherwise,
+small software businesses will
+start going out of business.
+Tyler Tringas: There's too,
+let's maybe go ahead and pivot
+to what founders, owners of
+software companies can do. What
+would you recommend, you know,
+if you're a US based company
+that's going to be affected by
+this? How should you best take
+action?
+Michele Hansen: Yes, so if you
+are a US based founder, which is
+a citizen or resident of the US
+with a US company, whether that
+is a side project, or a larger
+one that has employees, you
+should go to SSP. alliance.org,
+and sign the coalition letter.
+This letter is going to be
+delivered to Congress before tax
+day. So sign it before April 10.
+Go there, sign the letter. You
+know, all of you know me as an
+indie founder. You don't know
+this, because I don't talk about
+it very much until now that I
+started out working in DC. And
+so I am using every connection,
+I've got to make this happen.
+And to get this into the right
+hands and directly into
+Congress. People are very
+receptive. And again, there's
+people who've been working on
+this for four years now. And it
+hasn't gotten through. So we are
+hoping that by bringing small
+businesses into the
+conversation, we can not only
+help Congress understand that
+this is urgent. But also that,
+you know, this isn't just a big
+business issue, right? This this
+is this is having very serious
+impact. And it's not just for
+software companies, either. It's
+biotechs is manufacturing, small
+and large. And so the thing that
+people can do that will make an
+impact is go to SSP.
+alliance.org, and sign the
+coalition letter.
+Tyler Tringas: And then would
+you recommend they reach out to
+their representative as well?
+Michele Hansen: Not at this
+point. Yeah, so we will be doing
+follow ups as it is
+strategically helpful. Okay, so
+this kind of just depends on the
+situation in Congress and what's
+going on there. So there have
+already been indie founders who
+are in strategically important
+places that have been connected
+with Hill staff and had an
+opportunity to talk about how
+this is directly impacting their
+business because members
+listened to people in their own
+districts or their own states.
+And I just connected a whole
+bunch of people this morning, as
+well. And so if people go to
+the, the SSP, alliance.org, and
+they sign the coalition letter,
+I also ask for your full
+address, which are used to match
+to your congressional district.
+It's a weird thing where it's
+like, I also built the software
+that tells you what people's
+congressional district is. So
+it's quite a exercise in
+dogfooding. Yeah, so. So, yes.
+So then as you know, particular
+areas are helpful. I'm reaching
+out to people individually. You
+know, if you if you call your
+congressperson or use their
+contact form, that is helpful,
+their staff is required. Eric to
+keep tabs on every person who
+calls in or writes in about
+every issue. So that is helpful.
+But you know, if we get to the
+point I, if you go through that
+the the form, then I can also
+connect you with staff as as
+it's helpful.
+Tyler Tringas: Perfect. Okay,
+that's awesome. First of all,
+thank you so much for doing all
+this work. I mean, you're not
+getting paid for this. You are
+obviously incentivized, like the
+rest of us, in terms of having
+this kind of a business is going
+to be affected. But it's awesome
+that you you stepped up and did
+this work. So really, really
+appreciate that. So I think
+maybe let's take a another turn
+here and say, What can founder
+still do from there? Right?
+Okay. So they've done this,
+they've gone to the SSP
+alliance, they've signed it,
+they are standing ready and
+waiting to call at, you know,
+whenever the moment arrives,
+they've done their duty to sort
+of, you know, try and nudge
+Congress in the right direction.
+Let's take two parts first is
+like, what what can you do in
+your business? What would you
+do? What are you doing in your
+business? Maybe Arvid? I'd be
+curious what you think, like
+hypothetically, as well, because
+I don't think you have a US
+based business. But let's just
+say you have a US based SaaS
+business, how would you be? Do?
+You do have?
+Arvid Kahl: My little? Yeah, but
+it's not that effective. Because
+it's, you know, I run it by
+myself. And it's not that
+profitable. So no problem for
+me. But you know, it's still a
+it's not an issue that I'm
+concerned with. One of the
+things that blows my minds about
+this two things. First off, the
+fact that in the founders now
+have to deal with US law, like
+the fact that we, we need to
+impact legislation, as people
+who are way too busy to impact
+anything but their own business
+and the market that they're
+trying to serve. It's crazy.
+Like, we don't have a legal
+department in our businesses,
+right? We don't have a, like a
+public relations department, or
+anybody who could deal with
+these things while we build our
+business. It's now deal with the
+tech stuff, or deal with the
+business both is probably
+problematic or overwhelming for
+people. And the other thing is
+the only bank that could have
+helped us with this, or US based
+founders just exploded two weeks
+ago. So that's a problem they
+get. It seems to be this perfect
+storm of things that are
+surprising to people, even
+though now in retrospect, we
+look at it and we think, well,
+we should have done something
+about this much earlier. Right?
+It feels like it's all coming at
+us at incredible speed out of
+nowhere. And it blows my mind
+and the fact that now we have to
+deal with this as founders. That
+is bad. Now answering your
+question. Honestly, like going
+into this recession, I've been
+thinking a lot about like
+building a war chest, I did not
+think about building a war chest
+to be able to pay taxes that I
+don't need to pay. Like it feels
+like one of these things. Where
+bootstrap business is in its
+leanness and in its agility can
+usually use its revenue, its
+earnings, that it has possible
+earnings that that go beyond
+just paying for expenses to
+invest in itself, it turns out
+that investing in yourself now
+includes putting money aside for
+these unforeseen circumstances.
+So in my own business, which is
+a Canadian media business, I am
+now saving money, knowing that,
+you know, it's not the same
+situation, and it's probably not
+going to happen here in Canada,
+but I'm not thinking about I
+need at least a tiny little war
+chest in case there is a 5x tax
+burden on me in the future,
+which is unfortunate, because
+that is money that could be
+spent on many other things that
+are not just hoping that other
+people are less incompetent. You
+know, that's kind of what this
+is about, for me, like tax tax
+law should be handled in a
+competent way, which it hasn't
+been. And that's a problem. But
+yeah, war chest. That's what it
+is like going into any kind of
+economic downturn. Usually, you
+need some kind of financial
+liquidity. And it turns out
+Bucha businesses are now at a
+slight disadvantage compared to
+VC funded businesses that have
+or I don't know, I mean,
+fortunately still have after the
+explosion of SBB, some kind of
+money that enables them to pay
+for this. Yeah, I would like to
+hear what, Michel, what you're
+doing in your business to deal
+with this, because this sounds
+like a terrible threat, really,
+to the existence of a SaaS
+business.
+Michele Hansen: Yeah, and before
+I get into that, I want to note
+that this likely impacts
+businesses, even if you aren't
+profitable on a normal
+accounting basis, because unless
+that business is just sitting
+there and you only occasionally
+fix a bug or reply to a support
+question, but you don't add like
+if you add any new features, if
+you're doing any improvements to
+it, though, all of that is r&amp;d
+that is covered under 174. And
+so you could be losing money
+probably on a on a re Your
+accounting basis and still owe
+taxes.
+Tyler Tringas: Yeah, even later
+are
+Michele Hansen: exactly it's
+artificially inflating your
+revenue.
+Arvid Kahl: Yeah, that's
+important to know. And maybe one
+thing before, before I throw
+this back at you, like, if if
+you are a founder that's not
+based in the United States at
+this moment, and you're just
+waking up for the last 10
+minutes of conversation that
+didn't really concern you, it's
+still important for you to take
+action and just talk to people
+about this, who may not be aware
+of this, because it's not just
+founders who may not be aware of
+this from from me following
+Michelle, your, your podcasts
+and everything you've been
+talking about. It's also
+accountants that are
+occasionally not aware of this
+change in the States. So if you
+are if you are a foreigner, that
+or if you are a foreigner that
+knows foreigners in the States,
+reach out to them, tell them
+about this, hopefully, they know
+about this already, and have
+dealt with this or ask the
+accountant what's going on. But
+people that there's a lack of
+awareness on many levels here,
+and we should do our best, even
+if we're not directly affected,
+to help our community because
+it's what you said, we're not
+lawyers, we're not accountants,
+this is not legal advice. But
+we're founders who want to help
+our founders succeed. They're in
+a in a peer group, right? We
+want them to not be bankrupt. So
+it's now on us to help spread
+the word. Really, I'm glad
+you're on the show and talking
+about this, even though this is
+boring taxes. Well, it's it's
+life threatening boring taxes,
+right? This is something it's
+getting me worked up, that's
+usually happening, maybe, then,
+let's talk about how you stay
+calm. That's a wonderful segue.
+Michele Hansen: I want to note
+that there are a lot of founders
+who don't live in the US, but
+have us LLCs have USC corpse.
+And unfortunately, you're not US
+citizens or US residents, you
+don't have the ability to
+petition Congress for a redress
+of grievances. But I know you're
+there. And I'm thinking of you.
+And I know that we are fighting
+for ourselves and for you as
+well. But I recognize that there
+are a lot of people who are
+paying a much higher tax bill in
+not their home currency. So
+probably also paying exchange
+fees in the course of that, who
+are impacted and don't really
+have any recourse except for
+spreading the word. And so and
+that is incredibly powerful,
+powerful, because trying to
+drive 1000 signatures on this.
+And so that is very helpful in
+terms of staying calm. Oh,
+sorry. Go ahead.
+Tyler Tringas: I actually like
+just one practical question. I
+want to see what y'all think
+about this. I mean, how would
+you evaluate? I don't think we
+want to give anyone advice on
+this topic, because now the
+topic I'm about to bring up,
+because we're now also combining
+tax and legal as well as sort of
+business and maybe debt
+considerations. But how would
+you? How would you think through
+yourself, you know, it seems to
+me like, as things go, the
+likelihood of this getting
+resolved on a one to two year
+time horizon seems pretty good,
+right? You've got bills in
+Congress, you've got bipartisan
+support, you've got big
+companies and small companies
+all aligned on the same page,
+you have, you know, alliances
+really working on this? You
+know, it seems to me, like I
+would say, probably this gets
+resolved on some longer time
+horizon. And the main question,
+it doesn't get resolved fast
+enough? How would you think
+through the question of, let's
+say, I need to take out a loan,
+or loan the company some money
+or even raise some capital, I'm
+thinking about this right now,
+should we be creating some sort
+of product for these companies
+to raise some sort of short term
+one year capital or something,
+to plug that gap? On the basis
+that probably in the next one to
+two years, you're going to get
+it reversed? And you'll get a
+big tax refund? And you just
+need to bridge that gap? How
+would you think through making
+that bet as a as a founder, if
+you didn't have the cash on
+hand, if you didn't already have
+the war chest to just cut the
+check and be mad about it, you
+know, like you actually had to
+come up with the money somehow
+or go out of business?
+Michele Hansen: I think that's a
+very personal decision for
+people, especially those who are
+in that position of receiving
+the higher tax bill. Again, I
+haven't gotten mine yet. Like I,
+I actually need to send my email
+and accountant this week about
+it. And it's creating great
+uncertainty for me. And I know
+that we run our business quite
+conservatively. And so I am
+hopeful that we will be able to
+stomach that for this year.
+People who have been running
+leaner operations, which is most
+small businesses are in a state
+of panic. And I think I guess I
+first have to say that I don't
+it's difficult to put myself in
+that mindset, right, of someone
+who was fighting for them. Life
+from my position. I think also
+that, you know, the economic
+work environment we are in
+access to capital is difficult
+for most companies right now
+Arvid mentioned SVB, right. I
+mean, like, there's so many
+founders, that was the only bank
+that would give them a mortgage.
+Right? I mean, it's hard enough
+to get banks to work with small
+software businesses and small
+software founders during normal
+economic times. And so if there
+are people who have capital, and
+that is a an investment decision
+that they're able to make, I
+think they should explore
+whether that makes sense for
+them is something they could
+pull off. It's a very different
+kind of hedge to be sort of
+betting on congressional action.
+It's putting founders in a very
+difficult position, right? It's
+do I use a home equity line of
+credit? Do I use my credit card?
+Like, how long is this going to
+take? How long do I eat the
+interest from this? Right? And
+will I get it back from the IRS
+with interest as well? It
+creating some very, very
+difficult decisions for people.
+Tyler Tringas: Cool. Okay. That
+makes sense. Yeah. Yeah. I mean,
+I think this is sparked a very
+interesting thought for me,
+which I hadn't occurred. And so
+we started talking that this
+might be something that I can
+potentially help with, with our
+fun, maybe, oh, yeah. I'm going
+to pull that thread, maybe on
+Twitter and see if there's a
+couple folks who'd be interested
+to explore it. Because, you
+know, I mean, at the end of the
+day, you're talking about
+fundamentally sound businesses,
+right, that are going to take a
+short term, you know, massive
+cash flow hit, right. It's a
+liquidity crisis, just like all
+the other ones we've been
+dealing with, right? Where
+fundamentally, operationally
+good businesses might need to
+come up with cash, they don't
+have on a short term basis. And,
+you know, there are levers you
+can pull. Yeah, there are
+leverage.
+Michele Hansen: Like, these are
+sound businesses. They just, you
+know, this is gonna be a crisis
+for three months. You know,
+yeah. And we just need to fund
+them, you know, the restaurants
+like they can survive. You know,
+we just pay them for three
+months, right? Yeah, it's a
+little bit similar, right? These
+are otherwise sound businesses
+that only because of some, just
+just a bit, I'm struggling to
+describe it without swearing.
+Yeah, ugly. situation.
+Businesses, you know, are in
+this difficult position.
+Tyler Tringas: Yeah. Okay, I'm
+gonna, I'm gonna step right up
+to the line here and give some
+some advice on how to interact
+with your accountant, which is
+not the same as actual tax
+advice. But something I think,
+is really valuable. I remember I
+heard, I think Nick Huber made
+this point really eloquently,
+which is that your accountant is
+not a traffic cop enforcing the
+IRS rules on you, although a lot
+of them act that way. A lot of
+them basically, like take the
+rules, and they try to like, put
+onto you like, here's exactly
+what you have to do. If they
+come to you, and they say, this
+is exactly what you have to do.
+And you're like, well, that's
+gonna put me out of business.
+Right? Make sure that you take a
+moment to turn it back around to
+them and say, What can we do?
+Explain to me like, what are the
+legal, the legal and totally
+like, you know, acceptable, but
+what options do we actually
+have? Can we file for an
+extension? Right, that would at
+least give me another six months
+of breathing room or something
+like that, just make sure that
+you don't let because I think a
+lot of people have this
+relationship where, you know,
+they it kind of feels like their
+accountant works for the IRS,
+and is there just like telling
+them what to do? And remind them
+that they work for you. And so
+of course, you don't want to
+override them. You do want to
+follow the rules, but like, have
+that last layer of conversation
+to say, this is a really big
+deal for me? What can you help
+me try to figure out if there's
+any options that apply to my
+specific situation, and make
+sure you have that last layer of
+conversation with them? Because
+there may be some things like,
+especially if we think there's
+at least some probability this
+gets fixed in the future, things
+that can just simply delay the
+actual cash needs for this or
+that can parse it out over
+multiple years. So you only have
+to pay a fraction again, like
+this is not advice. I'm just
+saying, Ask these questions.
+Have this conversation with your
+accountant in that moment?
+Michele Hansen: Yeah, I mean, so
+Tyler Tringas: you can just let
+me dangle myself out there on
+that one.
+Michele Hansen: So I want to
+agree with that. But first, it
+is my understanding that even if
+you do file an extension, which
+we have, you still owe the taxes
+in April. And so if you don't
+pay them, then you owe them plus
+penalties. And again, I think to
+your point is You may make a
+calculated decision that is, I'm
+going to pay the penalties for
+this year, for what what would
+my taxes have been this year?
+What are the penalties, but this
+is not tax advice. But there are
+options right there and asking
+your accountant to lay out all
+of your options, and asking them
+to think outside the box. And
+you were allowed to do that, you
+know, somebody told me, once you
+were allowed to optimize your
+taxes, it is not against the law
+to optimize your taxes, you
+cannot evade taxes, you can't
+change your software developers
+title to I don't know, like
+window cleaner, and then just
+expect it to not have any tax
+issues. That's fraud. I'm not a
+lawyer, but that's fraud. So but
+it is not, it is not against the
+law to optimize your tax
+situation and work with your
+accountant to optimize your tax
+situation. The difficult thing
+for businesses now is that 2022
+has already ended. And so if
+there are optimizations that you
+could have done, there aren't
+going to be as many options, but
+like the IRS has payment plans
+there like there are, you know,
+there are options, right. And I
+think, you know, in terms of
+getting into steps that people
+can do, as they're looking at
+this, I think that's the first
+one is have a conversation with
+your accountant, and work
+through all of the options with
+them. From what it looks like,
+to me, it's very clear that
+every company that has these r&amp;d
+expenses, the software
+development expenses, chiefly
+among them for for folks like
+us, there will be a higher tax
+bill than than we had
+anticipated. And so as I thought
+about this going into this year,
+I mean, notwithstanding my own
+other personal tax hairballs
+that I'm sorting out, you know,
+the, the first thing was, Okay,
+you know, what are the plans we
+have for the year? And how can
+we scale those back, right, like
+we went into this year, seeing
+that a bunch of big tech
+companies were laying people
+off, and we were like, hey, you
+know what, we're super busy.
+Maybe this is a good time for us
+to hire another engineer, like a
+lot of good people have just
+been laid off people, we know.
+That conversation has gone,
+right, during normal years, if a
+friend of ours is holding our
+conference, and they asked us to
+sponsor, usually I say, yes.
+Brand Marketing like that is not
+happening this year. And so
+that's the first thing is just
+kind of looking at plans and
+looking at what are the most
+obvious places to cut. The
+second one is the more sort of
+really looking at places to cut,
+right, which is a common thing
+that you do going into
+recession. So for us, we pulled
+back on all non core spending,
+which I mean, unfortunately, for
+us, like meant, like we're not
+participating in conflict for
+and we've been participating in
+the other funds like but this,
+we just can't. It also means we
+are you know, poring through all
+the services we're using, and
+like, you know, we were paying
+data dog $1,000 A month, even
+though we had planned to get rid
+of it six months ago. And it was
+like, Alright, that is getting
+ripped out. Right now, that bill
+is no longer happening. Right?
+And so just going through line
+by line, what are all the things
+we spent money on this last
+year? You know, we don't have a
+formal budget, I just kind of
+know all this in my head, which
+is probably not the commerce way
+to run it. But while you're
+sending your accountant, all of
+your information for last year,
+and figuring what you owe in
+taxes, that's a really good time
+to look through all those
+expenses and be like, Did we
+really need to be spending money
+on this? Do I know what this is?
+Like? Is this is this a core
+expense? Like is this a cost of
+goods sold expense? Do we have
+to do this in order to provide
+our software? Or is this
+something that we can cancel?
+Can we use something cheaper is
+this and just kind of really
+taking a rough look through your
+budget, but again, I mean,
+there's, you know, I think
+there's, it's I don't want to
+downplay that sometimes,
+budgeting advice when people are
+in a massive financial crisis
+can feel a little bit like
+telling people to stop eating
+avocado toast in order to save
+for a house, right? Like, you
+know, if you if you need
+$500,000 Like not paying $5 a
+day for toast is like not going
+to cut it right and so I don't
+want to downplay the, the series
+of madness that puts us and you
+know, Arvid to what you said
+earlier about, like having a war
+chest like, I mean, I like I
+mentioned in my book, how I
+manage our customers like like a
+portfolio and that's how I
+prioritize what kind of
+Marketing I'm doing what kind of
+customers I'm talking to, what
+I'm pulling out of that is and
+looking at all of our customers
+saying, Okay, we've got 20% real
+estate, this was a portfolio,
+that would be too much. Let's
+purposefully move into other
+sectors, right? Not necessarily
+we fire all those customers, we
+love our real estate customers,
+but maybe having more in other
+sectors would be helpful, like a
+portfolio. Right. And so, for
+me, personally, I have done a
+lot of work for years now to try
+to prepare for recession. And
+what I did not prepare for was
+boneheaded tax policy. That that
+we get charged taxes on
+something that Congress doesn't
+even think they should be
+charging his taxes on. Like,
+yeah, like, just the level of
+insanity is mind boggling. And I
+just think, you know, you're
+right, I'll calm down. Okay. You
+know, the more you think about
+it, the more frustrating it
+gets, which for me, I think, you
+know, you get to a certain point
+in the business, kind of, as you
+were saying, Tyler, that you
+have to ask yourself, Is this a
+problem I need to be worrying
+about? Is this a problem I need
+to be handling myself? Can I pay
+somebody to worry about this and
+take care of it for me? Right.
+And I feel like that was, it's a
+very big stage for a lot of
+founders to go through. For most
+people, you have your accountant
+to worry about this for you.
+Maybe there are other people in
+the community that you know,
+that you can bring in, maybe you
+have a good relationship with a
+bank, maybe Tyler pull something
+together, right? Like, maybe you
+have options to maybe your
+accountant knows of some
+options, right? If you're having
+trouble paying this, you have
+them. And also, you can sign the
+letter to Congress. And if there
+is more that you personally need
+to do on this, I will tell you
+otherwise, you can offload that
+to me. I'm taking this on as a
+side project until it's fixed.
+I'm in the weird position of
+being the indie founder that
+knows a bunch of people in DC
+and never thought those things
+would ever interact with one
+another. And we'll take it from
+there. Right. But spending all
+of your time thinking about this
+and trying to parse out the
+legislative chests around it
+like, isn't, it's not a
+productive use of your time. And
+even when I start started
+thinking about doing this as a
+as a project, I was like, Do I
+really need to be the person
+doing this? Right? Like, it's
+like having arguments on the
+internet? Do I need to be a
+person in this argument? Do I
+have to be like, am I
+specifically uniquely the person
+who has to make this argument?
+Or can I go on
+Tyler Tringas: sometimes the
+answer's yes. Yeah.
+Michele Hansen: Times the answer
+is yes. That which is what I was
+kind of like, well, yeah, I
+guess I do have to do it. I
+don't have to.
+Tyler Tringas: Yeah, that's
+perfect. Exactly. I think I
+would sort of put a bow on that.
+That part as like, you know, if
+you zoom back out, man, I really
+feel for for founders right now.
+And I mean, including myself in
+that moment, as well, because
+like, there's just one thing
+after another, and you know,
+whether it's you know, it's
+COVID, and then it's interest
+rates, and then it's sVv
+explosions, and then it's crypto
+busts, and then you know, it's
+just there's always some crazy
+thing going on, that feels like
+it's throwing kind of
+radioactive waste in your in
+your path. And I think it's
+important to remember that like,
+this is kind of now part of the
+game, right of being an
+entrepreneur is like you can
+sort of, you know, like, unless
+you're gonna step up and take
+action, like you have, your
+options are sort of like wail
+about it and lose sleep or just
+like take action, right? And
+building mental and business
+resiliency to these sorts of
+things. Now just feels like
+it's, that's necessary. That's a
+piece of it alongside you know,
+the risk of, you know, that you
+take as like just fundamentally
+being an entrepreneur, right, of
+not having a steady paycheck and
+not having a pension or 401k.
+Like all of those risks that you
+already took on. You just this
+is another one now that you have
+to build that toolkit for
+dealing with these sorts of
+things. And I think like, you
+really hit on the one that I've
+been preaching a lot, which is
+to really focus on what's in
+your control and what's not.
+Right and with a lot of these
+external things, actually, like
+the vast majority of it is out
+of your control. You know, at
+the end of the day, like it
+sucks, not trying to minimize
+how annoying it would be to have
+your business completely nuked
+by some random change in the tax
+code that would be devastating
+to people. But a huge percentage
+of whether or not that happens
+is out of your control. Right?
+You know, you you can do your
+thing, you know, you can, you
+can sign a petition, you can
+call your representative, and
+then all you can really do is
+folk get back to focusing on
+your business, right? And so
+really just continuously
+reminding myself, like, focus on
+what piece of this is, in my
+control, which could be how can
+I, you know, create some Plan
+B's right, how can I line up
+financing? How can I maybe
+factor my invoices? How can I,
+you know, make a plan for if I
+have to lay off staff really
+fast? How can I, how can we pull
+forward revenue with switching
+people to annual plans, right,
+there's a long list of things
+that's in your control. And then
+there's a much, much, much
+bigger list of things that are
+completely out of your control.
+And so really, just like zeroing
+in on, the difference between
+those two, I think, is one
+really important way to stay
+calm through this sort of thing.
+Arvid Kahl: One thing that
+really, really stands out to me
+here is that big old list you
+just rattled down, like with all
+the things you could do, like
+many of which, any given
+founder, probably only what
+think about 50% off, right? One
+thing that really stands out to
+me is what we're currently
+doing. So we're building
+community awareness around a
+topic and their own potential
+solutions to that topic. So if
+there's one thing that a founder
+could do, is go into their
+founder community into their
+entrepreneurial peer group and
+talk to people about this. It's
+not just on you to solve your
+own problem at this point, these
+things are so that could
+potentially disastrous that you
+probably should talk to your
+peers and figure out what they
+are doing, like front loading
+revenue. That's something that I
+hadn't thought about, just until
+this point, like I could send
+out an email to my permanent
+line customers. If I had this
+problem, I don't really because
+war chest, right. But if I if I
+needed to, I could say well get
+the yearly plan, there is a
+little book keeping issue
+around, like for all SAS
+businesses, you can support this
+if you want, by getting I don't
+know, like, get it for 80% 75%
+of the price, whatever you do
+for your annual plans that would
+keep my business afloat until
+this is resolved. This is
+something you could do. But like
+you told me this 30 seconds ago,
+before that, I wouldn't have
+thought about this. And only
+because I'm in this kind of
+communicative communion with you
+do I know about so if you go to
+your community, listen to what
+other people, your peers, your
+other founders are doing and
+trying to figure out, that is
+something that you can do that
+is actually actionable for your
+own business. And I really liked
+that I'm in that's what our
+community is here for helping
+each other on this. And that
+also puts you back into the kind
+of into agency, now you can do
+something that will give you
+more awareness and knowledge
+about, you know, the actions you
+can take. And that's that's kind
+of that gives, that's it's still
+urgent, but there's less self
+doubt, less anxiety, you know,
+like we, this is important at
+this point to separate the
+urgency from the anxiety and
+from the fear that we have of
+not making it and the potential
+fear of bankruptcy and all that,
+that is still possible. But it
+won't help you to be afraid of
+this, what helps you is to focus
+on the things that you can do.
+And if this is also a very calm
+approach, right to try to stay
+calm on an emotional level, but
+not complacent that these are
+two very distinct topic. So two
+very distinct things, you still
+need to take immediate action,
+but it shouldn't be focused on
+panic, it should be focused on
+being focused. So yeah, that's
+what I would suggest this, like
+find your community, talk to
+people right now today about
+what they are doing, and then
+try to implement these things in
+your business as well.
+Michele Hansen: And I mean to
+that, right, getting to that
+headspace where you are able to
+calmly look at all of your
+options to remember that you
+have options is so important,
+right? I mean, when when you get
+a surprisingly high bill from a
+tax authority, which I mean, you
+know, I was just telling an
+accountant a couple of weeks ago
+on a very different issue that
+that's a kind of emotional
+trauma I like to minimize in my
+life it's, it's, it's natural,
+right to feel panic about that.
+Right and, and I think it's Okay
+to feel that and then the, the
+next thing that we have to do in
+order to move into that calmer
+headspace is to remember that,
+that our own bodies need to feel
+safe as well. And this is a
+really key thing for it that if
+you have a meditation practice,
+if you run if you do anything
+that physically makes you feel
+Okay in your own body, that is
+very, very powerful for finding
+a sense of calm during a time
+when you may not initially feel
+or remember that you that are
+there are things you have
+control over and that there are
+ways that you have options. And
+so, prioritizing those things
+for you, whatever they are
+giving yourself that space to
+come down from the immediate
+cortisol overload of stress, and
+find a way to just sort of bring
+the temperature down just a
+little bit, right? I'm not going
+to tell you to breathe, because
+if you tell people who are
+panicking to breathe, they will
+panic even more. Yeah. But I
+generally calm down your body
+first. And then remember, you
+have options, you can outsource
+this problem, right to your
+community, to people you pay to
+solve this problem for you. You
+have options, you have gotten to
+this point, because you are a
+smart and capable person who is
+able to recognize that they have
+options and can solve problems,
+you have probably solved harder
+problems before in your life and
+in your business. And you will
+solve this one.
+Tyler Tringas: Amen. I want to
+click that and just listen to it
+every morning.
+Arvid Kahl: Yeah, that that was
+that would be a great
+Michele Hansen: affirmation,
+just affirmations for
+entrepreneurs. Well, it is
+important, right? Hard Things.
+Arvid Kahl: It's so central,
+central important thing for our
+own mental health to stay aware
+of our capacity to find
+mindfulness. And like Tyler and
+I were trying to build the calm
+MBA, right? If you're trying to
+build something that teaches
+people the approach to building
+a calm business, and I have this
+feeling that we should put a
+mindfulness chapter somewhere
+into into the process, like not
+just meditation, but also just
+being aware that you are capable
+of solving problems and maybe
+doing affirmations. I mean, it
+may sound funny to talk to
+yourself in the mirror, but it
+has a psychological effect. And
+in a moment where everything
+around you is like on fire,
+maybe taking a minute to calm
+yourself down is actually an
+executive business decision that
+you should be making. Right?
+It's not just not just a
+personal thing, it will impact
+your business. So I guess we are
+now at the point where we can
+talk a little bit about the calm
+MBA, which is the whole reason
+that we started this podcast to
+give people the opportunity to
+follow along as we build the
+thing that will teach them to
+stay calm, when things are
+exploding and to be calm in all
+other situations, which
+apparently are few and rare in
+nature. But we've been we've
+been recently discussing how we
+should structure this because we
+want to get this out as soon as
+possible. Obviously, the time is
+now. Right. It's like we need to
+give people the potential tools
+for building these businesses as
+soon as possible. So they don't
+run into these explosive
+situations. So Tyler, would you
+like to discuss a little bit
+what we've come up with here.
+And I would like to hear
+Michelle's opinion on this to
+being a person who is very calm
+and building extremely calm
+business, you know, it's kind of
+nice to have somebody on that
+would be both a great person to
+help us with the project and
+just a voice and other opinion
+giver outside of it.
+Tyler Tringas: For sure, yeah.
+So Michelle, just to briefly
+recap, in case you're not 100%
+up to speed on this, you know,
+we have this code name, comm MBA
+project we're working on, the
+basic premise is to get some of
+the principles of building a
+calm company and developing
+yourself as a calm founder to
+folks a little earlier on in the
+lifecycle of entrepreneurship,
+right. So at the time were
+they're being bombarded with,
+you know, all of the stories of
+how to build a rocket ship and
+go raise venture capital and go
+to the accelerator, there's
+actually something else that
+they can start to see as a real
+path that they can sort of
+follow. And I think we have a
+really good sense of the general
+principles and things that
+should go in there. The big
+question has been trying to
+figure out what, how to really
+put that into a package that
+makes sense. And that isn't
+trying to completely boil the
+ocean, right? So this scope
+makes sense. And the product
+makes sense that we can actually
+do it. We had originally kind of
+landed on the idea that the
+first product should be more of
+a self paced course covering a
+variety of topics targeting very
+early stage, folks. And
+actually, so we usually do shout
+outs at the end, but I will just
+shout out Kelly wild Miller, who
+is an entrepreneur who posted
+about doing instead of doing a
+multi week long course, breaking
+the topic up into a series of
+short workshops, like 235 day
+workshops that would be
+intensive and iterate on. So
+Arvid and I were talking about
+that this week about whether or
+not we should potentially do
+start there as a starting point,
+which would be I guess, the idea
+would be a sort of, let's say,
+plus or minus three day
+workshop, you know, remote
+friendly, and really, I think I
+would think of it as like folks
+at the starting line. Right, so
+real like workshopping ideas,
+trying to think about what is a
+calm company and how that map as
+to their vision of, of building
+a company, initial reactions to
+what that would be as a product,
+especially, I want to also like,
+I want you to filter all of this
+stuff through the lens of the
+whole process, you just went
+through with deploy empathy,
+right, in terms of trying to get
+some really cool principles into
+the brains of a similar
+audience, you know, what is your
+gut reaction to, to starting
+there? Or just any reactions to
+that so far?
+Michele Hansen: So my first
+reaction is that I love the idea
+of it. I, so three years into my
+business, I did not feel like I
+was competent enough to be
+running the business I already
+had. And I went out and got an
+MBA. Because that just felt like
+the only option to do right.
+And, and so I love that idea of
+making that more accessible. You
+know, I mean, I, like I went to
+a state school, so it wasn't
+expensive, but it was still like
+$35,000. And not everybody is in
+the position to pay that,
+especially when you are at the
+beginning of building a
+business, or has a university
+nearby that offers business
+courses. And, you know, I think
+for me, quite frankly, you know,
+I described myself as being in a
+hibernation period, before I
+took on all of this tax stuff.
+And I was just dealing with God
+do things and whatnot. And I
+felt like I was in this time
+where, you know, the kind of,
+sort of bootstrap education I
+had, I had sort of done
+everything that I had talked
+about, but then the NBA, like, a
+lot of it doesn't kick in until,
+you know, 1020 50 million in
+revenue, right. And so kind of
+in this weird in between state
+and thinking a lot about how we,
+as entrepreneurs can like keep
+learning. And as I started
+talking to people about this,
+one thing that that came back,
+and one thing that I loved in my
+MBA was learning from other
+people. And so I love that
+you're thinking about it as a
+workshop, because I think a lot
+of people, whether it was, you
+know, a prestige Ivy MBA, or,
+you know, sort of a more local
+one, like mine, right, like, or
+a calm MBA is that the people
+you meet are a huge part of the
+experience. And I think that
+that is learning, learning from
+other people and their
+experiences, or even just what
+they're thinking about, right?
+It's so important. And it's also
+so energizing, to be around
+people who are passionate about
+the things that you are
+passionate about. But they're
+passionate and like slightly
+different ways. I mean, this was
+my favorite part of college,
+right? Like was, you're just all
+of a sudden around all these
+people who are interested in
+something similar as you when in
+your daily life, you don't
+really have anyone who is right.
+And so that is just that is so
+motivating and inspiring and
+success creating on its own. And
+I think that that kind of
+cohorting people in this
+and having it be workshops is I
+think that's totally the way the
+right way to go about it.
+I think with people I think I
+think there's kind of a
+challenge in serving people who
+don't already have a business
+because they maybe don't have
+the money to go somewhere to do
+it, right? And then it's like,
+well, you could do it remote.
+And then how do you make sure
+that they're still getting those
+connections in that environment.
+And I mean, we've just kind of
+had three years where basically
+everything was remote. So I
+haven't figured it out. But I'm
+sure like a lot of people have
+spent a lot of time trying this
+and testing it and figuring it
+out. And like there's people you
+could talk to who could tell you
+how to do this, right. I think a
+one day Saturday workshop,
+though, is what I would do.
+Because if you're thinking that
+people are working full time,
+and less like sure, it's
+unlikely that they would be able
+to do it and there's a lot of
+Executive MBA programs that are
+meant for people who are working
+full time. And usually those are
+like half day Friday all day
+Saturday once a month or every
+like two weeks kind of a program
+but oftentimes once a month and
+I think it's worth looking at
+how they structure it they
+usually structured as being in
+person well guess before COVID
+and talking about but I would
+encourage you to go that
+direction of like one Saturday a
+month. Here's like and we're
+gonna do these like two modules
+and like, you know, this is like
+this is what we're doing and
+you're expected to be active on
+slack you know, during the week
+and during other times and like
+you know what not like you know,
+I don't know there's tons of
+things you can do right you're
+expect to have a random Coffee
+Chat with at least one person
+once a week for an hour right
+and like you don't have any
+talked about here's your topic
+or something. But I think I
+think baking community into it
+from the very beginning and
+learning from other people is,
+is a huge part of the value of
+any education program.
+Arvid Kahl: Wow, that is
+extremely helpful. Thank you so
+much for that, I had considered
+that we were likely going to be
+serving people who already have
+a job. And we would have to do
+this like in the evening or
+something, but pushing onto the
+Saturdays and then giving people
+time during the week to fit
+whatever they need to do in
+there. That is a very good idea.
+Thank you so much, Michelle,
+you're awesome. Did you know
+that was extremely helpful,
+because we want we want this to
+be something actionable, right?
+We want to get people to
+actually do something and get
+over whatever finish line there
+might be. Right? That depends on
+how much we can offer. And
+that's kind of where this this
+whole question comes from. It's
+a question of scope. Like, who
+are we talking to? And how far
+do we take them with this?
+Because it could be the whole
+journey, we could like, do the
+whole thing where it's like an
+accelerator, plus some kind of
+alumni network or whatever. But
+we're trying to be as impactful
+as possible without being over
+boarding. Right, Tyler? Is that
+right?
+Tyler Tringas: Yeah, no, that
+makes a lot of sense. I like
+that a lot. This is just,
+there's so many ways you can go
+with it. What is Michelle, what
+is your gut instinct on, like, a
+pricing structure for something
+like this, that included virtual
+community, it was remote, and it
+was, you know, either one day
+or, you know, pick whatever kind
+of feels right? Right?
+Obviously, if it's one day, a
+month for a year, that's a
+different price than one day, a
+month once? But like, pick a
+number out of a hat, like what
+what is your like, first
+reaction to how, how this should
+be priced?
+Michele Hansen: Um, my, my gut
+reaction is that look at the
+competition and how they price
+it. And generally, that's at
+least a semester commitment at a
+time. I might encourage you to
+however long the program is
+whether that's six months or a
+year, right? I would encourage
+an upfront commitment from the
+very beginning. And so whether
+that's $2,000 $5,000. Like, this
+is an upfront commitment that
+people are making. Now, of
+course, they'll need an ability
+to try it at some point. I mean,
+you know, that, you know,
+pricing plans and all that kind
+of stuff. Right. But like, I
+don't think it should be
+something that you can kind of
+turn on and off from a given
+month, right, it should be
+expected that, like, you're
+joining this, you know, for
+example, you're joining this
+cohort, this is your group,
+like, all of these people have
+committed to being here for the
+next six months. You're
+committing to being here for the
+next six months. And, you know,
+having to make a financial
+commitment is, I think, part of
+how people incentivize
+themselves to keep showing up.
+Like that, I mean, with
+everything, right, like, this is
+your business, you know more
+about it than I do. You're gonna
+learn more about it than I do.
+And so like, you know, take that
+with a grain of salt, right?
+Like, like, I'm not an expert in
+building education businesses.
+So
+Tyler Tringas: yeah, no, we're
+just like, it's just, this is
+all, like, sort of calibrating
+it's kind of like the it's a
+very The reason we started this
+is it's a very, very tricky,
+interesting product is ation
+problem, like the actual content
+is not actually the problem. You
+know, we've both written about
+it enough that like, we know
+what we want to get into
+people's brains. It's just, it
+is kind of tricky to figure out
+how to go about that. So that's
+what we were. We're sort of
+continuously playing with that
+in public. So this is great. I
+love it.
+Arvid Kahl: So much for being
+part of this, this discussion
+and our exploration of the topic
+in public as well, that that is
+really, really helpful.
+Tyler Tringas: What do you
+think? Should we wrap it up
+here? We've gone over, it's time
+Arvid Kahl: to get back to
+entrepreneurial activism, and
+get people excited to sign
+things and talk to people about
+it. Right. I think like you
+already had your show. Shout out
+Tyler. Michelle, do you want to
+shout out anybody who's been
+helpful supportive with your
+whole section 174 situation or
+anybody else? Would you like to
+shout out? Anybody else? That's
+up to you as well.
+Michele Hansen: There have been
+so many founders who have jumped
+on board and been so open with
+their their time and the
+struggle that they're going
+through about section 174. I
+mean, if I started to list them,
+I would forget someone so I am
+not going to do that. I will say
+on the point of finding a sense
+of calm to the point where you
+can start to make decisions from
+a physical sense. Angela Parker,
+you probably remember her from
+from Mexico City. Angela is a
+fantastic person. She's a coach,
+and you guys should have her on
+but if people are really finding
+themselves struggling with that
+she really understands the
+somatic and physical side of
+finding calmness and is totally
+someone you should talk to.
+Tyler Tringas: Yeah, on Twitter,
+she's Angela Parker. Fit. Just
+that's how I spell. Yeah.
+Awesome. Yeah.
+Michele Hansen: I think so.
+Yeah.
+Tyler Tringas: I think so. Yeah.
+Yeah. And, yeah, and shout out
+SSP alliance dot.org.com, which
+one.org
+Michele Hansen: SSP. Alliance.
+org dot, small software business
+alliance. It's not actually like
+an organization. I just needed a
+domain name. And that sounded
+great. It's me. And I'm liaising
+with DC to hopefully get this
+fixed. And so SSP alliance.org,
+if you're a US founder with a US
+company, signed the letter. It
+is it is going to go directly to
+Congress and it is the most
+impactful thing you can do. Even
+if you're only the point right
+now, where you're you're feeling
+unsure about what the impacts of
+174 will be. That is helpful
+because it's causing uncertainty
+in your business. So go there
+and sign it. And thank you.
+Arvid Kahl: Yes. And even if
+you're not affected, talk to
+people encourage them to do
+something about it. This is a
+this is a community effort to
+protect our founder community
+from bankruptcy and upheaval of
+lives like this is the least you
+can do is to share this so that
+others who are maybe not aware
+of it, become aware of it and
+can do something about it. So
+thank you so much, Michelle, for
+being on that was extremely nice
+as it is usually to talk to you.
+But it's also very urgent and
+timely. And I'm glad that we had
+the opportunity to hear you
+explain this and share your
+incredibly important and most
+welcome activism on this
+subject. So thanks so much for
+being on. That was really nice.
+Michele Hansen: Thank you so
+much for having me. And I really
+appreciate you spreading
+awareness of this it this is it
+just feels like an existential
+threat to our way of business
+life, and I really appreciate
+it.
+Arvid Kahl: Alright, well, let's
+let's do something about it and
+then catch up again next week.
+Thanks so much for listening,
+everybody. And yeah, see you
+next week.

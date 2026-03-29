@@ -1,0 +1,53 @@
+{
+  "topic_id": 153049,
+  "title": "In ERPNext, how can I automatically set the **Planned Start Date** of a Work Order based on the **Pl",
+  "slug": "in-erpnext-how-can-i-automatically-set-the-planned-start-date-of-a-work-order-based-on-the-pl",
+  "category_id": 19,
+  "tags": [
+    "erpnext",
+    "customization",
+    "frappe"
+  ],
+  "created_at": "2025-09-02T16:17:08.820Z",
+  "last_posted_at": "2025-09-02T16:17:08.954Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/in-erpnext-how-can-i-automatically-set-the-planned-start-date-of-a-work-order-based-on-the-pl/153049",
+  "views": 32,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Mansi1",
+  "posts": [
+    {
+      "id": 479757,
+      "username": "Mansi1",
+      "name": "",
+      "created_at": "2025-09-02T16:17:08.954Z",
+      "cooked": "<p>In ERPNext, how can I automatically set the <strong>Planned Start Date</strong> of a Work Order based on the <strong>Planned Finished Date</strong> (or actual completion status) of the previous Work Order?</p>\n<p><strong>Context:</strong><br>\nWhen I create multiple Work Orders, ERPNext assigns Planned Start Dates independently (based on production lead time, planned date, or manual input). However, in my workflow the next Work Order should <strong>only begin after the previous one has been completed</strong>.</p>\n<p><strong>Example:</strong></p>\n<ul>\n<li>WO1 planned for 9:00–10:00</li>\n<li>WO2 should start only after WO1 finishes, i.e., at 10:00</li>\n<li>WO3 should start only after WO2 finishes, and so on.</li>\n</ul>\n<p><strong>Additional Requirement (Rescheduling):</strong><br>\nIf WO1 is delayed and actually finishes at 10:40 instead of 10:00, then WO2 should automatically shift to start at 10:40, and WO3 should also shift accordingly.</p>\n<p><strong>Question Details:</strong></p>\n<ul>\n<li>Is there any built-in ERPNext configuration (like routing, scheduler, or dependency settings) that supports this type of <strong>sequential Work Order planning with auto-rescheduling</strong>?</li>\n<li>Or would I need to achieve this through a <strong>custom script, hook, or scheduler job</strong>?</li>\n</ul>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/f4b2a3/{size}.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 7,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

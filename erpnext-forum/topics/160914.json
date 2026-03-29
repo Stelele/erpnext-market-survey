@@ -1,0 +1,52 @@
+{
+  "topic_id": 160914,
+  "title": "Why failed RQ Jobs and I also cannot import data through excel sheet. Please suggest How can I fix",
+  "slug": "why-failed-rq-jobs-and-i-also-cannot-import-data-through-excel-sheet-please-suggest-how-can-i-fix",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "customization"
+  ],
+  "created_at": "2026-02-19T04:45:55.007Z",
+  "last_posted_at": "2026-02-19T04:45:55.125Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/why-failed-rq-jobs-and-i-also-cannot-import-data-through-excel-sheet-please-suggest-how-can-i-fix/160914",
+  "views": 16,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "aryannitesh",
+  "posts": [
+    {
+      "id": 494632,
+      "username": "aryannitesh",
+      "name": "Aryannitesh",
+      "created_at": "2026-02-19T04:45:55.125Z",
+      "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/f/6/f60917d7391a7006516fef8d3e6e0d5afe4f53f0.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/f60917d7391a7006516fef8d3e6e0d5afe4f53f0\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/f/6/f60917d7391a7006516fef8d3e6e0d5afe4f53f0_2_690x169.png\" alt=\"image\" data-base62-sha1=\"z6wWg4W3nRbadYJI4Gug5vE1OhO\" width=\"690\" height=\"169\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/f/6/f60917d7391a7006516fef8d3e6e0d5afe4f53f0_2_690x169.png, https://discuss.frappe.io/uploads/default/optimized/3X/f/6/f60917d7391a7006516fef8d3e6e0d5afe4f53f0_2_1035x253.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/f/6/f60917d7391a7006516fef8d3e6e0d5afe4f53f0_2_1380x338.png 2x\" data-dominant-color=\"FAFAFA\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1393×342 31.7 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/aryannitesh/{size}/82346_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 9,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

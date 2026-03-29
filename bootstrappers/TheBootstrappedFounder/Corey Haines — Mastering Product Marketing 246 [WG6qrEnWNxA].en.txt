@@ -1,0 +1,2184 @@
+﻿Arvid Kahl: Welcome to The
+Bootstrapped Founder. Today, I'm
+excited to share my conversation
+with marketing expert, Corey
+Haines. We dive deep into some
+of the biggest challenges that
+indie hackers face when it comes
+to product marketing. Corey
+explains why so many of us
+struggle with talking about
+their products effectively and
+then give some great tips for
+how to overcome that. We also
+discuss Corey's new venture,
+Conversion Factory and how their
+productized marketing services
+are tailored specifically for
+early stage companies. And
+finally, Corey shares lessons
+that he's learned about building
+a sustainable business model
+through the recurring
+subscription way of productizing
+a service. Corey knows how to do
+product marketing, that's for
+sure. And he'll share it with
+you. A quick shout out to our
+sponsor acquire.com. More on
+that later. Now, here is Corey.
+Hey, Corey, thanks for being on
+the show. Now, you've been an
+indie hacker and a marketing
+expert for a good while now. So
+please tell me, why do indie
+hackers struggle so much with
+product marketing? We love
+building. We come up with ideas
+all the time, but talking about
+our product in an effective way,
+that's just seems to be
+problematic. Why do you think
+that is?
+Corey Haines: All right. Well, I
+have a theory here, that might
+be a little bit off the beaten
+path. But I think that a lot of
+indie hackers. Indie hackers on
+traditional sense, I think, are
+people who classify themselves
+as like software developers who
+want to build their own products
+and apps and make living
+independently, right? So I
+wouldn't even call myself like a
+true indie hacker. I'm more of
+like a poser. I'm an imposter. I
+just kind of
+Arvid Kahl: We all are, we all
+are.
+Corey Haines: But I think you
+know what? I've had a lot of
+people tell me why they struggle
+with marketing, why the indie
+hackers that just kind of like,
+ignore it, it's a little bit
+scary, the things they tell me.
+But honestly, the more that I
+talk to people, the more that I
+read in between the lines. And I
+think one of the real root
+issues is that a lot of
+developers aren't in the
+practice of really building a
+product for a specific purpose
+to solve a problem. So when it
+comes time to talk about what
+problem they solve, they don't
+know because they didn't build
+the product to solve a problem.
+They just built it because it
+was a cool idea. Or they want to
+experiment with some tech. They
+had an idea that popped in their
+head one day. And even if they,
+oh, this can help make someone's
+life or job easier, they don't
+really have like a specific
+problem or set of problems in
+mind where they could translate
+that into a value proposition
+where they could say, this
+product can help you solve this
+problem so that you can unlock
+X, Y, and Z value. And that is
+really the crux of why I think
+people indie hackers in
+particular struggle with product
+marketing because product
+marketing especially is about
+narrative. It's about
+copywriting. It's about
+positioning. It's about how do
+you make your product a bleeding
+neck problem or it's an urgent
+need. And it just makes it a no
+brainer for people. So they get
+it and they love it and
+understand it and they start
+using it right away. So anyways,
+that's not a knock on indie
+hackers whatsoever. You asked me
+questions so I wanna answer it.
+But I think the real problem is
+that a lot of indie hackers just
+really don't know what problem
+they're solving. Like there
+wasn't like a purpose or a
+mission really, that their
+product was set out to solve.
+Arvid Kahl: Do you think it's a
+skill that you can actually
+learn as a very technical
+person? Because that's what I
+always wondered, right? Can I
+get to this point where I
+understand like how to approach
+it right?
+Corey Haines: Yeah, look, I
+mean, I'm learning to code right
+now. I'm taking my very first
+kind of baby steps, going
+through Ruby on Rails. And I've
+done some like basic HTML, CSS
+stuff in the past, which is not
+even a real programming, right?
+But if you can learn if you're a
+good developer and programmer,
+you're really smart. You have a
+great IQ. You can learn anything
+else in the world. I'm convinced
+because this stuff is hard. And
+it's not intuitive, either,
+right? You have to train
+yourself in order to think like
+a developer and abstract
+problems and learn what tools
+you have in front of you in
+order to architect a solution
+the right ways that the program
+works smoothly and isn't, you
+know, prone to bugs or errors or
+dependencies or it would be
+broken somehow. And the same
+way, you just have to train
+yourself to think like, a little
+bit more like a marketer. You
+have to train yourself to think
+and get inside the head and walk
+in the shoes of your customers
+or who you think might be your
+customers. And it's just another
+habit you have to build and a
+muscle you have to train.
+Arvid Kahl: Right. Yeah. It's so
+funny that you're telling me
+you're learning how to code and
+you still don't want to call
+yourself an indie hacker. That's
+just really wonderful.
+Corey Haines: If you want to
+introduce my first app, then
+I'll officially call myself an
+indie hacker.
+Arvid Kahl: That's funny. Yeah.
+Thanks for sharing that
+perspective. I think that
+mindset, that marketing mindset,
+that is a hard thing for me
+personally, as a more technical
+person to get into and I still
+struggle with it, even though it
+is now a much more significant
+part of my journey being in the
+more media corner than just the
+SaaS corner. Right now, I'm
+moving between these worlds. And
+it took me a long while. And
+honestly, I have to say one
+thing, I think you were one of
+the first people that introduced
+the concept of a swipe file to
+me. I just didn't know that that
+stuff existed. So I would assume
+that a lot of people who listen
+to this right now may not really
+know what either what it is at
+all or what the ultimate purpose
+of a swipe file is. So if you
+could enlighten me yet again and
+the people who are listening for
+the first time for the very
+first time. So what is a swipe
+file? Why is it good? What do I
+need it for?
+Corey Haines: Sure. Yeah, I
+mean, a swipe file is really
+just a library or a collection
+of resources that you can use
+for inspiration in your own
+work. So I think a lot of
+developers actually, there's
+another indie hacker named Ramy,
+who built a tool called Page
+Flows. And it's just a
+collection of screens and kind
+of UI patterns that you can use
+to copy into your own app or
+like, I don't really know what
+like a paywall screen should
+look like or like an upgrade,
+you know, notification should
+look like. So let me go to Page
+Flows and see what other people
+have done. Alright, it's
+actually done. So let's see how
+Spotify does their paywall. But
+let's see how Call Map does
+their, you know, their expired
+trial screen or whatever it is.
+And then you can just translate
+those same exact ideas to on the
+marketing side where we think
+about what should a landing page
+look like? What should a
+competitor comparison page look
+like? What should a welcome
+email look like? What should a
+pricing module look like on a
+page and swipe file is just
+inspiration for you to use to,
+you know, not start from scratch
+every single time when you have
+a blank canvas in front of you
+just like an artist, right? Or a
+writer. Everyone dreads the
+blank screen where they're just
+like, oh, what do I do here?
+It's easier to work with a
+template with some inspiration.
+It's easier to work derivatively
+off of someone else's work
+because then it inspires you on
+what will be your style or take
+on this certain thing. But it
+just gives you a little bit more
+structure to the way you build
+things.
+Arvid Kahl: You just mentioned,
+derivative nature of certain
+things. And that's one of the
+things in marketing in
+particular, that has always kind
+of kept me from trying things
+out because I felt this has been
+done before. And I noticed it's
+such a self defeating idea to
+think that just because somebody
+else did it before you couldn't
+do it. But that kind of makes me
+think like maybe I'm just not
+cut out to think like a marketer
+because I have all these
+limitations. But is that the
+case? Like where do these
+limitations come from? Why do I
+struggle so much with this?
+Corey Haines: Well, I think one
+of the other big issues for
+people is that, again,
+programming, we were just
+talking about traditional indie
+hackers. Everything is very
+logical. And it's a closed box.
+It's a closed loop, right? Where
+it's just whatever I put into
+this script and program,
+something's going to come out of
+it. And it's going to come out
+exactly like I wanted to every
+single time. Whereas marketing,
+there's not such a one to one
+relationship where if I put in
+an input, like write a blog
+post, I get an output of get X
+number of customers every single
+time. One blog post might result
+in 10 customers and another blog
+posts might result in zero
+customers. And sometimes you
+don't know exactly why. And it's
+like that for every single
+marketing activity that you do
+for every piece of copy that you
+write every landing page, every
+social media post, every ad that
+you promote, right? It's just,
+it's different every single
+time. And there isn't that
+linear relationship where it's
+just input is output, which is
+scary. And it's feels like
+you're taking a bet every single
+time. And to be honest, I mean,
+you just have to get used to
+that feeling because you don't
+know what's going to happen. I
+don't know what's gonna happen
+even after six years of being a
+first marketing hire for
+multiple startups. And I think
+that I have the playbook nailed
+down and, you know, things are
+pretty much guaranteed. They're
+not guaranteed. So the answer is
+you just have to keep trying,
+you just have to keep shipping,
+you have to keep doing things.
+You have to keep marketing even
+when it doesn't work, which
+again, is really, really crappy.
+Because it'd be the equivalent
+of like, working on an app that
+isn't functional for a year.
+Like you just have to keep
+working on marketing, even
+though it's not functional for a
+year until it is functional one
+day and then all the things that
+you've done in the past help you
+get to that end result, right?
+It's like the thing, who is it?
+Thomas Edison who said, you
+know, I didn't fail 10,000
+times. I found 10,000 ways not
+to do or not to make light bulb
+work. So marketing is a lot like
+that where you just constantly
+churning through ideas that
+don't really work, don't really
+pan out. It's the gray areas
+that are the hardest because
+some times it'll work a little
+bit. You're like, oh, my blog
+post got 100 views. That's cool.
+Did that turn to customers? No,
+like, it wasn't no one. But it
+also wasn't like an amazing
+thing. So do I do it again? Do I
+not? Those are the hard parts
+really with marketing. It's not
+really the do I do it or not?
+You always have to keep trying.
+What else is there to do? You
+have to keep trying. You have to
+keep doing things. It's just
+figuring out what to double down
+Arvid Kahl: Yeah, I think the
+lack of a deterministic outcome,
+that's my problem. I'm just
+figuring this out as you explain
+this. It's just yeah, for code,
+you write a line. And if it
+works, it will always work. You
+know, always in quotation marks,
+but it will have a high chance
+of working because it's supposed
+to. But with a campaign with an
+email with a send with a tweet,
+for that matter, right? It
+depends so much more on what
+on. That's the hardest part.
+other people do than what your
+compiler is structured to be if
+you compile some code into a
+binary. That makes perfect
+sense. I guess that's the
+switch, the switch is my input
+doesn't guarantee an output, but
+the continuation of my input is
+required for any output to ever
+show up. So if that helps
+anybody listening to this or
+watching this to just translate
+that little problem in their
+mind into something else? Well,
+I hope it does. But personally,
+I would rather hire somebody to
+do this, knowing that their
+inputs still have a higher
+chance of getting to an output
+faster than I do, right? As you
+said, you're the first marketing
+hire for a couple of startups.
+That kind of raises the question
+for me. When does a start up
+first hire a marketer? When
+should they? Well, it was a good
+point because indie hackers, you
+know, everybody wants to just
+Corey Haines: Yeah, yeah,
+absolutely. And if I can just
+keep the thing to themselves,
+lifestyle business, never ever
+hire anybody, but kind of feels
+to me like, if you're not meant
+to do this or if you don't feel
+like you're up to it, you should
+hire somebody. Do you have a
+good timeframe for this having
+done this multiple times for
+people already?
+Arvid Kahl: Sure
+Corey Haines: Sort of like the
+deterministic nature of
+programming versus marketing.
+You know, one more analogy I'll
+give now that I'm into code and
+I'm learning all the different
+paradigms. I just learned, you
+know, a couple of weeks ago,
+like when a programmer's script
+throws an error, it's not that
+it didn't work. It's just that
+it didn't give you the output
+that you expected or that you
+wanted. And there's all sorts of
+different types of errors. And
+an error is a result. It's just
+not the result that you want it.
+Arvid Kahl: That's nice!
+Corey Haines: Oh, interesting. I
+think marketing is exactly like
+that, where like, my blog posts
+threw an error. That doesn't
+mean that it didn't work, it
+just means I didn't give you the
+output that you thought that it
+would have. And you have to keep
+debugging, you have to keep
+trying, you have to keep
+fiddling with the program with
+the script.
+Arvid Kahl: That's awesome.
+Corey Haines: I love this little
+like, now that I'm in it. I'm
+like, yeah, okay, I'm getting
+it. I'm understanding it. So
+Arvid Kahl: Yeah, it always
+feels hard for me to determine
+just tie that back into how do
+you know when to hire a
+marketer? And when does that
+happen? Normally, for a company,
+there's two different approaches
+you can take. One, which I think
+who a good hire is, like what a
+good hire looks like in that
+is the better approach, if you
+can, especially if you're
+bootstrapping is that you just
+have to embrace the role of the
+first marketing hire yourself.
+Because you're probably going to
+find it a lot easier to delegate
+the dev and design side of
+things since that's your area of
+expertise. And it is a little
+bit more deterministic in the
+sense where you can say, I want
+regard, coming from a kind of
+opposing view. But that's kind
+this thing, I want this feature
+built, I want this bug squashed,
+I will pay you to do that.
+Whereas marketing, it's harder
+to hire that out. Because you
+might say, I'm going to hire you
+to get me 100 customers, but
+it's not guaranteed that they're
+going to get you 100 customers.
+Now you might have paid for
+something that isn't guaranteed,
+right? And so it's hard to know
+if you're doing it right. Or if
+it's your fault or it's their
+of a trust based recommendation.
+Well you just go to places that
+fault, what to try. There's a
+lot of different ways to get the
+result that you want. So the
+best thing is just to embrace it
+yourself, learn to be a
+marketer, try things, just get
+back to that kind of student
+mindset and first principles and
+just kind of dig in and learn
+from others. And this is again,
+where I think the idea of like a
+swipe file really comes in handy
+have already done it well for
+others, which is kind of where
+because you don't have to
+reinvent the wheel. There are
+lots of the people who have been
+there and fortunate to have
+jump in with one last thought on
+the last point
+before you. This is always why
+I'd like talking to indie
+hackers because they'll talk to
+me about their products. And
+I'll be like, oh, have you tried
+this? Like, no, I've never even
+thought of that. Like, oh, well,
+all your competitors are doing
+that. Like I can easily see
+that, oh, they've grown all this
+you come from. And I kind of
+want to segue into what you're
+way. And for them, it's like
+this huge unlock, like, oh my
+gosh, I never thought of that
+before. But again, it's just
+been able to train your mind to
+uncover those opportunities. And
+then once that's working well
+enough, then you can also
+delegate the marketing role to
+someone else. And you can do
+that as soon as you want to put
+the money towards it, really.
+currently doing. Because the
+reason why we're talking is
+Now there's a second approach,
+which is you hire someone out of
+the gate or you partner with
+someone. I've always considered
+myself to be like a great, non
+technical co founder type of
+person because I am happy
+leaving all the design and
+development to someone else to
+make that their job. And then I
+because I saw you doing
+something really cool in public,
+will do the job of selling
+software. There's two really big
+jobs in SaaS: build the
+software, sell the software, so
+I will sell the software. So if
+you just want to focus on
+development, like this is the
+relationship that I had with
+Derrick in SavvyCal. You know, I
+came on board freelancing with
+him as one of his first
+customers like just right after
+which has very much to do with
+what we were talking about,
+kind of like an early access
+launch. And you know, Derrick's
+actually a very capable marketer
+more than he likes to give
+himself credit for. And he's a
+pretty good copywriter. And he
+knows the things to look for.
+But he didn't want to do it. He
+wanted to focus on the design
+and development and company
+building and delegate that to
+me. So then he hired me on as a
+which was launching Conversion
+Factory, which is a product
+freelancer to do all the
+marketing for them. Some other
+people will bring on an agency,
+some other people will bring on
+a technical co founder. And
+since really your job as the
+founder is to hire the right
+person and then nothing else
+matters. That is literally the
+only thing that matters. The
+marketing and design agency. And
+I love the idea of this. I just
+directions that you give won't
+matter if it's not the right
+person. The things you tell them
+to do, it won't matter if it's
+not the right person. If it's
+the right person, they will know
+what to do and or they will
+figure out the right things to
+do in order to make it work
+because it just takes time. And
+you need to have someone with
+the patience and the autonomy to
+go and take that and run with
+it. So again, two different
+want you to kind of explain what
+it is and what it's supposed to
+approaches. You can do it as
+soon as you want to or you can
+do it as late as you want to.
+I've seen companies hire you
+know, working with SavvyCal when
+he was just a couple $100 in
+MRR. I think companies wait
+until they're at, you know, mid
+seven figures ARR to hire their
+first marketer. I think earlier,
+the better because it's a
+compounding growth lever where
+be and how it differs from the
+traditional agency model and how
+the earlier you start, the more
+you invest into it, the more
+results you're gonna get later
+on that just keep adding on top
+of each other. But you don't
+have to do it at any certain
+point. And you shouldn't feel
+obligated to delegate it away
+right away if you don't want to
+either.
+it's kind of more of an indie
+hackers SaaS like approach and
+like all of this together. So
+yeah, just explain the whole
+thing, please.
+Corey Haines: Yeah, sure. So a
+little bit of actually leading
+out to it. So I've been doing a
+lot of freelancing and
+consulting with SaaS companies
+on their marketing growth since
+my last full time gigs. It's
+been about three years ish.
+That's been going great, but I
+can only do so much. And
+honestly, it's a bit of a grind.
+Freelancing is difficult because
+it's kind of a juggling act. And
+we have multiple clients. It's
+like having multiple jobs. So
+anyways, we started to figure
+this something out with two of
+my good friends who, with timing
+and just like the opportunity,
+we just decided, you know what?
+Let's do an agency together. We
+all were in a spot where we're
+like, I think it'd be better to
+work together. We want to work
+with other people. We think
+they're very complementary skill
+sets. And so what can we do? So
+my thesis was having worked with
+a lot of early stage SaaS
+companies and being the first
+marketing hire, one of the first
+things that I look to do working
+with a kind of shoestring budget
+is product marketing. Because
+without it, nothing else really
+matters. The traffic that you
+run to your website, it's just
+not going to land. It's not
+going to convert. And so you
+have to lay that foundation of
+product marketing, which is
+brand, copywriting, positioning,
+narrative. It's how do you talk
+about your features? How do you
+make your products look and feel
+like a must have bleeding neck
+solution rather than a, oh maybe
+one day or that's kind of nice
+to have. It's the whole vitamin
+versus a painkiller type of
+discussion. So Conversion
+Factory is how do we help people
+turn their product from a nice
+to have from a vitamin into a
+solution into a painkiller. Now,
+the way that we do that is
+through this kind of agency as a
+subscription/productized service
+model. I think everyone is
+familiar with productizes
+service model in the indie
+hacker world. Thanks to Brett
+from Design Joy. So you can
+think of us as Design Joy, but
+for product marketing. So we
+actually we do a lot of design,
+we do brand, we do website
+development. But we also do all
+the other things in marketing
+that aren't top funnel related,
+like copywriting, sales
+enablement, onboarding, email
+marketing, retention and
+activation, those areas of
+responsibility. And that was a
+gap that I saw in the market
+where I was just like, there's
+kinds of marketing agencies,
+there's advertising agencies,
+there's no product marketing
+agencies. And yet, that's where
+I always start with companies.
+And it's always the hardest to
+find someone to fill that gap
+because you either have to make
+a full time hire. Or you have to
+do it yourself. And neither of
+those are really good options
+for early stage companies. So
+anyways, that's kind of the
+backstory to Conversion Factory.
+Arvid Kahl: Very cool. Yeah, I
+guess there are so many design
+agencies because design is
+tangible. If you want a logo or
+something, well, here, you got
+it. Immediate results, right? It
+doesn't do anything for you,
+really, but you have it. Now,
+that's very interesting. I love
+this. And I love your, the
+subscription model approach is
+always interesting to me. I
+mean, there is a kind of
+movement in the indie hacker
+world right now. Not necessarily
+away from subscription, but kind
+of being more skeptical of
+subscription altogether. And
+it's nice to see you actually
+taking subscription to a
+different model, a more
+traditional model, like the
+agency and implementing it
+there. Because you know, SaaS is
+just, everybody is running a
+SaaS. Everybody wants MRR and
+that kind of stuff, even for
+things that probably shouldn't
+have MRR because they have no
+monthly expenses, right? So I
+see a lot of indie hackers going
+to, you know, either full
+purchases, one time purchases,
+that kind of stuff or yearly
+plans, credit based things.
+There's a lot of experimentation
+now, where a couple years ago,
+everybody was doing
+subscription. It's nice to see
+it flipped around and done in
+another agency. It reminds me of
+a book by John Warrillow, who
+wrote Built to Sell. He also
+wrote The Automatic Customer.
+And I think in that book, he
+just talks about nine different
+ways of how you can have
+recurring revenue in any
+business. And what he announces
+in there as one of the models is
+what he calls the insurance
+model. And I kind of have the
+feeling that what you are doing
+is very similar to what a
+freelancer on retainer is, but
+not the same. Is that right?
+Corey Haines: Yeah.
+Arvid Kahl: Like do you consider
+it similar?
+Corey Haines: Yeah, it is close.
+So one of the main distinctions
+when people ask us like, oh, how
+are you different from other
+marketing agencies? And like,
+how does the model actually
+work? It's like a retainer, but
+we're only going to work on a
+certain scope of projects. And
+we're only going to work on one
+request at a time. So it's the
+whole, you know, unlimited
+requests. You can work on one
+request at a time, unlimited
+revisions, etc, yada, yada. But
+the point is that we're only
+ever working on one task at a
+time. And we aim to turn that
+task back around to you, get you
+a deliverable within 24 to 72
+hours. Sometimes it's literally
+in 10 minutes. In fact, the very
+first request that came in was
+like conference signage. And
+they put in the request and
+Zach, our like main designer,
+literally gave it to him like 20
+minutes later and he was like,
+blown away, like, oh, my God. So
+there's cool opportunities like
+that. And sometimes the request,
+you know, there are some where
+it's like, okay, you need
+internal feedback, going back
+and forth, needs to get reviewed
+or this person's out of town.
+And it's a week later, for
+example. But a retainer normally
+is sort of like a, sort of a way
+to stop doing billable hours
+where everything is tracked. But
+you're still juggling multiple
+projects at once. And an agency
+is still tracking those hours
+because they want to know if the
+retainer is profitable or not.
+And there is like an upper
+threshold and limit to the
+amount of work that someone will
+do. So we essentially take away
+all the obscurity of what's
+happening on our side of how
+many tasks we can handle, what
+we're working on at any given
+time. And we say, okay, it's one
+request, one task at a time. You
+choose what goes in and out of
+that queue, we will turn it
+around as fast as possible. And
+then we will knock out as many
+of those per month as we can.
+But we're not going to guarantee
+deliverables. We're not going to
+work on these, like ginormous
+projects where the deliverable
+isn't delivered for three months
+or six months down the line
+especially for websites. This is
+one of the things that I see all
+the time. In fact, the first
+startup that I worked for, I
+remember because it was so
+baffling to me being new to the
+industry. We spent 100 and I
+think was $134,000 on a new
+website, which included
+copywriting, graphics, web
+development, etc, etc. And it
+took us 14 months, so 134 grand
+over 14 months just for a new
+website. It should not take that
+long. It should not be that
+expensive. And you should not
+have to wait 14 months to get
+value out of the thing that
+you're paying before. So that
+also helps us with one request
+at a time, deliver things back
+to people so fast that they're
+getting value immediately,
+instead of three months down the
+line six months, 14 months down
+the line because we're
+incentivized to ship it back to
+you in a way where you start
+getting value. So that you keep
+us on board and we can keep
+working together.
+Arvid Kahl: Yeah, that makes a
+lot of sense. Well, 14 months
+for website, that is horrible.
+But yeah, I can see. A lot of
+stakeholders and everybody has
+opinions and things need to be
+done, right? Yeah, if you don't
+outsource it to somebody who
+makes these stresses for you.
+Interesting! One thing that I
+found very interested in looking
+into your offering there was
+that you have two modes, really.
+You have the sync and the async
+mode. That's interesting. How
+does that work? And like the
+price difference, can you talk
+something about that too? Say
+something about the price range?
+Corey Haines: Sure, yeah. And
+the plans are also derived from
+our theory about what people
+want out of us. So going back to
+your Warlow example about like,
+what do people pay for and
+automatic customer. You know,
+there's sort of like all these
+pricing theories and strategies
+about how do you choose what to
+charge someone, right? And what
+terms and how often etc, etc.
+And the baseline where everyone
+kind of defaults to is like more
+cost based pricing, where it's
+like, well, I bought it for this
+much. I'm going to resell it to
+you at 100% markup. And that
+way, I have a 50% profit margin.
+And the customer understands
+that it's simple. But what
+happens when you get to
+something that's not as easily
+deliverable like a service, for
+example and especially on
+something like a retainer, where
+everything that you're
+delivering back to them might
+have a different value attached
+to it. And this is also where I
+feel like the retainer and the
+project based pricing agencies
+fall short because it's a
+lose-lose in the sense where
+agencies are incentivized to
+drag on work because they're
+billing by the hour, right? And
+companies, on the other hand,
+are incentivized to try to like
+squeeze everything into a short
+amount of time span as possible
+because they want to get value
+as quickly as possible and they
+don't want to pay that much. And
+then we get to things like
+subscription. And this is why
+software as a service is so
+powerful and awesome because
+flat price and rolls out to
+everyone. But really like one
+step above that, in the kind of
+hierarchy of needs and just
+getting to like a premium price
+point, is more paying for
+access. And I think this kind of
+what you're pointing out with
+this whole like insurance model,
+is you're not just paying for
+the work that we're delivering.
+You're paying for us delivering
+that work to you in our way with
+our opinions and with our secret
+sauce mixed into it in a sense,
+right? That really gets down to
+like brand things. You don't
+want a painting from anyone. You
+want a painting from Andy Warhol
+or you know, Michelangelo or
+whoever other famous painters
+there are, right? You don't want
+just any value on a Gucci bag.
+Well, you don't just want any
+service. You want a service from
+Corey Haines, from Zach Stevens,
+from Nick Loudon and so that
+paying for access is our way of
+saying, well, you can work with
+us under these terms. These are
+the types of things you're going
+to get from us. And we're going
+to charge you on a flat rate on
+a subscription because honestly,
+that is part of what you're
+paying for it, is you're paying
+just for us because otherwise
+we're just a commodity, another
+service. Another thing that just
+kind of crank things out. We
+might as well be competing with,
+you know, Design Pickle or some
+of those like copywriting
+subscription services that are
+completely undifferentiated,
+right? Okay, now to answer your
+question about the plans, how we
+decided on the plans was we
+decided to a base rate. Like if
+we want people to throw things
+over the fence to us, we're
+completely asynchronously. Where
+again, our time is not attached
+to the deliverable, which is
+very important to us, then this
+is the base price. But if people
+do want FaceTime with us and if
+they do want our strategic
+input, where we say, we help
+them plan out their requests and
+we even give them a roadmap and
+we tell them like they think
+they should give us to work on,
+then that is going to require
+some FaceTime. So what do we
+charge for our time and in the
+form of hybrid calls? And in our
+input, what's in our heads? What
+is our secret sauce? Well, we
+just sort of decided on like a
+50% premium, to be honest. There
+wasn't like a lot of magical
+math involved in it. We just
+knew that it was more expensive
+than the async plan. And so 50%
+is a pretty standard markup for
+a premium tier.
+Arvid Kahl: Yeah, that makes
+sense. Also, yes, surprised this
+just 50% because of just my own
+personal perspective for now
+somebody, right? The moment
+somebody wants my time, it
+Corey Haines: Well, to be
+honest, were to like early on to
+immediately like access to my
+calendar, it immediately gets
+really be able to draw some
+strong conclusions. But I will
+more, I don't know, expensive in
+my mind because it's something
+that keeps me from doing
+whatever comes to mind. And as a
+say just based on a lot of the
+sales calls that we've had and
+writer, I need to be present in
+front of my keyboard when the
+idea strikes, not the other way
+around, right? So that makes
+the customers that we have close
+that I can definitely see that
+sense. But yeah, that explains
+why synchronous is much more
+expensive. That makes perfect
+sense. And you do price it.
+being true. And I think it's
+mainly due to the fact that they
+Let's just say it's not early
+stage indie hacker pricing,
+right? It's $6000, $9,000 a
+month, that is a substantial
+have to make the budget go
+farther. A big company with a
+amount of money. And I do
+wonder, because you mentioned
+big budget doesn't need to get
+as much value out of the thing
+Brad Williams earlier and I
+remember him talking about when
+everybody on Hacker News was
+kind of bashing the idea of the
+that they're spending because
+they just have more to work
+kind of one person studio and
+stuff. And he was saying that he
+has this kind of correlation
+between the size of a company
+with. Whereas if you're an indie
+hacker and literally all of your
+and the quantity of their needs.
+That's the phrase that I heard
+him say and the smaller they
+are, the more needs they have.
+budget, maybe all of your
+revenue is going towards a
+And the opposite is true as
+well. And having these big
+clients per month actually, they
+use it much, much less like once
+service like us, then yeah, you
+want to get a lot of value as
+or twice a month, equating to
+like under an hour's worth of
+much as you can. So of course,
+you're going to be constantly
+work. Have you seen similar
+things in your own experience?
+Arvid Kahl: Yeah, you're
+definitely for indie hackers,
+keeping the queue filled and up
+to date, you're going to be
+making requests all the time,
+you're going to be picky, and
+just not the ones that have like
+$200 value MRR. It's reasonable,
+you're going to be maximizing
+the service opportunity, right?
+But yeah, there's something to
+that also, you know, just
+I guess, to go up market with
+this because like you said
+planning on like the pricing
+itself. The reason why we chose
+six grand as like our starting
+point is because it's still
+earlier, it becomes more of an
+insurance for the bigger ones
+about half the price of hiring a
+full time product marketing
+manager. And what we do isn't
+just the cost of a product
+marketing manager. It's also the
+cost of a part time graphic
+because they spend it. They know
+you're there. They know you're
+designer or part time product
+designer, part time copywriter.
+So 6 to 9 grand is still about a
+third of the cost of hiring us
+gonna be having a 24-72 hour
+delivery window and you're gonna
+as a team even if we were like
+junior level to fill those same
+needs. Now, that's where it
+comes in. Because early stage
+hit it because you can because
+you smartly diversified your
+company probably doesn't need a
+full time marketer, designer and
+copywriter. They just need a
+part time. So that's where we
+come because we can do those
+things part time. So in that
+clientele. That's one of the
+things I really like about this
+sense, we are for indie hackers
+in the sense that we're going to
+be a lot more affordable than
+any other option, if you wanted
+model because it's kind of a
+small bets approach, right? You
+to delegate it out to someone else.
+have many small bets, you have
+many customers, many clients. I
+don't know. Do you call them
+customers? Do you call them
+Corey Haines: I call them
+clients
+clients? What is it?
+Arvid Kahl: Okay, so you are an
+agency. It's just you know, with
+a subscription model, it becomes
+weird because a client is
+usually project bound, but the
+subscription makes them more
+into turns into a customer. It's
+just an interesting way of how
+we even think about what to call
+them. But that's an aside, I
+guess. What I wonder is or not
+what I wonder, what I see here
+is that you have through this
+subscription model many, many
+different clients or customers
+and not just a one big project
+that your whole agency's life
+depends on. It's kind of a nice
+way of diversifying just your
+risk, just spreading out the
+risk in the community, right?
+And was that an intentional
+choice? Like, was it a necessity
+for you to start this because
+you could have just started
+regular agency, right?
+Corey Haines: Yeah, I think so.
+The reason why we decided to go
+this route with us, again, me
+deciding like, I've been asked a
+bunch before I got here. Oh, we
+want you to do some consulting
+with us. Can you do this? Can
+you do that? Like I can. I'm not
+trying to like brag or anything
+but like I can do anything
+across the board from
+advertising and content
+production and product
+marketing, etc, etc. What do I
+feel like my superpower is
+though and what do I feel like I
+can deliver back to people on a
+repeatable basis that I feel
+confident about? Well, yeah,
+it's gonna be more on the
+product marketing side. That's
+the side that I love the most
+and where there are the most
+clear deliverables as well. Now,
+one of the problems being a
+marketer, this is always one of
+the bottlenecks at any company
+that I've worked for and worked
+with in consulting, is that
+there's usually always another
+side of what I'm doing, where
+it's, hey, here's the thing that
+I'm making and building. Now I
+needed someone else to help me
+implement this thing. So from a
+copywriter, I had the copy for
+the page. Now I need someone to
+go design it and build it into a
+website. And that would always
+take forever and I hated it
+because it was always like, I
+feel bad. Like, I'm not doing a
+good job when this is completely
+out of my hands. And so my buddy
+Zach told me the same thing. And
+Nick, where we were like, yeah,
+like, we're working with bad
+copywriters who take forever or
+customer clients who don't even
+have a copywriter and they want
+us to do the copy and we can't,
+so we have to then refer it out
+to someone else. And then that
+slows down the whole process. So
+our theory was everything that
+we can do together. Or maybe I
+should say, like, anything that
+we do is not dependent on anyone
+else. We can deliver all the
+things that any one of us is
+working with a client on. So if
+I'm covering for a page then
+Zach can design it and Nick and
+build it in web flow. If someone
+else has any other problem,
+we're not dependent on anyone
+else. And that was a very
+intentional thing because that
+way, our kind of destiny was in
+our own hands. And we didn't
+have to, you know, depend on
+someone else. And frankly, this
+is why I stopped doing a lot of
+the like, advisory coaching
+stuff that I experimented with
+for about a year was because it
+was fun. It was nice. And it
+felt like really easy money just
+telling people what to do and
+just kind of hopping on a call
+and brainstorm with them. But
+then they always had a really
+hard time implementing it. And
+again, I hate that feeling of
+feeling out of control, like, I
+am telling you the right things,
+but you're just not doing them.
+So they're gonna stop paying me.
+I hate that. So, yeah, we want
+multiple clients to diversify.
+But then the clients that we
+work with, we want to do things
+for them that are completely in
+our control. And that to me is
+like the ultimate kind of
+freedom in a sense, where we're
+not dependent on anyone else. We
+don't need anything from anyone
+else. We can do it all.
+Arvid Kahl: That was great. And
+it is another layer of de
+risking. I mean, having multiple
+clients already great de risking
+because you don't have the whale
+that you need to constantly feed
+and keep the business to stay in
+business. But also that you kind
+of, you're off the grid with
+your team. Nice! You don't need
+the external services anymore.
+That is a big deal. And that is
+a big deal for indie hackers, in
+particular, because I've been
+talking to so many people,
+right? Who are building on top
+of some platform, a Shopify app
+or a Twitter API integration or
+whatever. And both Shopify
+recently had this thing where
+this company that bootstrapped
+to millions of revenue was just
+cut off because it competed with
+a core function with Checkout.
+And indie hackers, I mean, the
+whole Twitter debacle of a
+couple of months ago when the
+$42,000 API access pricing was
+introduced, which is one of the
+most bizarre things I ever
+witnessed. You know, that
+destroyed a lot of cool
+businesses. And it caused a lot
+of businesses to either falter
+or have to sell like what Tony
+Dinh did with like Black Magic,
+that kind of stuff. And you
+needed to find a home for your
+business. And it's bizarre, but
+that's what happens when you
+build on top of the necessity of
+somebody else's work, which is a
+platform, tends to be. So that
+is very smart of you guys to
+have both in who you serve and
+in what you can do the capacity
+to do all of this by yourself
+without needing like external
+force. That's really cool.
+Corey Haines: And all the
+clients that we work with, no
+one is going to be an
+exorbitantly large client
+because our pricing is so
+standard, right? So no one's
+going to be paying us way more.
+You know, one of our mentors for
+this business is a guy who ran
+like one of the first integrated
+marketing agencies all the way
+through, like the .com boom to
+just a couple of years ago and
+took it in public and it was
+like ginormously successful. And
+he was just telling us a story
+the other day about how I think
+it was in like, right after the
+financial crisis, they lost a
+client that was paying them, it
+was their biggest client. His
+paying them $7 million a year.
+And it almost completely
+destroyed their business because
+they had to lay off about half
+of their team at the time. And
+then it just changed everything.
+It was like who's working on
+what and how and when. And one
+of the things that scared me the
+most about doing an agency was
+having to hire based on the work
+that was coming in. And it can
+be so variable, right? Like one
+month you're scoping out a
+project for X amount over X
+amount of months. What if, you
+know, one month there's three of
+those and then after that
+there's nothing? Well, it's
+really hard to have like full
+time people unless you're just
+really confident and constantly
+be able to replace churned
+clients and always have a
+consistent amount. And so this
+model gives me a lot more peace
+of mind knowing that there isn't
+a lot of client risk and that
+they're all going to be paying
+about the same. And that we can
+kind of throttle it up and down.
+We're not looking to build a
+billion dollar business because
+we can handle a lot of the work
+ourselves. And even when we do
+need to bring on some help, we
+can bring on contractors and
+they'll have a very specific
+role. And it won't be tied to
+one client in particular, who we
+just need them to do this one
+thing for this one client.
+Again, that's one of the
+pitfalls of running like a full
+service marketing agency
+compared to what we're doing.
+And it's why a lot of the
+agencies you see out there are
+content marketing agencies or
+demand generation agencies, is
+because you know, what happens
+when your first two clients
+wants a demand generation and
+then your third client wants
+content creation and your third
+client wants product marketing?
+Well, they have to hire all
+these different people to do
+things for different clients.
+And so you lose the
+profitability of being able to
+spread the team's resources
+across all the clients at once.
+And then scaling up down. Yeah,
+it's just, it becomes a mess. So
+this felt like a very safe bet,
+in that sense, where we wouldn't
+have to worry about the
+variability of clients and what
+those clients want from us.
+Arvid Kahl: Okay, yeah. Since
+you said safe bet, since that's
+the phrase I just heard. Do you
+consider it a small bet still?
+Because I know you've a couple
+other things going on personally
+for yourself, right? As a
+founder, you have swipe well and
+the swipe files thing and your
+book is still out there
+somewhere, right? And you're
+active on Twitter. You're active
+on social media. You're active
+on the podcast world and all
+that. Do you consider the
+Conversion Factory a small
+thing? Or is it going to be a
+main thing?
+Corey Haines: I think it's more
+of a main thing, at least for
+right now. The reality, I mean,
+it's just it's awesome seeing it
+play out. But like people like
+hiring people. And it's hard to
+get people to hire software to
+do a job. That's the thing that
+I love about software and SaaS
+is it's very utilitarian. And it
+solves a problem and it does it
+well. But you have to be able to
+do it at scale. And also, you
+have to make sure that your
+software solves a problem really
+well in the first place. And
+sometimes it's hard to even get
+to that place. And so number one
+for me, I just, I never want to
+be in a place where I have to
+feel like I have to force
+something to work in order for
+me to be able to put food on my
+table and sleep at night. And so
+people like hiring people. This
+is something I know that people
+will always want and need. And
+it's a lot easier to find
+product market fit than it is
+software, I'll tell you that.
+Number two is I consider myself
+more like a kind of an
+entrepreneur, Tinker creator in
+that sense, where like, I love
+starting things. I just like
+making stuff happen and like
+creating stuff that was in my
+imagination that I want to see
+in the world. And I think for
+people like me, based on a lot
+of other people I've talked to
+and mentors, just reading
+stories, and a lot of those
+people have kind of like a cash
+cow that they use to do all the
+other things that they want to.
+But you need to have at least
+one thing that works in order to
+allow you to put the time and
+our resources on other projects.
+And maybe some of those projects
+will pan out, maybe they won't.
+But again, those things don't
+need to pan out in order for you
+to be financially stable. And so
+this is like, this is kind of my
+life ethos of like, this is just
+the way that I want to go about
+things. And again, it's not the
+Conversion Factory is like a
+means to an end by any means.
+But it's that I think the role
+that it plays in my life is that
+it is sort of like a job. But
+it's a job that allows me to be
+free to explore other things as
+well.
+Arvid Kahl: And it's a job where
+you can talk about the job and
+do the job at the same time.
+That's one of the things I love
+about your work there. Because
+you're doing product marketing
+around the product marketing
+business by building in public
+on Twitter. And I love that
+first off because I learned
+something but also because it
+just shows how much you care
+about this stuff. And that's
+kind of what I want to talk to
+you about. And by the way, the
+whole small bets thing. I think
+I had Daniel Vassallo on the
+show, the guy who is behind a
+lot of explanations around the
+small bets methodology. And the
+idea is not to keep that small.
+The idea is to have small bets
+and then see which ones grow,
+right? So that would be where
+Conversion Factory hopefully,
+but from the looks of it already
+is heading because if I look on
+your website and I want to buy a
+subscription. I see a waitlist.
+And
+Corey Haines: Yeah
+Arvid Kahl: You know that looks
+good. That looks like an
+interesting development. Can you
+tell me more about that?
+Corey Haines: Sure. Yeah, we
+again, because it's just new and
+we've never done a product or
+service like this before. We
+want to make sure that the
+quality didn't go down as we
+scaled and when it just didn't
+know how much work we could take
+on. So we kind of figured, like,
+look, if we have the good
+problem of having too many
+clients, that would be a good
+problem to have. But we don't
+want to have to be like a hair
+on fire type of situation where
+we just are running around like
+crazy and it's not fun. Why
+don't we try to figure out like
+a cap and then throttle the
+demand up and kind of ratchet
+our capacity up as we figure out
+what the benchmark is. What's
+the baseline of how much work
+can we really handle? So we
+decided, like, I think like five
+clients is probably around like,
+we'd be profitable at that
+point. We can totally see how
+having like five recurring
+requests or five concurrent
+requests any given time was,
+like, pretty manageable. Let's
+just start there. So we hit that
+limit. And now we're trying to
+see and kind of establish like,
+okay, how much more room do we
+think that we have, before we
+let those people off the
+waitlist and just kind of like,
+open it up to the rest of the
+Arvid Kahl: That's so cool.
+Thanks for sharing this. And
+world.
+thanks for not just sharing it
+here, but sharing it on Twitter,
+hopefully in the future as well
+what the experiments and the
+learnings are because that feels
+like such a helpful thing for
+the community to understand
+because you kind of I mean,
+you're not the first person to
+ever come up with a productized
+service. But I feel you are one
+of the few people that actually
+understands our little indie
+hacker community and how we
+think and how we perceive
+things. So you can phrase it in
+a way that is accessible for
+other people, like you did
+earlier with you're now learning
+how to code. You're finding
+these little translatables,
+right? Where you can take one
+concept from one world and
+translate it into the other, you
+have a great skill of doing
+this. And I love the fact that
+in sharing this on Twitter as a
+build in public method, you are
+helping people understand maybe
+that's something for them and
+their specific area of expertise
+and expertise it is because the
+more I look at your website and
+I really like it. It's a really
+well designed website with great
+copy. It's just one thing that
+really stood out to me. And that
+is, I guess, a testament to your
+ability to do high quality
+product marketing is I was
+thinking, all I care about right
+now is to see the price of this
+because I wanted that's the
+first thought that came to my
+mind. Because I kind of knew
+from you launching it, what it
+was, what it was about, what it
+was going to be. And I wanted to
+see the price and the only
+button the only link that is on
+that page for me right now up
+there in the header is See
+Plans, like it's like you know
+what I want. It's like you know
+what I need. I just want to tell
+you that was my experience in
+looking at the website. So that
+really worked well for me. Of
+course, there's more if you go
+to the hamburger menu and stuff,
+but you just understand what's
+necessary to get somebody to get
+to the information that they
+want. So good job on showing
+publicly how good you are at
+this, just wanted to tell you
+that.
+Corey Haines: Oh, yeah! I mean,
+it's very important for us to
+dog food our own expertise and
+process. And whatever we put out
+there is going to be anything
+that someone would use to make a
+buy in decision off of, right?
+Do these guys really know what
+they're talking about? Do I want
+something like that for myself?
+That is really how a lot of
+people decide on service
+partners especially is do I want
+something like something they've
+already created and done. So
+everything that we create and
+have done has to be something
+that we want someone else to
+look at and say I want to be
+like that, including ourselves
+primarily, right? And it is
+funny because I've seen a lot of
+marketing agencies and design
+agencies outsource it to someone
+else to a freelancer or to
+another agency, which to me is
+just like totally baffling.
+Like, that's like being, you
+know, email marketing software
+and then using a competitor for
+your own automated, you know,
+like it will just never even fly
+with any software company, so
+why would you know, agencies do
+that as well. But, yeah, I think
+that we know what we're doing. I
+hope it comes across that way.
+Arvid Kahl: Oh, it certainly
+does. Yeah, it's kind of weird
+that people would hire this out.
+But that's just maybe they don't
+trust their own skills. That's
+what it communicates, right?
+Which is just such a bizarre
+thing. Well, one question
+though, how long did it take you
+to build that website? 14
+months? Was that the website
+that customer?
+Corey Haines: One week
+Arvid Kahl: Okay, well, that's
+much faster. Yeah, that's kind
+of what you want to be able to
+do. Right? You want to be quick.
+You want to have a look well and
+still do it fast. Yeah, man!
+Corey Haines: Yeah, I mean, it's
+easier and it's faster because
+you know, we're the deciders so
+we know what we want. We've
+already talked about things for
+a long time and we don't have
+to, like, get feedback from
+internal stakeholders or whoever
+people they have to get approval
+from. So you know, it took me
+about a day to write like the
+first draft of the copy and it's
+ran by Zach and Nick. I made a
+couple of tweaks . We're like,
+cool. Zach went to mock
+something within figma was done
+in figma. Again, like start to
+finish took literally like a
+week. In fact, the longest part
+and the reason why we delayed
+the launch didn't buy about a
+week was just waiting for, like
+our Mercury bank account and
+Stripe account to be live
+because we had, like,
+incorporated the week before and
+then took a little bit longer.
+So like the website was not the
+bottleneck for us.
+Arvid Kahl: That's good to know.
+Yeah. Wow. That's interesting. I
+wonder how much time do you
+still have for your other
+projects? You have in SwipeWell,
+you have a tool that is kind of
+a SaaS product project, right?
+There's a browser integration
+that needs to be taken care of.
+And then Swipe Files, you have a
+community of people, like, do
+you set time aside for this even
+though this thing is, you know,
+big and growing?
+Corey Haines: Yeah, that's a
+good question. I'll probably
+have better answers for that in
+a couple of months. For right
+now, it was sort of like, well,
+I've always worked in seasons a
+little bit where I'll kind of
+just sprint and then like, go
+heads down on something and then
+kind of come back up and find a
+more normal way to incorporate
+into my work week. But yeah,
+I've kind of just blocked out
+like July and August are going
+to be 100% Conversion Factory
+because I don't want there to be
+anything sticking my attention
+away from this as we get up off
+the ground. And especially
+because as we grow clients, I
+don't want there to be anything
+that would give them a reason to
+not trust in us or to want to
+cancel. And also just nailing
+down the processes for the first
+time has been a really big thing
+or like this is the first time
+we're doing it. So we need to
+give ourselves room in time in
+order to stop for a second and
+say, okay, we're seeing a
+pattern here. What should we do
+about this? Okay, let's create
+an SOP for it. Let's create a
+little Notion board for this
+over here. Let's templatized
+this as adding some zaps, you
+know, just being able to create
+the machine, right? Rather than
+just always flintstoning it and
+making it work haphazardly all
+the time. But what's happening
+with Swipe Well is sort of just
+like on autopilot, carnamah co
+founder is taking care of that
+right now. And then we'll get
+back to it in September and kind
+of do you know start to work in
+some more hours into where we go
+next with it. With Swipe Files,
+I also rejiggered it where I've
+kind of I haven't gotten rid of
+the community. But it really
+stripped it down and pared it
+down to just the bare
+essentials. So it's not really
+like the main draw of where
+people come to get an expect.
+One because honestly, I don't
+know how you felt about this and
+I'd be curious to hear,
+actually. But I felt like the
+last couple of years since like
+COVID, there's been all these
+waves of trends for businesses
+and technology and just like
+what people are doing and there
+was this pretty rapid cycle of
+like, okay, first it was creator
+economy. And then it was like
+everyone has a newsletter
+business. And then it was like
+communities were all the rage
+for a second pair. Podcasting
+had its moment as well. And so I
+kind of felt like, people aren't
+really stoked about online
+communities as much as I've
+seen. And I've definitely seen a
+big drop off. And like, why
+force it when at the end of the
+day, I want to know what's
+valuable to people? And if that
+changes, then I should change
+with them as well. So instead, I
+relaunched a new or I didn't
+realize it. I created a new
+course. And then I relaunched
+sort of like a pared down
+version of the community with
+more of an emphasis on the
+courses. So that I don't have to
+work on it as synchronously. It
+is more of an async work
+schedule for me.
+Arvid Kahl: That's the big
+difference. And that's what I've
+seen too. Like the moment you
+can establish asynchronous
+things, everything is fine. And
+the moment maybe more
+importantly, the moment your
+customers expect async or are
+fine with async, that's good to
+go. But if people think of that
+community to be the same thing
+as a chat room, as a constantly
+on kind of university, where you
+go to things and they happen at
+a certain time and then you have
+a little break and then you do
+another thing. That's fine if
+you want to organize that or if
+you can pay people to organize
+it for you or if you have
+volunteers, whatever. But that
+requires you to build the
+infrastructure of nota
+community, a village. You need a
+village, you need people with
+different jobs doing them at the
+same time. Like and then global
+village, too. You need people in
+different time zones dealing
+with all of this. That feels
+complicated. And similarly, like
+you I found that community is
+maybe not the most important
+thing I can do because it is
+synchronous and that makes it
+hard to scale. And I want my
+things that I do to be at least
+available at scale, which is why
+I have books and courses and my
+newsletter and my podcasts and
+all these things that I just
+kind of want to end, right? One
+person doing it and people
+consuming it. It's not a one on
+one or end to end situation. So
+I have equally pared down my
+community around the following
+course. And people just interact
+with me on Twitter anyway. So if
+they need me, if they need
+access to me, they have it there
+and they don't really do much
+with each other because there's
+also a lot of weird stuff going
+on with people when it comes to
+engagement farming or whatnot. I
+don't want to invite any of this
+so I just want people to learn
+from each other and for me,
+which is why Twitter still or do
+we call it X now? I don't know.
+It's still a community. I'm not
+gonna I'm gonna be one of these
+old people yells at cloud thing.
+Pepperidge Farm remembers
+situation where I'm just gonna
+call it Twitter for the rest of
+my life. But you know, that's
+where I'm at too. And you're
+right. There are trends all the
+time. It just turns out for me,
+I think I've hooked onto most of
+them, particularly podcasting
+and newsletter. And I found that
+it is fun and enjoyable and
+doable because they are not
+things I do all by themselves.
+They are kind of channels for
+the thing I already do, which is
+right.
+Arvid Kahl: Right? So my podcast
+is my writing read into a camera
+Corey Haines: Right
+or into a microphone. My YouTube
+channel is that exact same thing
+but with video and my newsletter
+is that article that I write
+anyway, as a newsletter. So if
+it's just like synergetic so the
+word, then it works for me. But
+if it's one thing that I need to
+devote so much time to all in
+itself, I'm probably not going
+to do it. That's how I deal with
+trends like this.
+Corey Haines: Yeah, I've learned
+that too, just trying to really
+embrace what do I want to do?
+What do I like doing? What fits
+in with my, the things that I
+like creating? I think, you
+know, if you call yourself a
+creator, you don't have to do
+all the things, what are the
+things and the mediums the
+actually like creating on. And I
+think having synergies between a
+lot of your products and just
+what you're doing. Also, it
+makes a big difference. One of
+the other reasons why I felt
+really good about launching
+Conversion Factory because I
+knew that I could promote it.
+And it could really be like a
+informal sponsor, the Swipe
+Files newsletter as well.
+Arvid Kahl: Yeah, that's right.
+Corey Haines: Like a lot of
+people know me from there, that
+I'm not launching, like, I don't
+know, like a TikTok shorts
+agency, where it's like, there's
+no overlap with my existing
+audience. Like all of my
+audience and my network is B2B
+SaaS. So this is right in line
+with a lot of synergies. And
+speaking of that, like one of
+the other things we want to do
+with Conversion Factory, is we
+want to add in some products and
+we want to build some website
+templates on Webflow and maybe
+some other platforms as well in
+the future. But that's one other
+things that kind of has me
+excited where I'm like, again,
+we don't need this to work.
+That'd be nice. And we can like,
+that's another small bet we can
+add to the portfolio and just
+see kind of what happens and
+where it goes. But that's
+another like thing in line with
+what we do well, what people
+know us for, what people want
+from us, where we think we can
+fill a gap in the market.
+Arvid Kahl: That's really cool.
+Man, you seem to have an
+interesting couple years ahead
+of you. That sounds like a lot
+of fun projects all under the
+umbrella of something that is
+nice and stable and well thought
+out. I really appreciate that.
+Corey Haines: I hope so. Yeah.
+Should be really interesting
+couple of years, hopefully very
+fruitful. And hopefully a lot
+more new, interesting things to
+talk about.
+Arvid Kahl: Yeah, that's right.
+Well, since I'm already
+following you on Twitter. I know
+where to go to find out more
+about you. But if somebody for
+some reason that hasn't heard of
+you and your work over the last
+couple of years that you've been
+very active on Twitter on or
+anywhere else, where do you want
+people to go to be able to
+follow you on this amazing
+journey that you're on right
+now?
+Corey Haines: Yeah. I'm also a
+huge Twitter fan. I'm gonna
+still pick on Twitter. I know
+that I'm like, like, I don't
+know. It'll be difficult to say
+X for the first time. I don't
+even know what to call it. Is it
+the X platform? Is it just X and
+that X feel so weird? Like, X,
+Y, Z, you know? Anyways, I'm on
+Twitter @coreyhaynesco. My
+personal site, corey.co has a
+list of like all my projects and
+just links to everything on
+every social media platform or
+whatnot. And then, of course, if
+you're interested in checking
+out Conversion Factory, it's
+conversionfactory.co. So any and
+all of those things will work
+and happy to deal with people
+anytime.
+Arvid Kahl: A lot of that .co. I
+like it.
+Corey Haines: Yeah, not a lot of
+dot coms. I got the dot com for
+Swipe Files. And I've looked at
+the dot com for Corey and for
+Corey Haines. But both of them,
+well corey.com has, I don't know
+who owns. It's probably some big
+conglomerate. But
+coreyhaines.com is owned by a
+like pretty, like famous
+developer actually so like I'm
+never getting that one. I'll
+find the next best thing, which
+may be just like my first name
+dot co.
+Arvid Kahl: Hey, good job for
+that. Like, I think I have
+Arvid.fm or something too for
+these particular purpose. It's
+always nice to have a sure
+point. It's really, really cool
+to hear that development and
+good domain with .com or .co. It
+doesn't really matter. You have
+the projects and products are
+spectacular. And the journey
+that you're on and the way
+you're sharing it is really
+nice. So thank you so much for
+sharing your insights here today
+into product marketing and
+building a wonderful productized
+service subscription as an
+insurance business. Let's make
+it as complicated as it gets.
+Thanks for all of that. It's
+always really nice to chat with
+you and I cannot wait to see
+where this is going and I'm
+going to be there watching you.
+Corey Haines: Awesome, thanks
+Arvid. Thanks for having me. And
+I'll be doing more building in
+public, in public on all public
+places like Twitter slash x and
+my personal site and everywhere
+else
+Arvid Kahl: Cannot wait. Thanks
+so much for being on.
+Corey Haines: Thanks, man.
+Arvid Kahl: And that's it for
+today. Now, most technical
+founders, they shy away from the
+productized service approach.
+They'd rather build a SaaS
+software as a service business.
+And that's something that's just
+more easily automated. And it
+comes more easy to people that
+build software. And that often
+is a good idea. Still, they run
+into challenges that they might
+not have expected. And this is
+where I want to talk about our
+sponsor, acquire.com. Imagine
+this, you're a technical founder
+who's built this really great
+SaaS product and you acquired
+customers. And all of that is
+just generating consistent
+monthly recurring revenue. The
+problem is, you're not growing
+for whatever reason, lack of
+focus, lack of skill or just
+plain lack of interest and you
+feel stuck. What should you do
+in that moment? The story that I
+and everybody else would love to
+hear is that you just buckled
+down reignited the fire, got
+past yourself and the cliches,
+started working on the business
+rather than just in the
+business. And then you build
+this audience and move out of
+your comfort zone to do sales
+and marketing something you hate
+doing, but you do it. And six
+months down the road, you've
+tripled your revenue. Reality is
+not as simple. Situations like
+this may be different for every
+founder who's facing this
+crossroad. But too many times
+the story ends up being one of
+inaction and stagnation until
+that business becomes less
+valuable or at worst, completely
+worthless. So if you find
+yourself here, well, your story
+is likely headed down a similar
+road. I offer you a third
+option: consider selling your
+business on acquire.com.
+Capitalizing on the value of
+your time as an entrepreneur is
+a smart move. Acquire.com is
+free to list and they've already
+helped hundreds of founders out
+there. So go to
+try.acquire.com/arvid and see
+for yourself if this is the
+right option for you and your
+business right now.
+Thanks for listening to The
+Bootstrapped Founder today. You
+can find me on Twitter
+@arvidkahl. You'll find my books
+and my Twitter course there too.
+And if you want to support me
+and the show, please subscribe
+to my YouTube channel, get the
+podcast in your podcast player
+of choice and leave a rating and
+a review by going to
+(http://ratethispodcast.com/founder).
+Any of this will help the show
+so thank you so much for
+listening. Have a wonderful day.
+Bye bye

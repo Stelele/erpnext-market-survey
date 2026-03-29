@@ -1,0 +1,1039 @@
+﻿and we are live. Welcome back to
+MicroCom on Air. I'm your host, Rob
+Walling. Every other Wednesday at 1 PM
+Eastern, 10 a.m. Pacific, we live stream
+for about 30 minutes and we cover topics
+related to building and growing
+ambitious SAS startups that bring us
+freedom and purpose and allow us to
+maintain healthy relationships.
+We love live streaming because we can
+get live feedback, live questions from
+you, the audience. So, if you are in
+Microcom connect, head to the Microcom
+on air channel. If you're watching
+directly on YouTube, there is a chat
+function I think over on the right hand
+side and producer Xander will be
+monitoring those, placing them here in
+our doc. Today we're going to be talking
+not about the amazing MicroCom talk
+that's called the survival guide for
+bootstrap SAS. We're going to be talking
+about the updated survival guide for
+bootstrapping SAS because I am pleased
+to be joined today by Omar Zenholm. He's
+the founder of Webinar Ninja and he did
+this talk back at Microconf uh in 2019
+about the story of building and growing
+Webinar Ninja. So if you don't know,
+Omar is the co-founder of Webinar Ninja.
+As I just said, he's a super simple
+online teaching, coaching, and marketing
+platform. He started it in 2014, and
+since then over two million people have
+attended workshops and other events on
+Webinar Ninja. Webinar Ninja remains a
+self-funded software company with over
+20,000 stakeholders which are their
+customer which are their customers. He's
+also the host of the popular small
+business podcast the $100 MBA show. He's
+been featured in Inc. Forbes Fast
+Company entrepreneur product hunt
+numerous other small business podcasts.
+So with that I'd like to welcome Omar to
+the show.
+Thanks for joining me sir.
+Hey Rob it's good to see you again.
+It's great to have you. So your talk
+with the full title microcom starter
+2019 from 1 to 14,000 customers the
+survival guide to bootstrap SAS and we
+wanted to bring you here on uh oh yeah
+and if you want to watch the show if you
+want to watch that talk head to
+youtube.com/microconf
+or we're going to have the audio of that
+talk going in live in the micro podcast
+today or tomorrow so folks can check it
+out. actually re-watched the talk last
+week to prepare for this and I think we
+have some good stuff to uh to get into
+today.
+The first thing I want to ask about is
+it's been almost three years since you
+talked. So knowing what you know now,
+what would you have done differently
+when you launched Webinar Ninja back in
+2014?
+Wow. Um that's a good question. Um
+good one but a hard one. Yeah, I think
+um when I launched Webinar Ninja, I was
+just scratching my own itch really. I I
+I loved running webinars. I'm I'm a
+former educator taught taught in the
+classroom for 13 years before I became a
+full-time entrepreneur. So, I was really
+attracted to webinars and the platform
+of of of teaching really. And um I I was
+really not I kind of just saw it as like
+a project or basically
+almost like I was like building my own
+website kind of situation. It wasn't
+even I didn't think of it as a business.
+I didn't think of you know what are the
+next steps. I didn't really see the
+vision of what does this look like in 5
+10 years. Um you know I I didn't do a
+SWAT analysis. you know, I just
+basically went out there and just
+created something I wanted to see in the
+world. Um, and bad habits die hard. So
+if you don't really have that um have
+that habit of hey what's what does this
+look like at the end of the year and
+three years and five years and 10 years
+you know what are some of resources I'm
+going to need to be able to go where I
+want you know how sustainable it is
+right now uh with with with the current
+growth or the current traffic I'm
+getting to my site you know it was just
+kind of because I was just looking at
+the first step ahead of me like okay
+build this tool and put it in front of
+people see what happens Okay, when I see
+what happens, I'll react. And and then
+you just one day leads to one week to
+one month to one year. And then you
+realize, oh man, it's been four years. I
+need to I need to think about, you know,
+what does this what does this mean for
+my life? You know, um my co-founder
+Nicole and I, who's also my wife, we we
+talk all the time about how time flies
+by and we just realized, you know, this
+April it's going to be eight years of
+Webinar Ninja. So it's like, wow. um we
+have the gray hairs to show for it. But
+I would probably say that is just that
+forward thinking and thinking more than
+one one move ahead. You know, no one no
+one plays chess and just thinks the
+first move. You think, you know, at
+least five or six moves ahead before you
+uh move the pieces.
+And you know, on that note, how do you
+manage growth projections these days and
+goal setting?
+Um, I think the best way to what I found
+has been helpful is just to to come up
+with a few different scenarios like if
+this happens, if this is my growth rate,
+then this is how this is, this is what
+I'm going to do with that growth. This
+is how I'll react to that. This is these
+are type of things I'm going to need.
+These are kind of the people I'm going
+to need to hire. Um, if that rate looks
+like this, if that rate looks like that.
+So it just gives me a a few options to
+look at so that um and I usually have
+like an extreme option like what if we
+grow you know 300%. You know um which
+happened in co so we're like okay um
+what does that look like? So that at
+least allows me to not freak out when
+something happens. I I kind of played
+that episode in my head already. So it
+gives me a chance to kind of um you know
+uh
+live the reality a little bit in my mind
+before it actually happens in real life.
+Yeah. No, that makes a lot of sense. So
+I want to ask a question about COVID and
+and how it impacted Webinar Ninja given
+given the industry you're in. Did you
+see increased demand in you know as CO
+cranked up in 2020? Yeah, co was uh an
+interesting experience for us as a
+company because we saw incredible demand
+and I would say our our our customer
+demographic really changed big time.
+Like who we serve now is totally
+different than who we served uh you know
+when I gave that talk in 2019 um because
+co kind of opened the floodgates. kind
+of just almost like fast forwarded to
+the future almost like you know um and
+you know we got customers emailing us
+telling us you know like listen I can't
+do my karate studio anymore they got to
+close the doors um how am I going to do
+my karate studio can your can your
+software help me can I do my karate
+classes with webinars you know and so I
+I I I went from a customer that's really
+well wellversed in technology in the
+space knows what a webinar is knows
+um how to utilize it, maybe kind of been
+on a few webinars to somebody who their
+business is a brick and mortar, you
+know, or their business is doesn't even
+have a website, you know, so it's like
+it's a little bit of a different
+demographic. uh along with the fact that
+um we started to shift a little bit uh
+because we were really competing in a
+space of using mo webinars uh as a
+marketing tool um which which is how a
+lot of people use webinars but um we
+started to really differentiate with
+with just focusing on being more of a
+teaching and learning tool. So people
+actually use our software to deliver
+their product or service or deliver uh
+some sort of workshop to bring in their
+audience and things like that. So um I
+think the biggest challenge for us as a
+company was realizing oh who we were
+going after in terms of marketing our
+messaging our website that that's not
+our customer anymore. Um we need to like
+speak to some customers. So we would get
+on the calls and we would take notes and
+we would transcribe those videos and and
+we realized, oh, okay, you know, most of
+our customers are solarreneurs or people
+that are running their business by
+themselves. If they have a team, it's
+like two other people and it's like
+family members, right? And we realized,
+okay, um, we need to double down on the
+idea that our software is super simple
+to use. uh because um they don't have
+the the the resources to really get an
+expert or uh train somebody or um you
+know really uh work with an onboarding
+expert expert on our team and things
+like that. So uh it really shifted the
+way we we presented or uh I would say
+positioned our our our product as well
+as just uh the whole team from
+engineering to support understanding
+okay this is really our customer now um
+and uh of course there's variations but
+um it it definitely changed a lot in co
+yeah I can imagine that was a massive
+mindset shift and must have been pretty
+challenging because I imagine and you
+may have gotten there first I know often
+as the founder you're getting these
+streams of data and you're thinking
+there's a shift happening in this
+company. Then oftentimes your team
+doesn't know that and you have to then
+kind of convince them with with data. I
+mean what was that process hard? Did you
+just one day say hey this is what we're
+doing or were other people seeing the
+the tea leaves as well.
+One of the things that really was
+helpful is that I do member webinars. I
+still run our member webinars till
+today, like where I once a month I'll
+get on the webinar and I uh answer
+questions. I talk about what's coming up
+next in our future releases, all that
+kind of stuff. Um, and I started to uh
+we have like a questions area and you
+can export that that those questions to
+CSV, right? And I would start to notice
+the questions that were coming in and
+they're very different than they used to
+be. like things like, you know,
+um do I need to have an email with my
+URL in it? You know, like do I need uh
+um to get an LLC or should I just um you
+know, be a freelancer? Things like that.
+questions that are very like, oh, these
+people are still,
+you know, at a stage that they're not
+not where our customers used to be, you
+know, like our customers used to be very
+savvy and very like, you know, uh I'm
+just running webinars so I can have
+another growth hack, you know.
+So,
+uh I started to realize, okay, this is
+not a one-off like every month this is
+happening and most of the questions are
+very at a different stage. Uh a lot of
+it were were like just general like very
+basic technology questions uh like you
+know what's a webcam I can use that's
+that's not my laptop things like that.
+So then I I started to export these
+questions. I we would share them with
+our customer support team first because
+we're like hey you know these are the
+type of questions we're getting uh are
+you seeing the same in your customer
+support chats and your messages and you
+know I would speak to CJ who's our
+customer service manager and she would
+you know confer and and then I would go
+ahead and we would talk to the CTO our
+CTO and be like okay like we need to
+start thinking about uh shifting our our
+roadmap really to cater to this type of
+customer um because their needs and
+their wants and what they're asking for
+totally different. Um, and we started to
+realize that um, people want more of an
+all-inclusive all-in-one software that
+is it may not have all the features of
+our competitors or may not be able to,
+you know, host 10,000 people, but
+they're never going to get 10,000
+people. Like that's not that's not their
+jam. They're really have smaller groups,
+smaller workshops, things like that. So,
+uh, it was just interesting just to
+share. It's so much easier just to share
+actual words from the customer than for
+me to say, "Trust me, this is what
+they're saying," you know. Um, and um,
+we also in our team retreat, we try to
+do a bit of um, uh, get everybody on
+support tickets, even like, you know,
+the engineers and marketing. And they
+started to realize, okay, I mean, um,
+one of our, uh, front end engineers
+who's from Belarus, um, bless his heart,
+is, beautiful man. Um, but he just put
+it simply in his English and said, you
+know, wow, these guys, they just want to
+press a button and that's it. It's over.
+I was like, yeah, exactly. That's what
+they want. They want to press a button.
+Do it for me.
+Yeah.
+So, that's how it was. Yeah.
+That's a big shift. Yeah. And and I
+imagine with that shift, there's this
+mental shift and there's this
+directional shift. Were there any
+changes that you made to your company
+structure as the pandemic hit and then
+as this whole kind of pivotish expand? I
+it's like a pivot but it's almost an
+expansion of of the customer base. But
+any any team structure or company
+structure changes?
+Yeah, we we basically were in a rush to
+hire. So because we realized we need to
+get more engineers, we needed to get
+more customer support agents. we needed
+to expand our our our marketing team
+because we were not really um doing any
+kind of real market research. You know,
+I I was like, "Oh, I know the customer."
+You know, I I am the customer. Like, no,
+I'm so much in the weeds. I don't I'm
+the worst person to ask about what
+what's best for the for the customer
+right now.
+But um uh so that was a big challenge
+for me personally is that we had to make
+some really uh quick hires quick you
+know as fast as possible in a short
+period of time and and making these
+decisions can really uh be costly,
+right? Especially if you're making
+positions uh hiring positions in in in a
+in a managerial position, people that
+are making decisions on a daily basis
+that will affect the trajectory of your
+business. Um, and
+you know, I think I just uh in the
+process I I put a lot of trust in the
+people we hired based on referrals and
+references and and people like
+recommending them and things like that.
+Like, oh, this person is going to be
+great. We're have no problem. and
+realize, oh, okay, like, you know, these
+are some big mistakes that are happening
+here that, you know, cost us, you know,
+hundreds of thousands of dollars
+sometimes. You know, I'm just like,
+okay, wow, this is this is tough
+because,
+um, you want to meet the demand, but at
+the same time, um,
+you know, one of our reasons we were
+able to bootstrap our business is that
+we're very very, uh, frugal and very
+methodical and very resourceful. And you
+know, if you if you bring in new people
+and they don't know that and they come
+in with whatever they're used to in
+their other company, it's kind of like,
+oh wait, I you know, you're we're gonna
+we're gonna have a problem here very
+soon because we're not singing from the
+same song sheet here. So that that was a
+big challenge for us big time.
+Yeah, I can imagine. And that comes back
+to like, you know, it's it's something I
+think we start our own companies to not
+have to deal with mission, vision, and
+values, right? Because they were such
+at the other companies I worked
+at. They would have them on a plaque. No
+one really cared or said them. But there
+comes a time in your when your team hits
+a certain size, especially as you're
+bringing in new hires, where it no
+longer you're no longer communicating
+your mission, vision, values through
+osmosis, and you have to do it
+deliberately, right? I mean, and is that
+whether it's mission, vision, values, or
+whether it's some document, you know,
+that you that somehow captures this is
+who we are. This is how we think about
+things. One of them is frugality for
+you. It sounds like like we're we're
+self-unded company and we you know, I
+imagine it's like we spend money when we
+need to, but we're also quite frugal.
+And if that wasn't written down
+anywhere, then someone comes in having
+been working for, you know, corporate uh
+headquarters for Target for decades, had
+all this budget, suddenly it's like you
+get a mismatch, right? How did you Yeah.
+How did you write that?
+Well, one of the things I I learned from
+my teaching days as a teacher in the
+classroom is re really the the this
+whole mission v vision and values and
+just like you know it kind of glosses
+over most people in orientation. What we
+like to do instead is we kind of uh give
+examples and they're kind of like
+classroom rules. I know that sounds
+strange but they're kind of like
+classroom rules. And the reason why we
+do that is because um
+if you remember back in grade school,
+you know, really the rules are what you
+can get away with. Really, that's what
+it is. Like if it's if the teacher says
+there's no talking during the exam and
+uh a student starts talking during an
+exam, the real rule is that you can talk
+during the exam, right? And that's the
+rule. If the teachers, you know, you
+know, puts them aside and said, "Hey,
+you're gonna sit here now." Now we know,
+okay, that rule is real, right? So we
+realize that if we're going to have some
+sort of uh uh set of things that we all
+believe in, some sort of values, uh we
+have to uphold them in some way. And
+they can't be too many, right? They have
+to be pretty core values, you know,
+three or four, five max. Um but most
+importantly I can't police them or I
+can't enforce these values or I can't
+uphold these values and make sure that
+when people don't do these things that
+we have a chat by myself. I had to make
+sure that you know our management level
+you know all understood that hey this is
+what we do when when somebody doesn't do
+this or somebody doesn't uh understand
+this or needs to be taught or needs to
+be coached through this. Um and then
+what happens if they continue to do this
+all that kind of stuff because uh
+otherwise um what happens is that you
+know you do an old hands you do a
+retreat that's when you revisit your
+values and then everybody kind of you
+know snickers at it because it's like oh
+not really you know um so that's what I
+was trying to prevent. Um and um one of
+the things that what happened in that
+process when we were growing rapidly
+during co is that we were hiring quickly
+but we also had to fire a bunch of
+people that have been with us for years.
+Uh and the reason why is because one of
+our growth value one of our re uh our
+values is growth is is a is a growth
+mindset not only in terms of the company
+but in terms of all of us as individuals
+because what happens is that the the
+company starts to grow. The company
+starts to change. How we work changes.
+We we level up our procedures and how we
+how we do things and how we run our
+meetings. Uh and people don't sometimes
+connect with that. Sometimes they they
+resist that. They're like, "I like the
+way things used to be." And and
+sometimes when people don't come along
+with the ride, don't grow with us. We
+had to kind of have a chat with them and
+say, "This is not working out." You
+know, like, "I need you to change. I
+need you to grow with me." It's painful
+for me, too, by the way, as a founder.
+Like, it's hard for me to say, "I'm not
+good enough. I need to change. I need to
+get better if I want to get to where I'm
+going." You know, like I'm not the CEO
+of the company I see in five years. I
+need to get there. So um it was
+heartbreaking and also part of that you
+know change and growth and new people
+coming in and people leaving is like
+talking to the team on a daily basis you
+know PMs and in Slack and things like
+that saying hey how you doing because it
+does shake morale a little bit when
+somebody who's been in the company for
+five years six years uh leaves and
+they're like oh am I next is is is this
+how it's going to be because you know
+they're growing. Um, so it's really uh a
+softscale people person challenge that I
+didn't expect.
+Yeah, that really tough. A reminder to
+folks watching, we have uh listener
+questions coming in and you can post
+them in Microconf on air or in the
+YouTube comments. First question is from
+Zach on YouTube and he says, "If you
+were to start a business in 2022, would
+you still bootstrap it or would you be
+open to bootstrapper friendly capital
+like tiny seed? I did not plant this
+this question." Um, and and what's your
+thought process behind it?
+Full disclosure, um, my I my thoughts,
+my opinions on bootstrapping has changed
+drastically over the course of the
+almost eight years now with Webinar
+Ninja. I used to be super gung-ho.
+Bootstrap is the way. Have full control.
+This is your business. This is why you
+got into it in the first place. Um that
+changed a bit as you realize
+that is not the answer for every stage
+of your business. That is not the answer
+for every business. Every business needs
+something different. Um and uh I'm not
+too proud to say uh I I do recommend
+people to look at um options like tiny
+seed. I remember when I learned about
+tiny seed in micro comp I was like this
+is a brilliant idea like you know
+because one you don't realize how much
+strain bootstrapping a business has on
+your personal life on your personal
+relationships on your your your your
+partnership or your marriage with with
+whoever you're with. Um, you know, my
+business partner is my wife. So, there's
+there's double pressure that we have on
+us. There's so much of our personal
+capital that got invested into this
+company. Um, and it's almost like you're
+you're you're like a gambling junkie.
+You're like, I got to go all in now
+because, you know, everything is on the
+line and blah blah blah. Um, but I do
+think this is actually a pretty good
+option because at least it frees you up
+to say, "Hey, I have some capital to get
+started. to have some even if you're not
+just getting started, even if you are
+ramen profitable, even if you are have
+product market fit and you want to get
+some a boost in cash so you can make
+some hires so you can grow your team,
+invest in marketing, this is a great
+option because one, it's not a bad thing
+that you have a partner. It's not a bad
+thing that you have somebody who's who's
+going to take a slice in your business
+in exchange for you to go to the next
+level. Um, it's kind of like that whole
+thing. Do you want, you know, um, do you
+want a bite out of a do you want a slice
+out of a a watermelon or a grape? You
+know, like your business has the
+potential to grow much bigger, not only
+in terms of the investment, but the the
+knowhow and the help and the guidance
+you're going to get from from from an
+investor or from a a company or an
+organization like Tiny Seed. So, I'm I'm
+totally I've shifted a bit, a lot of bit
+uh over the years because um
+it's really hard to be creative and to
+think clearly when you have the ceiling
+falling down on you and that's how
+bootstrap businesses are for the most
+part. you're constantly like taping up
+this and doing that and making sure
+you're trying to survive, you know, and
+and at the same time meeting demand and
+growing and it's hard to be creative in
+that environment. It's hard to really
+come up with innovative uh uh solutions.
+Uh so having the the at least the
+financial piece taken care of and help
+helping you out and giving you some
+oxygen is is something I I I would do it
+if I did it all over again. I would do
+it.
+It's interest. It's interesting to hear
+you say that because I didn't know, you
+know, what your answer is. And your
+answer could also have been, hey, I'm a
+bootstrapper and that's what I do. And
+that's okay, you know, but I started
+Tiny Seed because I want I wished I had
+been able to do this 10 years ago, you
+know, when I was grinding it out with
+Hitail and grinding it out with Drip.
+And to the same thing, you know, to your
+point, it's it's really hard to be
+thinking about quality of life and
+growing the business when I'm like, can
+I make the bills this month, right? or
+or I'm working 40-hour day job, 20 hour
+a week nights and weekends, which is
+what I did for years. And I would really
+wish that there had been some other
+option. It doesn't have to be tiny
+seeds. You can raise a little bit of
+money. Bootstrapping, non mostly
+bootstrapping. It's it's just a tool.
+Funding is a tool and know what you're
+getting into with it and uh you know,
+use it as a tool to grow your business.
+More listener questions pouring in. Um
+Mujad on YouTube says, "I'm also just
+starting on a bootstrapped company with
+my spouse. anything you would tell
+yourself back then? Oh, that's a I like
+that question.
+Yeah. Um, definitely uh have a
+discussion about responsibilities and
+roles. And one of the things Nicole and
+I always do is we like to start the
+conversation that like it's really hard
+to separate your personal life from from
+business because you're you're you're
+you're not talking to a different
+person. You're talking to your wife,
+right? You're talking to your partner in
+life, whoever it is. So um we we always
+understand that hey you have a
+responsibility I have a responsibility
+let's work together uh to get get to
+where we want to go in the business but
+at the same time you have to recognize
+that uh your relationship is really
+the most important thing here like you
+can start another business you can get
+another job you can invest in another
+opportunity
+you know it's really hard to find
+another partner in life that's going to
+support you and be part of you uh a part
+of your life and part of your journey.
+So just keep that in mind. I I would say
+um is and also it's one of the
+advantages I think is I think it's like
+some sort of divine intervention. I
+don't know what you want to call it, but
+it's almost never that we're both down
+at the same time. Like I'll have a bad
+day or I'll be like, "Oh, this why did
+we start this thing in the first place?
+What's going on here? I'm dealing with
+all these problems and these issues and
+I gotta put out these fires. And then
+she'll be up and she'll be like, "We
+could do this. Don't worry." You know,
+we've handled this before. D and then
+vice versa some other time. And that's
+really a blessing. That's really
+something that like I don't take for
+granted because it is hard to run a
+business by yourself and to have
+somebody who cares about you to have
+somebody that has your best interests in
+mind that you don't have to question
+their motives all the time about why
+they're saying this and all that kind of
+stuff is is really good. is really good
+and really cool.
+That's great advice. Good to hear. I'm
+curious, you know, you mentioned that
+your team had made a lot of changes. Uh
+there were a lot of changes that went on
+over the past few years. So, let's say
+between when you did this this talk that
+we're talking about in 2019 versus
+today, you know, what is what is your
+team structure like today? I guess
+describe, you know, size and and how how
+you structure it.
+Yeah. I'm embarrassed to say that
+probably around the time of the talk,
+um, I would say the majority of the team
+would report directly to me or Nicole.
+Um, and that was really hard. That was
+really hard. Uh, the funny thing is
+after micro, we were going to Europe for
+a short holiday. It was like, um, not
+even a week. May maybe a week, I don't
+know. But like I couldn't shut off. I
+could not actually have a full day
+without looking at my phone or putting
+out fires or answering questions or
+whatever it is. Um, and at that moment I
+was like, "This is this is ridiculous."
+Like, I haven't had a vacation since I
+left teaching, which was 2012.
+Um, and you know, I
+I'm I'm all for hard work. I'm all for
+giving it all you can. Um, but uh is it
+Jason Freed that says like I'm
+interested in having a stay up and not a
+startup like just have I in order for me
+to continue going for the rest of my
+life, I need to pace myself. You know, I
+ran long distance track when I was in
+high school. And that's something that
+you learn very quickly is like, you
+know, you need to understand how much
+left you have to go still. And for most
+of us, you have more to go than you
+already had
+have endured so far. So that that was
+that was a big learning. So I we started
+to realize okay how can we first of all
+get the right people in place so that
+the the most uh labor intensive question
+intensive type of things are taken care
+of and
+most of us think of like these big hires
+I'm need a CTO I'm a CEO I need a you
+know this VP of this and VP of that and
+actually the first thing is that we just
+got a really good EA we got a really
+good person who basically became the
+head of HR, you know, she she took care
+of all the stuff in terms of like leave
+and scheduling and emails and send me
+your bio and all all the things that
+these little tasks that take up all your
+time, what Dan Martell calls $10 tasks,
+right? All these little $10 tasks. And
+that kind of just gave us some breathing
+room be like you you can't go directly
+to me for everything. you have to go
+through our executive assistant who will
+probably help your help you much faster
+and better than we will because we are
+doing a million things. So this person
+is just dedicated to answer these little
+small admin questions. From that point
+on we when we got a taste of that we're
+like oh wow okay what else can we do in
+terms of like bigger decisions. So, uh,
+we we brought on a full-time CTO, and
+that was a great decision that we had
+because somebody who, uh, was able to
+kind of take ownership of all the
+engineering and product decisions and
+and hires and who's going to get hired
+next and vetting CVs and all that kind
+of stuff that takes all your time. Okay,
+great. That that was taken care of. We
+promoted somebody in customer support to
+somebody to take care of all of customer
+support and and manage people. Then, we
+didn't made another promotion that
+helped uh train the team. So somebody
+who's really versed in in the knowledge
+of the product became uh uh you know
+somebody who trained trained uh the rest
+of the team members. Uh we invested in
+QA big time and and and that was an
+internal hire as well. Somebody who was
+actually was in support was really
+interested in getting into the
+engineering team and uh made that shift
+and that that also was another buffer
+between me and the engineers and all
+that kind of stuff. So I'm not saying
+it's perfect right now but it's a whole
+lot better. We still need to make a few
+hires uh to free up my time. Um somebody
+I really highly uh admire and listen to
+a lot is uh is Iman Abdullah who was the
+president of of Absumo for a very long
+time. Um and he's taught me a lot about
+like hey he has this analogy of like the
+the the camp the camp manager, you know,
+he doesn't actually build the tents. He
+has his coffee mug in his hand and he
+tells people, hey, do this next step. Do
+this next step. Right? And so always
+think about this idea of having a mug in
+your hand and try to delegate as much as
+possible and not actually do the work.
+He actually encourages me Nicole to be
+allergic to work. Try try to be allergic
+to work, which is very hard as a
+bootstrap founder because that's how you
+got where you are is working. But then
+you realize, okay, I need to empower
+other people so that I can have a life.
+Yeah. Yeah. That's and that you know if
+you don't grow a company to the size
+that you have grown it you don't run
+into these these
+speed bumps I call them right it's
+things that that you hit and they they
+feel like roadblocks at the time you
+can't take a vacation like that's
+terrible but you you get into it you
+figure it out I mean this is what being
+an entrepreneur so much of it is just
+troubleshooting and creativity you know
+I just want to say one thing about that
+because I know that I heard this advice
+when I was my first few years of boost
+strapping and I said, "This sounds
+great, but I don't have the budget to
+hire anybody, right? I can't hire I I
+don't have any extra money laying around
+even to hire an EA." And my answer to
+myself back then and to anybody who's
+asking that or thinking that right now
+is ask yourself, how can you afford it?
+If you how can you carve out X amount of
+dollars a month to pay for that next
+position? Don't think about all the
+positions right now. Just think about
+that next position if it's as EA or
+whoever it is. And it could be launching
+a new product. It could be increasing
+your pricing. It could be adding some
+ex, you know, expansion revenue, some
+premium support, whatever. But don't
+just say, "I can't afford it." How can
+you afford it? Is really what you need
+to find out because the alternative is
+not sustainable. Right.
+That's right. That's right. Run an
+annual special and sell a bunch of
+annual plans, right? No, this is this is
+a mindset shift that I had as well where
+I would come up with ideas that would
+solve a problem and then I would figure
+out excuses why I couldn't implement
+those ideas. And what you're saying is
+just get rid of the excuse. How can I
+instead of I can't. So, as we're heading
+towards time, I have I think one more
+question for you and it's about the
+future since you're steeped in webinars
+and streaming technology and all that.
+like when you look ahead three years,
+five years, where do you see the webinar
+landscape heading?
+Yeah. So, we've already um explored this
+idea and we're already moving in that
+direction, a different direction. Um
+we're still very much into uh live
+teaching, live learning uh with
+webinars. But one of the things that
+we've learned from our customers, we
+we'd get on calls and and chat with them
+and figure out like what are they doing?
+And I was really interested in like what
+they actually sell. And most of them
+were kind of frankensteining a lot of
+different software together to run their
+cohorted live courses.
+So they would for example have a landing
+page on lead pages and then they would
+have a payment processor some sort of um
+cart like Sam car or something like
+that. These are all great products by
+the way. Right. And uh and then they
+would uh have zoom so they can do the
+actual session. And then they would have
+some sort of membership software like
+Teachable or uh or something like that
+so that they can take the recording from
+the Zoom and put it in the Teachable and
+then give the the student access to
+that. Um and so they have like a whole
+bunch of things moving around so they
+can run these live cohorted courses. Um,
+these are like seven-week courses on
+accounting or something like that and
+and they're all live and there's
+handouts and people show up and things
+like that. Um, and and there's been a
+shift big time in terms of live cohort
+of courses recently because of uh
+completion rates. Of course, co pushes
+everything, but also just people love
+the community aspect of growing together
+with another another cohort. So, what we
+learned from our customers is that um
+they have there's all these little
+potholes in this system. for example,
+they're running a coaching program and
+somebody stops paying their fee and
+they're like, "Hey, this is not for me
+anymore." They still have all the
+invites and the links from Zoom so they
+can actually attend if they wanted to.
+They h they can disconnect them from
+Teachable, but they have to also
+disconnect them from the billing. And
+it's a it's it's actually too much for
+somebody who's running their business by
+themsel, you know.
+So, we realized, well, we already do all
+this stuff with our Ninja, but we just
+do single sessions. we don't, you know,
+um so we're we've already kind of
+announced this with our own members.
+We've have a courses module that's
+really just dedicated to live cohorted
+courses um which will allow people to uh
+have their students sign up, have their
+own little uh portal and dashboard where
+they can go directly inside to go to the
+the live uh to the live session and also
+watch the replay automatically when it's
+over. Watch that and see that. We were
+really we're really bullish on online
+learning uh in the future and especially
+live online learning. Um but we also
+perceived that there's going to be a lot
+of hybrid type of live and recorded. So
+like do a bit of homework and then come
+in once a week and and meet with with
+your instructor or with your group and
+do some project together. Um so you know
+when I started in webinars it was large
+live events you know 100 200 300 people
+a thousand people going to your webinar
+and people selling product and all that
+kind of stuff and I think it's now
+changed to more of smaller groups but um
+you know more focused more intense more
+value uh type of things um and for us
+our customers when we kind of beta IDed
+it we said hey would you look at this
+idea and we we kind of did some mockups
+and some some uh some some demos they
+they realized, oh this is great then I
+can just sell my course with webinar
+ninja directly and then be able to give
+access to my to my customers in one
+place. So uh that was an epiphany for us
+to realize okay we can solve another
+problem for our customers that they're
+really uh going through.
+So it sounds like bundling you think
+that a lot more tools will be bundling
+additional functionality. Yeah, in that
+model. Yeah.
+Yeah,
+I think that makes sense. All right, so
+one last question before I let you go.
+Um, what's the most surprising thing
+you've learned to date running Webinar
+Ninja? It's a hard question. I know when
+I asked for one, but
+the I would say the most surprising
+thing, the thing that caught me by
+surprise was how much I had to change as
+a person. Like I didn't know how much
+personal growth is involved to be able
+to grow a company. Like I I thought I
+was like, okay, you got to learn, you
+got to know the strategies, you got to
+read the right books, maybe listen to
+some interviews. No, like I don't
+recognize the person that I was four
+years ago. Like you have to change your
+habits, who you are, the way you think,
+um you know, your beliefs like the even
+just that small thing with bootstrapping
+like you question your beliefs. Is that
+really great a great idea for everybody?
+Is that a great idea for you? maybe, you
+know, you need to you need to be able to
+switch your values and the way you think
+so that you can uh survive as a
+business. Um, and it's just, you know,
+one of one of the things I I learned
+from the the biography, um, Shoe Dog,
+which is Phil Knight's memoir, is how
+much he had to evolve, how much he had
+to change, how much, you know, crap he
+had to go through to get get to where he
+was. Um and and I I see that in myself
+too and that was the most surprising
+thing for me is like how much you have
+to evolve as a person.
+It's a great answer sir. Thanks so much
+for joining me on microcom on air today.
+Folks want to follow you. You are the
+Omar Zenhome on Twitter. Thanks again
+sir.
+Thanks Rob.
+All right and as we head out I want to
+remind you that Microcom Mastermind
+applications close this Friday. Head to
+micromasterminds.com
+if you want to be paired up with other
+like-minded individuals at similar
+stages to you. And we have done more
+than 600 matches over the past I think
+18 months since we've been doing this.
+More than 150 million in ARR of
+companies uh founders who have matched.
+So whether you're just getting started,
+whether you're doing north of, you know,
+well north of a million dollars, we have
+other folks who we can match you with.
+And as always, thank you to Hey and
+Stripe for being our headline partners.
+Um, they have been longtime supporters
+of MicroCom and they continue to be
+through 2022. Thanks again for joining
+me here and I'll see you again at same
+time, same place in two weeks.
+[Music]

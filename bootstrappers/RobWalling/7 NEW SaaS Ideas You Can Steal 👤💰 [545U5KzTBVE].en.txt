@@ -1,0 +1,327 @@
+﻿in this video I'm going to talk through
+seven SAS ideas I'm surprised no one has
+built yet and if you stick around till
+the end I'm going to give you a special
+bonus idea that's not just an idea for a
+specific single product but a whole way
+of thinking about coming up with new
+ideas I'm Rob Walling I'm a Serial
+entrepreneur with multiple exits I've
+written three books about starting
+companies and I've invested in more than
+100 startups I want to start by giving a
+shout out to the people who contributed
+these ideas none of them came from me
+these came from a couple different
+sources Twitter the tinyseed slack and
+the microcomp connect slack and I am
+going to give credit to the folks who
+suggested them by name as we run through
+the video and I want to give two caveats
+before we dive into these seven ideas
+number one no validation has been done
+on any of them I probably wouldn't take
+these ideas and just go out and start
+writing code my first step would be to
+figure out which one is within my
+wheelhouse and then I would start
+contacting folks to figure out is there
+a marker for this if I build this will
+people pay for it and am I able to reach
+them second caveat whenever I release
+these videos I get a lot of folks
+reaching out directly to me asking for
+more info asking to want to chat with me
+about how to build these out or what the
+needs are in this case it doesn't make a
+ton of sense because I don't really have
+a need for any of them these were all
+suggested by Third parties and so if you
+want to take them and run with them
+unfortunately I won't be able to offer
+assistance as you build these out our
+first idea comes from Twitter user John
+Young fuk And he says opportunity for an
+indie hacker my sister works in
+Recruitment and she says there is no
+decent NPS tool that integrates with
+their ATS which is called job adder and
+it has an open API she's only found one
+tool so far and it's 800 a month which
+is a bit steep for small recruitment
+firms let's take a quick pause and look
+at the three acronyms that John dropped
+in this tweet NPS is net promoter score
+and it's a pretty easy survey that then
+calculates people's affinity for your
+product or your brand second thing is
+ATS which is an applicant tracking
+system and this is used in HR and people
+Ops 2 accept incoming resumes and then
+move people through a process and then
+of course job Adder which has the open
+API API is application programming
+interface it's an interesting idea and
+if there are tools out there already it
+shows there's a need now 800 a month and
+up is there room to come in at a
+slightly lower price while you build
+your brand there just might be idea
+number two comes from John Knox and he's
+wind addict on Twitter what I like about
+John's suggestions is they not only come
+with an idea but he has names for them
+as well so he says hotness hosting
+hosting that lets you build a site
+easily using markdown and also keeps you
+up to date with the latest web framework
+automatically so you never look out of
+date bootstrap isn't cool anymore no
+problem you're now on Tailwind it's an
+interesting idea but I question if you
+need to build an entire hosting
+infrastructure for this I wonder is
+there a way to build plugins or add-ons
+or you know go into the hosting
+providers App Store and essentially just
+build like a step one business that
+maybe could grow really interesting if
+that step one business is adopted by a
+bunch of Hosting providers but I
+personally would not prefer to get into
+the hosting game I think it's a you know
+a pretty tough business to get into but
+I do find John's suggestion clever and
+it certainly solves a problem the big
+question is are people willing to pay
+for this problem and can you find them
+at the scale that you would need for
+this idea to work the third idea also
+comes from John Knox and he calls it
+waterfell he describes it as a modern
+SAS tool for waterfall software
+development projects in particular
+focused on the niche of developing
+medical devices as John says it would
+have robust requirements tracking defect
+tracking Change Control Board tools
+verification and validation planning and
+tracking Etc it's an interesting idea
+you know just hearing waterfall software
+project management I think ah there's a
+hundred out there that already do it
+probably 300 500 but if you're going to
+focus on medical devices is there really
+a tool out there that focuses on medical
+device development and doesn't require a
+kajillion dollars to have an on-prem
+installation I don't know but it might
+be worth a little research in a few
+conversations I want to jump in here and
+let you know that when I asked for these
+ideas I didn't say who has interesting
+software ideas I said what ideas do you
+wish existed in this world if I were a
+startup founder looking for ideas that's
+how I would ask because anyone can come
+up with crazy ideas but if there's no
+need then you're a solution in search of
+a problem and that's not what you want
+to be doing so moving on to idea number
+four this came from microconfconnect.com
+which is our free slack Community it's
+heavily moderated lots of Engagement
+really interesting and obviously useful
+Community for breads like this I asked
+and folks responded idea number four
+comes from C Pursley and they said I
+would love to see easier oauth based
+Integrations where you can just drop in
+a JavaScript snippet I'd pay for
+something like this that was commercial
+and maintained and they linked to pisley
+which is a project on GitHub that you
+can check out this is oauth Integrations
+as a service it's an interesting one our
+fifth idea comes from microcomp connect
+member Jeff Gates and he says software
+for independently owned airport hotels
+to rent out extra parking spaces for air
+Travelers when I think of independent
+hotels I think they probably don't want
+to pay for another piece of software
+it's definitely something that I would
+think about how to have an add-on for
+each space that's rented so that there
+is no additional fee to the hotel itself
+I do wonder how many independently owned
+airport hotels there are so that'd be an
+early thing I'd be concerned about is
+how big is this Market actually second
+thing I'd be thinking about is how can I
+build this with as little code as
+possible because this is just basically
+create read update delete you put some
+parking spots in here you see who pays
+it you hook into your stripe account
+there's not much to this except for
+ultimately of course you'd want a web
+interface to administer it and you'd
+want a mobile app for end users to be
+able to quickly book a spot as they're
+on their way to the airport as I think a
+lot of us would do but you don't have to
+start with that you could easily start
+probably with some no code you know I
+can imagine getting manual parking spot
+numbers from your first three pilot
+hotels putting them in a database and
+then having just enough of a cobbled
+Together app on the other end to kind of
+test the idea out the hard part of this
+is the uncertainty of are hotels
+interested in this is it worth their
+time do they have spots that are
+numbered that other people won't Park in
+so you know you think about the physical
+needs they're going to have of putting a
+sign up to say don't park here unless
+you've rented it through this service so
+there's more here than just software but
+it's certainly an interesting and
+creative idea from Jeff Gates our sixth
+idea comes from microconf connect member
+Michael breeziel and he says software to
+manage dialysis care sad a growing
+industry is serving those with kidney
+failure it will likely continue to grow
+a lot more in the future there are many
+ways to receive dialysis including at
+home if you provided software to support
+the at-home dialysis patients you could
+potentially partner with service
+providers like Fresenius I'm not sure if
+I'm pronouncing that right to license so
+this one I almost see as a two-sided
+Marketplace which I'm not a huge fan of
+I question if just building software is
+enough here or if don't you need
+providers and then of course you need
+patients who are seeking dialysis care
+so you need some type of of funnel or
+you know organic search or whatever it
+is to to bring those folks I'm not
+convinced that purely just software will
+do this job but there's also addition
+possibility that I'm not fully grasping
+the idea as Michael is is telling it
+because this is not an industry that I'm
+super familiar with our seventh and
+final idea aside from the bonus idea
+I'll give you in a second is from Tim
+Burgess in Microsoft Connect and he says
+affordable software for reviewing and
+redlining contracts couple thoughts
+about this one I like that he says
+affordable software because that
+indicates there probably is software out
+there but that it's really expensive now
+do I want to enter a space and be the
+low-cost leader and Market myself like
+I'm the discount dollar store version I
+don't but if all the software is
+Thousands per seat per year and up there
+is room for a small bootstrapter mostly
+bootstrap software company to come in
+and undercut by 20 30 40 and still make
+amazing margins a lot of these
+businesses that do have footholds they
+do Drive their price up over time and
+without competition to quote unquote
+keep them honest they just raise prices
+and so it does leave a lot of room for
+upstarts perhaps like yourself to come
+in and gain a foothold now with that
+said selling into the legal space is
+pretty challenging I talk often about
+customer paying versus competitor pain
+and this is definitely a customer pain
+type of Niche where the customers are
+less technical they do tend to care
+about expenses they sometimes need a lot
+more support they need onboarding they
+don't move super quickly because there's
+risk to them working with a startup you
+can imagine having an error in a
+document that's catastrophic so they
+really need to trust you I'd be a trying
+to think about how I would validate this
+before I'd write much code and B I'd be
+thinking about how can I gain the trust
+of the space perhaps by partnering with
+the you know the handful of influencers
+in the legal space or getting some early
+logos that are going to give the rest of
+the space confidence in my product next
+I'm going to tell you about the idea for
+an entire category of products but first
+I want to remind you about microconf
+connect that's where I got a lot of the
+suggestions in this video it's a free
+online membership Community we host it
+in slack and we're approaching 4 000
+bootstrapped and mostly bootstrap SAS
+Founders who are launching shipping
+growing and helping one another do it as
+they go if you're not part of microcomp
+connect head to microcomp connect.com
+and here it is the bonus idea from Tash
+postalovsky they say an emerging
+category I see is privacy first and gdpr
+compliant versions of existing SAS both
+fathom and plausible have done
+incredibly well with privacy first
+analytics other opportunities I see are
+privacy for split testing marketing
+automation personalization and
+advertising any popular SAS that is not
+gdpr compliant There's an opportunity to
+build a gdpr compliant alternative I
+have to admit it's a really interesting
+idea I wonder can you just make a gdpr
+compliant tier of your software much
+like HIPAA is often the Enterprise tier
+of you know whatever software you're
+using or does the marketing really need
+to focus so much on gdpr that the entire
+product needs to be that I'm not sure if
+you search for martech SAS you're going
+to see thousands and thousands if not
+tens of thousands of SAS companies that
+have some notoriety if you look at each
+of those categories you start to think
+which of these is not gdpr compliant yet
+because a lot of martech relies on
+cookies and third-party cookies and
+tracking of people to know who bought
+what this when or who clicked on this
+link when and can you build a
+functioning feasible gdpr compliant
+version of any of these or all of them
+it's a clever lens through which to view
+ideas and coming up with them and I
+appreciate the suggestion from Tash
+that's all for today but if you have a
+SAS idea that you'd like to see brought
+into the world please enter it below in
+the comments and of course if you
+enjoyed this video I would love a like
+and a subscribe if you're not already
+subscribed to the channel we release a
+video like this every week tactical deep
+dives into topics like coming up with
+ideas validating them finding your first
+hundred customers and more it's great to
+have you and I'll see you in the next
+video
+[Music]

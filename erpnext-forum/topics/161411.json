@@ -1,0 +1,51 @@
+{
+  "topic_id": 161411,
+  "title": "Error when Edit Layout on desktop",
+  "slug": "error-when-edit-layout-on-desktop",
+  "category_id": 6,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2026-03-11T14:07:33.757Z",
+  "last_posted_at": "2026-03-11T14:07:33.928Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/error-when-edit-layout-on-desktop/161411",
+  "views": 24,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Maq",
+  "posts": [
+    {
+      "id": 495777,
+      "username": "Maq",
+      "name": "Maq",
+      "created_at": "2026-03-11T14:07:33.928Z",
+      "cooked": "<p><img src=\"https://discuss.frappe.io/uploads/default/original/3X/a/6/a69bd2f119283f7fc4ca090bfd8a9b8c9e9e8c3f.gif\" alt=\"Edit_Layout_Error_Frappe16\" data-base62-sha1=\"nLT6UramfwPNYpxHkDUIH6e7vtl\" width=\"690\" height=\"360\" class=\"animated\"></p>\n<p>From Frappe Cloud Demo, When I try to edit the layout I got Error as illustrated.<br>\nHow to modify Desktop Icons by adding new icon. Is there any Documentation for Frappe 16 or Erpnext 16<br>\nThank you</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/958977/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 12,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

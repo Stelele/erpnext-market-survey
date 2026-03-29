@@ -1,0 +1,1892 @@
+﻿Arvid Kahl: Hello everyone and
+welcome to the Bootstrapped
+Founder. Today, I'm talking to
+Troy Hunt, the person behind
+Have I Been Pwned, the website
+that lets people check if their
+email address is involved in any
+recent or ancient data leaks.
+Troy is a security expert. And
+we'll talk about how founders
+can build a secure business,
+what parts they can build
+themselves, and which they
+should outsource, and how to
+make absolutely sure that your
+own customers are safe. Here's
+Troy. Troy, you're an expert in
+cybersecurity. You're teaching
+people relentlessly too and just
+to stay secure and be aware of
+security topics. And not to fall
+for malicious actors. I've
+checked your YouTube channel too
+and you have a couple of cool
+videos just exposing scammers
+and that kind of stuff. I have
+to know. Did you do any due
+diligence on me before accepting
+this call? Because how does a
+cybersecurity expert deal with
+podcast interview invitations
+like this?
+Troy Hunt: Ah, it's easy to say
+yes. And then work it out later
+on. Look, you know, for things
+like podcasts, I think the only
+due diligence I do just because
+there's a lot of requests is
+just to make sure they're not
+like a completely random person.
+And they do actually have an
+audience or so. That's not to
+say I don't say, you know, no to
+people starting out. But there
+are a lot of requests lately.
+Arvid Kahl: I bet yeah, I know
+the feeling. I have similar
+avalanches of people who wanna
+do stuff. And that's nice,
+right? It's nice to be in a
+position where you can teach
+people the things that you know,
+and it's kind of why I wanted to
+talk to you today. I think
+security is something that
+everybody should be extremely
+aware of, but particularly for
+entrepreneurs, solo founders,
+indie hackers, that the field
+that I'm very active, and this
+seems to take a backseat, most
+of the time. Like people are so
+busy on building an MVP, like
+just kind of gluing stuff
+together and like throwing it
+out there. And then some of them
+have success and then the thing
+grows. And all of a sudden, they
+are a big target. So I kind of
+would like to talk to you about
+how founders can improve both
+their personal security and the
+security in their software
+projects today. What do you see
+most often hit in terms of like
+security situations in software
+as a service businesses? What's
+the one thing that founders get
+wrong in that field?
+Troy Hunt: It's, you know, I
+don't think there's just just
+one thing, but it's so often it
+is the basics time and time
+again. And whether it's small
+startups or large
+multinationals, it is reused
+credentials, like of multi
+factor authentication, unsecured
+databases. You know, we're
+talking at a time here where
+we've just had two massive,
+massive incidents in Australia
+that have just completely reset
+the campus on how we deal with
+cybersecurity. One of them was
+insecure direct object
+references. It's a URL with a
+number and you change the number
+and you get something else. And
+then the other one, for a major
+private healthcare insurer, was
+reused. Actually, I wanna say
+reused credentials. We don't
+know that they say compromised
+credentials, so we can only
+assume that that might have been
+it. And yeah, these are
+enormously devastating 10s, if
+not hundreds of millions of
+dollars worth of damage on each
+of these incidents. And it's the
+same thing that we have as
+founders. I think the one thing
+that's common, whether you're a
+large organization or a small
+one, is you still got people
+there writing software. You
+know, we're fallible humans. We
+make mistakes. We just seem to
+make the same mistakes.
+Arvid Kahl: Yeah, I guess it
+kind of extends from the
+personal sphere of making own
+mistakes into making business
+mistakes. It's kind of one of
+the things that I see a lot is
+that it's solo solopreneurs
+really building their own thing.
+And then they're kind of the
+family is also involved, like
+the partners maybe doing the
+books, like keeping the books or
+like a friend or family members
+helping them out. Those are also
+kind of, you know, potential
+attack vectors. What would you
+suggest for people to help
+secure their family or their
+extended operations? Even though
+that's a solo business, right?
+What could they do to make their
+business safer by teaching the
+people around them?
+Troy Hunt: Well, I mean, my wife
+and I are good examples. So she
+does all of the, she basically
+does everything that she
+possibly can on, say, been fine.
+So like it is all the books and
+the accounting, and she does a
+lot of support tickets and
+things like that. So it's a
+combination of things for us.
+And whether you're sort of a
+small business or a family or in
+our case, I guess both, it's the
+same sort of things. Yeah, we
+use a password manager with the
+family's account. We share
+things between ourselves. Every
+password is strong, unique multi
+factor authentication on
+everything. Yeah, all the
+mechanical things that we keep
+talking to people about and then
+just a lot of the, I guess,
+awareness things. Like that
+email looks a little bit fishy,
+you know, maybe or maybe you
+should really think carefully
+before following that through.
+And you know, this sounds
+obvious to a lot of people
+because they're like, I'm sure
+I've heard this before. So yeah,
+but we don't do a very good job
+of it yet, which is why we keep
+repeating it. Yeah, I don't
+think we're at the point of
+saying we fix all of that. Let's
+start to do the really, really
+high tech, you know, super
+sophisticated stuff.
+Arvid Kahl: Now, one thing that
+I found that in particularly in
+founders who are building their
+own software, like from the
+ground up using maybe kind of
+some bootstrapping skeleton
+system or whatever, but people
+love to build their own
+authentication system. And I
+have tried to convince people
+not to build their own
+authentication systems, like
+using an email capture password,
+building their own password
+resets, all that kind of stuff.
+People don't listen to me, but
+maybe they will listen to you.
+Could you please give me a good
+argument that I could give
+founders who love building
+software, not to build their own
+authentication.
+Troy Hunt: So I started writing
+about infosec about 13 years ago
+and back then, the message was
+always don't roll your own. And
+there was a bunch of
+authentication frameworks built
+into products like dotnet or
+whatever your favorite software
+development platform is. Like
+it's built in. And it's not just
+authentication and session
+management is everything else is
+built in. And over the course of
+time, since then, we've now got
+better authentication providers.
+We've got lots of OAuth
+providers. We've got so many
+different services out there to
+do all this for you. And I love
+the idea of not being, I
+actually love the idea of
+delegating as many things away
+as you possibly can. This has
+some other issues, I'm sure
+we'll come back to. But yeah,
+authentication is just one of
+those things that is such a
+massive target, it's so easy to
+get wrong. And it's also so easy
+to go and procure from somewhere
+else. Like get rid of the
+responsibility. Go and focus on
+the things that you do well and
+delegate the rest of it away.
+And that's not just
+authentication, but how many
+different libraries and things
+we pull into our software
+development projects these days?
+You know, how many people just
+mean, look at even some of the
+remember leftPad. You know, it's
+literally libraries to do things
+like add padding is, if you're
+gonna go and get someone else to
+write the code for that, then
+definitely get them to write the
+code for the hard bits.
+Arvid Kahl: Yeah, the whole
+JavaScript library ecosystem
+seems to be so convoluted and
+also easily attackable. Like
+just NPM, just recently added
+the forced 2FA to account owners
+for certain packages that have
+more than a couple million
+downloads a month, right? Like
+they are very specific in what
+they enforce and what they don't
+enforce. Because the ecosystem
+is just developed in a way where
+most people don't have two
+factor authentication, even
+though they have packages that
+are part of other packages that
+are part of other packages, and
+so on. And then there's this
+whole system of very hard to
+introspect libraries that people
+use. Is there a kind of
+framework that you would suggest
+for people to know how to
+approach libraries, if they have
+to use them in their software?
+Troy Hunt: Well, I don't know
+that we ever have to, but we
+always do. In Australia that's
+the first thing is, it's hard to
+imagine starting a project today
+and writing every single line of
+code yourself. And if it's not a
+package and it's an external
+service and I guess same but
+different, right? Yeah, that the
+canonical guidance that's been
+out there for many years is that
+you need a mechanism for keeping
+packages up to date. Now, if
+it's a package management
+product, like NuGet or NPM,
+where you can go through and see
+when you libraries are out of
+date. And of course, we've got
+the likes of controls within
+continuous integration
+environments, which will let you
+know many times if a package is
+out of date or if there's a
+vulnerability. And the thing
+that sort of keeps coming back
+to me, and it was something that
+I struggled a lot to get my
+previous employer to pay
+attention to is like, when you
+build software, it is like
+having a child. You've now
+created something that is a
+dependency that needs fear and
+watering and love and care. And
+part of that is going through
+and looking at those packages
+and making sure that they have
+today, because we've seen so
+many occasions in the past. I
+mean, we're still in recent
+memory of log4js, right? They've
+seen so many different cases
+where there has been a
+vulnerability because someone
+else is writing code, that made
+mistakes, too. So how are you
+gonna be on top of that? It does
+create this ongoing dependency
+on you to maintain your
+dependencies.
+Arvid Kahl: So it's something
+that we can ever, like really
+outsource because I'm thinking
+if we outsource our
+authentication to a trusted
+partner, could that be something
+that we actually outsource to
+another trusted partner like
+library update management as a
+service? Has that ever been
+tried? Have you seen this?
+Troy Hunt: Well in a way, you
+just sort of going more towards
+the SaaS model, aren't you? You
+know, like, if you remember that
+as we started getting cloud, you
+know, a decade and a half ago
+and they're all those charts,
+it'd be like, you know,
+traditional on premise and then
+there's Infrastructure as a
+service and platform as a
+service and then the you know,
+that eventually we evolve to
+like software as a service and
+the further along we go, the
+less responsibility we have for
+managing things that at higher
+levels. You know, I think
+there's probably not many of us
+these days that actually look
+after physical servers. But it
+might be that we look after the
+framework or we go to the next
+level, and we just look after
+our software product, or we just
+go into the UI and configure
+things. For some reason, but my
+Stripe dashboard open here. I
+write very little code to do
+with anything with credit cards
+is delegate all that away. So I
+think that's more the direction
+we're heading. You know, the
+whole idea of just automatically
+updating libraries. Sometimes we
+can get away with that. But yet,
+sometimes libraries change and
+breaking ways. I mean, Stripe's
+a good example that the API
+ribs. And if you wanna use the
+new version of the API, it might
+break your old things. So unless
+you wanna really delegate away
+all of the code work, you're
+still left with having to do
+something yourself.
+Arvid Kahl: Yeah, sounds like in
+particular Stripe is a great
+example of people who are
+implementing API's in a way that
+is actually useful for
+developers because they
+versioned them well. And they
+have these kind of translation
+layers between versions of the
+API, right? If you connect, you
+can translate it back and forth.
+And it's kind of still works.
+But the libraries implementing
+these, those might break, right?
+You have these layers on layers.
+It's just my I remember that
+from building my most recent
+software as a service project.
+And it was horrible. It was
+horrible to deal with an upgrade
+because not only did you have to
+deal with the actual API, like
+on Stripe that changed, but all
+these weird layers that now my
+Stripe client library needed an
+update, but that required
+another package to be updated
+that interfered with something
+on my database layer. It was
+bizarre and that was elixir in
+the backend, right? Community
+that is kind of just trying to
+be on top of these kinds of
+things. But it's not the biggest
+community. It's not the
+JavaScript community or the
+dotnet community, smaller. So
+people take a longer time to
+update their libraries, their
+packages. It was horrible to
+deal with this. Like it was a
+couple of weeks of frustrating,
+updating attempts, version tests
+up and down and kind of felt
+like this should not be the
+energy that I expend on my
+business trying to get this
+weird API implemented into my
+system. But I guess that's just
+you know, complexity of software
+there.
+Troy Hunt: It is. And for
+something like Stripe, if you
+break it, you can't get money,
+which is really important.
+Arvid Kahl: Yeah, it kind of
+sounds like, what is it like
+payment and authentication are
+the two things that I always
+tell people not to build
+yourself. And for payment, it's
+obvious. Like you are not a
+bank, you are not a PCI
+compatible business, right? You
+don't have the certification for
+that. But for some reason,
+people think authentication is
+fine. Because they use a
+library. They saw somewhere,
+which is another problem. Or it
+feels so weird that when money
+is in there, nobody has any
+problem using another product
+like Stripe. But when it comes
+to private information, like an
+email or a password that you
+hopefully don't reuse but
+probably will, you know,
+particularly if you deal with a
+b2c environment with regular
+people using regular passwords
+that they have and not using
+password managers. That's
+unfortunate. But also
+Troy Hunt: Even then, you know,
+there's degrees. If you take
+Stripe, it's okay, so you
+delegate your payments. So well,
+there's a lot of different ways
+of implementing Stripe. You can
+do it all at the API level, in
+which case, you're gonna write a
+lot of code. And you've got to
+deal with things like item
+potency. And I've got some
+controls built into it, but
+you've still got to consider
+what happens if someone like
+reloads the page. And that's a
+lot of what I did originally
+with Stripe several years ago
+now. And it's only been in very
+recent months. Well hang on a
+second. Like they have a
+customer portal, they have an
+embedded biddable pricing table.
+Yes, they're leaving my site.
+And now they're entering their
+credit card onto the Stripe
+site, which effectively there
+were anyway, but it looked like
+Have I Been Pwned and then a
+client async things. But the
+more I can push away, I deleted
+so much code, I felt really
+good. But I think the point is
+even when we say let's use a
+third party service, there's
+this combination of like
+handwriting, a lot of code and
+tying together API's low code,
+no code. And I like where do you
+end up on that spectrum?
+Arvid Kahl: Yeah, yeah, at least
+with Stripe, you know that this
+company has a lot of good
+reputation when it comes to
+security and internal auditing
+and a technical team, a response
+team Incident Response Teams.
+Like you've seen stripe being
+good at this. But as a solo
+founder, I remember implementing
+like, dozens of external
+services like third party
+services. And I always had this
+problem. And I know that many
+founders have this problem, too,
+that I don't have the power in
+this kind of relationship to
+audit their security processes,
+right? Like if Microsoft wants
+to use my thing, they can give
+me a lot of things, a lot of
+documents that I need to fill
+out to be compliant, but I
+cannot give this to cloudinary.
+I'm not gonna give them an audit
+or ask for a report. How can I
+as a founder, be sure that the
+third party service out there is
+not messing up the data that I
+sent to them? Is that even
+possible?
+Troy Hunt: No. Flashback that I
+had is I spent 14 years working
+for Pfizer, a massive
+multinational pharmaceuticals,
+one of the world's largest
+companies at the time. And we
+would have this, you go through
+this process with like, we wanna
+use some third party service.
+We're gonna have to not audit
+them, but get them to go through
+a compliance checklist. It's
+like, well, really? So yeah,
+yeah now we got to do it so that
+we know that everything is okay.
+Well, how do we know? Well,
+because they tick the box. And
+you get this point in time
+representation of whatever their
+security posture is. And that
+felt very counterintuitive
+because it's like, well, the
+reason we're using this third
+party services to unburden us of
+work, but what we're saying is
+that we don't completely trust
+them. Then how much of this was
+like, lawyer as covering? I
+don't know. You know, like, if
+something goes wrong, at least I
+check the box and said that
+wouldn't go wrong. But you do
+end up in this situation now,
+where it's not just one or two
+external parties that depend on
+us multiple external parties,
+many external parties. If you
+start going through and trying
+to assess them, not only do I
+think that that's woefully
+ineffective for many reasons,
+but it's also gonna now put the
+responsibility back on you,
+which is the very reason you
+went to them in the first place.
+Arvid Kahl: So how do we balance
+this? Like, how can we use, can
+we even use those services if we
+want them to be responsible?
+Troy Hunt: Sure. I mean, things
+like the Stripe example, are
+good. And you just made the
+point that they've got a great
+reputation. I think the balance
+is that we look at services that
+we trust, and we feel confidence
+in the way they run, and
+particularly when they have the
+history that someone like Stripe
+does. Or if I went and used, you
+know, Okta, for example, for to
+do OAuth. It's like, yeah,
+they've got a great reputation.
+They've got a lot of runs on the
+board, I know they're well
+resourced. I know that they can
+do the security much better than
+what my organization can. And
+that's a reasonable balanced
+decision. Now, if you're gonna
+delegate your OAuth to some new
+startup or maybe that's
+something that's a little bit
+riskier. But I think that this
+is just one of those case by
+case things.
+Arvid Kahl: So from the
+perspective of such a new
+startup, because I know that
+indie founders tried to build
+these businesses that then grow
+to the size where they can have
+the years of reputation and all
+the many cases where they
+actually did not get hacked or
+why they didn't have any leaks,
+right? That is in the future for
+many businesses that are just
+like a couple months old. How
+can you reliably be trustworthy
+and signal trust to the outside?
+Is that something that can be
+done like with a framework of
+sorts, or?
+Troy Hunt: I mean, trust is a
+really interesting social
+concept, isn't it? I don't
+really think it's a technical
+concept in the way you put it as
+it's like, who do you decide can
+take responsibility for things
+that that could have a major
+impact on you? You know, think
+about the different ways we've
+indicated trust before. At the
+moment, it's like, do you have a
+blue checkmark on Twitter? Oh,
+that must mean, it doesn't work
+anymore. Yeah, we have the
+padlock icon in the address bar.
+That means you can track well
+actually never meant you could
+trust it, it meant something
+completely different. But the
+iconography is something that
+people associated with trust.
+But I think when it comes to
+external organizations, it is
+who might be running services or
+building products, etc. It's a
+combination of, you know, do
+they have the history? Do they
+have a proven track record? Do I
+know of the people there? And
+you know, when you mentioned,
+again, speaking, merit and
+social construct, when you
+mentioned names, like Apple, I
+think is a very trustworthy
+brand. If you pick other
+organizations, particularly some
+that might have been in the
+news, various problems lately.
+You go, okay. Well, my social
+view of that is I don't have as
+much trust. But I think it's a
+very, very hard thing to prove,
+as well. I'll give you a good
+example. Often after a data
+breach, someone says, this
+organization had a data breach,
+I don't trust them anymore.
+Okay, but you say you're gonna
+trust the ones who haven't had
+the data breach. But the ones
+that just have are the ones that
+are really thinking about
+security now. And the ones who
+haven't over here, maybe they've
+actually got bigger problems.
+And you're just looking at this
+little veneer on the service or
+on the surface, rather and
+making decisions based on that.
+That's a very hard thing.
+Arvid Kahl: Unfortunately, you
+can't just have a data breach to
+show people that you take
+security seriously, right?
+That's kinda sounds like that
+would be a solution to this. But
+obviously,
+Troy Hunt: it's kind of
+counterintuitive, right?
+Arvid Kahl: Yeah. It makes
+sense. I mean, obviously, you
+would hope that any solution out
+there takes security seriously,
+and to the point where they are
+working actively against data
+breaches, but I guess the the
+undetected breach is much more
+of a problem than the detected
+breach with the efforts of
+reinstating security in that
+company, that's interesting.
+Yeah. I mean, you thought about
+that like in when I look at
+companies I look for signals
+that they have the tech
+technical know how to be mindful
+of security and kind of look at
+their social profiles, try to
+find engineers at these
+companies and look at to how
+qualified they are, that's the
+kind of due diligence that I do
+on my third party vendor. It's
+just trying to look behind the
+scenes and see if they have
+engineers that actually are
+aware of these things. But
+obviously, that's not always
+possible or the case. So I guess
+we just have to trust the ones
+that have been around for a
+while.
+Troy Hunt: Yeah. And then who
+knows? It is just, I think it's
+just the fact of having
+dependencies and other parties.
+You know, it's very, very hard
+to establish that trust. But you
+know, what you can do is you can
+have mitigating controls, you
+know. I might decide how much
+information I wanna give a third
+party. You know, can I minimize
+my data footprint? Can I have
+other controls? I mean, a good
+example is I use things like,
+discuss on my blog. And so I am
+trusting them to do the
+commenting engine and everything
+fine, and then not have access
+or something in their
+JavaScript, which I embed in my
+site, but a mitigating control
+for that as I have a content
+security policy. So it only
+allows list of scripts from an
+allow list of sources and allow
+list of function and allow that,
+you know, so we can put these
+controls in place to is a little
+bit like the trust but verify
+mantra, right? It's like, look,
+I think you're good. I'm gonna
+give it to you guys. I'm just
+gonna put some things in place
+just in case something goes
+wrong.
+Arvid Kahl: Yeah. Do you have
+any suggestions what kind of
+suites of tools or what
+particular tools to use for
+this, just like any SaaS founder
+could implement something any
+SaaS founder could implement
+quickly?
+Troy Hunt: Well, I think an
+interesting discussion is to put
+it like in a technical context,
+let's get back to the discuss
+example. You know, when you
+embed discus or when you embed a
+chat bot, or when you embed
+stripe, you're very often you
+are taking someone else's
+JavaScript and you're putting it
+on your website. So that's easy,
+right? That's great because then
+all their JavaScript does all
+the work. But think about what
+can you do with JavaScript? You
+know, what can a bad person do
+with JavaScript? Well, basically
+anything. You can redirect to
+malicious software, you can
+rewrite the screen, you can read
+any cookies for the domain, you
+can do all sorts of nasty
+things. So is that good? Well,
+you know, we're doing it for all
+the reasons we just discussed.
+Now, okay, well, what can we do
+to mitigate the risk of that?
+And I'll give you sort of some
+very discrete examples. We've
+seen things like there was a
+service called BrowseAloud,
+which would allow you to, it's
+an accessibility tool. You just
+drop in a piece of JavaScript
+and you put that on your website
+and then you get little
+accessibility icon. And then it
+can do screen reading and things
+like this, if someone is
+visually impaired, which is
+fantastic. Now they had their
+script compromised and they had
+a crypto minor injected into
+their scripts. So the crypto
+minor then ran on every single
+website that had embedded this
+Chatbot. Since then, they've
+done two things that make this
+much better. So they're using
+sub resource integrity, which is
+a mechanism which is able to say
+this external script dependency,
+this is the hash of this
+external script file. That hash
+is installed on the website
+consuming the service. If ever,
+the script changes, it doesn't
+match the hash, the script
+doesn't run. So we've got a way
+of verifying in a technical
+fashion that we are still
+getting the same thing that we
+thought we were when we built
+the service. And then they've
+got content security policies,
+as well. So we can say, look,
+BrowseAloud has allowed or
+rather, your website is allowed
+to embed a script from like
+browsealoud.com. It cannot embed
+a script from anywhere else. So
+if someone does manage to
+somehow compromise that script
+and get other nasty things in
+there, well, then it won't
+execute. And the cool thing
+about this is that it's like
+it's free stuff. It's built into
+the browser has been around for
+years, it works with everything.
+So we do have technical controls
+on top of all the sort of social
+controls we just discussed, to
+make sure that things do only
+behave in the way that they're
+meant to.
+Arvid Kahl: That reminds me of
+the whole browser extension
+situation in the Chrome Web
+Store. And people like the
+business that I ran had a
+browser extension. And that was
+part of the whole interaction
+with the software we integrated.
+It was an online teacher, like
+productivity tool that we had
+and they had online classrooms.
+So we integrated into that
+through a browser extension. And
+I got, I think, 20 emails by
+people wanting to buy my browser
+extension because they really
+liked what I was doing, you
+know. Yeah, exactly. They're
+gonna inject something in it
+right? And is there a way for a
+regular user of a browser like
+Chrome or Firefox to kind of
+prevent these things from
+updating themselves, which is
+taking over? Like, is there any
+way to control the browser
+extensions you have in your
+browser?
+Troy Hunt: So here's a fun story
+on this and I'll answer that
+question in a second. But I just
+wanted to find the exact words.
+So just after this podcast, I'm
+gonna go and visit my son's
+school and talk to the IT
+department in there about
+managing devices because they,
+like basically every school I
+don't think they have a good
+position on parental controls
+and things. But I'd written a
+story or a blog post about kids
+and access to devices and I gave
+an example here with my son. I
+said, look, a lot of his friends
+on their Windows PCs are running
+this browser extension. He would
+like to run this browser
+extension. And it's called the
+predator tab. Now, this just
+basically puts like predator
+theme on your browser. And I got
+a screen grab of the permissions
+that wanted here because this
+was a teachable moment for him.
+Now this extension can read and
+change all your data on the
+websites you visit, replace the
+page you see when opening new
+tab, read and change your
+browsing history. And I'm like,
+why does it need to do this? To
+put like, Arnold Schwarzenegger
+on the predator, like somewhere
+on your browser? This is just
+nuts. Why are you doing this?
+Now to your question about sort
+of disabling things from
+updating that the paradox we
+then have is we go back to the
+thing we're just discussing,
+which is software has bugs that
+needs to be updated needs to be
+maintained. I like the fact that
+say, on my iPhone, it just
+automatically updates when
+there's things and I need to
+give it an okay for a new
+version of iOS. But I basically
+don't think about it, and I just
+take all the changes. Now the
+problem with this browser
+extension ecosystem is yeah, if
+you do have a malicious party
+come along. In fact, the tweet I
+embedded directly under this is
+I said, do you use a popular
+browser extension? How confident
+are you that the creator
+wouldn't accept the $10,000
+offer to hand it over only to
+have a thing go rogue on you,
+which is the problem? So the
+very simple answer to that is
+take as few browser extensions
+as you possibly can, take under
+the bare minimum things. And
+then you've got to do the trust
+thing that we just spoke about
+before. So fast to look at my
+browser extensions, the only one
+I can remember having, and
+there's a very, very small
+number is for one password. So I
+trust those guys for all sorts
+of good reasons. I would not run
+the predator browser extension.
+Arvid Kahl: Right, yeah. That I
+completely understand this,
+obviously, this is like wait out
+of scope what they need in terms
+of permissions. I have a story
+from the other side as a maker
+of a kind of genuine browser
+extension, because, you know, we
+did that for our business. And
+we wanted to support multiple
+different online schools. So we
+would have in the beginning for
+the first version of the browser
+extension, just really the
+allowed list of URLs on which
+the browser extension is allowed
+to run. And then I wanted to add
+a different school, but in auto
+updating to this new version of
+the extension, and that was, I
+think, the web extension V2
+still, right? At that point,
+they would disable the browser
+extension for people because it
+asked for a new URL to be added
+to the extension permission
+list. So people had to
+reactivate it manually, which
+was a UX, horrible UX for people
+using our product. And they got
+really mad at me or at the
+business, I guess, for updating
+the browser extension to some
+school that they don't use
+because they were already using
+the prior school, which led, I
+have to admit to me asking for
+blanket permission with the next
+version. So I had a blanket
+permission, I just limited the
+amount of websites on which it
+was actually started. But it had
+access to every single URL they
+would have went to if I wanted
+to, which is probably why I got
+all these emails. I would assume
+there are people scanning their
+browser extension repository for
+blanket permission extensions
+and just asking to buy them.
+Troy Hunt: Yeah, well, you've
+got something there. You got a
+foothold on a large number of
+devices.
+Arvid Kahl: Well we sold that
+business to legit buyer, but
+yeah, I thought that was I felt
+really uncomfortable doing this
+for the sake of being able to
+actually use the extension. I
+felt like that I wish there
+would have been an easier way
+for me to have people agreed to
+this without just blanket
+disabled. But that was the
+problem at this point. So yeah,
+so I guess the default settings
+and the way browsers deal with
+this could be better in both
+ways, righ?, both to secure
+people from the extension and to
+allow the extension builders to
+update and improve their
+extensions at the same time.
+Troy Hunt: Yeah, and look, I'm
+not sure the exact reasons for
+it. But, you know, the likes of
+Google and the Chrome team are
+very security conscious and very
+switched on. So I suspect it's
+just sort of one of those
+ecosystems, which is evolved to
+what it is for good reasons. But
+now, you know, here we are.
+Arvid Kahl: Yeah, that's right.
+Well, talking about spring
+security conscious. I've
+recently found a lot of your
+content where you talk about
+removing or lessening the
+dependency on passwords, right?
+You want to be less dependent on
+passwords and have alternative
+ways of authentication. One of
+the things that I see in the
+indie hacker solopreneurs space
+is that people would love to
+implement things like magic
+links or web authentication. You
+know, the one with the hardware
+authenticator thing, but the
+market does not seem to want it.
+Like people aren't wanting to
+put in their password even
+worse, they want to click on the
+Facebook button and login with
+Facebook. How can we kind of
+move slowly towards a less
+password dependent world?
+Troy Hunt: I think we've got to
+look at why passwords remained
+so popular. And yeah, you make a
+good point that the market wants
+something. People are very
+critical of passwords. I feel
+sorry for passwords, people are
+critical of it. And then I'll
+sort of say to me, because I
+constantly hear, have you seen
+this thing. It's a password
+kill, it's gonna kill passwords,
+you know, all you do is you have
+a QR code, and you scan it with
+your phone, and you enter the
+number sign. And I'll be like,
+alright, how many websites is
+that? Oh, none, but it's gonna
+kill passwords. And I've been
+having this discussion for a
+decade plus, and I sort of say
+to people, what you're not
+recognizing is that the thing
+that passwords do better than
+absolutely everything else, in
+terms of authentication, is that
+everyone knows how to use them.
+You know, my mom in her 70s is
+great with passwords. I don't
+know if they're all the same one
+or whatever it is. But my point
+is that she knows that it's
+literally like knowledge based
+authentication for identity
+verification, you know, like,
+when your bank calls up. Like,
+we just need to make sure you
+are who you say you are, what's
+your date of birth and like,
+aren't just like all over social
+media and data breaches and
+things. But everyone knows how
+to relay their date of birth.
+And what to think we lose sight
+of a little bit in this industry
+is that the human usability
+aspect is absolutely essential.
+Because as much as security is
+important, if you don't have
+anyone using your system, you
+don't make money. You go broke.
+You got to find another job and
+so a whole mess. So they're
+really, really effective with
+humans. And then we got to sort
+of say, okay, well, how can we
+still move in the direction
+where we recognize that
+passwords are fallible and
+they've got lots of problems,
+but we also recognize a certain
+way humans to interact. Logging
+on with the social account is
+one step in that direction,
+insofar as, I'd probably rather
+trust Facebook with my
+credentials than whatever
+authentication mechanisms
+someone rolls themselves. You
+know that that is probably still
+a better step forward. Okay.
+There's privacy issues and all
+the rest of it. But from a pure
+security perspective, you know,
+that's a step in the right
+direction. We're getting your
+things like I love the idea of
+U2F keys. I love the idea of
+2FA, usually love the idea 2FA
+in general, but there's a
+usability barrier. U2F keys have
+a cost barrier. Yeah, these
+things do pose challenges. I
+think that as we start to
+progress and we're getting more
+towards sort of past keys and
+single authentication and all
+the rest of it, we're getting in
+that direction. But we've been
+asking for the longest time, you
+know, like we have more or less
+passwords in 10 years from now.
+And we're still gonna have more
+passwords in 10 years from now
+than what we do today. Partly
+because the old ones will never
+die. They'll just stay there.
+And also partly because, again,
+it's easy. Everyone knows how to
+do it. So I think this is
+actually a good place for
+discussion to go like pragmatic
+security, like what is the right
+amount of security for your
+audience in order to run your
+business?
+Arvid Kahl: Yeah, yeah, I guess
+everybody knows how to use
+passwords and everybody has a
+face. I wanted to ask you about
+biometrics because they are
+often an option for either just
+logging in or at least in a
+better case, I guess 2FA, right?
+What do you think of that? Do
+you think this is going to be a
+mainstay of security? Or is it a
+phase of technological phase?
+Like what do you think?
+Troy Hunt: Let me say what I got
+here, I got an iPhone here, I've
+got an iPad there. They're both
+face ID. My PC has got a
+fingerprint reader, my laptop's
+got a fingerprint reader. Like
+everything here is biometric.
+Now this hasn't gotten rid of
+passwords, right? Like I still
+have passwords on all these. I
+got my passwords and I've ever
+had. But what it does is it
+gives me a mechanism of
+authenticating, which is less
+friction and less at risk of
+someone else observing it. You
+know, often have like, news
+crews and things like that will
+be in the office. And so I can
+just put my finger here and I
+log on and no one's seeing
+anything over my shoulder, they
+can reuse. And then you get
+people say, well, you shouldn't
+use biometrics because if your
+password gets compromised, you
+change it. If your fingerprint
+gets compromised, you can't
+change it. Or you can, it's not
+much fun, you can change it. But
+also, and this is where we come
+back to pragmatism again as
+well. You know, you think about
+the difference in the risks. If
+my son who's 13 gets your
+password, he can immediately log
+on to any of your services,
+assuming it just needs a
+password. If my son gets the
+glass that you've been holding
+because it's got your
+fingerprint on it, good luck.
+What happens next? I think you
+need some sticky tape and like
+some acetone and then you get a
+saucepan and some gummy bears
+and you melt them down or
+something and then you got to
+get it right within the first
+number of goes or the thing
+locks out and falls back to
+knowledge based or rather falls
+back to a password. So the
+biometric thing doesn't replace
+passwords. It decreases that
+dependency. It gives us many
+other good ways of
+authenticating and it is not the
+same risk as a password in any
+way shape or form. I think
+Arvid Kahl: I agree very much so
+and I've heard a couple of
+things like the the Chaos
+Computer Club in Germany. They
+were like taking pictures, high
+res pictures of German
+they're a positive thing.
+politicians, the Angela Merkel
+thing, right? And then got the
+fingerprints from a reflection
+of a glass on the picture and
+then printed it out. And
+Troy Hunt: Yeah
+Arvid Kahl: It was kind of a
+proof of concept more than
+anything else and kind of shows
+you like the level of target
+that they're looking at with
+these high effort things. But
+for most people, a fingerprint
+is probably much safer than
+well, let's talk about other
+alternatives like SMS on mobile
+phones as a 2FA thing. What do
+you think about that? Why is
+that still around?
+Troy Hunt: Well, first of all,
+just gotta be clear that two
+factors is always gonna be
+better than one factor, no
+matter how it's done if we
+assume that one factor is just a
+password. If you have a password
+and something else, it is always
+better than just a password. Now
+often I've seen people say,
+having 2FA SMS is worse than
+having no to a fatal. Now it's
+like you can't count you know,
+that's your problem. It
+literally two is greater than
+one, it is better. Now, very
+often, what they mean is, is
+that if you have set your
+account up such that you can do
+account recovery via SMS alone,
+then that's a problem. And yes,
+it is a problem. But that's not
+2FA, that's back to 1FA and it's
+the single factor which has
+various weaknesses in it. So
+yeah, SMS works well in sofar as
+again, my parents know how to
+SMS. No problems at all, with
+them receiving a text message. I
+would like them to use a soft
+token low and OAuth or something
+like that because it is a more
+secure mechanism. But that is a
+barrier to entry. I've got to
+explain that not only do I need
+to explain that to them, but
+then when they roll their device
+in a year from now, something
+I've got to help them migrate
+that otherwise they get locked
+out of their account. But even
+then it's fishable. So we'd
+rather U2F having a physical
+cryptographic key but then
+you've got to have the key with
+you. You gotta buy the key, you
+know, like there's other
+barriers to it. And I think
+really the best way to sum all
+this up is we have different
+mechanisms with different
+strengths and weaknesses. There
+is not one right solution. And
+you've got to look at your
+demographic and figure out what
+is the most appropriate thing to
+them. And it might be a
+combination of the offerings,
+many services will add to a
+favor, SMS, soft token, U2F. Let
+your customers decide.
+Arvid Kahl: Yeah, obviously
+depends on their customers,
+right? If you sell to
+cybersecurity experts, who
+probably can have a pretty high
+expectation of them wanting or
+even, like, needing to have a
+system that does not have this
+one effective fallback situation
+that can easily kind of
+circumvent the whole security
+paradigm. But if you sell to
+regular people, I think, yeah,
+you have to give them options,
+which is the great thing about
+services, like what Okta offers
+or other authentication
+providers. But you can set these
+things specifically on their
+platform for your business or
+whatever. And this is obviously
+not an advertisement for the
+services. But the idea that you
+don't have to build this. And
+it's there for you to use this
+already so much better than
+having just like salted hashed
+emails and passwords in your
+database. I always think of like
+the moment you put this kind of
+information, particularly
+passwords into your database,
+you're just painting a gigantic
+target on your back or on your
+front or on your whole business,
+right? If people see that you
+roll your own.
+Troy Hunt: Even the massive
+spike in the last, so I wanna
+say probably five years of
+credential stuffing, you know,
+credential stuffing is a massive
+problem, you know, how do you
+defend against an attacker who
+comes along with a whole bunch
+of legitimate email addresses
+and passwords, but they're from
+other data breaches, and they
+just blasting them at your
+system? You know, you can't
+capture your way out of that.
+Not reliably. So that, you know,
+this is why we keep saying Okta
+again, no affiliation, but it's
+a well known brand. Yeah, this
+is why those sorts of services
+are great because that's their
+problem, you know.
+Arvid Kahl: It's also why you
+partnered with 1password, right?
+Like the idea like that, Have I
+Been Pwned partnered with
+1password, which was, I guess,
+controversial. I remember a lot
+of Hacker News comments where
+people got really mad back in
+the day. But, you know, people
+always do on Hacker News, that's
+kind of their MO. Honestly, I
+love the idea. And 1password has
+been a darling of the indie
+hacker scene too being
+bootstrapped to a certain point
+and only like raising much
+later. So I really enjoy the
+whole journey of their business
+and obviously also the product.
+But I think with your
+partnership with them, you gave
+the password manager that was
+already a good idea to begin
+with for anybody. This
+additional layer of kind of
+crowd sourced security, right?
+By knowing what leaks they were
+in what kind of passwords or
+credential stuffing potential
+this each individual credential
+could have, I think that was
+great. And I wanted to talk to
+you about this partnership
+because as I said, Hacker News
+didn't like it or what do they
+like? But how did that feel for
+you? Because earlier we were
+talking about having a
+trustworthy reputation as a
+provider.  You going with
+1password, was that built on
+having a trust built based
+relationship with them over the
+years?
+Troy Hunt: Yeah, so back in
+2011, something like that I got
+a password manager, because I
+knew I needed to stop doing what
+we have all done in the past.
+And I looked around a few
+different options and I settled
+on 1password. And I wrote it up
+at the time. In fact, I wrote a
+blog post called the only secure
+password is the one you can't
+remember. And it's been a very
+popular one since. And, you
+know, I just started using the
+password manager and getting all
+the value out of it, which we
+all know is there, you know,
+strong, unique passwords and
+everything much easier to
+authenticate to websites, all
+the rest of it. And, you know,
+over time, we just ended up
+chatting because we're in a
+similar, you know, operating in
+a similar sort of space. And
+then I catch up with people in
+person. And I travel for
+conferences and ended up just
+having, I guess, a friendly
+relationship with them. And you
+know, when we speak about trust
+before him, he said, how do we
+establish trust? Well, for me,
+one of the ways of establish
+trust is getting to know people
+that are behind services. I know
+many people trust me to do have
+been paying for the very same
+reason because we spend time
+together and they go oh, he's
+alright. Seems nobody taught me
+that. So this is what was
+happening with 1password. And
+then I launched the passwords
+API so that you could take a
+password or rather a partial
+representation of a hashed
+password with his cool anonymity
+model. And check whether or not
+it had previously been in a data
+breach. And I push this out. And
+next minute, like a couple of
+days later or something, it was
+built into 1password. I was
+like, that was cool. I didn't
+see that coming. And they've
+just gone out and done it in the
+most indie sort of way, I guess.
+And it was just a super, super,
+super cool feature. And things
+just kept rolling from there
+just people that have a mutual
+respect for each other and both
+build some cool products. And
+that's about it, really.
+Arvid Kahl: That's such a cool
+story because it just shows the
+alignment that you both had,
+like you, both you and the
+company to be just make more
+awareness happen in the
+community or in the world at
+large about these things. That
+was wonderful. That's what I
+thought. I was not one of the
+people criticizing it back then.
+Because I thought this is
+actually a really smart thing to
+do. Like this is bringing
+together two things that I like
+and why would I criticize it?
+But there was criticism at the
+time, right? Where people can
+afraid of it going commercial,
+like I mean, Have I Been Pwned
+that they feel that to go away.
+Troy Hunt: From memory that the
+primary criticism was paper
+saying you shouldn't just be
+recommending a single password
+manager. You should be saying,
+go and use a password manager
+and make it more generic. Now to
+be clear, like every time I do
+any media or press on speaking
+to the masses, I do talk about
+using a password manager. I
+rarely say 1password in part,
+because now I'm on the board of
+advisors. So I do have a
+financial interest in this
+access. So I don't wanna
+conflate those two things. But
+the point I made at the time,
+and actually this relates to
+have a 1password having product
+placement on Have I Been Pwned
+as well. And I said, look, you
+know, the vast majority of
+people have come here and
+searched for their data and find
+themselves breached, normal
+everyday people. If I just say
+go and get a password manager,
+good luck. They'll be like what?
+Notepad? Like, what do I do? And
+then people say we should just
+put a list of them. So I said
+well, now you got the paradox of
+choice because you got all these
+different password managers. And
+you've got someone like my mum
+or dad in their 70s going, you
+know, go and choose one. Good
+luck. Yeah, I would much rather
+stand up and go there is a
+product that I trust that I use
+personally. And yes, we now have
+a commercial relationship as
+well. But this is how we got
+there. This is the reasons I
+chose them. Go and use those
+ones. And I I think it's fair to
+say that 1password is probably
+the most well known trustworthy
+Password Manager out there maybe
+in part because of things like
+relationship with Have I Been
+Pwned. But look, I don't feel
+like I have to please everyone,
+either. You know, if there's
+some people that are unhappy
+about it, well, don't listen to
+me. Yeah, go and do your own
+thing. But this is the way I've
+decided to run it.
+Arvid Kahl: Did any other
+Password Manager company reach
+out to you or any project? Like
+the beyond 1password?
+Troy Hunt: I mean, there's a
+bunch of different password
+manager companies that say use
+Have I Been Pwned, that use, you
+know, things like pwned
+passwords. And you know, I
+always talk to them. It's I'm
+not here trying to, like only
+make 1password work and
+everything else fail. It's a bit
+of a rising tide situation where
+the more information we get in
+front of people about things
+like compromised passwords, the
+better everyone is, and I don't
+care which product they get that
+Arvid Kahl: That makes sense.
+Obviously, the goal is to
+through.
+educate, right? The goal is not
+to pick and choose. The goal is
+to going to provide the surface
+there. One thing that I wouldn't
+call it a grape, but one little
+issue that I always had with
+password managers that have this
+kind of cloud subscription level
+was what is now being reflected
+in the whole crypto community
+with Not your keys, Not your
+coins, right? That's the
+statement that people make when
+you look at FTX and these weird
+things, wherever exchanges just
+fall apart and you lose all your
+fancy coins that were
+essentially just like somewhere
+in their database and not in
+your wallet. How would you
+respond to this in terms of like
+password managers that are cloud
+based and cloud? I guess the
+center of truth, like the point
+of truth is in the cloud.
+Troy Hunt: I get the argument
+insofar as what's happening with
+crypto, but do you want to
+extend that to your bank account
+as well? Like if the money is
+not in your house and it's on
+someone else's servers, it's so
+how far do you drive that one
+down? I think you've got to look
+at first of all, you have many
+choices with a password manager.
+You have password managers that
+you can run locally, they have
+open source ones, closed source,
+ones commercial, ones free,
+like, whatever you want, so you
+can choose what works for you. I
+believe that 1password's
+approach is the best one for the
+vast bulk of the population, me
+included, for several reasons.
+Number one, I want to
+synchronize across my devices. I
+just set it up four different
+devices right here. And I log on
+to stuff from all of them. Now,
+when I first started using
+1password, they went you have
+your own keychain, you keep it,
+it's yours. You just need to
+synchronize it somehow, for
+example, via Dropbox, which was
+the way I did it originally.
+Arvid Kahl: Yeah
+Troy Hunt: Okay, well, now kind
+of dependent on Dropbox in
+there. And then over time, they
+move to a subscription model
+for, I think, a couple of
+different reasons. And I'm not
+speaking on their behalf. Here's
+my observation as an industry
+observer, but yeah, part of it
+is it does make the process of
+synchronization that much
+easier. And synchronization is
+genuinely really important.
+Because all of us, certainly all
+of us listen to this have
+multiple devices, and we need to
+be able to authenticate and
+retrieve our secrets and
+whatever else. So regardless of
+your password manager choice,
+you need to find some way to
+keep things in sync. And then
+from the subscription basis, you
+know, I use a lot of
+subscription services myself.
+I've got everything from Adobe
+Creative Cloud through to all
+sorts of third party software
+products that, you know, like we
+just been talking about. And I
+genuinely like paying much
+smaller amounts on a regular
+basis than remember, we used to
+go out and buy like Microsoft
+Office, and you get it on a CD,
+if you go back far enough on a
+floppy disk, and a be in a box
+and sit on the shelf years would
+pass and you're still using the
+same product that gets no love.
+I like the idea of products that
+are self healing that do update
+themselves that are as service
+orientated as possible. And
+particularly the discussions we
+just had about, you know, how do
+we delegate away things that you
+really don't want to be your
+responsibility while using a
+service as opposed to a software
+product? Does that now look, if
+you're a demographic that really
+feels that you're going to be
+massively targeted and all the
+rest of it, well, then maybe
+something different. But you
+know, even then it's 1password's
+got a massive bug bounty.
+They've got a lot of publicly
+accessible audit reports. So
+many of you really that wrote
+about it go through and look at
+it all. I struggled to find
+examples where there's more than
+the tiniest, tiniest slice of
+people for whom this isn't a
+Arvid Kahl: Yup, absolutely. And
+you make obviously a persuasive
+good solution.
+argument, like particular with
+the self healing and just
+expanding qualities, right? If
+there are new problems, they can
+integrate it faster. And
+synchronization, obviously,
+here's another one. Coming like
+from the indie hacking sphere,
+because as somebody who went
+through a business acquisition a
+software as a service business
+acquisition, we had to hand over
+all our credentials. I think
+that was part of the deal. In
+fact, that was actually most of
+the deal was just giving people
+our keys to a 1password vault.
+And that was the whole
+transition. Because they had
+everything in there. Our SOPs
+were in there, all the process
+documentation was in there,
+links to Google Drive, links to
+whatnot, were secure notes. Like
+you can literally run your
+business, at least the legal
+parts of it in a password vault
+and just hand that over in one
+fell swoop. And that is it. So
+not doing this would have
+required us to send over a
+massive emails with clear text
+passwords, that kind of stuff
+didn't happen because we had the
+vault. So that is another really
+good reason to build your
+business, at least on a password
+manager.
+Troy Hunt: Yeah, yeah, I think
+that's an important. If you
+think about in a broader
+capacity, it's not just
+passwords as like secrets
+management. There's probably
+lots of things that you have
+that you would consider secrets.
+Here certainly, for me, between
+myself, my wife, my kids as
+well. We have documents that are
+secrets. We have credit cards
+and passport details that have
+secrets. In an organization, you
+might have keys that are secrets
+or other processes and things
+that are secrets. And if you
+look at it at a more macro
+level, yeah. Where are you gonna
+store that?
+Arvid Kahl: Yeah, secrets man.
+I'm just thinking about the
+latest tweets by Elon Musk where
+he walks through the office and
+take pictures of people's
+screens, exposing host names and
+user usernames. Man, these
+secrets should be managed as
+Troy Hunt: Well, I always wonder
+when you see pictures of that,
+well, right?
+and you know, I'm very conscious
+as well, I take pictures of
+something and then I put it out
+there. What is actually in the
+pictures? And there are
+certainly times where I take
+pictures and I deliberately put
+things in there that are a bit
+obscure that I want people to
+try and look at just to sort of
+see what happens. I wonder, you
+just never know with him, right?
+Like, is he playing at multiple
+levels above us? Or is he just
+screwed up?
+Arvid Kahl: Yeah, the 4D Chess
+theory right? You don't know.
+Troy Hunt: Yeah, yeah.
+Arvid Kahl: Well, I certainly
+hope that he's not actually
+exposing Twitter secrets to the
+world as few as there may be but
+hosting can be your gateway into
+a whole architecture, right? You
+don't want your infrastructure
+compromised by just like one
+photo.
+Troy Hunt: That is a valid
+question around how secret
+should something like a hostname
+beat? But yeah, that's another
+rabbit hole.
+Arvid Kahl: Yeah, I guess well,
+I'm super grateful that we went
+through all the rabbit holes
+that we went through today in
+terms of security advice. I'm
+very thankful for you showing up
+and being on my podcast today.
+If you want people to connect
+with you and find out more about
+you and your work. Where would
+you like people to go?
+Troy Hunt: Oh, I'm in
+troyhunt.com. Whilst it's still
+there, Twitter, @troyhunt on
+Twitter. Don't screw it up, Elon
+c'mon. So yeah, look. I'm still
+in those places.
+Arvid Kahl: Thanks so much for
+being on the show. That was
+really insightful. And I hope
+people will be more secure in
+the future and build businesses
+that are secure and secure their
+customers' credentials as well.
+So thanks for being on today.
+Troy Hunt: Cool. My pleasure.
+Arvid Kahl: And that's it for
+today. Thank you for listening
+to the Bootstrapped Founder. You
+can find me on Twitter
+@arvidkahl. And you'll find my
+books and my Twitter course
+there as well. If you wanna
+support me and the show, please
+subscribe to my YouTube channel,
+get the podcast in the podcast
+player of choice and leave a
+rating and a review by going to
+(http://ratethispodcast.com/founder).
+Any of this will help the show.
+So thank you very much for
+listening and have a wonderful
+day. Bye bye

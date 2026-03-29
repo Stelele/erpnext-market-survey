@@ -1,0 +1,1839 @@
+﻿Hello everyone and welcome to
+The Bootstrapped Founder. Today,
+I'm talking to Justin Jackson,
+the co founder of Transistor FM.
+We talk about the problems with
+common entrepreneurial advice,
+bootstrapping, a value driven
+software business, and how open
+standards benefit indie founders
+in particular. Here's Justin.
+One thing that frustrates me a
+lot is how unreflected many
+things are in the community.
+Entrepreneurs, indie hackers and
+founders, there are all these
+best practices that people
+rarely reflect on. And really
+just jump onto and try to out
+execute the competition,
+whatever that might mean, in
+that context. And it's super
+frustrating, too. I was actually
+gonna ask you this as a
+particular question because I
+wanted to see, what do you think
+about advice? And I feel there's
+a lot of advice out there. And
+most of it is bad in the sense
+that it's not applicable, it's
+not pragmatic and it's kind of
+has ulterior motives somewhere.
+Yeah, yeah
+And I was wondering what your
+perspective is on this, like, do
+we as people who have some
+experience in the field, do we
+have to like, see the ideas
+space out there to combat
+misinformation that is quite
+prevalent?
+Yeah, I think so. I mean, the
+human world is a world of ideas.
+And the way we share ideas is by
+talking about them, discussing
+them, writing them, podcasting
+about them, making videos about
+them. And I think ideas should
+be put forth. And then I think
+those ideas have to stand up to
+scrutiny. I think ideas need to
+be debated. I think ideas need
+to be tested, evaluated, all of
+those things. So I'm pro idea.
+What concerns me sometimes is
+that some of these ideas are
+just so thin, in that the way
+that they get me modified and
+generalized, are devoid of any
+context, any nuance, any sort of
+exploration. And if you
+challenge them, you're seen as a
+pessimist. If you question
+people who are trumpeting them,
+you're seen as you know, a
+negative Nancy. That's the part
+that I think is unhealthy, even
+ideas, like charge more. Charge
+more is a good idea in a certain
+context, but you have to get
+deeper than just the meme
+version of that, that just gets
+spread around the world. You
+know, it's like, there's people
+making stickers that say charge
+more and nothing wrong with
+that. But as soon as it becomes
+a slogan and there's like, okay,
+well, let's dive into let's
+actually get into the weeds on
+that, like, what does that mean
+to charge more? Even, you know,
+all these people are raising
+prices right now. There's this
+like, general idea that in a
+recession, you wanna raise
+prices. Sorry, when there's
+inflation, you wanna raise
+prices because everybody else is
+raising prices, because
+theoretically, your costs are
+going up. And I mean, I'm as big
+of a dummy as the next person.
+But I wanna at least investigate
+that or have more of the smart
+people investigating these
+things and going okay, but is
+this always true? And when would
+it maybe not be true, how do you
+test this out? And it has to go
+beyond, you know, like, these
+blog posts, which are three
+months ago, we raised our prices
+and we increased MRR by 300%.
+Okay, well, report back in 6
+months, 9 months, 12 months, 36
+months, 48 months. I wanna see
+the whole trend. And we have a
+very short news cycle even in
+the bootstrap, indie hacker,
+startup space. People publish a
+blog post. And I can understand
+why it happens. These blog posts
+will often resonate and then
+they'll get kind of embedded in
+people's understanding. And but
+very few people are going well,
+let's go back to that post where
+they wrote that they increased
+prices. Let's see what happened
+since then. Because you can
+increase prices and sure you
+might increase your monthly
+recurring revenue short term.
+But then if we go back in 12
+months and overall revenue is
+down, well, you can see there
+was a trade off there and maybe
+that trade off is worth it. And
+maybe it's not worth it.
+It's probably something that
+people don't even report, right?
+They don't report that because
+Oh, yeah
+You only share the Interesting
+stuff, which is one of the
+biggest problems that I have
+with people attempting to build
+in public.
+Yes
+They go for the interesting blog
+posts
+That are great and that are
+motivational.
+Yeah
+The long term consequences, the
+damages that these kinds of
+things actually might do they
+kind of pulled like, they just
+put it under the rug like, that
+is a big problem.
+Yeah, and again, because to me,
+I'm just interested in I have
+this idea that knowledge and our
+discovery of things that are
+true is generally ascendant.
+Meaning, the more we
+investigate, the more we test,
+the more we rigorously evaluate
+ideas and concepts, the more
+knowledge we have. And this
+knowledge is ascendant, meaning
+we keep climbing up the stairs
+towards a greater understanding
+of truth. And we can't get there
+unless we can apply that rigor
+to everything to go okay, well,
+is this really true? And when is
+it true? In what context is it
+true? Was it just true for this
+person? Could it also be true
+for me? How would I evaluate
+that? How would I evaluate the
+trade offs? How would I evaluate
+the risks? And it becomes more
+complicated quite quickly. And
+yeah, I think that there is a
+potential even for I mean, we
+even saw this a little bit back
+in the early kind of SaaS days
+when you had Salesforce come out
+and then fairly soon after, you
+had Basecamp and then Ruby on
+Rails and then there's this
+explosion of interest in
+building SaaS and Ruby on Rails
+in particular. And if you look
+at that first, a lot of people
+don't even remember this or know
+about this. But if you were
+around for it, there was this
+kind of gigantic movement of
+people launching Rails based
+SaaS apps. And maybe at the
+time, some of the dissemination
+of information was lost on some
+of those folks. And you know,
+many of them did not succeed.
+Many of them lost a lot of
+money. Many of them struggled
+for years and years and years
+and then had to throw in the
+towel. And that's always gonna
+be a part of business. But my
+hope is that we could, if
+anyone's thinking about starting
+a business, we can at least help
+them see the landscape as
+clearly as possible. And what
+helps with that is just the
+rigor, it helps to rigorously
+kind of process and evaluate
+ideas as a community. So yeah,
+advice? Sure. I mean, I think,
+if you've been around for a
+while and you've had some
+success and you've had some
+failures, there are certain
+situations, which are kind of
+clear to anybody with
+experience, where it's like,
+okay, this idea you have just
+does not seem to have enough
+traction. And maybe you could
+maybe point to people where it
+could be maybe it's there's not
+enough demand in this market.
+Maybe it has to do with your
+product. It's not good enough or
+not stable enough or not
+polished enough, maybe it's just
+the competition is that much
+better. So I think we can give
+advice. But what I don't really
+like is this kind of slogan, one
+word, two words, one sentence
+advice, that then just gets
+trumpeted around like a cult or
+religion or something. And you
+know, move fast and break things
+and all these other things, just
+like these are just silly
+statements that don't actually
+have any reasonable meaning.
+Meaning, if you apply them, you
+could have like, move fast and
+break things. You can apply in a
+million different ways with a
+million different results. It's
+not repeatable in the sense that
+you go, okay, well, I'm just
+gonna move fast and break
+things, whatever that means. And
+then I'm going to get a Facebook
+style result like
+Yeah, obviously
+Of course, it doesn't work that
+way. And but oddly, I see people
+acting and believing in that way
+and yeah, so advice is fine. I
+think building and public is
+fine. But every founder at the
+end of the day, it probably just
+comes down to founders. They
+have to ask those hard questions
+and struggle and research,
+contemplate, ask for help. Most
+of the good advice is being
+given in backchannels
+unfortunately, just because real
+good advice requires context and
+you know, there's a lot of
+context. I just don't wanna give
+publicly about my business and
+my life. And I only share that
+with people I trust in the kind
+of back channel, the telegram
+groups and the Slack DMS and the
+Twitter DMS and all those
+things. So
+That's the key. I think that is
+100% the key like advice cannot
+be applicable without the
+context for A, in which it is
+given, by whom it is given and
+to whom it is given and for
+what, right? Like, do you have
+these both kinds of sides. And
+on the side of the person giving
+it, it's always anecdotal,
+obviously, because that's kind
+of where it comes from. So you
+know, you have to translate it
+into something meaningful
+anyway. And that's where you
+start, like evaluating it and
+try to figure out, is the person
+doing this because they wanna
+help me or are they doing it for
+another reason? There are so
+many things, just even from the
+transmission standpoint between
+sender of the message and
+recipient of the message when it
+comes to advice. I very much
+agree that trust is at the core
+of advice to begin with. And
+what I love what you just
+brought out here is like the
+kind of Twitterfication,
+codification of advice and I
+think, like, move fast and break
+things is a great example.
+Because to me, that's not a
+description of anything you
+could ever do because it's so
+general and it's so unspecific,
+but it's a rallying cry for a
+kind of person that wants to,
+you know, do something in a
+specific way.
+Yes
+That's all it is, right?
+Yeah
+And can't be more specific than
+that.
+And the same thing applies to
+charge more. Charge more than
+And it reminds me of another
+thing you recently talked about,
+what? Charge more than when?
+Charge today and tomorrow?
+Repeatable forever, like next
+week? There's no foundation.
+There's no like, for a culture
+that, you know, seemingly loves,
+like mathematics and logic and
+programming and all these
+things. Like I suck at math, but
+let's at least get what are the
+like when you talk about
+starting and ending variables.
+variables here, charge more?
+When? How? What are the starting
+variables? What are the ending
+variables? How did these things
+increase? When does it stop?
+Like, give me some context here.
+And that's the kind of like
+visitor to trial version thing,
+right? Which is also something
+people hyper optimized for, like
+with all kinds of cheap tricks
+and growth hacks, things that I
+detest because they're short
+term gains over long term
+perspective, right? And that's
+really, really bad if you choose
+to short term stuff. But what do
+you think about that? Like, I
+know that you put less emphasis
+on that now than you used to,
+which is interesting because I
+would like to know why
+Yeah
+That happened and how that
+happened?
+Well, there's always been these
+general rules of thumb that have
+been shared in the community.
+And I think they're generally
+pretty good. So trial the paid
+conversion, credit card upfront
+visitor to trial, people say
+around 1% trial to paid with
+credit card upfront between 40
+and 60%. And then there's a
+different like, no credit card
+upfront, people say generally 5%
+plus visitor to trial, trial to
+paid 8% to 20%, depending on you
+know what you're doing. Now,
+here's the problem. It's pretty
+easy to quantify with reasonable
+accuracy, your trials and how
+many people converted to paid.
+Those numbers are almost always
+accurate. Because, you know, in
+Stripe these days, we get okay,
+well, this is a trial. And then
+we could see them convert.
+That's a conversion, right?
+Those numbers pretty solid.
+What's not solid and what is
+incredibly muddy is visitor
+because this became most acute
+for me when I was working for a
+startup in Portland. And I had
+to report on KPIs all the time.
+And one of the KPIs was visitor
+number of visitors. I put that
+in, number of trials and then it
+would auto calculate visitor
+trial. And, you know, based on
+whatever I was typing into those
+boxes in Excel, you know, my
+boss was either happy or not
+happy. And then one day, I was
+like digging through Mixpanel or
+Google Analytics or something.
+And I'm like, look at all these
+visits like these just look not
+real. And then I'm looking at it
+and I just found all these
+garbage visits that were being
+treated by Google Analytic and
+Mixpanel as legitimate visits
+but words. And then sure enough,
+a month later Google finally get
+comes around to tagging those as
+bots or spam or whatever. And so
+all those numbers I'd spent
+months inputting have zero
+meaning. Now, if month to month
+or week to week or day to day,
+you can put a number in your
+spreadsheet one day, and then
+wake up the next morning. And
+Google says, ah, you know what?
+You had, we said you had 10,000
+unique visitors. But it turns
+out that 3000 of those were not
+legitimate visitors. Well, that
+changes your numbers
+substantially. So all of a
+sudden, my conversion rates look
+way better. How am I to know and
+there's no reasonable baseline
+because I might have months with
+very little spam visits. But
+then the next month, I might
+have lots but at the same time,
+the next month, I might have
+legitimate visitors increase.
+It's just very, very muddy. And
+people treat this kind of
+attribution, like it's like rock
+solid. And I've been doing
+product marketing now in SaaS
+since 2008. And those
+attribution numbers, I've never
+seen attribution numbers, like
+visitor numbers, especially that
+I was like, those are rock
+solid. I can trust those 100%.
+Because you just don't know.
+Your Samsung refrigerator could
+be pinging your website for all
+you know, like, it's completely
+possible. So, and we deal with
+this in podcast hosting all the
+time. And you know, there's tons
+of smart people and in
+podcasting, it's even more you
+think it would be elevated in
+the sense that a download is
+what is monetizable for people
+who are selling ads, but it's a
+moving target. It's like,
+everybody, no matter who they
+are, whether it's Spotify,
+whether it's Us, whether it's
+the biggest publishing places,
+the biggest trackers, they're
+all modifying their filters and
+their numbers all the time. So
+for me, it's like, the only
+numbers I really look at for
+Transistor these days are number
+of trials and number of
+conversions. And we have a Slack
+bot now that Jason built that
+just shows us number of daily
+paid signups. And these days,
+you know, if we're in the double
+digits for paid signup, daily
+paid signups we're pretty happy.
+And if it's a slow day, we're
+like, you know, we keep an eye
+on it. But you know, and even
+those numbers have seasonal
+variations and COVID variations
+and you know, economic
+variations, depending on
+recessions and things like that.
+So I don't know. You can have
+somewhat of a baseline and the
+more you've done it, you get
+this kind of third sense for,
+okay, this is kind of what feels
+like, oh, yeah, every year in
+December, things kind of slow
+down. And then for us, January
+people kind of wake up two weeks
+into January, I wanna start a
+podcast. So you get kind of a
+sense of when you might be in
+trouble. But yeah, I think
+visitor to trial is just, I
+haven't seen it being super
+helpful. Maybe as an overall
+trend, you can kind of see like,
+okay, this looks good. And but
+even then, like I don't know. I
+guess if you saw a bunch of
+traffic converting from Reddit
+and you're like, okay, well,
+that was an interesting, you
+know, refer. But for me, it's
+like trials. And then I just
+asked every trial, when they
+sign up, how'd you hear about
+us? So they're self reporting
+right when they sign up how they
+heard about us. And I find that
+more helpful than trying to get
+a computer to accurately
+attribute a visitor and where
+they're coming from and all that
+stuff.
+It does remind me a lot of what
+people are currently trying to
+do with chat GPT here with these
+kind of AI systems, where
+they're trying to fake things in
+a way that aren't even
+detectable. And I'm always
+thinking about like any system
+that is monetized on a certain
+particular metric, either
+pageviews or even listens on a
+podcast where sponsors pay per
+amount of downloads or something
+like that. People will try to
+game that. People will always
+try to out fake the system in a
+way that gives them bigger
+numbers and anything that you
+then try to track or analyze
+will have these things in there,
+right?
+Yeah
+It's just unavoidable. People
+are trying to circumvent any
+kind of system in their favor.
+Yeah, exactly. The old trick in
+podcasting used to be you would,
+if you posted a direct link to
+the mp3 on Twitter, it would get
+1000s of downloads. And it would
+help bump up your numbers for
+when you talk to sponsors. And
+there are tons of people doing
+this thing. And you know and the
+most recent one was people were
+putting in video games, you
+know, that my kids have to play
+and they have these horrid ads
+you got to watch through and
+they were putting podcast
+listens in there. So you gotta
+listen to 30 seconds of this
+podcast in order to keep playing
+the game. And these were IAB
+certified downloads for a
+podcast. IAB is the Advertising
+Bureau that is supposed to track
+all these things. So these are
+legitimate downloads, which is
+but it's just some 10 year old
+going, I just wanna get back to
+this game. Okay, I'll listen to
+this thing and downloading. For
+me, always the simpler, the
+better. And I mean, I've tried
+all sorts of complex, like
+marketing, tracking and
+everything. And about a year
+into Transistor, I just ripped
+it all out. And now we use
+Fathom for like, basic page
+views on our website. Okay,
+what's, you know, what's our
+most popular page? It's our
+pricing page. Okay, good to know
+that. Is traffic basically
+pretty steady? Okay, that's
+great to know, where are people
+finding us? So here's the
+referrers, good to know. And
+then I just track in Stripe, how
+many trials we have? What's our
+trial to paid conversion and how
+many paid customers we have and
+what MRR is. And for podcasting,
+I always like looking at the
+response rate, which is just a
+completely made up metric that
+you can't really report on in a
+graph. But when I release an
+episode, how many people do I
+hear from? How many people
+reached out try to find me some
+way, you know? And this is after
+they, you know, they're driving
+to work, listen to the podcast,
+like a lot of people are
+listening to your show right
+now. And if we've said anything
+that like, kind of hits them and
+they're like, oh, I got an email
+Arvid about that when I get
+home. And then they just think
+about it and then they actually
+get home. They say hi to their
+wife and kids and then they
+actually go to their laptop and
+type you an email. That response
+rate matters. That's the most
+important metric. Did you move
+people enough that they were
+willing to go okay, as soon as I
+get hey, Siri, remind me to, you
+know, I did put on Siri, remind
+me to talk to Arvid when I get
+home about that episode because
+it made me mad or made me think
+that he's totally right. And
+this is why and, you know, those
+are the responses that I love
+are people, you know,
+responding. And the other thing
+is, those responses sometimes
+come. They don't all come all at
+once. Like we still have people
+signing up for Transistor who
+say, hey, I listened to like
+this one episode of build your
+SaaS right when you were
+starting. And it just had such a
+profound impact on me. I filed
+it away. Yesterday, my boss
+asked if, you know, we should
+sign up for a podcast hosting
+platform. And I said, oh, we got
+to use Transistor. But it's been
+two years since he listened to
+the episode, right? So these
+responses don't come all at
+once. either. It's like almost
+antithetical to the way
+marketers like, evaluating
+campaign just like, well, if
+it's not within this 30 day
+window doesn't matter. It's
+like, well, but humans don't
+operate on a 30 day window.
+Humans operate on a, you know, a
+much different time line. And if
+we're trying to fit everything
+into these rigid, you know,
+whatever attribution windows or
+whatever, you're missing out on
+how most humans make decisions
+by things get moved, are
+influenced. That's not how we
+work, you know, and it's easier
+to just simplify it, ask
+customers why they signed up and
+keep it simple. You don't need
+all that extra machinery to and
+if anything, it's just not gonna
+give you the right information.
+You're just gonna be you know,
+driving this bus based on maps
+or GPS that's not actually
+taking you anywhere interesting.
+Just simple stuff, just simple
+touchstones along the way. We
+don't need, you know, to make it
+too complicated.
+Yeah. And I think that your
+business that you've built, at
+least from the outside, doesn't
+look too complicated either. And
+it's solving a very specific
+problem for a very specific kind
+of people. I think you've done a
+really good job with this. Great
+job, even if I may say so myself
+being a customer of your fine
+establishment. Yeah, it's like
+you've been doing this for five
+years now, right? Seems like
+it's been a while almost over
+five years. I think it's been a
+while.
+Yeah, you're right. Yeah, we
+signed our partnership docs in.
+Well, we decided to work
+together January 2018. And I
+think we'd signed everything by
+February 2018. So and it's 2023
+now, right? Yeah
+That's right. Yeah.
+So, you know, it's been an
+incredible journey. And
+especially, to reflect back on
+that time, where, you know, we
+wanted to build something
+together. And we had some
+hunches about the podcast
+market. We had a pretty good
+idea that we would be good
+partners. But you never know.
+And we just feel so much
+gratitude that, you know, folks
+like you have come along and
+decided to become customers and
+use the product and enjoy the
+product. And, yeah, it's been
+incredible. I think, the things
+we did in those few first few
+months, were interesting because
+we kind of talked a lot about
+our values. And what we wanted
+out of the company, what is this
+company for? Now a product is
+for customers to use and enjoy
+and get value out of. A company
+is for the founders and the
+employees and the employees'
+families, and the community that
+in which they exist. And we
+thought a lot about the product
+we wanted to make. We wanna
+build the best podcast hosting
+and analytics on the planet,
+offer the best customer support,
+have really insightful features,
+really intuitive UIs, all those
+things. But what's the company
+for? Well, the company is to
+give us the stakeholders, a good
+life, founders, employees,
+employees' families, and then
+the community. And I think you
+can do that work and still not
+have a successful company
+because so much of it depends on
+these other variables, having a
+market that is hungry for a
+particular product and then
+building a product that can
+outshine the competition and
+attract, you know, customers. So
+it's not a guaranteed way to
+build a company. But if those
+other things fall into place, it
+really is a great way to build a
+company that serves the
+stakeholders that gives the
+stakeholders a better life. And
+having built many different
+kinds of companies from retail
+shops, like we had to snowboard
+shops in my early 20s to you
+know, I've sold ebooks. I've
+been in consulting. I've worked
+for startups. Often, businesses
+kind of own the founder, they
+are running the founder and
+running the founder ragged, like
+they're just founders. Too many
+founders, I think and too many
+business owners are just on this
+treadmill that's not very fun
+and really grinds them down and
+burns them out eventually and
+being able to put these pillars
+in place these values and these
+questions we ask before we build
+anything really helped ground us
+in like, okay, this company is
+going to build us a better life.
+So when things came along, like
+we had one story is, it was just
+John and I at the time. We were
+the only two people in the
+company and we got a call from a
+must be a fortune 10 company.
+It's one of the biggest
+companies in the world. And he
+is interested in our private
+podcasting feature. Already
+folks in his organization are
+using Transistor. He noticed
+he's in the, you know, the C
+level suite at that company. And
+now he wants to negotiate a
+bigger deal. So he asked us to
+book a call. He books a call
+with me. And we're talking and
+he's like, wow, like you've got,
+you know, 15 of our accounts
+already using you. I wanna bring
+you 5000, all of our divisions,
+we're gonna bring them all here.
+I love your product. He said I
+spent all day reviewing reviews
+of Transistor online. You're
+consistently recommended in the
+top three. I logged into the
+product. I looked at it, it's
+amazing. Your team has executed
+that highest level, this is
+great. And he says, you know
+what? After this call, let's get
+your legal team to talk to my
+legal team. And then we'll get
+your trust and safety folks to
+talk to my trust and safety
+folks. And then and I was like,
+whoa, whoa, whoa, whoa. I said,
+this company is just two people.
+And he literally paused for 30
+seconds. He was like, it was
+like he lost his breath. He's
+like, what? I said, yeah, it's
+just John and I running this.
+And I can tell you, if you need
+all of that I know because we
+have these values. Like, I don't
+want that. I don't wanna hire a
+sales team. I don't wanna have,
+like I said, in order for me to
+do business with you, I'm gonna
+have to hire three lawyers full
+time. I'm gonna have to hire
+like an accounting department,
+we have none of that. We're two
+people. And we just love the
+life we have. It's calm. It's
+not like, even though it was
+just two of us, we could run
+things in this manageable way.
+The pace of life was good. I
+said, before I got on this call,
+I was snowboarding an hour ago.
+And he was just like reeling
+from all of this. It was just
+like, he could not believe it.
+And so he's like, so you don't
+want these 5000 extra customers?
+I said, no, not if it's gonna
+take all that. So paused again.
+And he said, well, what if we
+bought you? And I said again, I
+said, man, no, we don't wanna
+work for you. We just don't
+wanna work for you. We built
+ourselves a great business and a
+great life. And we're good. And
+he just couldn't believe it. He
+was just like, okay, I guess the
+call is done, you know, but it
+was those values, those
+questions, those pillars we put
+in place about what was
+important to us. And instead of
+like responding to oh, of
+course, like if somebody comes
+to you with 5000 accounts, of
+course, like just ratchet up
+your whole company to be able to
+serve that enterprise customer
+because that's gonna be you
+know, tons of more revenue. And
+of course, if a bigger company
+says they wanna buy you, you
+should take it seriously, like
+that's what you're supposed to
+do. And we're just like, maybe
+it's because we were older when
+we started Transistor, but it's
+like, well, if I go work for
+this company. And I mean, John
+really felt it because this was
+his first kind of independent,
+you know, company on his own.
+And he's like, why would I give
+this up? Like, I have all this
+flexibility and all this
+freedom. I'm having more fun
+than I've ever had in my life.
+We're serving great customers.
+We're not going to be
+billionaires. But we're going
+to, we're doing well here. Like,
+let's, we would rather enjoy
+this for as long as it lasts
+than you know, trade it for
+something we actually don't
+want, which is the freedom, the
+life, the good life, you know?
+So
+That's the kind of choice you
+can make as a bootstrapper,
+though, right? Like, that's
+Yes
+If there's no other interest in
+how big your company should grow
+and how much money you should
+make
+Yeah
+Right? Then you can make those
+choices.
+And again, this is why I have
+changed my opinion on funding a
+bit because it was hard that
+first year. And I think getting
+someone else to risk their money
+so that you can try out an idea
+can be a good idea, especially,
+you know, some of these other
+like Tiny Seed and Calm Fund, I
+think seemed like reasonable
+approaches to funding. But you
+really see, especially in a
+recession, you see all of the
+not unintended consequences, but
+the consequences of funding. And
+in the podcast industry,
+especially we're seeing lots of
+companies publish reports that
+they've run out of runway and
+they're firing people, you know,
+all the major podcast companies,
+Spotify and Art19. And they're
+either freezing hires or they're
+laying people off. And runway is
+such a it's a foreign concept
+for John and I because we
+That's infinite
+We each invested 5000 which was
+mostly just for the contract.
+And then our runway was well,
+John's gonna keep working his
+day job. I'm gonna keep doing
+all the other business stuff I
+was doing. And we're going to
+just keep growing this until we
+can go full time. And it's when
+we could go full time. The
+runway was it's infinite as long
+as churn doesn't exceed revenue,
+right? And so it's interesting.
+I think this is why sometimes
+advice is difficult because
+advice is given in a moment, it
+only takes a minute to tell
+somebody what to do. But the
+Do you find the Transistor being
+a bootstrapped company with
+repercussions of decisions and
+values take a lot longer to play
+out. And I think we're seeing
+some of that play out right now,
+folks that we're hiring up with
+runway, which is we've got some
+money in the bank and now we're
+going to spend that hiring
+people that if we don't get
+revenue high enough, we're going
+to have to let go. And that
+idea, I get maybe one day, we'll
+have to do work like that. But I
+just, I don't want to. I just
+wanna run a small company, hire
+when we absolutely need to or
+want to and hire out of revenue,
+meaning we've got enough money
+to pay this person. Even if
+revenue went down by 20%, we'd
+still be okay.
+those values in place is more
+resilient to the recession we're
+currently facing?
+I think so because we also, we,
+I mean, again, this is the
+thing. I can say all this stuff
+and then everybody can check in
+on me in two years and see
+what's happening.
+We will
+It's true. I could and I'm not,
+I wanna be clear. I could be
+wrong, I could be making the
+wrong decisions. But first of
+all, we're trying to live within
+these values we set up. And we
+have these values that, for
+example, one of them is our
+physical, emotional and mental
+health is more important than
+anything that's going on in the
+business. So if a contract is
+going to require me to take
+three red eyes in a month to
+sign things and meet with
+people, already, I'm just gonna
+say no, because I just know
+that's gonna destroy me. So
+living within your values, even
+if the decisions you make end up
+not working out, at least you
+lived within your values, you
+know. I do think it makes us
+more resilient though. Because
+again, we never had this idea of
+runway, we never had this idea
+of spending money we didn't
+have. And our margins are always
+we always try to have some
+leftover. And at the end of the
+year, if we do have some
+leftover, we do profit sharing
+with our employees. So and I
+think we've been able to do that
+every single year. And every
+single year since we've hired
+people, we've decided not to
+raise prices right now. Because
+in our mind, it doesn't make
+sense for our customers. It's
+like, if we're in a recession
+and everything else is getting
+more costly and we're serving
+creatives and we're serving a
+lot of prosumers, so people who
+are trying to build a brand or
+an audience or build their
+profile or build a little side
+hustle, if we raise prices on
+them, you know, as a former kind
+of prosumer, myself, I would
+just quit, like I would just
+cancel. You know, as soon as
+Adobe, you know, raise their
+prices on Photoshop and all that
+stuff. I was like, like, oh
+sketches cheaper, I'll just use
+that. And so it doesn't make
+sense for our customers. We're
+deciding to add more value and
+keep our prices the same because
+I feel like our prices are fair
+and we're still growing. So why
+would we mess with any of that?
+It's just and the other thing is
+our costs. Because we're small,
+our costs have not gone up that
+much. Sure. We have costs, our
+biggest costs are people but and
+server costs have gone up a
+little bit and you know, our
+email costs have gone up a
+little bit, but it's just it's
+fractional compared to it's not
+like I'm running a coffee shop.
+And you know, the main thing I
+sell is coffee beans and like
+those have gone through the
+roof. We're doing fine. And so
+to punish customers by raising
+prices when, you know, where
+people are losing their jobs and
+prices are going up, it just
+didn't feel right. And we can
+run this for a long time and our
+financial math is pretty simple.
+It's not like our books are
+super complicated. Or there's
+not a bunch of variables we're
+having to check all the time
+like, oh, no, what are the
+investors think? No, no, what's
+the board think? And oh, boy,
+what about this? And it's like,
+it's just simple. It's like,
+okay, how much money did we have
+coming in? How much money is
+going out? And John and I meet a
+couple times a month and just go
+through our every transaction.
+Like literally every transaction
+in our business, we just like,
+not every customer transaction,
+but you know, every Stripe
+deposit and then every expense,
+it's not that complicated. And
+again, anything could happen, we
+could lose this all tomorrow.
+But overall, I think it's making
+us more resilient. The reason
+I'm trumping this a bit is
+generally, simple things are
+more resilient. If you have a
+well built simple chair with
+less joints and all those kinds
+of things, it's going to last
+longer. If you know, everybody
+knows, like in the 80s and 90s
+growing up, you know, every once
+a while you get a friend who'd
+get a real fancy car, you know,
+like big dashboard, like all
+these buttons and power windows
+and stuff. The fancier the car,
+the more stuff that can go
+wrong. Simple is more resilient,
+like you get, you know, my
+parents always bought manual
+transmissions because it was
+just like, it's just simple, no
+power windows, you know, nothing
+extra, it was just like simple.
+And they just break down less.
+So I think these principles also
+kind of work themselves out in
+other spheres. The less
+complicated things are the less
+variables, the less
+contingencies, the less, you
+know. It's actually the problem
+with web development is there's
+so many dependencies in web
+development and there's so many
+things that can break. It's
+HTML. HTML on the web is pretty
+simple. That's why I love the
+web. But simple things are
+resilient, you know?
+Yeah, I guess that's a whole
+other layer too like, the whole
+podcasting space is effectively
+built on open standards, which
+themselves are fairly simple
+protocols, right?
+Yes
+RSS feeds, where tools can pull
+episodes and meta information.
+HTML for the website that you
+create and JavaScript for the
+widget that you use to embed
+every podcast episode into
+something else. Essentially, the
+industry you're in and the tool
+you're building and all of this
+is built on open standards on
+something that is simple by
+design, supposedly, but at least
+simple because it's so well
+distributed and ubiquitous.
+Yeah, I mean, I think the open
+standards are certainly bring
+more, from a conceptual
+standpoint, they are a little
+bit more complicated to
+understand. Because people's
+frame of reference is the
+centralized standard. I really
+experienced this with my
+daughter because she's 20 now.
+But when she was 18, she was
+writing this report for me the
+Gen Z kind of report, kinda
+thing.
+That was a great one.
+And she's like, we had a phone
+call and she's like, dad, I
+don't get it. Like, why are you
+so down on, like, all these
+central players? Like, you seem
+to have a negative kind of
+feeling towards YouTube and
+Spotify. And what's wrong with
+Spotify? Spotify is cool.
+Spotify is great. If I go to
+Spotify, it recommends podcasts
+like, isn't that a good thing?
+And I said, well, you're gonna
+need some centralization, for
+sure. But here's what's great
+about the distributed nature of
+podcasting is we're still pretty
+early in Spotify cycle, but
+we've already seen how it
+affected artists. So Jack Conte
+of Pomplamoose, tells this great
+case study of he was selling
+MP3s on iTunes and his band,
+it's a two person band and
+they're making about $150,000 a
+year on the band. And this is
+enough money for them to make
+music, to produce it, to put it
+on the world for their fans to
+buy it. And they're full time on
+the band. They're making a
+combined 150 grand and you know,
+life is good. And then streaming
+comes along. And it literally
+destroyed, like 95% of that. And
+he's still selling the same
+thing. He's still selling music
+but it was the centralization
+that ended up hurting him
+because everyone decided I'm
+gonna get my music through, the
+majority of people decided I'm
+gonna get my music through
+Spotify. And they just didn't
+have any other channels to reach
+their fans. There was no,
+there's no and he went on to
+create Patreon to kind of create
+an alternative funding model.
+What open standards like RSS
+give creators is optionality. So
+for sure, I think a lot of
+creators should be on YouTube
+because YouTube is a giant
+platform. It's a giant search
+engine. There's so many people
+watching and consuming video
+there. It's a great way to get
+your message out. But for sure,
+I don't wanna rely on it. I
+don't wanna have all my eggs in
+the YouTube basket because the
+story is always the same.
+Facebook convinces all these
+local businesses to build
+Facebook pages, get everybody to
+like their Facebook page, you
+know. You go to a shop and
+they've got a little sticker
+that says, like us on Facebook.
+They're giving up their email
+lists to go all on Facebook and
+just have Facebook likes. And
+then a couple years later,
+Facebook goes, oh, now to reach
+your audience, you've got to pay
+for boosts. This is the same
+cycle. The entire structure of
+their economic model depends on
+it. You're eventually gonna get
+taken advantage of, guaranteed,
+by the way. So right now there's
+some YouTubers that are killing
+it, that love YouTube.
+Eventually, YouTube's gonna do
+something that they don't like
+or they're gonna get demonetised
+or they're gonna get kicked off
+or they're gonna have an ad that
+they don't agree with or
+whatever it is. Or YouTube's
+gonna change the algorithm.
+YouTube's gonna say, you know
+what? We're gonna move away from
+creator based algorithms. We're
+just gonna go to algorithms like
+TikTok and TikTok doesn't care
+who the videos from. TikTok is
+just gonna show the most viral
+content of that moment, which
+makes it harder for creators to
+build an audience. This is where
+it's going for sure. Open
+Standards, RSS, email, the web,
+these standards, they're
+messier, but because they're
+distributed, for sure, like
+Spotify and Apple would love to
+own podcasting, but they can't.
+They're in this battle where
+there's tension between them,
+you know. Apple's got 30%,
+Spotify has got 30%, YouTube's
+probably got another 20% or 30%
+or 40%. But they're all in this
+locked battle of, well, no one's
+gonna own it. And as long as
+nobody owns it, creators own it.
+We have our RSS feeds, we can
+host them ourselves, we can
+forward them to a different
+hosting platform, if we want, we
+can lock them down, but keep all
+of our subscribers, we can
+remove it from Spotify, if we
+don't agree with their business
+practices. It gives us
+optionality, we can put ads in
+there, we can use bad language
+on there if we want. It gives us
+the freedom to do what we want
+and what we need and allows us
+to keep our audience as long as
+people are subscribed to that
+RSS feed, no matter where you
+go, they can go with you.
+The only thing we pay with is
+discoverability.
+Yeah
+That's always been one of the
+biggest issues in podcasting to
+begin with, but also that people
+are self hosting their video.
+Nobody's gonna watch it if they
+don't know where to find it. And
+the same goes for podcast.
+Yeah. And this is what's strange
+to me is that we had this whole
+decentralization. It was almost
+like a cartoon decentralization
+movement with Blockchain. It was
+like all of these people were
+discovering decentralization for
+the first time. The web has been
+decentralized before there was a
+web, like Usenet groups, FidoNet
+on BBSes all decentralized. DNS
+decentralized so the thing that
+runs all of the domain names in
+the world is decentralized. It's
+just a bunch of, every service
+has a list of you know, all the
+domains and then where they
+point to. And it's distributed
+Well, they want to fund it, but
+they want to fund one thing. And
+around the world. It's amazing.
+It even works, right? And
+somehow in that system and
+again, here's the surprising
+part to me, is whenever I point
+to these older systems like DNS
+for discoverability, DNS I'm
+blanking, torrent trackers, you
+know, there was Usenet for sure,
+FidoNet, for sure. These were
+old systems. Some of them were
+built three or four or five
+decades ago. And we never, it's
+like, we just stopped that
+the problem with decentralized
+discoverability is that it has
+discovery and that curiosity.
+And then blockchain came along
+and then it just owned the
+conversation about
+decentralization. And even they
+weren't really focused on
+discoverability. And that's why
+you got all these centralized
+exchanges and centralized NFT
+marketplaces. It's like, if
+you're going to have an
+imagination of about
+decentralization, if you're
+going to put the smartest people
+to be federated. And if
+something is federated, there
+in tech on a problem, why are we
+not doing any work on
+decentralized discoverability?
+And you know, a lot of people
+say, well, it's impossible and
+I'm like, well, it feels like we
+have not been curious enough
+about it. And to me, it's not
+impossible because we had these
+rudimentary systems working. And
+has to be a connection between
+different entities that is
+even like, even if someone just
+decided to help improve DNS,
+right? So right now DNS takes,
+you know, a couple hours to
+update, usually sometimes longer
+24 hours. Well, why have we not
+gotten curious as a tech
+community about how we can
+improve that, you know? And then
+the same kind of tack could be
+used for discoverability. And in
+some ways, you know, this whole
+willingly maintained, right?
+It's like, what would you say
+movement to Mastodon is
+interesting to me because you
+have this decentralized model.
+And again, limited
+discoverability. But it's there.
+Like, I can search for your
+username, even if you're on a
+different server and it finds it
+pretty quick. So we just need to
+augment some of these existing
+models. And to me, that's a way
+more interesting question than
+with Macedon, you have all these
+servers and they have to
+saying, let's continue to build
+up, you know, let's just find
+the next YouTube and the next
+Google and the next Spotify. I
+know, venture capitalists love
+that. And maybe that's why we
+haven't gotten decentralized
+discoverability because venture
+capitalists will not fund it.
+Yeah
+And if you wanna do that, if you
+wanna fund that, well, now you
+have to find 1000 people with
+1000 different servers. This is
+federate with each other. That
+means that each server has to
+probably an incentive alignment
+problem because
+Yeah
+That's probably the same thing,
+like the companies or the
+accept all these other servers
+as like agents of truth.
+nonprofits that run the servers,
+they have very little incentive
+to make it any better. Because,
+you know, like, what's in it for
+them? It's, being used as it is.
+I think you're absolutely right.
+There's a problem there. But the
+problem might just as well be
+that trust again, like, kind of
+harkens back to what we said
+earlier. Everything is built on
+trust.
+Yeah, and the curiosity of just
+independent geeks.
+Yeah, I guess
+If you think about
+They've been snatched away by
+the Facebook's of the world,
+right? That's a bit of a
+problem. They're pulled into
+these decentralized companies as
+well.
+Yes
+Again, very little incentive to
+do any thinking about
+decentralized systems, if the
+system they work for is a
+centralized one.
+Yes. And I think I hope, this is
+why I've always held on to these
+ideals from the early web. You
+know, I grew up and I turned 10
+in 1990 and grew up visiting
+BBSes. And that whole system,
+you know, it was this beautiful
+system of people building some
+open source stuff, but that also
+stuff that you share were that
+you would pay for. And each
+enabled the other in this nice,
+I mean, it wasn't perfect. I've
+got a little bit of rose colored
+memory here. But there was
+something nice about it and if
+you look at the bootstrapped
+companies that have succeeded,
+MailChimp, ConvertKit, lot of
+email companies, a lot of
+podcasts hosting companies that
+the top you know, Buzzsprout,
+Transistor, Captivate, Castos
+we're all independent companies.
+We're not big public companies.
+A lot of the even look at
+Basecamp built on open source
+and the open web, right? HTML,
+CSS, TCP/IP, all of the
+protocols. These open old,
+crusty, open protocols have
+enabled so much commerce,
+independent commerce. It's like
+the bootstrap companies. Why do
+the bootstrap companies
+gravitate to these kind of open?
+Even like Tailwind. Tailwind is
+open source software, open
+source framework. And it's an
+incredible independent business,
+maybe one of the most profitable
+independent businesses ever
+created. You know, it's
+incredible. Taylor's done the
+same thing with Laravel. Open
+Source open protocols, they
+generate opportunities for indie
+hackers, for bootstrappers, for
+solopreneurs. And this is why I
+think that the geek community or
+you know the tech community,
+this is why we need to be
+rallying for improvements and
+innovation in open standards.
+And we're doing this in
+podcasting right now. We formed
+a Podcast Standards Project,
+similar to what Zeldman did with
+the Web Standards Project back
+in the was probably in the 90s
+or whatever. Like they were
+petitioning these big companies,
+Microsoft, convincing Microsoft
+to adopt open web standards. We
+all benefited from that. And you
+know, who else benefited from
+that? Base Camp and Microsoft,
+yeah, yeah. But Basecamp
+benefited from the fact that you
+could visit basecamp.com and
+sign up and use it in Internet
+Explorer, Firefox, whatever. So
+I hope that we haven't had some
+of these movements in a while,
+you know and we got really
+distracted by crypto and NFT's.
+It was like, it had all of the
+energy of like, building the
+open web again. But it was just
+not useful in a way that has
+shown itself. And I hope now
+that you know, crypto is kind of
+down right now. I hope that we
+can take some of that energy and
+bring it back to these things
+that actually give us value now.
+It's very likely, your next
+business is gonna be a boring
+web app built on boring old open
+protocols, TCP/IP, DNS, HTML,
+CSS, it's all old and boring.
+And we should be innovating on
+top of it.
+Wow, I could not agree more like
+honestly, the idea of open
+protocols to me has always said
+nobody can take the market away
+from me because the protocol
+will always be there, right?
+That's the kind of anti Peter
+Thiel sentiment here you cannot
+become a monopoly in this
+market, like Tailwind couldn't
+become a monopoly because
+somebody else could build
+something different for
+different people and exist just
+as well. Nobody can buy the IP
+rights for TCP/IP.
+Yes
+Does not exist, that cannot
+happen. And great advice.
+And today, I'm sure there's I
+mean, if Microsoft could have
+owned any of that they would
+have, they would love to. This
+is what's funny to me. Sorry, I
+did one more tangent is I often
+get called on people say,
+Justin, you're too cynical and
+pessimistic about whatever, Elon
+Musk, crypto, venture capital,
+all these things. I wanna
+critique, I wanna critique
+people in power, I wanna
+critique powerful companies, I
+wanna do all that stuff. So if
+we're going to be cynical,
+here's what I don't like us
+being cynical about. So I'll
+bring up this idea of like, oh,
+email. Email is this beautiful,
+open standard that we all
+benefit from. And people say,
+wow, but really, who owns email?
+Gmail, right? And sure, Gmail is
+a big part of the market. But
+you know what you can't do? Is
+you can't create a Spotify
+profile, not on Spotify. You can
+create a hey.com email address.
+And there's probably 1000s,
+maybe even more than maybe
+10,000 independent email service
+providers in the world that will
+give you a unique email that is
+not Gmail, you can host it
+yourself. You can put a machine
+under your desk and host your
+own email server if you want to,
+I recommend that. So sure, you
+can be cynical about that. But
+it's still an open standard.
+Gmail is not charging you a
+stamp fee for every email you
+send and I guarantee you if they
+started charging me a stamp fee,
+I would move somewhere else.
+These protocols are remarkably
+resilient to monopolies. So
+sure, Gmail has most of the
+market. There's still a lot of
+Hotmail addresses out there.
+There's still a lot of Yahoo
+addresses out there. There's
+tons of Outlook addresses out
+there, Microsoft, you see the
+same tension of these big
+Goliaths and they all wanna own
+the market. But even with
+Gmail's success, they're still
+Microsoft. They're pulling and
+holding the balance of power and
+independent nerds and smaller
+companies saying, you know what?
+I don't like the way Gmail does
+email and I got to start my own
+email company. And you can do
+that, like those exist. And some
+of those independent email
+companies are doing quite well,
+you know. So, the cynicism I
+hear about, you know, those
+kinds of standards I'm like, and
+people will say why you don't
+even like email. I'm like,
+emails amazing for all of its
+faults and all of the mess, it's
+actually beautiful. And the same
+criticisms you apply to email
+and spam email. I can apply it
+to YouTube comments. Like, I get
+so much bullshit YouTube
+comments, I could apply to
+Google Analytics results, you
+look through like your
+referrers. And you're like,
+there's like 10 like spammy
+referrers here that they haven't
+filtered out yet. It's
+everywhere, whether it's
+centralized or non centralized.
+So I don't think open standards
+deserve the kind of cynicism
+they sometimes get. It's like,
+no, this is beautiful. Emails
+are amazing. Arvid can have a
+list of all of his, you know,
+customers and fans. And he can
+download it as a CSV and have it
+on his hard drive. Even if, you
+know, even if MailChimp decides
+to go take it away or ConvertKit
+or whatever, you get to hold on
+That's exactly what I did. Like
+I hit my list on MailChimp, they
+to
+wanted to charge me a lot of
+money. And I said, nope, took my
+list, went to ConvertKit.
+Exactly the route I took. And
+there was no friction because it
+was impossible for that friction
+to exist because the standard is
+there, right? It was. Yeah,
+that's, it's a really good
+point. I think what you said
+earlier, these systems, they
+generate opportunities for
+founders.
+Yes
+That's the big, big point here.
+Yeah
+With all the complexity of
+Federation. And I guess email is
+a great example of that, too,
+like with the spam filters and
+like, the trustworthy domains
+like the big players are trying
+to push the smaller ones aside,
+right? Because they don't want
+to federate with them.
+Yes
+But in the end, you know, if you
+build a solid system based on
+solid protocols, you could still
+operate your own email server
+and communicate with people and
+Gmail.
+Yeah
+Not a problem, you just have to
+Yes
+Understand how to technology
+work.
+Yeah. And the nerds at Gmail, by
+the way, the nerds who are
+running those email servers,
+fundamentally, there's still
+these intrinsic values baked
+into these protocols. So even if
+Gmail is like, ah, we're not
+super stoked that a lot of
+people are switching to hey.com.
+The nerds at Gmail are still
+going to receive emails from
+hey.com because the values are
+built in, you know and that's
+probably enough on open
+standards. But I'm a big
+proponent of them. And I think
+we've missed again, crypto was a
+distraction, especially for
+indie hackers, on where most of
+the value on the web has come
+from. And it's been the open web
+open standards, we've all
+benefited from it, every
+bootstrap company has benefited
+from it. And we should be
+investing more in it as
+independents.
+Yep. As you said, the values are
+built in and they're built into
+the protocols, the open web, and
+also built into Transistor FM,
+which is kind of cool to know
+that this is a business that
+started from values and then
+just attached them later but
+came out of it. Thank you so
+much for being on the show
+today. That was a lot of insight
+into a very interesting
+industry. As a podcaster myself,
+I'm excited to understand it
+better because it's the world
+that I'm in and I wanna be in. I
+wanna make better too. And I'm
+so glad that you are on the
+forefront of making it better.
+That committee, super
+interesting idea like
+establishing and kind of being a
+proponent for change for the
+better. That's awesome. Thank
+you so much for doing this. And
+thank you for talking to me
+about it. It's almost yeah, it
+just makes me very happy to see
+the journey that you've been on,
+both with Transistor and before
+and building in public that
+you're doing, the communication
+that you're doing in your
+newsletter on Twitter. Where do
+you want people to find you if
+they wanna learn many more very
+interesting things from you?
+I mean, I would love for people
+to sign up on my newsletter,
+justinjackson.ca/newsletter. I'm
+still on Twitter. The letter N
+letter I Justin, I'm spending a
+lot more time on Mastodon. If
+you search Am I Justin on there,
+you'll see me on
+mastodon.social. But yeah, come
+hang out. And we have a podcast
+that we haven't published an
+episode on in a while. But if
+you haven't listened to our
+story, Build Your SaaS
+chronicles our whole journey
+from nothing to where we are today.
+I'm a big fan of that podcast.
+And I hope there will be more
+episodes in the future but no
+pressure. Same goes for your
+newsletter. It's sporadic. But
+whenever it appears in my inbox,
+it's always good.
+Yeah
+Same goes for the podcast. Thank
+you so much for being on today.
+Thanks so much for having me.
+And that's it for today. Thank
+you for listening to The
+Bootstrapped Founder. You can
+find me on Twitter @arvidkahl.
+You'll find my books and my
+Twitter course there as well. If
+you wanna support me and this
+show, please subscribe to my
+YouTube channel, get the podcast
+in your podcast player of choice
+and leave a rating and review by
+going to
+(http://ratethispodcast.com/founder).
+Any of this, will help the show.
+Thank you very much for
+listening and have a wonderful
+day. Bye bye

@@ -1,0 +1,51 @@
+{
+  "topic_id": 161414,
+  "title": "Budget Not Throwing Error when monthly limit exceeds",
+  "slug": "budget-not-throwing-error-when-monthly-limit-exceeds",
+  "category_id": 6,
+  "tags": [
+    "frappe"
+  ],
+  "created_at": "2026-03-11T19:04:30.733Z",
+  "last_posted_at": "2026-03-11T19:04:30.879Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/budget-not-throwing-error-when-monthly-limit-exceeds/161414",
+  "views": 17,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Mohammed_Anas1",
+  "posts": [
+    {
+      "id": 495783,
+      "username": "Mohammed_Anas1",
+      "name": "Mohammed Anas",
+      "created_at": "2026-03-11T19:04:30.879Z",
+      "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/e/2/e29b17ce4c13311772ab24179a9f056147eefe6b.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/e29b17ce4c13311772ab24179a9f056147eefe6b\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/e/2/e29b17ce4c13311772ab24179a9f056147eefe6b_2_688x499.png\" alt=\"image\" data-base62-sha1=\"wkEbZU4bLQ3oBTVvl2KmhuN0DpN\" width=\"688\" height=\"499\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/e/2/e29b17ce4c13311772ab24179a9f056147eefe6b_2_688x499.png, https://discuss.frappe.io/uploads/default/optimized/3X/e/2/e29b17ce4c13311772ab24179a9f056147eefe6b_2_1032x748.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/e/2/e29b17ce4c13311772ab24179a9f056147eefe6b.png 2x\" data-dominant-color=\"1C1D1D\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1291×937 65.9 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/5/9/59a9be713e9be6b7bb20f2168871576911fdc375.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/59a9be713e9be6b7bb20f2168871576911fdc375\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/5/9/59a9be713e9be6b7bb20f2168871576911fdc375_2_639x500.png\" alt=\"image\" data-base62-sha1=\"cNcavG8chK2uu3kMAW3YGpw4p7v\" width=\"639\" height=\"500\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/5/9/59a9be713e9be6b7bb20f2168871576911fdc375_2_639x500.png, https://discuss.frappe.io/uploads/default/optimized/3X/5/9/59a9be713e9be6b7bb20f2168871576911fdc375_2_958x750.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/5/9/59a9be713e9be6b7bb20f2168871576911fdc375.png 2x\" data-dominant-color=\"1C1C1C\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1154×902 65.3 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/0/2/022129d38f95ceeece71c1cd45d60d5f7b1c6229.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/022129d38f95ceeece71c1cd45d60d5f7b1c6229\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/0/2/022129d38f95ceeece71c1cd45d60d5f7b1c6229_2_690x376.png\" alt=\"image\" data-base62-sha1=\"iQ0rxsiBwNDQSOM6HSrr9TLjEl\" width=\"690\" height=\"376\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/0/2/022129d38f95ceeece71c1cd45d60d5f7b1c6229_2_690x376.png, https://discuss.frappe.io/uploads/default/optimized/3X/0/2/022129d38f95ceeece71c1cd45d60d5f7b1c6229_2_1035x564.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/0/2/022129d38f95ceeece71c1cd45d60d5f7b1c6229_2_1380x752.png 2x\" data-dominant-color=\"1E1E1E\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1510×825 38.3 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/mohammed_anas1/{size}/65291_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 10,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

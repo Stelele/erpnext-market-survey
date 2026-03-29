@@ -1,0 +1,333 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+Today we will talk about the pros and
+cons of being early in the market or
+building a competing alternative within
+an existing one and what that might mean
+for the complexity of your product. This
+episode is sponsored by paddle.com, my
+merchant of record payment provider of
+choice who has been helping me to focus
+on Podscan from day one. They're taking
+care of all the things related to money
+so that founders like me and you can
+focus on building the things that only
+we can build. Paddle handles the rest.
+Things like sales tax and credit cards
+failing, all of that. They do it so I
+don't have to. Highly recommend it. So,
+please go and check out paddle.com.
+[Music]
+Now, here's a story that I think every
+founder needs to hear because it reveals
+something quite fundamental about
+markets and competition and the hidden
+costs of being first. In the world of
+Python programming, there has been a
+tool called PIP or PIP that has
+dominated package installation for
+years, decades even. Like it has been
+the def factor way to install Python
+packages through all the many different
+versions of Python that have existed in
+the past. And it worked. It solved the
+problem and it became quite ubiquitous.
+You have similar tools in other spaces
+like npm for JavaScript or composer for
+PHP. But I'm going to talk about
+something in the Python world today
+because recently a new competitor tool
+kind of emerged and it's called UV, just
+those two letters. UV is what I believe
+to be a reimplementation of that same
+installer. But here's the kicker. It is
+so much faster than the original that
+people often run it and they think it
+didn't work because it's so fast.
+They're so used to pip taking a lot of
+time, maybe going to grab a coffee while
+packages install that with UV, they
+blink and it's done. The speed
+difference is that dramatic with this
+kind of tool. So, if you're using
+Python, you really should look into
+this. But even if you're not, I think
+there's something to learn about it
+here. UV probably would never exist if
+it hadn't been for the many many years
+of PIP being used, being built, and
+growing into the tool that it became.
+And I think there's the story here, a
+learning that goes way beyond Python
+tooling. When you're building the very
+first solution of anything in a certain
+space, you face what I call unavoidable
+complexity. You're not just building
+something complex because you want it to
+be complex. You're building it in a
+complex way because you simply don't
+know what you don't know. You don't know
+what easy looks like. You don't know
+what simple looks like. You just know
+what you need to do to get anywhere.
+Think about it. When people set out to
+build PIP, they didn't know about the
+complexity of cloud systems or the
+intricate challenges of interoperability
+between different Python versions or the
+nightmare of managing packages across
+different environments and repositories.
+The tool was made to fit a world that
+didn't yet have these things in it. And
+as these challenges appeared over time,
+PIP was adapted. It was improved. New
+features were bolted on and edge cases
+were handled. Workarounds were created.
+And through the sheer necessity of being
+an ongoing experiment, this ongoing
+learning journey, PIP developers just
+added layers of complexity and
+interconnectedness to a tool because
+they were needed. And this happens
+because when you're the first and only
+tool that has to fit all these use
+cases, every new problem becomes your
+problem to solve. One part of your tool
+solves one particular problem for one
+kind of person and another part solves a
+different problem for another kind of
+person. And the moments these parts
+interact. Now there's a third condition
+that you've never thought about. If you
+don't solve for it, your tool becomes
+unusable for people who need both
+capabilities or even the ones who just
+need one of them because you don't know
+about hidden interplays there. Here's
+where it gets really interesting. If you
+build a product for innovators, for
+people who are willing to experiment,
+their feedback comes from a very
+specific perspective. They're thinking,
+"Okay, it's fine if it doesn't work
+perfectly as long as it works at all."
+They'll tolerate certain drawbacks and
+sluggishness and incompleteness if your
+solution still beats the status quo of
+having to build all of this themselves.
+The feedback you get from innovators
+will always be biased towards solving
+individual use cases perfectly rather
+than finding this kind of more
+generalized solution that works
+adequately well enough 8020 for
+everyone. And this is exactly what
+happened with PIP over the years. But
+now enter UV, right? UV does something
+fascinating. It reinvents the wheel, but
+it reinvents the wheel as seen by the
+majority of people who actually use it.
+UV is focused on what it already knows
+to be this hard stuff, the hard parts of
+the product. It takes the most painful
+aspects of package management that pip
+users have complained about for years
+and it solves them extremely well and so
+fast that people think they've made a
+mistake. All those learnings from Pips's
+journey, the complexity, the edge cases,
+the performance bottlenecks, all these
+things that people only discovered over
+years of using this tool, they weren't
+necessarily encoded in pips code, but
+they were encoded in the documentation,
+in the community conversations, the
+discussions, the Stack Overflow posts,
+in the lived experience of millions of
+developers who use that tool. So UV's
+builders had access to all of that
+institutional knowledge from day one.
+They could look at PIP and say, "Well,
+okay, here's what works really well.
+We'll keep that. And here's what
+everybody complains about. We'll just
+solve this better because we can." They
+didn't have to discover these problems
+through this painful trial and error
+like Pip did over decades. The market
+had already done that expensive learning
+for them. So, here's what that means for
+you as a founder. If you're building a
+tool for the very first time in a fresh
+market that doesn't have a solution yet,
+just be aware you will build complexity
+simply because there's no way for you to
+know where the avoidable complexity
+lies. You have unavoidable complexity in
+these systems because to avoid
+complexity, you need to be aware of it
+first. Obviously, it's an unknown
+unknown that often manifests as
+technical debt long after the fact. Your
+future competitors will know this and
+they will find the things you do really
+well and take them. They'll find the
+things you don't do well at all and
+build them better. That's just what
+competition is. That's how markets
+evolve. That's how tools like this
+evolve over time or any software does.
+But here's the flip side. If you're a
+founder building something in an
+existing market or a red ocean as people
+call it, you can use this pattern to
+your advantage because you already know
+that there are things your incumbent
+competitors could not have avoided
+simply by the logic of them not being
+able to see the problems before they
+were built, right? Before they ran into
+them. And this still requires tremendous
+insight into the market that you're
+operating in if you're choosing to go
+that route. It still requires the
+capacity to actually come up with a
+better solution that beats many years of
+experience building these solutions in
+that field that your competitors have.
+But the benefit of not being first is
+that you get to build the UV that
+defeats the pit. You get to build a tool
+that has community learnings and
+industry best practices built in from
+day one. even in the architecture and
+infrastructure of the tool that the
+other companies could never have built
+like this because they had to kind of
+experiment and fail their way towards
+set learning. And those are advantages
+that the original tools can only
+integrate slowly after the fact with
+lots of refactoring and rebuilding and
+very expensive experimentation.
+Now, you might think from all of this
+that this means first movers are doomed,
+but that's not quite right either.
+Here's why pip is still on so many
+systems despite UV being clearly
+superior in many ways. Legacy and
+dependencies. The systems running pip
+right now weren't setting up from
+scratch yesterday, right? They're not
+completely novel installations running
+on the latest version of everything.
+They have dependencies both in software
+and in operational terms. They have
+other tools that depend on being
+installed via pip. and they have tool
+chains that would be hard to change
+because they're kind of deployed on
+legacy systems that might struggle with
+UV or even just installing a new package
+like this or where something is baked in
+or pre-ompiled there's a lot of legacy
+stuff and a lot of it is weirdly
+integrated in many ways this complexity
+that seemed like a burden well it
+becomes a moat your moat is having all
+those learnings encoded into your
+product and its integrations and even
+though it might be sluggish even though
+it might be complicated the solution is
+already there and it's being used and
+it's usable right now. People on the
+innovator and early adopter end of the
+spectrum will always try out new things
+like UV. You can reliably assume that
+they will see if it works for them. But
+UV only has a couple of years worth of
+documentation and community knowledge if
+at all. It's pretty fresh. There may not
+be as much real world experience with
+edge cases and it may not be completely
+capable of being deployed on certain
+systems that people know they need to
+work with and they need to have work
+reliably. And this is the Lindy effect
+in action here. Something that's been
+around for a while is likely going to
+stick around for a while longer and new
+things, hype cycles, right? They might
+come and go and then you're left with
+something that is unsupported. So what's
+the lesson here? If you're building
+something completely new, there's
+unavoidable complexity. Don't beat
+yourself up about it. It's the price of
+being first. But do prepare for
+competitors who will learn from your
+struggles and build cleaner solutions
+than you can ever build on top of the
+legacy thing you've already built. Your
+defense is not to prevent complexity. It
+is to move fast enough and build deep
+enough relationships with your users
+that by the time a cleaner competitor
+arrives, you've become infrastructure
+that's hard to replace. It's kind of a
+version of vendor lockin, but it comes
+almost from an operational standpoint,
+not from we've been paying for this
+forever. We have integrated it forever.
+It's like we're used to this. We operate
+more effectively with this. A new thing
+might need changes that we're not
+willing to pay for. If you're building a
+solution that is not the first one, but
+it's replacing an existing tool, you
+also have an incredible opportunity
+here. You get to find the avoidable
+complexity in existing solutions and
+then eliminate it. You get to learn from
+years or decades even of other people's
+expensive mistakes. And you also need to
+understand why that complexity exists.
+Sometimes it's solving real problems
+that aren't immediately obvious and
+might still be hard to solve. The
+markets teach us everything we need to
+know, but they also teach the first
+movers through painful experience and it
+teaches the followers through
+observation. Both paths have their
+advantages, but only if you understand
+which game you're playing. So whether
+you're building the next PIP or the next
+UV, the key is recognizing that
+complexity isn't always a flaw.
+Sometimes it's a feature that's been
+battle tested by reality. And sometimes
+the cleanest solution wins not because
+it's simpler, but because it's simpler
+in all the right ways for the right
+people. That's the hidden cost and
+hidden benefit of being first. You pay
+for the market's education, but you also
+get to keep some of the value that
+education creates in that market. And
+that's it for today. Thanks so much for
+listening to the boots of founder. You
+can find me on Twitter at avidkal v k
+ahl. If you want to support me and this
+show, please share podscan.fm, my SAS
+business, with your professional peers
+and those who you think will benefit
+from tracking mentions of podcasts of
+their names, their brands, and all kinds
+of things on podcasts out there. Podscan
+is a near realtime podcast database with
+a stellar API, many really cool APIs.
+So, please share the word with those who
+need to stay on top of the podcast
+ecosystem. Thanks so much for listening.
+Have a wonderful day and bye-bye.

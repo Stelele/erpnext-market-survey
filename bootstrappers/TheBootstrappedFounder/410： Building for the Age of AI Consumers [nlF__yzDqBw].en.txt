@@ -1,0 +1,642 @@
+﻿[Music]
+Hey, I'm Arvid and this is the bootar
+founder.
+[Music]
+I think we're at the precipice of a
+pretty significant change in how we
+build software products. And I know I
+say this a lot and I've said this every
+year, but this time I think it's weird
+in a way. Obviously, the recent ascent
+of VIP coding and all the agentic coding
+tools that we all find super useful and
+highly effective. Well, that shows a
+difference in how we approach building
+products. Sure. But there's another
+change. Not just in how we build, but in
+who we build these products for. This
+episode is sponsored by paddle.com, my
+merchant of record payment provider of
+choice, who's been helping me focus on
+Podscan and my other projects. They have
+been taking care of all things related
+to money so that founders like you and
+me can focus on building the things that
+only we can build for all the audiences
+we might want to serve with that. Paddle
+handles all the rest. sales tax and
+credit cards failing, all of that. I
+highly recommend it. So, please check
+out paddle.com.
+Now, there used to be a time where
+websites were mostly for people and
+people were browsing websites, they were
+reading websites, they were handwriting
+websites in HTML in text editors. If you
+did this in school or at any point, I
+commend you. It was a great time to
+learn how to be on the web and how to
+produce something meaningful. The late
+'9s, early 2000s were pretty much that.
+And then of course technology evolved
+around it and it made it easier to build
+things. But that's kind of what websites
+were, right? They were crafted HTML for
+people by people. And then there was a
+time where APIs became all the rage and
+applications became these programmable
+things that could work with each other.
+They would exchange information and
+orchestrate each other to get data from
+one point to the other. And first
+software was made for people and then
+software was made for machines to
+consume. Of course, I know that software
+was always for machines to consume. Even
+an HTML website technically was consumed
+by the browser before the person used
+it. But you know what I mean, right? It
+was meant for active consumption by
+other machines in a scaled way. And now
+we have this weird hybrid of man and
+machine. And that's the new thing.
+That's agentic AI. the AI that follows
+human logic and has human approaches to
+process and discovery and exploration
+but is effectively a machine that can do
+things much faster and much more
+targeted maybe also much more
+dangerously than what most humans alone
+could do. So we are looking at the age
+of building software and interfaces most
+importantly for AI systems and it's
+always a progression right when you look
+at user interfaces browsers or desktop
+applications there was this progression
+towards making these things computer
+accessible browsers deployed things as
+HTML documents JavaScript applications
+where the back end would be then later
+made available as an API with a more
+structured approach maybe a JSON an API,
+a GraphQL API or some kind of remote
+procedure call. It would be more
+technical, more focused on the API side
+of things. More focused on things what
+machines would like to consume and
+browser renderings were kind of for
+people. But I think there was a
+migration of concerns here from this is
+what a human wants to accomplish with
+this piece of software towards this is
+what a human wants a machine to
+accomplish with this piece of software.
+And now there's an interface. this part
+of the interface that isn't even
+consumed by humans, but it's also not
+consumed the same way like repeatably,
+expectably, or reliably as machines
+would consume APIs as they used to at
+least. Now we have agentic systems that
+try stuff. It's the best way I can
+phrase it, right? If you have an API, if
+you have a contract with an API client
+and an API server somewhere, you know
+exactly what's going to happen. And
+anything that's kind of out of the
+ordinary produces errors or worst causes
+an IP ban or something. But now you
+don't really know. These machines, these
+agentic systems, they try they explore
+just like a human explorer would and
+would try to see if they can get some
+kind of information from somewhere. Just
+dig around a little bit, see what
+happens. And if they can't, they try
+alternative approaches. They might try
+different ways of solving a problem that
+are not codified in an API documentation
+or in a browser how to walk through
+video. They might try to fabricate
+completely new solutions to previously
+unencumbered and undiscovered challenges
+that you might have or pose with the
+API. So the agentic system of today and
+the future will kind of require its own
+user interface in a way. What the
+website the rendered DOM was for the
+browser that allowed people to visualize
+information and what the API endpoint
+was for machines. we kind of have to
+think about how we will make this
+available to AI systems right now and in
+the future. And if you think well just
+just going to use APIs, right? Well,
+yeah, maybe right now I think we will
+likely have these AI systems use APIs
+because that's what we have. And if you
+look at the technology that is being
+developed, the MCP, the model context
+protocol, that is an idea that kind of
+fits there. It's kind of an API of
+sorts, an API that translates certain
+things into API calls on the back end.
+It's kind of a a magical wrapper around
+an API system, around a service that
+makes the whole thing accessible to
+agents, LLMs. But I think there might be
+a future where this wrapper is not
+flexible enough. We want systems to be
+able to quickly integrate with the
+capabilities and capacities of our
+platforms, of our offerings, right? the
+businesses that we run, the platforms
+that we run, the data that we make
+available and the transactional nature
+of our system that we make available to
+our customer and users. We want systems
+that are flexible enough for new ideas
+like new agentic approaches to not be
+reliant on us having to implement some
+kind of endpoint whenever somebody wants
+to use it in a different way. And when I
+think about APIs of the past and
+present, I guess I think the GraphQL
+idea was more aimed at this compared to
+the REST idea. The idea of a restful
+system was all well defined but graphql
+was more like we'll make available an
+endpoint and allow the consumer to
+configure exactly what data they want.
+Just tell me the things the properties
+you want and that's what you will get.
+It's kind of nice. It's flexible more
+flexible than what rest used to offer at
+least through the spec. And I see
+similar things in the DSLs the domain
+specific languages for things like the
+elastic search engine a tool that I use
+quite a lot for potan. It is something
+that used to frighten me decades ago
+when I was first encountering it and has
+been something frightening in the back
+of my head ever since. It's complicated.
+It's such a complicated way of
+expressing what I have to admit are
+highly complex queries to search for
+stuff and rank it and sort it and you
+know do a lot of magic. But AI
+surprisingly has really helped me dig
+into this and built working starter
+queries for me so that I now actually
+understand the DSL better and like to
+implement it more. Of course, mostly AI
+does it for me, but I can see how it
+works. It's kind of nice like the AI
+actually pulls out the complexity and
+makes it a thing that I can accomplish,
+a thing that I can understand. And that
+DSL is so flexible that I don't think
+you could even enumerate the full
+possible spectrum of all possible search
+queries or even search query
+configurations. You can always nest one
+more search query and make it more
+specific or rank it differently. I think
+it's infinitely flexible which is
+something that I think we will need with
+AI systems in the future. And it's not
+just going to be elastic search with
+this wonderful query system that needs
+this. We all will need this. the AI
+systems that will consume our products,
+they want that flexibility because they
+themselves don't really know what task
+they're going to be trying to
+accomplish. And at the same time, the
+flexibility that that would offer is
+also a massive security risk to the
+product, to our customers, to a whole
+business. Because when we allow a lot of
+flexibility to the systems that interact
+with us, then all of a sudden we have
+this transmission system that the border
+where our data ends and our system ends
+and where this consumption starts of
+this external agentic AI system. However
+intensely and however maliciously it may
+try to access our system and that's
+going to be a problem. Now we have to
+defend it our system at that point while
+still making most of our data available
+to everybody else who uses the system
+benevolently.
+It feels problematic in a way that we
+have these very established security
+systems for APIs and for browsers,
+right? Cookies in browsers, sessions in
+browsers and for APIs we have tokens, we
+have authentication systems like ooth,
+we have secrets and headers and things
+that reliably and secretly communicate
+between a server and a client. What can
+be done? We have encryption, all of this
+kind of stuff. And it's going to be
+problematic to do this with agentic
+systems. Right now, probably not. The
+systems try and if they fail, well,
+that's just what it is. But these agents
+will obviously need some kind of
+permission and authorization and
+authentication system too. That is still
+flexible. The authentication system is
+likely going to be similar to what we
+currently have. That won't change much.
+But in a world of flexible data use
+expectations, permission settings for
+using one certain data node or some kind
+of interactive system, that might not
+just be a binary choice anymore, not a
+yes, you can or no, you can't. We see
+this already in the web scraping world.
+Cloudfare did something must have been a
+month or two ago where they were trying
+to implement like a web payments API
+where certain AI scrapers like the open
+AIs and the anthropics of this world
+only get to access your CloudFare page
+if they pay like a micro amount per
+scrape. It becomes a not a yes or no
+which you can still say. You can say you
+can scrape everything or you can scrape
+nothing but you can also say well you
+can scrape some things depending on an
+action that you take. I think that's
+cool, but it's also adding a lot of
+complexity. And if we give access to a
+system, how do we reliable structure it
+so that these agentic systems that might
+get into novel situations work properly?
+It's not just about abusing the system.
+It's just about not using the system,
+right? Somebody might say to their
+agent, "Well, I'm booking an appointment
+here. I have time, but only for 1 hour
+on that day." And that depends. And if
+somebody else books something on my
+calendar the day before or the time slot
+before and if that is booked by this
+Friday then I'll be available for the
+next week. You know these are situations
+that happen in real life and people have
+very imprecise ways of determining their
+own availability. So for an agentic
+system compared to like an API that you
+would use that would have a very rigid
+very strict system of tell me exactly
+when you are available the agent might
+need some more flexibility or try to be
+more flexible with that. So how do we
+build system that allow for this kind of
+flexibility without causing errors all
+the time without causing maybe
+misbookings or over bookings or
+overloading our system completely
+irrelevant what we actually are building
+right because all of a sudden there
+might be a recursive loop in the agent
+because the agent itself can be faulty
+or it can just try different things
+really quickly just to check everything
+book something and then check again that
+it unbooks the thing because it doesn't
+fit anymore but now it fits again and
+then it books again that kind of stuff.
+situations like this, it's not just a
+rate limiting issue. That's not how we
+solve this. This is how we prevent
+abuse. This is an issue of protecting
+yourself against novel situations that
+your system and their system has not
+ever experienced because you haven't
+encoded it in the logic of the system
+because you don't know. You haven't
+encoded it in those expected situations
+that consumption patterns or consumers
+might run into because you can't expect
+it just yet. It's just one of those
+infinite possibilities of how your
+system could be used. And there are
+other many many other problems with
+this. If an LLM system has been trained
+on an old version of an interface, even
+if it's an API or a website or whatever
+the new thing is going to be, whether it
+be like UI, AI, AUI, like something like
+that, but if it's not instructed to
+fetch and work with the new version,
+some kind of updated version of the
+interface or its documentation, it's
+going to try and use the old one, and
+that might break things or it might
+require some kind of translation layer
+or routing system between versions, and
+that gets complex And I know these are
+not really novel problems. Like Stripe
+is the best example for having an API
+that has versions that go up and down
+and depending on what version a consumer
+uses, their requests get like rewritten
+to fit any version of the system.
+They've written about this on their
+engineering blog at length. Highly
+recommend it if you're into API stuff.
+It's really really interesting. But it
+has a different taste this time around
+with this infinite level of complexity.
+It's not just one access. It's not just
+a version that goes up in small
+increments over time and they have to
+kind of deal with this one linear thing
+goes in both directions. Maybe that
+makes it complicated, but AI agents that
+could do anything and everything with
+all kinds of data that all of a sudden
+is a 4D situation, not a 2D one. So, it
+has different connotations for me
+because we're now working with much less
+precise inputs that are not as typed and
+not as binary, not as right or wrong as
+they used to be. And the moment we
+interact with systems that supposedly
+draw discrete information from a
+non-discrete description or a
+nondiscrete system like a prompt, it's
+going to be an interesting challenge.
+Besides this human user and machine
+user, the APIcentric very welldefined
+information kind of exchange of
+consumers in our software, we might now
+have to deal with a consumer that is
+much faster and much more capable of
+experimenting with our system in a very
+short amount of time and therefore
+potentially overloading our systems or
+creating junk data on our services,
+misusing, misappropriating services
+faster than we ever have experienced
+before. Denial of service is a thing we
+know, but stupid denial of service
+because some agent is in a loop, it's
+not going to be fun, but it's going to
+be real. And this makes it very
+complicated to even communicate clearly
+what a software product can and cannot
+do because we'll effectively try to open
+as much surface as possible to these
+agentic tools because this going to be
+paying customers for us, right? We rely
+on them to appropriately use the
+platforms. And this is particularly
+complicated when we're used to either
+human speed or machine speed. When a
+human uses a product, and I think this
+is an important distinction to make, you
+have an understanding of how long they
+will wait, how long a click takes, how
+they look at a website, they scroll,
+they click on things, and something
+should be synchronous, right? Because it
+happens immediately. Other things can be
+asynchronous, they get a notification.
+What data do we need to present? data
+doesn't need to be there. The same goes
+for APIs where you have this clearly
+defined contract between service and
+consumer, a transactional exchange
+really, and you know that if you do this
+more than five times a minute, our rate
+limiting kicks in or if you try to get
+more than five items, they're going to
+be pageentated, right? You have these
+kind of contracts, these kind of
+expectations. And then all of a sudden,
+we have agentic users who act like a
+human in one way and act like a machine
+in others. A lot of the tools that we
+see out there have human in the loop
+features even where the execution of a
+workflow is paused until the human
+interacts with this thing like an
+approval, a verification system or just
+something where a human needs to do
+something. So now what even is a session
+here with these kind of consumers? Is a
+session a single request a connection?
+Is it a series of requests within a
+certain time frame? Or is it a certain
+order of requests that includes or maybe
+doesn't include this human in the loop?
+It becomes so hard to explain and
+communicate even the basic ideas of what
+we knew until now what a session is what
+a request is what a workflow is and to
+communicate exactly the borders of the
+service and the work within it when it's
+not even clear how much machine and how
+much human is in the consumer
+I know this might all sound a little bit
+solvable to be honest I think this is
+just about setting expectations and
+obviously we've had things like rate
+limits before we've had the concept of
+well- definfined inputs and outputs.
+Before we had patterns even like be
+precise in what you output and be
+flexible in what you allow into a
+system, right? All of this existed
+before. But particularly with the
+technology that is developing as crassly
+and as quickly as agentic consumer
+systems and the technology on top of
+which they sit LLMs, I don't really know
+anymore. It feels like we're looking at
+a world and industry reality where
+product consumption has become less
+expectable, less plannable, less
+reliable, and therefore also less easily
+scalable or maintainable or financable
+because we just don't know. And on top
+of this, AIcentric products are really
+prone to being disastrous when
+maliciously abused or even
+nonintentionally. If we open up our
+APIs, our systems to flexible systems
+and they overconume and that requires us
+to send API call after API call to a
+system that charges us for each of these
+calls like OpenAI, Anthropic, these
+platforms, right? But we want to be
+flexible and we want to allow Agentic
+Systems to do their work on us so people
+can pull the value of our product into
+their systems. Then all of a sudden we
+have to be able to incur a massive
+potential cost. And that cost may appear
+even though it wasn't intended to be
+produced or caused because the system
+just went haywire and was stuck in the
+loop. Was effectively launching this
+unintentional denial of service attack
+because its own internal parallelized
+architecture that didn't expect to
+connect to the same site 400 times per
+second on 20 different servers, right?
+That's just okay. Now I have to deal
+with this. There are so many interesting
+new problems that face us as we open up
+our applications to AI systems. So
+biggest learning for me over the last
+year was on the inside do rate limiting
+for anything that costs you money per
+request. Like for Potcan I offer some
+kind of AI features and I have a lot of
+AI stuff in the background. But if there
+is anything coming in from a user that
+might potentially abuse this, I have an
+internal rate limit that no matter how
+many users are using this technology,
+anything AI related, you know, like
+automatic alternatives, finding
+alternatives for certain keywords or I
+have an AI builder for alerts and an AI
+builder for lists. Like if those things
+are used too much couple times per
+minute, it already says, "Hey, try again
+later." I will have to shift that number
+up and down. But at least right now, I
+prevent spending hundreds of dollars a
+day on AI. This is something that I
+would build into any application where
+if the user clicks a button, AI is used
+because of this because we don't know
+who's consuming a product. And I think
+it's generally a good idea at this point
+to look into things like MCP into the
+model context protocol just because it's
+the first attempt at understanding how
+products and systems can be used by and
+through these large language models and
+the applications that are based on them.
+I personally have been attempting to
+experiment with that kind of stuff for
+Potscan too because I know that it's
+interesting for my customers to be able
+to use Podscan from inside their agentic
+loops and their conversational AIS. It
+hasn't really resulted in a public thing
+just yet, but I know that within a
+couple of years, we'll have systems like
+this built into not just every product,
+but every platform and every framework
+out there. I think it's unavoidable
+because it's required for these
+interfaces to eventually exist. And
+Laravel, the tool that I use, the
+framework programming language that I
+use is PHP and Laravel is the framework
+that sits on top of this. They have a
+lot of components in their system like
+web components. Obviously, the whole
+thing is a web framework and they have
+API components that allow for
+authentication. It's called Sanctum. All
+of this is internal plug-in stuff that
+allows these authentications and access
+ideas to work in a framework. And there
+will be something built into that
+framework quite soon I think probably
+because Laravel has been really
+intensifying their AI efforts both in
+how to build Laravel applications and
+also what Laravel internally can support
+in terms of AI tooling right like how
+they can call AI and how AI can be used
+and leveraged in building Laravel apps
+it's really cool I think it's called
+Laravel boost it might actually already
+be out I think it adds an MCP that your
+code editor can plug into and test and
+get good information on how to build
+laravel apps. It's really really
+interesting. There will soon be
+something there will be the third option
+here between regular web framework and
+like an API connector that will allow
+LLM's programmatic access to any
+application through this kind of
+normalized interface internally. And I
+think this is fascinating because we're
+part of a new movement here that has not
+existed for I don't know like 20 years.
+How new are APIs? Yeah. Who knows where
+we're going? We have to think about this
+as a consumer, as a qualified consumer
+of our applications and protect
+ourselves from the potential downsides
+of allowing these consumers, these
+machines to think and act like humans
+but still be machines. That that is just
+something we need to take into account
+when we build software. Now, we're
+entering uncharted territory. I guess we
+could call this. The age of AI consumers
+is upon us. And as founders and
+developers, we need to start thinking
+about how our products will serve not
+just people, not just traditional APIs,
+but these new hybrid entities that
+combine humanlike reasoning and human
+like process exploration with
+machine-like speed and scale. And these
+challenges are real security, cost
+management, just simply understanding
+what a session means anymore. But so are
+the opportunities here. Those who figure
+out how to build robust and flexible and
+secure interfaces for AI agents will be
+at I guess the forefront of the next
+wave of software innovation. It's going
+to be baked into frameworks. So I guess
+the people building the frameworks are
+there already and thinking about it. But
+you at this point should probably think
+about building this into your products
+if you want to be able to sustain that
+wave and be part of this new generation
+of software tools. I think it's time to
+start experimenting and learning. So
+check out MCP, check out whatever the
+newest AI developments in your
+programming languages are because this
+might actually be required reading in a
+couple years from now. Prepare for a
+world where biggest users might act like
+humans but not be human after all. Thank
+you so much for listening to the boots
+founder today. You'll find me on Twitter
+at akal r k ahl. If you want to know
+what everybody's saying about your brand
+on over 3.8 8 million podcasts. Well,
+potscan.fm tracks mentions with a very
+powerful API that is allowed to be
+consumed by LLMs as well that turns
+podcast conversations into actionable
+data. And if you're hunting for your
+next business idea, get them delivered
+fresh from the podcast world at
+ideas.podscan.fm,
+where AI extracts the best startup
+opportunities from hundreds of hours of
+expert conversations every day.
+[Music]

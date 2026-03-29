@@ -1,0 +1,51 @@
+{
+  "topic_id": 156962,
+  "title": "[HELP] How to Set Up a Cashier-Only User for POS in ERPNext?",
+  "slug": "help-how-to-set-up-a-cashier-only-user-for-pos-in-erpnext",
+  "category_id": 6,
+  "tags": [
+    "pos_point_of_sale"
+  ],
+  "created_at": "2025-11-18T05:23:41.325Z",
+  "last_posted_at": "2025-11-18T05:23:41.428Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/help-how-to-set-up-a-cashier-only-user-for-pos-in-erpnext/156962",
+  "views": 61,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 1,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Jordi7-7",
+  "posts": [
+    {
+      "id": 486738,
+      "username": "Jordi7-7",
+      "name": "Jordi7 7",
+      "created_at": "2025-11-18T05:23:41.428Z",
+      "cooked": "<p>Hi everyone,</p>\n<p>I’m trying to configure a user in ERPNext who should only have access to the Point of Sale (POS) — nothing else. The idea is that when this user logs in, they should be taken directly to the POS screen and only be able to create sales invoices, without access to other modules or settings.</p>\n<p>i have seen roles like sales user but it has a lot of permissions unnecessaries for a cashier</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/jordi7-7/{size}/92004_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 20,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

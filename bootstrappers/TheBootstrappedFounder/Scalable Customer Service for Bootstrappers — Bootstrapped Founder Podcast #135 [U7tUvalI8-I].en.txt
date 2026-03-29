@@ -1,0 +1,328 @@
+﻿Hello everyone.
+And welcome to the
+Bootstrapped Founder podcast.
+My name is Arvid Kahl  and every
+day I talk about bootstrapping,
+entrepreneurship and building in public.
+This episode is called Scalable
+Customer Service for Bootstrappers.
+When we sold FeedbackPanda back in 2019
+for a "life-changing" amount of money,
+we still ran it as a two person business.
+Although we had over 5,000 customers,
+at that point, which generated
+roughly $55,000 in monthly recurring
+revenue, we didn't need a dedicated
+customer support position in our
+education technology, SaaS business.
+We built a highly scalable process
+for handling customer service.
+And that is what I want
+to talk about today.
+I will share the process with you.
+Our customer service strategy
+was based on three pillars.
+The first one was offering useful
+self-service as much as possible.
+The second one was consolidating
+knowledge, as soon as it appears.
+And the third one was documenting
+everything to reduce manual
+repetition and mistakes.
+Let's dive into these three foundational
+choices and explore how they can
+be implemented in your business.
+First is useful self-service.
+If you are a solopreneur or if you have
+a really small team, you won't have time
+for chatting with your customers all day.
+There's operational work to be done and
+products need to be maintained and all
+kinds of tasks will occupy your time.
+But customers don't care.
+They need help the moment
+they run into trouble.
+Your best bet is to allow them to
+find all the support they need without
+needing to talk to you directly.
+At FeedbackPanda we recognized early
+on that our customer base ran into
+the same kinds of products, which is
+understandable, because they all used
+the same SaaS product in similar ways.
+And we were using Intercom at the time.
+That's a customer relationship
+management system that offers
+direct website based chat features,
+chat bubble, and a lot more.
+We quickly understood that our
+best bet there would be to curate
+a customer-facing knowledge base.
+And that's what we did from day one.
+A knowledge base is essentially
+a searchable digital
+manual for your product.
+At the very least it's that.
+If it's well integrated with your
+live chat tool, it can become a
+customer service automation engine
+and the engine of your dreams, really.
+Because if your customers have access
+to a knowledge base that shows them
+optimal solutions to common problems
+that they experience every day, you
+can expect people to check those out
+themselves before reaching out to you.
+People want to figure things out
+themselves, and they understand the whole
+teach a man to fish quote all too well,
+if they can get it right themselves,
+they won't need to reach out repeatedly.
+And they know it.
+So if you offer a well-maintained
+knowledge base that is easy to find
+and contains well-written articles,
+you will offload as significant
+amount of work back to the customer.
+And that's work that they would have
+to do by themselves anyway, because
+they need to fix their own problems.
+And a quick reminder here, common problems
+should be fixed in the product, not
+by a help desk article, but there are
+kinds of issues that exist somewhere
+between the existing workflows and your
+product, outside of your products, such
+as how to copy and paste data into your
+product, or filling out the details in the
+configuration page for an email server.
+All of those things can't be
+solved by a product, but they
+have to be guided through.
+So providing detailed guides that
+customers can quickly reference will
+do more for you than trying to force a
+technical solution onto your customers.
+At that point.
+Let's talk about the second pillar here.
+Knowledge consolidation.
+Because they are all connected.
+So you can probably
+tell, but it's important.
+During our first few months running
+this business, we noticed that some
+problems occurred more often than others.
+They were more common.
+And I can tell you: guiding
+your 15th customer through
+the same multi-step process by
+hand, that gets tedious quickly.
+After a few of those repeat
+responses, we implemented a simple
+but extremely effective process for
+our customer service interactions.
+Whenever a customer asked a novel
+question, one: we hadn't heard
+before, we'd follow these steps one,
+we would help them out immediately
+with their problem in a direct
+one-on-one life chat, personal help.
+Two: we would take internal
+screenshots of how we solved the
+problem just as we solved it.
+And if the process was too complex for
+screenshots, the person helping the
+customer would often create an internal
+screen recording for our own reference.
+And three: immediately after completing
+the customer service interaction,
+after we helped them, we would create
+a new knowledge base article that
+had a title with a word for word
+restatement of the customer question,
+the most common way that people
+ask, it would contain a step-by-step
+guide through the solution process,
+one paragraph or more per step.
+And it had multimedia components such
+as screenshots that we recreated and if
+needed, short loom based videos explaining
+key concepts right there on the page.
+And if the problem was time-sensitive,
+five, we would set up an autoresponder
+for phrases similar to the one
+that triggered the question we
+received, and Intercom provided that.
+It was really nice.
+This process is why we could
+handle customer support for more
+than 5,000 customers with just two
+co-founders and zero employees.
+Whenever a new problem occurred we
+would often have the help-desk article
+finished and deployed before the problem
+occurred for somebody else again.
+And when it did that customer would
+be automatically presented with a
+fully illustrated step-by-step guide
+for solving their exact problem.
+And it made our lives infinitely easier
+since the most commonly experienced
+problems also occurred most often.
+We got to them first.
+And with every new knowledge base article,
+we would just remove one major source
+of interruption from our busy days.
+And that leads us to number
+three documents, everything else.
+Of course, there were problems
+that were not that common, right?
+Issues like that appear randomly
+and are often so unique that a
+solution to them can be generalized.
+And these are usually softer, problems.
+People who misconfigured something outside
+of our product, like their computer or
+their browser installation or somebody
+had stolen somebody's credit card
+and that resulted in a strange
+error we'd never seen before.
+It's hard to generalize these things.
+And many of these problems were related
+to private information and manual
+internal steps that we would need
+to take like a data migration that
+needed to happen because a customer
+lost access to their Facebook account.
+These are real examples.
+We couldn't just create a customer
+facing article with the solution
+because we needed to implement it,
+but we still documented it internally.
+And in these cases, we made sure to
+write down what we did, why we did
+it and how we solved the problem,
+if possible, in a massive Google doc
+that we kept for just these purposes.
+And initially it was a free form
+approach and that was enough,
+but we quickly outgrew it.
+So instead we established standard
+operating procedures for each of
+these problems in a fresh Google
+doc, that was well structured.
+We had a template, an SOP
+template for every new issue that
+needed a manual intervention.
+Now, every business develops its own SOP
+eventually because the processes mirror
+the internal structure and needs of the
+individual business, but still, I will
+share ours because it's straightforward
+and should allow you to find a version
+that works for you quickly, and you could
+just adapt it to whatever needs you have.
+So let me share our standard
+operating procedure template,
+and it's very, very simple.
+It starts with a title.
+That's a catchy name that makes it easy
+to find in a pinch like "export all
+invoices"; very clear what that means.
+Then you state the problem like
+"customer needs, all invoices they
+ever settled sent to them via email."
+The solution is the next step: "customer
+receives an email with all the invoices
+attached as PDF files", and then you list
+the steps: you log into the back office.
+Number one, two, you select the customer
+by email, then three, you click "export
+data", whatever features you have, you
+click on invoices, "select all", send
+the customer an email double-check
+that the email address is correct.
+Then click "send" and then
+inform the customer in your chat
+that the email has been sent.
+And that will appear within 10 minutes.
+Step by step.
+And then you have notes and that's
+anything to my trip you up like
+"this email could go into spam, tell
+the customer, if the email isn't
+received, check their spam folder".
+You can add many, many things to a
+template like this, like an estimation for
+how long things might take, who to talk to
+for problems in your company, what logins
+passwords to use, but don't put them in
+there, just reference them where they
+are stored and many, many more things.
+What matters is that such SOPs
+make your responses much faster
+and more reliable, and they make
+your business much more sellable.
+The S in SOP should stand for sellable
+because building up an operations
+manual like this for your business is a
+robust signal for a potential acquirer
+that you have automated and documented
+your business to make it easier for
+them to bring in their own people.
+A well-documented business changes hands
+easier, and that will net you premium
+if you ever intend to sell your SaaS.
+And even if you don't: writing down
+your process while it's just you
+will make migrating the work to new
+hires, much easier in the future.
+When we sold FeedbackPanda, we
+transitioned our jobs to our
+replacements and our SOPs made
+this an almost hands-off process.
+We had documented everything, so there
+was no need to reach out to us for
+the person that was now doing the job.
+All they needed to do was
+to check our SOPs document.
+And if you ever want to hire your
+first customer service rep, they'll
+have everything they will ever
+need, and they can start adding new
+articles and SOPs on their very first
+day as well because the help desk
+documentation process itself is an SOP.
+And having this established
+at FeedbackPanda was bliss.
+We sold the business and transitioned
+over everything within a matter
+of days, that's the power of a
+well-maintained knowledge base, customer
+service automation and an operations
+manual full of well-structured SOPs.
+It's highly effective at running,
+optimizing, and ultimately
+handing over your business.
+So if you want to scale your customer
+service, start it with smart processes.
+And PS: Intercom is not the only business.
+There are alternatives out there.
+You can check out Crisp or HelpScout,
+just figure out which of these
+solutions work for your business,
+but they're all interesting.
+And that's it for today.
+Thank you so much for listening to
+the Bootstrapped Founder podcast.
+You can find me on Twitter at  @arvidkahl.
+You'll find my books Zero to Sold and
+The Embedded Entrepreneur and my Twitter
+course Find your Following there as well.
+If you want to support me and the
+Bootstrapped Founder podcast, please
+leave a rating and a review by going
+to ratethispodcast.com/founder.
+Thank you very much for listening
+and have a wonderful day.
+Bye bye!

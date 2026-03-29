@@ -1,0 +1,53 @@
+{
+  "topic_id": 155565,
+  "title": "Frappe V16 coming here is my opinion",
+  "slug": "frappe-v16-coming-here-is-my-opinion",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "customization",
+    "frappe"
+  ],
+  "created_at": "2025-10-15T15:31:30.959Z",
+  "last_posted_at": "2025-10-15T15:31:31.041Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/frappe-v16-coming-here-is-my-opinion/155565",
+  "views": 211,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "sharifka",
+  "posts": [
+    {
+      "id": 484074,
+      "username": "sharifka",
+      "name": "sharif",
+      "created_at": "2025-10-15T15:31:31.041Z",
+      "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/1/b/1baa034d8b4e79e7c5619b7bd6dc5a93fb9ce1c1.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/1baa034d8b4e79e7c5619b7bd6dc5a93fb9ce1c1\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/1/b/1baa034d8b4e79e7c5619b7bd6dc5a93fb9ce1c1_2_690x485.png\" alt=\"image\" data-base62-sha1=\"3WJ8QoZGbiCpkis9CjcAH0mFenv\" width=\"690\" height=\"485\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/1/b/1baa034d8b4e79e7c5619b7bd6dc5a93fb9ce1c1_2_690x485.png, https://discuss.frappe.io/uploads/default/original/3X/1/b/1baa034d8b4e79e7c5619b7bd6dc5a93fb9ce1c1.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/1/b/1baa034d8b4e79e7c5619b7bd6dc5a93fb9ce1c1.png 2x\" data-dominant-color=\"E5E2E4\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">709×499 84 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>i saw frappe v16 coming with nice user desk \" shortcut shell \" please can you make it role based can we able to assign user their custom shortuct with custom icon and label that can connect to doctype list view or report or page after they click the shortcut.</p>\n<p>after clicked the shortcut can we customize the side bar shortcuts to list shortcuts that based on role.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/sharifka/{size}/86449_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 62,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

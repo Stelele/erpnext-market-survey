@@ -1,0 +1,52 @@
+{
+  "topic_id": 161033,
+  "title": "Update after Submit",
+  "slug": "update-after-submit",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "custom-app"
+  ],
+  "created_at": "2026-02-23T11:21:28.998Z",
+  "last_posted_at": "2026-02-23T11:21:29.162Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/update-after-submit/161033",
+  "views": 29,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Abubakar_Falah",
+  "posts": [
+    {
+      "id": 494887,
+      "username": "Abubakar_Falah",
+      "name": "",
+      "created_at": "2026-02-23T11:21:29.162Z",
+      "cooked": "<p>From Stock Entry I’m fething a field value to Purchase Invoice ( Submitted ), Which is getting populated but I have to Manually update the Purchase Invoice after script runs. The stock_entry.py is a script in my Custom App.<br>\nI treid these funtions but none of them are working for me,</p>\n<p>pi_doc.save(ignore_permission=True),</p>\n<p>pi_doc.db_set({‘custom_expenses_new\\_’: new_expense_total,<br>\n‘custom_expense_detail’: new_detail_text<br>\n}),</p>\n<p>None of them are working which update function should I used.<br>\nThe Field are Allow on Submit.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/6/6/668e63af6f30439ae35a0b8b315ae98951fdfaf2.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/668e63af6f30439ae35a0b8b315ae98951fdfaf2\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/original/3X/6/6/668e63af6f30439ae35a0b8b315ae98951fdfaf2.png\" alt=\"image\" data-base62-sha1=\"eDfLJkY7EukSg7PDLQZuXEEncOu\" width=\"382\" height=\"100\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">382×100 2.8 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/7cd45c/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 20,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 3,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

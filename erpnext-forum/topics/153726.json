@@ -1,0 +1,53 @@
+{
+  "topic_id": 153726,
+  "title": "Error Facing while Creating Product Bundle",
+  "slug": "error-facing-while-creating-product-bundle",
+  "category_id": 9,
+  "tags": [
+    "erpnext",
+    "frappe",
+    "bug"
+  ],
+  "created_at": "2025-09-18T07:52:27.394Z",
+  "last_posted_at": "2025-09-18T07:52:27.502Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/error-facing-while-creating-product-bundle/153726",
+  "views": 28,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Kunal4",
+  "posts": [
+    {
+      "id": 481013,
+      "username": "Kunal4",
+      "name": "",
+      "created_at": "2025-09-18T07:52:27.502Z",
+      "cooked": "<p>When we are adding the product bundle parent item<br>\ni am getting the following error<br>\nwhy and how can we solve this error<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/8/5/8568ad7201215d00815362afd28e85644428dfc1.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/8568ad7201215d00815362afd28e85644428dfc1\" title=\"Screenshot 2025-09-18 130332\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/8/5/8568ad7201215d00815362afd28e85644428dfc1_2_690x388.png\" alt=\"Screenshot 2025-09-18 130332\" data-base62-sha1=\"j2bLZJmHKrKPyFLNAAoQ6IwCijf\" width=\"690\" height=\"388\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/8/5/8568ad7201215d00815362afd28e85644428dfc1_2_690x388.png, https://discuss.frappe.io/uploads/default/optimized/3X/8/5/8568ad7201215d00815362afd28e85644428dfc1_2_1035x582.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/8/5/8568ad7201215d00815362afd28e85644428dfc1_2_1380x776.png 2x\" data-dominant-color=\"232425\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot 2025-09-18 130332</span><span class=\"informations\">1920×1080 217 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/kunal4/{size}/90330_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 11,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

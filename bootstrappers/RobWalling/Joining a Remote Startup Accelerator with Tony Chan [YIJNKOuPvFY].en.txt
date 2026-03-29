@@ -1,0 +1,892 @@
+﻿Welcome to today's episode of MicroConf
+on Air. I'm your host, Rob Walling, and
+today we're talking about joining a
+startup accelerator. Every other
+Wednesday at 1 p.m. Eastern, 10 a.m.
+Pacific, we live stream for about 30
+minutes, and we cover topics related to
+building and growing ambitious SAS
+startups that bring us freedom and
+purpose and allow us to maintain healthy
+relationships.
+Welcome back and thanks for joining me.
+I'm really excited that we have micro
+comps coming up in just a few weeks.
+believe it's like less than a month
+until uh Microcom in Portland. Uh
+Portland, Oregon. So MicroM locals are
+going to be in Portland, Oregon, Boston,
+Massachusetts, and Austin, Texas. And
+then we have a micro Europe growth
+edition in Croatia uh in the first week
+of October. So it's middle and towards
+the end of September are three events
+and then um first week of October is
+growth. So, if you're interested in
+hanging out with a bunch of other
+ambitious, bootstrapped, and mostly
+bootstrapped SAS founders, head to
+microcump.com and look at the in-person
+events link there. And we still, I
+believe, have a few tickets left to all
+events, although there's a couple I
+think that are approaching being sold
+out. So, check that out. Today's topic,
+in lie of um or in honor of Tiny Seed's
+fourth batch of applications, this is
+our fall 2021 batch. Um, in honor of
+that, we are talking or I'm going to be
+chatting with Tony Chan, who is the
+co-founder of Cloud Forecast. You may
+have seen Tony on Microconf on Air, I
+don't know what, six, eight months ago.
+He was on Startups for the Rest of Us
+about a month or two ago talking about
+his experience co-founding Cloud
+Forecast. And today I'm having him back
+on because he and his co-founder are
+part are part of our spring 2021 batch.
+So, our our third batch and we're going
+to talk about joining a remote startup
+accelerator. his uh thought process
+around it, um any surprises he's
+encountered, benefits, uh drawbacks, you
+know, all the all the things that you
+would think of in terms of um kind of
+trying to weigh the pros and cons of
+applying and joining an accelerator. So
+Tony is the, as I said, CEO and
+co-founder of Cloud Forecast.
+Uh Cloud Forecast helps engineering
+teams monitor and eliminate wasted AWS
+costs, Amazon Web Service costs. cloud
+forecast.io.
+Tony was a former director of display
+and customer success at Perfect
+Audience. He was an early hire at
+Perfect Audience on the business side
+and he was part of the leadership team
+that grew the business to 8 figure ARR
+to an acquisition in 2014. Tony's
+interests include Chinese American
+history, cooking and eating. I like that
+one. Cooking and eating, not just
+cooking, volleyball, and all things
+Chicago. Go Socks. So, I'd encourage you
+to put any questions you have into the
+MicroConf on Air channel in Slack or in
+the uh what it's not the comments on
+YouTube, but there's a chat going on.
+So, um if you have any questions for
+Tony,
+uh ask them otherwise, I'm going to get
+started. Tony, welcome. Thanks for
+joining us.
+Uh
+oh, you're muted today, bro.
+Let me
+There you are.
+Better.
+Yep. Hey, sorry about that. Um, yeah,
+thanks for having me. I got my tiny seed
+swag on and I got my shirt on just for
+this live. So, I'm excited to chat with
+people and hopefully I can answer
+questions. Easy questions, though.
+Nothing hard.
+Awesome. Yeah. No, we're going to get
+into the hard ones. First, we'll lobby a
+couple softballs and then we'll dig in.
+Yeah. Repping Tiny Seed. So, that is one
+perk that you get for joining Tiny Seed
+is you get some swag. What swag did we
+send this time? Because I think we
+varied each batch.
+We got stickers. We got a hat, shirt.
+I'm I was talking to you about a hoodie
+afterwards where we can like hood each
+other uh during our our next meetup. Um
+we also get invited to chat. So yeah,
+there's a lot of great perks and a lot
+of great startups perks. So yeah, we get
+a lot of good stuff.
+There's more more swag to come too. I
+see. I love swag. As long as I can
+somehow justify it in some way, shape or
+form. Man, I love seeing our logo and
+you know tagline on
+on a printed thing. And the design is
+like so clean. You know, sometimes you
+get these startup shirts and they're
+just kind of like eh, right? Whereas
+these are very clean, something I would
+wear every day going out and such. So
+yeah, these are great great shirts.
+Very cool, sir. So talk to us. There's a
+bunch of folks in the audience who have
+either applied or are considering, you
+know, applying to uh to Tiny Seed. So
+talk to me behind talk to me about your
+thought process. You're in and Francois
+who's your co-founder. your thought
+process in applying to tiny seed not
+just once not just twice but three times
+it took
+you might do it a fourth time just for
+that
+that's what you had said yeah you're
+going to apply this bad can we get
+another round of funding but no but you
+I mean you guys not only did you apply
+but you were committed and I don't I'm
+not we haven't talked about this but I
+did you apply to any other accelerators
+three times or was tiny seed like
+I think the other one that we applied to
+multiple times was Y cominator and we
+did that twice we went through the
+interview process didn't get through
+after that but at Tiny Seed. We were
+very committed to that and it was just a
+good fit in terms of the vision and type
+of company we want to build which is a
+bootstrap startup. Um you know something
+that we can have a good balance uh in
+terms of our life and other interests we
+have but also being very ambitious of
+like our growth and where we want to be
+as a business. So it was mostly hey
+these people have a good vision of where
+they want their companies to be. it's
+aligned to where we want to be and also
+the companies that you all get to work
+with and advisers just and the mentors
+that you all have just seemed like a
+perfect fit for us. So that's why we're
+very committed to trying to get in
+whatever way possible even applying
+fourth, fifth, sixth time we would have
+kept trying on our side.
+We have a question from the chat. What
+other accelerator programs did you apply
+for? Obviously Y Combinator you
+mentioned.
+Yeah, I mean we've done the I think it
+used to be called earnest capital. I
+think it's called column fund now. you
+know, that was another one that we were
+looking into. Um, but I think we applied
+if I I we did launch or we applied for
+launch. We interviewed we actually
+turned out with Jason. We turned down
+we actually got in and we turned that
+down very early on because you know went
+back to uh the vision and what kind of
+company we wanted to build. uh we did I
+think we applied to over 10 different
+accelerators during the course of our
+lifetime before going to tiny seed and
+we got rejected by majority all of them.
+So yeah but you kept coming back. Well
+here's the important thing not only did
+you keep coming back and applying you
+kept making progress on your business.
+You know the thing that I say when I
+speak to I speak when I used to
+pre-COVID when I used to talk to groups
+around uh Minneapolis of aspiring
+entrepreneurs I would say like revenue
+is the best slide deck like MR like push
+your business forward and you don't need
+to tell a story if your MR tells your
+story for you and that's really what you
+and Francois had done is you kept
+showing up every day shipping and month
+over month quarter over quarter you grew
+it into a business that made a lot of
+sense for us to back, you know, and the
+very first time you applied it, you were
+just a little early for us. And then the
+next time it was like on the edge and
+the third time it was like, yeah, that
+you you made it a no-brainer, right?
+You've heard that, you know, be so good
+they can't uh they can't ignore you. I
+mean, that's essentially what you grew
+the business into.
+Yeah, we, you know, just overall we
+tried to be persistent as possible. not
+only growing the business um as well but
+also just following up with you all and
+getting advice and like hey what are the
+reasons why we didn't get in this time
+right and we tried to take those advice
+to heart even it might be heartbreaking
+or it might be hard to hear but there's
+value into it right and um and we just
+tried to be persistent as possible um
+across the board everything that we do
+uh whether it's talking to our customers
+um growing the business or even just
+getting to acceler accelerator. I think
+being persistent is very key, especially
+as a bootstrap startup.
+Yeah. And persistent in growing your
+business. I mean, you can certainly
+touch base with us and getting on my
+radar is not that hard. Send questions
+into startups for the rest of us. Pose
+questions in Microconf Connect, post
+questions in Microconf on Air. Um
+there's there's a lot of ways that I
+know folks or come to Micros, you know,
+I mean, there are a lot of ways I know
+folks who are just kind of out there
+doing their thing and and I recognize
+their name because we've, you know,
+we've gone through that. Um, I'm curious
+from your perspective with Tiny Seed,
+what were the one or two biggest
+benefits that you expected from Tiny
+Seed? You know, that you said this
+really is why we're applying like I
+think these one or two things is is
+going to drive it. And [snorts] I'm
+curious if that has held up or if your
+opinion has switched, you know, and
+there's some there's some sleeper thing
+that you didn't expect would be super
+valuable that has been valuable now that
+you're you're almost four months through
+the program now. Yeah, I would say the
+one expecting thing is the mentorship
+and advice that we've gotten in terms of
+uh building our startup. Um there were a
+few things that we went through even in
+the last three months whether it's was
+hiring and how to hire and being
+thoughtful about our hiring process of
+our first full-time engineer where we
+had a lot of questions about and
+primarily the subject was how do we be
+an inclusive startup and hire people
+that might be in a underserved
+background or uh they might be looked
+over. And that's a very very very
+specific question about hiring to ask.
+And we popped that into the tiny seed
+chat in Slack and Tracy was like,
+"Actually, I know someone who ran into
+the same exact problem and situation and
+she connected us with um a few folks
+that um where we just had a really good
+conversation about that subject, right?
+And I think the ability to just reach
+out to people who has gone through
+something similar and just be able to
+ask question and get good advice and
+sound advice of that same exact
+situation. It was expected but it was
+also very surprising too. I was like wow
+that is something very very specific and
+something that someone specifically has
+s I wouldn't say solved but have been
+through and gotten good advice on.
+So that was really really cool to see
+and kind of go through and be part of as
+well. Yeah, that's a that's a big one
+and I think is perhaps
+underrated maybe. I think people see the
+you know if you go to tinyc.com/people
+you can see our mentors and it it is
+like you know a a laundry list of
+worldclass SAS founders and subject
+matter experts. It's it's amazing. But
+beyond that, um, and and getting advice
+from them and hear, you know, getting
+them to look at your stuff and and
+giving feedback and stuff, there is that
+community inside TinyC just the
+day-to-day where like, hey, I need a
+response. I'm trying to figure out
+Stripe coupons or I I considering an app
+sumo deal. Would someone jump on a call
+with me or, you [clears throat] know,
+does anyone know anyone who's done XYZ?
+It's very very rare, if ever, that that
+that the answer is no, we don't know
+anyone. like it has to be a really
+specific thing because otherwise it's
+like yeah we know a lot of people either
+in the batch in the in the tiny seed
+um batches themselves right because
+we've funded 41 companies now I believe
+somewhere in that range
+yeah yeah yeah
+you know and and it's like the community
+I think is is a big thing
+yeah I I I would say that's I would say
+how friendly and great everyone is I
+mean it was expected but also unexpected
+how proactive people are with checking
+in with each other.
+Um, you know, within our batch, uh, Andy
+at Postaga, you I had a lot of good
+conversation with him in the beginning
+when we first got into Tiny Seed. And
+one of the first things he mentioned,
+he's like, "Hey, Tony, I'm I'm I
+wouldn't say he said, I was I'm worried
+about you. Not worried like in a bad way
+like um like I'm doing bad, but like I I
+just want to make sure you're in a good
+headsp space and that you are also
+mentally healthy as well." And you know,
+once every other week, he just sends me
+a DM like, "Hey, how are things going?
+You doing all right? What's going on?"
+And that was that's really cool, right?
+Like as you're doing this as a whether
+solo founder or two person founder, you
+can kind of get lonely, right? And it's
+always good to have people that you can
+just chat with um and just ask for
+advice or just just talk about nonsense
+as well.
+Yep. We have a couple good questions
+from the chat. Uh, Vikas asked, "What
+are the top three reasons for joining an
+accelerator program?" And I'd love to
+hear your opinion as a founder. I of
+course have my own opinions.
+Yeah, I think there was, you know, for
+us personally, um, the the money is nice
+like at at the time we applied, what we
+were making in profits was sustaining
+the business, right? But also, that's
+why they call an accelerator, right? to
+help accelerate and make bigger bets in
+different areas of your business where
+you might have good data points on. So
+for us specifically on the money side,
+right, like instead of just doing like a
+little test here and there on the
+marketing side, we can make bigger bets
+on where we feel that that is the source
+of growth and channel that we can put a
+lot of money into and test things out as
+well, right? So accelerate in that way.
+also accelerate in headcount. Like we
+were able like we probably if we didn't
+take funding we pro we were probably
+about maybe six or nine months out from
+hiring our first full-time engineer,
+right? Because we were very cash
+conscious and like okay this is how we
+need to spend our money. Uh we got to
+make sure we're still cash positive and
+like we still have the lights turned on.
+Whereas um having that money gives us a
+chance to uh plan for things in the
+future like okay this is how our growth
+trajectory is. we can make that bet now
+and then as we grow you know everything
+will kind of cover itself and kind of
+pay for it. So we were able to hire our
+first full-time engineer. Um another
+part as mentioned the mentorship advice
+is great as well. I think that's really
+important and just having access to um
+people like Rob the mentors in Tracy and
+just community is also really important
+too. Um I think also there's a level of
+confidence that you get as well like hey
+you made it to accelerator right you are
+a legit business uh you can kind of move
+forward to kind of uh posting that on
+any social media channel there's a lot
+of social proof like hey we are here to
+stay and we're here to grow and here to
+be ambitious. So I would say those are
+the three main benefits that we received
+so far as um as a tiny seed company.
+Very good. Yeah. And what we find is
+that the moment we list our companies uh
+on our homepage, we they tend to start
+getting inbound interest from potential
+acquirers, potential more funding, you
+know, things just start to to come about
+from that. The three things from my
+perspective, I'll run through them
+quickly. Um that I think I've seen as a
+generality across, you know, not in your
+individual case, but as a generality. Uh
+the number one is is the advice and the
+mentorship and the network. And it's um
+like you said, it's it's having someone
+who's been there before give you very
+specific advice when they really have
+their head around your business. Um and
+the network part of that is even if I
+don't know the answer, I know someone
+who does, right? Very very likely. So
+that that part to be able to just use
+that extended network is big. The second
+thing is the community is being in the
+Slack with you know it's all of most of
+our LPs are in there and they're often
+accomplished founders themselves. So
+they weigh in um the other folks in the
+batches themselves and even
+you [snorts] know there we have multiple
+companies now since we've been going for
+two and a half three years multiple
+companies doing seven figure ARR they're
+just a little bit ahead of you just far
+enough that they still remember what it
+was like to be in your shoes you know so
+they weigh in I weigh in it's great
+multiple perspectives and then the the
+third thing and I kind of rank this
+third for most companies is the funding
+the capital is is great but I think that
+it is the it is an overrated part of uh
+accelerators Unless you're really early
+now, you know, you fund someone who's
+doing 2K MR, 5K MR, okay, the money
+really does make a difference. By the
+time you hit 15, 20, 30K MR, which you
+know, many of the companies we funded
+are in that range.
+It it just is less um impactful on the
+business, I would say. And and the
+advice, mentorship, network, and
+community are so much more. They the
+funding is a one-time injection, and
+that other stuff,
+you know, it lasts the whole year in
+essence. So,
+yeah, absolutely. Like, we were
+definitely not motivated by the funding.
+I would say the other two were probably
+the most important to us. It was more
+like a nice to have to kind of like
+cool, we can hire someone that can help
+us move on the product a little bit
+faster.
+Yep. All right. Well, we have another we
+have a question from Spencer. Thanks. In
+Microsoft Connect, and I we kind of
+already answered it, but he said, you
+know, did you do did you apply primarily
+for the mentorship, the funding, or
+something else entirely? Feel like we uh
+just covered that. YT or YouTube
+question says, "Does your company need
+to be earning um x amount of MR to apply
+for tiny seed?" You know, yes, if you
+have zero, if you're pre-revenue, I
+would encourage you to not to to not
+apply. We are now having applications
+every six months, get to revenue, $500 a
+month, $1,000 a month. I mean, that's
+kind of the bottom end range of of
+companies we're funding these days. Um,
+Aryan asks, "Could you specify some
+metrics like MR error that helped you
+qualify for tiny seed?" I Well, I don't
+know that you would particularly know
+that. Uh, you know, you know, Tony,
+where you know, how you were growing at
+the time, but um I think that it has
+depended on the batch and it depends on
+how many applicants we get and how far
+along they are. And that's where I
+having a hard and fast rule is tough for
+me. I would hate to say well we'll never
+fund someone below a thousand or 2,000
+because you know we have but as a rule
+of thumb MR is one of many many metrics
+right that we look at to figure out are
+these founders going to ship how big is
+the space what's how much product market
+fit do they have um what's their MR like
+it's it's a big equation uh mental
+equation I think so I don't think
+there's a hard and fast uh number I
+would assign to
+it and if and if you don't qualify in
+terms of based on kind of what you said
+I think it's important to maybe just
+throw application in a word document and
+go through that exercise yourself on
+your startup because I feel like the Y
+cominator application and the tiny CI
+application has a lot of really good
+questions to kind of poke into what
+you're trying to build and ask the
+questions needed to see um it's just a
+good exercise for yourself to say okay
+how big is the market what's the problem
+you're trying to solve and all that kind
+of stuff like it's it's really important
+to know how to talk about your company
+um and I think it's a good baseline even
+if you're not going to apply this round
+yeah I agree and as as I that every 6
+months now. So it's frequent enough that
+you can get a bit of traction and and
+circle back with us. Vikas asked, "Do we
+have to have a US registered business
+for this program or does it matter?" So
+this fund for for the current batch is
+uh the Americas. So it's North America,
+South America. So we funded a company in
+Latin America. If you were had a
+Canadian entity, I believe someone has a
+US Virgin Islands company that we're
+going to be f they're kind of coming in
+mid- batch. But so for this one, that's
+what you would need to have. You do not
+need to be located in the United States.
+We have many founders who live outside
+the US and outside the Americas.
+Frankly, we have founders in Australia,
+in Western Europe. Um,
+and how's that usually set up, Rob? Are
+they set up like as a Delaware CC Corp
+as on their side or LLC?
+Either one they can choose. Um folks you
+if they don't have an entity they
+usually you know we have free Stripe
+Atlas so they just could do that uh that
+normally cost 500 bucks but they're able
+to do it through Tiny Seed
+and um they choose LLC or CC Corp. you
+know, if they think they want to run it
+and pull profits off, it's going to be
+an LLC. If you think you may want to
+exit, um it makes more sense to have a
+CC court because you can get there's
+QSBS qualified small business stock
+where you can sell it and pay no federal
+um income tax or I'm sorry, c no federal
+capital gains assuming you qual you know
+there there are some asterisks there so
+do more research. But folks who think
+they want to Yeah. Anyway, so they get
+to choose. Uh we can't we aren't legally
+allowed to fund S corps. Uh they're rare
+anyways. But yeah, LLC's and CC Corps
+and we will fund in all 50 states.
+Although we have definitely found that
+just Delawarees are easier. If you go
+through Stripe Atlas, we know the
+paperwork now and the due diligence is
+super simple.
+Yep. Completely agree. And I think most
+attorneys and lawyers that will help you
+through the due diligence process and
+such would prefer that as well. It just
+makes it a lot easier.
+Right. And we are now we're just in the
+early days of raising a European fund
+where we want to expand and be able to
+support um entities in I believe we'll
+probably pick one entity, one
+jurisdiction, one entity uh and so folks
+can can potentially still
+any any countries in particular that
+looks interesting like based on the
+batch that you've seen uh with kind of
+the entities or jurisdictions that
+you're seeing in Europe. in Europe.
+Yeah, I mean we see a lot of startups um
+coming like bootstrap startups coming
+out of the UK,
+uh Germany and let me think I think
+those would be the probably the top two
+by a mile. And frankly, it's interesting
+because that's also the attendees of
+MicroC Europe tend to be the most come
+from UK, second from Germany, third from
+US. So it like it it lines up. And then
+but then on the in the AP pack side
+because longer term, right, we're going
+to raise a Asia-Pacific fund and back
+companies in
+in the Asia Pacific. Um that's New
+Zealand, Australia, and then we see some
+folks uh in well, you know, in in the in
+Asian countries um also doing that, but
+that's a little further down the line.
+Uh, okay. Spencer asked Tony has has
+being in tiny seed improved your
+company's credibility when selling to
+larger customers.
+I think our what we do in our space is
+has not um we we sell to engineers and
+we sell to people who are very
+technical. Um, so what's more important
+in terms of the selling process is our
+technical knowledge and knowhow and just
+having a product that works and brings
+them value and solve the problem. That's
+more important to engineers than the
+credentials for the most part. Um so
+that's been however from talking to
+other people in our batch that has
+become important especially if their
+product is selling into founders or
+bootstrap startups or within that space
+I think that's been helpful like savvy
+cow I think that was really helpful for
+them right just be a tiny seed company
+even though he he he has the audience
+from his podcast and such but there are
+other companies that I know that has
+helped with just having that tiny seed
+batch in terms of selling into
+enterprise or even smaller customers is
+having that social proof on their side.
+Yep. Yeah, that has happened. And then
+there are a few well there are several
+companies where it being part of tiny
+seed in particular may not have made a
+difference but the fact that they can
+say look we are a funded company now you
+know even it it gives some even though
+you know they're selling to construction
+firms or you know or security firms or
+whatever and they haven't heard of tiny
+seed maybe but they but the fact that
+they are funded we have money in the
+bank we're you know that that lends a
+little more
+right that question does come well it
+has come up right but at that time we
+weren't entire seed. But like once
+again, it goes back to our audience.
+They they they actually like that we're
+we're well now mostly bootstrapped.
+They're like, "Wow, good for you." You
+know, that's really cool to see, right?
+So,
+y it's every little bit helps,
+especially when those questions come up
+during the enterprise um sales process.
+Yep.
+Here's here's a question and I'm going
+to throw it out to you first and then
+I'll answer with the you know the answer
+that that uh I do. So, someone's asking
+about evaluating startups for the
+accelerator. before a startup is
+accepted into the program, what are the
+various traits you look at uh look at in
+the business or the founder. So my
+question for you is Tony if you were you
+know interviewing folks for an
+accelerator like because we've actually
+talked about having tiny seed alum
+because so Y cominator alum will will
+come in and interview folks and I think
+longer term that's going to be a thing
+because Tracy Anar and I can only you
+know handle so many people. Um, so if
+you were to start interviewing in six
+months or a year or whatever, what would
+be, you know, a few traits that you
+would look about that you would look at
+whether around the founder or the or the
+company itself?
+I like for me personally, I've always
+felt
+the founder in itself is very important,
+right? Their experience,
+um, their domain expertise and just
+being a good person as well is really
+important. um and just uh seeing a sense
+of perseverance and persistence as well
+is really important. So I would ask
+questions around that and kind of try to
+poke a little bit more and learn about
+like okay what's your background your
+experience you know what what have you
+done what's your domain experience in
+that um because for me if the founder is
+consistent shows up every day as you
+mentioned and is very persistent and um
+just works very hard you know they
+they'll figure it out right it might be
+not the first idea and might fail but
+like they'll figure it out so for me I'm
+I'm very founder focused in terms of uh
+the traits uh because that at the end of
+the day that's the person that's going
+to be uh growing the business, running
+the business, and figuring things out
+and showing up every day. So I that's
+for me number one part.
+I like it. And for us, I've mentioned
+this before, but we have a a doc that I
+just pulled up. Let's see, it's about
+three pages. It's about it's somewhere
+30 bullets. And we this is the tiny seed
+uh you know evaluation criteria and
+there are traits and then there's
+progress. And to your point we have
+founder traits which as you said is like
+ambition, hustle, are they laid-back,
+intelligent, you know, bullshitter or
+non-bullshitter or coachable? Are they
+connected in a network? Do they have
+technical chops, marketing chops, SAS
+chops? So there's like founder traits.
+Then there's market traits like what is
+the market like? Are they serving B TOC,
+B to B2 aspirational, B2B? How much
+competition is there? How is the market
+willing to pay? And then we have
+progress and that's broken down into
+three things like how much progress do
+they have in terms of traction which is
+like MR
+people engaging with the product how
+many pre- purchases they have product
+progress like does it delight? Is NPS
+score high? What percentage user
+activated? And then there's marketing
+progress. So there's a bunch of things
+on here that don't you know fit in a
+bite-sized bullet uh or or kind of a
+bite-sized answer. But I will say that
+I've boiled it down mentally into three
+things and it's people, pricing, and
+product market fit. That's it. And the
+people are is exactly what you covered
+already. It's the founders that
+[clears throat] are involved and
+evaluating them on a bunch of different
+different things based on successful
+founders that that we know. And then the
+pricing is around price sensitivity. And
+if you're selling a $9 a month product
+and you can't raise that price because
+you're selling to consumers, it's
+probably not a fit for us. We are B2B
+SAS focused. And the question I do ask
+some folks who have an average revenue
+per user of of $15 a month because there
+were some folks actually we funded
+someone in first batch who who had a
+really low arpoo and the question wasn't
+it wasn't a dismissal but it was like
+okay so your average revenue per user at
+this point like you're going to plateau
+you're never going to make it to seven
+or eight figures. So how are you
+thinking about raising that? And his
+answer was critical right because he had
+already he's like here's what we're
+going to do. We're raising prices here.
+We're adding features. We're going to
+feature ggate. Then we're going to this.
+Then we have this other ad. and it's
+like, oh, you have a path here to make
+an 8 figureure business even though
+right now you're are but if the founder
+says oh I don't know is that a problem
+then it's like okay there's some
+education that we need to have here you
+know and maybe you're not ready for this
+batch but maybe we can help educate you
+for a future
+yeah and that's pretty consistent with
+our experience because like for us I you
+know Franco and I were very confident in
+terms of our uh founder experience and
+just our you know just us as like what
+we've done before and our domain
+expertise however we haven't hit two and
+three at pricing and product market fit,
+right? But number one kind of helped
+anchor us to figure out two and three.
+So that's pretty consistent with our
+experience of what we, you know, applied
+to tiny seed three times. So I
+completely agree with your consistency
+in evaluating founders in those traits.
+And I would say that you've hit it's not
+that you have pricing nailed. It's that
+is their price how sensitive is the
+market, you know, and is your do we
+think that your pricing is good or that
+it can be raised? we can fix. Raising
+prices is something you know we talk a
+lot about in the first month and a lot
+of founders do that. So it's not to say
+your pricing has to be dialed in but is
+is your market able to you know to have
+a B2B type pricing structure and then
+product market fit really is just
+shorthand for have you built something
+people want or willing to pay for it you
+know and you don't need to already have
+a bunch of marketing channels but you
+have to have some proof that like people
+are willing to pay for this product you
+know.
+Exactly.
+So that's it. Those are our three. Uh
+let me check for any other questions
+because I believe we are at time. No,
+looks like that's it for today. Sir,
+thanks so much for joining me. Again,
+for folks listening to the audio, your
+Twitter handle is to123
+and it's the body parts to o e k ne.
+It's a it's a good handle except for
+when I have to say it out loud.
+Yeah.
+I I made this in college so I never
+really updated it but it stuck with me.
+I just keep it as is. Yep. So
+cloudforcast.io
+if folks are using AWS and they're
+surprised by their monthly invoices. I
+gotta be honest, I really wish you
+existed back when we were doing Drip
+because I was surprised all the time.
+And I made I left a server on and lost
+like $1,700
+one month, which was, you know, we were
+doing like 15 grand a month at the time.
+And that was like that was a lot. You
+know, that was what I I paid our support
+person in a month and I pissed away over
+a weekend with an accident.
+It hurts. It hurts when you see the
+invoice. You're like, "Oh." Oh,
+especially if it's like a extra large
+instance. Oh my gosh. Like that is the
+worst. We've seen that happen uh with
+some of our users where they launched
+the extra large instance, totally forgot
+about it, but we were able to catch
+that. So
+awesome. Thanks again for joining me,
+man. We'll see you next time.
+Have a good one. Thank you. Bye.
+And thank you for joining me for Micro
+Comp on Air. Thanks to producer Xander
+for producing the show today. I'd like
+to give a shout [music] out and thanks
+to Hey and Stripe. They are headline
+partners for the year. [music] Head to
+microcom uh youtube.com/microconf.
+Smash that like and subscribe button.
+That's where this happens. And [music]
+tickets are on sale for Microcom Locals
+and Microcom Europe. It's great to see
+you. See you next time.

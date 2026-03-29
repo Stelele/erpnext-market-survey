@@ -1,0 +1,1843 @@
+﻿[Music]
+talk for the next about 40 minutes I
+think about the state of bootstrapping
+in 2019. This is something I I did at
+our Europe conference about six months
+ago. I did a 2018 one and you know when
+I come to Microsoft and speak I tend to
+look back at what I've thought about
+what I've experienced and what I've been
+building over the past 12 months and
+this is a lot of that. It's been kind of
+cool to have been able to step back from
+Drip almost a year ago. It was in April
+last year and to have a lot more time
+much like you know something Mike didn't
+mention is um there was a time in in the
+late before 2010 where I was building a
+lot and then there was an 18month period
+where we launched our online community
+micreneur academy I wrote start small
+stay small my first book we launched
+micro comp and we started the podcast
+within 18 months and then there was this
+that took us into like 2011 and then
+there was this next eight years of app
+app hit tail drip all the things and
+during those times the talks just come
+naturally right out of what I'm doing
+this kind of talk comes out of having
+six months of sitting and watching the
+bootstrap uh uh scene and watching the
+startups and you know continuing to be a
+part of it obviously through tiny seed
+and what I'm doing now but almost having
+the headsp space to really look at it at
+a higher level and um yeah it's it's
+been fun so I enjoy these kinds of
+things so uh most my talks I break them
+up into three parts There's a couple
+intermissions between uh the parts. So,
+the first thing we're talking about is
+five things that I've seen hold true
+over the past 14 years. Uh 14 trends
+from the past 14 years. 14 things that
+have changed. That's how I think about
+it. 14 things that have either come in
+and faded or come in and stuck around.
+There are certainly more than five and
+more than 14 that have done these
+things, but in the interest of time,
+these are kind of the ones that I I feel
+like are most relevant, most important.
+And then that's going to lead us into
+into the third part, which is something
+I've been thinking a lot about. You
+know, we're at the as as you heard um
+Jason Freed talk about this morning.
+We're at this interesting period in in
+our history of these self-funded
+bootstrap startups where it's not this
+binary state anymore. It used to be
+venture funding and bootstrapping. And
+now we're and and now we're starting to
+see even more shades of gray in there.
+and I why I think that's a positive
+thing and why I think that's a positive
+thing for for everyone in this room. So,
+one of my favorite traditions um at
+MicroCom is that a lot of um uh uh the
+speakers over the years include a
+picture and it's a picture of of our
+families because this is our why, you
+know, this is why we're here doing this.
+I think that's where we perhaps diverge
+and micro always has been that way is we
+diverge from a lot of typical startup
+conferences and that the end is not the
+money, the end is not the success. Those
+things can lead us to then have more
+freedom to spend time with these folks
+or to have uh the ability to build
+stronger relationships with these folks
+and the folks around us. And while we do
+hold, you know, success and and profit
+and these are very important things,
+this is the end for me. And I think it's
+the end, I would hope, for most of the
+folks in this room because that's what
+Micro has always been about. So why do
+we do this? Um, I've talked about this
+in the past in some of my talks where I
+have these three kind of north stars
+that I've always looked at. And when I
+have all three of these at any given
+time, I find myself being happy and
+fulfilled. And when I lose any one of
+them, I find myself wandering seeking
+for it. And so, um, I think over over
+the years I used to say, "This is me and
+maybe it's not you." I actually am
+starting to just the more conversations
+I have, the more I realize if you're
+kind of in the bootstrapper ethos, I
+think this is why you're doing it. The
+first is freedom. We do it to to be free
+from working on crap in crap jobs and
+working on [&nbsp;__&nbsp;] projects that we don't
+enjoy for people who we don't enjoy
+working with. But the freedom to work on
+super interesting things or maybe to
+work less for a period of time is is
+something a lot of us seek. Purpose.
+purpose is working on something that's
+fascinating and that that drives you
+forward and that you know allows you to
+to um I don't know feel proud about what
+you're building and relationships and
+relationships we've already covered this
+it's been a theme but the relationships
+between folks here the relationship
+between me and my family me and my
+co-workers me and my colleagues um I
+think is super meaningful so um if you
+haven't given thought to this yourself
+about h you know are you seeking freedom
+are you seeking purpose and are you
+seeking relationships in your everyday
+life I I think you might get to a point
+where you have the arrival fallacy and
+you'll say, "Hey, if my SAS app only did
+20 grand a month, 50 grand a month, 100
+grand a month. That's not going to make
+you happy. I've been to all those places
+and that alone is not it. And when I did
+that and sacrificed my relationships or
+I did that and I I I sacrificed my
+freedom, I was unhappy. And I think
+there's a good chance you might be as
+well. So, let's dive in. Um, as I said,
+it's going to be a threeact play, so to
+speak. Part one is five things that have
+held true over the past 14 years. Um, as
+of five days ago, this was 10 things,
+but I had to cut some of them. And as I
+said, these are what I think are the
+most important. You might be wondering
+why 14 years. Um, because that's when I
+started talking about bootstrapping. So,
+I started bootstrapping in 99 when it
+just I was it was yeah, there was
+nothing out there. It was very hard to
+do and I made a bunch of mistakes. And
+in 2005, I knew just enough that I could
+at least start writing blog posts about
+it. when I go back and read them,
+they're terrible. Don't read them. They
+don't make any sense. But um as it got
+on 2007208, it was like ah I learned a
+few things and I can actually offer some
+value. So in that 14 years, I've written
+2.1 books. So my wife wrote the other
+0.9 of the entrepreneurs guide to
+keeping your [&nbsp;__&nbsp;] together. So I've
+written two books and then and then
+worked with her on one. I had over 400
+blog posts, 638 podcast episodes between
+startups to the rest of us and
+Zenfounder. And that doesn't count
+interviews I've done. And then we've
+done 16 and a half micro comps as 35
+minutes from now it will be 16 and a
+half and then 17 tomorrow. And then more
+recently the cool part is that was
+always the fun stuff. Um you know
+running the businesses starting the
+companies I you know I've made 50 times
+if I were to guess I I should do the
+math stuff. I made 25 times 50 times
+more money from actually building
+software companies than I have from all
+the stuff I just talked about because
+the podcast loses money. conference
+makes a little bit of money, but I do it
+because it's it's super fun and because
+of that purpose and the relationships
+part. But more recently, now that I've
+had kind of more time um after I left
+Drip, uh over the past year, I looked
+and Mike and I have answered 127 email
+or voicemail questions on the podcast.
+And in the past 45 days alone, I've done
+71 phone calls with founders as we're
+doing tiny seed and we have the
+enrollment going and I have more than 90
+email threads of like indepth I have
+like 400 email threads, but about 90 of
+them where it's like we're going back
+and forth with questions and what's your
+MR and let's talk about this and that.
+So I'm saying these things because
+that's the context I'm coming from. I
+I'm exposed. I've always tried to not be
+the guy who has one business and then
+I'm going to come and do a talk and say
+everyone should do it that way because
+I've done one company. But I've been
+doing it a while. I've had multiple and
+I have a lot of exposure to the stuff.
+So, um, channeling that. I'm going to
+start on the first of my five that
+haven't changed that I believe haven't
+changed. So, the first is tactics have a
+halflife. And that doesn't mean we
+shouldn't use tactics because tactics
+are amazing. But back in 2005 to 2010
+when I was first learning all these
+things and I'm like, dude, keyword
+stuffing it works great. You know, just
+building links through link directories,
+it works great. It did work great until
+it didn't. And what I've seen with
+marketing tactics tactics and such is
+about 18 to 24 months it works about
+half as well. Another 18 to 24 months
+half as well. And you know that's the
+idea behind a halfife right is if you
+have something radioactive it's less
+radioactive every billion years or so.
+Um so keep that in mind as you're
+learning things that
+our our um our industry and our space
+changes so quickly that what you're
+doing today will work for a while. But
+be prepared to kind of leaprog that with
+the next thing. And if you stop learning
+in what we're doing, you are going to
+get overtaken. I've had businesses where
+I kind of put them on autopilot in the
+background. They eventually get trucked.
+They eventually lose their their organic
+SEO and they plummet. They an API gets
+cut off and they they get destroyed.
+There's real risk long term with, you
+know, our kinds of businesses,
+unfortunately. um you know there are dry
+cleaners and and um you know car washes
+and such and they start and there's a
+bunch of risk but man you can see a car
+wash just kind of be there for 30 years
+it gets a clientele and it's great there
+are no SAS apps that are 30 years old I
+mean we could probably name three that
+are 15 years old you know there very
+very few because stuff changes so
+quickly so anyways tactics have a
+halfife a couple examples of that
+keyword stuffing of course this used to
+actually work you could just do that and
+they would find you it was super
+Um, this one might be too small, but
+this is uh Facebook ads circa 2011 and
+it's the um uh the cost per click. And
+again, I'm not saying Facebook ads don't
+work today, but I'm saying they were way
+easier. Like a schlub like me could make
+these work in 2011. And I did. I bought
+HitTail and that was a big, you know, I
+10xed it in 15 months. I've done a talk
+on that. And a big reason is because
+freaking e-commerce clicks are 31 cents
+here and and uh startup clicks are are
+50 cents. I mean, it was a different
+time. Um, and that's just with fa
+Facebook ads. And if you, you know, you
+ask Moza Mars, who's, um, or Moza Jove,
+who's in the audience, um, you know, she
+can make this stuff work, but just a
+kind of person off the street doing it
+these days, I think, has a lot a lot
+more trouble. Article directories. I'm
+sure many of you mentioned these. These
+were tactics that work really well until
+they didn't. And, uh, even this is one
+that's it's cold email. And cold email
+still works, especially in certain
+niches, but in other niches, it's it's
+been burned out. Like I I get I don't
+know Mike and I get five or 10 cold
+emails a week of people wanting to come
+on the podcast and I get the link, you
+know, link to us emails about the blog
+five or 10 times a week. And those those
+don't necessarily work with us. But I
+was talking to a founder the other day
+um who is in a like a tight vertical.
+It's some like construction, you know,
+vertical of construction. And he's like,
+"Dude, cold email, it's the thing. Like
+I'm getting 10% response rates and blah
+blah blah." So um but what I was telling
+him was 18 months, 24 months is not
+going to work. Like just keep that in
+mind. So we're always evolving, right?
+So what this means overall is that, you
+know, this is base camp in in 2005. And
+I really appreciated what Jason Freed
+said this morning of like, you know, we
+we got a little lucky. We had some
+timing and and they did some things
+right as well. And so we can't just go
+back and copy what they did, right? And
+we we can emulate it. We can look at the
+high level decisions they made. Build a
+great product, build a community, build
+an audience, be ethical, you know,
+whatever whatever you want to take away
+from them. But take away the high level
+things from them. If you go back five,
+six, seven, eight years and look at the
+success of a SAS app, trying to
+replicate that today is probably is
+probably not going to work straight
+across. All right, so that's number one.
+Number two, you're probably still not
+charging enough. It was true in 2005.
+Um, and I think it's true in 2019. I'm
+going to say nothing more about that
+except if you have questions about what
+this slide means, talk to Patrick
+McKenzie, please. Number was like four
+minutes that I was able to edit out by
+pointing you to Patrick McKenzie. All
+right, number three is um SAS takes too
+long to reach escape velocity even with
+the Cinderella stories. By escape
+velocity, well actually I guess I have a
+slide with it. Um escape velocity I just
+mean it's just past product market fit
+where you kind of things start to get a
+little a little easier. And there's a
+great talk of course Gail Goodman long
+slow ramp of death uh boss a couple
+years ago classic. I think I just
+unlocked an achievement with that by
+mentioning this talk. every startup talk
+about SAS should should have this
+because she just talks about how
+Constant Contact charged 30 bucks a
+month or uh 30 or 40 bucks a month and
+they had to raise millions of dollars in
+2000 or 99 to just get this business up
+and it took years and years and years
+and years to do it and it's true and
+it's a little better today. Today it's
+easier to start than ever before. It's
+not necessarily easier to get to the
+place we want to be to escape velocity,
+which maybe 10, 20, 30k for you, but
+it's the point where you know you've
+built something people want and you're
+really starting to to get that traction.
+This is my escape velocity slide if you
+don't know what that means. It's trying
+to escape the thing. So, um, I actually
+talked to I had no idea that that Ally
+was going to use Cart Cart Hook as an
+example, but um, I'm I'm an angel
+investor in Cart Hook and I asked Jordan
+for his revenue graph since 2015 when
+they started. Um, I took off the numbers
+uh uh per his request, but you'll notice
+there's just this moment that's escape
+velocity. That's where you hit it. It's
+where it's going and then suddenly [&nbsp;__&nbsp;]
+just takes off and it starts getting
+easier. And now it's always going to be
+a cluster, right? But there's a point
+where you have enough revenue that it
+being a cluster is kind of worth it,
+right? When you're it's four when it's
+four grand a month and you're working 16
+hours a day or maybe only work eight
+hours a day, but it's a pain in the ass.
+But when it's doing 50 grand or 100
+grand a month, it's like I can I can
+kind of justify, you know, doing this.
+What's interesting is if you know
+Jordan, he's he's smart, he's talented.
+Um, and he he really went all in on
+this. And it took him just based on this
+graph about 27 months to get to what I
+would consider escape velocity. And
+that's a long time. That's a very, very
+painful long time. Um, this is a slide
+from a talk I did a couple years ago
+about drip. Uh, so it's public. This is
+revenue from tw that's from the very
+start. So the very very little um the
+tiny little thing on the on the left is
+June of 2013 and we started building in
+December of 2012 and then it's revenue
+through sometime in 2015 I believe and
+for us it was about 13 months and this
+was you know I was coming at this as
+like my third or 10th startup depending
+on how you count and I was pulling
+revenue off of of HitTale. I mean, I
+dumped between 150 and 200 grand of my
+own money into this. Like, we had money,
+we had resources, we had a talented
+developer, Derek Rhyr, if you know him.
+Um, and it still took us 13 months. And
+this was from when we started charging.
+There was another seven months before
+this where we were just building and not
+charging anything. So, it took us
+between 13 and and 20 months. And I
+thought I knew what I was doing at this
+point. It turns out I did, but the whole
+time I was like, how are we not getting
+this faster? This is terrible. And then,
+uh, I just took another one. I won't
+belabor the point, but hub hub staff, if
+you know them, they're doing half a
+million a month now. So, six million a
+year and I pulled it off of the open
+bare metrics open stuff and it took them
+12 months and I believe oh yeah, this
+doesn't include building time. I have no
+idea how how long I should have uh
+emailed the founders and asked them, but
+you got to figure six to 12 months just
+to get to this point, right? So,
+somewhere between 18 and 24. Again, for
+guys who pretty quickly got to half a
+million in a couple, you know, a few
+years after this, it takes a long time
+even for the Cinderella stories. I've
+just shown you three apps that, you
+know, are are multi multi-million dollar
+apps. And even for those people with
+resources, it was painful even for the
+Cer Cinderella stories. And the the
+fourth point is that there are no
+Cinderella stories. Um,
+all those apps you've seen or, you know,
+any other SAS app you've heard that is
+just growing like crazy and we all are
+envious of that growth. The growth, the
+growth is cool and it feels great, but
+under the covers, it's always a [&nbsp;__&nbsp;]
+show. Like, if you can actually get the
+founder to honestly talk about what's
+going on. Everything's always breaking.
+You always have spammers doing XYZ to
+your thing. You're getting on email
+blacklist. Someone's going to shut down
+an API, an employee just quit. It's just
+always like that. And it's been that way
+for 14 years. And I remember at a
+certain point thinking if I could just
+have an app that was doing 50 grand, 100
+grand, whatever a month, it would be
+easier. And it gets I don't think it
+gets easier. The problems just get
+different. They become different. And
+the fifth and final thing that I've
+really started to see is that every year
+SAS gets more competitive. And I think
+this is pretty much across the board.
+There used to be verticals you could
+build an app and you were the only one.
+There are a lot fewer of those these
+days. Uh chief martekch.com
+puts out his marketing technology
+landscape. He calls it the martekch
+5000. Uh this was from April of 2018.
+There are actually 6800
+companies on this list in marketing
+technology. And so it's email marketing
+and it's conversion rate, you know,
+optimization, split testing. It's just
+everything you can imagine. Interesting.
+That's a lot of companies. We could say,
+"All right, that's cool." The the crazy
+part, look at this. In 2011, there were
+150 that he could find. In 2012, there
+were 350. So, what about is it about two
+and a halfish in 2014? So, that's two
+years later, tripled. 2015, doubled.
+2016, almost doubled. And then another
+two years, and it doubled again. So, I
+don't know where this is going to keep
+going, but it's a thing. And there's a
+reason why Jason Frerieded said this
+morning, it's harder to start today than
+it used to be. There's a reason I
+started saying this probably four or
+five years ago, talking about
+stairstepping and all these approaches
+to get around this. In 2008 or 2009, it
+was still hard to do, but it was that
+sweet spot of we don't need to rack our
+own servers anymore and we have Ruby on
+Rails or or a good, you know, Python
+Django, but we weren't at the point yet
+where all the VC money had had
+discovered that it was there and there
+was a sweet spot where you could could
+in it gets harder. So, it's not to say
+we shouldn't do it, but I think a lot of
+us feel this in the room and don't know
+why why is this harder than it used to
+be. Well, there's just more competition.
+There's more people doing it. And now I
+just have a couple slides of of VC
+money. This is early stage VC deals. So,
+not the ABCD. It's more like the seed VC
+deals. Um, and you'll see it goes from
+to to first half of 2018. This is from
+TechCrunch. And in the in the first
+half, I'm sorry, in the in 2018,
+uh, the first half it did almost
+trying to read it here. Oh, almost two
+billion in the first half. And in all of
+2010, there was less than half a
+billion. So it's it's pretty stark
+contrast. All of 2010, half a billion.
+And in 2018, let's assume it was three
+or four billion. So it's it's quite a
+it's a big number. Pretty soon you start
+talking about real numbers when you
+throw a billion here and a billion
+there. And then SAS uh seed through
+seriesD investments from 2008 to 2017.
+It's a similar graph. It's five, six,
+seven, you know, whatever the number is.
+It's just absurd um to see a graph like
+that and to then realize, oh, that's why
+when I try to build an ESP today, it is
+so hard because there's just a lot of
+money coming into it, you know, and and
+as as a bootstrapper working nights and
+weekends, it can be hard to do that. All
+right, so that's part one. And I always
+have intermissions, brief humorous
+intermissions in my talk, so you can
+catch your breath and I can too. So this
+is from uh courtesy of vuza.com.
+if you haven't checked them out. They're
+kind of a parody site of uh of startups
+and I find some of their stuff pretty
+funny.
+All right, coders. Uh you guys are doing
+a great job, but I am going to have to
+ask you to stay and work the entire
+weekend.
+Do we get overtime for that?
+Not exactly. No.
+Well, uh the thing is the uh Ren fair is
+this week.
+No, you've worked us 80 hours this week,
+Matt. I we I physically I can't do
+anymore. Okay. Uh, did I say we were
+working this weekend? Because that is
+not what I meant. Uh, we are not
+working. We're having a hackathon.
+Hackathon.
+Hackathon. Oh, yeah.
+You say hackathon.
+Not working. It's going to be a
+hackathon. Yeah. It's a It's going to be
+a venue for self-expression, you know,
+and creativity, you know, via
+technology. A lot of passion and
+caffeine and free labor. It'll be great,
+guys.
+Free labor.
+Free cupcakes. Free cupcakes.
+Wait, are we gonna work on the app that
+locates your headphones?
+Oh, yeah. Those
+We may get to that. We may get to that.
+We will probably start somewhere else,
+though.
+Okay.
+All right. Well, as long as it's a
+hackathon, I'm there.
+Hackathon. I'm there.
+It's a It's a hackathon.
+All right.
+That's right. Hack those germs, fellas.
+Remember, we're going for minimum viable
+cleanliness, okay? You know, I I don't
+think this hackathon is really pushing
+the limits of technology.
+Good point. Here, try this.
+Hey, I'm having a uh paint my apartment
+hackathon next weekend.
+Did you say hackathon?
+Say hackathon.
+Yeah.
+All right.
+All right. We got another one.
+We got it.
+Okay. So, let's uh let's dive into part
+two. 14 trends from the past 14 years.
+As I said, some of these are trends that
+I I feel like are still around and
+others kind of came and went. There are
+certainly more. What's funny is I put
+the chart together and I was running
+through it today and I was like, I
+missed I miss content marketing. That's
+kind of a big deal. And, you know,
+there's some other stuff. So, it's
+certainly not complete, but I do like
+the the thought experiment of doing
+this. And the idea here is let's look at
+the past so that we can figure out kind
+of where, you know, where the puck is
+going like the old Wayne Gretzky quote.
+But there are some opportunities that I
+missed now that I look back at this
+chart and remember this stuff coming in.
+I wished I had built a specific app on a
+specific year and it would have been
+really cool in hindsight and I was there
+and I remember thinking this is this new
+thing and I didn't take advantage of it.
+So um I think on in most of these
+there's opportunities both for people to
+implement these you know there's going
+to be like split testing right that's
+the first one because we didn't used to
+do that in the startup space didn't
+exist I know it's hard to think imagine
+that um but there's opportunities for
+you as founders to utilize some of the
+newer ones but also I think there's
+opportunities to build tools and
+actually start a startup within it which
+is something that I I should have done
+earlier so it's a cluji little timeline
+but um the earliest I can remember of of
+so when I started bootstrapping 2005. I
+I had this little software product
+called .NET Invoice and the only thing I
+knew the only hammer I had was was SEO
+and so I'd bang everything. All right,
+SEO I guess and then I bought another
+product like an ebook and SEO SEO was
+all that stuff and then um I learned
+Adwords. So then I came back and I'm
+like all right invoice with Adwords but
+there was no one in the startup world
+like if you went to read startup
+literature it was like techrunch and it
+was like all right here's how you build
+a software product or build a you know
+income stream and or grow a a profitable
+company. um it is to you know have a big
+launch party. First you raise the
+funding and then you have the big launch
+party and then you go on Techrunch and
+then you go viral and I mean that was
+literally like the playbooks and I was
+like how the hell I mean I have a
+product that sells for 300 bucks that
+like actual real people use to build
+stuff with how do I actually market
+this? So I went into the kind of the
+internet marketing space because they
+were all talking about let's have sales
+letters and split tests and um uh
+analytics and conversion rate
+optimization. I know it's hard to
+believe like we know that today. No one
+no one in the startup space was talking
+about that. The only people I could find
+talking about it were frankly
+questionable some a lot of questionably
+ethical you know internet marketers but
+I took that stuff and pulled it in.
+Patrick McKenzie was another one because
+you and I were doing this at the same
+time where we're like good idea shitty
+implementation or sketchy. How can I
+make my bingo card creator or my net
+invoice or my apprentice lineman jobs
+these are all I owned a beach towel
+website for crying out loud. Um but how
+can I raise that up? And so um split
+testing in 2008 was not it just wasn't
+done or it wasn't talked about. It
+wasn't taught in startups and I did a
+short little talk at a business of
+software about it. It was a 7minute
+pachka talk and people came up to me
+afterwards and they're like where did
+you hear about this split testing? What
+where did you learn that? And I was like
+um kind of embarrassed to say but do you
+know who Frank Kern is? You know that
+kind of stuff. Um and uh uh email
+marketing was the next one. A bunch of
+these I'm going to say and you're not
+going to believe me, but again 2009 I I
+think it was 2009 might have been 10,
+but I did a talk at BOS about email
+marketing and I was like look we're not
+doing enough email marketing in the
+startup space. We think it's not cool
+but uh it's working for these guys. You
+do a capture and then you nurture and
+then you it's fundamental basic stuff we
+know today. And I got multiple comments
+like so are you kind of a spammer then?
+And I was like no like just you know
+send stuff people that they really want.
+And then like you know the next year
+like Groupon blows up and AppSumo blows
+up and I remember thinking damn it why
+didn't I you know do something with
+email marketing. This was we saw
+Mailchimp rise during this time right
+2007 they stopped consulting 2008 they
+were doing well and they figured out
+fremium they're the only one in 2009 to
+then on there you know whatever hundred
+millions and millions of dollars they
+rode that wave and that's when I
+remember it starting that's my
+perception.
+um customer development 2010 first time
+I heard about that where it's like no
+you should talk to your customers before
+building stuff because we didn't do that
+before then and you made a lot of uh
+products and a lot of mistakes virtual
+assistants was something came over from
+the Tim Ferrris club and I talked a lot
+about it and some people did it and then
+that one kind of died down which is
+which is fine uh micro started in 2011
+the kind of this this community we've
+talked about um uh what is that oh
+retreats founder retreats that was
+something some people uh in here do as
+well as masterminds. That was around the
+the 2012 time frame. Um, cold email. I
+remember getting my first cold email
+ever that wasn't spam that was actually
+targeted to me and it was when I I owned
+Hitale and Perfect Audience. Anybody use
+Perfect Audience for retargeting? They
+cold emailed me. And I was like, that is
+amazing. And I signed up and I spent
+like tens of thousands of dollars with
+them. And now, you know, I get 30 cold
+emails a week and I don't respond to any
+of them. But it was this fascinating
+thing cuz there was a halfife, right?
+There's a halfife in these spaces. Um,
+and uh, webinars. The first time I I
+heard someone webinars were big in info
+marketing. The first time I saw someone
+in a startup do it was Klay Collins with
+Lead Pages, and that was his playbook to
+grow it. Um, that one still works as as
+we're seeing. Marketing automation.
+First time I heard that term was 2013.
+Derek and I jumped on that that with
+Drip. And um, bootstrapper exits in
+2014. The first time I heard of
+bootstrappers selling a company. Again,
+hard to believe you used to you could
+build a SAS app to 20 30 grand and then
+you just had to run it for the rest of
+your life or sell it on Flippa for 18
+times net monthly net profit 1.5 years
+that those were the multiples you got.
+It's insane. I think that that FE and
+and you know Shswift and Empire Flippers
+and Quiet like I think they've actually
+done
+a good service to this community that
+there are these smaller exits that
+people can use to parlay up Bootstrapper
+exits. Let's see the SEO blood bath was
+in 2013 2014 um bootstrappers raising
+money. This was the first time I'd ever
+this was uh when I heard of customer.io
+IO raising money, but they did it in
+2011 2012. But this is when kind of Cart
+Hook and Leadfuse and and and Churn
+Buster and stuff started talking about
+it. It's like wait, you're a B
+bootstrapper, but you're going to raise
+few hundred grand? What are you are you
+venture like I am a rigor? Like I was so
+confused and it eventually occurred to
+me that there's it's not binary, right?
+And that's something we're going to talk
+about later, but that's when I first
+started realizing it was in in 2015. And
+then um where are we without? Oh, flat
+design. Yeah, that became a thing.
+Windows 10, indie.vc launched, I believe
+it was uh 2016. SAS debt financing like
+we talked about earlier with the lighter
+capitals and the and the big foots and
+um chat bots, that's David Canel
+started, you know, doing that. LinkedIn
+outreach there. And then of course we
+have tiny seed 2018 and and kind of this
+whole alternative funding uh stuff
+that's that's coming out. There's
+there's other players moving into it.
+Um, the interesting thing is when I look
+at this curve and I think, boy, I
+remember email marketing kind of not
+being a thing and that it was like a a
+hammer or it was a great tool that other
+people weren't using. Why didn't I build
+an ESP at that point, right? I could
+have taken advantage of that. I could
+have ridden the wave. Um, I thought the
+same thing about split testing. Patrick
+Mackenzie and I had a conversation one
+time where we were like
+both like we should have built visual
+website optimizer like three years
+before they did you know and it's not
+enough to have an idea not implement but
+I I think we could have implemented but
+it was very obvious that split testing
+was a thing and people should do it and
+it was super powerful and so when I look
+at trends like this and when you look at
+trends like this the purpose is not to
+be nostalgic and say look at what's
+happened over the past 10 years or
+whatever but it's to say what are the
+trends that are coming in you know uh
+the chat bots the LinkedIn outreach
+whatever SAS debt and and alternative
+funing
+you know, is there a way to take
+advantage of that wave because it won't
+it'll either go away eventually or it
+just won't be new anymore. Like email
+marketing hasn't gone away. It's just
+not new, right? So, it's hard to like
+compete in that. It's hard to launch a
+new app into it. Um, but you know, the
+reason that of course I'm doing Tiny
+Seed, which is a, you know, an
+accelerator designed for bootstrappers,
+is because I've I see this wave coming
+and I and I think that there's a way to
+help more of us like, you know, the
+rising tide to raise all the boats. Um,
+this became kind of obvious as I started
+mentioning this idea of bootstrappers
+raising small rounds and I would mention
+it in a talk. I'd mention it on a
+podcast and people would email or they'd
+come up to me and say, "I heard you
+invested in in Cart Hook." Yeah, I'm
+just a little angel investor um and and
+I wrote a check. Well, who you know, is
+there anybody else doing this? Yeah,
+there's a few people. Will you invest in
+me? It's like I'm kind of out of money
+for that stuff. Like I'm overweight
+startups at this point. And several
+times I heard this, well, someone should
+really start a fund to do that because
+it makes a lot of sense. And I was like,
+yeah, someone should. Then I walk away.
+And it didn't occur to me for quite some
+time until uh uh Anar Volat, my
+co-founder, said after my talk last year
+at the blackjack table, he says, "Hey,
+you should start a fund for that." And I
+was like, "Yeah, I know. I don't want to
+deal with the headache of of, you know,
+there's a lot that comes with that." And
+he was like, "Well, we should talk
+then." And that's, you know, that was a
+year ago. So that's where we are now um
+for Startup Accelerator and we're
+evaluating our first batch at this
+point.
+That's my 14. They were all on that one
+slide and now we intermission. So this
+is Eddieard who is a comedian and he has
+a cool bit about Star Wars and someone
+put um digital animation over it. So
+you'll hear like crowd laughing because
+it's a dude doing a live show and you
+can actually just Google the live show
+but there's a kind of goofy animation
+over it and this is one of my favorite
+cake or death is probably my favorite of
+his but this might be my second
+favorite.
+So uh yeah but the death star one thing
+about the death star is there was no
+food. No one had food at all. enough
+talking about something I've been
+thinking a lot about and it's this this
+topic of bootstrappers and funding and
+uh I have a lot of kind of of of
+thoughts and and opinions that have
+formed over the past five years as I
+said four or five years as it's happened
+and I'm hoping that I can not only help
+you understand it but here's what's
+interesting I'm not going to tell anyone
+or convince anyone that you should raise
+funding just like I wouldn't have told
+you in 2009 you should go start an ESP
+because I think email is going to be a
+thing or that you should start a
+LinkedIn outreach SAS because you know
+people started doing it last year. I'm
+kind of calling it out so that we can
+all understand this and have like a
+shared understanding and to realize
+that,
+you know, that that I think there
+that it's not helpful to have a binary
+view of things like this. And I think
+there are more people that can be helped
+by at least considering the option of
+doing something like this. um raising a
+little bit of money, it could make a lot
+of our lives easier. So, uh
+bootstrappers and funding. So, I think
+we hopefully I've I've um kind of
+instilled it like it's more it's more
+competitive today with the the SAS uh
+funding coming into the SAS space and
+just that there are a lot more out
+there. There's a lot more competition
+like the chief martekch and that
+reaching escape velocity 27 months, 20
+months, whatever. It just takes too
+long. And frankly, this is the most
+dangerous part of of starting a startup,
+starting a SAS. The reason it's tough is
+because uh there's a lot of reasons, but
+one is you really haven't created any
+value until you're past that escape
+velocity because once you get to 20, 30,
+40k, whatever, and up, you can at least
+get some money out of that. You can at
+least sell it if worst came to worst.
+And it was like, I just can't do this
+anymore. I mean, the multiples are
+really quite good. Um, and if you get
+over a million, you can look at private
+equity, get multiple on revenue. There's
+all kinds of good stuff. But in these
+early days when you're pre 510, you
+know, 20k, whatever, pre- escape
+velocity, you you can spend 2 years and
+literally walk away with nothing like
+nothing of value.
+And this is like the the trough of
+sorrow. I think Paul Graham kind of kind
+of targeted it. It's this trough where
+like you just you can't get out of it.
+You can't reach escape velocity. And
+this is when we see people giving up
+because it takes two years. This is when
+you can run out of cash. This is when
+you lose that motivation. You get way
+stressed out. This is when you live in
+the uncertainty for this long. And the
+hardest part of for me of any startup
+I've ever done has been this part.
+It's different challenges later, but we
+forget until you start over again how
+hard this part actually is. And our
+options for getting through it have been
+traditionally kind of limited. If you're
+bootstrapper, you can do nights and
+weekends. Of course, I I did it for a
+lot of time. I'm assuming most of you in
+here have done it or may still be doing
+it. And this is tough, right? If we go
+back to freedom, purpose, and
+relationships, um, nights and weekends,
+you tend to work a day job and then you
+work another four or five hours at
+night. It's not a ton of freedom. When
+your friends are going out, when your
+kids are going to a play, when you know,
+going to see a movie, you can't do it.
+And frankly, when I was doing nights and
+weekends, I I how do I say this? My
+relationships were not as healthy as I
+would have liked. Um, so this is
+something we sometimes have to do. Um,
+but I think if we're trying to keep that
+balance, it's definitely something that
+that can be a challenge. you can go to
+your savings, something some folks do. I
+was never able to save 50 grand or 100
+grand in order to take, you know, a year
+off. Um, I also would have been super
+like I'm conservative in terms of that.
+Kind of risk averse a little bit. And
+then if I ever saved up a 100 grand, I
+wouldn't have wanted to bet it that I
+could get to product market fit and get
+to escape velocity because it always
+takes longer than you think. So, there's
+a drawback there. Again, not that you
+shouldn't do it, but there are
+drawbacks. Debt, I've seen people go
+into credit card debt for it. Um, not a
+fan. Um, seed funding has been a thing,
+but it's come with a lot of caveats.
+You're going to go raise VC funding. Uh,
+you know, we take a board seat, whatever
+it is. And seed funding can make a lot
+of that easier, but we are
+bootstrappers, right? And we're
+traditionally, you know, folks uh uh in
+our circles, some have been really
+anti-funding. Um, it was interesting to
+hear Jason Freed this morning talk
+about, you know, because he's come out
+and he's really anti-VC, but he's not
+anti-funding. You notice a difference?
+And that's where I've that's where I've
+come to over the past four or five
+years. Um, and in fact, I wrote a book
+called Start Small, Stay Small and
+published it in 2010. And in the intro
+to that, so this is nine years ago in
+writing, we have proof that I said I am
+not anti- venture capital, but I'm anti-
+everyone thinking venture capital is the
+only way to start a tech company.
+Because with venture capital, you're
+forced to go after much larger markets.
+And a market that 10 times the size is
+100 times harder to get right. There's
+more competition, more complexity,
+higher ad rates. Interesting thing about
+that whole assumption is in 2010 I
+thought you could bootstrap or go VC
+raise venture funding. And that may have
+that may have been the case. I honestly
+don't know. I can't go back nine years.
+But my supposition is those are the only
+two choices. But there is an option in
+here that doesn't make you go after a
+market that's 10 times the size and it's
+these small kind of seed rounds that
+I've been talking about. These used to
+call them fund strapping but it's you
+know it's raising around and uh seeing
+where you get and trying to get to
+profitability. So, I had this
+interesting interaction with the founder
+of a startup that was taking off like
+crazy and he was in the Bay Area, a
+company called Datanize. Has anyone ever
+heard of or used Data Knives? Yeah. If
+you've done sales prospecting, you can
+basically plug in a competitor's URL or
+competitor's name and it'll um give you
+a list of websites that that that
+competitor's JavaScript snippet is
+installed on or or that can be detected.
+you know that if you could put in
+WordPress and it'll try show you this
+huge list of WordPress sites. They crawl
+like 20 million sites or 30 million or
+whatever. And this one dude wrote all
+the code to crawl it and he had like 50
+crawling things crawling uh uh servers
+and he was growing like 10k a month in
+like five months he was doing 50k MR. It
+was like the most amazing thing I've
+ever seen. and he read my book in 2010
+and in like 20 I can't remember the year
+2014ish let's say he he emailed me and
+he said his name is Ilia Semenmon he's
+the founder he said I've always wanted
+to stay bootstrapped and grow as much as
+possibly organically possible
+organically but a lot of people right
+now are telling me that it would be
+unwise not to take the money the money
+is he was getting multiple offers from
+venture capitalists because people
+stumbled on it realized it was a great
+sales tool and then when they asked him
+I was growing. He's like, "Yeah, here's
+my financials." And everyone's like, "Oh
+my god." And so they were throwing
+the amount, but it was like seven
+figures at like a 10 million, you know,
+like a huge valuation somewhere in that.
+And
+he was like, "I'm going to drive down to
+Fresno and I want you to talk me out of
+this. I want you to tell me why I
+shouldn't take this money." And this is
+venture money, right? Which is it comes
+with even more um not strings attached,
+but more there's more uh uh there's
+governance and there's board meetings
+and stuff. this isn't just a hey here's
+a $200,000 seed round from some angels
+that are gonna be kind of not up in your
+grill about stuff. And so I'm like all
+right no problem dog I can totally do
+this. So we like and a I was like could
+you could just call me and he's like
+nope 7-hour round trip. He did he did a
+seven-hour round trip to Fresno and back
+bought me a few beers too. Got me going
+and I said all right so are they they're
+going to give you this money the strings
+attached. Are there board seats? And
+he's like, "No, they're only going to be
+a board observer and I'm going to be the
+only one on the board." Or something
+like that. I don't remember what the
+deal was, but he was like, "Nope, that's
+not a not a deal." And I said, "Okay,
+are they going to have like control of
+the company? Like, will they own more of
+it than you?" And he's like, "No,
+they're buying like a super minority
+percentage." And I was like, "Okay, do
+they have liquidity preference where
+where it sells and they get the thing?"
+He's like, "No, they're not doing that
+because they're this kind of that and
+you know, blah blah blah." Like he
+talked it through. Okay. I said, "Are
+they going to is there big pressure to
+like hire to grow faster? like are they
+going after the unicorn thing because
+you're a bootstrapper like aren't you
+happy with let's say tens of millions in
+AR which I think you can get to at this
+rate are they cool with that and he said
+I communicated that openly and they said
+that's okay and I said wow I never heard
+of this I thought that venture was like
+this big dragon that came out of that
+you know I didn't actually think that
+but I I thought that it was a lot more
+complicated than that and last thing I
+asked was like can they block a sale
+because that's often the thing you hear
+is founder start something takes VC gets
+an offer for 10 million that's
+lifechanging for them and the VC is like
+nope not lifechanging for us keep going
+and and it and it happens it's a real
+thing there are terms like that and so
+anyways his terms I couldn't talk him
+out of it and I we kept going I won't go
+through all the the agonizing uh you
+know three hours and three beers uh per
+hour that we did but uh I don't even
+drink beer but um and then he told me so
+I emailed him about this uh seven months
+ago when I was first kind of reodling on
+this and I was I know you took the
+money. I was actually an angelist
+syndicate. You know, I put in like
+$10,000 or something. Um, and he said,
+"Yeah, and let me tell you, I did take
+the money and I'm happy I did. And
+here's why I did it." Um, one, the terms
+were just they were like too good to
+pass up, right? I struggled to talk
+myself out of it. No one else could
+either. He said the credibility it lent
+me was big that they were selling sixf
+figure multi-year contracts and being
+bootstrapped hurt them because the
+people were saying, "How do we know
+you're going to be around? How do we
+know you're not going to go out of
+business? And when he raised this money,
+gave credibility, not only the amount,
+but then he could say, you know, who I
+don't remember who the fund was, but
+these guys believe in us and so you
+should too. Hiring became easier because
+he had budget to pay market rates. He
+was in the Silicon Valley and or he's in
+San Francisco maybe. Hiring became
+easier because of that and because he
+again could say, well, we raised around
+so at least we'll be around for a few
+years and their stock options and stuff,
+right? And the extra capital gave him
+breathing room to do some marketing
+stuff that uh he wouldn't have had if he
+was bootstrapping. So that was his
+trade-off. Um they actually got acquired
+in September of last year and uh you
+know doesn't always happen that way but
+um you know he worked hard for three
+four years and it worked out well. Now
+with all that said he had a great deal.
+He was growing very quickly. There can
+still be terms that that don't work out.
+You know your mileage may vary and
+venture capital is certainly the whole
+different ballgame than anything I'm
+talking about with with Angel and Seed
+and even Tiny Seed and and Indie. BC and
+such. Um,
+with venture, some objections I think
+still ring true. I think a lot of of of
+venture, if you took it, you know,
+there's still board seats in board
+meetings. There's often a triple twice,
+double three times growth at all costs
+unicorn stuff. Headcount as a success
+metric, you know, discourages capital
+efficiency and is really is that still
+fun? But I do think that it's changed
+and that's something um I've realized
+over last several years and I think it's
+something that that is a is pretty
+incredible to think about if we tried to
+raise money. Anyone in this room tried
+to raise money 15 20 years ago it was
+very very much stacked against us. They
+could ask for whatever they wanted and
+there was information asymmetry out the
+wazoo and you just didn't know what good
+and bad terms were. And then a few
+people came along and started changing
+that. Um, you know, Bradfeld started
+blogging about it, about what terms
+should look like and fair terms. He
+wrote several books about it. Um, uh,
+av.com,
+Fred Wilson, Fred Wilson was another guy
+who just started, I remember reading his
+stuff. I didn't even care about venture
+capital. I wasn't going to raise it, but
+or wasn't going to raise it, but I would
+read it and be like, "Wow, I didn't know
+that's super cool for me to know." And
+then frankly Paul Graham starting Y
+Cominator was an absolute uh uh meteoric
+shift in in founder rights because he
+started it with his he started the first
+cohort with eight eight people. Reddit
+was in that first one 2005 I believe
+gave them each $18,000 or six grand per
+founder 18,000 bucks for 7% of their
+company. And he then as he built that up
+into something, he was able to start
+getting terms, you know, some some
+investors would actually say terms that
+are now investor unfriendly and way too
+tilted to the founder. But I think that
+all of this has been amazing. Like that
+the whole point of this talk is that
+this is only good news for all of us
+because this rising tide like it it
+raises all the boats and the ability to
+raise funding at terms that are more
+friendly to us. You know if there's 250
+people 270 people in this room maybe
+five of us five of you should consider
+venture funding at some point. I mean,
+it's just probably not something knowing
+the micro ethos that is going to be up
+your alley. But are there funding
+options that maybe 20 or 30 or 40 of you
+should consider? I actually believe
+that. I believe that's not only becoming
+the case. I believe that is the case. I
+believe that there are now options that
+are much more familyfriendly. And the
+best news is that if it doesn't make
+sense and it doesn't sound right, just
+say no. like we we have an amazing
+an amazing opportunity here of at no
+point in time has it been easier to
+start a software company
+but as Jason said and as I was thinking
+it's funny how much Jason Freed said
+that I was like yes I was going to say
+that in the talk never been easier to
+start but right now it's harder perhaps
+to hit escape velocity than at any time
+I can remember so how do we get from
+there to
+nights and weekends, other things or
+maybe
+maybe taking a you know a small amount
+of funding is is a more an option for
+more people and I believe that it is. So
+why do we do this? I come back to this.
+If we can find options, if we can find
+things that fit into our framework of I
+want freedom, I want have a purpose and
+I want to be able to maintain
+relationships, not work crazy hours, not
+have people breathing down my neck, and
+I can make my life easier, not do the
+nights and weekends, I can take a little
+bit of money, you know, is it worth it?
+And that's what I'll leave you with. I
+welcome your questions.
+The interesting thing that we've seen,
+so we announced last October, we
+announced Tiny Seed. What I've noticed
+is that already there is way more
+interest on both sides of investors
+wanting to put money in and founders
+wanting to do this.
+There's a lot more than we thought. And
+so I think I don't think this this is
+not stopping where it is today. In fact,
+I'm betting probably 5 to 10 years of my
+professional career that this is where
+the puck is going. And you know, someone
+asked me at one point because uh when I
+started Drip, it was uh you know, was it
+was ESP and then it became marketing
+automation. I started saying, "Oh my
+gosh, marketing automation, it's the
+future." Like this is where we're going
+is to have these automation. Someone
+asked me one day, "Are you saying it's
+the future because you started a
+marketing automation platform?" And I
+said, "No, I started a marketing
+automation platform because I think it's
+the future." And that's the same thing
+with Tiny Seed. I'm not telling you to
+believe in this vision because I think I
+should I'm I'm betting that a big chunk
+of my career and I'm pretty conservative
+with this stuff. Um that that this is an
+option and this is going to be a real
+thing and it's going to be way bigger. I
+hope we look back on this talk in a few
+years and be like wow Rob way
+underestimated where this was going.
+Question. Yeah,
+it's a excellent summary Rob. Everything
+you said is spot on.
+Thank you.
+It kind of leaves me though it leaves
+you with a very dark picture. What's the
+encouraging news for the folks who are
+showing up for Wednesday through Friday?
+Encouraging news is that we live in a
+time where we can start a company for
+almost no money and we can still do the
+nights and weekends and we have more
+options now than at any time in the
+past. And that while it is more
+competitive,
+it's always been hard. If it was easy,
+everybody do it.
+So, this is not really a joke question.
+It's kind of serious, but can you be a
+bootstrapper and take money at the same
+time?
+It's a I think we need No, it's a good
+question. I, you know,
+Drip by the time we got to
+profitability.
+I had put almost $200,000 of my own
+money from another app into into Drip.
+Would you say I bootstrapped that or did
+I self-fund it or did I, you know, it
+was another company that I owned. Did I
+just angel invest? Like I don't know,
+you know, I don't know what the terms
+are and I I think there need probably
+needs to be another term because it not
+binary anymore. Bootstrapping,
+self-funding and and VC funding has been
+something I've been talking about for a
+while because self-unding is heat and
+Shaw uses that term, but I think of
+bootstrapping is self-unding is
+different. So funny is if you have a
+bucket of money and there's several of
+us that like you look at ConvertKit, he
+didn't start that with no money. He put
+tens of thousands into it and it didn't
+do much and then he right before the
+push he put another 50k into it and went
+up. Now if you have 50 or 100k lying
+around I don't know I don't know if
+that's bootstrapping or not. You know I
+don't know it might be important to
+differentiate but I'm not I don't know
+if it is. Fund strapping was something
+that Colin from customer.io has thrown
+around and I I don't know if that
+applies either yet. So I think TBD on on
+what we call that you know to me
+bootstrapping has always been an an
+ethos like Jason Cohen would come here I
+mean his company's valued at like half a
+billion dollars I believe and he would
+come here and do talks to bootstrappers
+that were some of the best talks
+so is he and he bootstrapped multiple
+companies before he did
+you know did WP Engine and it's like is
+he still a bootstrapper I mean
+technically it means you start a company
+without money but like in here he's
+still a bootstrapper you know, maybe we
+should call it microcoming.
+I'm just throwing that out there as an
+idea. Yeah,
+some of us are are first-time founders.
+Um, when you start a company now, you
+really are your own adviser. Um, one of
+the things that you supposedly get with
+VC or with any kind of incubator is you
+get somebody who's an adviser. I can ask
+anybody to advise my company, but if
+they don't give me money, they don't
+have skin in the game and I don't really
+think they're engaged. So how do you get
+the benefit of the serial entrepreneur
+to engage in your business without
+accepting their money?
+I see. So you're looking for someone to
+advise you in your startup without
+giving you money. Is that right?
+Yeah. Without without them giving
+without them investing. Um
+that's interesting. I've I've only done
+so I've done some advising. Typically,
+it's to startups I've invested in. But I
+also have done two other models. One is
+um when I was hanging around for that
+six months before I started Tiny Seed.
+Um I charged hourly as an adviser. I
+mean, people would bring me in and say,
+"Hey, we're going to meet once a month
+and here's my numbers and what do you
+think?" And I would just give them my
+opinion and it was just a dollars per
+hour type thing. That's one way. And I
+know there are folks other folks who do
+that. Clarity.fm, frankly, if if you
+want to do that. and people are 100 to
+500 bucks an hour depending on who they
+are. Um, that's one way to do it. And
+then the other way is to give a small
+piece of equity, you know, to give half
+a percent or what whatever 1% of of
+stuff. And those are your options.
+Asking someone important and busy or
+smart and busy to give their time for
+free for no benefit. I I don't know how
+to do that. I Yeah,
+if they were to give us a certain amount
+of money and get equity in return, they
+would adise as part of that deal.
+Sure. But he he said if they were to
+give him certain amount of money and
+take equity they would advise as part of
+that deal.
+Yeah. But like you don't go raise a a
+seed round of 25K. Like you know most
+people are Yeah. 25K is not enough to
+move a needle, right? I've never I've
+written 25K checks, but they're bundled
+with a bunch of other angels. So you
+raise a round that makes a meaningful
+difference, which is typically in this
+stage 200 to 400K, let's say. So, I
+don't know how to get a one-off advisor.
+I just don't think it makes sense for
+one adviser to write your 25k check that
+you burn through in a few months and
+then now that person is stuck on the
+hook advising you, you know, I don't
+think the the values align there, but
+maybe I'm just not creative enough.
+Yeah.
+Hey, Rob. Uh, thank you for the
+overview.
+Um, my question is, so as a
+bootstrapper, um, you have this attitude
+of like you need to make every dollar
+count. Um if when you get funding what
+we often see is then people overstaffing
+getting really like getting offices that
+they don't need and uh this type of
+stuff. Um do you think that with this uh
+more like seed funding or or this this
+type of funding that that can be avoided
+that you can keep that bootstrapping
+uh yeah mindset while also having some
+money?
+I think it depends on two things. On the
+person giving the money and the pressure
+that they put on that team because often
+you write them a check and then if if if
+the investor is pushing saying grow
+faster, grow faster, higher, higher.
+Well, yeah, they're probably going to do
+that. What if the investor is not saying
+that? So, that's the first factor is is
+the investor going to put pressure.
+Second factor is the founder or
+founders. Um I've written
+I think 11 or 12 angel checks in total.
+Half of those have been to kind of the
+Silicon Valley, you know, data nice type
+thing that was trying to go really big
+and half have been to folks frankly
+within this community and everyone that
+I wrote within this community is someone
+who's pretty capital efficient and
+that's a thing that that's something
+that I would that I look for in in I
+mean it's a personality thing, right? If
+I raised around half million bucks, I'm
+super tight with my money because I've
+bootstrapped every company and I don't
+you know I don't want to let it go. So
+as we're talking to tiny C founders,
+it's the same thing. It's like how do
+you think about money and you know what
+are you doing with the funds you have?
+So yeah.
+Uh thanks Rob for the talk. Um what's
+your advice to two co-founders who sit
+on the complete opposite side of the
+spectrum?
+I mean one one wants to raise the money
+to make it easier and one just has no
+desire to
+talk to. So Dr. Sher Walling Zen founder
+is really good at helping people find
+common ground. That would actually
+probably be a pretty good
+recommendation. Um,
+I don't know because see there's not a
+right and wrong answer here. I mean, I
+hope that's I hope I didn't come across
+as saying like everyone in this room
+should go raise funding because I don't
+I don't think that's true. I just think
+us all knowing that this exists and us
+knowing these trends like is a helpful
+thing because I do think it's going to
+be around. So, um, I couldn't give you
+advice other than try to work it out and
+get a mediator or something like that.
+Hey. Um, I'm really interested in this
+because I mean I've been the same as
+you. Like VC is bad and probably going
+to put you under under on the rack for
+something, right? But um the one thing
+I'm wondering is like I'm building my
+company, my plan is to be in it for 10
+plus years, right?
+You hold the mic a little closer. Sorry.
+Yeah. Yeah. So like you know being in
+being in a company for like 10 plus
+years like you know Jason Freed is like
+I'm happy to be in base camp for the
+rest of my life or whatever, right? I
+don't know if that's the case for me but
+I have that kind of very quite long-term
+view. Yeah,
+Angel and all that stuff has always
+seemed
+there's always been an exit as a
+requirement I think for pretty much any
+kind of funding that's been around,
+right? Because people want their
+returns. Um,
+how do you see things going in this kind
+of space in terms of like when we've in
+our early days we pitched to in
+investors we said hey we want to build a
+profit machine we don't want to build
+have an exit
+and they've like you know sort of
+dropped the phone at that point right
+and just like left us alone but I mean
+like it seems like that's changing do
+you see that as a trend where people are
+happy to just take a dividend every year
+and that sort of thing
+thank you so much for reminding me of an
+entire slide that I should have uh have
+covered I mean that's that's really the
+You could ask what's the difference
+between traditional funding routes that
+go through the the seed venture I'm
+sorry seed series A series B series D
+and what indie.vc BC pioneered in 2015
+16 where they said if you never raise
+another round and just become profitable
+then just kick off dividends and and
+that's it and that's what that's how
+tiny seed is structured same way you
+have the option to raise a round in the
+future but if you don't want to then
+don't and it's it's done through
+dividends uh earnest is the same way you
+know it's it's that's the key difference
+what you've just called out between all
+these other sources and and the
+alternative funding bubble that I had
+there you know tiny seed alternative
+funding That's that's the main
+difference is that you can if you run a
+company for 10 years or whatever.
+Cool.
+Profit is profit. Yeah.
+Hey Rob, I'm wondering if you can talk a
+little bit about the value ad of the
+ecosystem services and the mentorship
+and that comes along with it because you
+know a lot of the VC funders they'll you
+know be on your board or whatever
+introduce you to people but like how
+involved are they and how are they
+introducing you to the right people and
+how important it is for you guys in
+TinyC to like really create that like
+community and get get your founders
+there faster. Yeah, that's a good
+question. I think it depends on the VC
+and it depends on all this stuff. But I
+mean, it's a difference between, you
+know, a venture capitalist who has a
+fund and writes checks to startups and
+and an accelerator. It's it's just a
+different thing. They write a they write
+a smaller check and they might take, you
+know, the valuation might be lower. They
+tend to take more equity for a smaller
+check, but then they have the whole
+ecosystem as you were saying of there's
+the alumni network. There is is mentors
+that uh, you know, do office hours and
+can specifically advise you. So there's
+this whole structure around it. Um
+utilizing the network of those mentors,
+getting the introductions. Um I mean
+I've always loved I've admired what what
+YC in particular has done. And I think
+it it literally changed the game. And
+they didn't do it by offering higher
+valuations or by offering more money or
+anything. They said, "We're actually
+going to offer you a worse valuation
+than you could go get from this venture
+capitalist, but we're going to include
+all the stuff you just said, mentorship,
+community within a batch." you know,
+it's kind of that friendly friendly
+competition, but also we're all in the
+trasaro together, and that helps to know
+that there's 10 or 20 other people doing
+that. So, that's what we're hoping. I
+mean, that's our goal. That's what we're
+replicating with with Tiny Seed is that
+that kind of stuff.
+Hey, Rob. Um I had a question about uh
+sort of what Jason Freed talked about in
+that um how he has expressed his not
+regret about um not being complete
+owners of the company.
+Yeah. And I've thought about that with
+Tiny Seed and um I definitely submitted
+an application but in the back of my
+mind if that opportunity was even there
+with this different setup nonVC setup is
+what if that day comes where you want to
+be the full owner again? You and your
+founder or whoever you're you know
+running it with you want to
+maybe change the equation is you know
+and and it it doesn't need to sound
+ungrateful because obviously that's huge
+as an investment.
+Yep. No, that makes sense. So, you're
+saying, you know, you take some funding,
+sell a small portion of your company,
+and then 10 years later, you're like,
+I'm just kind of not ready to have that.
+That happens today all the time with
+investors. Not all the time, it happens.
+But, I mean, Chris Savage talked about
+how he handled it. He went to the
+investors and said, I want to buy you
+out. Um, I wouldn't be surprised. I have
+no insider knowledge. I want to be very
+clear, but how long do we think Base
+Camp is going to go and before they buy
+Bezos out? You know, it could happen.
+And what what will they do? They'll go
+to Bezos and they'll say, "Are you
+willing to sell your share?" And then
+they negotiate a price and then they do
+it and they'll be out of it, you know,
+but in the meantime, they've built they
+got through that traro faster or they
+they slept better at night, you know,
+that's that's the thing. It's like the
+value of the money. You're right. Now
+that you're making tens of millions of
+dollars a year throwing it off that few
+million bucks, you know, those first
+years, yeah, it's different, but but you
+can't those are not the same there, you
+know, you can't compare them. So, I
+think I think that'll be it. Are we out
+of time or
+um take two more these two up here and
+then
+I think we're done.
+Thanks for a great talk and answering
+all these questions. Rob,
+I was wondering if you could help us
+crawl inside the minds of the investors,
+right? Not just why is Tiny doing what
+it's doing, but why are your I'm
+assuming like LPs. Um what are they
+looking for out of this? What are they
+looking for? What what's their
+incentive? What's their psychology? I
+mean, I figure if I'm selling, I need to
+understand my customers. I'm looking to
+raise. I need to understand my
+investors. Who are the investors behind
+this? How are they thinking? Could you
+give us a little bit of insight into
+their minds?
+Sure. Maybe um I can I can take a guess.
+Um,
+yeah, I mean there's so it's going to
+depend on the fund, right? Tiny feed
+versus indie.vc versus, you know, other
+Ernest and other folks in the space. Um,
+and there's a I mean you might have 45
+invest LPS LP is a limited partner that
+writes check into a fund that then like
+we would invest. Um, I think that it
+varies from investor to investor. I
+think some folks, you know, base camp is
+investing in Tiny Seed. What do we think
+their mindset is? Well, he wants to
+raise the tide of all boats. There's a
+little bit of giving back, but there's
+also um I don't think they're want to
+write a $100,000 check or you know,
+whatever the the I don't even know what
+the amount is actually. Um and and have
+that go to zero. They also want that to
+have a return. And if they could put
+that into a REIT or the stock market,
+you know, they would probably and get
+the same return, they would probably do
+that. So, um I think it's a mix of let's
+make this interesting thing work. Let's
+be at the front end, the cusp of this
+trend and also let's let's get a return
+because we're investing money, you know.
+So, yeah, last one here. So, my question
+basically centers around I can see this
+as you know, somebody who's investing
+the nights and weekends and, you know,
+so this money basically frees them up to
+either hire somebody to help them or to
+essentially hire themselves to do the
+work. Um, but can you imagine a scenario
+under which a company could conceivably
+like you did, you know, pulling money
+off of HitTail to, you know, build Drip?
+Would would it make sense to do
+something like this instead of pulling
+the money off of another um profitable
+business?
+I I think it depend I think it depends
+on how you how you feel about risk, you
+know. Um
+I there are founders who save up 18
+months of runway and it's super
+impressive to me and at that time they
+get to ask themselves do I want to keep
+100% of my company and gam you know bet
+that I can get to escape velocity in 18
+months because if I don't I have to go
+back and get a job because I'm going to
+run out of money and I'm also going to
+burn through 18 months of runway which
+for most of us I'm imagining is a chunk
+of change. Um and that's a question and
+there's no right answer to that. Um,
+I've seen founders do it and do it
+successfully. I've seen founders do it
+and do it unsuccessfully and it's pretty
+miserable. Um, and you know, I've never
+been in that situation. So, I think
+that's that's a thing to weigh, right?
+is it's like if you have another
+business throwing off all this cash.
+I guess you know the question is if if I
+had had the opportunity to take funding
+like this pretty in a pretty easy kind
+of clear-cut fashion
+I probably would have just put the
+hitail money in my bank account taken
+the funding personally. Um, but I also
+like, as I said, I'm I'm not riskaverse
+per se, but I I would prefer to risk
+someone else's money than my own in
+general.
+Wouldn't we all? So, that's it. Thank
+you guys. Is that it for questions?
+We're good. Thank you.

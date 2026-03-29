@@ -1,0 +1,53 @@
+{
+  "topic_id": 153593,
+  "title": "Consolidated material request for same item",
+  "slug": "consolidated-material-request-for-same-item",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "customization",
+    "bug"
+  ],
+  "created_at": "2025-09-15T13:19:11.807Z",
+  "last_posted_at": "2025-09-15T13:19:12.006Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/consolidated-material-request-for-same-item/153593",
+  "views": 41,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "pithiya_Nilesh",
+  "posts": [
+    {
+      "id": 480754,
+      "username": "pithiya_Nilesh",
+      "name": "Nilesh Pithiya",
+      "created_at": "2025-09-15T13:19:12.006Z",
+      "cooked": "<p>Hello, I’m trying to find a way to create a single Material Request from multiple Production Plans. Currently, the system creates a separate request for each plan, which isn’t efficient for my procurement process.</p>\n<p>Is there a simple way to combine the raw material requirements from several Production Plans into one Material Request?</p>\n<p>if i have required 2 qty of abc item in 1 peoduction plan and i have a 2 production plan so in current system this generate 2 different material request and its hard manage for client so they want consolidate this abc item and make a single material request of qty 4 for this abc item.</p>\n<p>how can i do this ?</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/pithiya_nilesh/{size}/51236_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 20,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

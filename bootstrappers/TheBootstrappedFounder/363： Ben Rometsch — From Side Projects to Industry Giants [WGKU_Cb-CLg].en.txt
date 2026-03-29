@@ -1,0 +1,1342 @@
+﻿[Music]
+hey it's Arvid and you're listening to
+the bootst
+[Music]
+founder today I'm talking to Ben romage
+the founder of flags smmi a bootstrap
+SAS business in the feature flag space
+from open source software to on premise
+deployments we will dive into building a
+single-purpose tool for a wide variety
+of customers and how to scale a
+bootstrap business along the way this
+episode is sponsored by paddle.com also
+a tool that will help you scale your
+bootstarp business because they'll
+handle all things payment related so you
+can focus on growing your own product
+and focus all your attention there where
+it belongs I use pedal for all my
+projects and you really should also
+check them out now let's talk feature
+Flags here's
+Ben you have bootstrapped Flags Smith
+which is really cool it's a software
+built around feature Flag Management
+which is very interesting and controlled
+software releases which is something
+that I have no control over in my own
+businesses just saying but tell me more
+about that what is blacksmith yeah so um
+blacksmith well is is a number of things
+um as a sort of entity it's a commercial
+open- Source um sort of project and
+business um it's a software tool and
+technique that allows um products and
+Engineering teams to yeah control who
+sees features when they see them um how
+how features behave um and basically
+allow so the the the principal concept
+is it allows you to decouple the action
+of deploying your software with the
+event of releasing features you decouple
+those two things and normally and up
+until you know 10 years ago there was
+you know they were they were
+intrinsically linked when you wanted to
+release a feature you did a build right
+like that's kind of like what you did
+and then um yeah I don't know how long
+it's getting on now maybe 12 years ago
+there's a couple of papers one by Martin
+Fowler and a Blog even that one by um oh
+the photo sharing site Flicker and they
+were like this is how we're releasing
+features and I remember the flicker one
+everyone was like wow that's crazy like
+that sounds really dangerous and prone
+to problems and all this sort of stuff
+and over time um the segment has um has
+really matured there's like a bunch of
+providers out there of all different
+shapes and sizes which we're one in you
+know a quadrant um and like as an
+engineering
+concept um it's become I wouldn't say
+it's like I don't know like this is a
+question we often wonder is like what
+percentage of engineering teams in the
+world are using feature Flags right and
+I actually we think it's quite low um
+it's still not you know the the accepted
+wisdom of how you Del you know develop
+and deploy mod software um but it's
+definitely getting there and um a lot a
+lot of a lot of the business and a lot
+of the open source projects is about
+like discussing those engineering
+techniques and educating people about
+what the pros and cons are because it's
+yeah Engineers always love to talk about
+the technology and the sort of the
+software but it's actually much more
+about the engineering and the process
+the people and the kind of stuff that
+that doesn't have ones and NS but
+Associated to it yeah yeah maybe that's
+the problem right maybe it's the fact
+that it's that it's not just code right
+it it takes a a slightly different
+mindset for an engineer to adopt the
+idea that not everything has to do with
+like entering a get push command or
+something right to deploy it's
+interesting to see because uh I I've
+seen in my foras into software
+engineering which I've been doing for
+you know a couple decades now that with
+the Frameworks in particular and I use
+laral in the PHP world right now it is
+becoming almost a first class citizen
+now that that these things are now part
+of the the big packages or at least they
+think about it right it's a little
+little bit of it yeah where yeah whereas
+you've think like 10 years ago or five
+years ago that would have been
+Unthinkable actually there is a there is
+a plug I want to give so um there's a
+project called open feature which uh is
+a cncf um uh project I'm on the
+governance Board of that um is kind of
+progressing through the cncf Sausage
+Factory at the moment and um it's trying
+to Define and Implement an open standard
+for feature flags and the reason I
+mentioned it well I should mention it
+anyway because I'm on the board for it
+and um we we we believe in it
+but the where where you know where you
+got get a framework like larell or or
+rails or Jango or whatever there's
+there's discussions with those some of
+those folk around putting open feature
+stuff into laravel and so the idea would
+be that you could create a Flags Smith
+account or an account with another
+another provider and Define your flags
+and then you wouldn't have to do any
+dependency stuff in laravel or whatever
+you could just say right I want to use
+flags Smith as my provider here's my API
+key and you don't have to you don't have
+to muck around with anything um so that
+that's definitely like as a there's a
+sort of a signal of where the the kind
+of the concept is in terms of it's
+maturity within the industry um that's
+where it's at and so yeah like that's
+been something that we've been working
+on since this Inception it was an idea
+bought up by Dino Trace who have to give
+a shout out they they've been really
+really good um uh you know um providing
+engineering time resource and pushing
+the project and is now um going yeah
+going through the cncf process it's
+definitely something that um I think
+most of or if not all the providers are
+kind of on board with um for those that
+are aware of open Telemetry it's very
+analogous to open Telemetry but feature
+flagging yet that's really cool I love
+this like I I was already amazed that it
+was a commercial open- source project
+but now also seeing you push for Open
+Standards like that is awesome like I
+work in in podcasting with my own thing
+right I I Aggregate and transcribe
+podcasts and there is a lot of open
+standard work that too which even just
+makes it possible to work with the whole
+ecosystem so it is is really cool to see
+you push for that and still include
+everybody else I think that that is just
+such a inclusive quite inclusive way of
+approaching the thing I think the Open
+Standards have kind of they I remember
+like 15 years ago there was maybe 20
+years ago it was much more common for
+their they're kind of a little bit of a
+curiosity now you know I think
+especially with like Jason and stuff
+like all these kind of scheist or kind
+of like you know sort of in a way
+scheist things um which I mean I love
+you know I've come from I'm old enough
+to remember um corba and um you know
+like XML deep XML stuff um and you know
+all these like crazy you know Java B
+Enterprise jav all that sort of stuff
+say definitely believe that that that's
+the wrong way to go and Jason's kind of
+like broken this free of that and rest
+has broken as free of that but the the
+concept of there being like um yeah like
+common standards it's kind of it's It's
+kind of it feels like it's more and more
+unusual to come across yeah I mean
+barely uh any big player has a any
+vested interest in in these standards
+right maybe for
+interoperability maybe for being able to
+have some kind of API integration but
+that's where it ends like they're still
+internal data representation is their
+own thing their API thing is their own
+thing if you look at the stripe API as
+well as it is designed hey everything is
+kind of custom everything is very
+arbitrary and and opinionated so yeah
+it's just rest right it's just Jason
+data but every everything else about the
+data uh the connections between stuff
+that is their own design which is fine
+but it's not very open right it's well
+documented but not open yeah I mean
+could you imagine like stripe and addan
+and a bunch of others getting together
+wouldn't that be awesome like a common
+it's not going to happen is it yeah no
+it probably isn't which uh but if it
+were it would make it so much easier to
+build Integrations for these things and
+me that that is probably yeah if you
+want vendor lock in a big business like
+you really know it doesn't really make
+much sense to to offer this or even make
+it feasible it's uh it's still great
+that you chose the the open source
+approach here and I I always feel when I
+see businesses built on open source that
+the founder or the founding team they
+must be very masochistic about this like
+they must really love pain because
+whoever I talk to there's always dealing
+with people in the open source world and
+I don't mean like people who are really
+engaged and really enthusiastic they're
+great but dealing with people who are
+needy and entitled that seems to be a
+common threat have you encountered this
+as well to be honest not that much
+um I mean a bit but in the grand scheme
+of things like and we definitely get
+more we definitely get way more
+um you know thank yous or how can I
+contribute or whatever rather than like
+you know I demand you I mean we do get
+some like you know um and it's actually
+it's it's not so much on the on the kind
+of GitHub side of the fence it's much
+more on the you know I don't know our
+chat support on our website people are
+like right I've got this thing running
+it's the open source version and I need
+you to basically spend an hour helping
+me configure it and getting like these
+these error messages fixed up and we're
+like you know we'll help you a little
+bit but like I'm not going to spend like
+you know more than five minutes doing
+this because um you know you're not
+paying for my time
+um that happens occasionally but not
+that often and I mean even then like you
+know if you were if you were squinting
+you could see oh you know maybe you know
+they got they they sort of like bumped
+their head on this bit of the platform
+because we don't have the documentation
+for that and so then you go and you go
+yeah fair enough that's not clear in the
+documentation or is not even mentioned
+or whatever you know like right yeah if
+you're using laravel and it's on blah
+then you might have this BL and or you
+know all fix it so I always kind of um
+think oh okay you know because one of
+one of the huge um sort of prizes that
+that we that we really really try and
+Achieve is you should be able to get the
+platform up and running really really
+quickly and easily and in a production
+state that can deal with production
+workloads um and you should be able to
+integrate it into your into your
+application without you know bumping
+your head or having to to message us um
+and a lot of the architecture and
+infrastructure design around the
+platform speaks to that so we we have
+like one data store which is postgress
+and we have one uh monolith application
+API front end all everything and that's
+it like there's nothing there's nothing
+else there's no redish there's no
+elastic search there's no y y y like no
+kubernetes like no no nice complicated
+deployment system uh we we've I mean
+we've got Helm charts but it's literally
+start postgress run this API and that's
+it so um yeah that that's been a that's
+been a um I mean I you know depends on
+the project but you see you know you see
+some projects where I mean like centry
+is the classic example it's like you
+know 27 Services which is fine like they
+probably need 27 Services we don't
+there's been a number of times where you
+know we've been at that crossroads and
+it's like do we use Rus or do we use do
+you know let's let's introduce X service
+and then we've gone like the task
+process that was a really good one like
+would really been a lot easier with
+redis and uh as as the as the broker and
+we like no you know our customers the
+last thing they want is another data
+store in their stack like that's like
+the number one thing that they hate and
+so we've always we've always steered the
+boat in that direction yeah I guess PCR
+is a good choice for all of this right
+yeah I mean yeah I actually saw a good I
+I actually saw a good um a good post the
+other day on like all the things you can
+do with it yeah Vector storage like g g
+GIS right yeah I didn't even know it's
+got like a Chron schedule you can use it
+as you know like it's crazy yet yeah
+it's it's just uh it's funny because
+those are the tools they tell us not to
+build right like the the everything
+tools but then again for a database it
+it just feels like you just need to make
+it flexible enough at the core and give
+it all these little extra things and all
+of a sudden it becomes your schedule it
+becomes your uh your key value store and
+your transactional database which is
+nice Yeah we're definitely we we're
+really happy with that that we feel that
+that um that decision's really really
+paid off the other really interesting
+thing about that is like once you've
+introduced a new service you're not
+you're not taking that out of your stack
+right like that's just not going to
+happen like realistically yeah and you
+you add more things to use to service to
+make it useful right it becomes a
+psychological game where then oh we
+could totally put this new feature on
+there I love the simp icity of this and
+I I do Wonder because like in in most
+software businesses like when people
+start a business and they try to find
+their first customers usually it's a SAS
+approach right they they build it on
+their their own system and and then they
+get into on premise and then they get
+into you know like private cloud or
+whatever other ways of deploying um
+these things is is feasible or makes
+sense to them and then they they start
+to build these packages that they can
+easily deliver and easily deploy without
+causing too much fuzz what was your
+story there did you start out with all
+three because you have all three no no
+no no so we we um well we originally
+started the project um it was just an
+open source thing like we we I've been
+running a software agency in London for
+like 18 years at this point and we
+always used to come up with different
+crazy things to do in our spare time and
+none none of them um could have been
+legitimate businesses by their own right
+there were always crazy ideas like my
+favorite was um we had an Instagram
+clone that where called life is terrible
+and you have to take photos of it when
+your life had gone wrong um and the fil
+the filters made the photos look worse
+okay that and I don't want to be
+insulting but that sounds like a very
+British thing to do yeah yeah it is yeah
+yeah no one in America would have used
+that no probably not funny yeah so so we
+we'd always come up with stupid ideas
+and then and then we decided to be more
+rigorous around um what sort of things
+we built in our spare time and um so we
+we wanted to use feature flagging for
+our clients um for the agency and at the
+time they just we went to get Hub to
+look for because we'd seen like LGE
+darkley had sort of was was getting on
+its ascendency that's the kind of big
+player in the space um and um we didn't
+want to kind of pay it was quite
+expensive we thought it was quite
+expensive people think that that it's
+trivial um serving flags and it is it is
+quite simple you know it's not very
+transactional um etc etc but um it isn't
+it isn't trivial um especially when
+you're serving them at scale and so we
+we were like okay what what's on GitHub
+there wasn't really anything on GitHub
+um there was a couple of like little
+projects that were like they were either
+language specific or framework specific
+um and we were like look this is obvious
+like there was you know at the time
+there was like it was very common you
+get you know the commercial Venture back
+company that would that would push the
+space or create the the segment and then
+you'd see like open source companies or
+um commercial open source projects um
+sort of like filling in that Gap and
+there wasn't one feat FL and so we were
+like okay that's a nice opportunity
+we're really the perfect people to build
+it because we' be our own customers we
+know exactly how we want the API to feel
+um what the sdks would look like and all
+this sorts of stuff and also it's a
+great project that you can build an MVP
+I think we had an MVP out in like a week
+where like an internal one where it's
+like you know had in face and you can
+add you could add flags and you could
+toggle flag values and it had a I think
+the first I think the javascripts sdco
+was the first one that we built and you
+know that could connect the API and and
+do all that so it was a great um it was
+a great project to start with but we
+only did it we really did it for
+ourselves um we put it on GitHub um
+after we spent ages worrying that there
+was going to be a API key in this source
+code history that we'd forgotten about
+but um I think there's good tools for
+that now um and then at first like I I
+we just sort of thought we didn't really
+well at all analyze or research the
+market so my experience was that you
+know you do that you do a SAS platform
+away you go um you know and then step
+four is profit and we did it we did that
+we built we built um you know we we
+started hosting it properly you know in
+a fault tolerant manner on on AWS and we
+put a website together and at the time
+it was called bullet train um which is a
+terrible never name your projects um uh
+if someone Googles you um you shouldn't
+be competing with things like actual
+trains um so definitely that's that's
+something that we we discovered um yeah
+so it was called bullet train um I kind
+of like the name but for a commercial
+business it's not not a good idea and we
+got a bit of um we didn't we didn't
+Market it really um we weren't like
+right you know we need to get 5,000
+GitHub stars in a month or a year or
+anything like that um we were just kind
+of doing it for ourselves and the SAS
+business wasn't picking up a tour we
+didn't really care um because we were
+running the agency we were working on it
+in our spare time that's one of the big
+learnings for us was um H having a a
+kind of well depends where you are in
+the world Consulting business for agency
+getting paid for your time when when
+you're an agency and you don't have any
+paid work that's kind of an existential
+crisis situation because you're like
+that person is burning up money because
+they're not billing um but actually what
+what the big Discovery for me was that
+that's an
+opportunity that is free for you as a as
+a as a business because that person's
+salary has already been paid
+they're really you know they're an
+engineer you know everything about them
+you know what they're good at you know
+they're their strengths and weaknesses
+you know what they can work on and what
+they can't um you're in an office with
+you know like that's an amazing
+amazingly valuable opportunity if you
+got like you know we would be like oh
+God you know like we've got one front
+end developer and one backend developer
+and one designer not not billing and now
+i' be like that's that's absolutely
+brilliant because that's the team they
+can build go and build something right
+and they it's free because you've
+already sunk that cost um I mean the
+rest of the money the rest of the agency
+needs to be making money otherwise go
+bus but um that's going to happen anyway
+right like whether you built a side
+project or not you're still going to go
+bust um so that was a hugely valuable
+thing so we kind of didn't really care
+um too much probably we probably should
+have cared a bit more um and things
+would have started or or or or would
+have grown a little bit um FAS but you
+know we weren't you know I don't really
+have regrets about that but then what
+happened was yeah what what you're
+saying about people running on Prem we
+started getting contacted from massive
+companies and saying um you know I
+really like this platform and that's one
+of the other benefits of Open Source
+right they can just well now like you
+know Docker pull Docker compose up get
+it running on their on their local
+machine
+and play around with it and say right
+okay so I've got this running on my
+machine I could see how this is now
+going to be running I I can see the path
+to that running in our data center and
+US using that because I'm not allowed
+I'll get sacked if I use the SAS product
+um that's another interesting unknown
+percentage which is you know what
+percentage of C companies large
+companies out there have that like
+predication of you can't put this sort
+of data outside of our control yeah
+that's a different discussion that's
+probably quite sizable right it's
+probably a lot of these businesses that
+have this I think it's more than people
+I think it's more than Engineers think
+um is is my answer um I think Engineers
+would underestimate what that number is
+um but it also depends on what the type
+of product is as well like we're
+potentially dealing with data like per
+you know you can send um what we call
+Trade data about your users or or or the
+the thing that's running the application
+then control what flags are uh flag
+values are received based on those
+traits so you can say you know if
+they're on iPhone then turn this feature
+on or if they're in Canada then they
+should not be able to you know I don't
+know buy guns or whatever yeah okay that
+makes sense um yeah so
+so those those companies then want to be
+able to run all that stuff on previs and
+they started asking us how do we you
+know how much is it um and that was when
+we were we were we were really in
+trouble because we that at that point I
+was like I have absolutely no idea um
+like how much how much do I charge for
+this and at the time we were charging
+remember we we got um the first like
+inbound lead and it was kind of like
+they were really like sort of almost
+aggressively wanting to buy the software
+like we really need it how much is it
+and at the time I think our most
+expensive SAS plan was like 100 a month
+so I was I sort of I kind of got anxious
+and I was just like I just shot out a
+number and I said oh it' be 400s a month
+and um so those listing who don't have
+have the same amount of experience as I
+did at the time about Enterprise so was
+no one pays 400 a month for anything
+right like it's not they would be like
+these guys aren't serious they don't
+know what they're doing which was true
+that was an accurate um analysis of the
+situation from my point of view um and
+so yeah so um we started to get more of
+an uptick and at that point
+um we realized that we needed um to get
+some other people to join the team who
+had experience of speaking to those
+people you know at the time I didn't
+even know um it's called go to market
+right I didn't even know what that I was
+like what is that um Enterprise s was go
+to market motion you know get all of
+your pricing
+organized all of your um you know your
+legal
+support all of that sort of stuff yet
+it's kind of dull if you're an engineer
+it's you know it's not it's not writing
+code it's not pushing commits or
+anything like that um but but in our
+case that was the business pretty much
+like it's it's like maybe I think now
+there's not all the I think I think um
+as SAS nons SAS revenue is about 25%
+75% so you know it's it's a lot um and
+they're they you know that servicing
+those two types of customer are very
+different and you know the the economics
+of of of serving those two types of
+customers very different but the
+business wouldn't be and and the project
+wouldn't be where it is today if we
+hadn't have made a a sort of like an
+admission to ourselves that like we we
+don't know what we're doing at this
+point with regards to this aspect of the
+business we don't know how big it is
+either um and turns out that you know
+there's there's a huge addressable
+market for people who want to run on
+premise feature Flags in our in our case
+um so yeah so we went out and we found
+not a venture capital company um we
+didn't do that but we did find three
+guys um who had formed a business
+recently before we did that deal called
+polychrome capital and they came on and
+we kind of did us an equity swap so they
+they worked on the business to get it
+like 20 times 20 times the Mr that it
+was at the time um and and for that we
+gave them half half the organization
+half the business which you know I
+remember I remember telling my brother
+um I was thinking about doing this deal
+and he got really angry he was like what
+the hell are you doing like why would
+you give them half the business and I
+was like look I you know this could be
+the enterpris part of the company could
+be the majority of it right and without
+those those folk we're not going to you
+know we we we could be selling stuff
+eight times cheaper than um you know
+than than than we could be um and so I
+I've said before to other people um it's
+like easily the best deal I've made uh
+in my career in terms of making that
+admission and re and realizing the
+moment where you know yeah you know like
+if you love something set it free kind
+of thing it was very much that moment of
+like this is this is time for me to
+right and and the team to say to
+ourselves
+for for it to get to the next stage and
+and to grow to the next point and we
+need uh other people involved and and
+other areas of expertise that weren't
+just Engineers or or you know hackers
+basically yeah a lot of Founders have
+this fear of of that moment because they
+know they have to give something up
+right not just but that they have to
+give up being the technical founder and
+knowing everything about the business
+which is probably more what it is than
+the technical part but giving up agency
+giving up like the that just being able
+to do whatever you want on a whim with
+your business do you sometimes regret
+this because you took that choice and
+you made it and you you got out better
+on the other side is there still regret
+well the the the interesting thing is
+that that didn't actually happen um I
+didn't I don't feel like I feel like in
+any if anything I was sort of freed up
+more um and the reason for that is that
+first of all I didn't have to deal with
+with selling all this doing all this
+stuff that I wasn't qualified to do um
+they did all that right like or they
+knew people who could come on board and
+help like you know I don't know
+accountants or lawyers or people like
+that people who could build you know CRM
+systems and get all that up and running
+and build that engine I didn't have to
+do any of that anymore right which was
+great um and then the other thing is it
+wasn't a VC thing so it wasn't like
+right you know we we're basically going
+to give you a bunch of money but you're
+basically going to give us control of
+the board and our decision on
+strategic Direction this final and you
+know blah blah blah blah blah um we had
+we was as was part of the deal that was
+like they they have final say so polyr
+have final say on matters of commercial
+you know I don't know pricing or if we
+say no to a customer um or or things of
+that nature and then technical um stuff
+and and and product we were going to
+maintain control of that because you
+know like like you know like decisions
+around what was put in the um open
+source repositories and what was
+proprietary um all of that stuff so mean
+you know in a way pragmatically all
+right you know not legally um but in
+terms of like pragmatically my and and
+and the the originating team's sort of
+day-to-day lives we were freed up way
+more um on account of that I'm conscious
+of there's there's an analogy around
+brexit so for those of you I mean I'm
+still very angry about it but you know
+lot a lot of people in you know when
+when when the UK voted to leave the
+European Union a lot of the argument was
+that you know we'd gain this sovereignty
+right but that's just that's just an
+abstract you know that concept of
+freedom is an abstract thing and you
+know legally the UK or you know us might
+have less control you know seeding that
+with other people but actually dayto day
+you know pragmatically what we can and
+can't do we um we have much more freedom
+when we did that and um that's
+definitely something that I kind of
+wasn't really you know I just saw I just
+saw it as um you know there's an
+opportunity that can get to the next
+stage of of its of its growth and quite
+I've not I've noticed this with other
+businesses that I've worked on as well
+um when when you're scaling a business
+you'll quite often hit a a kind of a
+ceiling um and sometimes you know and
+some you know that will happen again and
+again and again um and sometimes it will
+be obvious what that ceiling is or
+what's causing that and what you need to
+do to then break through it and
+sometimes it won't the deal that we did
+with polyr was very very very clear what
+that ceiling was and it was very very
+easy to go right well you know we just
+need to give half the business away to
+sensible smart when intend people and
+and you know Lu well luckily that's what
+happened I mean it might not have been
+sensible smart or well intention but um
+I mean you know that's then You' got to
+check that they are before you do that
+but yeah like it was definitely um you
+know it was definitely the the the
+single most important decision in the
+life of the company and yeah it's it's
+it's been really interesting watching
+that grow from that point yeah CU at the
+time I was the only one when we did that
+deal I was the only one working on the
+on the project fulltime
+oh wow so how long into the Journey of
+the business did you go all just by
+yourself like when did this deal happen
+in the history of the the business so
+yes the first commit was I think around
+2017 and um I started working on the
+project fulltime just before covid and
+then we did that deal what like it was
+annoying because we couldn't meet we
+couldn't meet each other so we did the
+whole deal one one one of them was in in
+Cologne in Germany and the other two
+guys were in
+America um on on the west coast at the
+time and um we did you know none of us
+knew how tall we all we all
+were um so we concluded that like a
+little bit through yeah when you
+couldn't fly anywhere basically whenever
+that was in in
+2020 um so again like that was several
+years right like the business now in
+terms of like the code base is six or
+seven years old so it's been a lot of um
+a lot of work that that's um you know we
+just carried on we haven't really yeah
+the the the you know the growth curve
+has never it's never hit that sort of
+like asymptotic thing but it's it's
+definitely like it's gone through
+different levels of gradient um and
+there's you know there's a for for when
+when um we have new people on boarding
+onto the company I or when we have a we
+have an annual um offsite um and you
+know I show that graph and you it's it's
+kind of a Mad graph because you can you
+know ask people at what point did body
+Grom come on board and that is you know
+painfully easy to point that out on the
+graph because um of the effect it had on
+the business yeah good choice then I
+think that's uh that's that's a
+miraculous choice and and a good one
+yeah I mean we we were very fortunate it
+was very fortuitous to meet them because
+um uh their model is extremely unusual
+and I've been having calls with VC firms
+for months and I'd actually sort of
+given up and and I was like there's no
+point doing these anymore because we
+were too small um you know this everyone
+there was a lot of activity around B2B
+SAS developer tooling as well was super
+hot like the gitlab story and things
+like that that was like super hot at the
+time so I was getting inbound from VC's
+all day um I was taking calls from some
+of them that you know the ones that the
+ones that I'd heard of or the ones that
+sounded like they had an interesting
+tape but you know I was like this is
+just isn't going to work for us like
+it's not the right it's not the right
+path for us yeah so I don't quite
+understand why the VC industry is quite
+so homogeneous in its approach um I mean
+I guess I do because you know they if
+they you know they hit a couple of home
+runs they get fantastically rich but
+there's very very little variety
+um in in that space and for us like the
+perfect thing wasn't like I think the
+worst thing that you could have done to
+us at the time was like here's $4
+million spend it as quickly as you can
+do whatever you want but you still don't
+know what to do and how to do it but
+here money um that is a problem yeah I
+see I see this a lot too it's like
+people all following the same rulebook
+the same Playbook yet nobody actually
+wants to do the work nobody wants to go
+into the business and actually Shuffle
+things around for it to to be better or
+teach the founders how to do it right I
+I suffer from the same problem like I'm
+not a salesperson not a big marketer I
+can do it kind of mostly but I'm also
+completely out of my depth when it comes
+to Enterprise sales right for that I've
+just never done it and I'm trying to
+learn it now with my business at this
+point but it's it's a it's a tough
+Journey because if if first off not a
+first language English speaker that's
+always a problem then I I just don't
+know how to talk to people in that
+Enterprise setting cuz I'm not from
+there so there's a lot of different
+things that come stack on top of each
+other to make this harder so good for
+you to have found the right people at
+the right time and what I find very
+interesting because you your journey is
+one of like absolute bootstrapping yet
+you were open to these calls you were
+open to talking to people about this and
+giving up 50% of your company to just
+improve it that I think is such an
+interesting mindset in the world where
+everybody is Black or White either this
+either that right yeah I mean that's
+that's I mean maybe it was just cuz it
+was Co and I just wanted to have someone
+else to talk to um but yeah I think um
+The Learning I've got is that yeah keep
+yourself open to things and then when
+the right opportunity comes along then
+you have to grasp it really really hard
+right and then we did make a bet on the
+business at that point um but I I I kind
+of also I sort of foresaw um you know
+there at that point before we did that
+deal or you know like right there's
+there's two different branches here that
+the the life of the business can take on
+I obviously don't know what either of
+them look like um but the the non-p
+polychrome one did look like to be
+honest um you know because of the
+because of my and the teams that have uh
+have experience around like building
+businesses like like flag Smith now is
+is it kind of just sort of like
+pottering
+along not really you know what I mean
+like never really kind of like getting
+to that critical mass where it can bring
+on like you know have a have a
+reasonably sized team of in engineering
+and and and marketing and and sales and
+stuff like that and it just kind of
+would have I think it just would have
+got pretty boring to be perfectly honest
+with you um I mean a lot of businesses
+doing the same thing every day right but
+um if you're doing the same thing every
+day and nothing's really changing in
+terms of the you know the revenue of the
+company um you know who you're competing
+against the sorts of clients you're
+talking to then um you know and then on
+on the the other the other side of that
+Branch was like you know the growth just
+sort of started to to really come alive
+um we have we have money to bring in
+engineering which meant that that was
+more interesting because you know we
+weren't just sort of like firefighting
+customer issues and dealing with
+infrastructure problems and we had
+people who could work on features in the
+form and and all this sort of stuff so
+um yeah I mean you know like you you try
+and make a calculated a calculated risk
+on that right yes it's that and that's
+what it is I it feels like uh it found a
+choice to make at this point do you want
+to keep slugging along or do you want to
+try something else and I'm glad you made
+that choice I think it's very inspiring
+inspiring to just see somebody give up
+something to then get something I think
+that's that's that's quite noticeable
+yeah I mean I I think it's I think as
+well like
+um I think there's a bit of a a
+perception that a lot of these deals are
+zero sum and um you know maybe that's I
+don't know maybe it's is it maybe that's
+a slightly American mindset um and you
+know like I was definitely of the
+opinion that yeah this this doesn't have
+to be a zero some thing and it's also
+you know I mean one of the best pieces
+of advice I ever got given was like you
+have to sell into a growing Market
+market right if you're selling into a
+Contracting Market um then you know or
+or you know if if you're selling into
+something that's growing then then it by
+definition it's not zero some for those
+those entrance in that market right
+those those players in that market um
+and so yeah like that that was
+definitely um you know at the top of
+mind when we when we did that but I
+think also like you know you get the the
+sort of the companies that have these
+almost like celebrity Founders right
+like in in you know like The Hacker News
+folk like there's you know there's
+there's probably 10 or 15 or 20 you know
+founder CEOs that that um that people
+you know in in in uh world could name
+and you know had agulation towards and
+their kind of rock stars type thing um
+and I think I think you know like it's
+not just those those people running
+those businesses and there's definitely
+like there becomes a little they they
+become a little bit of a marketing thing
+themselves right and so that that then
+filters down that if you're much smaller
+you're like oh you know like but yeah
+but this guy's doing it all by himself
+you know what I mean and that's
+obviously not the case right they
+they've got like 8,000 people um pushing
+behind them and you know they might
+spend all of their days doing podcast
+recordings and photo opportunities and
+stuff like that just like you are right
+now I don't I don't spend all my no but
+it's it's it's a it's a valid way of
+doing some kind of brand adjacent
+marketing like building a personal brand
+as a founder and then kind of letting
+that um attention leak into the business
+as almost a lead lead generator a funnel
+that works too if you have the
+personality for it if if you can deal
+with people on the internet right that's
+another thing like if you if you can
+handle the trolls and stuff and if you
+want to spend your time on that instead
+of doing technical work or doing
+customer Outreach or all of this it's
+it's always this kind of balance a
+choice that you make that point but I
+think what youve done is just very
+consciously very intentionally over many
+many years putting in the work that is
+quite obvious with us and that feels
+like that's the way to do it right yeah
+I mean I I think there's no um you know
+there there have been situations in in
+the industry I remember when um like
+Google AdWords launched and there was
+there was like adte companies being
+launched and then like N9 months later
+being bought by Google for like $700
+million or whatever and there was loads
+of those right if you if you look if you
+research that that happened a
+lot those those days you know yeah those
+those days are gone may maybe there were
+those opportunities with crypto but then
+that came with all the nonsense around
+it and stuff so yeah we we've definitely
+been um the businesses that I've worked
+on have been in the the concept that
+yeah you just you know you you can't
+I mean we you know we we we had the Sask
+platform live for you know well over a
+year and after a year I think we had a
+few hundred pounds in
+Mr um which you know like was like okay
+you know it's going to pay for a few
+beers after work and maybe some some of
+the AWS cost yeah but that's where it
+starts right that's where it starts like
+you have have a a proven thing and then
+you make it better 20 times better with
+the right people yeah I mean it's it's
+kind of weird as well because the
+the number goes up so gradually you know
+and you don't really notice and then um
+actually so there's another business
+that I work on there a virtual office
+service called the hwon mix in London
+and we did why combinator or we applied
+to our combinator and we we got an
+interview we we almost got in we had two
+interviews actually um and I always
+wonder what would have happened if we'
+have got in but any anyway we didn't but
+I remember when we were at y combinator
+we were at um Â£18,000 m which quite you
+know it was it was a bit more of an
+established business and
+um that's always been interesting
+because that that's been a marker of a
+number whenever I look at the Mr now I'm
+like oh okay yeah that's great because
+it was 20 grand when we went and met you
+know Sam Oldman and blah blah blah um
+and actually it's kind of annoying
+because um so fith has I guess the Mr
+that it had when we when we did the
+polychrome deal but yeah the thing is
+the number increases so gradually
+that it's often really hard it's like
+something about the human brain that
+isn't able to stand back and go wow like
+that's a massive ACH you know what I
+mean like even even if at the end of the
+year like you know we do have to get
+together as as a team and go look you
+know we've had this year has gone from
+this to that and blah blah blah and
+we've launched these things and even if
+you literally sit down write it out and
+then read it back to yourself you it's
+still very very hard
+to just
+conceptualize um that growth um it's
+maybe it's just me I don't know but it's
+it's kind of annoying I think I think
+it's pretty common I think it's it's
+it's another form of honic adaptation
+kind of right you get used to it like
+it's the the the hamster wheel of things
+and it's like okay so that's 40,000 now
+it's 45,000 no that's all right I mean
+that's still a quite significant
+Improvement right it's like of yeah what
+is it 12.5% like it's it's it's a lot of
+change yet the numbers are so big I
+think that's our brain that the numbers
+are so big even over a thousand numbers
+are almost in comprehensively huge so
+it's just big and slightly bigger it's
+all big so I I mean it's a fun problem
+to have that you're Mr is so high that
+even an increase on Mr is like ah
+whatever I mean it's not it's not the
+size of it it's just the it's the kind
+of the linear growth as well like it
+that's the thing it's you're kind of
+like oh you know um but yeah like that's
+that's what I'm getting like I you know
+I mentioned it's not it's never got that
+kind of asymptotic line but the thing is
+you know um if you spend seven years
+doing something and it's growing at a
+linear rate or close to a linear rate
+you can do things to make that that
+angle of that slope slightly different
+um you know that time is a an immovable
+force in that function of that that mats
+right like that's um
+you know and I I think um there's
+nothing wrong with that right like
+that's the other great thing about not
+going down the VC route is we we don't
+care like you know like we we we
+actually don't care and because we've
+got no there's no clock ticking in the
+background um around anything to do with
+a business at all right and that's um
+that's that's the thing that we avoided
+selling when when we decided not to do
+that path yeah yeah being a able to
+compound at your own rate like at your
+own accepted time that's that is that
+that's almost a gift to you as a as a
+business owner right like that you can
+make your choices without feeling this
+anxiety inducing pressure of some random
+arbitrary choice that was made two years
+ago right yeah right yeah you know youve
+done your seed round right now you need
+to grow X um month over month to get to
+the next stage and then why and then you
+know like we we don't we've never had
+that
+and um you know so like I'm happy you
+know yeah may maybe maybe the business
+could be bigger um you always can but I
+mean who cares like right it probably
+makes it much more interesting to look
+at the future of the business right if
+if that's not just growth numbers that
+you're looking at you can also look at
+completely different things what does
+the future hold for Blacksmith where do
+you want to take it yeah so that that's
+um having a sustainable like open source
+project that's been super important to
+us as well right like leaving leaving a
+a a really um well
+engineered
+usable reliable platform that people can
+use for free has been like really really
+um important and we've never
+been shy of saying you know we're going
+to make the samel component closed
+Source because that's how we make our
+money and that's how the business stains
+itself and that's how we have five
+Engineers working on the product full
+time um you know making the product
+better so we've never been um shy about
+doing that um it's also interesting as
+well because we've always wanted to have
+a very defined focus of what the product
+does and there's always been a
+temptation to go like oh we could do
+analytics as well or we could do like
+engineer ing analysis and we could like
+look at you know I don't know cycle time
+of flags and blah blah blah maybe maybe
+we might do something in the very
+distant future around that but we've
+never we've never you know I I don't
+know like make it really good for like
+AB testing and so area of concern for
+what the product should the problems the
+product should solve has always been
+quite rigid and quite
+narrow and so we're kind of getting to
+the point where we we're sort of this
+this features coming down the line
+around like being able to wrap a
+collection of um changes together to to
+form a release and and doing stuff for
+larger teams like we just did a much
+more finely grained like permissioning
+system based on tags so that multi
+multi-team single projects with multiple
+teams aren't stepping on each other's
+toes and stuff like that and that that's
+another thing as well that I think you
+never hear and maybe we should hear more
+often is like
+you know and maybe like the feature set
+is pretty much like we're kind of you
+know like that's kind of like that's
+fine um there's a constant sort of
+constant uphill battle dealing with
+framework
+changes um especially in the javascripts
+ecosystem um php's very very well
+behaved for that I think and larell is
+like um you know making it
+secure making it performant having it
+you know all constantly improving the
+the ergonomics of running it installing
+it upgrading it all that sort of stuff
+but in terms of like what it looks like
+when you log in in three years it's
+going to look the same I think I mean
+like it might have a sty refresh or
+something but in terms of like what it's
+for and what you can do with the
+platform it's probably not going to be
+different yeah that is so refreshing to
+hear it is so refreshing to hear
+somebody say hey I like what we have and
+I think it's fine we might do you know
+operational stuff performance stuff
+obviously that's just because there are
+so many externalities that you need to
+take care of right Integrations and
+whatever but that's that's always out of
+your control so you need to react to it
+but proactively we have what we need and
+I I love this tight scoping and then you
+you fill it with your product and then
+your product is for the lack of a better
+term done or you know feature complete
+like words we don't usually say in in
+software engineering but it's enough and
+we're lucky as well because the concept
+of feature Flags just this dynamically
+controllable Boolean at its simplest is
+so powerful in terms of like especially
+for larger teams that you know it's
+almost like you're kind of if you if you
+put too much you know like the dish is
+perfect right like and then if you just
+start adding a bunch of stuff then
+you're kind of like what you know like
+you're almost kind of like encouraging
+bad engineering practices if you start
+putting fireworks and whizbang features
+everywhere because people have lost
+sight of like what it's there for in the
+first place as well yeah yeah it's it's
+kind of like a very specific knife that
+a chef would use like it's it's it's not
+meant to be the the knife for everything
+it's a very specific professional expert
+level tool and it should stay that
+because I think I mean that's almost the
+unix's philosophy of of small tools
+right exactly yeah very much so I I like
+that like do one thing really well and
+if you need to do another thing build
+that other thing but leave the first
+thing alone I love that yeah that's that
+that philosophy has definitely been a
+lot of what what we've you know it's so
+easy to say yes to building a new
+feature but is so so much harder and and
+takes so much more control to say no for
+short well I I love this I love your
+approach to things I love the choices
+you made along the way the rationale
+behind them it's really really cool and
+I love the whole journey it's really
+nice to see something bootstrapping and
+then going the weird entrepreneurial
+path of doing whatever needs to be be
+done right it's just wonderful to watch
+and I I hope that your journey still has
+many decades to come for for for anybody
+who wants to join you on the journey and
+wants to see like what you've been doing
+what you've been working on where should
+people go to follow you and see what
+you're working on yeah so um github.com
+Flags Smith that's the the first place
+to go uh we have a Discord server um
+which uh people can join and hack around
+like all all of the stuff
+um is is is is findable from from there
+flow smith.com is the website um and
+then yeah the other one to shout out is
+um open feature which is open feature
+dodev and there's a cncf
+slack that has an open feature Channel
+as well
+um there's definitely um a ton of work
+like the open feature
+surface area of work is way way larger
+than ours um and so I would um yeah if
+people are interested in Fe pling or if
+they've used it and they want to um get
+involved in um a growing um cncf
+projects um which is kind of cool um
+there's also yeah like um we'll be at
+the cubec con in
+London in I think it's either February
+or March and there's an open
+feature like morning I think it is where
+people can all get in a room and nerd
+out about um like feature flagging and
+and figure out what to work on so yeah
+that they're the they're the main places
+to check us out yeah that's exciting and
+I love this I love that you're shouting
+out this this movement that's really
+cool like that that's really really
+wonderful thank you so much for sharing
+all of this with me today that was quite
+insightful was an absolute pleasure
+thank you so much thanks for having me
+OB and that's it for today thank you so
+much for listening to the bootp founder
+you can find me on Twitter at Aid a KL
+find my books on my Twitter c 2 and if
+you want to support me in this show
+please tell everybody you know about
+pocan FM leave a rating and a review it
+makes a massive difference if you show
+up there because then the podcast will
+show up in other people's feeds any of
+this will help the show thank you so
+much for listening have a wonderful day
+and bye-bye
+[Music]

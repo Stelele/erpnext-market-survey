@@ -1,0 +1,52 @@
+{
+  "topic_id": 156416,
+  "title": "Workers Not Processing Any Webhook Queue ",
+  "slug": "workers-not-processing-any-webhook-queue",
+  "category_id": 57,
+  "tags": [
+    "erpnext",
+    "frappe"
+  ],
+  "created_at": "2025-11-04T12:38:48.964Z",
+  "last_posted_at": "2025-11-04T12:38:49.045Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/workers-not-processing-any-webhook-queue/156416",
+  "views": 31,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "raghavendra",
+  "posts": [
+    {
+      "id": 485601,
+      "username": "raghavendra",
+      "name": "Raghavendra Pratap Singh",
+      "created_at": "2025-11-04T12:38:49.045Z",
+      "cooked": "<p>Hello, I’m having trouble getting any web-hooks to fire on my self-hosted Docker installation.</p>\n<p><strong>Symptoms:</strong></p>\n<ol>\n<li>\n<p>When I update a document (like ToDo or Attendance Request), the Webhook Request Log remains completely empty.</p>\n</li>\n<li>\n<p>I have confirmed my webhook configuration is correct (JSON body, no condition, on_update event).</p>\n</li>\n<li>\n<p>I have tested with a public URL from webhook.site and it receives nothing.</p>\n</li>\n</ol>\n<p><strong>Diagnostics I’ve run:</strong></p>\n<ol>\n<li>\n<p>I have checked the Redis queues using redis-cli (LLEN “queue:short”) immediately after triggering an event, and the queues are always at 0. This means the job is not being enqueued.</p>\n</li>\n<li>\n<p>I have run docker-compose down and docker-compose up -d for a full restart.</p>\n</li>\n<li>\n<p>I have run bench --site all clear-cache and bench --site all enable-scheduler inside the container.</p>\n</li>\n<li>\n<p>The main website is working fine, so the database and web processes are healthy.</p>\n</li>\n</ol>\n<p>This seems to indicate a problem with the process that enqueues background jobs. Can anyone suggest what to check next? My worker logs are not showing any obvious connection errors after the restart.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/r/c57346/{size}.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 11,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "topic_id": 155420,
+  "title": "Attachments not going with email (Communication)",
+  "slug": "attachments-not-going-with-email-communication",
+  "category_id": 6,
+  "tags": [
+    "customization"
+  ],
+  "created_at": "2025-10-13T09:09:56.984Z",
+  "last_posted_at": "2025-10-13T09:09:57.058Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/attachments-not-going-with-email-communication/155420",
+  "views": 24,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "TalhaButt2508",
+  "posts": [
+    {
+      "id": 483820,
+      "username": "TalhaButt2508",
+      "name": "Talha Butt2508",
+      "created_at": "2025-10-13T09:09:57.058Z",
+      "cooked": "<p>Using this → Attachments arent going with emails</p>\n<p>frappe.ui.form.on(“Sales Invoice”, {<br>\nrefresh(frm) {<br>\nif (frm.doc.docstatus === 1 &amp;&amp; !frm.is_new()) {<br>\nfrm.add_custom_button(“Request Cancellation”, () =&gt; {</p>\n<pre><code>            const user_name = frappe.session.user_fullname || frappe.session.user;\n            const user_email = frappe.session.user_email || frappe.session.user;\n            const invoice_link = `${window.location.origin}/app/sales-invoice/${frm.doc.name}`;\n\n            const footer_html = `\n                &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;\n                &lt;p&gt;&lt;a href=\"${invoice_link}\" target=\"_blank\"&gt;View Invoice&lt;/a&gt;&lt;/p&gt;\n                &lt;br&gt;\n                &lt;p&gt;Regards,&lt;br&gt;${user_name}&lt;br&gt;${user_email}&lt;/p&gt;\n            `;\n\n            // Collect current attachments from the document\n            const attachments = (frm.attachments?.get_attachments() || []).map(f =&gt; ({\n                name: f.name,\n                file_name: f.file_name\n            }));\n\n            const composer = new frappe.views.CommunicationComposer({\n                doc: frm.doc,\n                subject: `Request Cancellation: ${frm.doc.name}`,\n                recipients: frm.doc.owner,\n                message: footer_html,\n                title: \"Add Cancellation Request\",\n                send_email: 1,\n                attachments: attachments, // 👈 include existing doc attachments\n                send_action: function() {\n                    // Validate \"Send me a copy\"\n                    if (!composer.dialog.fields_dict.send_me_a_copy.get_value()) {\n                        frappe.throw(\"You must enable 'Send me a copy'.\");\n                    }\n\n                    // Validate message content\n                    const message_content = composer.dialog.fields_dict.content.get_value()\n                        .replace(/&lt;br\\s*\\/?&gt;|\\s+/g, \"\")\n                        .replace(/&lt;[^&gt;]*&gt;/g, \"\");\n                    if (!message_content) {\n                        frappe.throw(\"Message cannot be empty.\");\n                    }\n\n                    // Send the email with attachments\n                    frappe.call({\n                        method: \"frappe.core.doctype.communication.email.make\",\n                        args: {\n                            doctype: frm.doc.doctype,\n                            name: frm.doc.name,\n                            recipients: composer.dialog.fields_dict.recipients.get_value(),\n                            subject: composer.dialog.fields_dict.subject.get_value(),\n                            content: composer.dialog.fields_dict.content.get_value(),\n                            send_email: 1,\n                            attachments: attachments // 👈 send with attachments\n                        },\n                        callback: function(r) {\n                            if (!r.exc) {\n                                frappe.msgprint(\"Cancellation request email sent\");\n                            }\n                        }\n                    });\n\n                    composer.dialog.hide();\n                },\n            });\n\n            // Auto-check and require \"Send me a copy\"\n            composer.dialog.fields_dict.send_me_a_copy.set_value(1);\n            composer.dialog.fields_dict.send_me_a_copy.df.reqd = 1;\n\n        });\n    }\n}\n</code></pre>\n<p>});</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/talhabutt2508/{size}/89640_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 10,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "topic_id": 157008,
+  "title": "Plaid integration not creating bank accounts",
+  "slug": "plaid-integration-not-creating-bank-accounts",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "integration"
+  ],
+  "created_at": "2025-11-19T05:34:19.498Z",
+  "last_posted_at": "2025-11-19T05:34:19.677Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/plaid-integration-not-creating-bank-accounts/157008",
+  "views": 37,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "bdinnerv",
+  "posts": [
+    {
+      "id": 486863,
+      "username": "bdinnerv",
+      "name": "Ben",
+      "created_at": "2025-11-19T05:34:19.677Z",
+      "cooked": "<p>Hi All,</p>\n<p>I am trying to add some new bank accounts via the Plaid integration, but after going through the whole process - signing into plaid, selecting my bank, authing against the bank, selecting my bank accounts and then selecting the company, it all seems to go well but when I go to the Bank Accounts List page, there are now new Bank Accounts created. I have checked the error log and there are no messages in there so not sure where to look.</p>\n<p>Has anyone got any points on what to check to figure out why the integration is not creating the bank accounts?</p>\n<p>Thanks</p>\n<p>Ben</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/b/8edcca/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 13,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

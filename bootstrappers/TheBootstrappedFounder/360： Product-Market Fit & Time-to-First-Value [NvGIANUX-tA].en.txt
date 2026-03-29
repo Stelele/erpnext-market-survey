@@ -1,0 +1,486 @@
+﻿hey it's Arvid and this is the bootst
+[Music]
+founder this episode is sponsored by
+paddle.com a company that truly has
+found product Market fit which is the
+topic of today's episode and if you want
+to focus your efforts on finding your
+product Market fit I highly recommend
+using paddle cuz they take care of all
+the things like taxes refunds chasing
+after invoices for you so check them out
+at paddle.com
+the journey to product Market fit which
+is the topic here has always been
+fascinating to me it's probably one of
+the most fascinating things in
+entrepreneurship because it's a journey
+of struggle and overcoming obstacles and
+all that and my personal experience with
+pot scan has been quite enlightening and
+challenging so while we're not yet
+profitable we're really close but we're
+not we're getting that much closer every
+single month there's constant growth and
+I want to share some insights about how
+we're finding our way there with you
+here today CU I think there's something
+to learn or at least something to maybe
+try to replicate attempt or change your
+own ways so from the start I struggled
+with clarity about what poan was going
+to be because when I started building
+this the potential for what it could be
+seemed vast like massive with these
+transcripts and then data mind insights
+from every podcast conversation out
+there like seconds after it's being
+released I I was wondering like what
+couldn't I do right podin could do
+everything we could be this alerting
+system um Dimension tracking platform a
+tool for downloading somebody's entire
+thoughtscape everything they ever said
+or were even talked about from the
+Internet or maybe even be this
+comprehensive data platform for allowing
+others to analyze podcast Trends over
+time or categories or geographic regions
+all of these are valid use cases and
+people actually use pocan for each of
+these I have customers doing one of
+these things exactly and they're paying
+for it but as a solopreneur focusing on
+multiple directions simultaneously is
+always challenging and it's not always a
+good idea each use case requires
+different positioning I need to talk
+about the business differently I need to
+emphasize what the product can do
+differently and I have to communicate
+the value of the business of a
+subscription for that matter in a
+different way so when I talk to a
+podcast marketing agency they don't care
+about like data extraction file formats
+or API specifications they need to know
+if they can effectively place their
+clients on podcast that is the job that
+they were hired for and conversely
+business is building on top of PODS
+scan's firehost API all the transcript
+data that is sent out as soon as we
+transcribe a podcast well they don't
+need our alert tracking component or the
+ux for that they don't care they just
+want reliable access to Raw data and
+then do whatever they want to do with it
+so it's all about perspective here so
+while juggling all of these different
+possibilities I think a pattern emerged
+for me over the last last couple months
+there's one particular customer type for
+whom potkin value is more immediately
+apparent than to others right one of
+them stands out and that's podcast
+agencies when they log in they instantly
+understand how they can search for
+podcasts and track their clients names
+and mentions and get notifications that
+then help them Place their clients on
+shows it's very clear it's actionable
+and it's a value prop that I can
+highlight and this realization that I
+can kind of focus on this let to some
+crucial product decisions that I made
+over the last month or so initially in
+the beginning notifications for podcasts
+were quite basic I had the podcast name
+the episode title maybe a thumbnail and
+then the text of the menion itself that
+was the basic version I thought that was
+enough cuz people could then you know
+take action it was sufficient for that
+but through conversations with my
+customers who use podan for booking
+podcast appearances or reaching out for
+sponsorships anything that's related to
+interacting with some podcast host
+somewhere I discovered that they
+actually had two questions that they
+needed answers for critically two very
+specific questions the first one was is
+it worth my time is reaching out to this
+podcast worth my time and the second one
+well if it is how can I most easily
+reach out and get my person placed on
+this show or get the sponsorship or
+whatever right is it worth even thinking
+about it and if so then how do I talk to
+them and the first question led me to
+tackle one of podcasting's biggest
+challenges that is audience size metrics
+like figuring out how many listeners a
+show really has because this information
+is surprisingly hard to come by podcast
+platforms like the big hosting platforms
+out there they don't publicly share
+listener accounts because of privacy and
+people don't want to talk about it and
+unless hosts voluntarily share their
+numbers it is completely opaque like
+there are podcasts out there that you
+think may have like a couple hundred
+listeners they have thousands of maybe
+hundreds of thousands of listeners you
+don't know might be a niche somewhere
+some weird Niche podcast that you think
+is like no who's listening to this and
+they have hundreds of thousands of
+people listening you couldn't tell from
+any data out there I mean there are
+signs and hints like if the podcast
+exists as kind of a YouTube show
+somewhere and they have millions of
+subscribers it's likely that the podcast
+itself also has a couple but that is all
+information that has nothing to do with
+the actual podcast itself it's adjacent
+and even the major platforms like apple
+podcast Spotify only show rankings
+within the categories if things even
+chart but never actual listener numbers
+at least not reliably you won't find
+download counts per episode anywhere
+public it's all estimated or if people
+talk about it it's super rare you have
+to really Chase these down it's
+intentionally opaque data that platforms
+and creators guard closely because
+obviously if if you have a podcast with
+a lot of listeners sharing that number
+with a potential Advertiser that's great
+right but if you don't have a lot of
+listeners but you want to find a sponsor
+well you want to make it as appealing as
+possible so you know it's it's it's very
+opaque people don't want to share it and
+this drove me to build something that I
+thought initially was impossible which
+is why I hadn't done it in uh the last
+what 6 months until I started working on
+this I built a machine Learning System
+for estimating podcast audience sizes
+the journey for that started with a
+pretty intense manual data collection I
+spent weeks gathering information about
+thousands of podcasts out there where
+hosts had publicly shared their listener
+accounts in interviews social media
+during episodes I really Dove deep and
+potan was very helpful because I could
+just search for this kind of stuff
+inside my own database which was really
+cool and for each podcast I collected
+over 260 different data points some of
+which obviously automated from my own
+data source of a podcasts right but some
+also painstakingly by going to websites
+and looking at numbers and getting them
+in for each podcast I looked at public
+metrics things like rankings and review
+counts and ratings across all these
+different platforms they were pretty
+easy to track it's just a massive chore
+to do it and then from my own database I
+inferred things like content patterns
+episode frequency how often do they
+release an episode how long are these on
+average what's the D deviation right you
+can infer a lot of interesting features
+which is what in machine learning these
+things are called about a data set just
+from the relationship between these
+things and guest appearance rates how
+many of these episodes have guests which
+is also data that PO scan has and
+automatically extracts from each episode
+I looked into historical data podcast AG
+how old is the show how many episodes
+have they released and how consistently
+are they publishing was there a break is
+it very consistent uh looked into
+engagement signals like is there social
+media presence attached are their
+traffic indicators for the website and
+then looked into the categories that
+this podcast is ranked in as well
+because there you can kind of tell
+depending on the category a show is in
+that also affects how big the audience
+might be so the real challenge after
+collecting all of this data came in
+building the machine learning model
+itself I implemented it directly in my
+PHP application which was adding a layer
+of complexity on top because most
+machine learning stuff happens in
+languages like python right that's
+that's kind of the data analysis and
+data extraction language that is used
+quite a lot in machine learning a lot of
+the AI stuff of the generative AI a lot
+of the the Cuda systems like all the GPU
+things that happening out there with
+graphics cards Computing a lot of data
+is sitting on top of python but I chose
+PHP because I wanted the model to happen
+directly inside my larel application I
+didn't want to have a micros service
+anywhere I wanted this model to be
+represented as some kind of blob
+somewhere that my application could load
+into RAM run real quick and estimate the
+audience that's what I wanted and that
+required careful architecture to handle
+the computational load quite efficiently
+and the system that I have uses a neural
+network with multiple hidden layers and
+then performs gradient descent on top of
+that uh to optimize for finding the best
+correlations between these input
+features and known audience sizes that I
+tracked and one of the trickiest aspects
+here was handling outliers and
+incomplete data there are ways to do
+this in machine learning I learned a lot
+about machine learning and trying to get
+this podcast estimator going not all
+podcast has these 260 data points
+available you know not every show has a
+ranking on Spotify or not every show has
+a YouTube channel attached but the
+system needed to be able to work with
+partial information I implemented a
+weighted feature system that helps and
+adjusts the confidence based on the
+quality and quantity of available data
+it's a complex beast but it is working
+the current system achieves an
+impressive sub 3% error rate for the
+median error which means that 50% of the
+guesses that it makes are within 3% of
+the actual value which is quite
+significant in a world where podcasts
+wildly differ in terms of audience size
+and I think the biggest error that it
+creates average error is somewhere
+around 20 some 30% which also isn't too
+big that's just like you know you have a
+2,000 listener audience and 20% of that
+is what 400 so it says maybe 2.5 5K
+that's that's uh still very precise and
+the biggest error that the system
+currently has and I'm constantly
+training new models in the background
+I'm talking about the current like right
+now model that I have has like um what
+is it uh a th% like a 10x so it might
+say well it's it's a thousand listeners
+for real but it says 10,000 just because
+the data looks like it might be so still
+fine it's still acceptable for the
+outliers to have these kind of numbers
+but most of the estimates are very
+precise which is exactly what an
+estimator does right you always have the
+good and the slightly worse data but for
+everything I checked it with which is
+what I do with my actual data it's been
+very very close been really cool to
+build and to maintain and improve
+accuracy for this thing I built a
+switchable model architecture so I can
+deploy new models as they are trained
+without any service Interruption I just
+like throw them up and the system uses
+the model immediately and each version
+is tracked and evaluated so I have
+automated performance monitoring to make
+sure that it's always using the most
+accurate predictions and if it can
+predict something there's like a very
+simple just euristic to say this is a
+podcast that's like what 4 years old and
+has like 400 ratings it's probably
+20,000 or so listeners right it's a very
+like just a linear thing that I have to
+fall back on if the actual machine
+learning model is not working for some
+reason and that's just to to get a
+number in front of my customers for them
+to make a choice it was like three or
+four weeks of work just to produce this
+tiny little number that they can see and
+say yeah okay this is a podcast that I
+can spend some time on you to place my
+client it was quite some work and the
+second major challenge after I built
+this uh streamlining the Outreach part
+is requiring a completely different kind
+of technical solution here so I already
+have contact information in the database
+and that's kind of scattered across all
+kinds of data sources right some of the
+contact information lives in the RSS
+feed of a podcast some is in the episode
+description some people put it in the
+show notes there are social profiles
+that are linked to a podcast that are
+mentioned in a podcast there's marketing
+websites that are also in the feed or in
+the description and then there's
+historical information just from the
+conversations there where people talk
+about their their contact information so
+I built a contact information extraction
+pipeline that takes these sources and
+use NLP national language processing to
+identify and validate contact details
+and the system can then distinguish
+between general information and specific
+guest stuff that I can kind of put aside
+because sometimes people really just
+want to talk to the host but hey
+sometimes the guests too so I have that
+as well and then as confidence scoring
+internally to email addresses that I
+find in the official RSS feed obviously
+are more likely to be the actual email
+to reach people in than some email I
+find from an episode description or some
+something that is mentioned on a show
+but all of this goes into the contact
+data Outreach capabilities of pocan and
+with both of the audience metrics and
+the contact Data Systems in place I
+completely redesigned the notification
+system because I like I said in the
+beginning those notifications that I had
+were rudimentary they were enough but
+they were not enough they were just some
+information they were lacking the
+actionable information so now when users
+receive a mention alert they see an
+estimated audience size they see a
+growth Trend over time because I have
+historical data right over all these um
+these audience size calculations and
+direct contact options like they have an
+email if possible because the best way
+to contact is always through email or
+social feeds right there and then they
+can see okay this person is also
+reachable here and that allows them to
+just collect all of these things I have
+list feature too that I recently added
+so people can actually add these
+mentions to a list and then have a
+oneclick sport that allows them to
+connect their CRM systems to start their
+own campaigns and if there's historical
+interaction data I make this available
+too the results have been remarkable for
+this our trial to paid conversion rates
+have improved quite significantly over
+the last week or so because users find
+this clear value in these metrics for
+prioritizing their Outreach efforts
+that's what they come here to do and if
+they see that the data is actually
+helping them do it they start paying for
+the business they start paying for the
+subscription the average time from
+receiving a notification
+to initiating contact is now also much
+faster cuz they don't have to jump
+through hoops they can click on the
+email right there and an email window
+opens up right that is making it easy
+for my prospective customers to see the
+value in the platform and to use it
+immediately to get their job done so I
+don't think we're done evolving with
+this but it has been a major step almost
+micro pivoting into a more this customer
+Centric feature I think the next
+challenge here is demographics figuring
+out location gender distribution age
+range that kind of stuff this might
+involve audio analysis I'm really
+looking forward to this like trying to
+figure out what the age of the people
+talking is just from the audio data
+that's something that as a technical
+person I'm super interested in or text
+processing is still in there or maybe
+both I'm excited about yeah voice
+analysis another round of NLP for
+audience targeting figuring out the
+keywords I might actually do some kind
+of uh this age group uses these kind of
+phrases thing and from there analyze the
+way people talk to figure out who
+they're talking too and then geographic
+distribution mapping is going to happen
+content categorization is going to be
+improved and Trend detection is also a
+thing I'm working on but all of this is
+meant to help help people make a choice
+and what I've learned through this
+journey is that product Market fit isn't
+just about having valuable features like
+features are always great but it's about
+making that value immediately obvious in
+actionable to users right I've been
+extracting all of this content
+information for months but I didn't make
+it available they had to jump through
+hoops to get there and that was a
+problem and for pot scan this means
+moving away from this one siiz fits-all
+approach to optimizing specific features
+for our best fit customers the API part
+of the business serves businesses
+wanting to process podcast data
+professionally so I do a lot of
+professional API development on that
+side but the alerting system focuses on
+agencies needing quick insights and
+action path so I optimize that part for
+them and I don't think this is a pivot
+really we're not changing what podkin
+fundamentally does we're just getting
+better at showing the right value to the
+users at the right time right to the
+right users at the right time sometimes
+that means building something you
+initially thought impossible like a
+machine Learning System in PHP but when
+it serves your users core needs it is
+worth the
+effort and that's it for today thank you
+for listening to the Boer founder you
+can find me on Twitter at AIT Aid KL you
+find my books on my Twitter course T too
+and if you want to support me on this
+show please tell everyone you know about
+pocan FM and leave a rating and a review
+for this podcast by going to rate thisp
+podcast.com founder makes a massive
+difference if you show up there because
+then the podcast will show up in other
+people's feeds and that will truly help
+the show thank you so much for listening
+have a wonderful day and bye-bye
+[Music]

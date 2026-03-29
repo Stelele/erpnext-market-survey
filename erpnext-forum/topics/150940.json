@@ -1,0 +1,51 @@
+{
+  "topic_id": 150940,
+  "title": "Scheduler job not working",
+  "slug": "scheduler-job-not-working",
+  "category_id": 11,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-07-31T08:03:36.480Z",
+  "last_posted_at": "2025-07-31T08:03:36.612Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/scheduler-job-not-working/150940",
+  "views": 36,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 1,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Pkolhetkar",
+  "posts": [
+    {
+      "id": 475856,
+      "username": "Pkolhetkar",
+      "name": "prashant kolhetkar",
+      "created_at": "2025-07-31T08:03:36.612Z",
+      "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/7/3/739471a63a0ee9c586e3e28f778e3fd56b4b2cc8.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/739471a63a0ee9c586e3e28f778e3fd56b4b2cc8\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/3/739471a63a0ee9c586e3e28f778e3fd56b4b2cc8_2_690x354.png\" alt=\"image\" data-base62-sha1=\"gusWP7k1B0uDRkmKTGmEccCfVHi\" width=\"690\" height=\"354\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/3/739471a63a0ee9c586e3e28f778e3fd56b4b2cc8_2_690x354.png, https://discuss.frappe.io/uploads/default/optimized/3X/7/3/739471a63a0ee9c586e3e28f778e3fd56b4b2cc8_2_1035x531.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/7/3/739471a63a0ee9c586e3e28f778e3fd56b4b2cc8_2_1380x708.png 2x\" data-dominant-color=\"F7F7F7\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1606×824 150 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>scheduler is --&gt;erpnext.projects.doctype.task.task.set_tasks_as_overdue</p>\n<p>Traceback with variables (most recent call last):<br>\nFile “apps/frappe/frappe/core/doctype/scheduled_job_type/scheduled_job_type.py”, line 151, in execute<br>\nfrappe.get_attr(self.method)()<br>\nself = &lt;ScheduledJobType: task.set_tasks_as_overdue&gt;<br>\nFile “apps/erpnext/erpnext/projects/doctype/task/task.py”, line 349, in set_tasks_as_overdue<br>\nfrappe.get_doc(“Task”, task.name).update_status()<br>\ntasks = [{‘name’: ‘TASK-2025-56936’, ‘status’: ‘Working’, ‘review_date’: None}, {‘name’: ‘TASK-2025-25444’, ‘status’: ‘Working’, ‘review_date’: None}, {‘name’: ‘TASK-2025-59953’, ‘status’: ‘Working’, ‘review_date’: None}, {‘name’: ‘TASK-2025-38518’, ‘status’: ‘Working’, ‘review_date’: None}, {‘name’: ‘TASK-2025-47422’, ‘status’: ‘Working’, ‘review_date’: None}, {‘name’: ‘TASK-2025-24796’, ‘status’: ‘Working’, ‘review_date’: None}, {‘name’: ‘TASK-2025-58923’, ‘status’: ‘Working’, ‘review_date’: None}, {‘name’: ‘TASK-2025-69336’, ‘status’: ‘Working’, ‘review_date’: None}, {‘name’: ‘TASK-2025-69335’, ‘status’: ‘Working’, ‘review_date’: None}, {‘name’: ‘TASK-2025-69337’, ‘status’: ‘Working’, ‘review_date’: None}, {‘name’: ‘TASK-2025-59978’, ‘status’: ‘Working’, ‘review_date’: None}, {‘name’: ‘TASK-2025-39447’, ‘status’: ‘Working’, ‘review_date’: None}, {‘name’: ‘TASK-2025-52251’, ‘status’: ‘Overdue’, ‘review_date’: None}, {‘name’: ‘TASK-2025-61482’, ‘status’: ‘Working’, ‘review_date’: None}, {‘nam…<br>\ntask = {‘name’: ‘TASK-2025-52251’, ‘status’: ‘Overdue’, ‘review_date’: None}<br>\nFile “apps/erpnext/erpnext/projects/doctype/task/task.py”, line 292, in update_status<br>\nself.db_set(“status”, “Overdue”, update_modified=False)<br>\nself = &lt;Task: TASK-2025-52251&gt;<br>\ndatetime = &lt;class ‘datetime.datetime’&gt;<br>\nFile “apps/frappe/frappe/model/document.py”, line 1253, in db_set<br>\nself.load_doc_before_save()<br>\nself = &lt;Task: TASK-2025-52251&gt;<br>\nfieldname = ‘status’<br>\nvalue = ‘Overdue’<br>\nupdate_modified = False<br>\nnotify = False<br>\ncommit = False<br>\nFile “apps/frappe/frappe/model/document.py”, line 1157, in load_doc_before_save<br>\nself._doc_before_save = frappe.get_doc(self.doctype, self.name, for_update=True)<br>\nself = &lt;Task: TASK-2025-52251&gt;<br>\nraise_exception = False<br>\nFile “apps/frappe/frappe/<strong>init</strong>.py”, line 1308, in get_doc<br>\nreturn frappe.model.document.get_doc(<em>args, **kwargs)<br>\nargs = (‘Task’, ‘TASK-2025-52251’)<br>\nkwargs = {‘for_update’: True}<br>\nfrappe = &lt;module ‘frappe’ from ‘apps/frappe/frappe/<strong>init</strong>.py’&gt;<br>\nFile “apps/frappe/frappe/model/document.py”, line 85, in get_doc<br>\nreturn controller(<em>args, **kwargs)<br>\nargs = (‘Task’, ‘TASK-2025-52251’)<br>\nkwargs = {‘for_update’: True}<br>\ndoctype = ‘Task’<br>\ncontroller = &lt;class ‘erpnext.projects.doctype.task.task.Task’&gt;<br>\nFile “apps/frappe/frappe/model/document.py”, line 126, in <strong>init</strong><br>\nself.load_from_db()<br>\nself = &lt;Task: TASK-2025-52251&gt;<br>\nargs = (‘Task’, ‘TASK-2025-52251’)<br>\nkwargs = {‘for_update’: True}<br>\n<strong>class</strong> = &lt;class ‘frappe.model.document.Document’&gt;<br>\nFile “apps/frappe/frappe/model/document.py”, line 174, in load_from_db<br>\nd = frappe.db.get_value(<br>\nself = &lt;Task: TASK-2025-52251&gt;<br>\nget_value_kwargs = {‘for_update’: True, ‘as_dict’: True, ‘order_by’: None}<br>\n<strong>class</strong> = &lt;class ‘frappe.model.document.Document’&gt;<br>\nFile “apps/frappe/frappe/database/database.py”, line 514, in get_value<br>\nresult = self.get_values(<br>\nself = &lt;frappe.database.mariadb.database.MariaDBDatabase object at 0x7f3909246350&gt;<br>\ndoctype = ‘Task’<br>\nfilters = ‘TASK-2025-52251’<br>\nfieldname = '</em>’<br>\nignore = None<br>\nas_dict = True<br>\ndebug = False<br>\norder_by = None<br>\ncache = False<br>\nfor_update = True<br>\nrun = True<br>\npluck = False<br>\ndistinct = False<br>\nskip_locked = False<br>\nwait = True<br>\nFile “apps/frappe/frappe/database/database.py”, line 618, in get_values<br>\nout = self._get_values_from_table(<br>\nself = &lt;frappe.database.mariadb.database.MariaDBDatabase object at 0x7f3909246350&gt;<br>\ndoctype = ‘Task’<br>\nfilters = ‘TASK-2025-52251’<br>\nfieldname = '</em>’<br>\nignore = None<br>\nas_dict = True<br>\ndebug = False<br>\norder_by = None<br>\nupdate = None<br>\ncache = False<br>\nfor_update = True<br>\nrun = True<br>\npluck = False<br>\ndistinct = False<br>\nlimit = 1<br>\nskip_locked = False<br>\nwait = True<br>\nout = None<br>\nfields = ‘<em>’<br>\nFile “apps/frappe/frappe/database/database.py”, line 891, in _get_values_from_table<br>\nreturn query.run(as_dict=as_dict, debug=debug, update=update, run=run, pluck=pluck)<br>\nself = &lt;frappe.database.mariadb.database.MariaDBDatabase object at 0x7f3909246350&gt;<br>\nfields = '</em>’<br>\nfilters = ‘TASK-2025-52251’<br>\ndoctype = ‘Task’<br>\nas_dict = True<br>\ndebug = False<br>\norder_by = None<br>\nupdate = None<br>\nfor_update = True<br>\nskip_locked = False<br>\nwait = True<br>\nrun = True<br>\npluck = False<br>\ndistinct = False<br>\nlimit = 1<br>\nquery = SELECT * FROM <code>tabTask</code> WHERE <code>name</code>=‘TASK-2025-52251’ LIMIT 1 FOR UPDATE<br>\nFile “apps/frappe/frappe/query_builder/utils.py”, line 87, in execute_query<br>\nresult = frappe.db.sql(query, params, *args, *<em>kwargs)  # nosemgrep<br>\nquery = ‘SELECT * FROM <code>tabTask</code> WHERE <code>name</code>=%(param1)s LIMIT 1 FOR UPDATE’<br>\nargs = ()<br>\nkwargs = {‘as_dict’: True, ‘debug’: False, ‘update’: None, ‘run’: True, ‘pluck’: False}<br>\nchild_queries = []<br>\nparams = {‘param1’: ‘TASK-2025-52251’}<br>\nexecute_child_queries = &lt;function patch_query_execute..execute_child_queries at 0x7f390b18a160&gt;<br>\nprepare_query = &lt;function patch_query_execute..prepare_query at 0x7f390b18a200&gt;<br>\nFile “apps/frappe/frappe/database/database.py”, line 239, in sql<br>\nraise frappe.QueryTimeoutError(e) from e<br>\nself = &lt;frappe.database.mariadb.database.MariaDBDatabase object at 0x7f3909246350&gt;<br>\nquery = 'SELECT * FROM <code>tabTask</code> WHERE <code>name</code>=%(param1)s LIMIT 1 FOR UPDATE /</em> FRAPPE_TRACE_ID: 8a4bab9f-d4ea-4d0c-bb66-f11fe8ac3f0c */’<br>\nvalues = {‘param1’: ‘TASK-2025-52251’}<br>\nas_dict = True<br>\nas_list = 0<br>\ndebug = False<br>\nignore_ddl = 0<br>\nauto_commit = 0<br>\nupdate = None<br>\nexplain = False<br>\nrun = True<br>\npluck = False<br>\nas_iterator = False<br>\ntrace_id = ‘8a4bab9f-d4ea-4d0c-bb66-f11fe8ac3f0c’<br>\nfrappe.exceptions.QueryTimeoutError: (1205, ‘Lock wait timeout exceeded; try restarting transaction’)</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/85f322/{size}.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 13,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

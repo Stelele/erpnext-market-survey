@@ -1,0 +1,1949 @@
+﻿[Music]
+hey it's arvit you're listening to the
+bootst
+[Music]
+founder today I'm catching up with Brian
+Sakowski if you ever wondered what the
+change lock can do for you this
+conversation is for you Brian shares his
+Indie hacking journey of 2024 building a
+sass in the Chang lock space as well as
+a hardware startup at the same time ever
+the true Indie hacker he shares behind
+the scenes insights from this ser to one
+stage of two amazing businesses this
+episode is sponsored by paddle.com my
+personal payment provider of choice I
+get to work on my business full-time
+because paddle takes care of all the
+money stuff they have great apis a
+massive analytics and insights platform
+and pedal actually acquired profit well
+for this a few years ago and funny
+enough Brian was the CEO of one of their
+main competitors back in the day in the
+SAS world we are all connected and
+paddle makes it easy to get paid so
+check them out at paddle.com
+[Music]
+Brian welcome back to the show uh 12ish
+episodes ago I think episode 238 was it
+in early August 2023 was the last time
+we talked and we had this very enjoyable
+conversation about what you had been
+doing up until then and it ended with a
+cliffhanger that that I really enjoyed
+about that Chad you had a few
+entrepreneurial plans so let's catch up
+and see what happened in the meantime
+Brian was 2024 good to you as a founder
+yeah yeah I I think so I it's it's so
+funny I I've done kind of
+entrepreneurial stuff for a long time
+now I'm also the entrepreneur and
+residents at our our local accelerator
+so I'm kind of like constantly talking
+to people in that zero to one space and
+I feel like every single time that I go
+through it I'm just reminded of like how
+much harder it is and like it takes a
+lot of time um and you kind of I feel
+like every single time you you move into
+that space you realize how much you
+don't know because it's always like from
+the outset I'm like yeah you know I know
+what I'm doing I've I've built
+businesses before and I've been
+successful and you know I failed in the
+past but you know I'm not gonna like
+fail again in the future yeah like how
+silly would that be to fail again um so
+yeah I just I feel like this past year
+in particular just like a lot of the
+things that I've like kind of had the
+belief around even around like I'd say
+before this year like even thinking
+about founding team I was very kind of
+like figured at yourself first and think
+this last year I've been like oh we
+build a team around you first like kind
+of understanding the value of
+co-founders and again appreciating
+everything taking time um and I've had a
+little bit of cross trainining because
+I'm usually like a B2B sasy I got a
+chance to work with a hardware company
+that's B Toc um which is like totally
+different and in fact way harder so it's
+actually like I'm like I'm kind of like
+running back to BB sass I'm like like
+get me out of the like Hardware is like
+right like we're just like oh we need
+more we need more batteries and there's
+like one Factory in the world that makes
+batteries the way that we do and like
+we'll get like we can sell more product
+when that factory thinks it's
+appropriate to ship you know and then we
+have to get it ship you know it's all
+these things of like the delivery of
+software is not like it so yeah I I
+would say I mean this year has been been
+a whirlwind and but it's been great and
+I really feel like a lot of there's been
+a lot of culmination going on like a lot
+of the a lot of the lessons that the the
+universe has tried to teach me over the
+past couple of years are like actually I
+feel like sinking in in the past in the
+past year oh man that's great to hear
+and yeah that that sounds like a lot to
+deal with and a lot of different things
+to deal with like very opposing things
+B2B SAS b2c a hardware thing let's talk
+about it all let's let's dive into the
+details because those lessons that you
+have learned and are now applying I
+would also like to learn and apply so
+you know and probably everybody
+listening so yeah let's let's maybe
+start with the SAS here because that was
+I think the idea that you had or that
+was kind of like just brewing in the
+background back in the day right yeah so
+what was the idea back then and how did
+it progress from there yeah you know I
+kind of I I I did the thing that I feel
+like every SAS founder especially like
+multi-time founder does of like you get
+to the end of a journey such such as it
+was and you kind of think about the next
+thing and you're not necessarily
+thinking about diving back into
+entrepreneurship but you kind of like at
+least this is what I do and I think this
+is pretty common of like you kind of
+look back in your recent experience and
+be like well what was really frustrating
+and what sucked and like what you know
+and maybe also if you're lucky like
+what's changed in the world such that we
+can like solve that problem and so I
+thought back to my time at Team password
+um and we were kind of like constantly
+owned by not updating our change log and
+I remember like it happened a bunch but
+I remember we had this one sales
+conversation and the guy I was working
+with was really nice and it was like
+this Enterprise that was really like way
+outside the size of like who we should
+like they they went with another company
+I think they went with last past um but
+the the person I was working with was
+really trying to you know was trying to
+do a good job at like bringing team
+password up in the best possible light
+and so he like shared the spreadsheet
+with me of like here's like how we how
+we compared all the different tools and
+like it was like this might be my memory
+um but I I I remember you know product
+like frequently updated was like the
+first item on the list and we had like a
+big a through ours
+and it wasn't the casee that we weren't
+updating the product frequently that we
+weren't updating a change log and we
+weren't doing those extra steps and then
+I also you know fast forwarding a little
+bit my experience at barom metrics we
+talked there's a whole episode about you
+know kind of the price increase but I
+kind of think back to that and it's like
+we were really working we were doing a
+ton of product work and we we had this
+big bug backlog and when we did the
+price increase we got totally owned
+again anybody who wants to like you know
+revisit that we've got a full episode on
+it um but I just kind of think back of
+like well you know what if there's a
+world where we were like once a month
+updating that or what if it looked like
+what if we were updating that change log
+like once a week or what if we had like
+three to five updates a week in that
+change log for like a year and then when
+we announce a price increase there's
+like you know a hundred updates that's a
+much different like and we didn't have
+to do any more product work we had to
+tell people about it so that was kind of
+the problem that sort of stuck with me
+and so I'm like well
+can we like can we solve this like how
+do I make sure that Brian in the future
+like never gets gets owned by like a
+change log related problem in the future
+and that's really kind of where all the
+AI stuff came in and that was sort of
+the switch for us because the idea
+before that was like one of the problems
+with writing chain logs is that it's
+like it's very unique work like you need
+to be like technical enough to
+understand the changes you need to
+understand the customers you need to be
+able to understand what the you know
+product team you know there's like a
+whole process this went through um and
+then you need to have enough like sales
+and marketing so that you can take that
+change and phrase it in such a way that
+like here's why we did it here's why
+your company should pay us more money or
+you know like here's the business
+benefit to to making this change um and
+everybody is super busy um so the the
+idea sort of before we got to what we've
+landed on right now was like well we
+could kind of centralize all this
+information in one place like right now
+there's like conversation happening in
+GitHub there's conversations happening
+in linear or whatever PM tool you're
+using there's like slack conversations
+and then there's actually like code
+being written there's like pool requests
+and like diffs like actual like lines of
+code changing so that was kind of our
+first idea of like maybe we can like
+centralize all these things in one place
+so that a human could possibly do it not
+that they not that they will be able to
+be successful but like it's just like
+literally impossible task if you don't
+have that information in front of you
+and so then AI comes along and you know
+they they kind of like you get the a
+idea of like what if what if the change
+log just writes itself like what if we
+could train an engine that you know the
+the first version I kind of make the
+joke that we're on like update engine
+six right now the first version we're
+like hey what if we just like ship a
+bunch of commit messages over to open
+aai and say RAR updates um and that
+obviously sucks for a lot of reasons um
+and you know we've gone through tons and
+tons and tons of changes where it's like
+oh well you just like I think that's one
+of the cool things about the AI
+development cycle like it becomes very
+apparent where the gaps are it's like oh
+like this update's just like doesn't
+have enough information it's okay cool
+we need to bring in more context and
+then it's like oh like this was
+technically correct but it doesn't
+understand who our customers are it's
+like okay cool we need to like load in
+context about the business and then like
+oh this update is correct for the
+customers and correct for what the
+change is but it doesn't understand the
+history of the product so okay we need
+to build in kind of that you know so we
+kind of it's like pipelines on top of
+pipelines and eventually you get to the
+point where hopefully I think we still
+have like I'd say the update engine's
+like 80% of the way there but like you
+get to the point where it's like oh like
+I I remember it was like earlier this
+year the first update was written and
+I'm like oh this is like I would share
+this with people holy crap like the
+computer computer did this for me um and
+you know and doing that through a bunch
+of different changes there so um yeah
+sorry it was a little bit little bit of
+a little bit of a ramble exciting
+accelerated yeah Journey but yeah it's
+kind of where we got to today of like
+getting to a product where you know
+we're we're still in the phase of like I
+I want to get to the point where this is
+like a tool that's like indispensable to
+people um and something that also can
+kind of operate handsfree um and so you
+know that that's kind of the phase we're
+in now of kind of going to people and
+trying to be like convince them um I've
+also learned a lot about like Ai and an
+interesting Insight that I've had
+recently is that people are like pretty
+burned by AI I I was talking to a guy
+just like earlier and and he was like
+yeah I think your product's really cool
+but I just like don't believe it and I'm
+like what do you mean and he's like well
+it's like yeah I've signed up for a
+bunch of different AI stuff and they all
+like make all these huge promises and
+like it doesn't you know none of them
+ever worked out and so we're actually
+building like weaker versions of our
+product not because we can't
+automatically like we can read the code
+changes understand the diffs and you
+know actually write write the updates
+even if you know the commit messages are
+terrible which they frequently are um so
+we we've actually had to kind of take a
+step back and be like okay we kind of
+need to people are just like maybe not
+going to believe that the product can do
+that so we need to like walk them into
+like okay well what if we just build
+like a really nice change log that is
+hosted for you and integrates and does
+all this like distribution stuff for you
+um but that's been a really interesting
+learning as well of like some people are
+we're in the stage of the hype cycle
+where people have tried AI stuff and
+they are chat GPT rappers that don't
+actually deliver on the promise and so
+now we need to handle that from like a
+marketing and from a a product
+perspective I've heard this a couple
+times I've actually seen this with with
+several people that I talked to recently
+is that people just do not trust AI
+because they've been burned and to be
+able to convince them you effectively
+need to give them access to the product
+for free because otherwise they just do
+not believe it like even if you show
+them a demo they like ah this is just a
+demo this this could be like wired
+together in the background they want to
+they want to have This Magic Moment that
+they so desperately it's still kind of
+internally believe can exist but have
+been burned away from and that is that
+is actually a big expense for Founders
+that makes makes it really hard to
+calculate stuff like what what is the
+the cost of acquisition here like do I
+need to give this person access to the
+full tool and they need to be able to
+like spend $50 worth of open AI credits
+just to be able to get that one first
+Magic Moment Like That is a problem how
+do you deal with this kind of stuff yeah
+I think that well the one of the
+interesting things is like in our
+strategy to kind of stair step people
+into the product all the most expensive
+AI stuff is kind of at the like our full
+imagining of the product is also the
+most expensive from like a credits
+perspective so like the the initial the
+initial like kind of like phase zero is
+like well if you don't have a change log
+that's public I think that's that's
+really important to us like at the
+outset of this project I wrote a 92 page
+blog post about why like updates are
+important and all that sort of stuff um
+so I kind of like it was supposed to
+just be like a you know a one-pager to
+uh anyway you know how that is um
+somebody who's written a book before um
+maybe by accident um but yeah so that
+was kind of the initial thing of like
+well why don't we just like go into the
+space and provide a a change log that's
+easy to update and that you know kind of
+one of the kind of Initial Ideas is like
+we unders share these updates so kind of
+building in a lot of the distribution
+stuff of like okay you you know people
+are barely publishing enough updates but
+it's like okay well are you sharing it
+to social are you re-sharing at the
+social are you um capturing an email
+list we kind of have this like full
+Suite of like distribution style
+features that really have nothing to do
+with AI um but are kind of like
+necessary to kind of achieve the goal of
+you know the the 92 page uh blog post um
+and then you know and then kind of like
+stair stepping people into it so kind of
+the next level up kind of the middle
+tier and this is kind of how we're doing
+our pricing as well at least thinking
+about it now it's like the first one is
+like just a change log and I don't
+remember the number we put on it it's
+like you know 40 bucks a month or 30
+bucks a month or something like that you
+know and then it's not too high yeah
+yeah and then the next one up is like
+okay now we're going to put the power in
+your hands and so you can connect your
+GitHub account you can connect your
+linear account but you can go through
+and
+um I don't know if we should be kind of
+sharing this analogy publicly but it's
+really made sense to us is like you can
+kind of create like a shopping cart of
+like hey like I want to write an update
+here are the linear tickets that are
+relevant here are the PO requests or
+here's the commits that are relevant and
+then as we like add more Integrations in
+it's like hey here's the slack
+conversation or whatever you know and
+then I want you to I'm going to direct
+the AI and say like hey this is what we
+want to write the update around and so
+that's kind of like the middle ground of
+like there's a human in the loop but
+it's kind of there's that frustrating
+thing when you go to write an update you
+launch the page and it's a blank sheet
+of paper and you have to write it so um
+you know that's kind of the middle tier
+and then the tier that kind of where we
+started and what we thought people were
+going to want but it turns out people
+are kind of most skeptical about there's
+a sort of like autopilot feature of like
+yeah we'll just like monitor all the
+changes that are happening within your
+company we will do an evaluation of
+whether or not this is worth writing
+about like and that's really comes down
+to like do we think there's customer
+value on the other side of this thing
+which is obviously a little bit fuzzy
+and something we we obviously um as
+obvious room for for improvement there
+um and then we will we will tell you
+like we'll kind of serve as like your
+Junior product marketing associate and
+this you know this helpful little bot's
+going to like bring you updates and say
+like hey if you want to edit it um
+you're welcome to edit it or you can
+just approve it through um and so that's
+kind of like the the premium tier that's
+like the the $4.99 a month um version
+and so we came to that idea not through
+like a means of like monetization but
+just from like well if we can't get
+people to trust us with like writing the
+updates at all then I it just feels like
+it's just a big leap to be like hey it's
+it just the kind of startup problem too
+it's like hey we're this startup uh I'm
+Brian you might have seen me online you
+might have seen some positive things or
+some negative things but here I am um
+and um if you don't mind we'd love you
+to sign up for an account create a
+password and oh by the way um we want
+you to connect your GitHub uh and we
+want to connect your your your project
+management tool and your CMS um and then
+maybe we can deliver you some value it's
+like kind exactly what you were saying
+it's like that moment of that moment of
+like uh Epiphany is like behind oh like
+wait I have to give you access to all my
+source code like what are you what are
+you doing with this or a lot of times we
+have people like hey can you like can
+you just like just read the commit
+message and not the diffs and it's like
+yeah we tried that man I'm sorry like we
+we wish we could do that too but we
+actually realized we needed like a step
+in the process to like actually review
+the diff and understand the nature of
+the code being changed in the context of
+who your business is and like in the way
+that a human would right it's like they
+would they wouldn't just like look at
+the message and be like this is what it
+is they would probably have a meeting
+which sucks with the you know with one
+of the developers and be like what is
+the nature of this change like why are
+we doing this and so we kind of have to
+do that stuff yeah and then the
+developer would translate the code that
+they have in their mind into something
+that can actually be communicated which
+is what the AI does too brings me to
+another point because like the first
+thing we talked about was people being
+skeptical of AI in general like of the
+promise of AI and the results that it
+that it can deliver but sometimes does
+not if people don't really put the
+effort in which you're clearly doing
+like this feels like a um like an very
+very interesting like I'm as at the
+software developer and entrepreneur I'm
+super excited by this I'm trying to
+contain my excitement for this
+conversation so we can actually talk
+about you know please I don't want I
+don't blush too much you know but no
+it's really really cool because I I also
+struggle with this so it's it's a pain
+point that I feel right now but I I also
+like feel the other side of things the
+entrepreneurial side where people are
+like ah AI we don't trust it and AI you
+can't trust it like that's the other
+thing like the whole privacy angle of of
+things right and I talk to a lot of
+people who run AI assisted or AI enabled
+businesses that have for that reason
+went into local llms and on premise
+deployment or you know cloud like
+private Cloud kind of stuff so where
+where's your perspective with with
+changeb there like is it going to stay
+as s or are you going to go into the
+Enterprise you kind of oh no you run
+your own AI kind of thing yeah that's
+that's a really great question and so
+there's kind of like two different
+directions on that so you know just in
+like the sheer choice of tools it feels
+like we are I don't know it changes like
+every month but it feels like using like
+model specifically trained around a
+specific task will get you the best
+results so for example we should use a
+model if we're doing code comprehension
+we should use a different model then the
+model that is writing the update and
+taking all that data and writing Pros um
+or you know and so I think like that's
+kind of like one big piece of when you
+talk about talking about getting like
+where are we going to host this and
+where's it going to be and who you know
+what's involved I think a big part of
+that is like well how again our very
+first goal was like the updates need to
+be well written like because if we don't
+get there then it's like nobody's going
+to use the product th those were those
+were kind of like we have three product
+PR pillars like one the updates are like
+great they're well written and then the
+second thing is that there are a lot of
+them because it's like if we can write a
+great update but it's only once a year
+it's like okay we can beat that and then
+the third thing is that the updates are
+everywhere and so it's like well it's
+okay you've you have all these great
+updates that are well written and
+there's a ton of them but if nobody ever
+gets a chance to read them then you
+don't get the value so so that's kind of
+a part of it from the you know from the
+technology perspective we want to be we
+want to be really I don't know and again
+it's like the next version of open AI or
+whoever you know next state-ofthe-art
+could come out and maybe the code
+evaluation in that new model is better
+than all the other ones and you can kind
+of like go back into one but I think
+that's kind of a core consideration of
+like from like a security perspective
+and from a data perspective of like
+which tools are you using you you get
+some benefits also out of using these
+big models because it's like some of the
+things that if you're going to locally
+host an llm then you need to be worried
+about leaks and you need to be worried
+about things like your your model
+sharing data from one customer with
+another customer and like you kind of
+run into that area so we're kind of of
+the perspective of like we we we've
+actually we've done a lot of work in
+this space but we don't we had one of
+our potential customers be like hey can
+you like share a document on me with me
+of like what are you doing from a
+security perspective and I'm like oh
+yeah that totally makes sense as far as
+why you would want that and we should
+write that up but we're kind of going
+through the process right now maybe by
+the time this launches we can that to
+point to as an example but you know
+there's all the stuff you can do as far
+as like well what do you encrypt and
+what do you store and like you know for
+us we don't store any of your code
+because we don't we don't need any of
+your code and we also have kind of the
+special benefit of like because we're
+writing change log entries the end
+result of what we're generating is meant
+to be public so like even as we are
+going through the process like we're not
+asking for anything that's like we're
+we're kind of almost intentionally
+turning down any sort of tech talk that
+might indicate what's going on behind
+the under the hood because it's like
+that's also just like not relevant and
+um it's like a it's like an error case
+like it's like a a failed eval for us if
+like the update is too technical um what
+sometimes it will do if the update is
+too small and the lm's like just looking
+for stuff like oh we have to kind of
+like talk about this a little bit more
+but yeah I I think it's like it's really
+important to like do all the normal data
+security stuff right so it's like don't
+store more information than you need
+obviously and anything that's like
+sensitive it needss to be encrypted and
+you also need to make sure that you are
+conscious of all the new llm stuff so
+like leaks are like a really big thing
+of like data from one customer it's it's
+kind of funny to consider this because
+like this was the you know whatever 10
+years ago in web development it was like
+really common for data from one customer
+to get into another like kind of the
+idea of having a multi-tenant web
+application was like that was like a new
+idea and so I kind of it almost feels
+like we're kind of back there and and I
+sort of feel like the same lessons that
+we learned you know 10 years ago on the
+web we need to do the same thing um the
+one thing that I might we haven't done
+this yet but it's m maybe to your point
+of like joining those two topics
+together of like the right Tools Plus
+like the right process is we've thought
+that once we have a bunch of customers
+and we have people editing the updates
+so we're delivering updates and maybe
+they're editing them it might make sense
+to do a like unique fine-tuned model for
+each of those customer custom just based
+off of the style of the like it's like
+outside of who your company is and what
+you do and you know anything else it's
+just like this is the style of update
+that we like and that that's kind of
+like a nice like kind of final surface
+layer that we can apply that will just
+this is like we we know what the inputs
+were and we know what you want the
+outputs to be so that that's kind of
+like a nice fine-tuning situation to be
+in so that might be a situation of like
+maybe that final maybe that final mile
+goes with the customer or yeah where to
+where to host it is kind of an open
+question but um also kind of learned too
+it's like it's kind of the classic thing
+of like people don't want to deal with
+this stuff which is why they're not um
+it's why they're not doing it now so I I
+think for the foreseeable future we will
+regardless of what the infrastructure
+decision is we will we'll manage it but
+we have gotten a lot of it's funny you
+mentioned I'll say one last thing that's
+you asked one question and you just you
+set me off man
+uh one of the big questions we had is
+like who is this product for and those
+were the two paths it's like hey this
+could be for larger Enterprises who I I
+spoke with one woman who runs a she's
+like we have a huge product marketing
+team their company has a thousand
+employees and they have eight people in
+the product marketing and that's like a
+huge product marketing team so it's like
+product marketing teams are like they
+are it's like them versus the world and
+so that's where we really got a lot of
+the insights of just centralizing for
+them it's like if we could just pull
+even without doing all the AI stuff um
+if we just pull all of that information
+about what's going on inside of the
+organization into one place that would
+be super useful to them like that's
+probably that's probably an open
+opportunity um and that kind of that
+kind of takes us in like a top down
+product strategy where we're like okay
+well what systems do you have where is
+that information what format is it in
+natively what format do you need to be
+in and we kind of like custom build a
+product based off of that Enterprise and
+there's there's common shared core
+across all of those different products
+but it would be like a very like
+Integrations and kind of a you know
+there would be like a three-month
+onboarding you know it's like it would
+be like an Enterprise sales thing and so
+we've actually decided to move more for
+smaller teams that are you know maybe
+they don't have a thousand employees
+maybe they have like five um but the
+thing that I went back and forth on this
+for a long time um the thing that we did
+is that we realized that what allows to
+do kind of a bottomup approach of like
+okay well what are the core features
+that all of these businesses care about
+and how can we kind of automate as much
+of this is possible not that we're not
+trying to do customization because
+that's the name of the game it's like
+hey if we've have somebody they're like
+hey we love this like auto pilot plan
+that you have but we don't use linear we
+use jira we'll be like great we will we
+will build that like it's like because
+other companies use that as well um so
+but that was kind of that was kind of
+the key like strategy shift was like
+like we wanted to be much more focused
+on the bottom up approach of like really
+discovering like what this product is
+and what it should do and um even all
+the distribution stuff was came directly
+out of customers it was like well the
+feedback like over the past like eight
+months was like update sucks update
+sucks update sucks and it's like oh
+update's good um need to be able to edit
+it it's okay can edit it all right now I
+need to be everywhere it's like okay
+great and then now now it's like okay I
+need to be able to like capture an email
+list and like send like a automated
+monthly update it's like okay um so it's
+like it's like as soon as you kind of
+clear the one hurdle like until you
+clear the hurdle that's all you hear
+it's like it's just like update sucks
+you know which is which was fair
+feedback and they did suck um but then
+once you clear the hurdle it's like
+every single time you jump the next one
+you get there's another there's another
+one coming and I know once we build all
+these features there will be there'll be
+another uh another request on the way
+for sure yeah and and it does sound like
+you have found several if if not very
+very many points of complexity where
+going into the complexity just opens it
+up for more complexity right that the
+example of you're getting nose nose nose
+and then you get a yes and after that
+yes all of a sudden it's a whole new
+world with another set of surprises man
+that sounds like a lot of layers that
+you have to work through and I I work
+with AI tooling as well I I know those
+layers and the weird idiosyncratic kind
+of stuff that happens in there plus then
+trying to also solve this for Enterprise
+customers who have this very we want
+this and this is the only way it's
+allowed to be mindset that uh that is
+also a challenge for a startup right a
+startup that has to deal with custom
+requirements on every single level the
+Integrations that you talked about man
+that that must be so hard how do you
+deal with this because it feels like um
+if you want to go for smaller customers
+or smaller
+businesses that still probably doesn't
+solve the problem with people choosing
+very different tools for Sim jobs are
+are you going to just take the top five
+product management systems and the top
+three code repositories and deal with
+that like how are you going to approach
+this over time yeah this that that's a
+big change in my like mentality I think
+especially like maybe not in the past
+year but like especially like you know 5
+10 years ago I think that I definitely
+had much more of like a headstrong
+mentality of like I know what the market
+needs and I am you know whatever I'm
+like jobs or whatever and uh you know
+like I'm wearing turtlenecks I'm doing
+the whole thing um and like I will tell
+you market like what the you know this
+is what you're missing out on and this
+is what you need um and like now I'm
+just kind of like the thing that I
+always come back to because like running
+a product and building a new product is
+like very challenging both like the
+actual like what to do and how to do it
+but also just kind of like keeping
+motivated when you know someone tells
+you that your updates suck or whatever
+or like oh I don't like we don't need
+this or whatever the case is like the
+reality is like even if you get to a
+million customers there's another like
+billion companies in the world that said
+no to you so um the thing I always come
+back to is like I never want to run
+another company again without having
+like a constant stream of updates for
+the marketing team for the sale whatever
+so because of that that's kind of my
+core and I have those like three pillars
+those are the the kind of like those are
+the non-negotiables and then everything
+else it's like if a customer comes to me
+and be like oh I'd really like to do
+this at this stage like we have few
+enough customers I can have one-on-one
+conversations with everybody um we kind
+of just my my CTO my co-founder's name
+is ARA and so he'll probably listen to
+this and like slap his forehead but it's
+kind of like we kind of just do it it's
+like as long as it's in line with those
+product pillars it doesn't take the
+product in a different direction it's
+like yeah if we have somebody like we've
+already gotten a request for gitlab
+which instead of GitHub um which is
+insane to me because it's like how many
+customers does GitHub have it's like I I
+thought it was like all of them um but
+it's like okay cool like you know and
+maybe there's an argument there's even
+less Tooling in gitlab but it's kind of
+like yeah once we have this system set
+up and we understand the nature of git
+it's like yeah we'll do we'll do get lab
+sure um it's it's it's all about
+prioritizing them but I kind of feel
+like especially for us and and maybe
+it's also this type of product where
+it's like the more information that we
+can pull in the more context we can get
+in the better the results going to be
+and also the more time saving is going
+to be to the person so it's like it's
+going to be like really great updates
+and they don't have to really edit it at
+all so it's kind of almost like because
+of that we've sort of like resigned
+ourselves to like okay we're just going
+to be building a bunch of Integrations
+and like it's hard enough to convince
+somebody that they need more updates and
+like once we find somebody who like
+understands that pain to be like yeah
+we're the person to help you with that
+we're not going to be like oh you should
+also switch off of like Get lab on to
+get you know it's like Don't force them
+to do these kind of things right you
+just use what they use totally so I
+think it's just kind of like and you
+know we can only move as as fast as we
+can go and and we also like uh my
+mentality is sort of working from like
+the center out or the bottom whatever
+pick another analogy that i' I've made
+so far um but it's like you know we want
+to make sure that our current customers
+are like as excited about the product
+and are using it and are like we can see
+how frequently they're publishing
+updates and like that needs to be
+happening and if that falls off I'm
+going to like to them and be like what's
+going on and why is that or like like oh
+I got I I was going to get to it but I
+got busy I'm like why is it why is it
+like that big of a task that you need to
+you know so kind of starting with those
+people and then kind of we have people
+starting trials and coming in all the
+time basically everybody they first
+connect like a marketing site instead of
+their product because they're like what
+is this thing um and so that's something
+for us to to work around and maybe
+that's a feature maybe we provide
+updates around the changes to your
+marketing side it um but you know then
+it's just a function of like okay like
+or maybe they don't have permission to
+the repo all those sorts of stuff so
+that's kind of all the stuff for us to
+work through but yeah we just kind of
+make a backlog and I'm sure at some
+point in time we'll need to say no to an
+integration but like I don't even know
+if that's going to happen in it's like
+it's like never know it's like not in
+2025 I don't think but it's like a it'll
+be something where I think we're just
+going to have to get a lot better about
+having sort of more transparency around
+like
+where I I someone asked me today like
+what the road map was and I was able to
+kind of like rattle off a couple things
+and then I forgot one thing and I'm like
+oh this is actually in position three
+and everything else got pushed over um
+and so you know that could I don't know
+that could get to like 50 requests like
+pretty quickly and then at that point we
+need to probably do a better job of just
+being like hey we can't support whatever
+we don't we don't support like WordPress
+you can't publish the WordPress right
+now and with what's going on in
+WordPress maybe we might like wait
+probably a good idea wait a little bit
+but you know um you know that that'll be
+something in the future as far as like
+how we can kind of communicate around
+that that makes sense and Integrations
+always there are a lot of effort to put
+something in into the system because you
+always need to deal with the little tiny
+issues there and the slightly different
+ways that they do it compared to
+somebody else it kind of makes you think
+as a Founder that if you build a tool
+like what changeb is that has a lot of
+data sources it needs to pull data from
+and has a lot of destinations it needs
+to send data to your integration kernel
+like the the thing in the middle that in
+allows you to integrate into and then
+distribute from needs to be highly
+flexible right needs to be very very
+flexible and be able to deal with all
+kinds of weird little issues along the
+way and I I think that is that's
+something that every SAS founder can
+take away from this like if you don't
+know what your customers use in terms of
+tools be super flexible to be able to
+integrate them along the way yeah AB
+absolutely I think it's also about like
+kind of like transforming each of the
+different like Integrations into a
+format that's like natively
+what
+upm changes and so it's like and like
+kind of like that's very easy for us to
+include in you know doing all the rag
+stuff and you know all the all that
+sorts of stuff you know and so it's like
+I think that that's kind of how we look
+at everything should you know kind of
+transforming all those data points into
+sort of a similar format so that it
+almost like and maybe it will like maybe
+you know maybe next year we'll revisit
+this conversation I'm like Arvid I was
+so wrong about I was so wrong about that
+but I don't think that it necessarily
+matters that like oh you know this
+conversation was in linear and this
+conversation was in GitHub issues it's
+like it's all of that just turns into
+context around the nature of the changes
+and it's timestamped as far as when it
+was happening and it's like related to
+you know we'll do like clustering and
+stuff like that understand like what
+things are connected but I you know I I
+think that that will allow us to get to
+the point where it's like well
+again I I I mentioned slack off hand I
+don't know if we'll wind up doing that
+but there is kind of this recurring
+thread of like well you know what if
+what if change bot was like kind of
+sitting in the room while these
+conversations are happening and I don't
+even know how that would work it's one
+of those things again it's like I guess
+that's the other fun thing with AI of
+like I just never would think to do a
+feature like that um but you know
+there's also a world it's like okay well
+like let's figure out let's coers those
+conversations into that same format that
+same context format
+and then let's just include it and see
+what happens like that would that would
+probably be how we would we would roll
+that feature out yeah it's it's really
+interesting because then you could kind
+of take out of all the conversations
+that happen find the ones that may have
+to do with new features and suggest them
+to be part of this or maybe people say
+no this is not one maybe this is one
+maybe there like a human step in between
+or an AI is smart enough to figure this
+all out just present the results that
+you're right you don't really think
+about these things because they just
+would have been impossible a couple
+years ago right it's bizarre hey I I
+really like the the technical side of
+things and I could talk about this for
+hours I probably shouldn't which is why
+I'm going to Pivot this a little bit to
+the the actual uh the impact side of
+things like when you have a change doog
+um first of maybe why should you have a
+change doog that's something I I
+personally often struggle with not to
+have one but to fill it like to actually
+communicate to push information to my
+customers like what what is the the
+benefit of this how often should it
+happen What should you talk about can
+you give me like can you condense your
+92 page thing into maybe 92 seconds
+statement here yeah I think that's I
+think that's fair and that's a very
+that's a very common request that I get
+so I understand that yeah I think that
+like and for me like I'm coming from
+personal experience so like that feeling
+of being like having a potential
+customer comparing me to other companies
+and not being able to put my best foot
+forward and showing like what we're
+doing and and that we're actively
+engaged I've heard the story from other
+founders of like because our active on
+social or wherever somebody be like Oh I
+thought you guys were dead um that's
+that's like a very common phrase and
+it's like no like we're actually like
+working 80 hours a week and you know
+it's just finding this excess time I
+think people always find themselves in
+the spot especially small teams where
+they're like well you know I can spend
+eight hours and build a feature and then
+I could spend like another like four
+hours and like write about that and do
+like a really great job of writing about
+that change I just made or I could be
+halfway through another feature and so
+that's like the tradeoff and so you know
+I think that that's the thing of like
+and also like there's the barometric
+story too right of like like you know if
+you want to make a big change with the
+business it's like one of those things
+where it's like you really wish you were
+doing this all along so I I kind of and
+this is one of the challenges that I
+have with marketing the product is
+because like I kind of see this from
+like a three-dimensional perspective and
+I kind of look at like each team like I
+look at like from the top end of like
+from sales giving them this this
+resource where it's like oh you're
+comparing us to this company it's like
+oh well like we're updating our product
+much more frequently and we're like we
+used to compete with chart Mogul back at
+bar metrics and like so I was kind of
+that was Al one of the formative
+experiences because chart Mogul has a
+fantastic marketing team and they would
+again in my extremely biased opinion
+they would make a big deal about a
+feature that was not necessarily a big
+deal but like I was on the other side
+and our customers would see that and I
+feel like there's just like it's like
+death by a Thousand Cuts it's like even
+they see it see it see it and then you
+know maybe something comes up in the
+future so and they're like okay well
+maybe we'll try out chart Mogul because
+like they're doing all these great
+amazing revolutionary things U again not
+to like downplay their product and I'm
+in insanely biased you should not listen
+to anything I have to say about uh you
+know chart Mogul but um you know that
+that was kind of like one our original
+tagline was like make your competitors
+hate you and so that was really like a
+very like sales and marketing focused uh
+message for the marketing team it's like
+having like finding important things to
+talk about that is like you want to be
+kind of present always but it's like you
+can only share so many memes and I know
+I'm like the worst for this I share too
+many memes um but it's like even those
+like little small updates small
+improvements just gives the marketing
+team something valuable to talk about
+and it's like hey like even I think one
+of the biggest shifts is like how small
+of an update are you willing to talk
+about and I think there's different
+levels like I don't think you should do
+a email blast to all of your customers
+for changing an email form on the page
+but I do think it's like it kind of
+should go somewhere maybe maybe changing
+a form is like too small but it's like
+oh like we fix this issue when you like
+re change your update your email or
+whatever you know something like that
+it's like hey there's like this little
+frustration that somebody reported to us
+and we fixed just having signal on that
+is just really valuable and it could be
+like a little tiny social thing that
+goes out a little bit of you know
+Twitter juice blue blue sky juice
+whatever LinkedIn um
+and so yeah so so you you kind of take
+it all the way through the funnel so
+like it's useful for the sales team
+useful for marketing I think it's useful
+like from an operational perspective
+internally to like know what's going on
+here um and I think about like churn
+prevention and kind of upsells so at bar
+metrics we had a big problem of
+upselling because people just didn't
+know of all the features that we had and
+they were like missing out like I know
+for a fact I would have conversations
+with people and they were I was like why
+aren't you using this like oh we just we
+don't why our customers are canceling I
+wish we had some insights around why our
+customers are are cancelling and I'm
+like oh did you know we have a product
+called cancellation insights uh they'd
+be like no it's like well man like
+and so like there's an upsell thing but
+I also kind of have this like anti-
+churn path as well where it's like I
+think you should be sending your
+customers more updates than you're
+sending them invoices if you send if you
+ask them for money more frequently than
+you're letting them know about new
+things that are happening any like it's
+like anything just like Hey we're alive
+because they will get the invoice like
+even if you don't send email
+notifications which you should um
+they'll be they'll see on their credit
+card statement that you know you charge
+them and so I think there's just a huge
+anti- churn you know churn prevention
+technique of like hey like we can see
+that the product is improving and I
+think that feeds in the product as well
+it's like if you have the impression
+that the product is not being worked on
+and you're like I don't know if they're
+I don't know what they're doing over
+there I don't know what they're focused
+on I don't know if they're they're doing
+anything like people are very unlikely
+to reach out and say like hey I really
+need you to you know I think that's been
+really huge for um terminal the hardware
+product that we mentioned they are just
+so active and so reactive as far as
+fixing things and there's like a whole
+developer Discord Community like I've
+really seen that of like it's
+accelerated because people are like oh
+they do care they do they do stuff like
+they they they react to to questions
+that we have or they react to problems
+and they like ship it's like oh like
+especially for a hardware company it's
+incredible it's like oh like this thing
+wasn't working and now it's now it's
+working and and like I've noticed that
+the rate of Engagement has gone up
+dramatically so yeah oh for sure so it's
+so it's almost like what what is the
+you're like what is the value of of
+writing a a change log and I'm like well
+you know it's like a shorter list of
+like what you know what benefits it
+doesn't like kind of all the stuff that
+you want to do as a business are come
+from the ability to like both have that
+content and get it out in front of
+people I love this to me the the term
+that comes to mind is value nurturing
+like the idea that you kind of grow this
+this seed of of value perception in your
+customers by constantly watering it
+that's what it is right it's content
+marketing you know I think content
+marketing happened in an age where
+people were very like top of funnel like
+new customer focused and I I kind of in
+the back of my mind I've had this thing
+of like I think this like product
+customer update it's like kind of like
+the new content marketing focused at
+retention and you know and you know
+expansion now that everybody kind of
+realized like oh it's not enough to get
+new customers we need to keep the ones
+that we have it's like you know that
+that's kind of like the the wildest you
+know as I whatever before I go to sleep
+at night you know I put my head down on
+the pillow like what's like the wildest
+like what's the biggest that this
+product could be and it's like oh it's
+like the it's like the HubSpot but
+instead of focusing on top of funnel
+it's focusing on kind of you know from
+sign up through the entire life of the
+business like if we can like 3x your LTV
+on every single customer um that becomes
+a very especially if it does it
+automatically um that becomes a very
+valuable product and a very valuable
+company it it does feel like a change
+log and not just the change log that's
+the artifact right but the the
+communication strategy the the the
+deployment distribution method around it
+that is the the relationship Builder
+that is something that retains a
+relationship obviously like a financial
+relationship they they stay customers
+but it also builds reputation for you
+because when I when I look at the change
+bot change lock it's uh mouthful and it
+goes back to like what is it March 2024
+with the first example posted and then
+you scroll up and and scroll up and you
+see all these individual Chang log
+entries several for certain days and
+then it it's just so cool to see this
+whole development of a thing and the
+effort that goes into it and that's the
+reputational part right you see this is
+not just a tool that somebody cobbled
+together this is something that grew
+That Grew From conversations That Grew
+From feedback That Grew From involvement
+with a customer base that just having
+that as a place that people can just be
+astounded by what went into the tool
+itself having that for my own sass is
+something I want it makes me want to
+communicate more because every single
+part of this chain of communication then
+is a relic for people to to kind of pull
+up and see oh wow this is this is an Old
+Log but they already like three years
+ago they already put in so much effort
+and it's still going that must be
+something in there yeah there's I I and
+I haven't been able to quantify that and
+I think probably like be very valuable
+to my marketing if I could but there is
+kind of like when you like go to like a
+very old building or something it's like
+I don't know there's just like a
+different mode we go into as humans of
+like oh this is like something that's
+been like worked on for like a very long
+time and like a lot of effort so much of
+the effort that we put into our products
+like just goes like nowhere like most of
+the people will build a feature and then
+not talk about it at all which is like
+again it's like you know the tree
+falling in the forest like you know but
+then it's like you know we also um this
+is like a total tangent but something I
+heard kind of like just right at the the
+right time there's a artist called Tyler
+the Creator and he kind of went on a
+tiate about like how people will like
+release an album and then like tweet
+about it once and he like he like he did
+nothing but talk about the album that he
+created for like a year straight and
+he's like I'm proud of it I worked
+really hard on it and it's like why
+wouldn't I like like why would you just
+write one message that like especially
+with like social it's all algorithm it's
+like the likelihood that even your
+followers saw it you would get like 10%
+of your followers so that's something
+that was like very formative to me when
+I heard that I think I heard that back
+in like February or something like that
+I'm like oh yeah you built this feature
+you spent this hard like you did this
+hard work to build this thing and it
+maybe it's not like oh it's like a brand
+new like version 2.0 of our application
+you should size like how you talk about
+it to like the size of the change but
+it's like oh you fix this bug like again
+it's all comparison it's like most
+companies like don't even fix bugs
+so people are embarrassed to post like
+bug fixes on their change log it's like
+no you actually fixed the problem like
+you know it's like you cared enough to
+fix this and you're letting everybody
+know and especially it's like okay if
+you if I look at your change log in the
+past like six months you've got one bug
+fix maybe that doesn't look so great but
+yeah if you've got two to three updates
+a week and like some of them are bug
+fixes some of them are new things some
+of them are just like tweaks like oh
+like customers couldn't find this button
+over here we moved it over there and you
+know the you know you know we're always
+kind of prompting for customer value
+like hey like we think this is really
+going to help you you know U find
+mentions of yourself in podcasts that
+you can create better brand deal you
+know whatever like kind of doing those
+like add in those little do a little bit
+of the sales and a little bit of the
+marketing for you in those things I
+think that the net effect of like seeing
+you know zooming out and seeing like oh
+in a couple of months this company has
+posted like over aund I think we've we
+just crossed 100 updates um and if it
+was me building a brand new startup and
+like writing some of the code and doing
+the marketing and things like that like
+there definitely wouldn't be a 100
+updates in the past like year it would
+be like I would try to do it monthly and
+I would fail it would be like one every
+one every six weeks that's why I'm at
+that's why I'm at right now with potan I
+sent and and this is uh this might sound
+self- congratulatory but yesterday I
+convinced myself to actually send one
+out and I did that's great I have this
+list of things that I really wanted to
+talk to people about because these are
+important features that I built for them
+like people asked me and I built them
+and I then I tell one or two
+individually hey it's now live and then
+they use it and they're happy but
+everybody else is like I don't know
+right so I I put I pushed that email out
+to the list and I I got feedback I
+actually got people hey this is cool and
+I was so happy I was so happy I because
+the features have been around for two
+weeks I just hav't know about so i' I've
+been trying to to get myself to do it
+weekly fail horribly to and then do it
+at least monthly I think I've sent out
+well how old is podan now like six seven
+months I've sent sent out six seven
+emails and I know I probably should have
+sent out 30 if not 40 with all the
+little things in between because every
+single thing is something useful
+something meaningful something people
+asked for and like you said it could
+just have been this problem that
+everybody had until now was fixed thank
+you this guy for reporting it and you
+know like you can also shout out people
+in this context like very easily because
+the community of of your customers might
+know each other because they're in the
+same industry so you have this this
+opportunity to actually pull people in
+and and give this kind of another
+reputational gain at this point you
+you've convinced me in these short 40
+some minutes that we've talked about
+this topic that I should really take
+this seriously not just because it's a
+it's a conversion inducer or a retention
+retainer but those are all great things
+but for the product itself it's a
+meaningful part of the business to have
+the history it's kind of a keeping
+keeping records of your own journey and
+if if if that is that is to me a
+important part to to building in public
+so why do I not automatically have
+something GA this information for me or
+at least have a platform to to put this
+on this is really cool man I'm glad you
+went into this field it's really cool
+yeah thank you yeah it's I kind of look
+at it it's like what was the point of
+building the feature and doing the work
+if you don't talk about it like don't
+you need to like get credit for your
+code it's like you're not like you've
+already done I mean maybe I'm like
+downplaying it a little bit but I think
+the like actual building like writing
+that software and making those changes
+and figuring out the problems and fixing
+it like that that was the hard work and
+now all you have to do is like it's like
+literally the victory lab where you get
+all these great you know feedback or
+maybe people give you more ideas and you
+get like credit and people go you know
+they're cheering for you and it's like
+that's that's the part that we skip like
+why are we skipping you know that's the
+fun part and so yeah even that was kind
+of one of our ideas too of like hey like
+maybe the the engine needs tuning and
+you know we need to like maybe we're far
+away from people just turning on like
+full autopilot of just hey just post
+this and email my customers and things
+like that but like the bare minimum is
+that we can give you a rough draft and
+be that reminder so that when you go to
+sit down you know once a week or once a
+month whatever whenever it is that
+you're going to do it you don't have to
+start from a blank sheet of paper you
+can actually like say okay cool here's
+all these things I can just I like this
+line I don't like this line and then you
+know get it out there that's that's the
+thing right there's a job to be done and
+you don't want to do it but if somebody
+almost does it completely for you and
+just sends it to you says hey this is
+what I would send right now what do you
+think right it's so much easier to say
+yes or say no but then not even think
+about it right like the that that I
+think that's that's what the problem
+always has been for me is a priority
+Problem like my additional four hours of
+work that I could put into the product
+they feel so much more urgent than the
+the necessity to communicate with my
+customers feel urgent I know that the
+necessity is just as urgent right it's
+just as important for me to talk to my
+customers and share the things that
+might make them not cancel or might make
+them upgrade right so from a from a from
+a builder's perspective the tech stuff
+is always burning hotter it always feels
+like there's an explosion somewhere in
+there and that's where your skill set is
+like and also it's like this work is
+hard like it's hard to write you know
+like being a writer is like an actual
+job and like you know marketing people
+especially if you know the the best of
+the best in like content marketing it's
+like there's a true art form it's like
+there's really like very little science
+to it it's like extremely artistic and
+like very like you have to be very smart
+and it's like a totally different side
+of your brain as well so like I do that
+as well like if I have like a task that
+I'm certain that I have the skills to do
+and then I have a task that even if I
+know it's like extremely important but
+I'm not sure you know this is not like
+conscious this is subconscious but I'm
+like I will just like kind of ignore or
+delay upon the thing that I'm like not
+or even if like even product stuff we
+have one um if anybody listens to this
+and is so kind to like sign up for for
+change bot we have like the email the
+screen you see like hey we need you to
+confirm your email I don't like the way
+that that page is styled and if been on
+like kind of like item five six of my
+to-do list every single day for the past
+two weeks and I just realized I was I
+was thinking about it last night I'm
+like this is taking so long because I
+don't I haven't designed what I want
+that page to look like so that I'm just
+I'm holding myself back from doing it
+because it's it's uncertain I'm like so
+what I need to do is just design what I
+want that page to look like and like
+explain to people why we're asking like
+hey we need you to confirm your email
+because we're whatever we're going to be
+spending AI credits during your Tri you
+know whatever like we need to protect
+ourselves or whatever the case or you
+know here's like if you're confused book
+a call with me all that sort of stuff um
+and so I think that if two weeks ago I
+would have made my task you know think
+about what this page should have on it
+articulate why you don't like the way
+that it looks uh and the way that it's
+performing then I would have been much
+more likely to do it and so it's like
+that on steroids for updates because
+it's like what do I what do I write
+about and like oh am I just like
+bragging too much is this is this worth
+writing about and like how should I
+phrase it and how do you know it's like
+all those sorts of things it's just like
+like I'll just build another feature but
+you know that's that's dangerous that's
+like a that's a really you know then you
+get to the point where it's like oh
+we've been working on the product for
+couple of months or a couple of years
+and you know now we now we're trying to
+get this big customer and like you know
+or whatever the case is even like you
+said just even just getting that
+feedback getting that maybe you burn out
+maybe you don't have the motivation to
+keep going unless you see people see
+like hey this is really great that
+you're doing this like keep doing this I
+am actually using your product you know
+people like hearing somebody be like
+there are other people on the other side
+of this that are getting value please
+keep going like that's really useful to
+hear it's kind of a yeah a means to to
+get to make people remember that you're
+there right that you're not just a
+transactional tool but that there's
+actually relationship in there and yes I
+think every time you you talk about this
+like you have to tell people that the
+product does this because they won't
+find it out themselves I'm always
+reminded of if if you build it they will
+come and how we know that that is such a
+Folly in just in approaching anything
+right just building thing doesn't mean
+anybody knows about it we're in a world
+of constant attention grabbing
+algorithms you need to put yourself out
+there just social media is the exact
+same thing if you want to get people
+interested in your business you have to
+be present where they are and you have
+to talk about your business a change
+lock is that but for your customers for
+your users for your prospective users
+for for your trial users like I'm I'm
+thinking about this just now how how if
+I don't have a Cadence of at least 10
+days then some of my trial users will
+never get a product update from me
+during that trial and that sucks why
+wouldn't I send them every one every
+three days so they see oh wow I signed
+up to a thing that's still getting new
+features I need to stick with this right
+that's just self- sabotage at this point
+totally yeah constantly getting better
+and yeah I think that I mean one of the
+things that we figured out very early of
+like you know people that we really
+wanted to serve are you know just people
+in SAS just because that's kind you know
+kind of makes sense to have the
+recurring benefit but also like there's
+kind of a subsection for people that we
+think are good for our product of people
+who are shipping because we have had a
+couple people come to us be like hey we
+want to fill our change log and the
+reason why it wasn't filled is because
+they just weren't doing any like they
+weren't building stuff and so I do feel
+like you know maybe there's something
+down the road that we could do for those
+people it just doesn't really like you
+know it's just a different different
+problem it's like a repurposing thing
+and it's just that's a different stage
+too right like first first you fill it
+up now and then you do the back fill
+later yeah yeah well yeah I also just
+feel like
+we just I just want to stay like super
+focused it's like hey especially like in
+your case like you're doing the work
+it's like it's not like you need some
+magical system you know there's not like
+a some marketing framework that has some
+like initialism that you know you have
+to follow the whatever the the tower
+framework or you know whatever it's like
+you're doing the work you just have to
+talk about it and it's like you know
+it's like that that's the type of
+company that we really want to support
+because there's like a lot of people out
+there that are just like really grinding
+on the product and you you wouldn't know
+it like you it is not a parent that it's
+like oh this person is like spending
+legitimately like 60h hour weeks and
+they have been for two years like you
+know their product is good and you know
+that you know it's interesting but it's
+like you don't really get a sense of
+scale um and so I'm like those are the
+people that I want to help because it's
+like they're doing all the hard work I
+bet I bet you've convinced a lot of
+these people to look into change dos in
+general if they haven't already and to
+look into changeb right now so if people
+want to follow both changeb and and
+terminal didn't even get to talk much
+about this and you and all the other
+things that you're going to be building
+over the next year um where do you want
+them to go says 4al 400 page views uh
+are simple analytics for change spot so
+when this drops this needs to be double
+that number it's going to look something
+like this I think when the uh when the
+episode drops but yeah yeah terminal's
+amazing use terminal.com um it's been
+actually like totally like I feel like
+this is like the sales pitch but it's
+like actually true of like the idea of
+like being head down in like maker mode
+it's like something like that like if I
+didn't have a little dashboard to show
+me like what our web traffic looked like
+I'd be going to simple analytics sorry
+guys I love you guys like um but like
+I'd be going to the their website every
+day and then I'd be clicking on stuff
+and I'd be rabbit hoing and so having it
+in front of me always and if there's an
+issue or like when there was a spike
+that's an indication to me that I should
+go take a look and then most of the time
+it's just kind of you know little SEO
+pops here and there just having all
+those notifications and all those
+dashboards like pushed into this form
+factor this Hardware form factor has
+been like actually really useful because
+there's so much to think about and so
+much to work on that um it's really
+great and I'm a part of the developer
+Community as well and seeing the stuff
+that people are building like one person
+has like a International Space Station
+tracker so you can know like when the
+Space Station's over you know it's like
+it's really cool one guy actually um
+it's totally open source from a firmware
+perspective so one guy hacked it so that
+it's like live updating with his
+playlist and so he's got it on his
+speakers so anyway so it's really cool
+um yeah I hope it is cuz mine is still
+in the mail like in Canada there there's
+been a postal strike over the last
+couple weeks so I have not received
+anything but uh oh that's so funny yeah
+I I saw that we've had a couple people
+complaining about slow delivery and I
+just saw cuz my wife does e-commerce
+stuff um you know here and there and so
+we got a notification that it was
+something like USPS was like yeah
+deliveries are going to be a little bit
+slow um because like Canada's not
+accepting any of our mail and like
+that's had carryover like it's like oh
+we have like an entire country's worth
+of mail like that we have to hold on to
+and we don't know what to do with it so
+I think it's um yeah hopefully that gets
+worked out well they they stopped I
+think they they were sent back to work
+and there's a whole political angle to
+this I don't definitely don't want to
+dive into this but I guess that's that's
+one of those things that you just don't
+have to think about with a SAS right you
+don't have to deal with postal strikes
+or anything like it oh that's cool no
+I'm looking forward to having mine and I
+I got the Developer Edition as well so
+I'm looking forward to getting my my pod
+scan uh monitoring into into that system
+as well just to see like how my system
+is performing yeah that'd be really cool
+to have like a little we have like a
+like um Hacker News and Reddit and
+things like that that'll kind of show
+you those headlines so you can feel like
+you're informed but you don't like click
+and go through so that might be cool for
+you to build a similar one it's like hey
+like here's like your most recent
+mentions and so you don't have to think
+to go and you just kind of look and if
+you see one that's like oh it's we were
+mentioned on whatever CNN it's like okay
+maybe look into that um that's that's
+that is one of the the the customer
+facing purposes definitely I i' I'm I'm
+excited to to hack on that and then for
+my own monitoring too right like what's
+the system doing what are my servers
+doing are the gpus burning right that
+kind of stuff like there there's a there
+is so much so much monitoring we can do
+and so much uh updates that I need to
+know for my for my own business no I'm
+I'm excited for terminal I I think it's
+it's still it's crazy to to think that
+you have to work both on something that
+is as like AI Centric and SAS Centric as
+changeb is and then you have something
+that is so so almost like deep Tech even
+though just Hardware but you know like
+it's it's just you have to deal with
+firmware we have to deal with like
+display logic and updating screens
+getting on people's Wi-Fi it's just like
+you know it's the universal issue and
+you know we really tried to build this
+in a super secure way of where most like
+iot things are like you know the the
+company can drive and push updates to
+but terminals they can only they they
+request and so we can't like proactively
+push something like the terminal has to
+ask for ETS and so that's caused us some
+pain points but I think that not I feel
+like so many like iot devices are just
+like just like vulnerabilities like
+waiting to it's like hey like let's put
+this like not sufficiently secured
+device onto your network that the public
+internet can access it's just like an
+insane thing to do that's a bad idea
+yeah it's a really bad idea and it's
+like 99% of those devices so um you know
+we've also had to kind of work through
+that like hey because of our choices
+like we can't like it's like a little
+bit harder to troubleshoot because we
+can't just like push we like we can't
+see what did we send we have to go back
+and like what did you ask for and then
+why did why did this device ask for this
+I to kind of like you know reverse
+engineer from that perspective funny how
+how that like privacy and security
+concerns that's something you take into
+every single business like the moment
+you have to do with the internet to deal
+with the internet you have to just make
+sure that what you do or what your
+devices do what your software does is uh
+beneficial and not harmful to your
+customer I mean should go without saying
+but it it's still is a it's a concern
+that may be overlooked in in the the
+Zeal and eagerness that some people have
+for building businesses right totally
+yeah you you can easily build a trojan
+horse when you're like you're L
+literally delivering something physical
+into somebody's house so it's like only
+so many people are going to like
+eventually we're going to probably snap
+back away from this like but people
+getting hacked from their like
+refrigerator and stuff like that I think
+like we we've only got so many of those
+left where we're like okay we really
+need to like rethink how we're how we're
+handling yeah it's weird that my light
+bulb uh can be an Tech vector into my
+home totally bizarre exactly well let's
+let's drop a couple 's and social feeds
+here so that people can follow you on
+your journey we have terminal we have
+changeb we have you yourself just throw
+a couple URLs out there that people can
+totally mentally trick right now use
+terminal.com for terminal you can buy
+them now and depending on when you order
+it and depending on the uh state of the
+manufacturing in the world we will get
+it we we we've got an update on the
+website so we let you know when it's
+shipping so we still have we have units
+and stock right now but if there's any
+delays like that that'll update so we're
+really transparent about um I think
+we're one of the few kickstarters who
+like actually delivered a product and
+and and continued to do so so like we
+try to be really good um about that and
+uh Global uh shipping strikes
+notwithstanding um so that that's a
+terminal um change bot. is change bot
+and you can go up there and you can sign
+up today and we have the whole
+self-service flow or you can book a call
+with me um and then I'm on I'm on
+Twitter mostly BC Sakowski um which will
+be linked you don't have to worry about
+spelling that um and um I've been trying
+out blue sky as well I've been kind of
+Dipping my my toe in the water I feel
+very much like a noob over there um and
+in fact I don't even know like I think
+I'm Bowski maybe I'm Brian Sakowski I
+don't actually know who I am but we'll
+find the link that's how new I am so um
+yeah I understand that I I've been given
+the advice that I should be begging to
+be on starter packs and so um this is an
+open open request if you have a like SAS
+dude SAS brro uh starter list please
+include me um and then yeah and we we
+don't really do anything that's like
+change bot native right now I think we
+we have a Twitter account we have a blue
+sky account but mostly we're just using
+that to like reshare while we're kind of
+in the founder Le stage it's like you
+kind of want to talk to us and and um
+ours on on there as well so um that's
+one way if you want to follow us on
+either of those platforms you can follow
+change bot and then you'll get all the
+tweets and blue skies from myself and R
+as well all the updates all thees
+literally literally all the updates well
+I really appreciate you sharing this I'm
+so excited I'm excited that we had this
+conversation today obviously learning
+all about these things but also that
+what you wanted to do back in the day
+actually came to fruition over this year
+plus then terminal and all the other
+things that happened besides that that
+is so really cool to see that's I I
+think founder wise you did pretty well
+that's pretty awesome I'll give myself a
+B+ you know take it that's awesome man I
+really appreciate it thank you so so
+much for for sharing all of this with me
+today it really made me think
+differently about how important change
+locks are so I appreciate that and I
+can't wait for next year when we have
+another chat and see where it's gone
+that's going to be awesome thanks so
+much Brian really appreciate it and
+that's it for today thank you for
+listening to the Boer founder you can
+find me on Twitter at a a ID KHL you
+find my books on my Twitter course too
+and if you want to support me on this
+show please tell everyone you know about
+pocan FM and leave a rating and a review
+for this podcast by going to rate thisp
+podcast.com founder makes a massive
+difference if you show up there because
+then the podcast will show up in other
+people's feeds and that will truly help
+the show thank you so much for listening
+have a wonderful day and bye-bye

@@ -1,0 +1,52 @@
+{
+  "topic_id": 153971,
+  "title": "Displaying Duplicate Fields in Items Table in Sales Order",
+  "slug": "displaying-duplicate-fields-in-items-table-in-sales-order",
+  "category_id": 8,
+  "tags": [
+    "erpnext",
+    "bug"
+  ],
+  "created_at": "2025-09-22T07:30:46.697Z",
+  "last_posted_at": "2025-09-22T07:30:46.929Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/displaying-duplicate-fields-in-items-table-in-sales-order/153971",
+  "views": 21,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "ransikerandeni",
+  "posts": [
+    {
+      "id": 481386,
+      "username": "ransikerandeni",
+      "name": "Ransike Randeni",
+      "created_at": "2025-09-22T07:30:46.929Z",
+      "cooked": "<p>I’ve created a Sales Order, and when I open the Added Item in the Item Table it display’s duplicate Fields.</p>\n<p>When I click the Edit button of an Item in the Item Table, this is how it gets displayed.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/b/5/b5387d8751f79a3dcb6acbecec3f05eaecfe7f1f.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/b5387d8751f79a3dcb6acbecec3f05eaecfe7f1f\" title=\"Screenshot 2025-09-22 at 12.56.03 PM\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/b/5/b5387d8751f79a3dcb6acbecec3f05eaecfe7f1f_2_660x500.png\" alt=\"Screenshot 2025-09-22 at 12.56.03 PM\" data-base62-sha1=\"pR9s26hutWNmaFtWpk2ruGRkeLl\" width=\"660\" height=\"500\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/b/5/b5387d8751f79a3dcb6acbecec3f05eaecfe7f1f_2_660x500.png, https://discuss.frappe.io/uploads/default/optimized/3X/b/5/b5387d8751f79a3dcb6acbecec3f05eaecfe7f1f_2_990x750.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/b/5/b5387d8751f79a3dcb6acbecec3f05eaecfe7f1f.png 2x\" data-dominant-color=\"F9F8F9\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot 2025-09-22 at 12.56.03 PM</span><span class=\"informations\">1308×990 82.3 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Also why and how does this discount get automatically added?</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/f/7/f7388da622584453968402abe4e052f8a4fccd33.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/f7388da622584453968402abe4e052f8a4fccd33\" title=\"Screenshot 2025-09-22 at 12.58.29 PM\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/f/7/f7388da622584453968402abe4e052f8a4fccd33_2_548x500.png\" alt=\"Screenshot 2025-09-22 at 12.58.29 PM\" data-base62-sha1=\"zh16cRV5Ke35CvYNsrWceeOzv3R\" width=\"548\" height=\"500\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/f/7/f7388da622584453968402abe4e052f8a4fccd33_2_548x500.png, https://discuss.frappe.io/uploads/default/optimized/3X/f/7/f7388da622584453968402abe4e052f8a4fccd33_2_822x750.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/f/7/f7388da622584453968402abe4e052f8a4fccd33.png 2x\" data-dominant-color=\"FAFAFA\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot 2025-09-22 at 12.58.29 PM</span><span class=\"informations\">1061×967 59.8 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>I want to stop adding that Discount in the Sales Order &gt; Items Table &gt; Item (Edit)</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/ransikerandeni/{size}/74177_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 11,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

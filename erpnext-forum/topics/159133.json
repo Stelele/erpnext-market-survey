@@ -1,0 +1,53 @@
+{
+  "topic_id": 159133,
+  "title": "Data Import does not connected",
+  "slug": "data-import-does-not-connected",
+  "category_id": 57,
+  "tags": [
+    "erpnext",
+    "customization",
+    "update_problem"
+  ],
+  "created_at": "2026-01-14T07:04:35.799Z",
+  "last_posted_at": "2026-01-14T07:04:35.893Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/data-import-does-not-connected/159133",
+  "views": 21,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Itintern_102",
+  "posts": [
+    {
+      "id": 491140,
+      "username": "Itintern_102",
+      "name": "",
+      "created_at": "2026-01-14T07:04:35.893Z",
+      "cooked": "<p>I import the sales order data and submit all, after than import delivery note data and submit all. in the sales order analysis report, the qty needed to deliver cannot been calculate because the delivery note does not link with the sales order.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/i/cdc98d/{size}.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 11,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

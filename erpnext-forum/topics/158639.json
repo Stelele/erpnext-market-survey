@@ -1,0 +1,52 @@
+{
+  "topic_id": 158639,
+  "title": "Unable to Enable “Has Expiry Date” After Stock Transactions",
+  "slug": "unable-to-enable-has-expiry-date-after-stock-transactions",
+  "category_id": 9,
+  "tags": [
+    "stock",
+    "item"
+  ],
+  "created_at": "2026-01-04T07:52:15.542Z",
+  "last_posted_at": "2026-01-04T07:52:15.741Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/unable-to-enable-has-expiry-date-after-stock-transactions/158639",
+  "views": 20,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "magedbjn",
+  "posts": [
+    {
+      "id": 490158,
+      "username": "magedbjn",
+      "name": "magedona",
+      "created_at": "2026-01-04T07:52:15.741Z",
+      "cooked": "<p>I have an item with <strong>Batch tracking enabled</strong> and existing stock transactions. When I try to enable <strong>Has Expiry Date</strong> and save, the system automatically unchecks this option and does not allow it to be enabled.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/c/4/c40add3295afd4bef39e745e81ec14aac7961f45.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/c40add3295afd4bef39e745e81ec14aac7961f45\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/original/3X/c/4/c40add3295afd4bef39e745e81ec14aac7961f45.png\" alt=\"image\" data-base62-sha1=\"rYgRl7N0TLolFmMxQm031FlOPFH\" width=\"548\" height=\"374\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">548×374 23.5 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/magedbjn/{size}/86707_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 10,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

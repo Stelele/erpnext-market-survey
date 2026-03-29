@@ -1,0 +1,53 @@
+{
+  "topic_id": 159094,
+  "title": "Difference in General ledger and chart of accounts for a bank account",
+  "slug": "difference-in-general-ledger-and-chart-of-accounts-for-a-bank-account",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "accounting",
+    "chart_of_accounts"
+  ],
+  "created_at": "2026-01-13T11:08:09.614Z",
+  "last_posted_at": "2026-01-13T11:08:09.743Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/difference-in-general-ledger-and-chart-of-accounts-for-a-bank-account/159094",
+  "views": 32,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "akhilkp",
+  "posts": [
+    {
+      "id": 491060,
+      "username": "akhilkp",
+      "name": "Akhil K Prakash",
+      "created_at": "2026-01-13T11:08:09.743Z",
+      "cooked": "<p>I have a bank account eg: Bank of Baroda set up under  parent account Bank accounts. In chart of accounts the amount shown is Rs 5.9 less than General ledger. This 5.9 is actually referred baking charge in transaction. What i did was created Bank transactions and then created journal entry using template. then linked the journal entry in the payment entries of bank transactions.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/0/7/07a60350fb32da40ed1ffb7290f3eeaf9d00e76c.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/07a60350fb32da40ed1ffb7290f3eeaf9d00e76c\" title=\"Screenshot from 2026-01-13 16-03-39\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/0/7/07a60350fb32da40ed1ffb7290f3eeaf9d00e76c_2_690x334.png\" alt=\"Screenshot from 2026-01-13 16-03-39\" data-base62-sha1=\"15F1rYGOgQRWWaG6Wlvg6TJrJSc\" width=\"690\" height=\"334\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/0/7/07a60350fb32da40ed1ffb7290f3eeaf9d00e76c_2_690x334.png, https://discuss.frappe.io/uploads/default/optimized/3X/0/7/07a60350fb32da40ed1ffb7290f3eeaf9d00e76c_2_1035x501.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/0/7/07a60350fb32da40ed1ffb7290f3eeaf9d00e76c.png 2x\" data-dominant-color=\"FBFBFB\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot from 2026-01-13 16-03-39</span><span class=\"informations\">1348×654 50.5 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/2/3/23c88339a8b5c4421a2ca4f5802a6707edc56f8f.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/23c88339a8b5c4421a2ca4f5802a6707edc56f8f\" title=\"Screenshot from 2026-01-13 16-03-15\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/2/3/23c88339a8b5c4421a2ca4f5802a6707edc56f8f_2_690x334.png\" alt=\"Screenshot from 2026-01-13 16-03-15\" data-base62-sha1=\"56yj4TViZ56nTb2bw8BpBTxp9lJ\" width=\"690\" height=\"334\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/2/3/23c88339a8b5c4421a2ca4f5802a6707edc56f8f_2_690x334.png, https://discuss.frappe.io/uploads/default/optimized/3X/2/3/23c88339a8b5c4421a2ca4f5802a6707edc56f8f_2_1035x501.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/2/3/23c88339a8b5c4421a2ca4f5802a6707edc56f8f.png 2x\" data-dominant-color=\"F9FAFA\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot from 2026-01-13 16-03-15</span><span class=\"informations\">1348×654 47.2 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e0b2c6/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 16,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 2,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

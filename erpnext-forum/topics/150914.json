@@ -1,0 +1,51 @@
+{
+  "topic_id": 150914,
+  "title": "Unexpected permissions change Accounts Receivable Report",
+  "slug": "unexpected-permissions-change-accounts-receivable-report",
+  "category_id": 6,
+  "tags": [
+    "permissions"
+  ],
+  "created_at": "2025-07-30T22:22:01.149Z",
+  "last_posted_at": "2025-07-30T22:22:01.283Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/unexpected-permissions-change-accounts-receivable-report/150914",
+  "views": 41,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 1,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "tonto",
+  "posts": [
+    {
+      "id": 475788,
+      "username": "tonto",
+      "name": "",
+      "created_at": "2025-07-30T22:22:01.283Z",
+      "cooked": "<p>After latest update to:<br>\n<strong>ERPNext:</strong> v14.88.2 (version-14)<br>\n<strong>Frappe Framework:</strong> v14.96.14 (version-14)<br>\n<strong>Frappe HR:</strong> v14.37.7 (version-14)<br>\n<strong>Payments:</strong> v0.0.1 (develop)</p>\n<p>Users used to be able to run Accounts Receivable reports now get an error indicating need permission to Payment Entry Ledger.  Problem is giving them permission to the Payment Entry Ledger  doctype to Read lets them see some info for accounts and journal entries they do not otherwise have permission for.  They cannot see the journal entries themselves, but all the journal entry info in the Payment Entry Ledger which is more than they could see before and is for things not related to accounts receivable.</p>\n<p>Was this intentional?  How do we not allow this permission to break the previous permissions set?</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/tonto/{size}/55453_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 10,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

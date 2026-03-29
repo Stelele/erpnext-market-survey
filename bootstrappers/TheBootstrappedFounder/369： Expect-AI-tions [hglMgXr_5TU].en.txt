@@ -1,0 +1,316 @@
+﻿[Music]
+hey it's arid and this is the bootstarp
+[Music]
+founder this episode is sponsored by
+paddle.com and today we'll talk about
+Hobbits well habits actually the way
+people approach work and the
+expectations that they have for the
+tools that they get to use but I did
+promise hobbits so little story when
+Peter Jackson was brainstorming the load
+of the Rings movie Universe like long
+before the first cameras were rolling
+two amazing talkling Savvy illustrators
+said in on those meetings that was John
+how and alen Lee They had Illustrated a
+lot of the talkling books before and
+Jackson was quite inspired by their work
+so he got them to work on this initial
+brainstorming stage and Jackson would
+explain a scene explain the world what
+was where and what the buildings were
+going to look like and all that and the
+artist would sketch as he talked so when
+he was done explaining the two artists
+would hand over their quick sketches and
+that allowed this director to see what
+he had just envisioned but on paper and
+that was great for him because he could
+immediately see the results of his
+brainstorming in a shape that he could
+share with others and until now you
+needed extraordinary gifted experts with
+years of experience to do this kind of
+work effectively but I guarantee you
+someone out there is currently working
+on a generative AI tool that takes and
+visualizes ideas like this as they are
+spoken in real time at scale as an app
+and on the off chance that no one is
+working on that just yet maybe you
+should because in the months to come
+Professionals in all kinds of Industries
+will expect this kind of tool to exist
+for their own use cases the expectations
+around AI powered software have shifted
+dramatically here I've witnessed this
+transformation firsthand while building
+bot scan and it's fascinating to see how
+this relationship that we have with AI
+tools has evolved about just the last
+couple years couple months even remember
+when AI was this mysterious thing that
+only existed in these specialized
+expensive tools but that is just two or
+three years ago and back then AI meant
+stuff like machine translation or
+Predictive Analytics or even neural
+networks churing through massive data
+sets stuff that barely anybody could
+afford and that nobody really understood
+it was specific it was limited and
+usually hidden behind complex interfaces
+or databases that nobody had access to
+only the people with a lot of money a
+lot of funding the tools themselves were
+compartmentalized you had one for
+translation another one for data
+analysis and yet another for predictions
+but look at what's happening right now I
+opened ahfs the other day my go-to SEO
+tool and noticed something very telling
+their AI content helper the link to that
+part of the tool has claimed the prime
+spot and the navigation and it pushed
+traditional features like the site
+Explorer and the keyword Explorer
+towards the back which is I think the
+main stay of this tool like the the
+things that people actually use most of
+the time or so I think right I don't
+think this is just a new ey decision I
+think it reflects this fundamental shift
+in how we expect software to work it's
+not just a thing that we use and then
+get some results maybe it is something
+that does work for us and that's why
+these AI parts of the tools that we use
+have become front and center because the
+companies Behind these tools they see
+the adoption they see what people really
+want and through my work on hotan I've
+discovered something particularly
+interesting about the capabilities of
+these systems while we often worry about
+hallucination which is often happening
+in Creative tasks and generative AI I
+have found AI to be remarkably reliable
+in analytical work when I use AI for my
+own question answering and my data
+extraction which I do a lot on podcasts
+it is impressively accurate and the key
+Insight here well AI excels at reducing
+complexity but struggles with expanding
+it and it has a hard time coming up with
+really cool interesting insights but if
+the insights are already in the thing
+that you ask it to investigate it is
+really good at packing them into
+something consumable and meaningful that
+may be even less Robos and more specific
+than the thing in the original data it's
+like the difference between summarizing
+a book and writing one from scratch AI
+is spectacular at summarizing and so so
+in writing one and this observation
+leads me to Envision I guess three
+distinct ways that AI is reshaping
+software tools and if you are a software
+founder or a Founder in any kind of
+business you might want to think about
+the utilization of AI for these three
+particular kinds of ways that people
+want to interact with it the first one
+is AI as a guide imagine a sales
+pipeline tool that doesn't just show you
+how to use features but it actually
+guides your strategy in reaching out to
+people it might suggest hey you should
+probably get customer success to reach
+out to this other specific customer that
+we have for a testimonial because their
+use case would perfectly fit what your
+current sales conversation needs the AI
+becomes less about interface navigation
+and like creating text for you it
+becomes more about achieving your actual
+business goals pulling data together and
+seeing where you can apply it more
+effectively than before the other way I
+see AI reshaping tooling is as a
+validator and that's kind of where this
+question answering data analysis angle
+comes in right that's where my
+experience with pod scan has been very
+enlightening AI shines when it comes to
+verification and validation while we
+often hear about a AI came up with
+random non-factual stuff that's just
+creative tasks for analytical work
+factchecking data verification
+consistency checks AI is remarkably
+reliable particularly when it has
+function calling and enabled I think
+most of the cat gpts and Claw Services
+have something like this where you can
+actually ask it to call a function to
+execute some code maybe to search the
+web I think perplexity as a tool does
+precisely this so having this meticulous
+assistant who never gets tired of
+double-checking your work and their own
+work which the more recent reasoning
+models like 01 and soon 03 from open AI
+are particularly good at right they look
+at what they create it and they recreate
+it they recreate it until they they find
+it very consistent and then they present
+it to you they go through steps of
+reasoning and finally here's where
+things get really interesting in the
+Third Way that AI is going to be
+interesting mve forward AI can act as
+this constant background
+presence to any kind of work be it
+coding work or writing work or
+operational work because AI can
+constantly scan your business data for
+opportunities that you might Miss as
+long as you present that data and you
+gather that data and you capture that
+data think of it as an AI agent that
+works while you sleep for developers
+this example is pretty clear it could
+mean just an AI system that continuously
+analyzes your code base and not just
+finding bugs because that's what
+existing services do pretty well you
+know if a bug happens you track it and
+it goes into Sentry your system like
+this but it can actually fix them
+through simulation and testing I I I
+think Sentry is a good example here
+because they have been pushing for
+something like this over the last couple
+months I think like Sentry is a service
+where if your software runs into an
+error it sends the exception message and
+the context of it like what code
+captured this what the code was that
+didn't work what the data was that
+flowed into the system where the request
+came from what the server was all of
+this stuff right so Sentry for years now
+has been collecting all of this data
+about all kinds of bugs in all kinds of
+software they have thousands of
+customers with thousands of different
+code bases and many different
+programming languages but they all run
+into errors and Sentry has been
+capturing this so what Sentry has
+recently implemented is kind of a llm
+based code fixing suggestor that would
+create a pool request with a potential
+fix for your code that you then have to
+look at and test and see if it works and
+then you can say yeah sure and it
+actually pulls it into your codebase and
+deploys it because one of the wonderful
+things about Sentry is that it also
+tracks their deployment so it knows when
+a certain errors started to happen it
+can track them back to the certain
+deployment and the code changes within
+it's really cool and they have all this
+data lying around so obviously they can
+train models on this massive amount of
+data that they have and in building
+these models to then solve these
+problems I think the next step here is
+that they will automatically simulate a
+system where your code is running where
+the fix is running running and they will
+check the outcomes from the system with
+the error compared to the system without
+the error and hope that the fix actually
+works that's kind of how the system
+would constantly simulate new changes
+new fixes maybe new error states that
+you may not even have recognized before
+and create fixes while you sleep or
+while you work on something else I think
+this is what AI agents are particularly
+interesting for they are so useful to
+get work done that you wouldn't even
+think of and I think the applications
+here go far beyond Tech imagine an AI
+that notices that you haven't spoken to
+a key customer in a couple weeks and
+remembers that they usually attend a
+conference every year because they've
+been tweeting about it every single year
+and suggest that you should schedule a
+meeting because you're also going to
+this conference or one agent that
+recalls a customer mentioned launching
+an article in April back in October last
+year when you last talked to them and it
+reminds you to follow up in March about
+this article and how great it was and
+how you shared it with your own customer
+base right these little things can be
+done by systems that act as kind of an
+opportunity Scout for you and what
+fascinates me is how AI is evolving from
+being this mere text and image generator
+to becoming this ambient intelligence
+that enhances every aspect of our work
+that we let it be enhanced by in my
+experience building and using AI tools
+with potkin and all the other things
+that I'm doing I've seen that the real
+power is not in flashy features but in
+this quiet persistent assistance that
+makes everything that we do a little bit
+better a little bit easier and a little
+bit more impactful so the future of AI
+in software isn't just about chat Bots
+generating images it's about having this
+intelligent presence that helps you
+Source opportunities and it guides you
+through processes for a better outcome
+and it validates your work along the way
+it's becoming this background rhythm of
+modern software and it's orchestrating
+improvements in ways that we're only
+beginning to understand but people are
+starting to expect it people think that
+this should be part of whatever tools
+that they use and this is why I talked
+about this today because I think over
+the next couple months definitely over
+the next couple years we will see this
+become just an expectation that you will
+have to fulfill so as somebody building
+in this space I can tell you we're just
+scratching the surface here what's
+possible when the I becomes less of a
+feature and more of a foundation and
+it's on us to make that a reality and
+that's it for today thank you for
+listening to the boot step f you can
+find me on Twitter at Aid RV KHL and you
+find my books on my Twitter CR too if
+you want to support me on this show
+please tell everybody you know about
+podan FM and leave a rating and review
+by going to rate thisp podcast.com
+founder it makes a massive difference if
+you show up there because then the
+podcast will show up in other people's
+feeds and any of this truly helps the
+show thanks so much for listening have a
+wonderful day and bye-bye
+[Music]

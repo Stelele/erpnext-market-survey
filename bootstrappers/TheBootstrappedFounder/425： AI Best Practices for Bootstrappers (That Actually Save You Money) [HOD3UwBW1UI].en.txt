@@ -1,0 +1,660 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+I recently realized something while
+building Podcan, my podcast database
+system that does a lot of background
+data extraction and AI analysis for my
+users. I think I've stumbled upon a
+couple of AI integration best practices
+in all of these years now that a lot of
+people might not be fully aware of or
+just have never experienced. So today I
+want to dive into the concepts that I
+found not just useful but essential for
+maintaining and then operating this
+mission critical data handling with LLMs
+and AI platforms and AI tooling.
+A quick word from our sponsor here
+paddle.com. I use Paddle as my merchant
+of record for all my software projects.
+The ones that involve AI and the ones
+that don't. They take care of all taxes,
+currencies, they track the client
+transactions. They update credit cards
+in the background so that I don't have
+to. It's really cool and they allow me
+to focus on dealing with my competitors
+and my customers instead of banks and
+financial regulators. So, if you think
+you would rather just want to build your
+product, well then check out paddle.com
+as your payment provider and merchant of
+record.
+So, I was reminded of these AI practices
+that I have established in a tweet that
+I read from Greg Eisenberg. He said
+something along the lines of keeping up
+100% with all the new AI tools and the
+models and their capabilities and the
+benchmarks and all that it's pretty much
+impossible at this point and that
+something that works today might fail
+tomorrow and that's very true. It's an
+observation that I learned. It's
+probably my biggest learning in building
+POTS scan because I've built a couple of
+SAS in the past, but AI is the new
+thing. And I think I realized that I
+turned all of this into not just a
+process. That's also true, but an
+implementation style. So that's what I'm
+going to share with you here today. I'm
+going to share what I've built and how
+I've built it. So whenever I use an AI
+call be that to a local model that I
+have installed on a GPU enabled server
+somewhere or a cloud model on OpenAI,
+Anthropic, Gemini, whatever it might be,
+there's so many things and I'll get to
+the diversity here. I always have a
+migration pattern implemented in code.
+So I extract all of my API calls into
+services, right? That's just how I
+generally structure my code. I want
+these services to internally handle all
+the connection stuff, all the prompt
+massaging, prompt construction, and in
+addition to the specific prompt that I
+want for each API call, the service will
+format it in a way that makes it easy
+for the endpoints to consume. And all of
+these services always operate on what I
+would call a state of permanent
+migrability. That means they can always
+use the latest version and the latest
+model that I have chosen for this
+particular purpose or at the very least
+they can use the version of the prompt
+and the model that I used previously to
+that. And I realized that I needed this
+when I started implementing GPT5 a
+couple of months ago after having used
+GPT 4.1 for a long while. In fact, I
+started experimenting with this like the
+day the API became available and it was
+quite horrible. These experiments were
+like, "Oh, wow. This is very different
+from what it just was. Now I need to
+take care of a lot of things. A lot of
+API changes happened and a lot of the
+nuanced part of the prompt that worked
+for me in 4.1. Well, that didn't work as
+well as they did before. My prompt was
+crafted for 4.1, which it ran on for at
+least half a year, but it just was not
+reusable for GPD5. So then I thought,
+how can I deal with this? My prompt for
+GPD4.1 had a JSON format expectation. I
+told the OpenAI system kind of it's part
+of the OpenAI API where you can say I
+want this to be a JSON that comes back
+and you're guaranteed to get JSON. It's
+called JSON formatting. And everything
+in the prompt was aimed at then creating
+that JSON structure more effectively.
+And when I migrated that particular call
+to GPD5, it would still create JSON
+data, but it would drop certain keys and
+it was not really as reliable as it used
+to be before. And it was strange. I
+tried to figure out the reason and it
+turned out that GPT5 was more aimed at
+being compliant with structured JSON
+schemas, which is different, right?
+Instead of just saying this is going to
+be JSON, whatever you think it should
+be, you say this is the exact JSON
+structure, the data structure that
+you're going to output and you define
+the keys and all the potential values in
+a standardized format. Then you explain
+in your prompt how these are filled and
+it's both fundamentally similar to what
+it was before because you say, hey, this
+is JSON and I want it structured like
+this. But it's technically different
+because where you define what it's going
+to look like is different and the
+parameter you give to the call are
+different. So that needed to already
+change, right? And since I didn't want
+to deploy new experiments with a new
+model and hope they produce the same
+data because you have to run this in
+production on production data, I came up
+with this internal migration strategy.
+So for either a certain time period or
+while I'm testing on my local and my
+staging environments, I could say, well,
+use the old prompt with the old model
+and then use the new prompt with the new
+model at the same time or one after the
+other. maybe even a completely different
+data structure, completely different API
+call because OpenAI also wants people to
+move away from their chat style API
+which I was using in the past then to
+the response style API. These are
+specifics. It doesn't really matter. But
+what I would do is I would run both for
+each data thing that I wanted to
+analyze. I would run the old one and the
+new one. And I would log both results,
+see where the major differences were, do
+a diff between the JSON files because
+they were structured similarly. So I
+could see what was missing, what was
+gone, what was new. And if there were
+any differences, the system would tell
+me what, show me the diff and make it
+accessible for debugging. And in the
+request that it was in, it would respond
+with the new data to whatever function
+or procedure that was calling it. And
+for those servers running this dual
+approach, obviously this incurred twice
+the cost, but I was able to see what the
+old model did and what the new model did
+and how the differences between prompts
+would impact the quality, expectability
+and the reliability of this particular
+data. So for debugging or for just
+migrating over, it was really really
+useful. And I found this very very
+useful for almost anything you do with
+AI tool calls where you're using an LLM
+to get some kind of response or data
+because unless it's purely
+conversational use case where you have
+like an AI chat with your customers or
+something like that, it wouldn't matter
+much there. But if you're doing
+something like background data analysis,
+number crunching, semantic analysis,
+something like that, it really helps to
+have this migration pattern where for
+testing purposes, at the very least, you
+can run both versions at the same time.
+You see good results, you can really
+analyze it. And if you find that the new
+results are not as good as you thought,
+well, you can always roll back and just
+use the legacy version for now and then
+tinker with your new prompts and work on
+your testing and staging systems to get
+the new version ready because you know
+you will have to migrate eventually
+because these API systems will be
+deprecated at some point anyway, which
+is the whole point why I moved right
+from 4.1 to 5 because in the video on
+YouTube, Sam Alman and all the other
+wonderful nerds over at OpenAI were
+talking about GPT5 and how they were
+going be deprecating all the old
+endpoints because there were just so
+many models around and look at it now.
+There's like what 12 15 different
+versions of GP5. But I digress. It's
+just these old things will eventually go
+away and you need to be able to migrate
+to the newer ones. And for that you need
+to have a really strong path because AI
+systems are fickle. They are
+nondeterministic. So you need to see
+what the differences are and adjust,
+which funny enough is also a good use
+case for AI because you can take the old
+data structure, the old prompt and the
+new data structure and the new prompt
+and get the results for the old one, get
+the results for the new one, throw all
+of this into an AI system and tell it,
+well, why did this happen? And how can I
+format the new prompt to get results
+that look more like the old results? Of
+course, this is all kind of witchcraft
+when it comes to, you know, what exactly
+that prompt then suggests to you as a
+solution that may also well be
+hallucinated, but it is a good way of
+trying to figure out how you can get to
+the the kind of data, the structure of
+data that previously worked for you.
+Well, it's always quite helpful to do a
+diff on the JSON data that comes back
+just to see what's missing, what's
+different. Often that'll inform how you
+will reshape prompts. You might even
+have Claude or OpenAI Codex do this for
+you automatically with a command or
+something. And this migration pattern
+has made it into every single service
+that I have that communicates with
+outside machine learning models. It's
+been a godsend really just to see what
+differences are, how things react
+differently on new models and how to
+understand how nuanced your prompts have
+to be to get reliable data or comparable
+data to begin with. Because once you've
+set up a prompt and it works, you really
+want to use it for as long as possible
+because the other things in your
+application, they build on top of this.
+And the migration pattern helps with
+that in establishing it and in
+maintaining it. It also helps that if
+the new service suddenly experiences a
+degradation. With a flip of a switch,
+you can go back to the old one and get
+your data as reliably as you did before.
+It's kind of a de-risking strategy, too,
+because sometimes things go down, right?
+Sometimes all of a sudden service
+command goes up so much that things fall
+off that you just want to you flip back
+to the old one that nobody uses and
+you're going to be fine until the new
+thing is restored. With this, this is a
+config change and that is quite
+substantial. Now that was all about
+migrating between services. Let's talk
+about handling differences that are not
+in the model but somewhere else. And
+I've realized that something that OpenAI
+have kind of not necessarily hidden but
+have made not very apparent in the
+documentation. Some of these cloud
+services offer what we might call
+service tiers and these are different
+priorities for how important your API
+call is and how quickly it gets
+responded to and you pay accordingly. So
+if you're a developer who reads
+documentation thoroughly, you probably
+have spotted this quite early in using
+OpenAI and these kind of platforms, but
+it took me a couple months to figure it
+out, which should tell you everything
+about how quickly I read and how well
+and thoroughly I read documentation for
+OpenAI. I figured out at some point
+every standard request you send is built
+in a default tier. That's the price you
+find on the website where what is it
+currently for GPT5? It's like 40 cents
+per 1 million tokens for the GPT5 nano
+model output tokens. That's what the
+price is on the page. But if you look a
+little bit closer, you can also find
+that they have something like batch
+requests which are significantly
+cheaper. They are usually half the price
+or something like this. But batching
+isn't always useful for people doing
+like on the spot analysis because you
+don't know when your batches will be
+full on your your input side and when
+they'll be processed fully on the output
+side. So for anything that's kind of
+semi-synchronous in nature where you
+need to send the request and then expect
+to work with the results shortly after
+batching is not the most useful
+approach. But what I failed to realize
+is that between this default tier that
+everybody pays and batching that might
+not be useful, there's another tier, at
+least for OpenAI, it's called Flex. And
+that tier is effectively built at half
+the price. Half the price with the
+caveat that it might be slower, might
+take 50% longer, and at certain points
+might not be available at all, but it's
+still the exact same model with the
+exact same data quality. It's just a
+little bit slower, but significantly
+cheaper. And once I figured this out, I
+knew I was going to use the flex tier
+for all my backend stuff, for all the
+stuff that runs in the background. It
+happens behind the scenes because Podcan
+that stuff's just extracting who's the
+guest on the show, what are they saying,
+summarizing the full episode. The fast
+part of Potscan is transcribing and
+making content fully searchable. I try
+to be as fast as possible there. The not
+as fast part is doing all this extra
+background analysis that eventually
+makes it into the system. And if I can
+save 50% of my cost on this, clearly I
+can do twice as much. And that means
+twice as much value for my customers at
+the exact same price that I would pay,
+just a little bit slower. And it's
+background stuff anyway. So I
+implemented this into all my extraction
+and inference background jobs. And since
+OpenAI has implemented in their own SDK
+auto retries for this, I didn't even
+need additional logic for that. What I
+did implement in addition was a
+fallback. So if your request to the flex
+tier runs into a 429 error, which rarely
+happens and means that the system's kind
+of overwhelmed or you're rate limited in
+some way, well, I would then set the
+service tier for that particular job to
+be the next highest one, which is
+standard. And then it would retry and
+actually get the data. So it tries a
+couple times with flex to save 50%. And
+if that doesn't work, it eventually sets
+it to default priority and you pay the
+full price. pay twice as much, but you
+get it done in those situations where
+there's overly strong demand on the flex
+tier. And I've implemented this at
+scale, and it led to an immediate 50%
+price reduction because the flex tier is
+quite available most of the time. And
+I'm not like spamming it anyway. I may
+have what might it be like 20,000
+requests a day. So, it's not that much,
+I guess, compared to other people using
+this. But still, it was really cool. And
+because I have so many input tokens and
+so few output tokens because I throw a
+whole transcript of a podcast hours
+worth of text just to get a couple of
+JSON elements in summarized data. So a
+lot in a little out. The cash tokens on
+that tier all also have price and that's
+quite significant. It then allowed me to
+immediately double the amount of
+extraction and inference I do which
+increases the overall quality of the
+platform for effectively free. Right?
+And that's apparent not just to my
+paying users that things are better and
+more analyzed, but also my prospects.
+And this ultimately leads to a higher
+conversion just a little, but still it
+matters and it's more data in the
+background for people to draw on. So in
+your API calls to any kind of AI system,
+check each platform that you use and
+look for something like service tiers
+and consider how long you can allow for
+something to process. You might even
+want to think about batching. Batch
+pricing costs just as much as flex
+processing on the OpenAI side. And if
+you can't batch and need something kind
+of asynchronous but somewhat
+synchronous, go for the flex here. If
+you can batch, batch away. It's nice
+anyway to do stuff in the background and
+have all of this handled whenever it
+gets done. You don't need to then build
+complicated retry logic and all of that
+to keep your workflows going. Just
+consider that you send it off, it comes
+back at some point and that's it. The
+clear indicator here is that if you can
+batch and have the infrastructure for
+it, that's great. Flex pricing only
+exists on a couple models though, so you
+need to check that out. It's GPD5, 5.1
+at this point, at least 034 models.
+Models like codecs and GPT 5 Pro and 40
+and Realtime Audio might not have flex
+pricing as easily available. Just check
+that. It depends on the models. So, you
+need to figure out this on a per
+platform, per model basis. But if those
+tiers exist and you're not using them,
+well, that's just financial negligence.
+As a founder, right, it's very simple to
+set the service tier. It's just
+literally one property on the API call.
+It's very simple to default back to the
+standard if something is not working.
+And if you have stuff that really needs
+to go through to go through even if
+there is a lot of congestion, there is
+another service tier and that's priority
+which costs double, but you will get
+results even quicker. You have to
+understand that priority might also not
+exist without the certain models there.
+But that's really what Greg Eisenberg
+was getting at with his tweet. There's
+so many models, so many different ways
+of using them that you really have to be
+flexible in implementation and how you
+optimize for this because things change
+all the time. And this brings me to
+something a bit more well-known, I
+guess, but something I found really
+makes a difference if you have a lot of
+data to analyze. Prompt optimization. In
+this case, front-loading the thing that
+repeats itself in your prompt. Frontload
+your system prompt. If you analyze the
+same bunch of data multiple times, start
+your prompts with that data and make it
+verbatim the same every time you use a
+piece of data. For me, that's a full
+transcript. I start my system prompt.
+You're like a transcript analysis
+experts. You do this and that and all
+that. And then I fully paste the
+transcript. And then at the end of the
+transcript, I say the specific thing
+that needs to be done. Sometimes it's
+looking for a particular kind of guest
+or finding sponsors or asking a
+customer's question on it like is this
+about the thing that I really care about
+for my business that my customers can
+set this up in Podscan. They can ask a
+specific question of every transcript
+out there. But I always frontload the
+actual data because those will be the
+cache tokens. Those will cost you 10% of
+what tokens that are different between
+prompts might cost. And I know my data
+case is special because Podcan has these
+massive transcripts that many questions
+are asked on. If you're doing anything
+meaningful where you throw data into an
+AI system for analysis and do the same
+data multiple times for different kinds
+of analysis, put that data that will
+repeat itself first and put the stuff
+that doesn't repeat itself after. So to
+make the order absolutely clear, system
+prompt describing what the thing is,
+then system instructions that are always
+the same like you will extract data in
+this format and so on. Then the data
+that's potentially duplicated between
+prompts and then the specific
+instructions for each prompt. So don't
+go with like you're doing this, you're
+going to extract this kind of format and
+here's the data and then the data is all
+different and then you say something at
+the end that repeats itself. You don't
+want that either. So that's the order
+you want to do and that will cost
+optimize your prompts. It's also very
+helpful if you have multiple prompts you
+want to check. You can take those and
+feed them as data into cloud code
+conversations or chat GPT conversations
+with the express instruction to analyze
+these different prompts, the instances
+of prompts. Let's say you generate like
+five prompts in your own prompt
+generating system and ask these tools if
+they can be optimized and you will get
+insights from the AI that you can use,
+right? They might say the same thing
+that I do. Well, pull this up, put this
+down, and move this around or say this
+differently. I wouldn't take this advice
+verbatim because if you ask an AI about
+prompt optimization, it's still just
+predicting tokens. So, just kind of
+guess what's right. Just because it says
+something might be more useful doesn't
+mean it is. But if you have a lot of
+prompts and let the AI check 10 of them
+at the same time and tell you what you
+could do better, you will get meaningful
+insight from that. And finally, since
+we're talking about using external
+platforms that cost on a per token
+basis, even if you're saving a lot of
+money by doing certain things, build a
+lot of rate limiting into these systems.
+You will need to rate limit the
+customerf facing actions that trigger AI
+interactions. And you need to rate limit
+the AI interactions that can be sent
+from your backend server. You don't want
+a race condition that restarts the same
+process over and over again, triggering
+the same OpenAI call repeatedly, like a
+thousand times a second. Even if using
+cache tokens, this will cost you before
+you catch it. Make sure that if
+something is out of order, like if
+there's 10 times the normal AI tokens
+being used in any given hour, you're at
+least made aware of it and you have the
+abilities to stop it. I have in my
+application a full-on circuit breaker
+for all AI features. If you have
+something like Laravel which has a
+command you can run on your server or
+maybe you have an admin interface where
+you can flip a switch on or off. You
+might want to implement full circuit
+breaker for all AI tools or for specific
+parts of the application. Just turn off
+all AI and then whenever an AI call
+would be made the service checks if the
+circuit breaker is on or off and if it's
+on well then it stops and doesn't send
+the request. for pods scan. Users can do
+something like self onboarding and click
+uh generate a cool default config
+button, right? And I have that on and
+off because if people find a way to
+abuse it, find a way to automate this
+and send hundreds of dollars worth of
+cost my way, well, I want to be able to
+switch that off with a toggle. I want to
+see that it happens and I want to have a
+toggle. So, a feature toggle in your
+back end, not just front end, but in the
+actual back end, right where it happens
+is what I would suggest. And do this
+wherever you think you might need it.
+And then once you build this into the
+locations where you think you might need
+it, have an AI scan your code and tell
+you where else you need to put it
+because you might forget. The AI will
+scan through all your files for you,
+cloud code or codec or something, right?
+It's always a good idea to have an
+agentic coding tool just for this
+purpose. Where are the potential AI call
+abuse situations? And can we have a
+feature toggle there that prevents this
+from being used? If you as an
+administrator turn it off, that's a
+prompt and it will build this for you. I
+think that's a very important feature
+because bootstrappers, solo founders, we
+don't have the means to spend $1,000 on
+a software bug in our system. So, highly
+recommend this for anything which also
+means that any AI usage has to go
+through your backend system, right? You
+cannot implement something and you
+should never that is client side and
+doing an AI call to any platform with
+your token. It's generally not a good
+idea to begin with, but do not do this.
+Always funnel it through your backend
+system so you can reliably turn these
+features on and off and get alerted when
+usage is high. I have several of these
+rate limits in all the features,
+front-end user rate limits, backend rate
+limits, feature toggles, alerts for when
+a feature gets abused on a per account
+system, on a per subscriber type system,
+even per IP as well. I have a lot of
+that tracking and I get notifications.
+And I really think these things need to
+be built in. I have a feeling that tools
+and frameworks will implement this in
+the near future as a kind of a baseline
+anyway, but for now, right now, we need
+to implement this ourselves as founders
+because we don't want to lose money.
+Yeah, the AI landscape is such a weird
+place. It's changing constantly. The
+models change, APIs change, pricing
+changes. I think your job is not to keep
+up with everything. I think that's
+impossible. But your job is to build
+systems that can adapt when things
+inevitably shift. Migration patterns,
+good idea, right? Have the ability to go
+back and forth between implementations.
+Service tier optimizations, pay only
+what you need to, even if it's a little
+bit slower. Prompt caching, rate
+limiting, circuit breakers. I think
+these aren't just nice to haves. These
+are the foundation of running AI in
+production without losing your shirt.
+Built for change. That's the real best
+practice. And that's it for today. Thank
+you so much for listening to the boots
+of founder. can find me on Twitter at
+Avatka AIV ID K Ahl everything I just
+talked about migration patterns service
+tiers rate limiting that's all running
+under the hood at Podscan my podcast
+monitoring platform if you need to know
+when someone mentions your brand or name
+across 4 million podcasts that's what it
+does and for founders still searching
+for the next thing I set up
+ideaspodscanfm
+where AI pulls validated problems
+straight from expert conversations
+sometimes the best ideas are just
+listening to what people are already
+asking for. So, thanks so much for
+listening.

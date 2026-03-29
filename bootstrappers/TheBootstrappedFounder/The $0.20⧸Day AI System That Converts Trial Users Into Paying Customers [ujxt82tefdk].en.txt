@@ -1,0 +1,722 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+[Music]
+This week I want to be as pragmatic as
+possible. Let's talk about not just AI
+this and AI that as I so often do, but
+the actual applications of generative AI
+that I personally leverage within POTS
+scan to get my customers to see the
+value of the product and that as quickly
+as possible. You know, it took me a
+pretty long time to actually realize
+this, but using AI in a SAS, that's not
+just something like a chatbot for my
+customers or something like that. AI can
+work behind the scenes quite
+effectively. And that facilitates
+getting the right stuff in front of the
+right people. And even just to figure
+out who people are and how I should talk
+to them is something that AI can help me
+with. Today I want to share exactly what
+I'm doing, how expensive that is to run
+at my scale and how I believe that this
+can be part of every single software as
+a service business out there. Even if
+you don't have any touch point with AI,
+with the concept of artificial
+intelligence in that business for those
+customers at all, even if you don't
+think you should be offering AI features
+to your customers, there's a good use.
+And I'm going to share with you how I'm
+using it behind the scenes. And speaking
+of scaling smarter, not just faster,
+that's exactly what today's sponsor,
+Paddle, is all about. They're running
+this exclusive five-part online live
+series designed for SAS and digital
+product leaders who want to scale with
+precision. It goes like from pricing
+strategies to exit planning. And each of
+these sessions is packed with a lot of
+experts, a lot of insight, a lot of
+actual data that they pull from their
+own database, improvement strategies.
+So, if you're serious about really
+putting more effort into growing a SAS,
+check out paddle.com's event series,
+because just like the AI strategies that
+I'm about to share with you today, it's
+all about working smarter to create
+these magical moments for your
+customers. So, go to paddle.com to check
+this out.
+[Music]
+Let me start with the internal use of
+generative AI that has been absolutely
+transformative for me and Podcan. 6
+hours after a customer signs up for that
+trial. Exactly 6 hours after something
+magical happens or I coded it to
+actually happen but they don't see it.
+It happens completely behind the scenes.
+I let them explore the platform first in
+those first six hours. But at that 6
+hour mark, I start scoring them or
+rather I have an LLM that is fed with a
+lot of information, score that customer
+for me on a scale from 0 to 10. So I
+take everything that I know about this
+person up until that point and have the
+AI come up with a number following a
+rather complicated prompt on how to
+score them. So here's what I collect for
+this. I collect the domain of their
+email address, their full name, the name
+of the team that they have created. I
+track what and how often people search
+and the general themes of the topics
+that they search for. I collect all the
+kinds of activities they could possibly
+have on the page. If they navigate to
+the dashboard, if they navigate to a
+search window, if they go to the API
+docs and read certain things, or just
+even which podcasts and which categories
+they've checked out along the way. I
+take all of these activities that I
+track very meticulously in my own
+database that at this point has over
+500,000 activities in it from all my
+customers active usage of the platform
+and I condense all of this into one
+single prompt. At this point it's GPT 40
+still that I sent this to and I ask it
+to come up with a JSON object a data
+object that contains a score a number
+and an explanation for why that score
+was given. I set up the prompt so that
+it gives me the explanation first and
+then gives me the store, which is one of
+the most effective ways of dealing with
+LLMs. I I set up the prompt so that it
+gives the explanation first because
+that's a good idea. These systems
+generate one token after the other. So
+to always give them a good reason to
+reason first. Then you're going to pull
+that up front and then later give their
+summaries, any scoring, any reduction of
+granularity of information. That's why
+the explanation should come before the
+points, the numbers, so they can
+actually argue their case towards the
+number. Because if you don't, if you get
+the score first and then ask it to
+explain it, it takes the number that it
+already predicted and then tries to
+justify that number, which always means
+that the explanation is not necessarily
+true. It's just an attempt by the LLM to
+gaslight you into believing that the
+number it gave, the score it gave is
+actually correct. And that number may be
+anything. So it's just better kind of
+inductive method if you think about it
+in in mathematical dimensions to get to
+the result that you want. So I let it
+score this stuff. And if these people
+have a score of five and above, then the
+LLM shouldn't just answer with the
+score, but also with a full data object
+containing a lot of information about
+not just the customer, the potential
+customer, but how I should interact with
+them in the future, what I should be
+doing. And this prompt is incredibly
+specific. I instructed along the lines
+of we're trying to talk mostly to these
+kinds of customers, PR agencies,
+marketing customers, and founders. I
+define who these people are in the
+prompt and what they like, what they
+need, and then I tell the L&amp;M to score
+them higher if they're a founder. And if
+they're a founder, figure out what
+projects they're currently working on,
+so we can talk to them about these
+projects, suggest particular things on
+how to use the platform with their
+specific problems and targets in mind,
+and do web searches, figure stuff out,
+scrape it. And if it's a business domain
+that the email comes from, such as Gmail
+or Yahoo or whatever people might be
+using, I instruct the prompt to look up
+that website, actually look it up and
+figure out what kind of business they
+are. I very intensely and make clearly
+instruct the AI to actually check who is
+signing up. If they know this email
+address, if they know the name and can
+give me more social feeds, maybe to
+reach these people and look for their
+work. That doesn't always work.
+Currently, the GPT models still
+hallucinate a lot of social media
+profilings, but occasionally it does
+work. And if you were to do a tool call
+to an actual API that does this more
+reliably, that's a way to integrate more
+reliable data. But for me, it's really
+just about how should I reach out to
+these people, like what can I talk to
+them about? What can I suggest to them?
+I have the message with the score and
+the explanation and stuff sent to my
+Slack if it's a high-scoring prospect so
+that I or anybody in my sales team can
+start reaching out manually to those
+people and I persist the score to the
+database to the user model the reason
+for the score and the additional data so
+that I can use it later as kind of a CRM
+approach to this particular customer
+right I know who they are where they
+come from what projects they might be
+into so whenever I communicate with them
+I can pull up this data and in my
+administrative ative interface. I have a
+view that lists every single prospect
+over the last 10 days, which is the
+length of my trial. And it shows their
+score, what activities, and how many of
+them they've taken up until now, their
+email, all of that. And then at any
+point where I feel like reaching out to
+them, which is usually around 3 to 6
+days after they start their trial, I
+have a generate email button. And that
+button takes all the activities into
+account. It takes their score, their
+previous data extraction, who they are,
+what we know about them, what they've
+said about themselves in their profile,
+which teams they are on, what alerts
+they have created, what searches they've
+done, all the usage data. It takes that
+all into account and creates a follow-up
+email that looks at all the things
+they've done and then tries to find the
+next best thing that they should be
+doing on Podscan to see the value of the
+platform. That is my value nurturing
+approach. I've instructed that
+particular email generating prompt to
+come up with the best possible keywords
+for an alert or the best search terms
+for a search and suggest that all in an
+email. The email introduces me as the
+founder. It says, "Hey, I'm Arvid. I'm
+the founder CEO of Potscan and this is
+the next step you should take. Any
+questions? Respond to this email." And
+then I sent that manually by taking
+content, putting it into my email
+window. I have a little button that
+automatically prefills my hey.com
+interface with this and I just sent it
+out. And this has been extremely helpful
+in getting people who have done little
+on the platform to actually set up their
+first alert and getting people who have
+already seen a lot of value by searching
+to persist that search into an alert
+because that's my main goal with Podcan
+to get people to set up an alert because
+an alert that generates this kind of
+value memory like value nurturing
+notifications, right? If somebody puts
+in their brand and they get one or two
+mentions of a podcast every single day,
+well that's great. They get an email
+from me every single day with something
+interesting that is valuable. That is a
+value nurturing that just happens
+through the internal mechanisms of the
+platform itself. So that's what I want
+and for that I need people to actually
+sign up or after sign up do an alert
+like set up this alert that really works
+for them. And this has been running for
+a couple months at this point. It's been
+extremely helpful. It has led to a lot
+of interesting conversations and
+conversations even with people who were
+just checking it out, not doing much.
+But a day or two later, I reached out to
+them with a suggestion and they set up
+the alert and now all of a sudden
+they're extremely happy with the
+product. They see why they should be
+using it and they are paying for it.
+It's a great conversion tool. So there's
+a second step too and that actually
+comes much earlier and it's one that I
+only recently implemented because I
+realized that I've been missing out on
+this all along and that is during the
+first onboarding wizard that I have that
+new signups get to see on Podscan. Now I
+had onboarding for over a year and the
+business is a year and a half old. So it
+came to the product pretty early.
+Whenever you come to the dashboard for
+the first time, a full screen overlay
+comes up that says, "Hey, what do you
+want to do? Do you want to look for
+mentions? Do you want to search? Do you
+just want to check out the product?
+Click any of these options and it takes
+you to that section. It's kind of an
+orientation tool, but more here are the
+options that you have and I'm going to
+just show you to the right gate, right?
+I'm going to show you where you need to
+go to get this started right away. And
+if you clicked on monitoring, which is
+my alerting system, and that was the
+default up until a couple days ago, you
+would then be able to set up a couple of
+filters or keywords that you might find
+interesting. You would have to put them
+in yourself into a little list and click
+create my first alert. But it still
+involved a lot of manual work from
+people who just came to this product
+like a couple minutes ago. And I think
+they want to see what it can do for
+them. And initially
+I took the name of the person because
+that's one of the first things that they
+actually gave me in terms of data and
+put that in into the alert. But that's
+not enough. So instead of having people
+come up with and I guess write their own
+keywords into the platform, I
+implemented an automated background
+process that would fetch or generate the
+right keywords for this person while
+they are still going through the
+onboarding process. Because during
+registration, I have this step where I
+ask people to self-classify. They can
+classify as a founder, as somebody who
+owns a podcast, as somebody who's a data
+analyst, PR, marketing, that kind of
+stuff. Or alternatively, I just want to
+check it out and look at transcripts.
+And between these four groups, the one
+that I'm most interested in are
+obviously the data analyst and the
+founder because these are my ICPs. But
+the others might also just be on their
+first step into becoming a customer. So,
+I have this text field additionally
+during registration where they can say
+what their project is, why they come to
+POTSCAN. Some people tell me, I'm
+looking for this particular transcript.
+And then I know they're just there to
+check it out. That's fine. We'll see.
+But some people say, I work for a PR
+agency. We're trying to track what
+people say about our clients, and this
+is who I want to use this product.
+People put that in there maybe in 20% of
+all cases, but the people who do help a
+lot with the system, so I can see what's
+going on. So I take this information, I
+take the domain name again from the
+email that they signed up with and their
+full name and I throw this into a very
+fast model. I think this is the GPT 40
+mini at this point. No, actually it's
+the GPD 5 mini that I kind of got to
+have low reasoning and low verbosity to
+make it fast. and I task it to create
+three good keywords or keyword groups
+that might be good first alert keywords
+that will be potentially useful to this
+particular person. And this selection is
+incredibly effective. If you sign up
+from a Google domain and you're saying
+you're just looking for a transcript, it
+just suggests an alert that might have
+to do with the podcast you might be
+interested in. But if you come from an
+educational domain, you work at a
+university and you say you're a data
+analyst, well then it suggests some
+keywords, maybe even some key personnel
+names from a university that you might
+track like the dean or wherever is
+currently working in the department
+you're in. It pulls that out of the
+domain. And most importantly, if you
+come from a marketing company that the
+AI is aware of, an agency that has
+certain clients, the AI will quickly
+check their website, figure out who
+their biggest clients are, and then
+suggest tracking those clients
+immediately. And that is the magic
+moment. That is what the LLM can do with
+tool calling and with scraping websites
+can actually fetch meaningful
+information that helps onboard the
+customer to their specific use case that
+they might not even know of just yet.
+They might have an inclination of what
+it might be, but the AI can pull this
+out of the context. All of that from
+just a self-classifier, maybe a project
+description and their email domain. I
+think this is very powerful and this is
+one of the things that you could
+implement for your SAS right now and not
+have any other AI feature in the
+product. Just something that helps
+people see this spark, this moment of
+enjoyment, this this value moment much
+earlier because they see, oh, you
+actually care to do research about them
+and your product can be customized to
+this very specific use case that they
+have or might not even be aware of. It's
+really, really powerful. Obviously now
+that they are coming into the product
+with such AI assisted strategy I built
+AI into the product as a generator as
+well. The third way that I use
+generative AI is in the dashboard
+itself. Some people just don't do or
+don't like onboarding. They say no I'm
+going to do this myself. They click skip
+and then they go and try to figure out
+the product. But I still wanted that
+magic of having the system create an
+alert for you to be part of the regular
+experience of pods scan to be a
+repeatable thing that people can do
+whenever they need it. It's not just for
+their first alert that they get to
+create via AI. It should also be every
+other one that they do in the future. So
+I implemented an alert builder. You can
+just kind of free form write about
+whatever you want. You can say, "Hey, I
+want an alert that tracks keywords from
+this particular industry that I'm
+working in. I'm working for this
+company. I'm doing this kind of work.
+I'm using this to create a newsletter or
+whatever. And then the AI tasked with a
+lot of information about the platform.
+It has a lot of information about the
+platform in the context window creates
+the best possible keywords and other
+specific things like contextaware
+questions for that particular filter for
+that particular alert. And that is
+really really fun particularly with the
+context aware question filter. This is
+extremely powerful because that feature
+is an AI assisted check that runs on
+every single transcript that gets
+certain keywords mentioned just to make
+sure that the context is exactly what
+the user wants, right? Because if John
+Smith is looking for a mention, then
+there's a lot of John Smiths that that
+guy might not be interested in being
+mentioned around. So having a specific
+keyword filter that then checks what the
+context of the keyword is where you
+could just phrase it like is this
+episode talking about John Smith the
+professional basketball player? Right?
+that will get a lot of false positives
+out of the way. And that filter, just
+like the keywords, can be presuggested
+by AI. And I've trained this system
+through prompting to give really good
+solid results that work really well with
+pots scans data. The alert builder is
+available in the dashboard for everybody
+like paid accounts, trial accounts,
+anybody can use it. And the list
+builder, which is a similar feature. It
+builds lists of podcasts, has a couple
+of AI assisted creation features to it,
+where you can just say, I want all
+podcasts that talk about Star Trek the
+Next Generation, like rewatch podcast,
+humor, comedy podcasts that have a
+sci-fi angle. You just put that in, you
+click on create list, and the list gets
+automatically generated. It pulls all of
+these podcasts from our own API that you
+can also use, but it uses its own API.
+It searches for keywords like Star Trek
+podcast. It pulls those in. It looks for
+similar podcasts because we have a
+podcast similarity feature that I built
+over the last year as well. And it just
+explores the whole system. It scores all
+these shows and then returns the list of
+the best 50 or so items. That's all
+powered by an AI system that gets the
+best search terms and finds the best
+scoring criteria for that process from
+the text that you wrote. Right? If you
+say, I want to watch Star Trek, the next
+generation shows or whatever, then it
+pulls out obviously Star Trek as a
+search term, but also '90s sci-fi,
+right? All of that is really really
+useful. Things that I could never build
+just through like a lookup system or
+just by by having keywords automatically
+figured out that doesn't work. It needs
+an AI component and it's really really
+useful. So for me, generative AI used in
+a software as a service product doesn't
+mean having a chatbot in there. I don't
+have one. I don't need that. It doesn't
+mean any kind of like overly agentic
+behavior like for the user. For me using
+generative AI and pot scan is just the
+way I communicate with the user and it's
+about making it magical for them to feel
+understood for them to see that pot scan
+gets why they are using it and what
+they're using it for. it understands
+that for their business they might be
+looking for this kind of data. So, I'm
+going to suggest that to them, right?
+I'm I make them see, oh, this is what I
+should look for. And in a moment like
+this, where they already get a really
+good suggestion, they also understand
+how they should be doing this better in
+the future, how they should be searching
+for things more effectively, how they
+should be phrasing things to make pods
+scan be used more optimally, more
+effectively as well. and to be able to
+do this for the prompts that I write to
+have an understanding of the software
+because I can't just say help people
+come up with alert keywords but yeah but
+how do they work like how does the
+system interpret them like jetp doesn't
+know how podskan does this internally
+right so I did a very painful
+walkthrough of the system where I
+manually recorded myself like audio just
+explaining every single feature on the
+platform into transcription software I
+did this for I I think it was 45 minutes
+of just me talking about every single
+thing. I clicked, I opened windows, I
+described them. I said how it works, how
+it works in the back end and all of
+that. And then I had that transcription,
+took that into Claude, had that boiled
+down to a markdown document describing
+very effectively the structure and
+function of the platform. And that
+markdown document is a couple thousand
+lines long. It was condensed then later
+into a more promptable version that is
+part of all these helpful prompts, all
+these steps. These prompts are not
+small. They're quite huge because they
+have a lot of context about what POTS
+scan is and how POTS scan can best be
+used. Particularly the prompt that tells
+people what the next best step is, the
+one that I manually trigger via email
+generation. Well, that needs to know
+what all the potential steps are, right?
+Can't just make up steps. I'm very firm
+on this in the prompt to not make up
+things that I don't offer in the
+software. It did that in the beginning
+and then people asked me well where is
+that feature and then I kind of had to
+build it. So make sure it only suggests
+the things that it knows are possible. I
+had to go through the whole platform had
+to describe everything from start to
+finish and then that became part of a
+prompt. It's also super helpful for
+agentic coding. If the platform is aware
+of itself, right? If the platform is
+kind of self-describing, then an AI
+agent can read that document and figure
+out where things might semantically fit,
+not just where certain kind of models
+and controllers live in the codebase,
+but where in the interface do people
+expect to be able to use certain data.
+It's quite useful. And looking into this
+to whatever kind of software business
+you might be running, I think is a very
+very useful and quite cheap thing for
+you to do. And I don't just mean like
+going through your whole product and
+explaining it. I think that's very
+useful for all kinds of AI assisted
+work, but particularly this kind of
+scoring that I'm doing. You only ever
+have to do this once, right? My scoring
+happens once per customer. It's only one
+request that comes back with a score and
+a little bit of text. Doesn't really
+have too much context other than the
+name, customer, the email, maybe a
+couple things they've searched for,
+whatever. Maybe a couple locations
+they've been in the product, but it's
+not big. cost me less than a couple of
+cents, maybe not even a scent in fees.
+And the same goes for the email
+generated to the customer a couple days
+later. Might also be a scent or two just
+in cost to pull all the information and
+the prompts in there. So that might be a
+little bit more expensive, but I think
+it's still like it's very manageable per
+prospect. And I do it only for certain
+prospects that score fairly high to
+begin with. So on a daily basis, I spent
+maybe 20 cents on this kind of stuff.
+Really negligible. And at the same time,
+you got to be careful with AI in the
+product because it can be very expensive
+if people start using it a lot. So I'm
+very very cautious with anything that
+allows a customer to trigger an AI API
+request like the alert builder or the
+list builder. Those are heavily rate
+limited within Podscans infrastructure.
+If I see anybody using AI requests of
+any kind, they all go through the same
+middleware here more than a couple times
+an hour, then I manually can decide if I
+should block this customer forever or
+deactivate the account if they're
+starting to abuse it. Got to be really
+careful with this because with backend
+processes that trigger AI stuff, it's
+always good to make sure that you don't
+overuse AI API calls just for your own
+sanity and the finances of your business
+can be very expensive. I would track
+them all and see if they go over a
+certain threshold per hour. And you
+should always get an alarm right to your
+phone, right to your email, if that even
+goes over by a couple because you need
+to know immediately once you exceed
+certain usage patterns when new patterns
+occur because if people start abusing
+your system, you can be like out of
+thousands of dollars within a couple
+hours. Really got to be careful here.
+Yeah, let's kind of summarize it here. I
+think tracking who your users are,
+understanding what their needs are and
+suggesting initial configuration for the
+dashboards or for the use of the
+software that can work in every single
+niche can work in every single industry.
+And I see quite a few cutting edge
+founders building this into every single
+product that they create, every SAS
+because it's always valuable to meet the
+customer immediately where they're at.
+And this is easiest to do if you
+investigate where they're coming from.
+What information do you have about this
+person? How can you make it easiest for
+them to see where the value is? So
+inside your product, you can make AI a
+kind of transmission system between what
+the customer knows they want and how you
+need it presented to your database, to
+your algorithms, your backend systems.
+AI can communicate between these two
+because you can put in the effort to
+completely and correctly describe your
+system and then task AI to translate
+between user requirements and your
+platform requirements. That's kind of
+what I do with the automatic alert
+generation, right? I know what a good
+alert looks like. I know what really
+functional keywords are. My customer,
+they only know kind of what they want.
+They only know, oh, I want to listen to
+all these podcasts or those. They don't
+know exactly what words to use. An AI
+can translate that. So, I get the
+keywords and they get to describe what
+they want. And that is a magical moment.
+It's the AI doing work for the user.
+It's almost agentic, right? The AI
+becomes the agent that works for your
+business. It's a different kind of
+agentic. You have this little
+transmission process that an AI does for
+you. This is one way that I think every
+business can benefit from AI and I
+highly recommend you implement it right
+now. This might even be a business idea
+to think about it. Like feels like this
+could be something that everybody can
+integrate. So, you know, take a look at
+it from that perspective if you're
+looking for an idea. Figuring out who
+your customer is and suggesting data. My
+goal is not to wow people with AI
+features inside of my product. The goal
+is to use AI to help people reach their
+own wow moments with my product. When
+you do that invisibly, kind of behind
+the scenes, you create these magical
+moments where everything just works
+exactly as they had hoped. That's when
+AI becomes extremely powerful and
+affordable for bootstrap founders. And
+that's it for today. Thank you so much
+for listening to the Bootstep Founder.
+You can find me on Twitter at arvit arv
+k ahl. If you want to know what
+everybody's saying about your brand on
+over 3.8 8 million podcasts. Potcanfm
+tracks mentions in near real time with a
+powerful API that turns podcast
+conversations into actionable data. And
+if you're hunting for your next business
+idea, you can get them delivered fresh
+from the podcast world at
+ideas.podscan.fm,
+where AI extracts the best startup
+opportunities from hundreds of hours of
+expert conversations every day. Thanks
+so much for listening. Have a wonderful

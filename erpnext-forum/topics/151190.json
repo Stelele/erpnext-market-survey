@@ -1,0 +1,52 @@
+{
+  "topic_id": 151190,
+  "title": "Can ERPNext Send Available Items with Images via WhatsApp?",
+  "slug": "can-erpnext-send-available-items-with-images-via-whatsapp",
+  "category_id": 9,
+  "tags": [
+    "erpnext",
+    "customization"
+  ],
+  "created_at": "2025-08-06T05:57:08.312Z",
+  "last_posted_at": "2025-08-06T05:57:08.437Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/can-erpnext-send-available-items-with-images-via-whatsapp/151190",
+  "views": 41,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 1,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Gowthami",
+  "posts": [
+    {
+      "id": 476460,
+      "username": "Gowthami",
+      "name": "",
+      "created_at": "2025-08-06T05:57:08.437Z",
+      "cooked": "<p>Hi Community,</p>\n<p>We are working on an ERPNext implementation for a <strong>saree business</strong>. The client has a requirement to <strong>send the list of available sarees (items that are in stock only) along with their images to customers via WhatsApp</strong>.</p>\n<p>We are considering using the <strong>WhatsApp Cloud API</strong> or any third-party integration (like Twilio, WATI, Gupshup) for this.</p>\n<p>Here’s what we want to achieve:</p>\n<ul>\n<li>Only items that are currently in stock (stock &gt; 0) should be included</li>\n<li>Each item should include:\n<ul>\n<li>Item name</li>\n<li>Price</li>\n<li>Quantity available</li>\n<li>Item image</li>\n</ul>\n</li>\n<li>The message should be sent to the customer’s WhatsApp from ERPNext (maybe via a custom button or scheduled job)</li>\n</ul>\n<p>Has anyone done something similar?</p>\n<ul>\n<li>Is this achievable using custom scripts in ERPNext?</li>\n<li>Are there any existing apps or plugins that can help with this?</li>\n<li>Any suggestions or best practices for integrating with WhatsApp in this use case?</li>\n</ul>\n<p>Looking forward to your advice and suggestions!</p>\n<p>Thanks in advance<br>\nGowthami</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/g/67e7ee/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 15,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

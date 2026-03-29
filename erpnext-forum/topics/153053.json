@@ -1,0 +1,51 @@
+{
+  "topic_id": 153053,
+  "title": "Adding custom fields to sales invoice and pull data from the customer doctype?",
+  "slug": "adding-custom-fields-to-sales-invoice-and-pull-data-from-the-customer-doctype",
+  "category_id": 6,
+  "tags": [
+    "customization"
+  ],
+  "created_at": "2025-09-02T19:54:54.095Z",
+  "last_posted_at": "2025-09-02T19:54:54.231Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/adding-custom-fields-to-sales-invoice-and-pull-data-from-the-customer-doctype/153053",
+  "views": 22,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "nktech1135",
+  "posts": [
+    {
+      "id": 479766,
+      "username": "nktech1135",
+      "name": "",
+      "created_at": "2025-09-02T19:54:54.231Z",
+      "cooked": "<p>Hello.<br>\nI want to add a field to my customer record to track how documents are sent to the customer, email, fax, mail, Etc.<br>\nThis was easy and that field is added and working. Now i want to pull that value on doctypes like sales invoice, subscription, and others.<br>\nSo i add a custom field to sales invoice with the following params. field type: data<br>\nfetch from: Customer-custom_send_via<br>\nThis field shows in the sales invoice but does not pull the field from the customer record.<br>\nWhat am i missing?</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/n/82dd89/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 8,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

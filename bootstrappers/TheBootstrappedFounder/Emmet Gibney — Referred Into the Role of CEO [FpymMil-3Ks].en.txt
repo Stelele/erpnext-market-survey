@@ -1,0 +1,1833 @@
+﻿Arvid Kahl: Welcome to The
+Bootstrapped Founder. We've all
+heard of climbing the corporate
+ladder. But my guest today,
+Emmet Gibney, takes this concept
+to a whole new level. He shares
+his remarkable journey from
+customer support to the role of
+interim CEO at Rewardful. We
+discuss about this transition
+and the expansion of the company
+on the new private equity
+ownership, how Emmet stepped
+into the void that was left by
+the original founders and just
+how incredibly impactful
+referral and affiliate programs
+can be for us indie hackers.
+From setting up the perfect
+referral program to identifying
+the ideal affiliate profile for
+your business, we just unpack it
+all the tools and tactics you
+need. It's all in there. And
+then we dive into the role of
+building and contributing to
+communities for maximum impact
+as well. A big shout out at this
+point to acquire.com, the
+sponsor of this episode. More on
+that later. Now, here's Emmet.
+Emmet, thanks so much for being
+on the show. Tell us a little
+bit about your journey with
+Rewardful. What's your job
+there? How did you get it? And
+what does a day in the life look
+like?
+Emmet Gibney: Sure. So my
+journey with Rewardful actually
+goes back to before I actually
+started tactically working for
+Rewardful. So I've been working
+for Rewardful since, say, March
+of 2022, I think so maybe a
+little bit more than a year and
+a half. And but before that, so
+back in, I hate to pull up the P
+word. But back around the
+pandemic times, I had been
+working for a travel company
+here in Dublin. And I've been
+working there for a few years
+and then the pandemic hits and
+like the absolute worst industry
+to be in when the pandemic hit.
+And so the company went from,
+like, 120 people to 10 in a, you
+know, in a couple of weeks kind
+of thing, right? And I was one
+of the people who got laid off.
+And so, you know, trying to
+figure out, like, oh, like, what
+am I going to do? And hiring
+just like, you know, ground to a
+halt. And I kind of, in a way, I
+was thinking you know, I'm just
+gonna take it easy, do a little
+bit of like, coding and you
+know, brush up my Ruby on Rails
+skills. And it was actually,
+like, I know this wasn't the
+case for a lot of people. And
+maybe people don't want to hear
+this, but that first sort of
+part of the pandemic was
+actually a very nice time for
+me. Because, you know, it was
+kind of stress free, you know,
+no work and we were having a kid
+coming, you know, a few months
+later. And so sort of a last
+hurrah of freedom before
+parenthood began. Anyways, I had
+known the guys who founded
+Rewardful for a number of years,
+maybe close to 10 years at that
+point in time. And reached out
+to Colin Brady, who were the
+co-founders with Brady Cassidy.
+They're the founders of
+Rewardful. And just said, like,
+hey, like, do you need to help
+with anything? You know, I'm
+unemployed and have some spare
+time. And they're like, yeah,
+like, we're just drowning on
+support. Can you come and help
+us with support? And so I just
+typed into intercom and help
+them out with support and you
+know, helping people figure out
+how to get the affiliate
+tracking installed and did that
+with them for a few months. And
+then our kid arrived and I said,
+okay, you know, I'm just going
+to focus on helping out at home
+for the next little bit when now
+that the kid arrived and then I
+got a job shortly thereafter
+because, you know, you need to
+have an income if you've got a
+kid. And so I worked a real sort
+of classic corporate job for
+another kind of year in a bit
+and did not enjoy my time there.
+But it was like, you know, for
+personal reasons, we need to
+like get a mortgage and needed
+to have, you know, kind of a
+stable job. And once that was
+settled, then I reached back out
+to Colin Brady and said, hey,
+like, you know, I'd love to work
+with you guys on a permanent
+basis. And my background
+professionally was in sort of
+product management and bit of
+like content marketing and
+things like that. Anyways,
+reached out to the guys. And
+they said, yeah, sure, like, you
+know, we've got, you know, we've
+got a spot for you and went and
+joined them in March of 2022.
+And for the first call it eight
+or nine months that I was there
+was primarily working in kind of
+a marketing capacity and some
+background context. Rewardful
+had been acquired by private
+equity company or group called
+saas. group, which is currently
+the owner of Rewardful. You can
+go to saas.group if you want to
+learn more about saas. group and
+if you're interested in selling
+your SaaS company, you can go
+check them out. And so they had
+acquired the company a few
+months before I had joined the
+company full time. And so, come
+November 2022, Colin Brady had
+finished their, I think or no
+period is sort of the technical
+term. And they decided that they
+wanted to move on. They've been
+working on Rewardful for, you
+know, five years, mostly, like,
+on the side of their full time
+jobs. And so they were pretty
+tired and decided they wanted
+to, you know, take a bit of a
+breather. I think Kyle had a
+just had a kid and decided,
+like, you know, he wanted to
+take a bit of a step back. And
+so November, at that point in
+time, there was, I think, five
+or six of us calibrated then
+left. And so our team went from
+six to four and the company was
+growing quite rapidly. And so
+within the group, not just
+within Rewardful but within the
+group, trying to figure out
+like, okay, you know, what do we
+do now? We've lost the CTO and
+effectively CEO of the company.
+And one of our, I guess, lead
+developers, I don't know what
+his title was actually at the
+time, but Chris Kottom. He
+stepped up to be the CTO and
+then we started effectively,
+like, external CEO search. And
+then I moved up to being head of
+product, which is sort of a
+portion of Brady's role. And but
+in the intervening months, I
+basically started taking over a
+lot of sort of the CEO type
+functions, you know, like
+handling all this stuff in terms
+of finance and reporting up to
+the board. And, like, all the
+sort of, you know, firefighting
+that you do in that type of
+role. And once a quarter, we
+basically have a presentation
+that we give to the guys that
+run saas. group in terms of how
+we're performing and what we're
+doing and initiatives and things
+like that. And I basically said
+to them, like, listen, I've been
+basically, you know, running the
+business for the last few
+months. I know we've got this
+external CEO search. Would you
+mind if we pause that? Let me
+continue to operate in this role
+for the next several months. The
+place hasn't burned down yet. If
+it doesn't burn down, you know,
+within the year kind of thing,
+can I do this, you know, on a
+permanent basis? And they said,
+yeah, we'll let you do that. And
+that's where we are now in sort
+of an interim CEO of the
+business. My title is
+technically head of product. But
+in terms of, you know, your
+question around on a day to day
+basis, you know, what does my
+day look like? You know probably
+5% or 10% of my job is actually
+product related. There's so many
+other aspects of the business.
+So like, you know, today I was
+reviewing a new template for our
+data processing agreement. Every
+now and then we get requests
+from people who are in Europe
+who want a data processing
+agreement. That's sort of a
+requirement under GDPR when
+you're working with what we
+would be technically classed for
+a lot of our customers is a sub
+processor. So diving into
+marketing, we're starting to do
+a lot more content marketing. I
+used to run a video production
+company and sort of a past life.
+So content and particularly like
+video content is something that
+I'm pretty comfortable. And
+we're looking to hire new
+people. So you know, putting
+together job specs,
+occasionally, you know, jumping
+into product team meetings with
+the developers and our CTO, you
+know, figuring out, like, which
+features should we be doing
+next? What should we be
+building? How should we be
+building it? A lot of customer
+calls, demos and sales calls.
+You know, I think it was last
+Monday or something like that, I
+had eight customer demos in one
+day. So that was a very busy
+day. So there's a lot of that
+almost every day there's at
+least one sort of customer demo
+that'll be doing. And, you know,
+a lot of sort of firefighting
+little things that come up, you
+know, you need to address and so
+it's a very varied role. And
+it's kind of the way I like it.
+I am more of a generalist
+generalist. I like breadth as
+opposed to depth. And then, you
+know, the guys that run saas.
+group, they run like 14 or 15
+other companies. And as result,
+they've kind of leave us at it
+as long as things are going
+well. They give us enough rope
+to hang ourselves with. And so
+far we haven't. So yeah, that's
+a little bit of sort of my
+journey and what I'm doing it at
+Rewardful. And yeah, what my
+sort of day to day looks like.
+Arvid Kahl: Wow, thank you for
+sharing all of this. That's a
+wonderful and very rare example
+of just growing into the role of
+CEO in the business. It's just
+feels like usually like if you
+have an external one, they come
+in and they take over. And it's
+kind of a top down approach. But
+your whole journey with the
+business and the founders is a
+very organic one starting out in
+support, getting into product,
+into marketing and then moving
+into just doing the job that
+needs to be done because there's
+a void that needs to be filled.
+That has a very indie hacker
+like touch to it, you know,
+like, it's just you do the
+things that need to be done
+because that's the way forward.
+That's really cool to hear. And
+the fact that it's a very varied
+job well, yeah, that's just the
+role of a CEO in a small SaaS
+business like this, right? You
+have to do everything. I really
+appreciate that you mentioned
+saas. group here because you
+said they're running like 15-18
+other companies. They almost
+bought mine. Like we were
+actually in conversations with
+them selling Feedback Panda. We
+went for it with a different PE
+group at that point. But we
+actually had negotiations about
+that, too, when we sold back in
+2019, right? That was the time
+that we talked about selling our
+Productivity Online Teacher
+business. So I have a
+relationship with saas. group.
+And it's interesting to see how
+far they have come since then as
+well. Like the last couple of
+years, they've been busy if
+that's the current portfolio
+that they're operating
+Emmet Gibney: Yeah, they
+probably would have been about
+three or four or something like
+that, at that point in time.
+Arvid Kahl: It wasn't that much.
+We would have been one of the
+first. It didn't align because
+we were in a market that, you
+know, wasn't that interesting,
+apparently or the way that we
+ran the company was different.
+But no matter why it didn't work
+out, it's cool to see that it
+worked out for Rewardful. And in
+a way that also worked out for
+you, right?
+Emmet Gibney: And I got very
+lucky, like you're saying in
+terms of this natural
+progression. Like, yes, it was
+this kind of this natural
+progression in a lot of ways.
+But I was lucky in a lot of
+respects in that the opportunity
+presented itself. And I was
+lucky that they were open to the
+idea. You know, they could have
+very easily said, well, no.
+We're going to continue our
+search to find someone external.
+You know, they've just spent,
+you know, X millions of dollars
+to buy the company. And we're
+going to protect that investment
+by, you know, getting a steady
+hand who's done this kind of
+stuff before. Who are you?
+Right? And I mean, technically
+still, they could do that,
+right? Like they might decide
+that, you know, they want to
+find someone with more
+experience and so forth. But
+I've been very lucky, maybe some
+additional context too is prior
+to Rewardful, Kyle Fox and I
+were actually co founders on
+another startup, which was
+healthcare software startup. And
+I don't know if you've had any
+experience or know anyone who's
+had experience in the healthcare
+industry, whether in software or
+otherwise. But it is a brutal
+industry for startups. And
+anyone who's ever, you know,
+subsequently come to me and
+asked about, like, advice in
+terms of healthcare software and
+startups and stuff I've said,
+basically just run, like, just
+don't because it's just such
+like a enterprise sales cycle.
+But the point of bringing this
+up is just that Kyle and I had
+had worked together previously,
+so you know, wasn't coming in
+just like totally cold and
+having no kind of working
+relationship, that kind of
+thing. But I've been super
+lucky. And the guys at saas.
+group have been super like,
+supportive and not micromanaging
+everything we're trying to do
+and which I totally could have.
+And I've heard of cases of, you
+know, PE groups that that's how
+they kind of operate. And so
+we've been really lucky that
+they've been awesome.
+Arvid Kahl: Yeah, I was
+wondering because usually when
+you sell a software business,
+when you're just like a couple
+of founders and you built it
+too, a meaningful but you know,
+not like enterprise level, just
+amount of MRR or ARR. And then
+you sell it, there's a kind of
+shift in the incentives and the
+goals that you may have had
+compared to the goals of a
+private equity group. Did you
+find that you had to make like
+significant changes that the
+original founders probably would
+not have made in that business?
+Emmet Gibney: No, I don't think
+so. Not yet. Like I think part
+of the part of the reason why
+they left was and maybe I should
+not say anything just because
+like, I don't actually 100% know
+what's in their brains but like,
+I think there's a little bit of
+a different kind of not so much
+skill set but like preference in
+terms of different stage to be
+working at. And the types of
+things you have to do are very
+different, like that very early
+stage when you're building like
+from zero, you know, what's that
+period sale book, zero to one,
+like, that's the hardest kind of
+phase. And I think there's a
+certain kind of skill set and
+like comfortability with chaos
+and this kind of thing. And I
+think like, you know, Colin
+Brady are really good in that
+stage and I can see, like,
+they've already gone and started
+new projects. They've got a new
+project they're working on
+called Review Rocket, which is
+basically like helping SaaS
+companies get reviews on, you
+know, all the different set of
+software review platforms. And
+so, you know, in terms of that,
+like next stage that, you know,
+we certainly haven't done
+anything where it was like, oh,
+we wouldn't have done that or
+like the team has grown a bit
+like, you know, we've added
+three people, which is not a
+huge amount of people. But when
+you go from four to three,
+you're, you know, you've almost
+doubled the size of your team.
+And, you know, you're doing a
+lot more hiring. That's a big
+one, like things really change
+in terms of the dynamic when you
+add more people. And then
+there's other stuff that's it's
+the comes in that it's not so
+much about the stage that
+Rewardful is and this stage of
+Rewardful is going to put a lot
+of it's actually about the stage
+that saas. group is in and the
+stage they're going into. You
+know, we've gone from four
+people to three people, which
+is, you know, whatever. But
+saas. group in September, we had
+like, a all portfolio get
+together in Lisbon and there was
+100 ish people in that came,
+maybe 120 we're in the total
+group. And now I think we're at
+like 220 or 30 or maybe 50, I
+don't know, right? And so we're
+meeting again in September, this
+time in Barcelona. And, you
+know, they're bringing 200
+people from all around the
+world. But the point I'm getting
+to, though, is that the types of
+processes that you need to have
+in place, one to manage all
+these different portfolio
+companies, but then also as sort
+of like a central body, right?
+So like centralized HR
+processes, centralized finance
+processes, recruiting and hiring
+kind of processes. And I think
+they've done a pretty good job
+of kind of having the best of
+both worlds where I only speak
+for our company. I don't know to
+what extent it's like this for
+other portfolio companies,
+pardon me. We certainly feel
+like we have the autonomy and
+room to run and to, you know,
+feel like a startup whilst
+living within this broader
+thing, right? And so we have the
+benefit of sort of structures
+and there's, you know, HR
+processes and you know, finance
+handles payroll and so there's
+all that kind of stuff that
+normally, you just don't expect
+in a startup like, you know,
+onboarding and helping
+onboarding like, you know, what
+are you talking about if you're
+in like a five person product?
+Yeah, I don't know exactly. And
+so we have to the benefit of
+some of that structure and then
+also have the benefit of like,
+they kind of let us operate and
+do what we want to do. And we'd
+let them know what we're up to.
+And you know, so far, I haven't
+felt over pressure to do
+something that we weren't
+thinking we were going to do
+anyway. And the other benefit
+too is like, these guys have a
+fountain of knowledge and
+experience in software and SaaS
+businesses. And across the
+portfolio, we've got access to
+huge amounts of help, like, both
+on an internal team basis. So
+like there's a marketing team
+and a product team. We need to
+get like a designer to help with
+product work or we need you
+know, we got a lot of help from
+the internal marketing team on
+optimizing pay per click and
+content and SEO. But then across
+the different portfolio
+companies, you know, just
+reaching out to one or the
+other, it could be a founder or
+there's a CEO one of the other
+companies or it might just be
+like a head of some, you know,
+team. Like I reached out to the
+head of sales at Pipeline. It's
+one of the other portfolio
+companies. They're a CRM
+company, just asking them about
+sales and setting up you know,
+we're thinking about we don't
+have any outbound sales, but
+just trying to understand how
+are they doing that? Or you
+know, support talking to someone
+like, you know, how can you, you
+know, manage support and all
+these different things. So it's
+just been a huge learning
+experience working with them.
+And it hasn't felt like, you
+know, you need to suddenly
+there's this kind of, you know,
+the board coming in and
+simulating into some sort of
+like process. You know, that's
+ultimately like enterprise-y
+bureaucratic in nature. So we
+haven't felt that at all, which
+is awesome.
+Arvid Kahl: Yeah, I do like a
+good Star Trek reference. So
+thanks for that. But honestly,
+this is something that I've
+noticed too, as we transitioned
+our company to the private
+equity company that we sold to,
+just to see the
+interconnectedness of all the
+other portfolio companies in
+there and how easy it was for
+the developer that we hired to
+go and work on other projects,
+if there was downtime, if they
+didn't have anything to do on
+ours. That was really
+interesting. And it's something
+that I was kind of afraid of
+that, as a founder of a
+business. I didn't want other
+people to interact with me. I
+wanted to build my own thing,
+right? Which is why we never
+hired. It was so bizarre. We was
+just Danielle, my co founder and
+girlfriend and I, together
+running this business, never
+really hiring anybody having
+1000s of customers trying
+desperately to keep them under
+control, then we sold the
+business and we transitioned it
+over. And all of a sudden, there
+was this interconnected group of
+also hundreds of people just
+doing the work together much
+better than we would do it
+alone. It was a humbling
+experience for me as an indie
+hacker to see that this was an
+option. And as you said, the
+cofounders of Rewardful, they
+probably might also feel like
+this and they're probably right
+to feel like in their state of
+how they want to build a
+business, just in my perspective
+and opened my eyes to that there
+is a way past the isolated indie
+hacker experience into a much
+more collaborative, bigger
+system. But that still allows
+you to act individually. That's
+really cool to see how well that
+worked for you. I guess it
+depends on the private equity
+company you work with, right?
+Not every company will give you
+that much leeway.
+Emmet Gibney: Yeah, no, and I
+think as you're saying that and
+kind of your experience there,
+that was a thought that entered
+my head is like, I have, you
+know, one data point. And it's
+been a good experience. I was an
+employee, right? So my concern
+was more about like, oh, geez,
+like, what's my work life gonna
+be like? But I can imagine,
+like, as a founder, you know,
+being really worried about, you
+know, someone's going to mess
+with my baby kind of thing,
+right? And yeah, so I think
+like, you'd want to be careful
+and do your due diligence if
+you're, you know, an indie
+hacker looking to sell your SaaS
+product or whatever, to make
+sure that they're not going to
+just, you know, ruin what you've
+created or just like make that
+process, you know, stressful.
+And, yeah, like, I think it's
+definitely something that people
+should consider. As I've been in
+the machine now myself, I've
+been thinking like, oh, if I was
+ever to do this, I'd want to
+stick around kind of as long as
+I'm learning stuff because I've
+just learned a huge amount, you
+know, just kind of seeing the
+way these other companies are
+run. And I have access to a lot
+of sort of metric type
+information and a lot of these
+different companies and seeing
+the things they're doing and
+benchmarking and seeing like,
+okay, like, you know, this is
+how much revenue they're making
+per employee. And, okay, this is
+how much they're spending on
+their PPC. And, okay, like, the
+CRM industry is very different
+from like, our industry. The
+customers are different, their
+go to market and kind of
+benchmarking these different
+things. And it's just been, you
+know, I think education, you
+know, I'm sure getting, you
+know, bought out is probably the
+primary driver. But like, just
+learning and personal growth as
+an entrepreneur, I think, is a
+huge reason to join one of these
+types of groups. And, yeah,
+definitely, I think it's a
+worthwhile option to look out
+for people.
+Arvid Kahl: Yeah, I mean,
+getting bought out, that's the
+dream, like getting the
+financial stability, security
+and beyond. Obviously, that's
+why most people or many people
+at least built the thing, why
+they get into something as crazy
+and risky as entrepreneurship.
+But I think the learning along
+the way, in retrospect, I find
+that that was more important in
+a certain way, obviously,
+financial security is a
+wonderful thing. And we got that
+too when selling Feedback Panda.
+But the learning along the way
+and keeping learning beyond,
+that is more important for just
+to have a continued life of
+achievement or just to feel
+fulfilled, have passion of
+purpose, that still needs to
+happen. Because if you just stop
+working on the product, somebody
+buys it from you. Now you have
+millions. What are you going to
+do? You're not going to sit on
+the beach, right? That is the
+illusion of entrepreneurship is
+that you're going to retract
+completely from life and just
+sip daiquiris every day. That's
+not going to happen. You still
+need to, you have this passion,
+you can actually mobilize this
+passion, you want to keep
+mobilizing that passion. So it's
+really cool to see that you're
+getting this without the
+existential risk of having
+somebody destroy your baby,
+that's really cool. For you,
+this is a great situation. And
+one thing that you said earlier
+that I find almost hilariously
+fitting is that you're kind of
+you got referred into your spots
+for a company that does referral
+or helps other people with
+referral systems for you to be
+constantly referred into a job.
+It's really, really fitting. I
+would like to talk about
+referrals a little bit because
+from what I understand your
+target market is indie hackers,
+people like us, people like me,
+people who are building
+businesses and I guess many
+people don't really understand
+the value of a referral system
+or an affiliate system. And I
+would like to, I guess, give you
+the opportunity to convince me
+that my next SaaS business
+should definitely have either
+affiliates or a referral system
+or both. So try that.
+Emmet Gibney: Yeah, sure. So
+first off, I'll make the
+distinction between a customer
+referral program and an
+affiliate marketing program. And
+this is good timing because I
+just before I was on this call
+with you, I was actually just
+recording a course for this. And
+this was like the, you know, the
+slides I was going through, so
+it's timely. So customer
+referral program, the key
+distinction between the two is
+basically a customer referral
+program, you're not gonna be
+paying people a commission.
+Typically, it means like, you're
+paying them like a credit or
+something like that, right? So
+imagine Feedback Panda, if you
+had a customer referral program
+and you know, customer A refers
+customer B to join. You'll give
+them like, maybe a free month or
+something like that. And you
+would credit them, you know, so
+that, like, there's no exchange
+of cash. There's no commission.
+Customers, you know, they
+obviously, it varies depending
+on the industry, but they
+oftentimes can't be bothered
+with like signing up to your
+affiliate program and you know,
+getting paid out and Pay Pal and
+all this kind of stuff, right?
+So that's customer referral
+program. Affiliate Program is
+I'm an affiliate and I want to
+make money and I'm, you know,
+maybe I've got like a blog or
+I'm an influencer or something
+like that. I'm trying to
+monetize my audience. I'll go
+looking for affiliate programs
+to join, where basically, I can
+refer customers to these
+businesses and they're going to
+pay me in commissions cold, hard
+cash, right? Rewardful enables
+both situations. Customer
+referral programs is a little
+bit more complex in terms of the
+installation and sort of
+building of it. Because there's
+more interaction in terms of,
+you know, doing a credit within
+Stripes, API and this kind of
+stuff, right? Affiliate Programs
+is much easier to set up within
+Rewardful and whoever you're
+going with. And so in terms of
+why you want to use either of
+these, word of mouth marketing
+is a very effective way, maybe
+the most effective way of
+getting customers. Anecdotally,
+even beside our affiliate
+program, a huge amount of
+customers that Rewardful gets,
+as people just talking about us
+on Twitter. Someone asks like, I
+want to set up a, you know,
+affiliate program. Who should I
+use? And someone chimes in and
+says, you know, checkout
+Rewardful. And so just word of
+mouth is very powerful. And so
+if you can incentivize people to
+refer customers to you, that's a
+great model, right? You're
+rewarding your existing
+customers for bringing in new
+customers. The new customers
+know that if this person is an
+existing customer, well, they're
+not going to refer me to
+something that they don't want
+to use and so that social proof
+you know that speaks volumes,
+right? And then in terms of
+affiliate programs, they work a
+little bit differently. The
+principles are the same in terms
+of word of mouth is valuable.
+But you know, probably people
+might be a little bit more
+guarded when an affiliate says
+you know, check out this
+product. Everyone knows you
+know, influencers now like you
+know, hashtag ad or whatever
+they've, you know, if they're
+doing an Instagram post or tweet
+or whatever. But it might not be
+as impactful in terms of, you
+know, people might be a little
+more skeptical if an influencer
+is recommending something. But
+you understand this. You know,
+the Twitter audience guy and
+building relationship that an
+influencer or anyone with an
+audience, they have social
+capital with that audience. And
+they can drive commercial
+behavior, right? You know,
+recommend some sort of product
+if it's a fit in terms of
+whatever their you know,
+expertise is, right? Like, if
+you were to become an affiliate
+for Typefully, that's a customer
+of ours. They've got an
+affiliate program. And you were
+to recommend this is a Twitter
+tool, it's a perfect fit in
+terms of your audience. That
+would probably perform quite
+well. And you'd probably make
+some decent money off of it and
+Typefully gets customers that
+are, you know, that are within
+their ideal customer profile and
+so forth, right? So it's a good
+fit in that perspective. In
+terms of some numbers, that
+might be interesting. It varies
+greatly, obviously, from
+business to business, industry
+to industry. But typically what
+we'll see is for a business that
+is up and running and generating
+revenues already, typically,
+you'll see anywhere from 5 to
+15% added to your MRR. In some
+cases can be higher. And then
+obviously, in some cases, it
+doesn't work for some businesses
+or they don't make it work
+because you don't put in the
+effort to run the program. And
+so if you're already up and
+running, it's just a great
+channel to add to your marketing
+mix. And it's just like leaving
+money on the table by not, you
+know, operating an affiliate
+program. Obviously, there's a
+bit of work to do. We can talk
+about that in a bit in terms of
+best practice and how to make it
+worth your while. But it really
+is just like a great channel to
+add. There's also another factor
+to take into consideration is
+launching a SaaS or any kind of
+launching any kind of business,
+right? You've operated in the
+course world and info product
+world. And that's an industry
+where we have a lot of customers
+in that space as well. That's a
+space where a launch really
+works quite well, right? Like
+building a hype to something and
+then releasing it at launch. And
+then, you know, either you
+remove whatever the sort of
+promotion is or you remove it
+from the market, that's a common
+thing. And so if you can launch
+with a group of affiliates
+behind you, you can expand your
+reach and get much more people
+into that sales process. And
+we've seen some ridiculous
+stories of people launching SaaS
+products. The case study that's
+actually on our website. And
+it's something we've got, if
+people might see our ads on
+LinkedIn and YouTube for this
+particular case study. A
+customer of ours called Commonly
+and they launched, I can't
+remember exactly when it was
+2020 or 2019. But they launched
+and within their first week,
+they hit $54,000 in MRR and that
+was with one or two affiliates
+that were kind of perfectly
+placed within their market.
+Caveat like you know, disclaimer
+etc like, results will vary and
+don't expect you know, not
+everyone should expect that. It
+really comes down to the quality
+of the affiliates. We had
+another case. I can't say who
+they are because we haven't like
+they haven't agreed to give us a
+case study and that kind of
+thing. But we had one customer
+back in March. And they launched
+their business in I think it was
+like the first or second week of
+March and by the end of the
+month, they had hit $800,000 in
+sales, from zero to 800,000 in
+like two or three weeks and then
+it like it drastically kind of
+tapered off from that. You know
+it's a real kind of classic
+launch where it's like peak and
+then it kind of trickles off to
+you know some kind of more
+normal level. But like this,
+we've seen some insane stories
+and sort of in terms of people
+launching both SaaS and info
+product type businesses using
+their affiliate programs and so
+yeah that's kind of the pitch to
+like why you should set up an
+affiliate program. It's not easy
+to have those type of results or
+even just to run an affiliate
+program but it's not
+complicated. Like there's some
+pretty simple principles to
+adhere to and but yeah like any
+SaaS business that is in a
+product led you know self serve
+SaaS type of model should be
+considering adding it to their
+marketing mix for sure. Yeah
+Arvid Kahl: Yeah, you convinced
+me. You not only need to
+convince me now you also
+convinced me retroactively
+because we did have such a model
+for Feedback Panda. And it was
+an internal like a customer
+referral system. I built this
+myself because I didn't know any
+tools existed and it was
+horrible to build. So I'm glad
+that you actually offer
+something that I could just plug
+into Stripe. I would prefer
+that.
+Emmet Gibney: To everyone out
+there, don't do it yourself.
+There's a lot of stuff that's
+going on in the background and
+background processing and all
+this kind of stuff. You don't
+want to, yeah, it is a whole
+other product, like. Yeah.
+Arvid Kahl: It's like building
+Stripe yourself and doing credit
+card charges all by yourself.
+It's just really not worth it.
+And then that's the thing, my
+indie hacker journey was full of
+lessons on what I should not
+have built in retrospect. This
+one was one of them. We did, I
+think like a two sided or maybe
+even a three sided win win win
+situation. We gave people a free
+month if they gave somebody or
+if they got somebody else onto
+the platform. So that's going
+to, you know, I think three
+people, you get a free month
+because we wanted to have a
+multiplier in there. And then
+each of these people that came
+on also got their first month
+for free as a double sided
+incentive. And we can talk about
+the specifics in a second. I
+just want to get back to what
+you were saying about SaaS
+businesses, launching with an
+affiliate system, which is the
+other side of what you offer.
+I've seen this done extremely
+successfully in several products
+over the last couple of weeks
+and months. In fact, over the
+last couple of weeks, I talked
+to two indie hackers on this
+podcast. One of them was Tony
+Dinh, who had launched Black
+Magic, which is also a Twitter
+tool with an affiliate system.
+And it was quite successful. And
+I think just last week, you
+know, on this show, I talked to
+Louis Pereira, who launched
+Audio Pen, which is a ChatGPT
+based audio to summary
+conversion tool. That's a very
+basic way of describing it. It's
+really cool, got to product of
+the day, second product of the
+week and fourth product of the
+month on Product Hunt, got a lot
+of initial success, also
+launched with an affiliate
+system and made significant cash
+just from that by having people
+be affiliates that are really
+aligned with his audience. And
+that's something I wanted to
+talk to you about because I have
+a horror story here. Maybe
+that's a bit strong of a term.
+But earlier today, I got an
+email by a company that I have
+never heard of before. And they
+just told me how they would love
+for me to be an affiliate for
+their product, just click here
+and you become part of my
+affiliate system. That was kind
+of their pitch in that email.
+And I was looking at that email.
+And I was thinking, like, I
+would have probably been
+interested in this company if
+they hadn't just tried to push
+me into the role of an
+affiliate. So I think there are
+ways to do it really well. I'm
+looking at Louis and I'm looking
+at Tony and how they started
+their journey with the affiliate
+system and ways to do it not
+well at all, which seems to be a
+cold email sent to a massive
+amount of people asking them to
+join the affiliate system. So
+how do you find the right
+people? As a SaaS entrepreneur
+who wants to have affiliates to
+send this to without breaking
+trust? Like, that's what
+happened to me today in that
+email. I don't trust this
+company. They just want to make
+money off me and my reach.
+That's how I felt. So I'm not
+going to get it. Again, I'm not
+going to go for that. On the
+other side as a founder, how do
+I get the right people? And how
+do I build trust with people so
+that they becomereliable and
+trustworthy affiliates?
+Emmet Gibney: Yeah. So the first
+thing that springs to mind is
+important, I guess, in terms of
+managing expectations and around
+affiliates and your affiliate
+program. You know, everyone's
+heard of the 80/20 rule. Right?
+So 20% of your results will come
+from 80% of your efforts or
+inputs, right? This applies in
+affiliate marketing, but it's
+more extreme, it's more like
+99/1, like what 1% of your
+affiliates will drive 99% of
+your results, right? So the good
+news with this is it means you
+don't need a lot of affiliates
+to see actual results, if you
+can find the right affiliates.
+So it's following this kind of
+classic power law, right? Like
+where you've got a huge amount
+of results from small number of
+people and then it kind of this
+long tail, the long tail is
+valuable. Like there's value to
+be had there. And I would say
+though, like it's probably more
+worth investing in, like these
+more kind of power or higher
+influence type of affiliates.
+That's where the value really
+is. And it really is just about
+trying to build relationships
+with these people, right? So the
+advice I commonly give to people
+is, first step is to identify
+your ideal affiliate profile. So
+in marketing and sales, you talk
+about like your ideal customer
+profile, right? Like who's the
+ideal customer you want to go
+after? For us indie hacker is
+one of our two sort of main ICPs
+ideal customer profiles. And so
+for an ideal affiliate profile,
+you got to figure out okay, for
+my product, the market that I'm
+in, who are the people that my
+customers are engaging with,
+right? And so that example I
+gave earlier of Typefully and
+that's probably like a pretty
+pretty good fit in terms of
+audience, right? And so like if
+I was Typefully, what I would do
+is first step is identify that
+ideal profile. Second step is
+start doing research to put
+together a list of people that
+fit in within this profile. What
+I've done in the past is I've
+gone to places like Upwork or
+Fiverr. And get them to do the
+research because it's kind of
+it's time intensive. And if
+you've got the budget for it,
+you can find virtual assistants
+that are quite affordable. And
+you know, put together a
+spreadsheet with all the
+different sort of data points
+you're trying to find from about
+the people. So like, you know,
+name, website, email address,
+twitter handle, number of
+followers, etc, etc, etc. And do
+like 10 of them and then go to
+Upwork and say, okay, I want you
+to find me as many more of these
+people as possible. Here's kind
+of the profile I'm looking for.
+Go research for two hours and
+then come back to me and show me
+what you've got, look at what
+they've got, you know, give your
+feedback to kind of refine their
+search and then send them back
+at it. And, you know, get them
+to research as many as they can
+find or as many as you can, you
+know afford within your budget.
+And now you've got your list of
+people that you're going to
+reach out to. Then the next step
+is the outbound outreach
+process. And this is where you
+want to be really careful, like
+you don't want, even if you are
+doing cold email, there's a way
+to do cold email that feels
+better and less greasy than
+other ways, right? And the way I
+would and I'm no cold email
+expert, but the way I would
+categorize it is like, there's
+certain elements of the outreach
+you're going to do that are
+somewhat formulaic and then
+other elements of it that are
+going to be personalized. And so
+you got to kind of figure out,
+like, what those are, right? And
+actually do a little bit of
+research on all of these
+different people that you're
+planning to reach out to. And
+the bigger the audience is for
+these people you're reaching
+out, the more time you're going
+to want to spend to try and win
+them over. And so if I was
+trying to sell some, if I was
+Typefully and I was trying to
+recruit you as an affiliate, I'd
+be like, okay, like, this guy is
+like, perfect in terms of
+audience, match and relevance.
+So like maybe we just take it
+off to the cold email and we try
+to build that relationship in a
+different way, right? And
+actually start going to try and
+engage with them, you know,
+follow them on Twitter and start
+like, you know, your courses
+talk about like how to build
+these relationships with with
+people, right? You know, try not
+to be quite so, don't be quite
+so transparent in your
+transactionalness, right? Like,
+actually try and build
+relationships with partners. So
+that's what you're doing. You're
+trying to build partnerships.
+And it's worth the time to do
+that with people that can drive
+those results, you know, that
+99/1 rule I talked about. Like,
+okay, those people that are in
+that 1%, like, take the time to
+build those relationships. Look
+at it as more of like a
+partnership as opposed to just
+this very transactional
+affiliate type relationship. One
+of the things, one of the
+questions that we get from a lot
+of prospective customers is do
+you guys have a network? And so
+there's a lot of affiliate
+networks out there where they do
+both the affiliate tracking and
+management as well as they've
+got a network of affiliates. So
+you think back in the day, like
+Clickbank and commission
+junction and these different
+places where it's more of this
+marketplace of products and
+affiliates. So we have a lot of
+prospective customers who come
+to us and say like, oh, do you
+have a network? Oh, how am I
+going to find affiliates? And in
+that there's this misconception,
+there's this false assumption
+that the value and value is in
+like these transactional
+relationships. Oh, people will
+find me on the network and
+they'll come and promote my
+product. That is true, like
+people will find you and maybe
+they'll sign up for your
+program. But they might not be
+the people that you want to be
+promoting your product. They
+might be promoting your product
+in a way that you don't like.
+You don't know them. They're
+totally faceless. And there's
+all sorts of kind of gaming that
+people can kind of do that you
+don't want them to do. And so
+the quality of affiliates you
+get from these networks is not
+like you're not going to find
+Arvid one of these networks,
+right? Like the way you're gonna
+find Arvid as a partner is
+through trying to actually build
+a relationship with them, right?
+Like, you know, any like market
+that you're in, you're in a
+community right? I come back to
+this kind of analogy in my head
+over and over and over again.
+When it comes to business, it's
+like in sports. And for people
+who've played competitive sports
+we'll get this, where, you know,
+if you're in a sport you're
+competing. And even though all
+your opponents there that are in
+this community, you're all part
+of the same community. You go to
+the same tournaments or the same
+leagues or whatever. And you see
+each other day in day out and
+you become friends with these
+people, even though they're your
+competitors. And a market is
+quite similar. All the people
+that are operating in this
+market, it's the same sort of
+thing, it's a community. And the
+people who are very
+transactional aren't just coming
+into a market because they want
+to make money. The people who've
+been in that community forever
+and are kind of the mainstays
+and the sort of stayed members
+of the community, they'll sniff
+these people out in just like,
+in a heartbeat. And they'll just
+be like, okay, like, I'm gonna
+stay away from those people
+because like, like, they're not
+good actors within the space.
+And so this email you got, it
+gave you that feeling of like,
+oh, here's an interloper. This
+person is a blow and they're not
+part of my community. Otherwise,
+like, they wouldn't have engaged
+with me in this way. And you can
+kind of sniff that out. And so
+if you're just going to be
+really transactional and just
+like sent a  spam to a bunch of
+people and not put any research
+into who they are and your
+outreach, they're going to smell
+that out, right? And so at least
+make the effort to try and make
+them feel like, you know, you're
+worth my time. That's the way
+that I would go and try and the
+way I would think about it. You
+know position it in your mind
+that I'm trying to build
+relationships with people. For
+those really kind of, you know,
+more high influence type of
+partners. And then there's other
+kind of more passive ways that
+you can get just sort of the,
+you know, the generic people
+coming in trying your program.
+Arvid Kahl: Yeah, thanks. That
+makes a lot of sense. I think
+the focus on being more
+relational than transactional,
+even though it is about
+transactions in the end, like an
+affiliate is a sale of a thing,
+right? That is in itself a
+transaction. But how it comes to
+be, that is relational. And I
+think making that
+differentiation is at the core
+of building these kind of long
+term sales relationships in the
+end. It's funny, like, you want
+transactions and you have to be
+the least possible transactional
+to get there. It's just an
+interesting observation. And the
+community centric approach is
+also something that I've
+personally felt in the Twitter
+course space, for example, like
+you mentioned the course that I
+have. I compete with a lot of
+people who talk about building
+audiences on Twitter, but we all
+know each other. And there was a
+moment when Daniel Vassallo, the
+guy who has one of the biggest
+Twitter courses out there. I was
+talking to him a lot after
+recording mine and I was saying,
+hey, Daniel. I'm gonna compete
+with you a little bit on this. I
+hope you don't mind. And I said
+that in a Twitter DM because we
+are connected and we talk all
+the time. And he said, hey, I
+said what I want to say. Now you
+say what you want to say. And
+now we are both affiliates off
+each other on Gumroad. Like he
+recommends mine. I recommend
+his. In my course materials, I
+list like three or four
+different Twitter courses by
+other people because I know they
+list mine. Because we all know
+that in this space, the more we
+can combine our knowledge, the
+better it will be for the person
+taking it in. It's a very
+community centric approach and
+just trying to transact in
+there, that would not fly. So
+perfect description of that
+space.
+Emmet Gibney: Yeah, that's very
+common in the info product space
+to have kind of this and much
+less sort of combative or
+competitive type of environment.
+Obviously, you know, if you're
+looking for like a social media
+management tool, you only need
+one. So there's not that same
+kind of opportunity. But I was
+talking to our mutual friend,
+Andrew McIntosh last week. And
+the analogy I get to him around
+this idea was like a nightclub
+district. And there's some
+markets where it's like a
+nightclub district where you
+don't want to go to the bar that
+has no other bars around it. You
+want to go to the nightclub
+district and you go to a bar
+there and it's been an hour and
+then you go to the next bar and
+you know, people bar hop. Info
+products are very much like
+that, right? Where, like, you
+know, you said one thing and
+then Danny said another thing
+and Justin Jackson says another
+thing or whatever, right? And
+just because you take one course
+doesn't mean it doesn't preclude
+you from taking another course
+because they have different
+perspectives on things and
+different things that you can
+learn. So you see a lot of
+people in the info product space
+that promote each other's you
+know, at face value looks like
+directly competing products, but
+they'll promote each other.
+Arvid Kahl: Yeah, interesting
+point, though. I think you just
+pointed out effectively that
+people who have a one time sale
+have no problem having somebody
+else have a one time sale. But
+the moment you move into a
+recurring revenue system where
+you need customer retention, you
+are less interested in giving
+the alternative products or even
+the information about the
+alternative product to your
+customers. As you have a lot of
+indie hackers as a customer,
+does that raise any special
+challenges around that
+particular kind of behavior as
+well?
+Emmet Gibney: Nothing that comes
+to mind. The only sort of, I
+guess downside I've ever really
+encountered if we want to call,
+it's a double edged sword in
+dealing with the indie hacker
+community is incredibly vocal,
+right? And so when they're like
+you, they're, you know,
+incredibly vocal and well, like
+we get lots like I said, at the
+top of the call, like we got a
+lot of word of mouth. And that's
+hugely beneficial for us. I
+would say it's probably, it's a
+difficult one to actually do
+attribution to but I'm fairly
+confident is probably, you know,
+our largest if or at least one
+of our largest sources of
+customers. The other side of
+that sword is when things go
+wrong or people are frustrated
+and they take to Twitter, then
+you deal with the wrath of that
+on the other side, where we had
+a thing recently about affiliate
+fraud. And basically what people
+were doing was using affiliate
+programs to bid on brand terms
+on Google. And this is one of
+those things. So this idea of
+like, you know, getting, you
+know, high quality affiliates
+versus kind of transactional
+affiliates. And this is
+something a transactional
+affiliate is going to do. They
+don't care about you. They just
+want to make money. And the way
+to do that is to bid on their
+brand terms, right? And so let's
+say like Feedback Panda, you
+would imagine if you Google
+Feedback Panda, that's the first
+result. In Google, you're gonna
+have the number one result for
+your brand term. And so why
+would you bet on your own brand
+term? You're already at the top
+of Google. And so an affiliate
+will come in and they'll join
+your affiliate program and then
+bid on your brand term and they
+rank above your organic result.
+And people will sign up through
+that. And so they're then
+getting a cut, they're getting
+like 20-30% depending on what
+your commission rate is, of all
+those sales. And the math tends
+to work because it's cheap to
+bid on the brand terms because
+nobody else is putting on those
+brand terms. Anyways, there was
+kind of a rash of this happening
+across our customer base and
+people took to Twitter to
+complain about this and got a
+lot of attention because there's
+some sort of big named indie
+hackers that were tweeting about
+this. The upshot of that is, you
+know, we get ideas for new
+features for fraud, protection,
+and things like that that we're
+working on and sort of hacks
+that people can do to protect
+themselves against this kind of
+stuff. That's the only thing
+I've seen that, you know, it's
+kind of that double edged sword
+of dealing in the indie hacker
+space.
+Arvid Kahl: Okay, well, that's
+good to know. And this is a
+problem, right? Like what is it
+poaching or cannibalizing of SEO
+rankings like that? I mean, that
+can cost a lot of money if you
+have to bite it. Like if you
+want to fight that as an indie
+hacker, you need to rank higher
+than those people who would make
+money on it. It's kind of it's
+bizarre because you're losing
+money on having to pay for
+clicks, right?
+Emmet Gibney: Yeah, we've
+discovered and we give this as a
+tip to people but there's some
+easy ways to combat this. But
+for people who weren't aware of
+it. You know, it's definitely
+something that they gotta be
+aware of. And again, like,
+that's why I want to try and
+find those high value partners
+because like, you wouldn't do
+that, you know, to mean to
+someone that you have, like an
+actual relationship with, right?
+So, yeah.
+Arvid Kahl: Yeah, trust is
+really at the center of all
+this, right? Like, the moment
+you turn it into a mere
+transaction and it's
+quantifiable and somebody makes
+maybe a bit less but more
+reliable money by putting their
+name or their link in front of
+your actual name, you have a
+problem. And if you can't trust
+people not to do this, well,
+then you have an extra problem.
+Well, that is an interesting
+insight into a field that I
+personally, have never really
+professionally used any tools.
+And like I said, I built all of
+this myself. I'm really happy
+that you shared all of these
+insights into particularly
+affiliate marketing because I am
+both a SaaS founder and a info
+product owner and to see the
+slight differences between what
+a recurring revenue business
+needs and what a info product
+business needs, that is really,
+really helpful. Thank you so
+much for coming on the show here
+today and sharing all of these
+insights with me and my
+viewers/listeners. Where do you
+want people to go and find out
+more about you and Rewardful?
+Emmet Gibney: Yeah, sure. If you
+want to learn more about me, you
+can come and follow me on
+Twitter. My handle is
+@emmetgibney or if you live on
+LinkedIn, if that's your world,
+then you can find me on
+LinkedIn. Just search me, Emmet
+Gibney. And then for Rewardful,
+visit us at www.rewardful.com if
+you want to come and check out
+our product and sign up. We have
+a 14 day free trial. So if you
+want to try us out as a SaaS
+business and then yeah, we're on
+Twitter and LinkedIn as well. I
+think on Twitter, we're
+@getRewardful. And then yeah,
+come and consume our content.
+And we'll do our best to educate
+you on how to set up an
+affiliate program.
+Arvid Kahl: Yeah, that is a good
+idea. I'm going to totally on
+ironically put an affiliate link
+to Rewardful into the show
+notes.
+Emmet Gibney: Yeah, yeah with
+your audience. Yeah.
+Arvid Kahl: It's really nice.
+Thank you so much for being on
+the show today. That was a
+wonderful conversation. Thanks,
+Emmet.
+Emmet Gibney: Thanks for having
+me.
+Arvid Kahl: And that's it for
+today. And we talked about
+taking over after the founders
+left. Let's look at this from
+the other side. If you're a
+founder and you feel like you're
+done with the business but you
+want to turn it into money,
+instead of just closing it down,
+well, there's always the option
+of an acquisition. That's what
+happened to the people who ran
+Rewardful, right? And that is, I
+think, what can also happen for
+you. That's where our sponsor,
+acquire.com can help. Imagine
+this situation. You're a founder
+who's built a really solid SaaS
+product, you acquire customers,
+and the whole thing is
+generating consistent monthly
+revenue. The problem is that
+you're not growing for whatever
+reason, maybe lack of focus or
+lack of skill or just plain lack
+of interest and you feel stuck.
+What should you do? Well, the
+story that I would like to hear
+is that you buckled down and
+somehow reignited that fire
+within. You got past yourself
+and the cliches and you started
+working on rather than just in
+the business. You start building
+this audience you always wanted
+to build and you move out of
+your comfort zone and start
+sales and marketing, the scary
+stuff. And six months down the
+road, you've tripled your
+revenue. Reality, unfortunately,
+isn't that simple. Situations
+may be different for every
+founder who's facing this
+crossroad. And too many times,
+the story ends up being one of
+inaction and stagnation until
+the business becomes less
+valuable, which is bad or worse,
+worthless. And that is really
+bad. So if you find yourself
+here, where your story is likely
+headed down a similar road, I
+offer you a third option.
+Consider selling your business
+on acquire.com. Capitalizing on
+the value of your time is a
+pretty smart move and
+acquire.com is free to list.
+They've helped hundreds of
+founders already. Go to
+try.acquire.com/arvid and see
+for yourself if this is the
+right option for you at this
+time. It doesn't hurt to check.
+Thank you for listening to The
+Bootstrapped Founder today. You
+can find me on Twitter
+@arvidkahl. And you'll find my
+books and my Twitter course
+there as well. If Twitter is
+still around, then you know find
+me on Twitter. If you want to
+support me outside of that,
+please subscribe to my YouTube
+channel, get the podcast in your
+podcast player of choice and
+leave a rating and a review by
+going to
+(http://ratethispodcast.com/founder).
+It really makes a massive
+difference to show this show to
+more people. Any of the things
+that I just mentioned will help
+me, so thanks for listening.
+Thanks for taking action. Have a
+wonderful day. Bye bye

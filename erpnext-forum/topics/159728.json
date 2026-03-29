@@ -1,0 +1,52 @@
+{
+  "topic_id": 159728,
+  "title": "When I Click Duplicate button it not created and accessed in Version 16 ERPNEXT",
+  "slug": "when-i-click-duplicate-button-it-not-created-and-accessed-in-version-16-erpnext",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "frappe"
+  ],
+  "created_at": "2026-01-23T07:14:18.461Z",
+  "last_posted_at": "2026-01-23T07:14:18.602Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/when-i-click-duplicate-button-it-not-created-and-accessed-in-version-16-erpnext/159728",
+  "views": 20,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "subasri",
+  "posts": [
+    {
+      "id": 492291,
+      "username": "subasri",
+      "name": "",
+      "created_at": "2026-01-23T07:14:18.602Z",
+      "cooked": "<p>I go to  select buying , That buying module i need, so i will go select menu(…) three dot button , choose duplicate options, but it is not work to created. what i do next, you are guide me.<br>\nHow to setup pharmacy module .</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/s/bbce88/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 9,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

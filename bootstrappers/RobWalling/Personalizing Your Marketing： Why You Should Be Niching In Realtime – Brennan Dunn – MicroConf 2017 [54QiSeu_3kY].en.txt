@@ -1,0 +1,306 @@
+﻿[Music]
+all right so I am I can see down here
+I'm really excited to share this talk so
+I geek out on all things automation and
+personalization and I think that what
+we're gonna be talking about now is
+going to be something that is going to
+be really common when it comes to how
+marketers operate over the next few
+years I've been doing on my own website
+for the last two years I've been
+personalizing the content that people
+see depending on who they are where they
+come from what they've done and it's
+been line for line the most profitable
+code I've ever written I'm going to
+share with you a few of the things that
+I've done so the typical way that a lot
+of us operate is we put up a you know
+new product a new website and we bring
+people to the website the issue is that
+these people are often different you
+know one you know you might have
+freelancers who come to the website
+agency owners somebody who's not even a
+freelancer yet and the issue is they're
+left thinking how do I make this work
+for me and whenever neat people need to
+ask that question when they need to
+think how can your product help me
+that's an issue because if you're making
+them need to think about how what you're
+telling them is going to benefit them
+you know there's there's a
+miscommunication there's something lost
+in translation as often times like I
+said people have different personas you
+know you might have a freelance web
+designer who is looking at your at your
+website you might have a development
+agency owner who's looking at your
+website you might have somebody who
+again is looking to potentially get into
+the world of freelancing who's looking
+at your website and this is the issue I
+had back when I ran plan scope which was
+the sass that I sold last year through
+Thomas who's here and I remember I would
+have agency owners who'd come to me and
+say if this software helps freelancers
+this can't help us you know we're an
+agency we're not we're you know we're
+better and this is really frustrating
+for me because I knew that I could help
+both sets but both freelancers and
+agencies but by having a general
+marketing site that tried to speak to
+everyone I was
+speaking of nobody so the thing that a
+lot of us the conclusion many of us come
+to is I know on each on each down I'll
+speak to one group I'll speak to one
+pain one problem that people have and
+that works I mean it works well but the
+issue is you're turning away people when
+you position yourself very strongly so
+if I'm saying that I you know that I
+help freelance web designers for
+instance learn how to price I'm turning
+away the development agencies I'm
+turning away the person who is not yet a
+freelancer from you know acting on what
+I'm what I'm offering likewise if I
+think I'm gonna nice by targeting
+development agencies I'm turning away
+those who do not identify as development
+agencies and so on for people who are
+just looking to get started so what we
+often do is we come up with like these
+industry specific or these problems
+specific landing pages we create content
+that we silo on our website the example
+here is help spot where they have all
+these different kinds of landing pages
+that target higher education health care
+what else finance transportation so the
+idea is if you're googling around for
+like transportation help desk software
+you might land on help spots industry
+specific landing page and yeah it's
+they're speaking to you but then you go
+to the home page and it's back to
+general copy you there's a lack of
+continuity often between the siloed
+targeted content with the rest of our
+site with the rest of our brand so what
+if instead of niching our product we
+niche the entire funnel and what if we
+could do that on the fly
+what if we could dynamically change the
+content people are seeing based off of
+who they are and what we can infer about
+them based off behavior that we've
+observed so you're looking now at a my
+Amazon home page you can probably tell
+I'm looking to build a gaming PC because
+it's all you know GPUs and stuff but
+Amazon knows who I am I have an account
+with them they know what I've been
+looking
+for in browsing for so there they're
+providing me with a personalized
+homepage Netflix knows what I watch they
+show me movies that they think I'm gonna
+like and you know I go to Netflix calm
+this is what I see Facebook obviously
+knows who I am
+they're not going to show friends of you
+know any of you they're gonna show my
+friends because it's my account I'm
+logged into my Facebook account
+we often the common thread with those
+three examples I just gave you are
+they're all they're all apps
+I mean effectively right you log in you
+log in to Amazon you log it in Netflix
+you log into Facebook but there's a many
+of us who create software we get it for
+web apps we get that web apps are
+personalized it's it's our content it's
+scoped to the signed-in user why can't
+we do the same for our websites why
+can't we do the same for our blogs
+well I can't we personalize our
+marketing sites how many of you use an
+email service provider like drip
+convertkit Infusionsoft anything I mean
+I'm guessing most of you right so we all
+use tools like this what if we could use
+these tools as databases what if we
+could use these tools to power
+personalization on our websites what if
+we could have it so when somebody opts
+in to like let's say a lead magnet or a
+newsletter opt-in or something like that
+or they click a link in one of the
+emails we send them what if that was an
+authentication event actually with drip
+for instance whenever you click a link
+in drip you'll you might notice there's
+an underscore underscore s query string
+parameter that gets included that is a
+unique ID referencing the individual who
+is now viewing the page and we can use
+that to show you next we can use that to
+use the email service provider as a data
+store I mean thinking like an engineer
+here I'm thinking well drip holds tags
+and custom fields I can store a lot of
+different stuff in that right I can
+store whether or not their customers
+what they bought what kind of business
+they run how big their businesses
+revenue whatever else they won and then
+I can get that and push that over to my
+marketing site I can push that over to
+my blog
+I can do fun things with that because I
+can use my blog in my website as a
+templating agent our engine that reads
+from my email service provider and then
+this opens up a lot of possibilities so
+for instance here's something that I've
+done at this point this is my kind of
+like site-wide call to action you're
+reading an article a little slider comes
+up again thinking like an engineer here
+I have multiple categories of content I
+have articles on proposals articles on
+pricing on marketing and so on
+somebody's not logged in yet because I
+somebody's not authenticated yet because
+I don't know they're not opted in
+they're anonymous but I'm tracking the
+kind of content they're reading and one
+thing I've started doing is if they are
+reading articles on proposals and that's
+mostly the article type they're reading
+the universal call to action they're
+getting is about how my lead magnet can
+help them close more proposals then they
+go to my home page and the hero talks
+about proposal closing likewise if they
+read a lot of stuff on pricing they're
+now getting called actions about pricing
+that's been huge likewise to go back to
+help spot what if we knew somebody came
+over by landing on an industry specific
+page for higher education or maybe they
+came and were referred by a you know a
+blog that talks about a higher education
+they're like hey you got to use help
+spot awesome product need link to it
+would it make more sense to do something
+like this when they link over when they
+come to your homepage it should it does
+because we want our messaging to be
+relevant but again most of us treat our
+web sites and our blogs as static assets
+but we can do this and we can do this
+easily just through some you know on
+site personalization likewise let's say
+they're on the pricing page why not talk
+about reinforce what it's for show some
+testimonials from higher education
+companies that are using help spot this
+is the kind of stuff that if you do this
+can massively impact your bottom line
+and I want to give you an example of
+something I've done so this is my main
+product double your freelance rate
+what you're seeing here is the generic
+default sent from the server headline if
+you're a developer and you show up and I
+know your developer this is the headline
+you see your designer changes the
+headline it changes testimonials it
+changes the car
+b2b focused on design I speak directly
+to the a designer it's effectively
+niching on demand and what this is done
+is back before I did any level of
+personalization on that sales page if
+you showed up and I knew you were a
+designer and you showed up on the sales
+page your value was twenty four about
+twenty five dollars since changing some
+simple copy on that sales page
+it's not about forty two dollars not all
+I'm doing is changing copy like it's
+it's fifteen lines of JavaScript that
+almost doubled the revenue I get per
+designer who ends up on that on that
+page and I'm able to since I treat my
+marketing site and my blog as assess
+here's Mixpanel I'm able to see
+valuations across tags across custom
+field values across any sort of segments
+that I I want to see and I'm able to get
+all this interesting data like for
+instance I mean it's really hard to read
+but developers are worth about twice as
+much as designers that tells me I want
+to get a lot of developers right now
+it's they're worth a lot but it also
+signals that I could do a lot to improve
+the value of designers so by having this
+data by doing this kind of customization
+of personalization I'm able to act on
+this sort of analytics in a way that I
+couldn't if I was just you know didn't
+do it you know wasn't doing any of this
+kind of stuff I get feedback like this
+all the time I get feedback from people
+who are like well like you spoke
+directly to what I need you know what
+what like what I need and I'm like yeah
+well if you follow the the trail back
+when you join my email course I asked
+you what your goal was and joining this
+email course there's trigger links you
+chose one now two weeks later you're on
+your set on my sales page and it says
+exactly what you told me that's not a
+coincidence that's intentional and that
+works so I would ask you what can you do
+to start personalizing the experience
+that people have in your website Rusted
+a great earlier today where our job is
+to lead people up the funnel to the next
+stage of the funnel so one thing that
+you could be doing is if they're not on
+if somebody's not on your list and
+they're on your blog yes show the opt-in
+show the lead magnets everything else
+but if they are on your list
+why the hell are you showing them that
+show them something more valuable show
+them something the next step which could
+be your entry-level product or something
+like that lead them up the chain instead
+of having a instead of less hammering
+let's say your blog or your site with
+call to actions that are all vying you
+know fighting against each other
+you know advertising the product and
+then the opt-in and all this stuff do
+one thing at a time and I can guarantee
+naik an guarantee that it will make
+things move in the right direction so
+thank you my name is brynan Dunn and I'm
+here through Saturday so if you want a
+chat personalisation I'd be happy to
+Thanks
+[Applause]
+you

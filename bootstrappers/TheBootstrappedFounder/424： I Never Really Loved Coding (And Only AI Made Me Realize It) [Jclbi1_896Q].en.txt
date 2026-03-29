@@ -1,0 +1,513 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder. [music]
+If you had asked me a couple years ago
+if I loved coding and software
+development, I probably would have given
+you a resounding yes at that time. No
+other job had ever been as enjoyable to
+me. There hasn't been any other activity
+that has ever been as rewarding as
+building software and writing code and
+building systems that do what I want
+them to do in ways that other people
+couldn't. But if you ask me now, and I
+just realized this very recently, I
+think I have a much more nuanced
+perspective and it comes from two places
+really. Having been a software
+entrepreneur and developer for well over
+two decades at this point, that is one
+of them. and having experienced the
+fundamental change that is software
+engineering with AI assistance, right?
+The stuff that has only been happening
+for a couple years. Quick word from our
+sponsor paddle.com. I use them as my
+merchant of record for all my projects.
+And if you really want to make sure that
+you can only focus on your product, you
+don't have to focus on financial
+regulators and banks, check out
+paddle.com as your payment provider.
+[music]
+Let me dive into what I recently
+realized. I never really loved coding. I
+just always thought I did. I thought I
+loved coding because that's what I could
+do. That's my skill and what I was able
+to do very effectively was build these
+software products. So that was kind of
+my contribution to the market. It felt
+like it was the thing for me to do and
+nothing else ever came close. It was my
+superpower, my identity at some point
+and it was a craft that I had figured
+out pretty well. But now that I've been
+dabbling at first and then later like
+establishing a pretty solid workflow
+with AI assistance, I'm realizing that
+the coding part was never actually the
+thing. Like watching an AI agent solve
+my problems much faster, much more
+comprehensively than I ever have. Well,
+that has given me this completely new
+perspective on what coding actually
+means to me. Because in the past, I
+never really had a choice, right? Either
+I figured it out or I didn't. Either I
+made the machine do the thing that I
+wanted it to do or I didn't.
+[clears throat] And anything that I
+couldn't figure out was impossible for
+me to solve. the act of composing text
+into lines of code and then deploying
+these lines and testing each individual
+line and building this strong mental
+model of the whole codebase in my mind
+and then implementing it in the text
+editor. All of this stuff that makes
+coding possible was inseparable from the
+outcome to me. But now we're using AI
+systems to build things for us. And
+suddenly the act of writing this code is
+not required anymore. Not in the
+traditional sense at least. I'm not
+hiring somebody else to do my code. I'm
+hiring a machine to execute the code
+implementation function. And I'm
+realizing this particularly with my
+current project, Podscan, because
+Podscan started out as a 100% coded by
+me kind of project. It was all on me. I
+used it to learn Laravel and to build a
+scaling system and work with
+transcription stuff. All of this I had
+to figure it out. And I had a blast
+building the first prototype, building
+the first couple stages of the tool.
+Everything was handcrafted. Every line
+considered and every design pattern both
+in the visual sense and in the
+architectural sense was quite deliberate
+from the start. And then over time AI
+assisted coding happened. I started
+copying pasting modules and functions
+into things like OpenAI and Enthropic
+Systems. Claude was a a big thing that
+helped me from the start and had them
+optimize the code and have them give me
+feedback on how to do things better and
+more effective. And just about like six
+or seven months ago, I started diving
+into agentic coding, like having AI
+tools build code for me. And I've never
+looked back because right now, whenever
+code is added to the POTS scan system,
+it usually originates from me prompting
+an AI and then doing a massive code
+review on that. I write tests to ensure
+that the rest of the functionality is
+not impacted by these changes. and I
+have the AI system write tests that work
+just like the ones that I have written.
+And what I'm noticing with this
+particular kind of tooling is quite
+profound. I seem to enjoy the
+orchestration of code like putting it
+all together, looking at it, making sure
+it's right. But I never truly enjoyed
+the construction of it. And maybe this
+is the big differentiator between a
+software developer and a software
+entrepreneur because I've always
+considered in the past that each
+software developer is just this one
+choice away from operating their own
+software business, right? They already
+have the technical skill. Now they just
+need to turn it into a business. But I'm
+realizing now both from making that
+shift myself and from having a couple
+decades of experience working with other
+software developers that some people are
+just wired differently. Some people
+enjoy not the solution of the problem,
+but solving the problem. It's like the
+journey, not the destination for them
+that a hardcore software developer truly
+enjoys. And once that is solved, there
+might be a fleeting moment of pride and
+enjoyment, but the next challenge is
+immediately tackled because it is about
+the journey, not about getting to where
+the journey leads you. And for an
+entrepreneur, I think that's a different
+story. Each feature, each
+implementation, everything we build into
+our products is just a pivot towards
+more success, like a hopeful pivot
+towards more success or a mistake that
+then has to be rectified and reverted.
+Right? It's never the most rewarding
+thing to build a feature. The rewarding
+part is if it makes the business more
+performant, if it makes you more money,
+if it attracts more customers, and if it
+retains more customers. That's kind of
+the goal state you want to be in. So a
+pure logic thinker, a person who really
+loves coming up with a technical
+solution to a technical problem, well
+they don't want to have to think about
+business. They don't want to have to
+think about the customerf facing impact
+of their logic of their algorithms. They
+just want to have a highly efficient
+solution to a mathematical puzzle. And
+as much as I enjoyed solving these
+puzzles in the past, I'm realizing that
+my ultimate goal was never related to
+the puzzle in the first place, it was
+always very much concerned with whatever
+the puzzle was surrounded by this
+operational framework that the puzzle
+happened in which in my cases either was
+somebody else's business that I was part
+of or my own business that I was trying
+to build. So for a lot of software
+entrepreneurs who come from a background
+of crafting really highquality software,
+this transition to agentic systems that
+write good code on a good day and
+mediocre code on a bad day, it feels to
+them like they're losing this point of
+pride. You're losing some sort of your
+identity as somebody who's been building
+really good things well for many years,
+often even decades at this point. And it
+brings to mind what I've been reading on
+Twitter for quite a while around the
+tweets of Jack Ellis, the co-founder of
+Fathom Analytics because he's been very
+outspoken on his feed about his failed
+experiments with AI systems. He was
+trying to maintain the quality of the
+codebase or add features to the quite
+high throughput high performance
+software suite, which Fathom is, right?
+It's kind of a a much better Google
+Analytics replacement that I can say for
+sure because I'm using it. So, a lot of
+people have chimed in on those tweets
+and agreed that their initial contact
+with AI coding has been almost
+explosively negative, structurally
+defeating because the tools were just
+not up to scratch and they wasted time
+having AI build something that they
+wouldn't want in their codebase. These
+tools were not creating code as the
+original author, the person who was
+prior to that were doing it all by
+himself or themselves would have wanted
+it to be.
+And I think that's the difference. I
+look at my work with Potscan and it's
+been working out every single day for
+like half a year to have an AI system do
+it for me and I don't think that I'm a
+significantly better prompter or that my
+configuration of my agents is any
+better. I think both Jack and I we're
+using the same tools and we're both
+capable of clearly expressing what we
+need, what we want the thing to build.
+So if it's not in the inputs and it's
+not in the tools, then it must be in the
+verification step. It must be in what I
+allow to be the right code in quotes or
+what my code reviewing process does not
+flag as a problem because I'm quite
+liberal when it comes to patterns in my
+code that I may not have implemented
+myself, but I understand. When I look at
+the code suggestions that Claude or
+other tools give me, occasionally there
+are things in there that they use that I
+would never have used. But then I try to
+figure it out. Instead of saying no
+because I I know better, it's like but
+why did you choose this? Like why are
+they being used? I engage the system in
+a conversation and either it's explained
+to me well and I agree with it or I then
+iterate on it to find something better,
+something that I understand better. And
+that being said, I don't necessarily
+tell Cloud or Codex or whatever I'm
+using to implement it exactly as I
+wanted to implement it. I don't like
+tell it what to code. I just tell it to
+find an alternative that might resonate
+better with what is already in the
+codebase. Like remember that POTS scan
+itself was initially constructed from my
+own patterns that I wanted. So to just
+have it be more aligned with the
+existing patterns is often a good hint
+to put in your system prompt or to put
+into your individual prompts to make
+sure that the pattern wilderness doesn't
+just explode here. Now it's like the
+Cambrian explosion of different patterns
+if you already have some in your
+codebase. These tools are pretty good at
+comprehending them and then using
+similar patterns. So I'm quite flexible
+in accepting that the first
+implementation of something provided it
+actually works which is important has to
+be some kind of solution that I will
+allow into the codebase as long as I
+fully understand it and have had this
+conversation with the developer which in
+this case is an AI system and I talk
+about feasibility alternative approaches
+enough for my taste. So I don't really
+look at the specific code. I try to
+understand it and then I look at my
+comprehension of that and if that is
+sufficient then I allow it in which is I
+think something that code reviewing
+always has been doing. Code reviewers
+have always been doing this. But I think
+now since we are trying to adopt a
+mental model that was created by
+something that is not a human that we
+couldn't have taught our patterns, we
+have to kind of figure out how to
+interact with this to similar quality
+outputs but in a different way. I think
+our expectations for what good code
+means are always and have always been
+widely different between developers and
+what acceptable code in a codebase in a
+pull request is as well is also affected
+by this. I think I've always been quite
+flexible there. So if it does the job,
+then I'm good with that. And I've never
+been so committed to creating the
+perfect software implementation of a
+feature that I would dismiss a non ideal
+variant of it, a preliminary version
+that works well enough but may not be
+perfectly crafted. And I think this
+might be the perspective you need to
+have to use these tools, particularly in
+early stage software businesses where
+velocity and shipping speed and
+flexibility are more important than
+having pristine code. something that I
+believe is only pristine for a while
+anyway because there are always
+optimizations to be made, things always
+change, you can always find ways to
+improve things. So having code that is
+perfect, it's kind of only perfect until
+you decide it's not. And my threshold
+for deciding that things are not good
+enough is pretty high. So something
+needs to be really really bad for me to
+call it not good enough for now. So just
+always trying to go for like an 8020
+approach here and see if we can get
+things to a quality level that I can
+comprehend and that works reliably
+because there tests in the system to
+make sure it does and then that is
+perfect. It might be a little bit more
+resource intense. But I'm not
+Cloudflare, right? I'm not a massive
+service that is trying to serve every
+single customer in the world with like
+sub microscond optimizations. I can deal
+with this if my metrics show me that
+there's a performance problem at some
+point. I don't need to do this from the
+beginning. So what I'm trying to say is
+that just like choosing I don't know a
+new continuous integration chain because
+it's a little bit more effective or a
+lot more effective or porting part of
+your system to a new more performant
+programming language or choosing a new
+vendor for a higher performance database
+system for stuff making some kind of
+incremental improvement of your business
+allowing yourself to let go of the
+notion that you have to love coding it
+yourself have to love the act of writing
+code well I think that's one of these
+incremental changes in your
+entrepreneurial career. You have to
+allow yourself to say, "Nah, this is
+good enough. It might not be exactly how
+I would done it in 4 hours, but it was
+just done for me in 5 minutes." the
+tradeoff a little bit of technical debt
+maybe little bit of complexity but I now
+can do 20 times the things that I need
+to do or I can do my work on the side
+business in a 20th of the time and spend
+more time making money to finance it or
+you know building something else like
+there are these kind of little balance
+choices that we have to make as founders
+and I think giving up the notion that
+you have to love the act of writing code
+is one of them it's a choice you are
+allowed to make no developer will look
+at you funny. Well, people will, but no
+developer that understands the benefits
+of this will ever. So, I think we've all
+figured out that we interface with AI
+systems very effectively anyway in other
+places, right? When it comes to writing
+emails or when it comes to having the AI
+play devil's advocate for like a
+customer service message that you want
+to send to a customer, but you want to
+see how could they react. We all know
+that these tools are really good at
+helping us with that and they can be
+very persuasive when set to solving a
+particular problem. So the the last
+question for many software entrepreneurs
+is having these tools touch their code
+bases right now. People hesitate a lot.
+I get that. It's a big change for them,
+a hard change to deal with because it's
+about letting go of the self- assigned
+identity that you're only a true
+programmer if you program, if you write
+lines of code into an editor. But I
+think there's something else to consider
+here. Particularly if you're on the
+entrepreneurial path because eventually
+once your business becomes bigger, it
+grows. You're going to have to delegate
+development anyway. Somebody's going to
+have to write code differently from you
+because you're going to hire them and
+you're going to tell them what to build
+and it's not going to be you. You're not
+going to hire a clone. So, they have a
+different approach. It's just now that
+every single one of us has access to
+that somebody else for 20 bucks a month
+when we use Claude or OpenAI Codex or
+Gemini or whatever it might be. I think
+it hits us earlier as developers now
+that the delegated parties that are
+writing code for us that we instruct to
+write code for us aren't writing code as
+we would. It's something that we are not
+prepared for because we're not trained
+to hire. We're not trained to lead or
+delegate as software developers. At
+least not everybody is. So having this
+much earlier with these AI systems is a
+change we have to embrace. In fact, you
+can learn how to lead another developer
+by interfacing with AI alone. And once
+you do, all of a sudden the shipping
+velocity and the feature agility that we
+have in building software businesses is
+just massively bigger. And I think that
+is quite the advantage. I wonder if
+there will be more and more and better
+tooling to help developers who have
+these extremely high standards about
+crafting code to get to the level of
+quality that they want anytime soon. I
+would certainly hope so because the
+benefits from building from this
+orchestrator's perspective compared to
+typing every single thing into your IDE
+is so massively outweighing the
+drawbacks for me right now that it would
+be very hard for me to get back to
+actually coding as I did two years ago.
+it would slow down my experimental speed
+that I have. So, if you find yourself
+experimenting with these tools and if
+you find yourself questioning whether
+your dieh hard approach to handcrafted
+software is a relic of the past or if it
+should be a hill you're willing to die
+on, maybe consider that it really has a
+lot to do not with what the job to be
+done is while you're writing this piece
+of software, but what the goal of the
+surrounding system is. Are you building
+this because you enjoy building? Are you
+building this with the ulterior purpose
+of facilitating somebody else's job,
+helping people be more efficient,
+helping people waste less time? Is this
+kind of a self-centered activity or is
+this an externally driven activity? And
+for many people, understanding this
+difference and then applying a
+transition is a shaky process filled
+with disappointment because tools need
+to be talked to in a certain way that we
+have not yet developed an educational
+system around. But I hope people allow
+themselves not to be trapped in this
+perfect coder mindset anymore because
+what I've discovered is that I feel the
+same level of enjoyment, if not more,
+from looking at generated code, making
+sure it works, and making sure it
+implements the features that I want in a
+way I find appealing than I would have
+gotten from actually writing the code
+myself. It turns out it's not that I
+love coding. What I actually love is
+getting code written and getting code
+deployed, getting it deployed quickly
+and getting it into the hands of users
+who can benefit from it. And if AI can
+help me do that faster and with less
+personal strain, well, I don't think
+it's a loss of identity for me. It's
+just an evolution towards what I think I
+was always meant to be. Not a coder, but
+an entrepreneur who happens to know how
+to code. The code was never the point,
+but the business always was. And that's
+it for today. Thank you for listening to
+the founder. You can find me on Twitter
+at Avid Khan A V Khl. And if you want to
+find critical conversations about your
+brand, check out podscan.fm. [music] We
+monitor over 4 million podcasts in real
+time. We will alert you when things are
+mentioned and we [music] turn this
+unstructured podcast chatter into
+competitive intelligence. [music]
+If you're looking for your next venture,
+you can discover validated problems
+straight from the market at
+ideas.podscanfm, [music] Podcan FM where
+we identify these startup opportunities
+directly from conversations that people
+have so you can build what people are
+already asking for. So share this with
+anyone who [music] needs to turn
+conversations into competitive
+advantage. Thank you so much for
+listening. Have a wonderful day and
+bye-bye.
+[music]

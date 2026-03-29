@@ -1,0 +1,1356 @@
+﻿Hey, it's Arvid and this is the
+bootstrap founder.
+Today I'm talking to Nick Gronov, a
+designer and user experience expert who
+has been a valued collaborator on
+Potcan, my own software product. Nick
+works as a freelancer for a lot of
+companies and all of them don't really
+have any in-house design knowledge. So,
+he's been navigating the rapid changes
+that AI tools like Lovable and Vzero are
+bringing to the design world for himself
+and his clients. With 10 years of
+professional design experience and a
+deep understanding of design theory, and
+I can attest to that, he really knows
+his stuff. He brings a unique
+perspective on what happens when
+machines start creating interfaces that
+look surprisingly good. We also tackle
+deeper questions about whether AI is
+making us dumber or why human judgment
+remains irreplaceable and how you can
+use AI as a learning tool rather than
+just a productivity hack both in design
+and beyond that. A big shout out to the
+sponsor of today's episode, paddle.com,
+my merchantof record payment provider of
+choice. They're taking care of all the
+things related to money in businesses so
+that founders like you and me can focus
+on building the things that only we can
+build. Pedal handles all the rest. sales
+tax, credit cards failing, all of that.
+They do it so you don't have to. I
+highly recommend checking it out. So,
+please go to paddle.com and look into
+it. Let's dive right into our
+conversation with Nick. Let's talk
+design. Let's talk AI. Here we go.
+Nick, it's really nice to have you on
+the show again. It's always nice to
+catch up with you both on the record and
+off the record, but today's one of those
+on the record days. Thanks for coming on
+and thanks for chatting.
+&gt;&gt; Oh, well, thanks for having me a second
+time. Yeah, it's always nice to talk to
+you because you just give me perspective
+into the things that I'm working on and
+may not even be working on yet that I
+just could not get even from doing
+research or thinking about stuff. I
+never get the same quality insight that
+I get from you. So, thanks for that. I'm
+really excited to talk to you about one
+particular thing that I've been running
+into the last couple of weeks because
+I've been playing around with stuff like
+Lovable and Vzero, these extremely cool
+AI generation tools. And one thing I
+noticed that I hadn't noticed about AI
+assisted coding or building before is
+just how clean the interfaces look that
+these tools generate. And as somebody
+who's struggling with whites space,
+let's just let's just call it that. like
+I I don't know what the right margin is,
+the right padding and all of that.
+Whenever I have an AI tool generate
+something for me, it looks really really
+clean, stylish in some way, something
+that I could never accomplish. How do
+you feel about this kind of stuff? Like
+I always felt in our conversations over
+the last months and years really, you
+have this innate intuitive understanding
+of design. How do you feel when a
+machine designs and people like me tell
+you that it looks good? What's your take
+on this whole development?
+&gt;&gt; Well, I I have mixed feelings or maybe a
+better way to put it is the feelings I
+have change from day to day. At some
+point I feel like I think everyone will
+feel at some point is um oh help it will
+replace me you know that's a feeling I
+have sometime in other times I feel like
+I have to up my game which is a good
+thing because then I will learn and it
+will force me to be better. And then the
+third category of of feelings that I
+have is that it's not that good. It's
+about to hit the ceiling and we're all
+safe. So it's those three. And on top of
+it, there's also some sort of
+excitement. This morning I had the first
+time where I'm like, "Huh, that upcoming
+update that sounds interesting. I can't
+wait for it to be here."
+&gt;&gt; Okay. What is that?
+&gt;&gt; It's about Lovable. They have something
+coming up in terms of uh you know, using
+a design system instead of it being
+random. Ooh, that's one of the things
+that I always wondered about because
+consistency is still a problem, right?
+Like for any AI tool to be generally
+consistent in its output over time is
+always an issue because of the context
+that it lacks, right? A designer has
+this in their mind, but the AI might
+not. But you're telling me that they're
+now implementing this into Lovable?
+Yeah, there have been a few teasers
+coming up this week and I think the end
+of last week. I saw it on LinkedIn and
+Twitter. they're teasing something
+coming up around design systems which is
+quite interesting because as you say
+it's still a bit random at times. So
+it's for me personally it's not ready
+yet to be used like on a production
+place like in a project but one of the
+scenarios is that it will be at some
+point. It's quite likely that it will be
+good enough at some point and this feels
+like it's if it works well you know as
+well as the tease then it feels like
+it's a step into that direction. Yeah,
+for sure. I mean, from a perspective of
+somebody who does not feel like I have a
+design system at all after a year and a
+half of building this, I know that you
+have in the things that you have
+designed. It's just on a technical
+level, it's never been clearly expressed
+anywhere, right? It lives in the
+collective knowledge of the Figma file
+that exists out there and your brain,
+but it's never been codified into the
+system. It would be interesting to think
+about this almost as a configuration
+step in AI assisted coding, right?
+Because all these tools like the cloud
+codes and the cursors and stuff, they
+have these markdown based configuration
+files that are almost like system
+prompts in a way like every single
+prompt draws them in. So they know,
+okay, I'm actually building a Laravel
+project or a next.js project and this is
+how we deal with dependency injection or
+whatever these specifics, right? these
+technical specifics they're codified in
+there but it usually doesn't extend to
+anything further than oh we kind of use
+tailwind most of the time for design
+right that's kind of the the core
+maximum of what design is laid out as so
+that could change into something much
+more elaborate
+&gt;&gt; it will be better I think is the safe
+way to put it because at the same time I
+I know from my experience as a designer
+that let's say you have a super clean
+design system and there are always edge
+cases where you know a designer and will
+say like detach instance and then they
+will make something custom and then
+that's not consistent anymore. Just this
+morning, I worked on a bit of Tailwind
+code and it has like the H2 and the H3
+like for you know to structure your
+content and um I used my default design
+system for it. But then I ran into a
+situation where the H2 followed directly
+after a styled list where each item was
+a card. But then I felt with my design
+eye that the H2 following that final
+card, it was way too close to the card
+above. So I had to, you know, add some
+custom margin there. And sure, that's
+something that could happen on any page.
+You can define it as like whenever you
+follow a card, this should be your
+margin instead of the default one. But
+that's just one of hundreds of examples
+where things might be slightly different
+compared to the default design system.
+So that's I think a challenge that will
+remain. Then you also have existing code
+bases for other projects. I work on a
+code base plus the design for something
+that's been around for five plus years.
+And there are all sorts of quick fixes
+and inline code and stuff people have
+done before me that I have no clue about
+like why they did something like why
+they did A instead of B. It's hard to be
+consistent there because there are so
+many little details and I'm not sure how
+to make that super simple or how to have
+an AI that's smart enough to be like a
+super designer in each of those
+situations. But I'd love to see them try
+and get as close as they can because uh
+I'm just curious about how it would
+work. I would like to see that too from
+the other side of things from the
+technical implementation side of things
+because if the people at lovable or
+vzero and whatever other tools might be
+out there that I'm not even aware of if
+they come up with a way to codify design
+as something that is as specific as you
+were just saying like it has all these
+rules and then there's also the
+exceptions that are also kind of rules
+right there are meta rules rules of
+composition not necessarily of
+individual dimension Right? Like if this
+and this exists, it needs to have whites
+space. That's not about the A or the B.
+It's about A and B in combination. So
+it's a rule of rules. And if we can
+codify this in some way or even if we
+can just express it in some way and then
+the machine internally codifies it into
+whatever Tailwind code or HTML that
+comes out of it. Then if we can have
+this, we can also give an agent the
+opportunity and the task to just look
+into our whole codebase. That's my
+dream. Like go through the whole
+codebase, find the inconsistencies and
+with a system that we have well defined
+that you can actually implement,
+reimplement this stuff and reimplement
+it in a way that still passes all the
+tests and that still is visually
+pleasing and so on. I think the first
+agent that does this like 95% well
+that's going to have a massive impact on
+existing code bases and the tools out
+there in a very visually present way
+like you can clearly observe this cuz
+it's going to change a lot of tools.
+&gt;&gt; Yeah, I think so too and you see today
+that they're all trying the same thing
+and then in the end I think one or two
+like main players will survive. Yeah,
+that's uh kind of already happening in
+the platforms for AI inference world
+like with OpenAI and Anthropic, right?
+Maybe some Deep Seek and maybe some
+Gemini and that's kind of it, right?
+Mistrol is struggling and so on. But
+yeah, I think so too and honestly
+lovable has been really cool. Like I've
+been building two lovable projects for
+Podcan over the last couple weeks. One
+of which is on the homepage. It's the
+rotating world that shows wherever new
+podcast episodes are released. Took me a
+couple days to figure this out. And I
+think I had to upgrade my lovable plan
+from $20 to $50 a month to be able to do
+the all these little things, these
+little extra prompts with like, yeah,
+okay, this is nice, but it should kind
+of fade in maybe, you know, those
+things. Took me a while to get that
+right. But that was really fun to build,
+like integrating my own API, the POTSCAN
+API, the Fire Host push API that throws
+50,000 data packets right onto it every
+single day. And seeing these things come
+to life in the right locations. Like the
+prompt that I gave it, it was so bizarre
+how simple and enjoyable this was. Was
+just, I want a world map and there will
+be country codes, twoletter country
+codes. Put the image on the right spot
+on the map. And then it did. How wild is
+that? Right? Like that was one of those
+things where I was like, what? I don't
+need to keep that list. It's just going
+to generate a list of 190 countries with
+each having a central coordinate and
+it's going to put the image there. Okay.
+So that was one thing that I built and
+that is now running as a kind of landing
+page visualization of the speed and the
+intensity of the data that we have. And
+the other thing that I built was for a
+prospective customer that I had a
+conversation with, a demo call. They are
+in the entertainment industry. They have
+an analytics company. They just track
+listens and views and social media
+presence of artists. And they were
+wondering, well, podcasts look
+interesting. Lots of people are talking
+about artists on podcasts. Might we be
+interested in that? So, we had a whole
+call, an hour-long demo call. And what I
+did at the end of it, and this might
+just be really interesting as a concept
+for building prototypes for customers. I
+took the transcript of the call. I threw
+that into Claude and I told Claude,
+"Write me a prompt for Lovable so that
+Lovable can build a prototype of the
+application that this customer already
+has with our data included." So it went
+through this hour-long conversation. It
+turned that into a prompt which I
+copied, pasted into Lovable and had
+Lovable work on it for like half an hour
+or so. And what came out of this was
+kind of a click dummy prototype version
+of a part of their website with their
+own branding of the company that I was
+talking to already baked in that was
+showing what our API could facilitate on
+their website. So I just took that link,
+sent it over the next morning to those
+people and have been in contact with
+them ever since about building something
+together. And for both of these
+purposes, I didn't spend any coding
+effort at all on this, but out came two
+really, really strong visual things
+well-designed from my perspective that
+communicate very clearly what the
+business can offer. It's quite magical.
+&gt;&gt; It is magical. That's exactly what I
+wanted to say, like magical cuz I feel
+like old school coding that's really
+like ones and zeros and it works or it
+doesn't and then if it works you can
+optimize like it feels much more
+scientific. What you're describing is
+magical. It's also what they call a
+10star experience. They think of things
+before you think of it and then when
+they do it well you're like, "Huh,
+that's nice. I didn't even think of it
+yet." Like how cool is that? They think
+like you go to a super expensive
+restaurant and then they remembered that
+it's your birthday and then they bring
+you a cake without you asking for it
+like oh that's nice I will give them a
+big tip at the end. So that's the the UX
+of this whole thing like you feel like
+wow that's impressive
+&gt;&gt; and it's useful too at the same time you
+know you mentioned like this is design
+that's good enough for me and I know
+it's within myself when I saw the globe
+spinning my head was spinning too first
+of all because of how cool it was and
+then secondly like oh we can do so many
+things here to make it really flow
+within the whole landing page that I've
+had in mind for months for bots scan but
+haven't been able to work on yet like I
+really want to take it to the next
+level. And that's why I think that my
+job is safe to give a bit of peace of
+mind to the people who are afraid that
+their job will go away. Like the layer
+on top, that's what I'm eager to build
+and design now. Yeah, it really is a
+shift. And if you're noticing that
+already in what design is because it's
+more like at this point to me it's
+almost managerial like you're managing
+the systems, you're managing processes.
+is you're not necessarily shifting
+pixels around anymore, but you're
+allowing others, humans or machines, to
+implement things better and more
+consistently. Same for the tech side of
+things, right? When I code, I don't know
+when I've written my last actual line of
+code, probably two or three days ago,
+but I have shipped four features since,
+right? That that's the difference. And
+maybe I wrote a line of code yesterday,
+but it probably was just a log somewhere
+in a file for me to understand if the
+data at that point was right before I
+yelled at the machine to fix it. in a
+different way, right? Sometimes I just
+tell it, hey, write more logs and then
+read the logs and fix it yourself and
+then remove the logs. I don't need to do
+it myself anymore at all. But it becomes
+almost like your shepherd of sometimes
+smart and sometimes very dumb tools
+depending on what you tell them to do
+really. And I wonder if designing will
+also change in that way as a whole
+industry. if it will always have a an
+almost an automated component or if
+there will still be the human touch the
+same way that it was I don't know 10
+years ago because here's the thing like
+I remember wireframing and then
+implementing prototypes and maybe just
+drawing stuff on a piece of paper but if
+you have AI tools that can do that for
+you and that can create this 10star
+experience I wanted to say something
+about this too because it reminded me
+that when for my prospective customer
+this app was built it had three bars on
+the top and these were kind of these
+kind standout things for you have to act
+on this now. And in there were things
+that I personally would have never
+thought about. It presented me like here
+is a spike for this artist that happened
+recently or here is a scatter plot of
+which artist is currently the most
+talked about and if they're going up or
+down. Things that I personally did not
+think about could be done with the data.
+But just from having this full
+conversation and the prompt in there,
+the lovable tool figured out that this
+might be useful and actionable data for
+my customer. And that was like, okay,
+not only is this tool generating this
+for me within 5 minutes, which would
+have taken me 2 weeks to build, it also
+is giving me business insights that I
+would never have had. Like again,
+magical, but in a totally different
+unexpected layer. Well, you know, I want
+to be very realistic. Sometimes people
+are very protective of their craft in
+their field. But just my observation is
+that I do very little UI work for
+BotCan. At the same time, bots scan is
+growing. I I get your notifications like
+I'm part of the team, so I can see the
+insights and how things go up, which is
+great. Question is, would the lines go
+up quicker if I did more UI work? Does
+the UI really matter to that potential
+client you talk about? If you have like
+a zero to 100 level, like if you play a
+game, like you're a level one design,
+like it's not that good. But if it's
+between like 40 and 70 out of 100, like
+that's good enough that most people will
+be like, "Yeah, I will sign up for this
+spot scan thing." Like, does it need to
+be 95, which I can do? Well, that's an
+honest question to you. Like, what do
+you think? Would a nicer looking UI have
+benefits for Potcan?
+&gt;&gt; Yeah. Well, obviously, yes. But is that
+worth the effort and focus? Particularly
+with you being a fractional designer
+that also has other projects. To me,
+it's always like, is it worth also your
+time to spend on this? And does that
+have as much impact for Podscan as your
+work would have on somebody else at the
+same time? That's a whole other level.
+But let me answer the actual question
+that you asked me here. I think our
+customers and currently we're looking at
+like two main customer groups, right?
+looking at the PR departments, the PR
+agencies, the marketing departments,
+marketing agencies, everybody who has a
+kind of a FOMO when it comes to people
+and brands and products being mentioned
+on podcasts somewhere. Those are one
+user group and they use UI quite
+heavily. And then there's the other user
+group that's founders, entrepreneurial
+SAS founders who need that data to pull
+into their own system because they're
+building a note-taking app, a podcast
+listening app, a podcast discovery app,
+or have part like the customer that I
+was talking about have the need for the
+data inside their own existing
+infrastructure. Like they don't care
+about UI at all. Their UI is the API and
+that one is mostly welldesigned, right?
+It's definitely documented well enough
+that you can throw it into an AI coding
+tool and it will implement it well. Cuz
+that's what lovable did. I literally
+took the docs for the fire hose, threw
+it in there, and it implemented it right
+away. But the PR departments and the
+agencies that have to work with the
+interface every day, I get very little
+feedback on UI stuff for them where they
+express frustration at all. If they
+express anything, it's we need this
+feature because we need this data. So
+even those companies, I think they're
+just so used to working with clunky
+tools that a tool that is not
+necessarily clunky, but also not like
+the most beautiful it could be somewhere
+in the middle is just acceptable to
+them. They have a horizon of too bad
+somewhere and good enough and we're
+somewhere there in the good enough
+stage. That's what I'm saying.
+Obviously, it's not the most consistent
+tool. Consistency is a is a problem that
+I see because now that I have been
+building things with AI, occasionally
+things look very different from part of
+the system to another part of the
+system. But the complaints that I get
+have caused me to work on it and
+actually implement stuff that makes
+people's usage experience easier. That
+was mostly in the search interface,
+right? was mostly in search is weird,
+type ahead, search is weird. We want to
+be able to type a phrase, use and and or
+that kind of stuff, then hit enter and
+get results. And then we want to have
+one button where we can add all of the
+results to a list. That was something
+that I didn't even expect anybody to do.
+Like lists to me were an afterthought
+for the whole tool. But it turned out
+that for a PR agency that has a customer
+that needs a list of podcasts, well,
+yeah, they need a list to put the
+podcasts in and then export that list
+into their own whatever system so they
+can present it to their customers or
+their clients. So, it was from these
+conversations with customers that I was
+like, okay, they need this and it needs
+to look good enough to know where to
+click to get it so they can get the CSV
+export. So it's still a very functional
+almost a very procedural approach like
+they have a procedure that they need to
+follow. find thing, add to list, export
+list, present, get money. That's their
+job to be done, right? So, if I can
+facilitate this, then what we currently
+have seems to be good enough. Although,
+got to say like I switched out the whole
+search systems a month ago. Like the
+search that is now currently running is
+way better and technically completely
+differently implemented than the one we
+had before. And it shows because it just
+gives you better results. So, that's the
+UX stuff. the data is better not
+necessarily the interface.
+&gt;&gt; Yeah. Well, that's the thing like in
+some situations like the UI doesn't
+matter as much and because of it the
+impact of a certain tool and AI powered
+tool you know lovable and then uh the
+others is also much smaller like it
+doesn't really matter in other cases the
+UI is super important especially when
+you have lots of competition I don't
+think botcan has too many competitors at
+this point
+&gt;&gt; and they look pretty bad as well
+&gt;&gt; all these tools tools like the social
+monitoring tools and the podcast
+database tools, they were oldish or at
+least not very modernly designed.
+&gt;&gt; I mean that's the thing like if people
+have multiple options at that point the
+UI will matter more cuz then it's a
+matter of how easy is it to do
+something? How easy is it to get your
+first alert set up in Potcan? Like you
+said like search is super important like
+can I find what I'm looking for? If yes,
+yay bot scan. If no, this thing sucks.
+let's try out competitor A or B,
+especially in the beginning when you're
+on a trial plan. Like you have no
+relationship with your product yet. So,
+it's very easy to just go somewhere
+else. So, there are so many different
+factors at play that really determine if
+UI or UX or design as a whole, you know,
+matters or how much it matters because I
+think it always matters a little bit.
+&gt;&gt; Yeah. I wonder do you think that changes
+with the age of a company? Like for a
+startup that just started either vibe
+coded or regular coded, whatever that
+might mean, how important is that kind
+of focus on consistency and uniformity
+and beauty of the interface? What have
+you experienced? Does age of the company
+and established market presence play
+into that?
+&gt;&gt; I think so. I think that um like if
+you've been around for a long time,
+people have a whole image of you and who
+you are. Like that's your branding. Just
+look at the whole Jaguar stuff or now
+with Apple and Liquid Glass, like
+there's more discussion between like pro
+and against people of a certain
+happening, the more branding you have.
+So if you're you have lots of fans, you
+will also have lots of people who don't
+like you. So that's way stronger for an
+established brand. when you're super
+new, it's way more important to get off
+the ground uh survive, you know,
+revenue-wise
+and see if you can uh establish
+something for yourself, you know,
+product market fit wise and um you know,
+design plays a role there, but I know
+just like with Potscan like in the
+beginning like when we first worked on
+Potscan, we really first had to figure
+out like one or two main user flows.
+Now, like if we have limited time,
+limited budget, if we change one thing
+or improve one thing design-wise, what
+should it be? Like that's been a whole
+discussion we had well over a year ago,
+I guess, cuz then you want to design a
+thing that has the biggest impact. And
+we went with onboarding and setting up
+your first alert. We wanted that to be
+as easy and wow moment uh as much wow
+moment as possible as quickly as
+possible because then it's way more
+likely for a trial user to extend like
+if they have had no benefits they're
+like well trial version is over I'll go
+somewhere else but if they see like oh
+this is useful I will stay I will give R
+with my money that's super important so
+that's what I would do for a new company
+and um that requires a lot of talking
+and brains brainstorming and having
+meetings together, which all happens
+outside of, you know, lovable like
+tools. There are still AI helpers there,
+you know, transcribers and throwing your
+transcription into a tool to summarize
+and make up next actions, that kind of
+stuff like you said before. Yeah. But
+that's the human side that will probably
+stay around. Who knows?
+&gt;&gt; Yeah, I do wonder like how much of this
+can be automated away cuz I'm looking at
+transcription tools. Obviously, all I'm
+thinking about is transcription every
+single day. But even for a conversation
+like this, this is going to be
+transcribed, right? And this episode of
+my podcast will land on Podscan, be
+transcribed and searched for keyword
+terms. So, if you want anybody to be
+notified at this point, just say all
+those phrases, right? Like everything
+now becomes observed and measured and
+tracked. And I wonder like how much of
+this should flow back into the product
+design that we have. Like when I think
+about a feature that I recently built
+for Podscan internally for the company
+for I guess sales enablement is whenever
+somebody signs up they go through the
+onboarding flow and we kind of encourage
+them to create an alert and we encourage
+them if they don't to at least try to
+search to just see the value prop of the
+business and then we track each of these
+things internally. Right? When somebody
+navigates to a podcast page looks at a
+show or they look at a specific episode
+we track this as an activity in our
+system. So we can say within the first
+24 hours this account after signing up
+went through on boarding they created an
+alert or maybe not got a notification
+from this alert because something was
+found like I mentioned was found or they
+checked out the API documentation right
+we look for intent and then 24 hours
+later we score each of these people's
+behavior plus we try to extract where
+they're from what their name is what the
+company is that they're working for and
+then we give them a score and how
+important it is for us to reach out to
+them and engage with them as customers.
+There is a lot of value in doing all of
+this in an automated way. The tracking
+and the scoring and the looking at which
+of these things is important and which
+is not. But the one component that needs
+to be done by people because otherwise
+this would not be a business. It would
+just be a machine is then reaching out
+to that person and having a conversation
+with them booking a call for a demo.
+That needs to be done by humans still.
+&gt;&gt; Well, that's very true. Um, they also
+make me think about, you know, different
+projects I worked in in the past years.
+Like my career is 10 years now in
+design. So, it's been quite a few
+projects and there's overlap, but
+they're hardly ever the same. There's
+always a different founder with a
+different desire or goal. They're all in
+different stages. So, I don't see too
+much automation happening there because
+I also feel like if we keep talking
+about onboarding, you have best
+practices. for example, have that aha
+moment or that wow moment as quickly as
+possible because then it's more likely
+people will reach that point and it's
+more likely for them to stick around.
+You know, that's a rule, but how do you
+make it shorter? That's the thing. In
+practice, it's different each time. And
+then there are also exceptions to the
+rule where you want to delay that aha
+moment on purpose. It's not always the
+case to be as quickly as possible. So, I
+think that requires a bit of human
+interference. there's there's a human
+who needs to be thinking about this
+stuff. That's the coping I tell myself.
+There needs to be a human for that part
+because it's not always the same.
+&gt;&gt; Yeah. I have another example for this. I
+think that's going to stress the point
+here. In a couple of the demo calls that
+I had over the last weeks, I've shown
+the alerts feature and how to set up an
+alert, how to configure it to a lot of
+people in the PR agency world because
+that's the customer that we found has
+the strongest desire to actually pay for
+this product right now. So those are the
+people we'll be reaching out to. And
+sales calls are still not easy for me
+because it's just not how I think. I
+don't think in terms of what a
+salesperson would say, which is why it
+is nice to have Russell on board who's
+helping me learning this and actually
+doing this as well without my presence.
+But in those calls, I showed them, you
+know, here's alerts and here you can set
+up the filters for the alerts and like
+okay, yeah, filter keywords. Okay, I get
+this. And then you can select, okay,
+what language do I want the alert to be
+in? Okay. English speaking podcast from
+the US. Okay. Sure. And then I showed
+them the contextaware question filter.
+Okay. And here you can put in any
+question you could potentially have that
+has a yes or no answer. And if it's
+true, then you get an alert. And if it's
+not, then it gets dismissed. And at that
+point, reliably, eyes just fly open.
+Like chins drop and eyes open up. Wait,
+wait, wait, wait. You're telling me that
+I could ask one question of every single
+podcast out there and if it's true then
+I get an alert like any question like to
+any detail about anything and then you
+see them literally thinking I've had
+conversations where there was like five
+people sitting in a just a meeting room
+somewhere sterile business meeting room
+and you would see them look at each
+other and like you could see them think
+about all the potential things you could
+do. So one of the things that I
+immediately did was stress that part of
+the window or the form in which the
+alert is configured by putting examples
+there and like showing the variety of
+questions you can ask. Before it was
+just a line where you could put a
+question in and nobody would think much
+of it. But now it's a whole segment was
+like and here you can ask any question
+you want of the application. And that
+has reliably created more alerts for
+more people. Like now I see people
+actually setting up alerts because
+they're like, "Oh, I really want to use
+this." But obviously that's also shot up
+my AI usage in the background because
+that is the one feature that needs to
+run an AI query on all of this, but I'd
+rather pay a little bit more in AI fees
+if people use the product and find it
+worth paying a couple hundred bucks a
+month for it. Right? So that that moment
+of people just looking at each other in
+disbelief, you can do this. Nobody else
+does this. And they told me this, this
+is a wow moment happening in front of my
+eyes. This I can facilitate, right? This
+I can push people towards. And I would
+never have known if I had showed them,
+if I hadn't had this conversation with
+them and then recorded the conversation
+so I could figure out stuff after the
+fact and see these things actually
+happen in real time. That's the pattern
+recognition that we as human beings are
+are very proficient in. You know, at
+some point you were like, "Hey, wait a
+minute. This thing's happening." And
+then you have to translate it to a way
+to show people. And it's also something
+perhaps to put on a landing page or
+maybe you should create a video where
+you show it or maybe it deserves its own
+page because it's such a massive feature
+of Bot Scan, you know. So there there's
+so many different things to potentially
+do about it. And this is one thing that
+was super clear, super obvious. And then
+you also have the more subtle reactions
+from people. I mean, this one was it was
+impossible to miss this one. It was such
+a like you said they were all looking at
+each other like you know it's hard to
+ignore but there are a few subtle ones
+as well you know back in the day when we
+did user research you had the host and
+you had the notetaker/observer
+who would look for the subtle cues
+within the you know the test subject
+being in a user research or in a user
+test. So that's super important. I'm not
+sure how AI can do it if it's not text
+based unless you point a camera at
+someone and you can do facial
+recognition. So there there are always
+ways to assist. They might find it in
+the voice pattern too. You might find
+like slight agitation in the audio or
+something. I I think AI can help like
+find just excitement or change in
+positivity and sentiment throughout a
+conversation that can also be detected,
+right? where they're grumpy in the
+beginning and they're using a lot of nos
+and may and potentially and then at some
+point it shifts into oh yeah we should
+and we will and we have to right into
+other kinds of phrases. I bet somebody's
+working on this. I'm thinking about what
+is it Cluey? Have you seen this? Have
+you seen this tool called Cluey which
+apparently just tracks what you say and
+what somebody else is saying in a call
+and then it gives you points at what you
+should be asking next or what you should
+be saying next. I haven't used it. It's
+been a dream of mine to have a tool like
+this for conversations like this where
+maybe I'm running out of steam at some
+point and I need another question to
+ask. Right? As an interviewer, this is
+useful. As a salesperson, it's useful to
+not forget what the next question should
+be that you ask them. Right? Or they
+have said so many things. Here's
+something you can recontextualize. So
+having this kind of permanent guardian
+on your site that gives you ideas, that
+gives you insights, that tracks what's
+going on and gives you the next thing to
+do, next thing to say, that is the use
+of AI that I want to see more. That's
+the augmented part, right? The
+augmentation. It's not replacing
+anything, but it augments what we
+already do to do it better. I can see
+this for user interviews, customer
+discovery, customer service calls,
+customer success calls, or sales calls,
+marketing stuff. It's kind of nice to
+have somebody think about what you
+should be doing next at all times.
+&gt;&gt; I agree. But I also have a main concern
+here and that's very philosophical. Like
+does it make us dumber? But at the same
+time, does it matter?
+&gt;&gt; Well, let's spend a couple hours on this
+question because honestly, I think all
+technology has this potential, right?
+We've seen just in our lifetime the
+everpresent mobile phone with access to
+the whole world's knowledge. I mean, ask
+your grandparents if they're still
+around or your parents about dates,
+important, relevant historical dates,
+and they can probably still regurgitate
+them from back when they were in school
+because they would just hammered it into
+them and they had to learn them by heart
+and it still sticks around because
+that's the only way that knowledge was
+accessible. If you had it in your mind,
+that was great. And if not, you didn't
+have it, right? You could go to the
+library, maybe check out a book and
+write it down, and then you had to look
+at the piece of paper. 10 years ago it
+was Wikipedia on your phone and you had
+all that data and now you literally have
+voice enabled agents running at the same
+time that will show you in real time the
+knowledge that you need to know. So I
+think the tendency is to outsource this.
+I think that's called the body
+replacement thesis or something that
+there is a a philosophical theory that
+says that we are outsourcing capacity
+from our own body into tools. Right? The
+hand is strong, but a hammer is
+stronger. The teeth are strong, but a
+saw is much stronger than those. So, the
+brain is strong, but a phone with
+connected access to the internet is
+stronger than the brain. So, we tend to
+outsource things if there is a
+possibility because they're more
+effective. And I think for AI tools, we
+will take yet another thing, which is
+real-time reasoning, and outsource that
+to another tool. That's probably not the
+best thing we can do to stay in full
+control of our cognitive capacity, but
+it will make things easier, which is
+also a human tendency, right? To go for
+the easy way. True. We're animals and we
+are wired to spend less amount of energy
+as possible just to survive because our
+animal brain doesn't know if the
+supermarket is open tomorrow or well if
+you can find food tomorrow, you know.
+But I I I know quite a few phone numbers
+still by heart. But anyway, um I'm
+thinking, you know, design-wise, I know
+like all the classics, like I know
+Gestalt and typography, color theory. I
+had ethics, psychology, uh all that kind
+of stuff in school. Nothing I do
+design-wise is random. Like everything
+on the page is there for a reason. When
+I look at the new generation, which
+makes me sound very old even though I'm
+only 32, but the new generation of
+designers who are using lots of know
+designing and that kind of stuff. I see
+that they know less about it, but they
+have projects and they sell stuff and
+they make products which makes me think
+like does it matter? Do I need to be as
+proficient with the gestalt and all this
+stuff like I am? I think yes I am more
+proficient and better than what an AI
+can generate UI-wise
+but you can see other people who are
+more AI proficient and less
+knowledgeable theory wise they manage as
+well so that's something I struggle with
+like I think craft is very important
+knowledge having you know being able to
+stand firm when the internet is out
+being able to do stuff still I think
+that's very important because you
+wouldn't go to a restaurant where the
+chef is like, "Well, it's warm. This
+person wants something that's cool. He
+wants something that's sweet but not
+bitter. Hey, blackbox thingy, make me a
+dish." No, you go there because the chef
+has a certain, you know, image like it's
+a three star chef. You know, I think
+it's very important to have skills, old
+school skills. Still,
+&gt;&gt; there's something to be said for
+expertise embodied in a human that can
+work without tools as well, right?
+That's the thing with the hammer.
+Somebody still has to guide the hammer.
+Somebody still has to know where to put
+the saw to actually cut down the tree,
+right? Like every Christmas, I'm uh
+painfully reminded of the fact that I'm
+not very experienced with that. But that
+expertise and the experience that leads
+to it is something that I think like you
+do is something that you still need to
+have to be able to judge the output of
+these systems. The thing that I see with
+my whole AI based coding efforts that I
+do all the time every single day is I
+still need to be very good at explaining
+exactly what I want. And if I know that
+it's hard to build, I need to give it
+some hints on how to build it.
+Otherwise, it would probably find
+another weird way that may or may not
+work. But if I already kind of know what
+good looks like, and I I think you you
+know this from the design side of
+things. You know, if a design is good,
+you see it. And if it's not good, you
+see that. And I think I do the same
+thing for code. When I look at code that
+gets created by an AI system, I very
+quickly can tell you if it's good code
+or not. I can't necessarily tell you
+immediately if it's going to work
+exactly the way I want it to work, but I
+can tell you if it's going to be shed.
+So to be able to have this capacity, I
+still needed to do this for the last 20
+years, right? Like to to be able to
+understand what good code looks like, I
+needed to very painfully build up good
+code as a capacity. And now I can judge
+it without having to do it, but I needed
+to do it to get to the point of being
+able to judge it.
+&gt;&gt; That's true. And for me, it really helps
+that my father started to teach me
+design when I was six, you know. So
+there's almost second nature for me. And
+also the same thing applies you know
+just this week where I was working on a
+Laravel project with blade and that kind
+of stuff very familiar for you I I
+assume I made a design client agrees and
+they asked me to also put the design
+into a blade template and I wanted
+something like a table of contents to be
+sticky on scroll like that it stayed on
+a page with a few custom things. I did a
+bit of work then I asked the AI to do
+that for me. It looked all fine. and I
+load the page not sticky. So I asked
+like, "Hey, what's going on?" And it
+turns out I spent I think 30 or 60
+minutes together with a AI debugging
+with console logs. And in the end, we we
+ended up doing a JavaScript version of
+calculating where the sticky thing
+should be on the page. It was messy. It
+was terrible code. And it turned out the
+only problem was that at the top of the
+page, like the styling was in the head
+section. and we had the push instead of
+the section code there. So it all the
+code the AI made wasn't on the actual
+main layout. So it's literally one word
+that needed to be changed and the people
+I work with also with tons of
+experience. They were able to point it
+out to me like oh it has to be this
+thing here and I replaced it and
+everything worked, you know. So that's
+that 20 year experience you're talking
+about. I didn't have it. I explained it
+as good as I was able to with my
+semi-professional coding knowledge and
+the AI had to run with it but it wasn't
+good enough and because of it it took
+way longer than needed and the quality
+was way lower than needed. Yes. So
+that's an example what you're saying you
+know I see most people who are using AI
+primarily to be quicker. I use AI to
+become better. I learn Laravel. I learn
+React good enough for me to ship my
+design in code and I become quicker
+because of it. But my main benefit from
+AI is that I know much more than I knew
+a year ago. And I think that's a mindset
+I don't see too often. Like on social
+media at least, most people focus like
+99% of their AI usage on doing more with
+less. And that hurts the quality too.
+Like if you go fast and break things,
+quality and security might suffer.
+&gt;&gt; Well, I feel very similarly to this. I
+think like if people exclusively use AI
+as a generative tool and then use that
+generated stuff as the product, they're
+missing the crucial component that is
+the AI should always be wrapped by a
+human, right? You start with a human
+that has an idea that tells the AI what
+to do. The AI then does the thing and
+then instead of just taking that and
+putting it somewhere and selling it or
+taking it into production, there still
+needs to be this kind of observer
+process of a human at the end. There
+still needs to be 20% of the work done
+afterward to make sure that it fits, to
+make sure that it's actually what you
+wanted it to be. The push thing that you
+said, I had the exact same problem two
+days ago on a very different project,
+but it was like adding something to a
+component and it was like, oh yeah, and
+then this script runs and this script
+runs, but it didn't. And because again
+it missed that one thing. It's
+apparently not very good at push, you
+know, and and that's something that you
+can only understand if you know how it
+should work in the first place. So there
+needs to be like oversight. That's the
+managerial part I'm talking about.
+You're an AI wrangler. You're a
+shepherd. You wouldn't just let your
+sheep go wherever they want or your dog,
+your shepherd dog for that matter. It
+still needs to be trained, right? Even
+though it's good at hurting sheep, it's
+still a dog and will still do whatever
+it wants if you don't train it to do its
+job well. No, that's very true and we'll
+probably get better at that. But I
+having the gatekeeping human at the end
+is probably a smart thing to do. That
+sounds about right to me. You know, that
+is the thing we will have to deal with
+over the next years, like next 10 years
+or so, is going to be developing this
+internal skill and expertise at working
+with AI systems without having AI
+systems go rogue or rampage around in
+our codebase or create things that we
+didn't want them to create. The skill
+here is going to be judgment like is
+this good and discernment. Is this what
+I want? Those are new skills that also I
+think can't really exist already because
+they are so bound to the technology on
+which they need to be developed that all
+you can do at this point is to keep
+prompting and keep checking. That's the
+dynamic that I feel. I just need to keep
+telling the thing to do stuff and then
+learn how my scoped argument of what it
+should be doing is translated or not
+into functional code. I'm learning a new
+language here. I recently had a
+conversation with somebody around the
+idea of well what are programming
+languages going to look like in the
+future? And his point was it's probably
+going to be English. But my argument was
+yes, but probably with a different level
+of precision, right? We're probably not
+going to say, "Hey, built me an UI for
+this." Probably going to say, "We need
+like in the old days the hamburger menu,
+right?" It's a weird phrase, but at
+least it describes exactly what you
+want. And I think we're going to have
+components that are language-based that
+AI systems can reliably implement for us
+at some point, much more than we're
+talking about actual code and actual
+programming languages. That might not
+matter as much anymore. Same for design.
+design systems might be expressed
+completely differently not in pixels but
+in vibes I don't know vibe is a loaded
+word but how does this feel right like
+what does this represent I just know
+that this is going to be something that
+will change and we better stay on top of
+it
+&gt;&gt; well that's true I mean that's the main
+thing to do just to be open and to learn
+and to listen to people with different
+opinions too as a side note it's like
+talking to a 2-year-old when I tell my
+daughter in the evening she's too, by
+the way. We are going to the zoo
+tomorrow. She runs towards the door,
+grabs her shoes, and she's ready to go.
+She stops listening at we are going to
+the zoo. She doesn't listen to tomorrow.
+And that's also with the coding and the
+AI assisted coding that I'm doing. Like
+I cannot say I'm using Laravel and
+Bootstrap. I have to say Laravel Blade
+and Bootstrap 5. I have to be extremely
+specific. And that's not enough. I also
+have to say again just to be certain,
+use as much Bootstrap 5 native classes
+as you can. And I repeat it all the time
+like it's it's like talking to a
+2-year-old. Like people say it's like
+talking to an intern, but I think it's
+more like talking to a 2-year-old. That
+is super interesting because that is
+probably exactly how old this technology
+is at this point, too. You know, if you
+think about lovable is like what, four
+or five months old and Claude Code is
+just a bit younger than that. like claw
+enthropic like 3.7 was out a year ago
+like all these tools that we now use on
+this daily basis they are younger than
+your child in some way and it's probably
+fine to talk to them like one in a
+development stage very interesting point
+I agree when I do code stuff I repeat
+myself all the time I give like explicit
+things like scan the whole codebase for
+all functionality that has to do with
+this like just go through the codebase
+into every PHP file and look for this
+term term and make sure that if you
+change code, you also change it there.
+Okay. Right. That's kind of how I talk
+to it at this point. Well, that makes me
+think about more 2-year-old anecdotes.
+Like, she likes fruit. She she loves
+mango. So, then we go to the store like
+500 m down the road. Whenever she gets
+distracted by a flower or a cat or
+anything basically, I keep telling her,
+"Hey, we're going to the store to get
+mangoes." And she then she's like, "Oh,
+yeah." And then she keeps walking like I
+have to like she's zigzagging the whole
+time and I keep saying the same thing
+because I know that's the initial goal.
+It feels like that's exactly the same.
+But no, no, no. It's Bootstrap 5. Look
+at this file.
+&gt;&gt; Oh, that's funny.
+I think you cracked it though. And I
+like I think all parenting advice for
+how to talk to young kids is probably
+how you should be prompting at this
+point.
+&gt;&gt; Yeah. Yeah. Work with Claus for a week.
+When your wife is like 36 weeks plus
+pregnant, you should do a crash course
+managing claw just as a baby prep.
+&gt;&gt; That is so funny. In some ways, talking
+to a child of that age is talking to
+somebody who's just easily distracted.
+They have a hard time grasping
+complicated things. They they go back to
+what they know, right? That's pretty
+much the attention span of a an AI that
+is kind of summoned into being for your
+request and then vanishes into the void
+after. Like it's pretty much that. So
+unsurprising that you have to talk to it
+like a 2-year-old man.
+Just a great opportunity to pull it all
+together because we're at a stage where
+we're just like rambling on about the
+future of AI. But I for anybody who
+wants to see you share your insights
+about how to talk to two-year-olds in
+public, where do you want them to go?
+Where do you want them to follow you?
+&gt;&gt; Well, if they want to talk about design,
+then it's still on Twitter/x.
+I'm still using the old handle for my
+very first website called Toolbox of
+Design. And I also have the
+askdadesigner.io
+website, which I'm currently
+redesigning.
+If you go to the website today, you can
+see it's in this in between state where
+you can see a bit of, you know, a red
+color and a bit of green. And the header
+is updated, but the images aren't. So,
+you can see me uh build that thing in
+public. If you want the design plus AI
+plus baby/ young children mixture, you
+know, then the incredible Tyler White
+and myself, we started a design table
+podcast based on design, having a seat
+at the table. Like that's where the name
+come from. He has a 2-year-old as well.
+So, about 50% of our episodes end just
+like this episode is ending with strange
+AI/2-year-old
+uh metaphors and uh overlapping
+behavior. So, that's designtable
+podcast.com. Man, thanks so much for
+being on. I appreciate all your insights
+and knowledge about how to talk to
+prompting systems. Honestly, I'm I'm
+gonna dive a bit deeper into this and
+just try to embody this two-year-old
+mentality and see if that actually
+improves the code that gets generated by
+the tool. Cool. Nick, thanks so much for
+being on the show. Really appreciate it.
+&gt;&gt; Well, thank you. Thank you for having me
+again.
+&gt;&gt; And that's it for today. Thank you so
+much for listening to the Bootstrap
+Founder. You can find me on Twitter at
+avidkal r k ahl. And if you want to
+support me in this show, please share
+potscan.fm FM my SAS business with your
+professional peers and those who you
+think will benefit from tracking
+mentions of their brands, their
+businesses and names on podcast out
+there. Potscan is a near realtime
+podcast database with a stellar API. We
+have 32 million podcast episodes in
+their back now. The database is
+humongous. Please share the word with
+those who need

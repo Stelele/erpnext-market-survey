@@ -1,0 +1,108 @@
+﻿hi this is arvid from permanent link
+let me show you how you can quickly set
+up links for your ebooks
+that work even when the original sources
+of your links
+stop working it really only takes two
+steps within permanent link to make this
+happen
+first you need to set up a project and
+then from within that project you need
+to add your link
+and then you can use it let's do that i
+have a book
+that i'm writing that's called audience
+first let's create that
+as a project let's type audience
+first it's going to create this url
+fragment automatically
+and we can create it so now we have the
+project but it's empty
+to add a link you just have to add a new
+link
+now it asks for url let's actually take
+this article
+of 1000 true fans that i want to link in
+my book
+copy the url and go back into permanent
+link and paste it
+it will automatically create a little
+url fragment you can adjust that to
+whatever you like the url to be
+and it will use adaptive linking which
+means that while the original website is
+still working
+it will use that website and if it stops
+it will use an archived version
+let's create that link and then see what
+happens
+right now you can see here's the link
+permanent that link to audience first a
+thousand true fans let's copy that
+and paste it now it automatically and
+quickly redirects to that website
+so what would happen if the url
+did break if that website went down we
+can simulate that here
+at this point just for you to see force
+redirection and save changes
+so now this is considered to be a link
+that's
+not working anymore at least the
+original source the permanent link is
+still the same
+but at this point it automatically
+redirects to the web
+archive with a copy of this that was
+actually
+mirrored yesterday so it's a very recent
+copy and we'll always pick the most
+recent copy
+available so now you have a link
+that works either way if the original
+website is there then
+it'll be there and if it breaks then it
+will use the archived version
+but it still has permanent link in the
+url what
+were to happen if you wanted to actually
+use your own branding
+let's turn this back into a functional
+link at this point
+and then make sure that you can add your
+own
+domain so we go to the project we edit
+the project
+and down here you can use a custom
+domain
+let's click use a custom domain and then
+go into the dns records of the domain
+that we want to use for the project
+i'm using audiencefirst.link where my
+landing page for the book is hosted
+and here i have a redirection subdomain
+that i've already pointed to permanent
+link so we add that
+in this custom domain field we choose a
+custom domain link style which changes
+the way
+your permanent links look save this
+you'll see that in a second what i mean
+and then we copy this link again open it
+in a new window and you see now
+redirect.audiencefirst.link slash a
+thousand through fans
+with https so it's an encrypted
+connection
+click on it and we immediately go to the
+article
+that you want your readers to see that's
+how easy it is
+to put permanent links into your ebooks
+that will work
+even after this blog or any other blog
+breaks down or moves to another domain
+or is abandoned
+you don't have to care because permanent
+link will take care of that
+for you

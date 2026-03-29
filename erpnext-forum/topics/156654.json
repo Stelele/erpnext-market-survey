@@ -1,0 +1,51 @@
+{
+  "topic_id": 156654,
+  "title": "Issue with Leave Encashment Calculation in ERPNext - Amount is not calculated despite \"Allow Encashm",
+  "slug": "issue-with-leave-encashment-calculation-in-erpnext-amount-is-not-calculated-despite-allow-encashm",
+  "category_id": 6,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-11-10T13:52:52.912Z",
+  "last_posted_at": "2025-11-10T13:52:53.082Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/issue-with-leave-encashment-calculation-in-erpnext-amount-is-not-calculated-despite-allow-encashm/156654",
+  "views": 31,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 1,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "eslam2000",
+  "posts": [
+    {
+      "id": 486103,
+      "username": "eslam2000",
+      "name": "Eslam@010",
+      "created_at": "2025-11-10T13:52:53.082Z",
+      "cooked": "<p>ello,</p>\n<p>I’m facing an issue with <strong>Leave Encashment</strong> in ERPNext, where the amount for converting unused leave to cash is not calculated correctly, even though all the settings seem to be correct.</p>\n<h3><a name=\"p-486103-details-1\" class=\"anchor\" href=\"#p-486103-details-1\" aria-label=\"Heading link\"></a>Details:</h3>\n<ol>\n<li>\n<p>The <strong>Allow Encashment</strong> feature is enabled in <strong>Leave Type</strong>.</p>\n</li>\n<li>\n<p>The <strong>Maximum Encashable Leaves</strong> is set to <strong>21</strong> days.</p>\n</li>\n<li>\n<p>The <strong>Non-Encashable Leaves</strong> is set to <strong>0</strong>, meaning all the leaves can be encashed.</p>\n</li>\n<li>\n<p>In <strong>Leave Allocation</strong>, the employee has <strong>15.75</strong> days of unused leave, but the <strong>Actual Encashable Days</strong> is set to <strong>0</strong>.</p>\n</li>\n<li>\n<p>I attempted to submit <strong>Leave Encashment</strong> for <strong>15 days eligible for encashment</strong>, but the amount is not calculated, and I see that the <strong>Encashment Amount</strong> shows as <strong>0.00</strong>.</p>\n</li>\n<li>\n<p>There is an <strong>Earning Component</strong> named <strong>Vacation Allowance</strong>, which is linked to the leave type (Leave Type) and appears in the formula (Salary Slip), but the amount is not calculated correctly.</p>\n</li>\n</ol>\n<p>Is there something missing or another setting that needs to be adjusted for the <strong>Encashment Amount</strong> to be calculated correctly?</p>\n<p>Thank you in advance for your help!</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/e/e495f1/{size}.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 13,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

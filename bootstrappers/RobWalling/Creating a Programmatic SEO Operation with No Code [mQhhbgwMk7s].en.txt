@@ -1,0 +1,927 @@
+﻿so uh today i will be sharing with you
+how um we have used no code tools at
+failurey to run a programmatic seo
+content strategy
+and uh to create content at scale and
+grow our organic traffic to eleven 000
+users per month by 11 000 users per
+month our current organic traffic per
+month is around 80 000 users i'm the
+founder of failure this is failure here
+you can check it out at failurey.com
+and
+this is a scalp uh you can check it out
+at getscalp.com
+uh so it all started uh early this year
+when i was defining
+failures goals for 2021 and one of these
+goals was to grow our organic traffic
+from 2000 users approximately to 5000
+users per day right so as part of this
+goal i started working on uh some
+keyword research and writing down dozens
+of
+startup related content ideas to publish
+on failure slow which is this one that
+you can see over here
+after a few days i had a huge list of
+interesting keyword ideas along with
+their monthly search volume and keyword
+difficulty
+but i didn't really know where to start
+that's when i realized an interesting
+pattern in this list which was that i
+have written a few content ideas that
+were related to pitch text this content
+ideas were
+vintage startup peace texts food and
+beverages starts at peach sex and media
+started peach sex
+that's when i came up with the idea of
+creating dozens of articles of the style
+industry startup pitch text
+i will be referring to industry startup
+pitch sex as a content type besides i
+will call all of the articles that form
+part of this content type
+as content topics for example vintage
+startup pizzex is a content topic
+these are some terms defined by pat
+walsh in his online course lean seo
+which i think that will be helpful when
+explaining this story
+so i have this content type idea but i
+still had two big questions that i
+wanted to figure out before moving on
+with the project the first question was
+how can i evaluate this content type
+without spending a lot of resources on
+it
+and the second question was how can i
+scale this content type without spending
+a lot of resources on it
+first i'm one with validating the
+content type to do so i applied the lean
+startup mindset and created three really
+simple articles on vintage startup pitch
+text food and beverages startup pixels
+and media startup pitch sex
+each of these contains 5 to 10 pitch
+sets from startups in the corresponding
+industry along with some information
+about these startups
+i think i spent around two hours to
+write and publish the three of these
+posts
+one month later i checked
+how these articles were performing i
+only checked will search console because
+i was only interested in seeing their
+organic traffic and not the traffic
+coming from other sources such as i
+don't know social networks
+the results were pretty good as you can
+see here um the articles had gotten over
+2000 impressions and they were getting
+they had got 58 50 and seven clicks
+this was enough variation for me to
+start working on scaling the project but
+in that month that i was carrying out
+the experiment i came up with a few
+related content types that i also wanted
+to validate before moving on with the
+project
+these content types were company pitch
+tech for example airbnb pitch deck
+stage pitch text such as
+series a pitch text customer type start
+at pitch 6 such as b2b starts at pitch 6
+and business model start at pitch 6 such
+as
+b2b starts at p6 or a sorry such as sas
+starts at pitch 6 or marketplace it
+starts startup pitch text
+in order to find if these content types
+were also a good idea i wrote and
+published three new simple articles
+titled shopify pitch tech pre-seed beep
+sex and seed pitch text and i wait one
+more month
+one month later the results were really
+impressive all of the new articles had
+gotten a few clicks even the the pc one
+that you can see in the
+in the third row of the table had gotten
+over 50 clicks and all of the articles
+that i had published initially were
+getting a few
+clicks per day
+and another positive thing was that
+both the impressions which are indicated
+by the purple line here and the clicks
+which are indicated by the blue line
+we're showing a really clear growing
+trend
+so
+i consider the content types as
+validated and it was now time to start
+scaling the
+project
+this is where programmatic seo comes in
+there are thousands of companies
+business models industries and i wanted
+to have an article for all of which were
+interesting from an seo perspective i
+need to find a way therefore to identify
+which content topics were worth it and
+automate the process of creating
+articles for these topics right
+so i came up with this four step scaling
+process that you can see here the first
+step was collection
+this means collecting on another table
+the largest database of pitch decks
+possible along with information about
+the startup including their industry
+stage
+customer type and business model i would
+later on use this information to filter
+which pitch text will go on each article
+the second step was enrichment
+which consisted on enriching the
+database with information about the
+startups and their pitch text which
+might be useful for the articles readers
+the third step was preparation which
+consisted on preparing everything to
+upload the databases to workflow and
+make the creation of the articles faster
+and the fourth step was creation which
+consisted on uploading the files to
+workflow and seeing the articles get
+created as if it was magic through
+programmatic uh programmatically created
+right so yeah let's get deeper into each
+of these steps the first step was a
+collection we combined some scrapping
+tools and manual work to build the
+largest database of pitch decks are
+possible
+we use no code tools particularly one
+that is called simple scrapper to get
+pitch text from collections made by
+other websites that you can see uh here
+these were some collections of pitch
+decks that other websites had
+we complemented this with manual work to
+find pitch text that these collections
+didn't include we use google and search
+queries like site column slideshare.net
+pitch tech to find pitch text host in
+slicer which is the preferred tool used
+by founders
+when scrapping and manually collecting
+the pitch text we also extracted as much
+information as possible from for the
+startup including its name
+logo website url
+description industry stage demand breaks
+the year of the pitch deck among other
+types of information after a few days we
+have this huge article that you can see
+over here with
+352 rows of pitch sets and a lot of
+information about each pitch day
+the second step was enrichment we
+proceeded to enrich each row with
+information about the pitch check and
+the startup that readers could find
+useful
+first we
+manually checked each startup to
+identify what was their business model
+and type of customer
+second with some scrapping tools we
+found our twitter and ancient list
+profiles urls
+and then with some ai writing tools
+particularly one that is called wilbot
+we rewrote the startups descriptions
+that we had got from our websites we did
+this in order to avoid having duplicated
+content on failure which can be
+penalized by google right
+so so yeah this was probably the most
+time consuming part of the of the
+process i think that it took around one
+week but after a few days we had this
+huge air table with uh 352 pizzas and a
+lot more of information for each of
+these pitch sets
+the first step was uh preparation
+before being able to programmatically
+create the listicle articles of pitch
+sex for different industries business
+models customer types and stages we need
+to do some more preparation
+work
+let me first talk about the content type
+pitch a company pizzagate
+each of the rows in their table was one
+startup and a speech set
+each of these rows had to therefore have
+a specific page about it on failure
+i will call these pages an individual
+pitch check page
+for example the row that contains
+information about airbnb and speech deck
+will be turned into a page focused on
+ranking for the keyword airbnb pitch
+deck and that will later on look
+something like this so you can see here
+that it only contains um the pitch tech
+from airbnb and some information about
+the startup and a description
+etc within the air table we already had
+all the data that we wanted to display
+on these pages such as the pitch deck
+and the startup's name industry business
+small stage customer type twitter crown
+trace financial list urls and more but
+we need some more data
+for the meta title meta description and
+social media sharing image of these
+pages we wanted these pages to rank on
+google for keywords of the style company
+pitch tech so we need to set up all the
+seo basics correctly
+we first created the meta title and meta
+descriptions using templates and search
+and changing certain words by the
+information of the startup for the meta
+title we use the formula startup's name
+stage pitch the in here vertical bar
+failure for example for airbnb the
+metadata the meta title is airbnb seed
+pitch tech in 2008 vertical bar failure
+then we created a social media sharing
+title using a template quite similar to
+the metadata one you can see that it is
+slightly well it is different uh this is
+the meta title and this is over here the
+social media sharing title this was only
+because we thought that a for for social
+media sharing purposes it made more
+sense a title like this one than one
+like this one and we combine this social
+media sharing title with the startups
+logo using a tool called plasiv that
+allow us to programmatically create
+images
+and oh yeah we created these social
+media sharing images this is the example
+for
+airbnb so now we have this huge our
+table uh with a lot of information for
+um
+for each startup and the meta title meta
+description social media sharing
+images that you can see over here
+now let's talk a little bit about the
+preparation of what i will call p tech
+listicles
+these were the articles focused on their
+content types that were not the company
+one these were industry startup pitch
+sex stage pitch text customer type
+starter pitch sex and business small
+standard p6 a bridge stack listicle for
+example is crypto startup speech text
+here is how this article looks like
+nowadays um here's like the title uh and
+the top of the article and this is how
+the information is presented within the
+article
+from our earth table of beach sex we
+extract all the possible industries
+stages customer types and business
+models and wrote them down on a
+worksheet along with the number of times
+that they appeared in the air table this
+means the number of pitch texts that
+each of these topics will have on the
+article
+we only stay with those topics that we
+have that we have more than a two pitch
+sets for
+a actually it was three page six or four
+yeah
+so we then created a meta title for each
+of the topics combining different uh
+variants of text and the topic itself
+for example for the cryptocurrency
+article it was five page sets from from
+big cryptocurrency startups
+following a similar process we created a
+meta description for each topic for
+example here is for the cryptocurrency
+one uh it says here is a list of five
+speech sex examples from well-known
+startups in the cryptocurrency industry
+including coinbase and google coin
+we then move on with creating a blog
+introduction for each topic using
+templates of text that we created with
+another ad writing tool that is called
+copy ei and we changed some words on
+these templates by um the topic name no
+right so for example in the case of
+cryptocurrencies the vlog interaction is
+cryptocurrencies are currently the
+hostess trend in the market and it is
+clear that they are here to stay here
+are five speech techs from well-known
+startups in the cryptocurrency sector
+that should provide inspiration on how
+to put together a good one
+unlike the individual pitch tech pages
+all of our blog posts have a cover image
+so we created a really simple image for
+each topic using a background and an
+icon from icons eight here is the
+example of cryptocurrency
+cover image
+and finally using placid once again we
+created a social media sharing image
+that included the meta title and the
+cover image that we had just created
+this is the example for the
+cryptocurrency article
+not how we have used air writing tools
+no code tools and google sheets features
+and functions to automate this process a
+little bit and make it faster
+so once we
+have finished this preparation step we
+had the air table that i showed you
+before and this huge wall sheet with all
+of the
+industries business models
+customer types and um
+and stages that we had a pitch text for
+and a lot of metadata for each of them
+for example here you can see the meta
+title meta description blog interaction
+and social
+sharing um
+images
+um
+okay so you can
+produce you are referring to
+yeah at the end of the sorry at the end
+of the talk i will
+i will go over the no code tools that i
+have used uh as a quick recap and
+explain how we use each of them
+the fourth step was uh the fourth step
+of the process was the creation of the
+articles
+when scripting this talk
+at first i was going to explain this
+step
+from a perspective considering like how
+workflow works and using workflows
+terminology because we have used
+workflow to do all these uh
+steps that i will show you now
+but i realized that it was quite complex
+to understand particularly for those who
+haven't used webflow before that's why i
+decided to instead make use of some
+graphics and some
+sql or databases language to better
+illustrate the point
+the following explanation is not exactly
+how workflow works but we'll probably
+leave many more to an understanding of
+what we did and an easier option of the
+strategy to other local tools that are
+workflow
+first imagine a database where we
+uploaded all of the information that we
+had on the earth table and google sheets
+this database is divided into five
+tables one for each of the content types
+that we had
+so here's the database you can see that
+information from airtable and worksheets
+was
+was uploaded on this database and this
+database contains the five tables right
+here each of them are referring to one
+of our content types
+now stay with the company pizzeg content
+type that is at the bottom
+at the top sorry um because i will that
+that concept type
+require a special treatment than the
+other ones so i will talk about this one
+first
+so yeah that table corresponds to the
+company content type and it contains all
+the information on their table only
+information on their table each column
+on our table has a field to complete on
+this table you can see here that for
+example the column of slasher link has
+this um has this column the second
+column is the selection link and we have
+all the same information there and the
+information that we had on our table and
+each row of this article has an item or
+an entry in this
+table of the database
+each entry of this table has its own
+page which is what i earlier on called
+an individual pitch tech page where we
+show all the information related to the
+startup and its speech deck for example
+here is airbnb example once again you
+can see that for example here it says in
+the
+image
+it says airbnb
+and that information is um gotten from
+the database
+from the column startup name then in the
+case of the presentation
+this is an embeddable and it is
+it is embedding the slideshow that it is
+extracting from this slideshow link uh
+which is the second column of the
+of the database and then website url is
+the third column and uh we use it at the
+top at the bottom of the of the page to
+indicate the website of the startup
+so this way by uploading the airtable
+information we automatically created
+352 pages that soon start to rank for
+keywords of the style company pitch tech
+such as airbnb bridgestep you can see
+here that we are ranking
+for this keyword this is failure is a
+page
+however these keywords don't have a huge
+monthly search volume in fact few people
+search for a specific big sec of a
+company they are more interested in
+pitch decks from one industry or pitch
+text from one business model so we need
+to uh we wanted to create listicle
+articles uh focus on the different
+business models and industries in order
+to
+increase the number of keywords that we
+rank for and the the monthly search
+volume of these keywords
+so uh going back to the um the graphic
+that i showed you before i have already
+covered the first time table of company
+spec now i will talk about these other
+four tables uh which uh are
+represent the type the content types of
+industries business models customer
+types and stages
+these tables contain all the information
+on the worksheet you can see here that
+for example this screenshot of the
+google sheet is only for the industries
+you can see that here we have all the
+industries uh that are acted drawn got
+edged right sharing cryptocurrencies
+each of these rows was an entry in the
+database in this table of industry
+startups and each column on the google
+sheets had a column on the table of
+industry standard page sex
+so yeah each of each of each entry of
+this table
+also has its own page but these pages
+were empty the they just contain like a
+title uh and a blog interaction you can
+see for example the meta title here then
+another column was uploading interaction
+um and they only had that information
+they didn't have any any pitch text
+on this on this database
+so the way that we filled these pages
+with corresponding bridge text was by
+relating each pixel on the first table
+the one of the company mistakes with one
+or more entries on each of these four
+tables this is the key slide of this
+presentation because
+it is what shows how we
+created a lot of articles without having
+to manually create each of them but
+instead by connecting information
+between the databases you can see here
+for example this is the company page
+table and one of the entries was for
+coinbase
+and two of the columns that we had in
+the case of the company pitch tech table
+were industry and customer type in the
+case of industry this cryptocurrency
+thing was related to the cryptocurrency
+item in the industry table and this b2c
+thing was connected with the p2c entry
+in the customer type table
+this
+i know it is a complex uh it is complex
+to understand this part but if you get
+the idea that we didn't manually create
+the articles um one by one by pasting
+the information for each a price tag and
+the startup but we
+did it automatically by connecting
+information within the databases that is
+completely fine and i want you to stay
+with that
+point only
+um
+so yeah um
+we
+in this way we filled um we
+automatically created a 77 listing
+articles with numerous speed sets
+each one here you can see the
+listicle article for cryptocurrencies uh
+you can see here in the table of content
+in the
+the the site of the blog cover image
+that there are five startups in this
+case which are
+well coinbase gold coin
+glue etc and then uh in their image you
+can see how we present the information
+we have the slicer then a description of
+the startup then some details of the
+startup then some details of the bitsec
+and the second slicer over here
+we faced various limitations when
+setting this up on workflow but we
+eventually managed to build it so if you
+want me just to to show you how our
+webflow cms settings uh look like i uh
+shoot me an email and i can show you but
+uh you need to know that it was super
+specific to our requirements in this
+specific case which was also why i
+thought that it didn't make a lot of
+sense to explain this fourth step uh
+from a point of view of workflow and our
+things uh
+well then we finally built a hoof of all
+the pitch decks uh the users here can
+find the individual pick pages using
+filters these filters we build them
+using a no code tool that is called
+chatboost that only works for workflow
+and it allows us to build dynamic
+filters and uh users can also find here
+the holistical articles
+so this is how we have programmatically
+created
+352 pitch decks uh individual pitch set
+pages and a 77 pitch tech listicles all
+of which are nowadays ranking on google
+and bringing consistent traffic every
+month
+in the last three months these pages
+have brought an average of
+381 clicks
+organic users per day or clicks per day
+and they have received over 600 000
+impressions
+if you have a one percent conversion
+rate this means
+more than three users new customers per
+day
+or more than 100 per month
+most of the traffic comes from listicles
+but there are some individual pitch tech
+pages for example the airbnb one that
+are bringing some good amount of organic
+users
+besides that as you can see here the
+traffic is well distributed between
+pages and between queries and the
+country that is bringing the majority of
+the users is united states which is
+another opposing point because we are
+currently mostly focused on the us
+so some of you might be thinking that
+this programmatic seo strategy is only
+applicable to a
+content business like failure but there
+are a lot of businesses with
+different kind of business models and
+there are applying similar strategies
+first example is the live chat the live
+chat is a customer support software as a
+service or shopify
+and using webflow they have
+programmatically created more than 300
+articles on the best shopify apps in
+different categories such as accounting
+and affiliate here in the first image
+you can see they have where they have
+all of the articles listing shopify apps
+and in the bottom image you can see the
+article focus on accounting apps for
+shopify
+this brings to our website shopify
+business owners some of who might be
+also looking for a customer support app
+and might therefore convert into the
+live chat customers mainly through this
+top banner that that all of their
+articles have where they
+talk a little bit about the live chat
+and show how the product looks like
+sapir is a well-known startup
+using this programmatic
+seo strategy
+you probably know what sofia is about it
+is
+connecting apps and automating workflows
+and they have created thousands of uh
+thousands um many hundred thousands
+probably of pages uh where they show
+their existing possible connections
+between two tools for example if i
+search
+on google webflow convertkit
+the third result is a sapir
+programmatically created page
+showing the existing connections between
+convertkit and workflow really positive
+point about this strategy employed by
+zapier is that it brings
+really target users to our website
+because the the people who are searching
+things like converkit webflow are people
+who have already
+shown a really clear interest in
+connecting these two applications
+because i i can't really think of other
+reasons why we'll you will search two
+tools with a more than a some interest
+in connecting those two tools
+so this is a really positive point about
+this appear programmatic seo strategy
+and then um you may know peter levels
+from from twitter he has various
+businesses and he he relies a lot on
+programmatic seo
+to get organic traffic for all of his
+businesses but particularly for nomad
+least which is an online community for
+digital nomads
+on the one side no at least has hundreds
+of spaces displaying cities that fit
+certain characteristics
+for example you can see here this page
+that is focused on latin american cities
+with fast internet
+these are the type of keywords that are
+not digital nomads might search on
+google when evaluating where to travel
+next
+on the second side normal list has
+various specific barrier various spaces
+for each city
+with a specific information about these
+cities such as the cost of living in
+buenos aires and the weather and website
+is
+these are keywords that digital nomads
+might search uh on google before
+traveling to a destination that they
+have already defined
+you can see how both of these uh types
+of programmatically created content that
+no matter that normal list has
+they are targeted to digital nomads who
+have a high a chance of being interested
+in nomad list subscription
+so yeah as you can see programmatic seo
+is applicable to all kinds of businesses
+with any type of customer
+so that was all for this talk i hope
+that you learned how to programmatically
+create content that runs on google and
+brings organic
+organic and target users
+and as a quick recap i wanted to
+to to go through the local tools that i
+have used
+in the first side i have used
+workflow to build and host websites
+then i use our table and google sheets
+to
+for the databases
+then a simple scrapper to scrap online
+stuff
+and the fourth tool was placid to
+programmatically create images
+and the fifth and last
+tool was shedboost to build dynamic
+dynamic filters on
+so yeah that was all uh thanks uh so
+much for listening um i guess that we
+can do now some question time
+yes indeed sir thanks for that we do
+have some good questions from the
+audience we had a couple around the
+tools
+that you're using but you just you just
+answered that with that last slide um
+spencer uh oh no the question right
+before that how do you come up with
+ideas for your seo campaigns
+okay um so there are basically
+and seeing the examples of um that i
+have just shared i basically identified
+two uh really clear uh ways of coming up
+with programmatic seo ideas
+the first uh kind of strategy is like
+focusing on the business and the and
+your solution and that is exactly what
+sapir is doing uh you can see that they
+have created thousands of pages really
+focus on their solution showing how
+sapir can help you connect two
+applications
+so
+that is uh that is something that i
+mentioned that was super positive about
+these pages because they are getting
+really target users
+and the second strategy that i
+identified is thinking what kind of uh
+things might uh your target customers
+search on google which aren't strictly
+related to your product in the case of
+the live chat for example
+they are a customer support sas for
+shopify and they haven't created any uh
+programmatically created
+pages for customer support but they have
+created programmatically pages created
+places for
+shopify apps which is something that
+many shopify business owners might
+search on google
+and um
+and only when they come across delighted
+they might be interested in uh such a
+customer app but they weren't initially
+looking for to pay for a tool like the
+item so those are the basically the two
+kind of approach that i
+have seen the most uh when coming up
+with this programmatic seo ideas
+very good our next question is from
+spencer and he says did you do anything
+to advertise the article advertise or
+promote the articles when released or
+did you just let google find them on its
+own
+no at the end uh it is a good idea to
+promote them if you have some budget to
+do that
+but no within we have been publishing
+content for the last three years so we
+are quite we have some of authority um
+in google we have a big domain and page
+authority on both pages so it wasn't
+hard to run for these
+keywords and know that these are really
+a specific long-tail keywords so
+they have a low keyword difficulty so so
+yeah it wasn't really hard to
+to to rank well on google despite we
+didn't do any promotion or any
+interlinking um efforts there
+very good next question is from esprit
+and she says how do you monetize
+failurey
+yeah that's a good question we monetize
+it through
+sponsorships so growing our traffic is
+strictly related to a higher amount of
+revenue
+we also make money for digital products
+we have a a
+new book about product market fee and we
+have recently launched an online course
+about validation of ideas
+focus on pre-sales
+and
+we also make money through affiliate
+commissions we promote products and
+courses and we keep a commission if
+we we make a sale so those are the three
+main uh sources of income for failure
+matt says great job nicholas thank you
+for the presentation could you explain a
+bit about how you created those pages in
+webflow
+yeah yeah i can um i it is quite complex
+so i wasn't i'm i was trying to avoid
+getting too much into maybe on that
+summary
+yeah yeah so weblog has this um
+it doesn't have like a database but it
+has what is called a cms connection
+and each pitch deck
+we have a cns collection for pitch text
+and there we place all the pitch text
+that we have on our table
+we upload each each row on our table is
+a needle on this cms collection a cms
+item they call it and we have another
+cms collection uh for the articles of
+the speech text the listicle articles
+and uh there we uploaded all the
+industries business small customers
+types and stages that we are the 77
+topics that we have
+[Music]
+on our table and um we used a future
+that webflow has that is called
+multi-reference field to connect one cms
+collection with the other one and uh
+then in the
+in the items of the
+of the business small industries
+customer
+types and stages
+pages we
+used uh an item that i can't remember
+how it is called but basically we
+called we
+we yeah we call all of the items from
+the pizztech
+cms collection that i had for example on
+industry a link to that specific topic
+for example in the case of
+cryptocurrency uh there were five
+startups that in the field of industry
+in the multi-reference field of industry
+had a connection with the cryptocurrency
+them so in the cryptocurrency page we
+had an um
+we call all of those pitch texts that
+were uh connected to the cryptocurrency
+article it is quite hard to explain but
+if anyone wants to see the
+the behind-the-scenes of the cms
+settings i kind of i can record a video
+and send them
+to anyone
+very cool
+um and matt has another question
+and you may have answered this but he
+says which no code tool did you use for
+content creation
+so uh
+in the case of the content yeah the
+content creation was um made from from
+the data that we had on our table
+um
+so we had like the whole layout of the
+article and there were some empty spaces
+that were filled with information for
+each uh startup and pizza so we didn't
+really need to have to do any a content
+writing
+work besides
+rewriting the
+descriptions of the startups for that we
+used a
+tool that is called wilbot that i didn't
+enter a put it there because it is not a
+no code tool it is an ai writing tool it
+is called wilbot and then we use another
+ar writing tool
+for the blog interactions which is a
+copy ai which is well known um
+and yeah those were the
+writing tools that we used
+very cool
+thank you sir
+[Music]
+you

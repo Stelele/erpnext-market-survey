@@ -1,0 +1,1069 @@
+﻿and we are live welcome back to
+microconf on air i'm your host rob
+walling every other wednesday 1 p.m
+eastern 10 a.m pacific we live stream
+for about 30 minutes and we cover topics
+related to building and growing
+ambitious sas startups that bring us
+freedom and purpose and allow us to
+maintain healthy relationships today i'm
+going to be welcoming jesse mecum to the
+show jesse did a couple microconf talks
+back in 2014 2015 and in fact his 2014
+talk was one of the highest rated talks
+uh of all time it was super entertaining
+and it was the story of building his
+startup that is now but it's like is it
+still a startup it's 18 years he's been
+doing it he was just telling me offline
+that he started in 2004. it's called you
+need a budget or ynab for short we're
+going to be covering
+um some topics around uh you know maybe
+some things he would have done
+differently
+knowing what he knew
+knowing what he knows now as well as uh
+updates on his team structure some other
+things related to his talk and then
+we're also going to talk about building
+a thriving remote culture because ynab
+is one of those companies that since
+2004 has been a remote first company and
+you know obviously a lot of companies
+have become remote first now that covet
+has happened but they have two years of
+experience doing this and jesse has you
+know approaching two decades of it and
+he's thought a lot about it so
+as i said he's the founder of you need a
+budget which is a leading budgeting
+software and education company he's also
+the host of the united budget podcast
+the beginning balance podcast for small
+business owners and he's a wall street
+journal best-selling author of the book
+you guessed it called you need a budget
+so with that i'd like to welcome jesse
+to the show how's it going man hey rob
+it's good to see you again yeah you too
+yeah it's it's it's been too long to be
+honest we were saying offline so i hope
+we were able to connect in person again
+soon but i think to to kick us off you
+know i know a lot of folks watching will
+have uh watched your 2014 microcomp talk
+where you told the story of building
+ynab and getting it off the ground and
+it was an excel spreadsheet at first and
+it's really a good talk with a lot of
+jokes um
+really well weaved into it and if folks
+haven't watched that we'll link it up in
+the show notes and they can go check it
+out after this but knowing what you know
+now
+what would you have done differently
+when you launched ynab
+oh man that is everything you would do
+every single thing differently you know
+um
+i think i i even mentioned it in the
+talk and it's worth stating probably
+here but a lot of what you did got you
+to where you are and so in a bit of a
+catch-22 you you can't you don't want to
+uh write it all off and just say oh man
+i can't believe i made all those
+mistakes
+because that's what that's what got you
+the knowledge right it wasn't it wasn't
+reading it was more doing it was it was
+more creating and less kind of consuming
+of the content
+and so
+in that way i wouldn't change a thing as
+my cop-out answer right but if there was
+if there was one focus
+that i got late in the game i would say
+probably around the time of that talk
+2014 or something like that
+it was a talk that i had listened to at
+another conference where a
+the speaker i don't remember their name
+just said i'm gonna talk about culture
+and i thought oh i had my organizational
+behavior class when i was doing my
+master's degree like that was the worst
+i hate it no i don't want the
+touchy-feely i want profit and loss
+revenue heart you know
+and so i kind of wrote off the first
+part of the talk but there was one line
+that the speaker had where he said if
+you don't
+intentionally create the culture that
+you want in your company you will end up
+working for a place working out a place
+that where you don't like it and that
+mortified me so there was one thing i
+could go back and just say hey jesse a
+little bug in your ear it would be
+be intentional and aware of of culture
+and what you want from the outset
+and then and then from there you just
+you just turn that flywheel make it
+better and better great and we're going
+to circle back on culture and remote
+culture
+here in a few minutes
+so compared to when
+you know you gave your talk in 2014
+which is what is that eight years ago
+what what is your team structure like
+today compared to what it was then
+so we were
+i mean back then we my guess is we were
+around 30 25 to 30 employees
+um today i think we're around 190. wow
+so just that alone just numbers you have
+to start structuring things
+uh differently i'm no longer ceo i
+mentioned you offline as of about a
+little over a year ago i stepped back as
+ceo
+i hired todd curtis 12 years ago and he
+worked in support worked and just kind
+of moved around strategically i was
+being i was kind of thinking like i want
+to have this guy get a lot of exposure
+so he's now ceo that's a big structural
+change for us
+um i'm focused more on chatting with
+people like you and evangelizing but um
+we were pretty traditional in the sense
+that we have functional units but then
+we're a little unconditioned or
+untraditional in the sense that our
+product teams we we dice across
+functions and we make them
+cross-functional so
+we don't have a feature team we have
+a team that is obsessed over a specific
+problem that they're trying to solve for
+a customer and these problems are broad
+enough where i could say rob your
+problem is
+um the first time learning experience
+for a ynab user
+and you would say well when is that
+problem solved and i'd say well
+probably never right but you will obsess
+over that so then if you were leading
+that as like a product manager you would
+have a few engineers a few full stack
+few mobile you'd have um one or two
+voices from support customers like that
+can tell you hey product manager we hear
+this every day like they are front lines
+in their bones knowledge that you want
+to have
+and then you would have a marketing
+assist you know someone that can come in
+and say how are we framing this so that
+cross-functional team we call them pace
+teams and that's where we're a little
+unique
+one other thing that might be
+interesting to some is our managers our
+people managers are in charge of a team
+member's growth
+and their bandwidth so their growth like
+how are you doing in your career your
+bandwidth like is everything okay on
+your plate but they are not necessarily
+a technical expert so we could have
+someone that's not a design expert
+people managing a designer and that's
+given us some flexibility to make sure
+only people that want to be managers
+manage
+and it's allowed us a little more room
+and maneuver in that way and it's
+allowed for us to have managers that
+still be still can be contributors so
+there are a few points there in the
+structure but long story short when you
+add that many more people you do have to
+make structural changes and you have to
+tell the team we get to make structural
+changes that last at least six months
+but we don't have to predict anything
+further than that just a six month
+iteration and then you just revisit that
+org over and over again but yeah it's
+it's crazy it's what i can imagine and
+it's good to be up front about that that
+hey we are going to revisit this every
+six months 12 months because i've seen
+companies startups in particular where
+you hit 15 people and said well we kind
+of need to restructure some things and
+then you hit 30 or 50 and there's
+another point where you have to do it
+and if if you're not up front about hey
+this is going to change then hey you get
+the wrong people on the bus who don't
+who want things to stay who worked at
+the city government for 20 years and how
+they work for you and suddenly they're
+like wait
+you know i don't know this isn't a good
+fit and also if you're not upfront about
+it it can make it seem like the ceo
+doesn't know what they're doing like
+that whip song yeah like why are you
+changing it shouldn't change it's like
+no it probably should actually every
+time we you know hit that next whatever
+it's another 20 30 employees um
+something something should change and
+i'm also glad you called out
+the idea of
+i talked about this on my podcast
+recently but it was like being a manager
+uh no no it was being a supervisor
+versus a technical lead and they're two
+different things right i think of
+totally to me i'm defining supervisor as
+uh like you said per the personal growth
+even like approving vacation time annual
+reviews salary like that's a whole skill
+set
+and then technical lead whether it's a
+design technical lead or a you know
+coding technical lead or a product
+whatever these are separate skill sets
+and sometimes you can find one person
+with both but often you you don't right
+and even if they have both maybe you
+just want them to do one more than the
+other right yeah that's right
+um
+uh let's see my next question how do you
+manage growth projections and goal
+setting these days with a team of almost
+so we have a
+we have a one-pager that we use um
+people have read things like
+measure what matters you know the okr
+book it's it's pretty good or
+gosh
+the one thing any number of books that
+you're just kind of like okay you set a
+goal it's pretty standard stuff um but
+we use we use a one pager that lists the
+mission of ynab at the very top and it's
+to establish the budget as the
+preeminent life and financial planning
+tool and make it a joy and easy to
+implement
+you're like wow jesse that was a
+mouthful but you know that is it that's
+the mission and it's it's long lasting
+so you have the longest lasting thing we
+would
+maybe change our mission in a decade i
+don't know but it's meant to be
+pretty permanent below that we have our
+strategy
+and our strategy is is essentially two
+components we have our core values which
+we can maybe dive into later and then we
+have our system right our and and it
+lays lays out what were what we're
+bringing to the table you could think of
+it like unique selling proposition
+user journey that kind of thing
+underneath that we have targets and we
+we purposely have a long-term target
+up to 10 years no shorter than five
+that you mentioned right seats right bus
+that long-term target helps you
+frame for people kind of i don't know
+they get to look further ahead and you
+can probe their feelings and be like hey
+uh you know in 10 years would you be
+comfortable with this business being a
+200 million dollar business and you're
+now at 20 right and someone would you
+could really learn a lot from what
+someone thinks about that they might say
+oh no i worked at a play i never right
+or they might say absolutely i thought
+we were going for 500. you know and so
+you go really long term and it kind of
+frames everyone appropriately to where
+you're you're facing the general
+direction the same it's great for
+bubbling up issues it's a fun discussion
+then you we always move to a three-year
+at that point that starts to get a
+little more brass tax but still
+bullet point-esque
+and then from there we'll move to a
+one-year where we're saying okay one
+year what are we going to hit and from
+there it's just standard stuff we want
+to hit this number of revenue
+we want to have it have these key
+results that we're looking to track you
+know for us it's standard stuff signups
+conversion rate churn
+standard fare but you get very specific
+only at the year i think the most
+important part is the longer term
+framing to kind of let you dial it down
+and to clarify for folks you're fully
+bootstrapped is that right
+we are yeah we've never raised money i
+don't know if that was the right move
+but here we are you know
+we have a couple questions coming in
+from the audience i think i forgot to
+mention that at the top so these are
+these are folks who've been microconf
+on-air uh watchers before because they
+are
+on it and if you have any questions for
+jesse please do pipe them into a
+microconf on air uh channel in slack or
+on youtube pablo from youtube says what
+would you say to someone that is not
+enjoying the role of ceo anymore but has
+trouble letting go of it yeah
+what uh trouble two two different ways
+of looking at trouble one is like
+tactically i don't have someone i can
+hand this to that would that would cause
+trouble the other one is
+i would have
+less well i would be kind of like well
+you don't like it you're not enjoying it
+so what's the trouble right
+the
+this this applies for anyone in any
+position you should always and i learned
+this from our current ceo you should
+always be hiring your replacement you
+should always be be
+molding teaching
+fostering mentoring your replacement uh
+it's part of the job responsibility as
+any of my executives they they better be
+dialed in on who their replacement will
+be and it's not you don't it's a little
+counterintuitive because you're like
+whoa whoa whoa i don't want to be
+replaced you won't be replaced but it's
+part of the job description is to not
+leave us in a lurch right to to pave the
+way nicely and so you always want to be
+thinking about hiring your replacement
+and in that instance where you're having
+trouble letting go because it's just
+your baby
+and you got to really be clear like what
+what is this replacement person bringing
+to the table
+where todd our ceo is better at being a
+ceo in so many different ways than i am
+i have a few i have some strengths that
+he doesn't have but
+he's he for this next phase i just felt
+like yeah he's it but it was still hard
+in the moment to let go emotionally like
+legit therapy type hard um so
+one part is make sure you're you're
+you've found and you're teaching and
+mentoring the right person and the other
+part is being really clear like okay now
+that i've done this
+um what's my next move and i had to know
+what my next spot was before i could
+just leave some vacuum in my life
+yeah the emotional side i think is
+it it's got to be brutal and getting
+outside help therapy or you know some
+something i think has got to be yeah
+like legit like legit shaky the moment i
+was actually like announcing to the team
+and i knew it would be semi-permanent
+that's the one thing i said man six
+months except if you're changing the ceo
+we want to make sure that that org
+structure is longer than that so i i was
+legit shaking there like i was nervous
+about i knew i knew i felt good about
+the decision i liked where i was at with
+it i obviously chatted with julie my
+spouse about it at length for the last
+year um
+but yeah in the moment still fully
+emotional absolutely
+yeah
+and then peter on youtube asks i've seen
+many times that companies struggle to
+allocate resources for security teams
+it's also it's also a common practice to
+silo them as a separate security team
+how do you solve security resource
+allocation
+well we need to have someone that's
+fully dedicated to security right now it
+falls on our head of technology cto role
+and that's poor you know literally for
+two years we've been like we've got to
+have someone that just obsesses over
+security
+so i actually don't have a better answer
+for that right now we're i think we're
+behind the eight belt eight ball on it
+we we've given it to someone who has a
+whole bunch of other responsibilities
+and so security needs to be paramount
+for that person and it's it's currently
+not it's odd because it's the most
+important thing if you mess up
+then you're i mean done for
+um but it doesn't get the resources it
+needs out of the gate so we're actually
+fixing that in the next couple of months
+we're we're going to be hiring for that
+specific position
+and then i'll let you know in a year how
+we make sure that security isn't just
+siloed that's
+what would that be a cadence of
+communication
+um i don't know people that carry
+certain responsibilities that are across
+those pace teams maybe functionally what
+it looks like i haven't haven't solved
+that one yet
+yeah
+and then peter uh asks another question
+and then we'll get back because i want
+to get back to culture and values and
+promote routine stuff but he asks from
+youtube what would you say is the most
+important skill for remotely remotely
+leading a team of engineers
+effective communication
+yeah writing specifically writing yeah
+yeah because so much of it is in chat or
+email or whatever yeah i would agree
+with you there
+so
+let's let's change it up a little bit
+and talk about
+you know you sent over some notes and
+you had this this
+i'll paraphrase you but you said
+why the soft stuff like core values and
+culture is what truly matters right and
+as look as entrepreneurs i mean i left
+my job thinking i don't want to get near
+any of this mission vision
+values right i want to start a company
+we're just going to do our stuff and
+then you hit 10 employees or 15
+employees and to your point earlier if
+you don't create a culture it will
+create itself and you know create it on
+its own and you may not be in control of
+it so but but talk through you know why
+it's so important yeah i alluded to that
+and from that conference talk you know
+years and years ago i was like ah come
+on let's let's sell software you know
+um
+what i've noticed and this is still uh
+kind of a working theory for me but um a
+little brag for a moment so ynab we
+submitted our company to a battery of of
+surveying and things as part of the
+great place to work company that then
+publishes their results in fortune
+and uh ynab was was listed in 2020 and
+2021 as the number one small workplace
+at that time we were sub 100 employees
+just under i mean the number one
+workplace we're all remote and and it
+was curious because the great place to
+work gave us our data i think we
+actually had to pay them for it which
+was ironic but they gave us the data
+it's all anonymous so your team is
+allowed to say what they want to say
+and there were interesting things like
+how we scored we were 100 across the
+board and there were there were a few
+bits where it would be like 100 of
+employees believe that management trusts
+them to do their work without looking
+over their shoulder
+and all remotely where when things were
+first shifting i mean rob you this would
+blow your mind because you've been in
+the world forever but i had friends that
+were running companies all co-located
+and they're like how do you make sure
+your team's actually working how do you
+do you install key logging software i'm
+like what are you talking about man like
+who who have you hired where it's just
+are you running a chain gang like i
+don't get how this is going you know but
+that was where their mind was going and
+so trust is trust remote or co-located
+you know how do i know that uh my team's
+working when they're all in an office
+building on several floors
+how do you know they're working when you
+close the door or when you put on your
+bose noise-canceling headphones to go
+dark you know
+so we it's it ends up being all about
+the the team and making sure that the
+team is a fit remote or co-located and
+what we did is
+we got really
+clear on what our core values were
+and their character traits they're not
+they're not demographics in the
+slightest they're that you can have a
+wildly diverse team across all kinds of
+spectrums but they can share these these
+core values that are wine apps and they
+might not be specific just to wine up
+but they're unique enough that like if
+we were playing boggle that old game
+where we have to find words and if you
+find it you don't get the point and i
+don't get the point they have to be
+unique enough where you can start to
+attract people that
+are your core values so when we're
+hiring we'll hire that security expert
+we're going to find a security expert
+that has a bit of ynab in him or her
+already
+and then we get them
+versus looking for technical fit first
+and then i hope they're a nice person to
+work with
+what do you mean when they're when you
+say they're a nice person to work with
+define that for me because you rob have
+a style you have core values i'm sure of
+it that make it where you're like i like
+working with that person man that like
+that person's smart they get it but god
+we just don't seem to you're talking
+about a core value mismatch and they
+could go somewhere else and kill it in
+some other organization like
+apple's core value one of them has to be
+genius right they just have they have a
+genius bar they aren't even customers
+like so you know they're fully genius
+at ynab we wouldn't that wouldn't work
+well for us like i don't give a genius
+the last word i don't give genius the
+floor i it's just not the way we do it
+but can you build a massively successful
+company on geniuses core value most most
+definitely so
+defining those is so critically
+important and then finding people that
+have them already then if you're remote
+or co-located doesn't even matter you
+have people that are that are resonating
+with each other
+and then working is easier
+um
+like adjusting how you work being more
+open-minded to hey we're iterating here
+people it's all okay because everyone's
+like oh yeah well this is this is how i
+work it's just who they are and so you
+can throw them into any kind of
+structure you can throw any new problems
+at them and they're so just like yeah
+this feels good this feels fine because
+at their core they're a match with the
+company and i think that's why that's
+why we're a great place to work is the
+residence of people here
+the fit everyone's uh
+and with what you've described and i
+mean would you be willing to share a
+couple of your core values so just to
+give an idea yeah
+what the uniqueness is
+so our first is genuine that's like our
+headlining like you got to be
+comfortable in your own skin and i the
+idea of someone kind of putting on a
+facade or or you having like podcast rob
+versus real rob i'm like no no i know
+when i talk to rob i'm going to get real
+rob every time you know
+my favorite core value though we call it
+humbly
+confident and if there's a tension there
+that i really like
+um
+there's we we deal with it on the team
+where we say well yeah you're hey um
+brag a little like this you're always
+deflecting praise like sometimes you
+need to be like yeah i own that i nailed
+that right and then other times you have
+to be like oh the team got this that
+wasn't much of me at all it's this
+tension there but when you're attracting
+an engineer or a designer or a support
+person
+and you lead with instead of on indeed
+or wherever your job boards are where
+people are scrolling people need to
+think through they're more like
+click-through rates that you're
+optimizing for not a job posting we want
+to stand out and so when you lead with
+instead of customer support rep you say
+confidently humble customer support rep
+suddenly you have that person that's
+like oh and you get the click
+and that then in your job copy you're
+you're
+emanating these core values it's not
+some hr written thing it's like all
+marketing you're pitching right right
+and you get that out there and then it's
+resonating well where we have people
+that will send friends the job posting
+and they're like i mean rob you gotta i
+know you're not looking for a job and
+sorry for overstepping but like this was
+just screaming you you've gotta check
+this out i can't tell you how many
+people we've hired that were just like
+oh i wasn't looking for a job but my you
+know friend of mine said that i should
+check it out and here i am i can't
+believe i'm applying that's the kind of
+people you want so
+you start from the very outset in that a
+candidate attraction process and you
+just scream the core values and then you
+eliminate people that are like god these
+people are way too focusy you know right
+or i can't believe they're making jokes
+in their job description well we don't
+want you there we like you but you won't
+you won't like it here you just won't
+feel like you fit
+and you attract people that are like oh
+that joke was pretty funny i like this
+place right that's great yeah it's such
+an upfront screening process right as
+you said not just for technical but for
+fit
+so i you know
+i know that you um
+the ynab is like a very
+i guess work-life balance term may be
+overused but i know i actually know an
+engineer who who went off and started
+his own thing he used to work at windup
+and he just talked a lot about how
+um ynab values the whole person you know
+that basically work you you believe that
+work is one aspect of a person's life
+but it's not their whole life you want
+to talk us through like what that looks
+like in practice yeah well one is like i
+don't believe it like it just is true
+it's like come on people like we have
+let's like let's acknowledge it i i
+worked for a place for 10 months in
+early early in my career as an
+accounting you know
+uh person and i saw what it was like
+where they just treat you like a cog and
+you recognize like ah that doesn't feel
+good and i think a little bit of that
+ptsd uh
+is still in me where i was just hyper
+aware of like whoa well we got to make
+this a good place for life
+um wine ab is is not your whole life and
+we frame it that way this is not your
+whole life obviously so we want we want
+to make it a great place to work
+precisely because
+it affects the rest of your life in ways
+that i think need to be openly
+acknowledged stressful work makes for a
+stressful home life period and and i
+want work to be a joy so that when you
+go home you're a little more of a joy
+with your kids and with your partner
+it doesn't mean that it's always rosy at
+all sometimes it's absolutely stressful
+but on the whole i want it to be a place
+where it's an ad to your life where it
+feels like yeah this is
+this just feels right i don't like
+work-life balance because
+that pretends that there's some
+stasis we can find and there isn't it's
+up and down and up and down practically
+um i think the remoteness helps on that
+side of things
+um
+we're just recognizing people have they
+just yeah they life is part of this
+whole thing
+um i didn't want to say this because
+we're in experiment mode and so i'm a
+little leery but we we are we just like
+literally
+uh this friday
+is the first day that ynab the team will
+not be working because we're testing a
+four day work week
+that is partially an acknowledgment of
+we think we could maybe be just as
+effective if you read all the reading on
+that stuff
+um it's partially me saying i think this
+this is the next this might be a
+competitive spot where we need to be
+maybe in seven years you have to do this
+and
+that's that we'd like to get ahead of
+that
+um but
+it's just the idea of like you you bring
+a person to work and they like their job
+and their home life is working as well
+they're gonna be more productive
+they're going to stay longer
+you know
+it's profitable to do it this way like
+it's so profitable to treat your team
+well and have them stay and rave and
+recruit for you
+than it is to think of them as somehow
+like turn and burn expendable it's just
+it's not charitable either i hate when
+people are like oh jesse that's so nice
+that's not nice that's cold-blooded
+calculated capitalism you know like i am
+in this for the profits
+like that of course i am but i think
+it's it's profitable to do it this way
+it's long term i think not having
+investors to give a nod that way i think
+that helps you can think long term about
+your employees so yeah it's but it's not
+about
+i don't know it's not anything above
+just like i think this is a good
+business move you know um people will
+say like oh it's a you know it's good
+it's good of you moral
+i hate i don't like i don't like that
+one i don't like moral as much on that
+as far as the label goes i just i want
+it to be smart from a business
+standpoint and i firmly believe that it
+is and so far it's proven out that way
+and i think folks who have not built a
+company into the
+20 30 200
+employee level don't realize that
+in the end your biggest challenge is
+finding great and retaining great people
+absolutely that's it you know and if you
+can do that
+every that you everything else is solved
+because those great people will solve
+the problems right and especially as the
+ceo of 100 150 person company you can no
+longer solve all the problems even
+though you used to right but you can't
+come in and say
+what are we going to market how are we
+going to do it what's our strategy
+what's our implementation you just
+there's too much going on and so you
+have to have people that are so good and
+those people can work anywhere they want
+if they're that good and so how do you
+solve for that and that's what you're
+saying is that this you know
+whether it's a four-day work week or
+whether it's the
+balance that you give people or you know
+just valuing them outside of
+of work
+just make it a great place to work
+without the that official adage right
+just make it a great place to work yeah
+and and uh and it doesn't mean like the
+four day work week that that could be a
+total leak just like a surface tactic
+right
+um or or any number of things like i
+used to not pay health benefits for the
+team because i was like no you just
+listen
+you just solve your stuff right but
+competitively
+we we realize like oh man we we have to
+do this right so we did it um and so
+you're competing in a market and in this
+market competing for top talent is
+fierce
+so you really you have to stand out with
+your core values and find people that
+have your business already inside them
+and then you just make it a profitable
+great place to work for that person and
+on the whole profitable right for the
+whole person profitable what does that
+look like for them they get out more
+than they give and then you get out more
+than they give it's this beautiful
+beautiful thing
+and uh i i i never grow tired of trying
+to solve that top-level problem and then
+i love what you said
+you push down the problem solving you
+make experts down
+down in the organization that are doing
+things that absolutely amaze you that
+you never would have come up with
+we have a question from zander on
+youtube he says is the four day work
+week 32 hours four eight or is it four
+tens we just locked off friday so yeah
+it's 30 32 hours wow but we don't talk
+about hours i mean let's be honest
+sometimes it's 30 sometimes like we've
+hired people where they're like hey i
+had to leave a half hour early so i'm
+going to make it up and you're like whoa
+whoa
+you need to change yeah yeah it takes
+next month to unwind that right yeah but
+uh yeah we we're you got to be outcome
+obsessed and whether it's four day work
+week working remote where you can't see
+people and you think you know what
+they're doing
+you got to just be obsessed with
+outcomes not output
+so if i were to watch an engineer um
+chris who i love he's an injury he has a
+six foot
+wide aquarium in his office where he
+works in tennessee and if i were to just
+spy on him in some really creepy way and
+i could see him staring at his aquarium
+for 45 minutes i might be mad like chris
+is stealing where come on chris why
+aren't i seeing you slinging code but in
+that moment he comes up with some
+algorithm that shaves
+200 grand off our database costs for the
+year
+outcome right that's it and so you got
+to ignore the little devil on your
+shoulder that will be like jesse are
+they working you got to ignore that and
+you got to look at what they're
+producing
+just be obsessed over those outcomes how
+they do it you can't get in the middle
+of that you don't want to you'll mess
+things up so yeah absolutely but 3240
+all that stuff we lopped off fridays
+except for our support team they had to
+do it a little different because you
+know and then we have to obviously hire
+up on our support side to to cover
+the percentage we just lopped off but uh
+we'll see how it goes i i i was told
+even like we're not being public about
+this so i i hesitate to even say it
+because
+i don't want i don't want publicity
+around this we're just experimenting
+with it we're going to see how it works
+for our team right right
+well we're approaching time but we do
+have one more question this is from
+tomas
+youtube and he says the one pager you
+mentioned earlier sounds interesting can
+you elaborate on it a bit more
+yeah so i
+it's really simple top level mission
+doesn't change
+next level is strategy long term your
+strategy can change but long term three
+four years probably
+and it's in two buckets core values and
+i didn't get into this but
+it's not i don't i don't say culture a
+lot it's not like bean bags and foosball
+tables i i don't like that
+cult your culture is your core values in
+action it's just how how you do
+everything so how we handle a refund
+is
+our core values should show in that
+process how we interact how i interact
+with setting up this call our core
+values should show in this process how
+we pitch should show how we sell
+how you do everything is your core value
+so you look at all your business
+processes and you just say how could we
+double down on humbly confident
+in our customer refund process
+in our invoicing process i'm saying
+boring processes on purpose
+and you're starting to make your core
+values not just
+letters on a wall that are kind of there
+like or on a mouse pad or whatever
+they're they're real
+because you're hiring people that are
+genuine or are helpful and friendly and
+then you're saying hey make this process
+more helpful and friendly and then your
+customers notice it's more helpful and
+friendly and there's residents all the
+way from your team inside all the way to
+the customer on the outside who is they
+tr attracted to that same
+core value and it's this it's this laser
+that you run through the whole thing
+that's why it's strategy because it is
+literally how you conduct business
+then the other side of strategy is the
+system you could call it unique selling
+proposition it's how you compete how you
+fit in the market that's right so how do
+we compete against mint or
+uh
+quickbooks or any number of other
+entrants that come in all the time it's
+it's more standard marketing so that's
+strategy long term the next one is what
+we call our targets and that's more like
+the three-year look and we're gonna
+we're saying okay we want to look at
+what our three-year target looks like
+and then our one-year target and finally
+we have a plan so what our plan will get
+us to our one-year target and it looks
+like what are the outcomes we're looking
+for high-level company-wide outcomes
+what are the key metrics and milestones
+we'll look to to fill those out and
+that's that's standard okr stuff that uh
+you can find everywhere so yeah that's
+that is it on one page i love that you
+have the whole thing memorized it's
+obvious that it's short enough well it's
+because i'm sure you've been knee-deep
+in it for years and it's short enough
+that you can memorize the whole thing
+you know the format and all that did you
+read a particular book to find out more
+about that or is this just something
+attraction uh by gino whitman yeah
+yeah he was like have this on a page and
+ours is pretty close to his a little
+little different now um but at first we
+just took the whole pill as the doctor
+described with traction and then
+take the whole pill do it fully
+go a few years and then decide you know
+a little better than the doctor but at
+first just
+just acknowledge the doctor and and do
+as prescribed it teaches you a ton to
+just do it as prescribed
+well jesse thanks so much for joining me
+today i know you have a lot going on
+appreciate you taking the time are you
+on twitter do you is that a good place
+to send people i it is not um i am there
+you will find me but i don't think i've
+tweeted since 2016. okay why is man
+you're smart i wish i had this
+self-control so
+you mark it there like twitter twitter
+for you there's it's more strategic yeah
+exactly so if you need a budget.com if
+folks want to see what you're working on
+and uh your podcasts you're still
+hosting those right yeah
+people can like uh email me jesse
+ynab.com shoot me an email
+answer mondays and thursdays is when
+you'll get an answer so that's great all
+right thanks so much for joining me man
+thanks rob it's been a pleasure
+all right and as we head out i want to
+remind you that microcomp local london
+is on may 18th so that's just one week
+from today i will be there myself i'm
+flying out in a couple days if you're
+interested if you're in the in the range
+it's a one day event microconf
+local dash london
+i think we could just go micrograph.com
+locals that'll take you to all of them
+and click through
+and tickets are available and i think
+we're approaching sellout actually which
+is kind of cool it's a smaller event so
+it's going to be more intimate um i
+believe it's capped around somewhere
+between 80 and 100 and it'll be like
+three speakers myself um asia rancho
+brennan done and a lot of hangout time
+uh and then i would also as we roll out
+love to thank hay and stripe for being
+our headline partners this year um they
+i'm sure you're familiar with handstripe
+but they're they've been great partners
+for 2020 2021 and now in 2022 i thank
+them for their support of independent
+sas startups and with that we're gonna
+roll out we will see again you know what
+i won't be streaming in two weeks
+because i'm out of the office but in the
+next let's say three or four wednesdays
+from now i will see you back same time
+same place thanks again for joining me

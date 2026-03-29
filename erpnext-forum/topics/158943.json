@@ -1,0 +1,53 @@
+{
+  "topic_id": 158943,
+  "title": "📢 New POSNext Feature: Customer Display Screen",
+  "slug": "new-posnext-feature-customer-display-screen",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "pos_point_of_sale",
+    "pos"
+  ],
+  "created_at": "2026-01-09T16:56:28.415Z",
+  "last_posted_at": "2026-01-09T16:56:28.592Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/new-posnext-feature-customer-display-screen/158943",
+  "views": 121,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 6,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "ahmed_osama_1190",
+  "posts": [
+    {
+      "id": 490774,
+      "username": "ahmed_osama_1190",
+      "name": "Ahmed Osama",
+      "created_at": "2026-01-09T16:56:28.592Z",
+      "cooked": "<p>Hi everyone <img src=\"https://discuss.frappe.io/images/emoji/twitter/waving_hand.png?v=15\" title=\":waving_hand:\" class=\"emoji\" alt=\":waving_hand:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>\n<p>We’re happy to share a new feature we’ve been working on: <strong>Customer Display Screen</strong> for POS.</p>\n<p>This feature allows running a <strong>secondary, customer-facing screen</strong> that mirrors the cashier’s cart in real time. Customers can clearly see items, quantities, prices, and totals as the sale is being processed, which helps improve transparency and the overall checkout experience.</p>\n<p><img src=\"https://discuss.frappe.io/images/emoji/twitter/movie_camera.png?v=15\" title=\":movie_camera:\" class=\"emoji\" alt=\":movie_camera:\" loading=\"lazy\" width=\"20\" height=\"20\"> <strong>Demo video:</strong><br>\n<a href=\"https://youtu.be/8jF2PibWQg4\" rel=\"noopener nofollow ugc\">https://youtu.be/8jF2PibWQg4</a></p>\n<hr>\n<h3><a name=\"p-490774-why-we-built-this-1\" class=\"anchor\" href=\"#p-490774-why-we-built-this-1\" aria-label=\"Heading link\"></a><img src=\"https://discuss.frappe.io/images/emoji/twitter/puzzle_piece.png?v=15\" title=\":puzzle_piece:\" class=\"emoji\" alt=\":puzzle_piece:\" loading=\"lazy\" width=\"20\" height=\"20\"> Why We Built This</h3>\n<ul>\n<li>To give customers more visibility during checkout</li>\n<li>To reduce misunderstandings and pricing disputes</li>\n<li>To improve trust and professionalism at the point of sale</li>\n<li>To support real retail workflows, especially in high-traffic environments</li>\n</ul>\n<hr>\n<h3><a name=\"p-490774-early-testing-feedback-2\" class=\"anchor\" href=\"#p-490774-early-testing-feedback-2\" aria-label=\"Heading link\"></a><img src=\"https://discuss.frappe.io/images/emoji/twitter/test_tube.png?v=15\" title=\":test_tube:\" class=\"emoji\" alt=\":test_tube:\" loading=\"lazy\" width=\"20\" height=\"20\"> Early Testing &amp; Feedback</h3>\n<p>We’re opening this feature for <strong>early testing</strong> and would love feedback from the Frappe community.</p>\n<p><img src=\"https://discuss.frappe.io/images/emoji/twitter/locked_with_key.png?v=15\" title=\":locked_with_key:\" class=\"emoji\" alt=\":locked_with_key:\" loading=\"lazy\" width=\"20\" height=\"20\"> <strong>Request access:</strong><br>\nPlease fill out this form to get access:<br>\n<a href=\"https://hub.brainwise.me/nexus/apply/new\" rel=\"noopener nofollow ugc\">https://hub.brainwise.me/nexus/apply/new</a></p>\n<p>We’ll create a test user for approved testers.</p>\n<hr>\n<h3><a name=\"p-490774-what-wed-love-feedback-on-3\" class=\"anchor\" href=\"#p-490774-what-wed-love-feedback-on-3\" aria-label=\"Heading link\"></a><img src=\"https://discuss.frappe.io/images/emoji/twitter/speech_balloon.png?v=15\" title=\":speech_balloon:\" class=\"emoji\" alt=\":speech_balloon:\" loading=\"lazy\" width=\"20\" height=\"20\"> What We’d Love Feedback On</h3>\n<ul>\n<li>Does this fit well with real-world retail workflows?</li>\n<li>UX / usability improvements</li>\n<li>Edge cases or missing features</li>\n<li>Suggestions from POS-heavy setups</li>\n</ul>\n<p>All feedback is very welcome <img src=\"https://discuss.frappe.io/images/emoji/twitter/raising_hands.png?v=15\" title=\":raising_hands:\" class=\"emoji\" alt=\":raising_hands:\" loading=\"lazy\" width=\"20\" height=\"20\"><br>\nLooking forward to your thoughts and discussions!</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e99b99/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 54,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

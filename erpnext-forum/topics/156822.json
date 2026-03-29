@@ -1,0 +1,51 @@
+{
+  "topic_id": 156822,
+  "title": "UOM Mismatch Issue Between like Purchase PO and Receipt",
+  "slug": "uom-mismatch-issue-between-like-purchase-po-and-receipt",
+  "category_id": 9,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-11-14T00:09:36.285Z",
+  "last_posted_at": "2025-11-14T00:09:36.387Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/uom-mismatch-issue-between-like-purchase-po-and-receipt/156822",
+  "views": 23,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "magedbjn",
+  "posts": [
+    {
+      "id": 486418,
+      "username": "magedbjn",
+      "name": "magedona",
+      "created_at": "2025-11-14T00:09:36.387Z",
+      "cooked": "<p>In the <strong>Purchase Order</strong>, I request items using the <strong>Kilogram (Kg)</strong> unit.<br>\nHowever, during <strong>Purchase Receipt</strong>, I receive the items using different units such as <strong>Piece</strong> or <strong>Carton</strong>.</p>\n<p>I have already set up the UOM Conversion inside the Item, so that Piece and Carton convert correctly to Kilogram.<br>\nBut when I try to submit the Purchase Receipt with a different UOM, I get the following error:</p>\n<p>**Incorrect value in row 1: UOM must be equal to ‘Kg’<br>\n**</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/9/1/91ada5576fe4f7e06c1e2a3fa01033e1d81b4b47.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/91ada5576fe4f7e06c1e2a3fa01033e1d81b4b47\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/9/1/91ada5576fe4f7e06c1e2a3fa01033e1d81b4b47_2_690x159.png\" alt=\"image\" data-base62-sha1=\"kMJgBi8o6Jqk5LoyIw0uVENRupp\" width=\"690\" height=\"159\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/9/1/91ada5576fe4f7e06c1e2a3fa01033e1d81b4b47_2_690x159.png, https://discuss.frappe.io/uploads/default/optimized/3X/9/1/91ada5576fe4f7e06c1e2a3fa01033e1d81b4b47_2_1035x238.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/9/1/91ada5576fe4f7e06c1e2a3fa01033e1d81b4b47.png 2x\" data-dominant-color=\"FBFBFB\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1039×240 10.6 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/magedbjn/{size}/86707_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 12,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

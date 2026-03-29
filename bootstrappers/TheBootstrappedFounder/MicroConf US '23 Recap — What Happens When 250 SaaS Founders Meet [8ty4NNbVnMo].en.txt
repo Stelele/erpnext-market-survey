@@ -1,0 +1,1158 @@
+﻿Today, I want to talk about my visit to MicroConf in Denver,
+where I was a speaker.
+Over the last three days, I've been spending my time outside
+of my home for what feels like the first time in many a year.
+And I want to share with you the amazing conference
+that I went to, the stuff that I learned,
+the stuff that I talked about, why this is a great conference,
+and pretty much every other thing that I could talk about.
+This is going to be more of a train of thought episode today,
+because I have the very strong feeling that I'm not even home
+yet, like mentally.
+I just arrived a couple hours ago.
+But I wanted to make sure that you get this,
+all the insights from the conference as soon as possible.
+So yeah, here we go.
+All right, let's talk about MicroConf 2023
+in Denver, Colorado.
+So for those of you who've never heard of MicroConf,
+where have you been?
+But anyhow, the community that we live in
+has several conferences that are extremely relevant
+to the field, the Indie Hacker, SaaS Bootstrapped Entrepreneur
+Field, and MicroConf is one of them,
+is hosted and led and organized by Rob Walling.
+He is the head behind MicroConf, and also
+TinySeed and the podcast startups for the rest of us.
+Rob has written a book just recently.
+He has a lot going on in terms of empowering
+our community of indie founders.
+Of course, there are way more people behind this,
+but Rob is kind of the poster child,
+and he's been doing this for a long, long time.
+So this is a two-day conference, and it
+happened for the 10th time in the United States
+at this point.
+There was an interesting point during the conference
+where Rob had us all stand up and sit down
+after he kind of counted up the times of how often people
+were at the conference before.
+So most people, obviously, were there for their first time,
+but a lot of people were there for the second, third, or fourth
+or even fifth or sixth time.
+It's just like people sitting down as the count went up.
+It was pretty interesting.
+And by the end, three people were
+standing that had been to every single MicroConf in the past.
+And these are people that you probably all know, right?
+Like Mike Taber is in there, and Dave Rodenbaugh was in there.
+These are people in our community
+that just have been around for a while,
+and they've been attendees of this conference forever
+in terms of the life of the conference, which
+was really cool to see.
+We have people that have been extremely
+present in our community, Rob being one of them.
+And this conference is the venue for them to find together,
+just to find a way to communicate with each other
+and to just exchange interesting developments from our field.
+It was the second MicroConf that I was at.
+The first one I went to was back in 2019,
+MicroConf Europe in Dubrovnik in Croatia,
+just a couple of months after we sold our business,
+Feedback Panda, Danielle and I, my partner and I,
+we sold our business.
+And a couple of months later, we went to the conference,
+mostly because we finally had time to do stuff,
+and we had the opportunity to give an attendee talk.
+But I'm going to talk about this later,
+because that is part of what I was talking about on stage
+at that conference, because I also had a slot
+and had a talk.
+And it was a very special thing that
+resonated with the audience in a very particular positive way.
+And I want to share that later, but there
+is so much interesting stuff going on at this conference
+that I will now artificially build suspense.
+And I'm not going to do that.
+And I'm just going to talk about my slot after the other ones,
+because the other ones were also extremely interesting.
+There were five keynote sessions in the conference
+and several attendee talks and workshops and discussions,
+one of which was mine.
+The whole conference was co-hosted
+by Rob, who usually hosts a conference,
+and Lianna Patch, who is a great copywriter and an extremely
+funny person to have on stage.
+She just compliments Rob and everybody else extremely well.
+Lianna was awesome.
+It was really, really funny.
+She brought jokes to the stage.
+She brought cat pictures to the stage.
+And just a sense of community that was palpable in the room.
+She picked it up, and she did something with it
+that was really wonderful.
+The whole conference, again, is a two-day conference,
+but started the evening before.
+There was the idea that people would come and arrive
+on Sunday and get to the hotel.
+And that would be a nice little thing in the evening,
+registration, where you would get your badge.
+And that badge then would get you into the place where
+it was a reception, essentially, with a bar
+and a lot of people chatting.
+And that starts the zeroth day, I guess.
+This is a technical conference, so you start with zero.
+And on the first day, the Monday, talks started.
+The actual conference began.
+And it began with Rob and Leanne showing people's why.
+That was really cool.
+They had a slide up where, prior to that, people
+had been asked to send in pictures of their why.
+Why did they run the business?
+Why are they SaaS entrepreneurs?
+And it was really cool to see.
+There were pictures of children, obviously, partners.
+There were pictures of places that people wanted
+to be or go or work from.
+There were pictures of things that people wanted to own.
+They had material dreams or a house
+that they wanted to build.
+There were pictures of pets, pictures of cats,
+a lot of cats in there, for some reason.
+There are pictures of dog.
+Even my dog, Biene, made it there.
+It was really cute.
+I took a photo because it was a rotating slide show.
+Our little Biene just was on stage at MicroConf.
+It was just the most enjoyable thing.
+Yeah, that was just really, really cool.
+But it just set the tone for the conference.
+People really wanted to accomplish something
+by being a SaaS founder.
+And they had a reason for being there,
+not just because it was a conference
+and you go to conferences, but because you
+could learn something that would make your life better
+and reach that goal more easily.
+It was extremely enjoyable just to see people light up
+when they saw their family in that slide show, or their pets,
+or their dreams.
+It was just so nice.
+So they explained a concept that I
+want to share with you here as well,
+because it's super interesting in terms of just how
+you can condense a conference into an acronym.
+They have this acronym, STIR, S-T-I-R,
+which is short for Strategies, Tactics, Inspiration,
+and Relationships.
+And that's what this conference is about.
+And it kind of feels like, in the past, most conferences
+were really just about S and T and a little bit of R.
+A lot of strategy, a lot of tactical stuff,
+and some level of connection.
+Networking, that's what you do at a conference,
+in a business sense.
+But what I experience, and what I
+think most founders who go to MicroConf,
+no matter if it's the European or the US one, the remote ones,
+or even just a MicroConf Connect Slack that exists and is
+free for you to join, I'm going to put the link in the show
+note, because you really should be in there.
+This is a great place.
+The I and the R, the inspiration and the relationships,
+were extremely strong with this conference.
+There were 250 people at the conference, all of them
+SaaS founders, all of them looking for ideas,
+looking for solutions to their issues,
+looking for new friends that could help them,
+looking for potential partners, potential future co-founders.
+It's just solutions to the pressing problem
+that they've been experiencing since last week,
+or ideas how to overcome something
+that they've been struggling with for years.
+Everything and everyone was there
+because they were looking for inspiration and relationships,
+and a little bit of strategy, and a couple of tactics.
+And those things were not in short supply.
+The sessions were amazing.
+The first one was Dev, Dev Basu from Toronto.
+It's pretty close to where I live.
+He is from a company called Powered by Search.
+And his talk was a nibble at the ARR, which is just adorable,
+and was tips for being more agile than your bigger
+competitors.
+And Dev talked about being where those people can't be,
+being faster than those big companies,
+using your small SaaS business being as an advantage,
+and doing things that they can't do.
+One big learning that came out of his talk,
+which I found was extremely well executed.
+He's a great speaker.
+He talked about discovery ads, Google discovery ads.
+And that was something that I've never really even
+knew of before.
+And most people at the conference
+were surprised by that too.
+It's really interesting to see that there are things,
+even in paid advertising, that I just didn't know about.
+And I'm dealing with this all the time
+because I talk to so many founders who
+try all the things, not just building
+public or social media, but also paid advertising,
+and search engine optimization, these kind of things.
+But it was interesting to learn about discovery ads
+and how to use them realistically
+to out-compete your much bigger and much more well-financed
+competitors.
+That was one big theme of the whole conference,
+was that bootstrappers have to do things differently.
+And that makes MicroConf so extremely interesting for us
+as indie founders.
+We don't have the massive budgets
+that those big companies have.
+We don't have these extremely well-thought-out strategies
+with 400 people executing on your marketing plan.
+We're alone.
+We're solopreneurs.
+Or we have a team of four.
+And one person has to do all the marketing and the sales
+at the same time.
+So leveraging things that work well because you're fast,
+that's a great idea.
+And the same kind of went for the second talk
+by Claire Suellentrop from Forget the Funnel.
+She was talking about a customer-led approach
+to driving predictable recurring revenue,
+even in unpredictable times.
+And unpredictable times we are in for sure.
+She explained how she and her business partner, Gia,
+helped brands just understand their audience better
+and craft higher converting copy and just close
+more deals through being more precise in what you offer.
+It was just interesting, really, to see
+how every talk was focused on giving bootstrappers tools
+to be and maintain a life as a bootstrapper.
+Like nothing in MicroConf is trying to pull you out
+of the bootstrapping space.
+A lot of conferences kind of give you these big stars.
+I was in Portugal back in, I think, 2018 at Web Summit.
+And it was an incredible, gigantic conference.
+It's like everybody from all industries is there,
+like Microsoft people.
+Like Ray Dalio was the speaker at that conference,
+like the big investor guy.
+And you have these big stars that you may really look up to
+because they have provided a lot of value in their books
+and in their writing and in the things
+that they've been doing.
+But that's not really gonna help you if you're a bootstrapper.
+I mean, it's cool that you see people
+from like Fortune 100 companies,
+like these extremely big companies,
+tell you what they did at a certain level.
+But that's kind of for other CEOs of equally big companies
+to implement in their own businesses.
+It's not really for us trying to build like a little SaaS
+that has maybe a couple hundred,
+if not just a couple dozen customers at any point.
+It's just not the same league, but MicroConf is for that.
+And this is not like a sponsored thing for MicroConf.
+I just really enjoyed being there, as you can probably tell.
+And it's been an extremely valuable experience
+just to listen to these people who are running businesses
+like the ones that we want to build, right?
+We want to build successful bootstraps SaaS businesses.
+These are the people that are on the same journey.
+And when it comes to advice like this,
+like you shouldn't listen to people
+who are not doing the thing that you want to do.
+And these people did.
+And day one of the conference,
+the Monday was more tactical and strategic.
+And day two had a bit of a more personal touch.
+The stories were slightly different.
+Patrick Campbell was on stage.
+He opened up the day two, Tuesday,
+and he talked about bootstrapping to a $200 million exit,
+the ProfitWell story.
+And he led into the whole talk
+with a lot of personal stories too,
+because if there's one thing that Patrick does,
+it's just be honest about his journey.
+I had him on this show.
+I had him as a, just speak,
+I talked to him about the story of ProfitWell.
+I wanted to know like what the emotional problems were
+during that journey.
+And he really opened up on my podcast
+and he kind of did the same thing on stage there as well.
+Like he really went into the mental psychology
+of building such a business, exiting such a business,
+what it means for a bootstrapper
+to build a bootstrap business,
+making the choice maybe to get funding
+or making the choice to get a lot of funding
+and how all of these things align.
+There's one thing in his talk that I really enjoyed.
+It was the idea that you really need massive alignment
+with your partners.
+And that means partners on any level, right?
+Business partners, co-founders, obviously,
+if one co-founder wants to bootstrap,
+the other one wants to eventually like disrupt the market,
+that's not gonna be a good fit.
+I wrote about this in the past,
+like the founder, co-founder fit.
+It's really important to get right
+if you have other people in your business.
+And Patrick was saying the exact same thing.
+Like you need that to be aligned,
+but that's not just for co-founders.
+It's also for life partners, right?
+If you wanna live the life
+of building a sustainable business,
+well then your partner should probably also want
+to live a really nice, enjoyable, relaxed,
+sustainable, calm life.
+And on the other hand,
+if you wanna build like the thing that disrupts the market,
+whatever it may be,
+then you need to be absolutely clear
+that this is gonna be a really tough time.
+Like you're gonna spend a lot of time getting things done,
+working on these things.
+I don't really like the whole hustle culture sentiment here,
+but the idea is if you wanna build
+something extremely crazy,
+you need to spend enormous amount of energy.
+Maybe not time, but at least energy and focus on it.
+And your partner in life, as in business,
+should really be aligned with that.
+Because if they expect you to be around more,
+but you can't because you need to do this,
+to get to whatever goal you have,
+you're gonna run into trouble.
+So that was what Patrick was talking about.
+My talk came after that.
+But before I get to that,
+I'm just gonna share what everybody else was doing
+because everything else was also super interesting.
+Oh yeah, John Ndege was also there.
+And John was talking about, what is he talking about?
+He was talking about sales, building like a sales engine.
+That was really cool too.
+Like his perspective from having built sales engines
+all the time, that was really cool.
+I'm just gonna do a quick look up here
+because I really wanna make sure
+that I get everything right.
+Yeah, he's the founder of Rapid Reply.
+And he's been building like sales,
+I wouldn't call it funnels, but like sales systems forever.
+And he shared his personal approach on how to set them up,
+like gave categories and all that.
+I think these talks, I hope including mine,
+will be available in video at some point.
+And once they are,
+you can be absolutely sure that I will link to that.
+We'll give you links just on Twitter, very likely,
+or in the newsletter as well.
+Because I very much would like to rewatch
+all of these things because every single talk
+was just filled with exciting information
+that is extremely useful.
+To where I am, even with my media business
+that I'm building, right?
+Like I have a really small SaaS business,
+permanent link on the site.
+But what I'm really doing is running this podcast,
+giving interviews, getting people to come on my own show
+for interviews, running a newsletter, writing blog posts,
+and releasing articles and all that kind of stuff.
+That itself is a business.
+And even for this kind of business
+that is not technically a SaaS,
+most of these things are extremely applicable.
+And even the attendee talks
+and the micro sessions were like this.
+So Lianna, the kind of co-host of the whole conference,
+had a little session there as well.
+And she was just roasting people's copy,
+their landing page copy, from a copywriter's perspective.
+It was really interesting to watch.
+People had previously suggested their websites
+and you just open them up and just talk them through.
+The people who were giving her these links,
+they were in the room.
+So there was a conversation between the person
+who ran the business and Lianna as a potential customer.
+And she just asked the questions that a customer would ask,
+like, what is this?
+I don't understand.
+Like, why does it work like this, right?
+Looking at a website copy
+and not understanding what the product does,
+she pointed that out and gave alternative ideas
+on how to make it better.
+That was really cool.
+Then Chuck and the folks from the sponsor of the conference,
+Quiet Light, who's a broker
+if you want to sell your business,
+they were taking questions and answers in another room,
+which was really cool.
+So you could just yell at them and ask them about,
+I don't know, valuations or how to structure a company
+to make it sellable, these kinds of things.
+That was really, really nice.
+So as you could tell,
+the conference has these multiple tiny sessions
+that happen at a certain point,
+like outside of the single track talks that exist,
+where people can kind of pick and choose
+from at which stage they're at.
+If you're more interested in selling your business,
+you're probably not going to go to the landing page roast.
+And if you're early and you want to make sure
+that your initial customers get the message right,
+you don't think about selling your business just yet.
+So you go to that thing.
+It's just a wonderful conference
+with a great way of getting exactly what you need.
+There were two more sessions.
+One was by Bet Hannon from AccessiCards.
+She was talking about accessibility.
+And that was really interesting too,
+because accessibility is just such a relevant thing
+that it's not just a requirement, a legal requirement,
+but an actual way of empowering your audience.
+And then there was Anthony Eden of DNsimple
+talking about DNS, which as we all know,
+is the source of every single problem
+and our salvation, apparently.
+Just how to use DNS in businesses.
+That was really cool.
+Anthony is a great guy as well.
+And DNsimple has been something that was on my radar
+for many, many years,
+because one of my pals back from Hamburg back in the day,
+when I was building Feedback Panda,
+I went to a lot of meetups in Hamburg
+and one of their early engineers
+was at the same meetups as I was.
+So shout out to Ole, I guess.
+But yeah, it was just interesting to see
+how we all connected in this community.
+That was one of the things that really stood out to me.
+So it is time now, I guess,
+to talk about what I did at the conference.
+So I gave something that was like half talk,
+half interactive session.
+I reached out to the people at Microconf like a year ago,
+and I told them, I'm ready to do something like post COVID.
+I'm ready to get started doing something useful
+and give back to the community.
+What can we do?
+And at that point, I think all the actual talk slots,
+like the five key keynote slots were already filled,
+but I still wanted to do something.
+So I talked to a producer, Xander,
+which is, he's the guy that makes everything happen.
+And he was really good at making things happen.
+We were just chatted about like what I could be doing.
+And as you know, or may not know,
+which is why I'm saying it,
+this podcast, my newsletter,
+and everything that I've been doing
+has been focused a lot on mental health topics
+because I've been struggling with this
+throughout my founder journey and beyond.
+Like it never really ends.
+Like imposter syndrome is always there.
+Burnout is always a potential if you work too much.
+And all these little things
+are things that are important to me,
+which is why I suggested that I do something about that.
+So we came up with the idea
+of having an interactive session.
+The idea that there's a room of like 250 people,
+every one of whom already kind of shares
+the same experiences.
+Why don't we make people share their stories
+and normalize talking about it?
+And that was the whole idea.
+So I went on stage.
+I explained that,
+well, I can just kind of give you
+a quick walkthrough through my talk.
+Like the video probably will be,
+it will be a bit until the video's out.
+So I'm just gonna give you an insight
+into what I told people.
+Kind of started with making a note
+that every single talk that we had heard
+at the conference before had some passing reference
+or even a slide where they mentioned burnout.
+And that was extremely interesting.
+Like you would not expect this to be a central topic
+in almost everything at a conference.
+Like even something as highly as technical
+and tactical as SEO information, right?
+Where people talk about how to optimize for search.
+Still in passing at a Dev's talk, for example,
+there was mention of being overwhelmed by work
+or in Patrick's talk, there was mention of being burnt out
+or having people not understand what you're doing.
+It was really, really interesting.
+Even in the little attendee talks in between,
+like these 15 minute sessions,
+somebody was talking about selling their business
+or when and how we should sell your business.
+One of the reasons for selling your business, burnout.
+Or the other attendee talk was about outsourcing.
+And one of the reasons of outsourcing customer service,
+way too much work, burnout.
+It was everywhere.
+And I'm so happy.
+I mean, not happy that burnout is everywhere.
+That is really not cool,
+but I'm happy that people are actively thinking
+about these things and making sure
+that this is being communicated, that we talk about this,
+that this is a real thing that everybody might or will feel
+and we get to have a conversation about it.
+So I started by saying, look at this,
+here we are at a conference
+for Bootstrap SaaS Entrepreneurs
+and every talk is mentioning burnout.
+That is something important.
+That is new, that is great that we talk about it.
+And this is something we should do more of.
+So I shared a story of my own life involving burnout,
+which kind of was a harkening back to MicroConf 2019,
+where I gave this attendee talk, right?
+We had just sold the business and Danielle and I,
+we gave this talk on stage about all the cool things,
+like how we automated everything,
+how marketing worked and how we made the business sellable.
+It was all cool.
+And we talked about how great it was
+and what a nice experience the sale was and all that stuff.
+But what I didn't say to people back then,
+but I didn't share because I wasn't even really aware
+that it was a thing, was that I was still mid burnout.
+Even after we sold the business,
+like four months after we sold the business,
+I still had physical burnout.
+It was still there.
+I didn't eat the day of that session.
+I didn't eat the day of that attendee talk
+because I just couldn't.
+I was so stressed because when you are in this burnout state
+every little bit of stress, at least for me,
+gets amplified massively.
+So I just could barely handle it.
+You may not see it.
+And the video of that talk is on my website.
+It's on the Bootstrap founder,
+somewhere in the about section, I guess,
+if you want to look it up.
+You don't necessarily see it, but I was super stressed.
+And I shared that story and then told people that,
+well, this is a problem, right?
+Like we don't talk about this.
+Like I shared a couple Twitter insights
+that people have on mental health,
+where they really just say, yeah, deal with it,
+or like lean into discomfort.
+And then I said like, this is really not helpful
+because we struggle with things.
+Like just leaning into struggle,
+that's not gonna make them any better.
+So I encourage people at that moment
+to consider that they all have a story.
+Like this room, 250 people, all SaaS founders,
+we all know exactly how it feels to do too much
+and to have too little support.
+So I wanted to prepare people to have a conversation.
+And I shared another story from my own life
+because I kind of wanted to talk about two main topics.
+One of it was being overwhelmed
+and every SaaS founder knows extremely well
+what it means to be overwhelmed.
+And the other one was feeling isolated
+on the other side of the spectrum, right?
+Overwhelmed is just you get too much external stuff.
+Everybody wants something and you need to do everything
+to make sure your customers are happy
+and that your business keeps running
+and that you have these external interruptions
+and you're just overwhelmed from that.
+Other side, you're socially isolated
+because nobody understands what you're doing.
+Like your parents, they think you should get a job.
+Like even Patrick Campbell in his talk,
+like this guy sold a business for $200 million.
+And apparently he flew in his parents
+just to celebrate or a family event.
+And his father still told him
+that he would probably make a good doctor.
+Can you imagine selling a business for nine figures?
+Like creating generational wealth
+for decades if not centuries to come for your family
+and every offspring in that family
+and your father still talks to you
+as if you hadn't reached the pinnacle of your career.
+That is isolation.
+That is being misunderstood.
+That is not being seen or heard.
+And if a person can sell a business for $200 million
+and not get the kind of understanding
+and respect from the family,
+then everybody else is in the same boat.
+And I certainly know it.
+I've seen people on Twitter a lot.
+Like Dagobert Renouf famously says
+that his father-in-law did not understand
+him going into business
+and had been a massive opponent of that.
+All of these stories are out there in the open.
+And I knew that the audience at Microcurrent
+had the exact same understanding of this.
+So I shared the story first of my understanding
+that I had burnout, like when that happened to me.
+I'm not gonna go into that particular detail
+because it was a very painful story to share.
+And I hope there will be a recording of it.
+And if not, then I might share it at a later point.
+It was really just about like waking up
+and now I'm sharing it.
+Well, there you go.
+This is why I listen to the podcast, right?
+You get the stuff anyway.
+I cannot help myself.
+It was about waking up at three in the morning,
+getting a robocall.
+The system was down, right?
+Some automated tool figured out our product was offline
+and called me.
+I got up, walked to my computer
+and just started crying.
+Like I just fell apart because it was just so stressful.
+This had been happening for a couple of weeks
+and it's just like, ah, can't handle it anymore.
+And then I handled it and built automation to deal with it.
+But it was just so frustrating.
+I was just so overwhelmed by all of this kind of stuff
+and had to rebuild the architecture to not be as brittle
+and be more resilient and had to deal
+with customer service messages pouring in
+as I was trying to fix it.
+It was just so much.
+So I shared a pretty deep, emotionally,
+very painful story with people,
+preparing them to share their own.
+And then I invited them to have a 15 minute conversation
+around that table.
+So if you've seen pictures of the MicroConf layout
+of the room that we were in, the grand ballroom
+at the Sheraton Downtown Hotel in Denver,
+it's kind of big tables that can seat like eight
+to 10 people all in a room.
+And you can kind of face your chair towards the stage
+if you want to, but you can also face it towards the table.
+And that's what I asked people to do.
+I asked them to join on other tables
+that were like half full and then start having a conversation
+about a topic experience from their own lives,
+how it impacted them, how they dealt with it,
+what they learned from it, if they still experience it,
+if they found ways to make it better
+and share it with the other people around them.
+Because one thing that was very obvious to me
+just from having conversations with people
+throughout the conference leading up to this session
+was that everybody had a story.
+I mentioned that I was gonna do this
+during the lunches and dinners that we had.
+And I'll talk about like these kind of logistics
+a bit later because they were also very interesting,
+but let's just stay with mental health topics.
+And whenever I said, hey, you might wanna prepare
+a little story for tomorrow during the session
+that you can share with other people,
+people started sharing the story right then.
+They said, yeah, I have one immediately.
+Like I did this and then that happened.
+And then I was super frustrated here.
+Or I talked to this person and they thought I was an idiot
+for going into entrepreneurship.
+Like people's stories were just waiting to pour out.
+And what I noticed, not just from those conversations,
+but from my session was that people were just waiting
+to be given permission to talk about their feelings.
+It was such a noticeable event because I told people,
+here's how we're gonna do it.
+You're gonna have a conversation,
+turn to your people around you.
+I'm gonna give you 15 minutes, start now.
+And I was walking off stage and I hadn't even reached
+the end of the stage and the room was buzzing.
+Like there was this moment where people just felt like
+I can open the flood gates
+and stories just fell out of people.
+It was incredible.
+It was an incredible moment.
+It was super validating for me to know that the session
+that I was there to do, which I thought may or may not work,
+worked incredibly well.
+So I went to my table with the other speakers
+and we started sharing stories too.
+Like speakers have the same problems, right?
+You might think, oh yeah, celebrities on stage,
+no problems, same issues.
+Lot of mental health problems,
+lot of issues with losing your partner,
+going through breakup or having a misunderstanding
+with your partner about the priorities
+that you have in your life.
+All of this came out and I listened to the table next to us,
+similar stories, it came out.
+And after a while I went back on stage
+and I shared another story because I wanted people
+not just to talk about being overwhelmed,
+but also about feeling socially isolated
+because these are similar mental health issues,
+probably the most common issues that we have.
+And they very much very quickly stopped talking
+to listen to my next story because they knew
+that I was gonna be honest with them and share another thing
+for them to reflect about their own lives upon.
+So I shared another story about feeling extremely alone,
+which kind of happened as, so Danielle and I,
+my partner and I, I'm German, she's Canadian,
+so we used to live in Berlin,
+but often commute back and forth to Canada.
+And there was a death in her family,
+so I kind of went there with her to be there with the family
+and we spent the day of the burial in the evening,
+spent some time in her parents' house
+to just as a kind of a wake,
+kind of a moment to remember the person.
+And everybody was gathered there,
+people were exchanging stories.
+It was a really emotional event.
+It was just every heartfelt,
+people were grieving and reminiscing.
+It was really beautiful.
+And my phone started buzzing and it was customer service,
+people were writing in, something broke, right?
+I don't wanna go into the technical details,
+it was irrelevant, right?
+Something had broken, an integration, not critical,
+but critical enough for me to need to fix it.
+So I had to remove myself from this family event,
+go to an empty bedroom and open my laptop
+and fix that stupid bug, fix that extension thing
+that kept people from using our product kind of,
+but not really, they could have done it if they wanted to,
+but their expectation was product has to be perfect or not.
+So I dealt with this
+and I felt so incredibly alone at that moment.
+Like I was just sitting there
+like fixing this browser extension integration issue,
+which is just such a banal problem,
+while my family was mourning a person that had just left us.
+It was, I don't know, it was just so pointless
+and it felt so alone.
+So I shared that story with the audience
+kind of to anchor them, again, to give them permission
+to talk about deep scars on their lives.
+Went off stage again, same thing happened.
+People just had yet another story.
+Like they just, it's just like just snap your fingers
+and the story is right there
+because we all know exactly what this feels.
+You know what it means to be overwhelmed,
+like what founder doesn't,
+and we know what it means to be misunderstood,
+to be left out, to have to prioritize things
+you don't wanna prioritize, but you have to do it.
+And that kind of pulls you away from the people around you.
+So that was my session.
+I gave him another 10 minutes and it was lunchtime after,
+so we wanted to make sure it stopped at the right time.
+Went back on stage and then just profoundly thanked
+this wonderful group of people, this community,
+for opening up to each other.
+There was another Q&amp;A session, which is nice.
+Somebody asked me how I get to,
+or how I got to like 100K people on Twitter,
+which is, I just told them like the same thing
+that what people had just been doing,
+like share honest stories with each other,
+like being authentic.
+And not authentic in like quotation marks,
+just be authentic, just be yourself, share what you do.
+And that's kind of why I think, I believe,
+my followers, my readers, and my listeners,
+and my viewers, I guess, want to connect with me
+because I just don't pretend.
+I don't have time to pretend,
+like I just wanna be myself.
+And that was one of the things.
+And then we kind of closed my session
+and it was really nice and went to lunch,
+but not before I was approached by dozens of people
+from that conference telling me all the little stories
+of what their experience just now was.
+The couple tables, or people from a couple tables
+came up to me.
+And one thing that I found really interesting
+was somebody told me that around that table,
+they noticed that some people there visibly relaxed
+after sharing their story.
+And it very much appeared as if these people
+had for the very first time ever
+talked about their mental health issues
+regarding being a founder, being a SaaS entrepreneur
+with other people.
+They had, for the very first time ever,
+even reflected upon this being not just what life is like
+as a founder, but that this is something
+that shouldn't be like this.
+That's kind of what I said too,
+when I woke up and had to fix this downtime thing.
+Like you're not supposed to sit in front of your computer
+and cry.
+That's not what a SaaS entrepreneur life should be like.
+So people have realized through those conversations
+around those tables with their peers,
+with people who really got them,
+who really understood them, that something was wrong
+and that something should be different.
+And if there's anything that I hope that the people
+who listened to what I did at Microcomf
+take away from the conference is that reflection
+on these things is paramount.
+You have to think about your own sanity, your mental health
+and the peers around you in our community,
+be it in person at a conference, being present people
+or in virtual communities, such as the Microcomf Slack,
+Microcomf Connect or Twitter or the Indie Hackers Forum
+or your peer group, your maybe a mastermind group
+that you join or a mentor or whatever,
+a person or people that understand you.
+That is how you get out of these things.
+I found that in my Twitter community
+and my Indie Hackers community,
+that's kind of who got me out of my burnout cycle
+and my self-doubt and my imposter syndrome all the time.
+And if you're listening to this, it's quite likely
+that we had a conversation in the past that helped me
+or help you or that you participated in a conversation
+that was helpful to others.
+The community is where it's at.
+And that was so palpable, so noticeable in that room
+because people, it was so bizarre.
+People talked about painful stories and they smiled.
+Like they smiled because they knew that they were heard,
+that these stories were not judged.
+They were not being considered weak
+when they shared stories of being emotionally vulnerable.
+They were considered strong because they shared,
+because they needed to get it out.
+And just by talking about your own issues,
+you give other people permission to see their own issues,
+not as something that is wrong with them,
+but as something that can be corrected
+because it is an external thing.
+And that was really, really nice.
+So that was my session.
+It was a very, I guess, soft and squishy topic.
+Was not by far, not as technical as the SEO
+or funnel building things, but that was the thing
+about MicroConf that I really enjoyed.
+You have all of these, stir, right?
+You have strategies, tactics, you have inspiration
+and you have relationships.
+And I hope that what I did there was fostering
+a lot of relationships for hopefully a very long time
+and give people the inspiration and the motivation
+to deal with these issues,
+not when they're already causing burnout,
+but on the way in so you can correct it.
+And yeah, that's what I did at MicroConf this year
+in Denver and I really, really am grateful
+to Rob and everybody there to make it happen.
+It was an incredibly empowering moment for me.
+Like I said, the thing, when I went off stage
+and people were already talking
+and I was still walking, like my mic was still hot.
+I could have stopped at that moment.
+It was so touching to see people just opening up
+and letting the stories pour out.
+That was really nice.
+Let me share a couple more things about the conference
+because I would assume that a couple of you
+listening to this are now very interested in MicroConf.
+Let me put a couple more things on top
+that make it even better because the conference itself
+was at the Sheraton Downtown Hotel in Denver
+and MicroConf jumps from venue to venue, right?
+You will find that MicroConf is not gonna be
+in Denver all the time.
+I think next year is gonna be in Atlanta
+and that's gonna be great too
+because I always wanted to go to Atlanta.
+Now I get to it with my friends, my nerds, right?
+It's so awesome.
+The hotel was cool.
+It had like a big old lobby.
+It had great ballroom where the conference was held.
+It was very nice.
+There was a good restaurant in there.
+The hotel itself was great.
+The rooms were wonderful.
+I spent like six hours preparing my talk,
+like rehearsing my talk in that room and I felt great.
+It was nice.
+Denver itself is a cool city and yeah, it just, it was nice.
+A good place to have the conference.
+Like I said, at the first night and pretty much every night
+there was a reception in the lobby
+where you could just hang out with your fellow founders
+and your fellow SaaS nerds.
+And you know, on Sunday when I arrived,
+there was already kind of going on
+like a couple hours after I came there.
+Even before, we just went out for lunch on Sunday
+because I arrived early in the morning
+and the reception would start at like five-ish.
+And we just found a couple of people on Slack
+and we hung out at a restaurant just across the hotel.
+And we spent like three or four hours just chatting SaaS.
+People who I personally had never met
+and they had never met me,
+I think some of them knew me through Twitter,
+but we just had this immediate connection
+talking about the problems that we all share.
+Again, not all problems that we share
+are mental health issues,
+but we just have common problems
+and we need customers, we need growth,
+you know, all these things.
+And it was just so much fun to talk to people.
+Then at the reception, I finally got to meet
+a lot of people that I always wanted to meet, right?
+I met Colleen, Colleen Schnettler,
+and Aaron from Hammersmith, I'm sorry, Hammerstone.
+And it was the amount of people
+that I met at this place, it's just incredible.
+Like it was just 250 people
+and you probably kind of knew
+at least half of them already.
+And the other half, you kind of knew through other people.
+It was wonderful.
+Like I could not, everywhere I went,
+there was somebody I kind of knew.
+I met so many people like Shai from Twitter
+that I've been talking to a lot about.
+And of course the whole TinySeed team
+and a lot of founders from TinySeed as well
+that I met in the past and had hung out with
+a couple years ago at the other MicroConf venue.
+So it was just great that you go there, there's beers,
+there's drinks, there's food, and there's nerds.
+It's the best combination.
+They have these incredible conversations with people
+that you already kind of know.
+It's like the pre-warmed meeting with people
+that you think you already do know,
+you have these kind of parasocial relationships with,
+and then you actually do know them.
+It was really fun.
+It was such a great time.
+So let me talk a bit more about the logistics
+of the rest of the thing,
+because the MicroConf is not just talks and workshops.
+Like one of the most important things
+at MicroConf is what they call the hallway track.
+And that is just what happens between things, right?
+The thing with the reception, for example,
+kind of is part of it,
+but just you chatting with people all,
+essentially all day around the conference,
+learning about things, getting to meet new people,
+organizing deals, organizing partnerships,
+like little adventures together.
+That is what makes the conference so special,
+because it's not just listening to a talk
+that makes a conference good.
+It's building these relationships.
+And that's what the hallway track,
+which is what it's called, is about, right?
+Just hanging out, making friends, and being an art.
+But there's also food.
+Like they organize lunches at the conference too.
+So the first day we had like lunch at the milk market,
+which was like a kind of a food market,
+which they had booked just for MicroConf.
+So essentially what would have been
+a thing open to the public was a private event.
+And you could just get food from all kinds of little stores.
+There was like a burger place,
+and there was like a fish place, a taco place.
+You know, all these little things
+were exclusively available to everybody from MicroConf,
+which was awesome.
+So again, you would hang out with people,
+you would eat, you would chat.
+That was part of the hallway track too.
+And on the second day, there was a mystery lunch,
+because prior to arriving,
+people had to kind of fill out a survey
+about what they like about food.
+And then they would kind of pair people or not pair them.
+They grouped them up and sent them
+to like 12 different restaurants all over the city.
+Just like, you know, from the amount of,
+or the kind of quality of answers that they got,
+what people liked, what their experimental risk tolerance
+was, they would be put into a group
+and sent off to a particular restaurant.
+It was just a great idea.
+And then after that, the whole show continued.
+It was really cool.
+And then happy hour every evening.
+And at the closing reception was nice too,
+like an open bar next to the pool, which was a bit too cold,
+but it was still just wonderful to see people chatting
+and meeting new people, even on the last day,
+getting to know people.
+And one other thing that we did on the first day on Monday
+was having micro excursions.
+So little, four little excursions throughout the city
+in the afternoon.
+One was a pub crawl, which was hilarious to do
+like in the early afternoon,
+but it's a thing that people apparently did.
+The other one was a weed tour,
+because marijuana is legal in Denver.
+So there was a, I think they went to kind of grower
+and to like a retailer or something.
+It was kind of more an entrepreneurial weed tour.
+I mean, I didn't participate in that,
+but there probably was some participation,
+if you know what I mean.
+There was go-karting, a group of people just went
+to go go-kart, and the group that I was in
+went to a place called Meow Wolf, which was,
+I can only describe as like a museum of speculative history.
+I think that's what somebody told me that
+it reminded them of.
+As I imagine, like aliens had made contact
+with people in the 70s,
+and there was a portal between planets.
+And one of them, that's a story to all of this,
+it's so bizarre.
+The whole place is essentially like a little theme park
+for adults, but no like rides or anything.
+You just walk through and you discover a place
+that is super weird.
+Just check it out, Meow Wolf is the name.
+It exists in multiple cities.
+And it's just a place that you can walk through
+and discover new things, new mind boggling things
+in the place.
+Just, yeah, I cannot even describe it.
+I went through this place for three hours,
+was constantly mesmerized,
+and I'm still having a hard time describing it.
+So that's the kind of stuff you also get to do
+at Microcosm.
+You get to expand your mind, either through alcohol,
+go-karting, weed, or visiting a museum
+of speculative history.
+It was great.
+And everything around the conference was well videoed.
+There was a video team there, photography was happening,
+sound was amazing, it was really well done.
+And the hallway track, as usual,
+is the thing that you go to this conference for.
+So yeah, Microconf, man, that was awesome.
+I was glad to be a speaker at this
+because I got to hang out with the other speakers too.
+But the thing is, everybody got to hang out
+with the speakers.
+Like we were, and they were, extremely accessible
+because we were also just founders
+who want to learn something at the conference.
+And that's something you don't really get much
+at conferences like this.
+Like Patrick Campbell, right?
+When do you have access to a person
+who sold their business for $9 million?
+Or no, $9 million, sorry, for nine figures,
+for $200 million?
+Well, you get access to them
+if you go to a conference like Microconf
+where they just hang out with you
+at the coffee station or something.
+That's how that works.
+And yeah, next year it's going to be in Atlanta
+and you can be very sure that I'm going to be there
+because even though I might not speak,
+which I hope to do because I just really enjoy it,
+I might want to do a session like this again.
+I still would like to go as just a participant
+to be part of this wonderful climate there.
+So Microconf was a glowing success.
+I had an amazing time doing what I like doing,
+helping people help themselves.
+And I enjoyed it a lot.
+If you have any ideas like what could be done next year
+or something, or if you want to join,
+check out Microconf Connect,
+which is a Slack that is free for you to join
+and you can just hang out with people
+and chat with them all year round
+and then be part of the actual Microconf
+conference experience as well.
+I think Rob has a book out.
+It was really nice.
+There was a little swag bag for all of us speakers.
+And one thing in there was a copy of his latest book.
+Like I think it's called the SAS Playbook.
+I think there are 25 copies of that book in existence
+and I own assigned one that is also dedicated to me,
+which is just the most adorable thing.
+I'm really, really happy that Rob did that.
+And a couple of other things.
+It was just very thoughtful.
+Like it's a wonderful, thoughtful experience
+to be at this conference.
+Huge shout out to Rob and Sander and Tracy and Liana
+and all the people behind the scenes at the conference too.
+I just had an amazing time.
+So it's kind of what I wanted to talk to you about
+here today, because I just returned from this thing
+and I think these kinds of experiences
+are best conveyed fresh.
+So that's it for today.
+Thank you for listening to the Boots of founder.
+You can find me on Twitter at avid.com, A-R-V-I-D K-A-H-L.
+You find my books and my Twitter course there as well.
+And if you want to support me and the show,
+please subscribe to my YouTube channel and get the podcast
+in your podcast player of choice.
+And most importantly, please leave a rating and a review
+by going to ratethispodcast.com slash founder.
+It will forward you to Apple podcasts
+or wherever this can be reviewed.
+It would really help me to get more people to see this
+and then check it out.
+Any of this will help the show.
+So thank you very much for listening
+and have a wonderful day.
+Bye bye.

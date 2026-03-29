@@ -1,0 +1,52 @@
+{
+  "topic_id": 157617,
+  "title": "POS Invoice Not creating Accounting & Stock Ledger Entries",
+  "slug": "pos-invoice-not-creating-accounting-stock-ledger-entries",
+  "category_id": 7,
+  "tags": [
+    "erpnext",
+    "customization"
+  ],
+  "created_at": "2025-12-03T18:39:42.451Z",
+  "last_posted_at": "2025-12-03T18:39:42.554Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/pos-invoice-not-creating-accounting-stock-ledger-entries/157617",
+  "views": 27,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "arunadithyat",
+  "posts": [
+    {
+      "id": 488101,
+      "username": "arunadithyat",
+      "name": "Arun Adithya T",
+      "created_at": "2025-12-03T18:39:42.554Z",
+      "cooked": "<p>When I use ErpNext POS cart to bill my customers in the backend POS invoice is created but even with update stock is checked no accounting &amp; stock ledger entries are created.</p>\n<p>Is it a broken feature or else it will patched soon??</p>\n<p>Even After config the setting no use</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/7/5/7564c31bec687f8f97f6f946fba5d7dcb2cfc517.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/7564c31bec687f8f97f6f946fba5d7dcb2cfc517\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/5/7564c31bec687f8f97f6f946fba5d7dcb2cfc517_2_690x121.png\" alt=\"image\" data-base62-sha1=\"gKvKfoUxFJHsPSiK6Mr3yzXdrMz\" width=\"690\" height=\"121\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/5/7564c31bec687f8f97f6f946fba5d7dcb2cfc517_2_690x121.png, https://discuss.frappe.io/uploads/default/optimized/3X/7/5/7564c31bec687f8f97f6f946fba5d7dcb2cfc517_2_1035x181.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/7/5/7564c31bec687f8f97f6f946fba5d7dcb2cfc517_2_1380x242.png 2x\" data-dominant-color=\"F9F9F9\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1608×284 27.6 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Can  anyone help me with the work around of this ?</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/arunadithyat/{size}/81737_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 14,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

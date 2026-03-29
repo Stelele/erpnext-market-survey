@@ -1,0 +1,52 @@
+{
+  "topic_id": 155487,
+  "title": "What is the diff between workspace.json in the workspace folder and workspace in the fixtures folder",
+  "slug": "what-is-the-diff-between-workspace-json-in-the-workspace-folder-and-workspace-in-the-fixtures-folder",
+  "category_id": 57,
+  "tags": [
+    "customization",
+    "frappe"
+  ],
+  "created_at": "2025-10-14T10:50:19.515Z",
+  "last_posted_at": "2025-10-14T10:50:19.608Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/what-is-the-diff-between-workspace-json-in-the-workspace-folder-and-workspace-in-the-fixtures-folder/155487",
+  "views": 43,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "manal_erpnext",
+  "posts": [
+    {
+      "id": 483940,
+      "username": "manal_erpnext",
+      "name": "manal alsubaei",
+      "created_at": "2025-10-14T10:50:19.608Z",
+      "cooked": "<p>What is the diff between workspace.json in the workspace folder and workspace in the fixtures folder<br>\nWhat overrides the other<br>\nand the diff between edits in the two places<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/5/b/5b666b72fc4a3a10fc1e4e0b6c5f9dcdafad352b.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/5b666b72fc4a3a10fc1e4e0b6c5f9dcdafad352b\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/5/b/5b666b72fc4a3a10fc1e4e0b6c5f9dcdafad352b_2_690x202.png\" alt=\"image\" data-base62-sha1=\"d2ySKsY6UuaopqktQdXMZWFnLeP\" width=\"690\" height=\"202\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/5/b/5b666b72fc4a3a10fc1e4e0b6c5f9dcdafad352b_2_690x202.png, https://discuss.frappe.io/uploads/default/optimized/3X/5/b/5b666b72fc4a3a10fc1e4e0b6c5f9dcdafad352b_2_1035x303.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/5/b/5b666b72fc4a3a10fc1e4e0b6c5f9dcdafad352b_2_1380x404.png 2x\" data-dominant-color=\"F5F6F6\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1919×564 62.9 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/manal_erpnext/{size}/68679_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 21,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "topic_id": 160784,
+  "title": "Erpnext Meet: Jitsi Meet integration for Erpnext",
+  "slug": "erpnext-meet-jitsi-meet-integration-for-erpnext",
+  "category_id": 6,
+  "tags": [
+    "customization"
+  ],
+  "created_at": "2026-02-16T09:40:44.384Z",
+  "last_posted_at": "2026-02-16T09:40:44.522Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/erpnext-meet-jitsi-meet-integration-for-erpnext/160784",
+  "views": 57,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 2,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "alpkanoz",
+  "posts": [
+    {
+      "id": 494399,
+      "username": "alpkanoz",
+      "name": "alpkan",
+      "created_at": "2026-02-16T09:40:44.522Z",
+      "cooked": "<p>I developed a Jitsi Meeting integration app that we actively use to hold video meetings within the company. Anyone who wants to contribute or use it can check it out:</p>\n<aside class=\"onebox githubrepo\" data-onebox-src=\"https://github.com/alpkanoz/erpnext_meet\">\n  <header class=\"source\">\n\n      <a href=\"https://github.com/alpkanoz/erpnext_meet\" target=\"_blank\" rel=\"noopener nofollow ugc\">github.com</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    <div class=\"github-row\" data-github-private-repo=\"false\">\n  <img width=\"690\" height=\"344\" src=\"https://opengraph.githubassets.com/92228af17f4737f953727e49ef708aaa/alpkanoz/erpnext_meet\" class=\"thumbnail\">\n\n  <h3><a href=\"https://github.com/alpkanoz/erpnext_meet\" target=\"_blank\" rel=\"noopener nofollow ugc\">GitHub - alpkanoz/erpnext_meet: Jitsi Meet Authentication and Integration for...</a></h3>\n\n    <p><span class=\"github-repo-description\">Jitsi Meet Authentication and Integration for ERPNext</span></p>\n</div>\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n\n<p>I want to develop an add-on that works locally and captures meeting notes using speech recognition. I’m open to suggestions from anyone with similar experience.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/alpkanoz/{size}/82446_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 21,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

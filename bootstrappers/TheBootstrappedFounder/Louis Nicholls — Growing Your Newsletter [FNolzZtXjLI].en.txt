@@ -1,0 +1,1804 @@
+﻿Louis Nicholls: Once you get to
+100 ish or 200 or so subscribers
+is when you start to think about
+those channels in terms of, I
+have three buckets that I like
+to set them in, which is
+basically trading money for new
+subscribers, trading your time
+for new subscribers, and then
+putting in investment into
+flywheels and organic growth,
+basically scalable growth. And I
+think over time, how you invest
+into those three, your needs
+change.
+Arvid Kahl: Hello, everyone and
+welcome to The Bootstrapped
+Founder. Today, I'm talking to
+Louis Nicholls, founder of
+SparkLoop. Now, Louis is a
+newsletter expert. And we talk
+about how to get started with a
+newsletter, how to grow a
+readership around it. And we
+even dive into cold emails and
+what most people do wrong about
+them. So here's Louis.
+Why did you build SparkLoop?
+That's one of the things that I
+always wanted to know really for
+this. Because SparkLoop is a
+newsletter recommendation tool
+in a space where people are
+constantly complaining about
+being saturated with new status.
+That's just how I feel about the
+whole newsletter space, a whole
+lot of complaints. So why choose
+to build a software as a service
+product in that space right now?
+Louis Nicholls: Yeah, well, I
+mean, I didn't choose to build
+it right now. We chose to build
+it about three years ago. I
+don't know if I would start
+SparkLoop in the same way today.
+Obviously, the landscape is very
+different. But what happened
+was, I was doing some some
+marketing consulting with a sort
+of a friend of a friend. And
+they ran a newsletter. I didn't
+really know that much about
+newsletters at the time. But I
+was helping them with some
+marketing stuff. And they asked
+me, hey, Louis, do you know how
+we can add a referral program to
+our newsletter? We really want
+to make an easy way for our
+subscribers to share with their
+friends. I thought, well, that's
+just such an obvious thing that
+must exist. So I'll google. And
+I Google and nothing really
+comes up. So I think, okay, who
+would know about this? And I
+reached out to my friend Manny,
+who is now my co founder at
+SparkLoop, who ran a pretty
+successful referral tool, like a
+generic referral tool called
+ReferralHero. And I thought,
+well, maybe ReferralHero does
+this. If it doesn't, he'll know
+where I should go, basically or
+where my client should go. So I
+asked him, and he says, yeah, we
+don't really do that. That would
+be kind of difficult and a lot
+of manual work to make it
+happen. I don't really know
+anyone else who does this. I
+can't recommend you anyway. But
+it's kind of funny that you say
+that because you're the third
+person who's asked me about this
+this week. Interesting pattern
+there, maybe we should take a
+quick look. So we, you know, we
+take a quick look. And we talked
+to some other people. And
+originally, I thought, well,
+this is just going to be part of
+referral hero. I'm kind of bored
+right now. I've sold my previous
+business. I haven't figured out
+what I want to do. My girlfriend
+at the time was fed up with me
+sort of sitting around the house
+and cooking bread and you know,
+stuff you do and you don't have
+anything to do. So yeah, I
+thought, okay, I'll just help
+Manny with this. I get along
+well with him. It's a fun thing
+to work on. I'll do some of the
+sales stuff help and do some
+customer development, some of
+the stuff that's sort of less
+than his sort of wheelhouse and
+he was obviously full time
+working on the other business.
+And we realized, yeah, this is
+definitely a really interesting
+thing. It's going to be very
+different to ReferralHero, even
+though it's referrals. It's
+underneath the hood, the
+onboarding flow, the messaging,
+the marketing, all of it's very
+different. So it needs to be its
+own standalone product. And at
+that point, why don't we just
+sort of partner up on it and do
+it together. So that's how it
+happened.
+Arvid Kahl: That's really cool.
+Like, that sounds like a truly
+validated approach to building a
+business. Because obviously,
+when somebody tells you, this is
+the third time I've heard this.
+You know, the pattern is quite
+obviously there, you just have
+to recognize it. Really cool. I
+do like the product and I use it
+for myself of my own newsletter.
+And what I've found over the
+year that I've been involved in
+it, so I don't think I've been a
+customer for just a year but
+doesn't matter. I've watched it
+over time. I saw it changed a
+little bit. And what I saw most
+recently is that you've built
+this kind of network in the
+product you use, like your own
+tool to connect people to, you
+know, amplify each other's
+lists, essentially. Was it an
+intentional idea at the start?
+Louis Nicholls: It wasn't an
+intentional idea, sort of on day
+one of SparkLoop because
+SparkLoop wasn't an intentional
+product at all, at least from my
+point of view. I can't speak for
+my co founder, maybe he had
+secret grand plans that he never
+told me about. But at least from
+my point of view, it was more of
+a hey, these are some people I
+really like working with. Here
+is an obvious problem with no
+obvious solution. That we're
+really in a good place to solve
+better than everyone else
+because we have all of this huge
+advantage from ReferralHero,
+basically. So we jumped into
+that and we started it. And the
+focus for us and the focus for
+me as a founder with all the
+businesses that I've started,
+has never been on like solving a
+problem. I really don't care
+about solving problems. What I
+care about is helping people and
+helping people to achieve a
+specific outcome or result,
+right? So when I went into that,
+I was just thinking, how can I
+help these newsletter operators
+grow their audiences, monetize
+their lists basically just be
+more successful in business in
+ways that is easy for me to do
+and that no one else could help
+them do? So it was really
+obvious to sort of, you know,
+we're starting with referrals,
+but I'm not trying to build the
+best referral product. I'm
+trying to help you get the best
+results for your newsletter. So
+what are the ways that we can
+help you do that? And there were
+some parts of it that we saw
+happen sort of organically, like
+we saw, for example, people
+using the call referral tool to
+say, well, I don't want to give
+you a t shirt for 10 referrals
+or you know, stickers for five
+referrals or something. What I
+want to do is take this referral
+link and I'm going to give it to
+another newsletter. And I'm
+going to use it to track how
+many subscribers they send my
+way when they recommend my
+newsletter and their newsletter
+because this is the easiest way
+to track that, you know,
+directly and be confident that
+the results are real, basically.
+So I saw people doing that and I
+was talking to customers a lot.
+And I thought, well, that's
+interesting. It's useful,
+they're using the product in a
+way that it's not intended to be
+used, presumably, because
+there's no other better way of
+doing this. So let's dig into
+it. And then we found, okay,
+there's a huge opportunity to do
+this. So we built that out. And
+then we expanded that sort of
+logically based on what people
+were asking for. And that's just
+sort of how it came to be
+really, it was just watching
+people use the product, trying
+to stretch it and really
+listening to what they were
+hoping for.
+Arvid Kahl: I think that's a
+great strategy, like the fact
+that you validate new feature
+ideas through this emergence of
+how people use a tool. I mean,
+that presupposes I guess that
+you build a tool that is
+flexible to be used. And that
+flexibility, I think, is in the
+product by just having links be
+the main feature of it, right? I
+did wonder about this. How did
+you validate hubscribe, your
+cross connection subscribing
+feature? But this sounds like
+you just saw people using it
+anyway. And you just kind of
+formalized it into an actual
+feature. Is that right?
+Louis Nicholls: Yes, yeah, I
+mean, hubscribe is a little
+different because it wasn't
+something that they were already
+doing. That was a mixture of an
+idea that I'd worked on as a
+previous project that I just
+sort of never really was super
+interested in. So it was
+basically the exact same upsell
+mechanism. But for e commerce
+businesses, basically, where
+they would share leads together
+after someone buys. And so I'd
+had that in the back of my mind
+pretty much since the beginning
+of SparkLoop. But I was just
+waiting for the sort of the
+right time and to see if that's
+something people would be
+interested in using, right? So
+it's more seeing opportunities
+and really understanding the
+business. And I don't think you
+need necessarily to like, you
+don't need people to be using
+your products in weird ways to
+find the opportunity. If you're
+close to customers, if you're
+talking to customers and they
+get on a call with you, you're
+not just talking about your
+product the entire time. A lot
+of the time, they're asking you
+questions because they say, hey,
+you sit down all day, every day
+talking to people who are a
+couple of steps ahead of where I
+am as a newsletter operator. You
+know, probably at this point,
+there are very few people who
+spent more time talking to lots
+of different newsletter
+operators than I have over the
+last couple of years. I mean,
+really, it must be a handful at
+most, who've spent this much
+time doing it. So let's say you
+have all this data, you have all
+this insight. What tool should I
+be using for this? How are
+people doing that? Do you have
+any idea how I can solve this?
+And then you get all of these
+sorts of opportunities where
+people are saying, look, I have
+a problem here. I have an issue
+here. I don't know data here.
+I'm losing money or losing
+opportunity to make money here.
+And you can just sort of connect
+the dots, ask more, and decide
+what you want to be to be
+helpful with.
+Arvid Kahl: So I guess, having
+talked to these many hundreds,
+if not 1000s of people, that
+gives you a kind of an
+indication to who you can trust
+to use your product the right
+way, right? Because I was
+wondering like how do you
+maintain customer quality in a
+network in product kind of
+business that you have? Because
+you know, adding a bad apple to
+this community of people who
+want to legitimately build new
+service, that would be a
+problem. How do you kind of vet
+people?
+Louis Nicholls: That's a great
+question. And we are early and
+we probably don't have all the
+right answers yet. So what I
+default to is to be slightly too
+cautious and to do things
+manually for as long as possible
+until it becomes impossible,
+right? So we've built a
+situation where there's a manual
+approval system. You have to be
+you know, a real human on the
+SparkLoop team who knows
+newsletters, will take a look at
+your newsletter, will ask you
+questions and it's quite easily
+with a newsletter that remembers
+a history of what you've
+written. You can see whether
+people like it. You can see if
+it's good, it's very difficult
+to fake, sort of to fake a
+newsletter. It would be a very
+weird thing to do just to get
+access to the networks so that
+you can send people new
+subscribers. I mean, I'm sure
+someone will do that. There are
+weird people who tried to break
+things all the time. You know,
+it's a weird place the world.
+But yeah, it's I think that the
+human touch is probably the way
+we do it.
+Arvid Kahl: That's kind of the
+human touch in general, is why I
+think you said it's also
+interesting because there's an
+actual person there. And your
+tool gives another layer of
+credibility and authenticity to
+people because they come from a
+vetted community. I quite
+appreciate that. Let's talk
+about newsletters a little bit
+because I run one. You run one.
+You see many people run many
+newsletters. I want to encourage
+people to build an email list
+because I just think it's the
+best way to kind of de risk your
+platform dependencies and to
+build something that you own in
+a sense of that you have access
+to. And over time, nobody can
+really take that list away from
+you, unless you're too lazy to
+export it and your email service
+provider goes down, you know,
+but there are ways to own the
+list reliably. So when somebody
+is starting out building a
+newsletter, what are reasonable
+expectations that they should be
+setting for themselves to not
+burn out on it? Or to not, you
+know, like overshoot the reality
+that is out there in the field,
+where like I said in the
+beginning, there is quite a
+saturation in many industries?
+Louis Nicholls: That is there is
+a saturation of newsletters.
+There is definitely the opposite
+of a saturation, I'd say, a
+dearth of quality newsletters. I
+think because a newsletter is
+really, it's not information.
+It's not news. It's someone's
+point of view. It's their
+perspective, it's their opinion,
+it's the relationship with that
+specific person, right? And
+that's each of them is unique.
+So I don't think there are too
+many newsletters. I don't think
+people get annoyed by having
+good quality newsletters. I
+don't really know anybody who
+has too many newsletters in
+their inbox. What they have is a
+lot of newsletters in their
+inbox that just are sort of, you
+know, not really well thought
+out summaries of links to blog
+posts they're written over the
+past week or two, right? Or
+someone else's written, but not
+particularly well curated stuff,
+which is no shame to them. But
+you know what I mean, there is
+it's not the case that like
+there's too many newsletters, I
+don't think. So setting
+expectations is a really
+interesting challenge because on
+the one hand, I think that well,
+let me back up quickly on that.
+So I think there's two ways that
+people approach writing a
+newsletter or approach wanting
+to build a newsletter. There's,
+I think it'd be kind of cool to
+write some stuff on this topic.
+How do I do that? Where do I
+start? How do I make this
+successful, right? And then
+there's also I want to build a
+newsletter or I want to build a
+media business and I want it to
+be big and I want to monetize
+it. And it's a serious project.
+It's not a hobby, it's not a
+labor of love. It's not kind of
+an experiment, it's a real
+thing. If you're the second
+type, where you really want to
+make this big thing, I think, in
+general, you should be very,
+very aggressive. And I think you
+should look at how people are
+growing their newsletters today
+in general and say, no, those
+goals are way too slow. People
+who are smart, who figured this
+out, who are doing this well,
+are just exploding their
+audience growth way faster than
+average. And you should set
+very, very high expectations.
+And we can talk about how and
+why and maybe what that looks
+like. If you're more sort of the
+normal case, where it's oh, I
+have some cool ideas. I'd like
+to write, you know, maybe it's a
+blog post or two, but I should
+probably write that as a
+newsletter so that I can connect
+to the audience. And I want that
+relationship with them directly
+and build that over time. In
+that case, what I would normally
+suggest is just take the path of
+least resistance, go wherever
+you can that makes it easy to
+write and to get into a writing
+habit. And the most important
+thing in that case, I think, is
+to not just write the
+newsletter, but to share your
+thoughts very publicly in every
+public space that you can where
+your audience hangs out. So if
+that's Twitter, great! If that's
+LinkedIn, great! If it's indie
+hackers, if it's medium,
+Facebook groups, wherever it is,
+wherever your audience is, you
+want to be having those
+conversations in public, not
+just sort of hiding them away in
+your newsletter because you're a
+newsletter writer. I think at
+the beginning, it's very
+important to be everywhere.
+Arvid Kahl: That's a very
+interesting insight. Because, I
+mean, I'm all over the place but
+that's because I have a lot of
+time. Not everybody has the
+benefit of just spending the
+whole day in their basement
+building their media business,
+right? So I often feel people
+want to focus and prioritize one
+thing and you know, owning a
+list, having a newsletter that
+they control and where they can
+essentially say what they want
+to whoever they want to. That
+seems interesting, but you're
+saying that the newsletter is
+just one of many ways of
+distributing your knowledge and
+the other ways also matter in
+that sense. Do you have any kind
+of advice on how to crosslink
+these things like with the whole
+flywheel effect, where one
+source leads to the other? Do
+you have any expertise in how
+people can make this work for
+them?
+Louis Nicholls: Yes, definitely.
+And we can definitely talk about
+that, that tends for me to come
+slightly later, it's after that
+initial push, right? So it's
+once you get to 100 ish or 200
+or so subscribers is when you
+start to think about those
+channels in terms of, I have
+three buckets that I like to set
+them in, which is basically
+trading money for new
+subscribers, trading your time
+for new subscribers and then
+putting in investment into
+flywheels and organic growth,
+basically, scalable growth. And
+I think over time, how you
+invest into those three, your
+needs change. To begin with,
+though and again, we're
+excluding people who are just
+look, I want to write some cool
+stuff. I don't care how many
+people read it, right? If you're
+one of those people, that's
+amazing. That's not right or
+wrong, it's just, you know, go
+for it. That's cool. I'm not
+talking to you now. If you're
+talking to someone who really
+wants to grow a newsletter and
+get you know, 1000s of
+subscribers and monetize it and
+so on, what I would say is,
+don't even begin to write the
+newsletter until you're really
+confident that the day that you
+announce that newsletter in the
+places where your audience hangs
+out, just by posting there,
+you're going to get at least 100
+subscribers. If you don't have
+that connection to the audience,
+if you don't have the respect in
+that space, if you don't know
+the people well enough that they
+would be excited to jump on your
+list, you know, probably 100 or
+so, you're probably not ready to
+write a very good newsletter for
+them anyway. So I would spend
+more time learning from them,
+getting to know them,
+establishing yourself sort of
+publicly in that community
+before you even bother, you
+know, setting up an ESP and
+sending an email and all that
+kind of stuff, really.
+Arvid Kahl: So just like with
+any other entrepreneurial
+effort, doing the actual product
+work is not even the main part
+of the business. Oh, man! That's
+gonna be disappointing for
+everybody who just wanted to
+write and send an email just
+now. But yeah, I get it,
+obviously, like there's a lot of
+preparation to get people
+excited to then listen to you.
+And I felt the same way. I think
+I started my newsletter a couple
+months after I had my blog
+going. And the blog was where I
+already wrote. So the newsletter
+kind of turned into an
+extension, a different
+distribution mechanism for that.
+But I had the audience that was
+then interested in not having to
+go to my blog every week, but
+getting it in the inbox. So I
+had my pre warmed and initial
+seed audience and that grew over
+time. That's very interesting. I
+want to talk about the buckets
+because I feel this is something
+that you introduced me to
+conceptually, just now and you
+know, in the past through all
+your writing and the things
+you've been been sharing
+publicly on Twitter, which by
+the way, is a great thing to
+follow you on Twitter because
+people show it because they like
+gonna learn a lot from your but
+the buckets are interesting.
+Let's talk about the paid
+buckets, like the put money into
+audience growth bucket because
+as somebody who is on social
+media a lot having to deal with
+people who bolster the numbers
+by buying fake followers and
+that kind of stuff, that has
+always been my perspective on
+buying subscribers. It's totally
+wrong. Obviously, it's not. Like
+obviously, it's a continuum.
+It's a spectrum. And I wonder,
+where do you draw the line?
+Where is like buying access to
+describers? Where is that click
+bordering on fake or on over
+using the means of buying? I
+don't know if that makes sense.
+But like, how much is too much
+in terms of buying subscribers?
+Louis Nicholls: Yeah, it's
+interesting because you're never
+buying a subscriber, right? I
+would never suggest because I
+mean, you probably could buy
+subscribers. You could literally
+go out and buy an email list of
+50,000 subscribers and import
+them into your ESP and send
+emails to them. It's probably
+not very illegal, but I suppose
+you could literally buy
+subscribers. I've heard some
+rumors, but actually I won't
+share them. But some
+surprisingly popular large
+newsletters did do that in the
+early days and they never talked
+about it. But you know who you
+are. I won't name any names. So
+actually, that is something that
+people have done. But I think
+when you talk about buying
+subscribers, what you're really
+talking about is sort of buying
+their attention for a second,
+right? You're buying the
+opportunity to get in front of
+them with something interesting.
+So in order to then effectively
+be able to convert them to be a
+subscriber and for them to then
+stick around, you still got all
+of your work ahead of you. You
+still have to say something
+interesting to them in that
+opportunity you've paid for to
+make them want to jump it in the
+first place. And you still have
+to then engage them and give
+them good content because
+otherwise they're going to
+unsubscribe. So if you can do
+both of those things, then
+you're also quite likely to grow
+well, organically. And really,
+you have to be, you know, the
+things you need to do to grow
+effectively when you have a paid
+newsletter or when you're doing
+paid acquisition is the same
+stuff that you need to do for
+organic acquisition. You're just
+putting a bit more fuel on the
+fire, basically, right? So
+there's no point, you can't just
+rely on paid. And the reason you
+can't just purely rely on paid
+is that with newsletters, you
+have churn, right? So every time
+you send an email, people will
+unsubscribe either because they
+don't need it anymore. They're
+overwhelmed. They've sort of if
+you have a newsletter, like, you
+know, like yours, well, maybe
+they're just not in a phase of
+their life where they're
+bootstrapping anymore. Maybe
+they've moved, you know, on.
+They've had kids. They've,
+whatever it is.
+Arvid Kahl: That's awesome.
+That's the best kind of churn,
+right? When people just
+graduated out of the kind of
+category that you're in. Yeah, I
+love that.
+Louis Nicholls: Exactly. Maybe
+they've built their business,
+sold it, and they don't need
+your advice anymore. Perfect, it
+was what everyone wants, right?
+So if you have that as your
+newsletter grows and grows and
+grows, more and more people,
+even if it's the same percentage
+of your audience are going to
+leave, right? If you're losing
+1% every day, you know, that's
+when you have 1000 subscribers,
+that's 10 subscribers. If you
+have a million subscribers,
+that's what is it 10,000
+subscribers? Yeah, every day, so
+you need to be adding 10,000
+subscribers every day at that
+scale, just to even stay the
+same size. And if you're relying
+completely on paid growth, then
+that becomes very, very, very
+expensive. And it doesn't scale
+very well. Because to get 10,000
+subscribers, you have to pay
+more per subscriber than to get
+5000 in most cases because
+you're really scraping the you
+know, the bottom of the barrel
+at that point. So you need some
+sort of inbuilt flywheel as
+well, some sort of unfair
+advantage.
+Arvid Kahl: Would you consider
+this to be like the shareability
+of a newsletter? Or is it
+something else, because that's
+how I know it from SaaS
+businesses, right? If the
+business is so cool that you
+just want to share it with your
+peers because it's going to
+empower them just as much as you
+and thereby everybody else, then
+you kind of, then you want to
+share it. But there are
+businesses out there also in the
+SaaS space, that where you get
+an edge if you use it and you
+don't share it. And so
+shareability for some businesses
+is low because you know, if you
+get an edge over other people,
+you're not gonna tell them to
+use it. So I wanna say, working
+for a newsletter, what makes the
+newsletter word of mouth worthy?
+Louis Nicholls: Yeah, so first
+of all, I don't think you
+necessarily need word of mouth.
+I think for most newsletters,
+that probably is your
+opportunity to have an unfair
+advantage is making a newsletter
+that's so good. And having an
+inbuilt mechanism, whether
+that's referrals or just sort of
+an intrinsic motivation to share
+that people do. I think that's
+the one that pretty much every
+newsletter unless your
+newsletter is around like weight
+loss or job hunting. Really,
+those are the only two
+categories I've seen where
+referrals and word of mouth
+hardly ever works. Everything
+else, you almost need a strong
+word of mouth component if you
+want to grow past a certain
+point. That said, you could also
+just have some other unfair
+advantage, the scalable. For
+example, you could be amazing at
+SEO. You could be partnered with
+a business or newsletter that
+just has huge amounts of traffic
+and consent subscribers through
+to you. You could be a very
+prolific creator on Twitter or
+LinkedIn or Instagram or Tiktok
+or whatever. And just have so
+much organic traffic and so many
+organic eyeballs on you that you
+can use that to get your
+newsletter growing. So there are
+different ways you can do it
+organically without having to
+pay. But you need some kind of
+unfair advantage and the one
+that is most sort of reliable
+and that everybody can do,
+especially with a newsletter is
+I think word of mouth.
+Arvid Kahl: I guess that also
+feeds into your whole presence
+on other social media channels,
+right? If you can empower people
+to talk about you and share the
+things that you do, your
+newsletter is going to be one of
+those things that they will talk
+about. I think that is something
+that I see a lot of creators do
+pretty well, like they use, like
+not the user reviews that people
+give freely, like without being
+asked as means to get more
+subscribers and then people use
+that review itself to explain
+what the newsletter is to other
+people. So I guess getting
+reviews is an interesting thing.
+We should talk about that, like
+how would you?I'm a person who
+wants to get reviews on the
+newsletter and I don't get many
+because people just read them.
+They'd send me emails telling me
+oh, yeah, this was great. But
+they don't talk about it on
+social media. How can I kind of
+encourage them to do that?
+Louis Nicholls: Yeah, that's I
+mean, if you want private
+reviews, normally, you would do
+that in the context of just
+asking them to reply directly,
+right? So I think in the welcome
+sequence is often the best place
+to do that. It's an interesting
+one because it's good to collect
+that information. I often like
+to do it with a simple sort of
+yes or no sort of feedback poll.
+You know, what did you think
+about this article? What do you
+think about today, just click on
+this link. And then when they
+click on the link, if it's a
+good one, obviously, you ask
+them to say a few words in a
+text box that they can fill in.
+If it's a bad feedback, you ask
+them why so that you can
+improve, hopefully. And yeah,
+that's one way of getting some
+of that that private feedback. I
+think if you want people to
+share publicly, there's a couple
+of things you need to do.
+Firstly, the most important
+thing probably is to have a
+culture of sharing in place. So
+if your newsletter subscribers,
+see other subscribers sharing
+publicly saying it's amazing and
+see you thanking them for it,
+that becomes sort of like the
+expectation that becomes the
+culture of your newsletter,
+basically. And it just feeds off
+itself. That's why it's always
+so important with a referral
+program. For example, if someone
+wins a prize or something, you
+should always try and get a
+photo of them with the prize.
+You should include that in the
+newsletter. You should say thank
+you on social media as well just
+really build in that sort of
+feedback loop and make it really
+like the expected thing that
+everyone else is doing, right?
+Because back to all that nudge
+theory stuff from like, what it
+was, like 10 years ago. After
+that, you then have a couple of
+different things, right? Well,
+you have to make it super easy
+for people to share and to say
+thank you and say what they like
+about it. So you should suggest
+something for them to say. And
+you should give them a one click
+option to share that, then you
+should also tell them or make it
+easy for them to know where they
+should share or who they should
+share with, right? So they don't
+have to think about any of this
+stuff, you should say, you know,
+be very specific. Go and tell
+your friends on Twitter or share
+with your best work colleague or
+whatever it is something like
+that. And make it incredibly
+easy. Give them the message that
+you want them to say. And then
+you want an incentive. And
+ideally, you'd have a mix of
+both an intrinsic incentive and
+an extrinsic incentive. So a
+reason not from outside, like
+just a reason why it's good for
+them to share, even if they
+weren't being given anything.
+Plus, then also something on top
+that they'll get if they do
+share basically.
+Arvid Kahl: It's always been a
+problem for me coming from the
+engineering background, where
+we've been taught by, not gonna
+name the universities and places
+that taught me that, but that
+all marketing is bad and all
+asking people to do something
+for you is equally bad. Like
+it's kind of build it and they
+will come apply to everything
+else, which is horribly wrong.
+So I always struggle a lot with
+asking people to give me
+something in return for
+something that I gave them,
+which is why I don't have
+anything like this in my
+newsletter because I fear
+probably on a very subconscious
+level that just asking them will
+make them not like the work that
+I put in there. How can I
+overcome this? Like, I know I'm
+almost there, but I still don't
+have it in my newsletter. How
+can I make this an easy choice
+for myself as the creator to
+make asking people easier for
+me?
+Louis Nicholls: It's a good
+question. I mean, why are you
+happy to charge money for your
+products and services, then if
+you're not happy to ask people
+to, you know, to take actions in
+return for something?
+Arvid Kahl: I know that this is
+like a mental model that is kind
+of wrong that I have of my
+regular work, my writing every
+week. I feel like with the books
+and with the course, there's
+been this kind of discrete
+event, right? You built the
+thing, you finish it up, you
+edit it, you polish it, and then
+you put it out. Obviously, I did
+all of this in public. So I know
+that work in progress stuff was
+perfectly fine and people are
+happy with it. But for this kind
+of periodical that my newsletter
+is on my podcast I have a hard
+time asking. So bizarre. I have
+no problem asking for sponsors.
+They pay me money to be in
+there.
+Louis Nicholls: Yeah
+Arvid Kahl: But I have a hard
+time asking the individual
+reader to give me some of their
+credibility towards their
+audience. It's kind of bizarre.
+I don't know, I wish I knew how
+to overcome this easily or not
+even have this problem, but I
+feel I don't want to intrude on
+our relationship that I have
+with this person reading my
+stuff. I don't want to
+commercialize it at this very
+moment where they've just read
+something that might inspire
+them to do whatever they want to
+do in their business. So maybe
+that's what it is. I don't want
+to, there's a sanctity to them
+reading my newsletter. That's
+how I feel. And what I'm very
+grateful for them spending 10 to
+sometimes 20 minutes going
+through the whole thing that I
+came up with that week. And then
+I don't want to cheapen it.
+That's my perspective. But is it
+cheapening the experience? What
+do you think?
+Louis Nicholls: Oh, I mean, I'm
+sure there are ways that you
+could make it cheapening the
+experience depending on how you
+would incentivize people, right?
+Arvid Kahl: Yeah
+Louis Nicholls: Definitely! I
+don't think those would be
+particularly effective, I think.
+So with your kind of newsletter,
+I mean, if you think about it
+sort of from the creators
+perspective, you've invested a
+lot of time into creating
+Arvid Kahl: Yeah, because
+there's also a relationship that
+something really useful for
+these people and it's free and
+you want to get in front of more
+of the same kind of person to
+we already have, right? It's not
+just that they collect the thing
+help them. So this person has
+now received this really useful,
+you know, really interesting
+article from you completely
+and then click the confirmation
+email. They willingly read the
+free. You're not saying you have
+to go and share this. You're not
+saying you have to pay for it,
+you're not saying you know, you
+thing before and they have for
+often weeks, months, sometimes
+have to do this. What you're
+saying is, look, if you enjoyed
+this, if you know someone else
+who would find this helpful, it
+years been reading my
+newsletters. I think what I have
+would be great for me if you
+would help get this in front of
+them. It would be a nice kind
+thing to do for them as well to
+to overcome is the fact that it
+is fine to ask, it is not fine
+put this in front of them. And
+it would just mean a lot to me
+if you want to say thank you to
+me. You know, I don't want you
+to give me $5 via tip jar. I
+don't want you to whatever else
+to force to push, but it's fine
+to just ask, right? Because
+they could do purchase
+something. I would just really
+appreciate it if you would share
+it with someone who's going to
+what's the problem with that,
+really? And I kind of want to
+get value out of it. I don't
+want you to put your credibility
+on the line. Definitely not! I
+don't want you to say something
+transition to another topic here
+because it just came came up in
+that's not true. I don't want
+you to annoy people in your
+audience. I just want you to
+know, if you have an audience
+my mind. Because we were just
+talking about having a
+that you think would find this
+fun. Even if you literally just
+DM one or two people who you
+know, are working on something
+relationship built already and
+having people transact. They
+similar and we get value out of
+it, why not share with them?
+It's good for them. It's good
+for everybody. And it's really
+read I sent, they read I sent
+back and forth and we're
+nice way of making me feel good
+about making this content. Yeah,
+I don't think there's anything.
+There is nothing wrong with
+building this rapport with each
+other. I would call this a very
+that. I mean, I can understand
+sort of that the mental hurdle
+of feeling like you're maybe
+asking something, but I don't
+think there's any real issue
+with it.
+warm, maybe even a hot
+relationship because there's
+this constant thing going on.
+But there's one thing, which is
+quite the opposite of that, that
+I really, really don't like. And
+it's also email related. It's
+the cold email. I kind of want
+to talk to you about this
+because you probably have some
+experience in what makes a good
+or a really bad cold email. And
+one question that I always
+wanted to ask you over the last
+couple of months. I've been been
+thinking about you as the person
+that could probably give me the
+best answer to this is why do
+people send emails that they
+wouldn't open themselves? What
+is going on in our like
+marketing community with that?
+Louis Nicholls: It's a good
+question. I don't send emails
+that I wouldn't open myself. I
+don't think many successful
+people do. And I think where
+this comes from, you have to
+sort of take a step back and
+think about where if you look at
+bootstrapped founders today,
+solo founders, indie hackers,
+where we learnt marketing and
+the people we've looked up to
+because bootstrapping was a
+relatively new thing. And you
+have some examples of sort of
+odd ones out who didn't do this,
+but very, very few. Really, the
+majority of us who are working
+in sort of software today, where
+we learnt marketing and sales is
+from VC backed companies about
+10, 12 years ago, roughly, is
+when that started happening,
+right? That's where the
+playbooks came from people get
+predictable revenue. And the,
+you know, I'm blanking on the
+names of the books, but Gabriel
+Weinberg spoken all those
+traction and all those different
+books, right? It's all from
+those sort of VC backed
+playbooks where they had a very
+particular challenge. Someone
+gives them a bunch of money and
+says, you've got to show results
+in x months, so that you can
+raise more money so that you can
+then show more results and have
+more money to show more results,
+right? So you're on the clock
+then and the rules that apply to
+you there. Don't apply to us
+with more calm bootstrap
+businesses. Because what you
+have to do in that market, if
+someone gives you $10 million in
+sales, you have six months to
+get as many customers as
+possible. The logical thing to
+do is to email everybody who
+might even possibly be a
+customer. And just pray and pray
+and hope that you hit that 1%
+who were ready to convert today
+totally makes it's not really
+ethical or moral. But it makes
+sense from like a logical
+business perspective to do that
+if that's your goal, right?
+Obviously, for us, we're not
+trying to do that. We're not
+trying to annoy 99% of the
+market and get 1% to buy, right?
+That's not very useful for us
+long term with our businesses.
+But we don't know any better,
+right? If you go and look for
+cold email examples, it's from
+the people who were doing it
+back then. So that's really I
+think, where it comes from for
+us. And then also, you'll have
+you know, scammers and people
+who are offshoring. And they
+just have to do the spray and
+pray because they don't have any
+other way of doing it basically.
+They don't have any way of
+prospecting or qualifying. It's
+just how their business models
+work.
+Arvid Kahl: Yeah, it's funny,
+how you mentioned like the VC
+world as the origin of this,
+that makes a lot of sense. Like,
+if you think that a successful
+business will be one in 100,
+then you have no problem
+emailing 100 people only
+expecting one to convert. That's
+very different for people who
+want to build like sustainable
+revenue focused businesses where
+every potential interaction is
+important, not just because you
+might make money, but just for
+the social trust that you might
+establish, even with the person
+that you treat well when they
+say no and them talking to their
+peers. I think email blasts like
+this, they just destroy so much
+more than they do good for you
+if you write cold emails as a
+founder and thanks for saying
+this. That makes a lot of sense
+to understand where this is
+coming from. And it probably
+also explains why all cold
+emails look the exact same,
+right? Like there are people all
+using the same weird handbooks
+from the late 90s, that's what
+it is.
+Louis Nicholls: They're
+changing, right? So cold email
+has diverged over the last, I
+want to say probably since about
+2016. And it's going in two
+directions. So firstly, is
+quickly on that the reason that
+all cold email annoys you and
+looks terrible is because I'm
+not picking on you here. But it
+happens to me, it you happens to
+everybody. You only notice that
+some things are cold email when
+it annoys you and feels terrible
+because that's how you expect to
+feel when they're cold emails.
+So if someone says to you and
+they're like, I don't know you.
+But hey, I'm working on this
+thing that I heard you talk
+about this on the podcast. And
+it's really cool. Can I just
+send through a demo or
+something? That's not a cold
+email to you. That's some guy
+who listens to your podcast. And
+once you meet back and you think
+it's really cool, but it is a
+cold email is just a good one,
+right?
+Arvid Kahl: Yeah
+Louis Nicholls: It's not the
+case, it's the same thing as
+like, all advertising doesn't
+annoy you. You buy stuff from
+ads all the time. It's just the
+ones that you see and recognize
+as advertising are the ones that
+annoy you. So you think they all
+annoy you, right? It's the exact
+same thing. But when it comes to
+cold emails, exactly, yeah. It's
+not even just obvious. It's just
+the ones that are bad, right?
+You notice advertising when it's
+bad or you notice it as
+advertising, either when it's
+bad or when it's spectacularly
+good in a way that's meant to
+make you notice that it's good
+advertising, basically, right?
+But yeah, when it comes back to
+cold emails is basically
+splitting up into two ways. So
+on the one hand, is the approach
+that I really prefer because
+it's what I'm better at and I
+think is slightly just better
+for the world in general, which
+is to say, no outreach should be
+cold outreach, it should become
+warm outreach. So you should
+learn a lot more about the
+people you're emailing or
+messaging. You probably
+shouldn't be emailing them, in
+most cases, you should be
+messaging them somewhere else.
+And it should feel almost like a
+warm outreach. They shouldn't
+feel like someone's messaging
+them out of the blue. It should
+feel genuine and they shouldn't
+notice it as cold outreach
+basically should be very, not
+personalized. I don't like
+personalized because I think
+someone would say they need
+personal, right? So it should
+feel personal, should feel
+unique, should feel legitimate.
+The other approach is to say,
+we're going into this arms race
+of escalating personalization,
+basically, where you try and
+trick people. So it started in
+like 2012-2013 was like, hey,
+first name, how are things going
+at company, right? And that was
+kind of new and exciting. So
+people thought, oh, this person
+must really know me. And then of
+course, now everyone's cottoned
+on and you're probably better
+off not mentioning that stuff.
+Because as soon as someone says,
+hey, first name, reaching out to
+your company, you know it's a
+cold email. You know they
+haven't looked at it because no
+human speaks like that,
+actually. So it's almost
+backfired. So now they've moved
+on to including, like
+artificially generated images,
+right? Whether it's like a
+screenshot with their name on it
+or something, which again,
+worked for a while, people got
+wise to it. So they've had to
+escalate that now to videos that
+are dynamically generated, where
+the name is inserted with, you
+know, the text to speech with
+the person's voice and all that
+kind of stuff. So they have to
+keep escalating that sort of
+arms race and they're gonna
+reach a point where, well,
+either AI can successfully do
+cold outreach for us, which I
+doubt is gonna happen anytime
+soon. But I'm not an expert or
+you know, you're gonna get
+diminishing results there. And
+all the time, the same people
+have just been plodding away and
+actually understanding their
+audience and doing personal
+outreach have been getting
+really good results.
+Arvid Kahl: Yeah, the emails
+that I look at are the ones that
+don't feel personalized. But the
+ones that feel personal, I think
+that's a big distinction that it
+feels hard to accept as a
+technologist, right? Because
+everything we do, everything we
+touch is like, can we automate
+it? Can we turn this into a
+process that we can like,
+outsource to some technology
+somewhere and then in the end,
+it's really not about that. It's
+about building a relationship,
+building a warm connection to a
+person and using the tools we
+have to amplify it, instead of
+like overcoming it, right? You
+don't want to not have that
+connection. You want to keep the
+connection, but you want to use
+the tools to make it easier.
+Thanks for that. That's a really
+good distinction. That makes a
+lot of sense.
+Louis Nicholls: If you're doing
+cold outreach, this is something
+I used to say in my I used to
+teach a course on sales for
+founders, mainly for technical
+founders. And what I used to say
+was, the actual message
+component of your outreach
+probably is only really
+affecting about 20% of the
+outcome, it's really not the
+most important part. It's all of
+the context around that message
+that is important. Which is why
+if you're reaching out, say, if
+I'm reaching out to you and I
+email you from Louis at
+SparkLoop.app and let's say we
+don't know each other, right?
+Pretend this is a horrible world
+in which we've never become
+friends and the bad timeline,
+the darkest timeline, right? So
+let's pretend that for a second.
+So I email you from Louis at
+SparkLoop.app. You don't know
+who I am. Maybe, you know, you
+haven't really come across
+SparkLoop before for some
+reason. It could be a really
+good message, but you're not
+really giving me any
+credibility. I'm in your inbox,
+it probably means I want
+something from you. Other things
+are in your inbox. Yeah, there's
+not much context to me. If I DM
+you on Twitter, you're gonna go
+and you're gonna see oh, there's
+this guy. He's on Twitter. So he
+follows me on Twitter. That's
+kind of cool. He's been
+following me for a while really
+interesting. Maybe we've
+interacted before with a like or
+a comment or something, but in a
+genuine way, you know, that
+comes across and you don't
+remember me, but sort of there's
+a good impression there. And so
+you check out my profile. Who is
+this person? What does this
+person want? Again, you don't
+follow me, we don't know each
+other. But you see 10 people
+that I follow and I really
+respect follow this person.
+You're going to read my message
+to the end, just in case,
+basically, in case you're
+missing out on something that's
+a friend of a friend and they've
+told you to recommend them or
+you know, there's credibility
+there. And I think that's the
+key part, right? It's that the
+context of the message is so
+much more important than the
+message itself.
+Arvid Kahl: So a good message is
+never cold. It's always like
+swimming in this lukewarm kind
+of contextualized world, where
+you kind of know or at least you
+have a way to backtrack to a
+person that you know and trust.
+And like social trust is
+everything, right? Establishing
+the kind of peer to peer trust
+system, which is why cold email
+to me, obviously does not
+include the things that are not
+cold, right? So the messages
+that people send in a smart way.
+Because I know that people send
+like, my inbox is usually other
+people's to do lists, I'm aware
+of that. That's how it works.
+But if I know that I can help
+them, they can help me, it's a
+whole different conversation
+than hello, first name in weird
+brackets, right? With the font
+of my name and my business is
+different than the font of the
+rest of the email, that kind of
+stuff. You know, it's kind of
+she has low effort, you call it
+that and also no connection and
+where there's no connection, I
+don't want to build one. It's
+kind of up to them to build one
+with me before they asked me
+something. Yeah, makes a lot of
+sense. I would like to get to
+the connection thing again
+because I wanted to talk to you
+about owning the list. That's
+something that you hear all the
+time, own the list, own the
+list. What do you think about
+platforms out there, like Revue
+or Substack these kinds of
+things? And with Revue in
+particular, as it is winding
+down supposedly, like supposed
+to go away? Do you think it's a
+risky thing for people to use
+these kind of all inclusive
+platforms? Is that something
+that you see as a potential
+platform risk where email
+supposedly was like not prone to
+be risky? And in that regard,
+what do you think about these
+platforms?
+Louis Nicholls: Oh, we're
+getting political in my space. I
+need to be careful here. Don't
+wanna annoy anybody, you know.
+Arvid Kahl: Okay
+Louis Nicholls: So no, no, I'm
+joking. So, I mean, Revue is
+winding down now, right? So I
+think there's shades of gray
+here, right? It's not black and
+white. I think in general, if
+you're just starting out, just
+go with whatever, it doesn't
+matter. Just start writing. If
+you're not sure, if you want to
+run a newsletter or if it's
+gonna be big, just go somewhere
+that you can start writing.
+Again, the most important thing
+is to be present in your sort of
+in your community anyway, so
+where you write isn't a huge
+deal in the beginning. That does
+change, but changes later, if
+you know you want to build up
+the newsletter business. You
+really want to choose a platform
+that's going to make sense for
+you. Because what happens over
+time, is what I call kind of
+like salami tactics or small
+cuts, right? If you choose an
+all in one platform, for example
+and it doesn't do everything
+that you'll need later, you're
+never faced with this sort of
+decision point where this one
+small thing that you want to
+change right now is worth the
+effort of moving everything to
+this different platform that
+supports it. But over time, each
+week, each month, you'll be
+faced with 10, 100 overtime of
+these small decisions, each one
+of them after the other. So it's
+never quite by itself
+justification to move, but you
+end up being 10 or 100 times
+worse off, basically. So that's
+like the business perspective on
+why you should be very, very
+careful with these all in one
+platforms, right? Is the water
+will be sort of slowly warming
+up and you won't be able to jump
+out because it's never quite big
+enough temperature change to get
+you worried. But in the end, you
+end up someone's dinner
+basically. That's the business
+perspective, the sort of the
+worry about the relationships, I
+don't think you own your
+audience, obviously. You don't
+own really the list, but you own
+your relationship with your
+audience, right? You own those
+contact details and you can
+decide what to do with them. And
+I don't think Revue was an issue
+there, really, obviously, that's
+why it was winding down even
+less so. Because I mean, they
+were just an ESPN for all
+intents and purposes. They
+didn't insert themselves between
+you and your subscriber. They
+were very clear about that. It's
+your subscriber, you own the
+relationship, we don't email
+them on your behalf, we don't
+consider them our subscribers.
+That's fine. That's great. I
+think you need backups anyway,
+just in case something changes,
+like with a Revue, like when
+MailChimp for example for
+Russians, right? Rightly or
+wrongly, just decided no
+Russians can get access to their
+MailChimp account and can't even
+export their subscribers to some
+somewhere else. Yeah, that's an
+interesting thing they did. So
+you always want to have a
+backup. But at the same time, if
+you look then at something like
+a Substack, for example. That's
+basically saying, look, we're
+giving you all this stuff for
+free. And we have some very
+interesting language around
+like, these are your
+subscribers, but we also kind of
+call them our subscribers. And
+we're a newsletter platform when
+you sign up. But we're also
+saying that we're not a
+newsletter platform. We're a
+platform where creators can grow
+their audiences or connect or
+users can connect with great
+writing or whatever they're
+calling it today, I don't know.
+But the point is very clearly
+that they email, they consider
+your subscribers to also be
+their subscribers and then not
+very clear that they will always
+consider your subscribers to be
+your subscribers and that you
+will not always necessarily have
+the option to export that direct
+relationship with those
+subscribers and move it
+somewhere else. So personally,
+with that kind of platform, with
+platforms where they do
+everything all in one, you do
+have to kind of say, well, if
+I'm giving you the way that like
+you own the way that I make
+money, you own the relationship
+with my customers and my
+subscribers, you can contact
+them on your behalf without
+asking me. Are they my
+subscribers? Or are they your
+subscribers? And I'm sort of
+borrowing them? I'd be very
+worried about that if I paid any
+attention over the last 10, 12
+years. What happened with
+Facebook and everything like
+that.
+Arvid Kahl: Yeah, borrowed
+audiences always have the risk,
+right? You have these great
+synergy effects in there because
+they can suggest cool things.
+And they can make things happen
+because they own the network
+between people. But yeah,
+ownership is like hertz concept
+on other people's platforms,
+right? That gets it's always a
+pretty good idea to find a way
+to export things reliably. I
+personally believe that you
+should do this on a monthly
+basis. And you never know what
+might happen, right? It's like
+the Russia thing with MailChimp.
+Yes, is one of the biggest
+examples here. Good, good to
+know that you see those risks as
+well because I was wondering
+about it. And I wanted to see
+about your perspective from
+somebody who's been talking to a
+lot of newsletter creators. Wow.
+Thank you so much, man for
+sharing all these things today.
+That was a lot of good new set
+of stuff. A lot of good email
+stuff. And even some sass
+insight that was a wonderful
+conversation. Where do you want
+people to go to find you, follow
+you and give you access to their
+email inboxes?
+Louis Nicholls: Oh, well, I
+mean, I would love for you to
+connect with me on Twitter is
+probably the best place to find
+me. I'm sure you can stick a
+link in the show notes. So
+people don't have to decipher my
+name, how it's spelt is a little
+bit weird.
+Arvid Kahl: Absolutely!
+Louis Nicholls: And then
+otherwise, if you're interested
+in newsletters and you would
+like to grow your own one
+faster, I don't think you
+necessarily need to go and sign
+up for SparkLoop straightaway.
+But the Send and Grow newsletter
+that we send out every week is I
+think, pretty good. I write it
+myself. And
+Arvid Kahl: It's great!
+Louis Nicholls: I think it's a
+worthwhile read.
+Arvid Kahl: Oh, it definitely
+is. I'm subscribed and I can
+tell you it's pretty good. So
+yeah, go ahead, like follow him
+on Twitter and sign up to his
+wonderful newsletter and check
+out SparkLoop. It's really cool.
+I use it. It's wonderful tool.
+Thanks so much for being on the
+show today.
+Louis Nicholls: Thanks for
+having me, Arvid. It's been
+great to catch up again.
+Arvid Kahl: Pleasure
+And that's it for today. Thank
+you for listening to The
+Bootstrapped Founder. You can
+find me on Twitter @arvidkahl.
+You'll find my books and my
+Twitter course there as well. If
+you wanna support me and this
+show, please subscribe to my
+YouTube channel, get the podcast
+in your podcast player of choice
+and leave a rating and a review
+by going to
+(http://ratethispodcast.com/founder).
+Any of this will really help the
+show. So thank you for listening
+and have a wonderful day! Bye
+bye

@@ -1,0 +1,51 @@
+{
+  "topic_id": 160571,
+  "title": "RUT Chileno - Custom Field",
+  "slug": "rut-chileno-custom-field",
+  "category_id": 11,
+  "tags": [
+    "customization"
+  ],
+  "created_at": "2026-02-11T16:36:15.300Z",
+  "last_posted_at": "2026-02-11T16:36:15.418Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/rut-chileno-custom-field/160571",
+  "views": 17,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 1,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "joil",
+  "posts": [
+    {
+      "id": 494028,
+      "username": "joil",
+      "name": "Jose Pino",
+      "created_at": "2026-02-11T16:36:15.418Z",
+      "cooked": "<p>Para quienes requieran utilizar el RUT Chileno en Proveedores, Clientes, Empleados, pueden utilizar la app que funciona en versión 15 y 16 de ERPNext.</p>\n<aside class=\"onebox githubrepo\" data-onebox-src=\"https://github.com/joil/rut_chileno\">\n  <header class=\"source\">\n\n      <a href=\"https://github.com/joil/rut_chileno\" target=\"_blank\" rel=\"noopener nofollow ugc\">github.com</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    <div class=\"github-row\" data-github-private-repo=\"false\">\n  <img width=\"690\" height=\"344\" src=\"https://opengraph.githubassets.com/fd213388a0a282199f29d12d58cea178/joil/rut_chileno\" class=\"thumbnail\">\n\n  <h3><a href=\"https://github.com/joil/rut_chileno\" target=\"_blank\" rel=\"noopener nofollow ugc\">GitHub - joil/rut_chileno: Custom Field for Chilieand DNI as RUT in ERPNext</a></h3>\n\n    <p><span class=\"github-repo-description\">Custom Field for Chilieand DNI as RUT in ERPNext</span></p>\n</div>\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "avatar_template": "/user_avatar/discuss.frappe.io/joil/{size}/93833_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 8,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

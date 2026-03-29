@@ -1,0 +1,52 @@
+{
+  "topic_id": 153359,
+  "title": "Changing Valuation Method at Item / Item Group Level",
+  "slug": "changing-valuation-method-at-item-item-group-level",
+  "category_id": 6,
+  "tags": [
+    "accounting",
+    "manufacturing"
+  ],
+  "created_at": "2025-09-10T10:36:43.142Z",
+  "last_posted_at": "2025-09-10T10:36:43.282Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/changing-valuation-method-at-item-item-group-level/153359",
+  "views": 16,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "TalhaButt2508",
+  "posts": [
+    {
+      "id": 480348,
+      "username": "TalhaButt2508",
+      "name": "Talha Butt2508",
+      "created_at": "2025-09-10T10:36:43.282Z",
+      "cooked": "<p>Hello everyone!</p>\n<p>Scenario : Out of multiple item groups, one of the item group faces process loss variable in each production batch. Can we go ahead with Moving Average method instead of FIFO which is set as global default of the system.<br>\nAs FIFO will be applicable to all other items EXCEPT FOR THIS ITEM GROUP’S ITEMS.</p>\n<p>System will repost all historical entries?<br>\nWill Gross Profit Report take item’s own valuation method or System’s Global Default?</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/talhabutt2508/{size}/89640_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 5,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

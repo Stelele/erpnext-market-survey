@@ -1,0 +1,419 @@
+﻿[Music]
+Hey, it's Arvid and this is the
+Bootstrap
+[Music]
+founder. This episode is sponsored by
+paddle.com, the merchant of record that
+I've been using on all my software
+projects. Paddle truly is more that's
+merchant of record because their product
+allows me to focus on building a product
+myself that people actually want to pay
+money for. And not only that, but Paddle
+regularly sends me emails saying that
+they recovered a payment from a customer
+whose credit card had expired. I didn't
+have to build anything for this. They
+just do it. And that's how Paddle does
+more for you, right? They deal with
+taxes. They reach out to customers with
+those failed payments and recover them.
+And they charge in people's local
+currency. It's amazing. Check out
+pedal.com to learn more. That's
+M. Now, I've been running into an
+interesting challenge in the last few
+days with Potcan. I have to make a
+choice that is both technically feasible
+and scalable and has to be balanced. A
+balance between giving my trial
+customers precisely what they want and
+being able to keep my business
+profitable at the same time. So let me
+walk you through this situation because
+I think it's perfect to just illustrate
+the kinds of decision that we as
+founders have to make all the time and I
+just want you to be part of that for me
+right now. Potscan has only recently
+turned profitable after being
+unprofitable for about a year while I've
+been building the product. It's a
+business that is quite highly reliant on
+AI systems which is expensive both for
+the basic functionality that Potscan
+really needs like transcribing podcasts
+and for additional features like
+sentiment analysis or other smart things
+that people need done with these
+transcripts that a normal algorithm
+couldn't easily handle. We need AI to do
+this. And I use AI in many many ways
+inside of Podskin, not just for coding
+it. That is probably a topic for a
+different day. But I have my own servers
+running local language models and
+occasionally I use external services and
+between both of them costs because of
+the need for computation can add up
+quickly. And the specific problem that
+I'm facing right now is that I want to
+show off these AI powered features to my
+prospects, the people who sign up for a
+trial. I want them to get this wow
+feeling that Podcan is super valuable as
+fast as possible and as much as
+possible. And the service right now
+allows anybody who signs up to set up
+alerts for specific mentions in
+podcasts. When a certain word is
+mentioned, they get an email, a web hook
+notification. It's really cool. But in
+many cases, and this is where AI comes
+in, just checking for keywords with a
+simple text search is fine and very
+cheap. But the real value of pod scan
+comes when the user wants contextaware
+filtering. And that's the AI part. For
+example, someone might want to track
+mentions of the word yield, but they
+don't want to have any results about
+farming or traffic controls, right?
+Yielding or the yield of crops or
+whatever. They specifically are
+interested in yield as a financial term.
+And to figure this out, I need AIcentric
+context analysis of the conversation
+around the word yield. And that is way
+more expensive to run than just looking
+for a string in a text. Now, currently
+for my trial customers, I limit this
+feature, this context aware filtering to
+about a dozen attempts per hour just so
+I can show it, but it doesn't really
+bother me financially. Now, my paid
+accounts, the people who actually
+subscribe to the product, they get
+hundreds, if not thousands of these
+checks per hour if they need them
+because they're paying for the
+infrastructure on which those checks
+run. But for my free users, only the
+first 10 to 12, first dozen or so
+context checks per hour are processed.
+And anything after that gets ignored
+until the hour rolls over. This creates
+a situation where over a floating
+24-hour window over one day, there are
+only like 24 moments when credits are
+available for these trial accounts.
+Podcast episodes that trigger certain
+keywords during those times, they are
+scanned. But if they don't contain the
+relevant context and better matches come
+in later when the hourly limit is
+already reached, well those better
+matches get ignored for trial users
+because the credits are already spent
+for the hour. And the result is that for
+some trial customers with very specific
+needs, those needs are exactly what
+POSCAN is designed to solve. I can't
+effectively demonstrate Podscan's value
+without it getting expensive. Some
+people need to find a very specific use
+case for a very generic term and they
+struggle with this solution a lot. They
+don't know of any other solution that
+could do it. People tell them, "Hey,
+Potscan can do it." They sign up and
+they try it, but there are no hits
+because there are so many misses and
+credits just stop after a couple of
+those. showing the value that I could
+have might cost me hundreds of dollars
+during a customer's trial period who
+might then convert to a plan that's only
+onetenth of that cost per month if I
+were to give them all these credits and
+that makes the customer lifetime value
+sink while the customer acquisition cost
+balloons and that is not really
+enjoyable. So this is an interesting
+intersection between a technical
+problem, a business problem and a
+financial decision and that's why I'm
+sharing this with you. It's a technical
+challenge. Then how do I keep people
+from abusing the system? I've had a
+trial user set up alerts for
+highfrequency terms like was it AI? Just
+the term AI with context filters
+checking for do people talk about making
+money with AI and those are terms that
+could trigger thousands of checks an
+hour because it's just so much chatter
+about AI and to always check for people
+talking about making money with it for a
+trial customer for days. It's not
+working right. The second problem here,
+the business part is that it's a value
+demonstration challenge. Because from a
+customer's perspective, it's really cool
+to sign up and then set an alert and
+immediately see this wave of relevant
+data flowing in from all over the world
+immediately. This immediate value
+demonstration, I think, is crucial to
+people's first impression of Potscan.
+So, that's what I want. And ultimately,
+it's a financial challenge as well. I
+can't spend hundreds of dollars on a
+trial user who might never convert or
+might convert on this $40 per month plan
+for the next year. That doesn't work
+either. This is generally a problem with
+free trials, right? That you want people
+not to abuse it. You want to show value
+quickly, but you don't want to spend too
+much on them either. Or it's a problem
+not just with free trials, but even with
+its more deranged cousin, the premium
+model, too. I remember a story from Josh
+Pigford when he was still running bare
+metrics and that was a couple years ago.
+They had introduced the premium model to
+bare metrics and immediately people
+started importing years of historical
+stripe data. A lot of people for free,
+right? The servers had to keep up with
+this and they started smoking cuz the
+amount of data being crunched for those
+free users, the gigabytes per minute for
+hundreds of new customers who might
+never even pay. Femaleium models run
+this risk a lot and even free trials
+face challenges like this as I am
+experiencing right now. There's a
+balance to strike between all of these
+things. My challenge is to find an
+effective balance and I want to share my
+thinking here at this point because I
+believe we run into these issues all the
+time as solopreneurs, indie hackers,
+small teams, as bootstrappers. We're
+always budget constrained, time
+constrainted, but we're also resource
+constrained in ways that force us to
+make judgment calls about how much we
+want to give to free trial users without
+overspending. We don't want our paid
+users subsidizing the experience of
+trial users too much because we want
+paid users to pay for their own
+experience. And they might subsidize it
+a little, but we certainly don't want
+people coasting by for free for weeks
+just because our system can potentially
+generate valuable data for them. and we
+don't stop it at some point. My approach
+here that I really want to focus on is
+to be as quick as possible just to
+demonstrate value, but also as fast as
+possible to throttle a trial user's
+resource expenditure. So, what I'm
+thinking about implementing, and I bet I
+will already have implemented it by the
+time that you actually listen to this,
+is a system where I will allow people on
+a per account basis to use resources
+just like a paid account, but only until
+a certain condition is met, until a
+certain number of results are reached
+for each alert. And I think that is a
+fair compromise because let's say you
+set up an alert for a keyword and you
+get your first 100 results within 2
+hours. That's amazing. I think you can
+see the value immediately. Then because
+you're on a trial, then the limit kicks
+in and tells you you're on a trial. You
+got your first 100 results. We're now
+throttling you down to 10 to 12 of these
+AI checks per hour. You've had 200 or
+whatever per hour until now because
+that's what a paid user would get. You
+tried it out. But we've reached a number
+of results that is significant enough to
+show you what you could get in the paid
+version. No payup. That's what a trial
+is for, right? To show people what the
+paid version would get them, not to give
+them your service for free for a week.
+The benefit here would be front-loading
+the time to first value, the thing that
+I really care about. The drawback, on
+the other hand, would be that people
+will still have trial time left with
+limited functionality.
+But if they want to keep receiving that
+flood of data, they can just upgrade to
+the paid plan. And I think that's what
+every SAS business ideally wants for
+people to upgrade to the paid plan as
+fast as possible before the trial ends.
+So I don't think it's really a drawback
+for the customer. They got to see the
+value because it flowed in. They
+experienced this massive avalanche and
+now they can upgrade if they want to
+keep the data rolling in. It's kind of
+luring them in with the actual quality
+of the product and then saying, "Okay,
+you're done checking it out. Now,
+purchase." I think that's a fair change
+to make. Now, obviously, this is not the
+only option. There are many other
+things. I've considered a couple things
+here over the last couple days. One is
+manual limit increases where I just see
+that people need more and I give them
+that configuration option that I have on
+each account. And this is something that
+I occasionally do when customers talk to
+me about it when they really need it.
+and I'm like, "Okay, for you it's fine.
+I know you're not going to abuse it, but
+I think it's an overly hands-on approach
+that doesn't really scale well, and I
+want something that automatically works
+for me." Alternatively, we could do some
+kind of selective approval. I could do
+some value judgment on whether an alert
+setup is smart enough and then confirm
+larger limits for those alerts. But that
+feels fiddly, too. And it doesn't really
+align with my business goals that I want
+people to try it out and then purchase
+quickly. I want people to actually buy
+it and then I will give them all those
+limits. So I think basing limits on the
+number of results per alert is the
+better way forward for me. And the only
+risk that I see and I highly highly
+recommend looking into risks when you
+build these things out is nonsensical
+alerts. If I only count positive
+findings, if I only say your first 100
+positive results are free, and an alert
+never finds anything but always keeps
+looking, it could still be a constant
+drain on my resources. And that could be
+problematic with people who have very
+generic keywords like the AI person,
+right? if AI is a keyword and then you
+tell the context aware question logic
+that I have that you only want to get
+results for podcasts where a person with
+a certain name mentions the word AI four
+times or something weird like that.
+Well, you're never going to see results,
+but it's constantly going to check. So I
+need to ensure that let's say if a scan
+runs I don't know a thousand times with
+the AI component and not a single result
+has been found I can determine either is
+bad luck or misconfiguration in either
+case I need to cut down the limits here
+at this point. So I need two limits. I
+need a limit on the number of
+highquality results found and a backs
+stop where if no results are found after
+a significant number of attempts I
+reduce limits as well. And I also want
+to maintain the ability to manually
+overwrite these limits for specific
+customers when appropriate. But that is,
+you know, that is just to be expected.
+And I'm sharing this very technical,
+very product ccentric thought process
+with you because I want to show you how
+nuanced it can be to make a business
+decision that is also a technical and a
+financial decision at the same time. We
+are running into these kind of
+challenges all the time, at least once a
+week for me, if not every couple days.
+There's always something like this. And
+I've been talking a lot about making
+data available to my larger customers
+who want summary data and data exports.
+And I've been building a system that
+exports each day's full podcast episode
+collection like tens of thousands of
+episodes into one big file so that
+companies can download them when they
+pay for it. And it raises a similar
+question. It causes a lot of database
+queries and storage requirements. And
+that needs to be balanced and needs to
+be priced appropriately, right? I can't
+just make features available now because
+I can build them. I need to make sure
+that those who are willing and able to
+pay for the resources that they are
+consuming get the product and nobody
+else. So this full export that I've
+built, I'm not going to make this
+available to to anybody at this point
+because I want this to be a paid add-on
+for customers who need to look into the
+history and get these full data exports.
+It's always a balance between the
+resources that you have and the
+resources that other people have, which
+in our case is money. The revenue
+expense calculation needs to fit with
+every single decision that you make as a
+bootstrapper, as somebody who does not
+have infinite budget. So, I hope there's
+something in here today that you can
+apply to your own business. Maybe a
+problem you're facing right now, how you
+can present value as quickly as possible
+while ensuring that users understand
+they should upgrade if they want to keep
+accessing the value that you've just
+shown them. Just because you offer a
+7-day trial doesn't mean you can't limit
+it. You can limit a trial and if users
+need more, they can upgrade. That's the
+logic here. You could just as easily
+have offered a two-day trial after which
+they would have to upgrade. It's all
+completely arbitrary and your choice and
+so is the choice on when you stop
+delivering your free product to people
+when they have seen enough. The key
+argument here is charge for things that
+cost you money, but allow people to see
+what paying you would give them. That's
+the balance. That's what a free trial is
+all about. And that's the decision
+framework that I apply to this problem.
+And that's it for today. Thank you for
+listening to the boots founder. You can
+find me on Twitter at akal a r v i d k a
+hl. And if you want to support me in
+this show, please share podscan.fm with
+your professional peers and those who
+you think will benefit from tracking
+mentions of brands, businesses, and
+names on podcasts out there. Podscan is
+a nearrealtime podcast database with a
+stellar API. So, please share the word
+with those who need to stay on top of
+the podcasting ecosystem. Thank you so
+much for listening. Have a wonderful day
+and bye-bye.
+[Music]

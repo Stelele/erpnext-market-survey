@@ -1,0 +1,1958 @@
+﻿Arvid Kahl: Today, I'm talking
+to Asia Orangio, about early
+stage marketing, sending surveys
+and dealing with growth
+challenges for indie hackers.
+Asia is the CEO of DemandMaven
+and she helps founders go to
+market and grow their
+businesses. You'll hear
+strategies and tactics from
+someone who's done 1000s of
+customer interviews and can help
+you figure out what's really
+going to drive your growth.
+Today's episode is sponsored by
+acquire.com. More on that later.
+Now, here is Asia.
+Hey, Asia and welcome to the
+show. Your expertise lies in
+helping companies go to market
+and a lot of founders are pretty
+convinced they know what that
+looks like what they should be
+doing. Can you share a memorable
+experience where finding this
+strategy, this approach
+dramatically changed a company's
+trajectory?
+Asia Orangio: Oh, my gosh! Oh,
+man, how many stories can I tell
+in a short amount of time?
+Absolutely. Okay. So just for
+context, though, the work that I
+do, I work with early stage
+companies. I work with growth
+stage companies. And I've also
+worked with like, half a billion
+dollar companies like huge. And
+at this stage, absolutely. I've
+worked with founders where they
+had it in their minds that they
+were going to build this
+product. And they were like,
+these are all the features
+that's going to be in it. And
+this is going to be who it's
+for, we do a customer discovery
+project together and then their
+whole minds completely shift and
+completely change of like, oh,
+my God! The person I wanted to
+sell to is not going to buy what
+I was going to build. It
+actually needs to be this. I've
+been in those situations where
+I've worked with founders who
+didn't even have a product yet.
+They had a concept. And they
+needed to validate it, or at
+least get a certain level of
+confidence because you never can
+100% validate anything, but get
+closer. And then I've also I've
+worked with founders who have
+had products. They've gone to
+market. Maybe they got 10
+customers, but it was like
+pulling teeth to get those 10.
+And they're feeling like
+something's missing, something's
+wrong and I can't figure out
+what it is. Is it the market? Is
+it us? Is it our positioning?
+And we do like a qualitative
+research project or qualitative
+insights project or go to market
+project or whatever. And then
+they walk away with, oh, it was
+my messaging this whole time or
+oh, it was, I was targeting the
+wrong people. We actually, so I
+was working with a company just
+recently. They're in the Gantt
+chart space, which there's a
+bajillion tools in the Gantt
+chart space, productivity, in
+general, there's a ton. But
+Gantt charts, surprisingly,
+there's a lot also and worked
+with a founder on a couple of
+different projects, did a growth
+audit, and also looked at
+monetization. And one of the
+things that we discovered was he
+had all of these industries that
+were buying the product. And
+then what we found was actually,
+the construction industry loved
+Gantt charts, apparently. They
+paid more, they had better price
+sensitivity, like everything
+about them was just like, way
+better. And it was just so funny
+to hear the founder go like, I
+didn't realize one that that was
+the vertical that loved this the
+most and also that they would
+pay more and also that they did
+not care about half of the
+features on our roadmap. So now
+he's like going through like an
+existential crisis of like, do I
+build this roadmap? Or do I not?
+Arvid Kahl: Yeah, who did they
+build it fo in the first place?
+Like, did they have a completely
+different industry in mind?
+Asia Orangio: Well, it wasn't as
+much industry as much as it was,
+you know, a lot of early stage,
+especially bootstrap founders,
+they have the features that
+they're just really excited
+about. And they're really close
+and dear to their heart. And
+they're like, I want to build
+more widgets or I want to go and
+build more of this or I want to
+go build that integration
+because whatever we're like, I
+like Kubernetes. I'm gonna go do
+something with that. And so then
+what ends up happening is, you
+know, it becomes a passion
+project, but it doesn't always
+translate to revenue. And being
+a bootstrap founder, you've got
+to balance both. Being a maker,
+you've got to balance both like
+what scratches the itch, but
+then also like, what helps you
+make money and it'd be best if
+you know, if both were aligned.
+But really what it was, was the
+founder had a roadmap full of
+enhancements that he perceived
+as valuable. But when we did our
+monetization project, one of the
+things that came out of it was,
+we do what's called a value
+preference analysis. It's a
+survey. But when we did the
+survey and then we analyze the
+results, what he realized was,
+all the stuff that he was
+prioritizing people didn't
+actually care about. They
+actually cared about all these
+other things. And it was harder
+and it took more effort and it
+wasn't as fun to him to build
+but it was gonna make him more
+money. So he was like, oh, man,
+I have to like totally change my
+roadmap now and I was like,
+that's product management. But,
+you know, it's the trade, right?
+Arvid Kahl: That's so
+interesting because, like from
+my own founder perspective, I
+think I would have trouble
+coming up even with the contents
+of a survey that was not bias by
+what I already think is
+important. Like how do you skip
+around that? Like, how do you
+get the outside perspective for
+a founder like that?
+Asia Orangio: This is so so, so
+common and anyone who's
+listening out there and
+cringing, you are not alone.
+Everyone doesn't even me. And
+I'm not even the like the
+builder. Okay, so usually and
+this is gonna sound so high
+level, but I'll try to give you
+like real examples as much as I
+possibly can without divulging,
+you know, like, who this is
+about, but usually when it comes
+to surveys for the purpose of
+product management or surveys
+for the purpose of growth or
+marketing or what have you. The
+natural tendency is to think
+like, okay, like, what are all
+the questions that I want to
+ask? And like, what are all the
+answers that I want to get? And
+that is where you got to stop.
+Like, you're like, what am I
+want to hear? And that's like,
+the total not right way to
+approach it. And this is really
+hard to do. And if you don't do
+a whole lot of research, like my
+whole life is quantitative
+insight and quantity like, yeah,
+quantitative analysis. It's qual
+and quant all the time every
+day, that's where I live. And
+with qualitative, you really
+have to pause and you have to
+ask yourself, not what do I want
+to hear? And not even really,
+what do I want to ask customers?
+Because that comes after the
+very first question, which is,
+what progress am I hoping to
+make? If you can, before you
+even jump to the what questions
+am I gonna ask? If you just stop
+and say, what progress am I
+trying to make? Well, I really
+don't know what I should be
+charging. I would like to makea
+progress in knowing what I
+should charge or I'm not really
+confident in my product roadmap.
+I would really like to know what
+features I should build. Okay,
+that's great. But then the next
+step is, you're not then going
+to ask that question. You're not
+going to write what features
+should I build? In your survey,
+you are then going to use a few
+different tools, one of which I
+can actually tell folks about. I
+use it all the time. It's called
+maxDiff. MaxDiff is, it's a type
+of survey question that you can
+ask that's way better than the
+like, you know, rank feature one
+on a scale of one to five with
+most or least too interesting to
+you, rank feature number two on
+a scale of one to five, it's way
+better than that. Actually, what
+it is, is instead of asking
+people to rank things on a
+scale, what you do is you give
+them some list of attributes,
+categories. It could be
+features, it could be anything
+you can imagine, like, some
+category of things that you want
+people to prioritize and you
+say, out of this list, what's
+the most important to you and
+what's the least important to
+you? And then you calculate,
+tally all of that up. And what
+you end up with if feature
+number one, maybe 20 people said
+it was most important to them,
+but then two people said it was
+least important. So great, that
+has a score of 20. So you
+subtract the most important,
+least important, but you do that
+across all of your features. And
+this is exactly what happened to
+this founder. But he discovered
+all the stuff that he was like
+hoping to build, nobody really
+wanted. They all wanted all the
+harder stuff. But then when it
+gets really cool is if you ask
+in the same survey, qualifying
+questions around like, who are
+you? Or like, what's your role?
+Or what's your title, industry,
+whatever. You can actually
+segment that data. And then you
+can discover, oh, these people
+want these things. And these
+people want these things, or,
+you know, whatever. But that's
+the beginning of it. But most
+people, when they design
+surveys, they jump into what do
+I want to hear? And what
+questions do I want to ask? But
+we, I always recommend, like,
+you have to take a step back.
+And you have to ask yourself
+from a business perspective,
+what progress are you trying to
+make? Because that's what's
+going to determine how you
+approach a survey. If you launch
+in with well, what do I want to
+know, that's still very
+intuitive, don't get me wrong,
+like and you should totally do
+it if you know that you need
+information. I don't ever want
+to deter a founder from not
+sending a survey because we're
+not going to do it right. You
+should do it. Do it anyway, do
+it bad, get the information that
+you're going to need, you know,
+like, just do it. But you're
+gonna get to a place where
+you're gonna want to do it
+better, hopefully or you're
+going to hire someone like me to
+do it better. But ideally, like
+it's the okay, what do we
+actually want to accomplish with
+the survey? Because if we're
+going to send out a survey, max
+you're going to ask like 10 to
+15 questions, you're gonna get
+so many responses. We need to
+maximize the potential of what
+this is going to do. Because,
+you know, depending on how many
+customers you have, you might be
+overwhelmed and flooded with
+answers, but you also might not
+and so you kind of want to
+maximize the opportunity that
+you have to conduct the survey.
+Arvid Kahl: Right. You were just
+mentioning like, qualitative
+quantitative. So in a survey
+like this, that sounds very
+quantitative to me, people rank,
+you have the MaxDiff, you get
+like older rank numbers. Do you
+also ask for like qualitative
+questions like what else should
+I put in there? Or the main
+question is mostly like, does it
+deter people from actually like
+filling out the survey if you
+make them think or do you just
+want their intuitive response?
+Asia Orangio: Sometimes. So we
+try to balance, we try to lean
+and err more on the side of
+asking more like quantitative
+style questions so things that
+people can select or click. But
+to be fair, though, if you have
+conducted a lot of qualitative
+research, then filling out
+answers, like kind of like pre
+selecting answers for a survey
+actually becomes a lot easier
+because you already know
+generally speaking, like, okay,
+like, if I asked this question,
+I should expect to hear like
+this range of answers. If you've
+never run a survey before ever
+in your life on your customer
+base and maybe you don't know
+your customers as well, then
+having predetermined answers
+might give you skews that you
+might not know, cuz you're not
+gonna know what you don't know.
+But then also, you might not be
+able to totally trust. So if
+you're running a survey for the
+very first time, you've never
+done one before. And maybe like,
+you haven't talked as much to
+customers like in this way, not
+just about features, but about
+like, you know, that you haven't
+had as many conversations, I'll
+say. Then having a few more open
+ended questions could actually
+be a really good way just to get
+a sense for like, what would
+people say as your first pass,
+but then usually moving forward
+like, the more surveys you do,
+the more that you want to kind
+of keep it like you keep the
+open ended stuff to a minimum,
+if you can. But to be honest,
+there's no hard and fast rule.
+I've seen it all. There's no
+hard and fast rule. But what I
+will say though, is again, it
+goes back to like, what are your
+goals? And also, what context do
+you have? Because if you don't
+have as much context, then doing
+more open ended stuff could
+totally work. It's not gonna be
+very rich, but it will give you
+like hearing from the customer
+in the limited time and space
+that they have to answer you.
+But then at the same exact time,
+though, we've run surveys for
+clients before and some people
+came back with, like essays,
+like and you're just like, whoa,
+it's like you did an interview
+almost, just depends. But I will
+say that the less context you
+have, maybe the more open ended
+questions can help. Otherwise,
+if you have a lot of context
+then you can kind of guess like
+maybe what the answers could be.
+And then, you know, you throw it
+out there and see how customers
+respond or users or whatever.
+Arvid Kahl: This sounds like,
+it's nice in some situations
+when you have like a blue ocean
+kind of situation. But if you've
+know exactly where you want to
+go, like, if you've overcome
+your inhibition to know where
+you're gonna go and you want to
+know where you're gonna go, then
+maybe more quantitative methods
+work. That's interesting. You
+can probably tell that I'm
+asking all these detailed
+questions, probably mostly for
+my own sake at this point
+because I have a struggle
+sending surveys. I don't know
+what it is in me. I just don't
+want to bother people with a
+survey. I know it's a self
+imposed limitation. And maybe
+you can help me out of this
+because I know it's important
+for me. I just started a new
+business. I'm building a voice
+messaging tool for podcasts
+because I love podcasts. And I
+love podcasts where people send
+messages like Seth Godin's
+Akimbo, right? You have people
+sending in messages, that kind
+of stuff. I always love this.
+But the tooling looks like it's
+from the 90s. And function wise
+also isn't like in the year
+2024. Yeah. So I'm, again,
+software engineer feature think,
+right? I'm building this, but I
+want to know more about my
+prospects and about my future
+customers. But I don't want to
+send emails, like how can I
+overcome this inhibition to
+bother people with something
+that could be quite useful to
+them?
+Asia Orangio: Yeah, I love this.
+Okay, this is interesting. So I
+will say we really only do
+surveys when we have a larger
+volume of customers. So if you
+have 100 plus customers, surveys
+are going to be your jam. The
+same is true, actually, for
+website surveys. So you can do
+website surveys as well. And if
+you're getting, let's say, 510 k
+visits a month, like you
+probably have enough traffic to
+do like a website survey. But if
+you don't have 100 customers, I
+would say, interviews.
+Interviews are going to be your
+best friend. I have actually
+completely changed my
+perspective on interviews in the
+last I'll say six months to a
+year. I used to be very
+hardcore, don't pay people you
+know, 45 minutes to an hour. And
+because I've been testing this.
+And also I've been working a lot
+with Bob Molesta. He's like a
+co-architect of jobs to be done
+blah, blah. Incredible guy. But
+talking a lot and like working
+pub, I've learned the incentive
+doesn't actually matter as much.
+So all that to say what I mean
+by that is I think you can get
+over the hump by a couple of
+things. You're absolutely
+correct. It is totally a self
+imposed limitation. And a lot of
+founders have this. It's one of
+the most common ones actually,
+even I have this. I have this
+about myself and my own
+business. Like I really should
+be drinking my own champagne way
+more than I am and interviewing
+more founders, but even I have
+the self imposed like I don't
+want to bother them. But what I
+can say from running 1000s of
+customer interviews for the
+people who you want to create
+value for, it's never too much
+to ask. And also, most people
+are delighted. They would love
+to talk to the CEO of, you know,
+a new upcoming small business.
+And you know, help them shape
+exactly what they want because
+selfishly, they want you to
+build what they want. So I think
+that there's the mindset part of
+it. But then the outreach, the
+outreach is, you know, I think
+it's either an email or LinkedIn
+message depending on the context
+of you know, who you're talking
+to, maybe depending on your
+industry. It's actually a phone
+call or text. There are some
+industries that are like that.
+But the good news is that you
+don't need hundreds of
+interviews. You really just need
+about 10 to 15. And honestly,
+the first three to four are
+going to be eye opening. And
+once you, I actually worked with
+a founder, who he was at the 8
+to 10k mark MRR. And he had
+never done research before. And
+he was in a similar space. He
+was like, I'm afraid. I'm
+terrified. I don't want to
+bother them. He had like 30,000
+users and maybe like 500 paying
+customers. And it was
+interesting because after the
+first two, he was like, okay,
+this is less scary. And I ran
+them with him. So he actually
+ran the interview himself. I was
+with him. I was like coaching
+him to the process. But by the
+fourth one, he was like, this is
+awesome. I can't believe I
+waited too long to like to do
+this. Because he was like, I've
+had so many ideas. I got like,
+we should go build this, blah,
+blah, blah. And I was like,
+yeah, this is why we do this. It
+was great. So I will say the
+first two, three, they're gonna
+be weird especially if you're
+not used to it. But by the time
+you get to like the fourth and
+the fifth, you're gonna be like,
+oh, my gosh, this was awesome.
+Like, I can't believe I waited
+so long to do this. And if
+you're feeling really, really
+introverted, never forget that
+you can do this with someone
+else. Like there are other
+people who can maybe run the
+interview for you. And like you
+just like tag along. So there's
+also that as an option. But
+yeah, I think to make it also
+feel a little bit easier, you
+can offer an incentive. So some
+people offer like a $50 gift
+card or $100 gift card,
+something to sweeten the pot. So
+you don't feel like you're like
+really, you know, putting them
+out. But I guarantee you, the
+people that you're building for,
+they are going to like assuming
+that you are out to create
+value. Most people are going to
+be pretty open to chatting with
+you especially if you are
+building something that is in
+their best interest.
+Arvid Kahl: Yeah, you would want
+that to be the case for most
+products being built, right?
+That's a win win. There's a
+business going coming out of it.
+But also, it's producing massive
+value for the people using it.
+That brings me to something that
+you just said, like you said,
+30,000 people that have used the
+product, 500 paying customers,
+who do you listen to when you
+reach out to them? Because those
+30,000 might become or 29,500?
+Right? They might become paying
+customers, but they're not yet.
+So do you ask them questions? Or
+do you ask questions of your
+already existing customer base?
+Asia Orangio: So this is kind of
+where we get into the it depends
+territory. And the reason why it
+depends is because it depends on
+what is the progress we're
+trying to make? What is the
+outcome we're trying to achieve
+with whatever the research is?
+Traditionally speaking when it
+comes to go to market, we need
+to pay more attention to people
+who are paying because people
+who pay money have made a real
+trade off. If they never pay any
+money, they make no sacrifice.
+They make no trade off. And it's
+not that you can't trust people
+who have never made a sacrifice
+or a trade off. It's just if
+they've never made the trade off
+of paying money, then everything
+is a hypothetical. You don't
+actually know. And it's just
+like you said like they could
+become but they haven't. So what
+we try to do in those scenarios
+is, traditionally speaking, the
+paying customer usually takes
+priority. However, there are
+plenty of use cases to do what
+we call audience research people
+who aren't paying you money, but
+they fit the general profile or
+they could. So what we do in
+those scenarios is we try to
+find people who may not have
+made a trade off to buy your
+product. But maybe they've made
+similar trade offs. So maybe
+they might not have bought
+HubSpot, but they bought
+Salesforce. So like if you can
+find people who have made the
+trade off, even if it wasn't for
+your product, if it was for
+something similar, that's an
+excellent space to play in.
+Where you don't want to plan is
+you don't really want to play in
+the sandbox of they've never
+made a trade off even close to
+it. It's not on their radar,
+they're totally unaware. They
+might have tried the product but
+they can't like they don't have
+like a perspective like for
+where to fit you in. And that's
+kind of where you want to be
+careful because it's really easy
+to get lost in the sauce with
+that. But if you can talk to
+people who have made similar
+trade offs, so maybe they tried
+your product but they went to a
+competitor or they've used or
+bought stuff like what you're
+providing in the past. Those are
+great people to talk to because
+it'll give you a sense for like,
+what direction do you need to go
+in? Or do you want to go in? But
+I would say paying customers
+definitely take precedence.
+Those are like,paying customers
+are worth their weight in gold
+because they've actually made a
+real trade off. They've made an
+exchange and people who make
+exchanges and also people who
+make exchanges and in churn,
+those are the people that you
+really want to talk to for sure.
+Arvid Kahl: Yeah, it's certainly
+the presence of a budget signal
+something that, you know, the
+absence of a budget doesn't. So
+that makes a lot of sense. Thank
+you for sharing this. So what's
+your position on freemium then
+as a business model itself?
+Asia Orangio: Freemium I would
+say, so I've worked with plenty
+of early stage and bootstrapped
+companies. And I would say so
+I've been running DemandMaven
+now for almost for actually, for
+six years, February will be six
+years. I've been running
+DemandMaven, which is thank you!
+Arvid Kahl: Wow!
+Asia Orangio: The first three to
+four, I would say we've
+exclusively focused on early
+stage of bootstrap companies.
+And freemium, I've got to say,
+is one of the toughest models to
+make work for bootstrap
+companies. I'm not against it.
+But I do think that you have to
+have just an absolutely massive,
+total addressable market that
+has a willingness to pay. And
+also, you as the founder, you
+have to have an incredible
+onboarding and activation
+experience, let alone go to
+market, go to market, you know,
+people product channel. People
+product model channel. Yeah. And
+market itself. Like, yeah, that
+aside, great. But product
+itself, when people sign up, get
+the value moment become a
+customer, if that is not dialed
+in, freemium is so tough. And
+then on top of that, freemium is
+not a revenue model. It's an
+acquisition model. It does make
+acquisition easier, but I'm
+going to put that in finger
+quotes because while it makes it
+easier, it puts a lot more
+pressure on having an incredible
+product experience. And I've not
+seen as many scenarios where
+bootstrap founders are like,
+equipped enough to be able to
+manage that well. You're gonna
+need more product people, more
+developers. It creates and maybe
+that's you, maybe like, you just
+like working all the time. But
+from what I've seen, there's
+very specific scenarios where it
+works extremely well. But a lot
+of the times, they actually need
+to be a self serve free trial.
+And maybe it's opt out, you
+know, it could be an opt out
+credit card scenario. But that's
+really, I think, where most
+bootstrappers play and I don't
+think freemium is going to work
+for everyone, to be honest. I
+know Patrick Campbell. I don't
+know if he would disagree or
+agree, actually. But I know that
+in the past, he has been like
+freemium's great. Everyone
+should get freemium. But I think
+it requires a lot of energy,
+capital. Actually, I think it
+requires more effort.
+Arvid Kahl: Yeah. And for
+Patrick in particular, right?
+You had ProfitWell, the free
+product and everything was
+wonderful, but the high ticket
+stuff was on the other side for
+price intelligently, right? They
+was compensated like it's not
+that ProfitWell needed to make
+money. It was compensated by
+massive consulting fees on the
+other side, so I wouldn't even
+call this a freemium. It's just
+like, an anchor product, like a
+lead magnet, really. So I think
+he's an outlier in that regard
+compared to all the other SaaS
+founders that I see because and
+I think I needed to hear this
+just now. And a lot of people
+needed to hear this too. Because
+freemium is easy. It's easy to
+look at the number of users
+going up and thinking you have a
+case for revenue, even though
+the conversion, the onboarding
+and the stickiness, right? The
+retention of them is the hard
+part. So thanks for sharing
+that. Makes me rethink my
+pricing strategy, right. But I
+guess that's what it is, right?
+It's all the experimentation.
+You all need to figure out,
+like, where to go, where to
+start how to, like, move on over
+time. We were just talking about
+niching into categories,
+particularly with the product
+category that you brought up,
+right? Do people in your product
+category have an alternative
+that they already use? It's
+already budget being spent in
+the category you're in. You gave
+a talk MicroConf about this
+whole niche versus like, well,
+niche versus what is not a niche
+kind of conversation. I would
+like to dive into this a little
+bit. Because in the indie hacker
+space, more and more, we're
+being told and we are telling as
+people in the space niching is
+where it's at. You niche down,
+you find that thing and you find
+that place, and you start there
+and maybe you grow out of it or
+you just stick with it and you
+build a presence in that field.
+Is that still a valid approach
+or is picking a niche the same
+thing as focusing on something?
+I'd like to ask you.
+Asia Orangio: I'm so glad you
+mentioned this. Okay. Yes.
+Awesome. Good call back. That's
+one of my favorite talks
+actually. Okay, so yeah, you're
+gonna hear this all the time,
+niche down niche down. Okay, so
+there's focusing and then
+there's niching down. I'm gonna
+start with niching down and I
+give this example every time and
+it's based off of a company but
+I'm not gonna remember off the
+top of my head. But every time
+he's always like, I love that
+you keep using my company as an
+example. I think he likes it.
+Okay, so niching is like, let's
+say we're in the software
+category of CRM, customer
+relationship management, very
+popular, tons of software out
+there that's like this. Niching
+would be un-CRM for trucking
+companies. And niching is
+basically says, if you're a
+trucking company and you need
+CRM, you should use our product.
+You are centering around a
+particular industry or vertical.
+And if an agency came to you,
+you'd be like I mean, listen,
+like, we're not going to tell
+you not to use our software, but
+we're for trucking companies, go
+away. And like, okay, you know
+and if a SaaS company comes to
+you, listen, we're CRM for
+trucking companies, go away. And
+that works for some people and
+for some founders. I think I
+don't think it is. I'm not gonna
+say it's bad advice. I think
+it's incomplete advice. I think
+there's many ways to go to
+market. Niching is one of them.
+And I think part of why so
+context for why I think you hear
+this a lot is I think it makes a
+very complex problem very easy.
+Because go to market is complex.
+There's a lot of variables and a
+lot going on. Niching makes it
+feel very easy. And I also
+think, too, at the same exact
+time, though, like, if you don't
+plan on raising a bunch of
+funding, if you don't plan on
+like building like this whole
+big thing, you want to keep it
+lean, niching could make a lot
+of sense for you like, just like
+personally. There's this other
+approach, though, that I think
+is much more realistic and also
+gives founders much more freedom
+to explore business models that
+are more in alignment with them.
+Because niching like if you
+don't like, so is your CRM for
+trucking companies, but like, if
+you don't like trucking
+companies that like, you might
+run that business for two years
+and then be like, I'm out. So
+there's this other concept. And
+this is the concept that most
+businesses use. But it's one
+that I think a lot of bootstrap
+founders and early stage
+founders. It's not, I don't
+think it's as common to think
+about, but it's definitely
+common for more established
+companies. And it's called
+focusing and what focusing says
+is, okay, sure, CRM for trucking
+companies, maybe that's where we
+start. But maybe we build for
+trucking companies for one to
+two years. And then we expand
+later into construction. Because
+trucking is cool, but like
+construction is where it's at. I
+don't know, I'm making this up.
+And then maybe in another one to
+two years, maybe we expand
+again, into manufacturing and
+then maybe in another one. So
+focusing basically says, the
+features, the content, the
+marketing, the channels, all the
+go to market strategy, putting
+the finger quotes, it's all
+going to focus on either that
+one vertical or industry or it
+could also be software category
+because there are some that will
+focus like in various software
+categories over time. The best
+example of this in real life
+that I can give is ConvertKit.
+So when Nathan Barry first
+started the company, he was
+like, email marketing is our
+software category. And we're
+going to focus on I think it was
+specifically bloggers, food
+bloggers. Is it food bloggers? I
+should know the story of my
+heart because I've studied them
+so much. But when he first
+started, I want to do email
+marketing for food bloggers. And
+then he expanded over time. And
+then I think after like one to
+two years, he was like, okay,we
+are now going to expand into the
+audience of I don't remember
+what it was something else like
+small business, like websites
+that are like lifestyle blogs or
+whatever. And then every like
+one to two years, he would
+continue to expand. He didn't
+niche forever because you
+imagine if ConvertKit was like,
+what email marketing for
+bloggers forever. And then it
+would never become the what
+billion dollar company that is.
+They actually don't know if it's
+that big. But it would never if
+you could imagine like that.
+Now, here's the thing, though,
+because what's really cool about
+being a founder is like you get
+to decide, like you get to
+decide what your chaos is. And I
+could imagine a scenario where
+if Nathan were just a different
+person, he could be like, yeah,
+I'm gonna stop here. And that
+will be okay for him. You know,
+like, I'm not gonna shame anyone
+for not doing that. Or, you
+know, doing what they're doing.
+But I think you know, Nathan was
+like, I want to do more. So he
+expanded but he did it by what
+we call focusing and it's just
+okay, I understand this
+audience, go to market wise now.
+I am now going to expand and
+shift my focus on another
+audience still gonna cater to
+the old audience, but now I'm
+gonna expand it with new
+audience and that's how he built
+his business.
+Arvid Kahl: So how do you
+prevent yourself from falling
+prey to the shiny object
+syndrome? There's another
+interesting audience out there.
+How do you prevent overextending
+at that point?
+Asia Orangio: Yeah. This is
+tough because as entrepreneurs,
+we love a shiny object. I love a
+shiny object. I'm like, public
+defender number one on this.
+Okay, so I actually go back to
+the story of, you know, the
+trough of despair of like, we
+all go through the same cycle.
+There's the like, oh, we're so
+excited and we're super
+optimistic. It's gonna go great.
+And then it's like, there's like
+a little bit of like, oh, no,
+this sucks. And then you're in
+the trough of despair. You're
+like, this is terrible. I was
+reading this study, this report.
+And whenever we get attracted to
+the shiny object, what happens
+is whatever track we're
+currently on, we're hitting the
+trough of despair. And the shiny
+object gives us that optimism
+again because we start the curve
+all over again. Oh, there's a
+new thing. Oh, let me really
+excited about it. Oh, my gosh,
+is really cool. Oh, no, this is
+way harder than I thought. Oh,
+my gosh, this kind of sucks. And
+so what ends up happening is, we
+as entrepreneurs are wired for
+that. We're wired that's why
+we're innovators. That's why
+we're, you know, breaking
+ceilings left and right. But
+what ends up happening is
+sometimes we don't stay in the
+trough of despair long enough
+with the current track that
+we're on. And so a shiny object
+comes along and it's tempting,
+ooh, you can have that feeling
+of optimism again if you just
+switch gears. And I think of
+that, actually and right when
+whatever I'm working on gets
+challenging, that's how I know I
+probably need to stick with it.
+Now, I do think, however, are
+there scenarios where like if a
+thing isn't working, stop doing
+the thing. I think at the same
+token, while we jump off of
+tracks very quickly, sometimes
+we can stay on them for way too
+long. And we're like, okay,
+you're beating this dead horse.
+And it's like, it's not, the dog
+will hunt as we say in the
+south. But I think part of the
+game is knowing when you need to
+switch tracks and knowing when
+you need to stay on. It's tough.
+And I'm not going to say I have
+a perfect answer even on this.
+But when it comes to go to
+market, at least what I can say
+is, if you've done your
+research, if you've done your
+exploration for a particular
+audience, if you've like putting
+the single quotes validated as
+much as you possibly can about
+expanding into a new market,
+Arvid Kahl: Yeah, that kind of
+confidence is the problem that I
+then you can probably trust
+doing that expansion and also
+weighing its pros and cons and
+its trade offs. Assuming that
+you've done your research, you
+probably know what the
+challenges are going to be to an
+extent. You can probably
+predict, like what some of
+that's going to be. And I think
+really smart business owners
+choose audiences that are the
+easiest for them to enter into,
+like easiest for them to segue
+into. And when they make very
+big strategic bets of, okay,
+this one's gonna be really tough
+for us to do. But I think that
+we can do it. Knowing that and
+having that context ahead of
+time before you double down on
+it, is going to make that
+process easier. But when that
+research is not conducted, when
+you don't do your due diligence,
+when you're kind of just like,
+let's do trucking companies, why
+not? And they were like, oh my
+gosh, just kind of sucks. And
+like, it's really hard or
+whatever, then that's kind of
+where I would say, if like
+that's just a lesson, right?
+It's just a life lesson. But I
+think the more information that
+we can get ahead of time, it's
+never gonna be perfect. It's
+never gonna be complete. But if
+we can get more context ahead of
+time and that should help us
+make better decisions. And also,
+it also helps you decide to,
+yeah, like I'm ready to jump
+tracks. I'm ready to like, jump
+into the new thing. And you'll
+hopefully feel much more
+confident about it. And then
+when it gets challenging because
+it will, it absolutely will. It
+won't be a surprise and you'll
+be a little bit more better
+prepared for it.
+see a lot in founders. I talked
+to several founders who are at
+that stage, who want to go into
+different verticals, let's just
+call them that. But they're
+afraid of several things. I
+think one of the biggest things
+is now I have to do everything
+twice. I need to cater to my own
+audience and speak to them in
+their voice, the lingo they
+have, right? The kind of jargon
+that they use and this new
+audience, which might be
+completely distinct, but equally
+interesting. Now, I don't need
+to write blog posts for them and
+talk about their topics. Is that
+a thing? That can be done easier
+than just doubling all your
+efforts? Like, is there a way to
+keep the tone of voice
+consistent while going into new
+fields? What do you think about
+that?
+Asia Orangio: Well, I think this
+is what's so interesting is that
+I'm assuming that you have done
+your due diligence for one
+audience. The thing is, is when
+you expand your go to market
+focus, I mean, yes, in theory
+with like a fully developed team
+and like you've got like a whole
+squad of people helping you with
+this. Yeah, in theory, like
+you'd have enough resources to
+cater to both. But I think as
+opposed to our founder, like if
+you don't have that many
+resources, your old cause like
+your existing customers and like
+the people that you're already
+attracting from that content
+from that material, assuming
+it's evergreen. And you don't
+have to keep producing it if
+it's generating the value and if
+it's generating customers. Maybe
+you need to update it like every
+six months to a year, depending
+on Google's rules and search and
+blah, blah, blah, like maybe
+like, depending on how you're
+acquiring the customers, like
+maybe you've got to update the
+campaigns, like every once in a
+while. But in theory, like if
+you've created the system, the
+acquisition system to acquire an
+audience, you probably don't
+need to put as much effort into
+it to keep it going, maybe like
+a little bit here and there. And
+I find, depending on I'm gonna
+say this depends, like, there
+are certain markets and
+industries where this is not the
+case. And if you're off, you're
+off and like you need to, like,
+get it back together. But I
+think I find if you create the
+system and it's consistently
+generating things and it's
+continuous, then you don't have
+to, it doesn't require as much
+effort to keep the wheel going
+and you can stretch into
+something else and it won't feel
+like a stretch. It'll just feel
+like you're just shifting focus.
+You'll need to remember, of
+course, every six months to a
+year to like, go back to that
+old thing and like, okay, like
+is anything I missed? But for
+the most part, it should be
+relatively easy to build a new
+system. And I'm gonna say it's
+easy, it's straightforward, it's
+relatively a little bit more
+predictable, especially again,
+if you've done your research, if
+you've explored that audience
+enough.
+Arvid Kahl: model that I can
+work with, right? Where it's
+okay, this serves these people,
+let's just tweak a couple of
+screws here and there. And then
+it can also serve these others.
+What it immediately brings to
+mind to me as a, I guess, self
+imposed solopreneur is that this
+will probably require more
+people to help me with because I
+am only an expert in a couple of
+fields. But if I want to go into
+a different industry, I need
+somebody who can from the start
+speak the language of these
+people. Do you think this is a
+requirement of that shift to get
+help from outside? Or can you
+kind of get there yourself? And
+it might just take a bit longer?
+What would you choose there?
+Asia Orangio: Interesting. So my
+first thought was, you
+technically don't need to hire
+someone who already speaks that
+language. I would actually wager
+that most. So if you get
+marketing help, for example,
+depending on the type of
+marketing help, most marketers
+aren't going to be well versed
+in your industry at all. But
+they're going to learn by voice
+of customer, by qualitative
+research, by like talking to
+people and talking to customers
+and blah, blah, do like
+conducting their own insights
+and conducting their own
+research. That's how marketers
+kind of learn the language. But
+so my first thought was, I mean,
+technically, you don't
+necessarily need someone who
+comes from that world. If you
+hire someone good, that's
+relatively
+trainable/discoverable, like you
+can figure that out. But what I
+do think is even more
+interesting is the concept of
+expanding like your team, even
+if it's like a contractor or
+freelancer and you have like,
+this is absolutely possible.
+Like I've seen this a bajillion
+times where there's like a solo
+founder and he's got like a part
+time engineer who helps some of
+the product and then he's got
+like, two to three writers and
+social folks and like and
+they're part time and they're
+full time. And they, you know,
+they found their resources, like
+using fiverr or Upwork.
+Sometimes even like LinkedIn and
+you can totally build that very
+nimble team and things are very
+cyclical. The hardest part is
+going to be of course, the
+hiring. Who do you hire? How do
+you know if they're good? That's
+kind of that's where it gets
+hard. And that's where it gets
+tricky. But what I will say
+though, is it's another skill,
+it's a muscle. Once you, there's
+all kinds of guides you can
+read, but nothing beats the
+experience. So once you gain
+this experience, you'll learn
+over time what does experience
+look like? What does great look
+like versus not? I know you
+didn't ask this question, but I
+feel compelled to say it anyway.
+Because I do think it's really
+interesting. But Nathan Latka
+actually mentioned this at a
+SaaS Talk once. And he mentioned
+a process where the way that he
+finds talent is he puts out a
+job like on Fiverr. He hires
+five or six people to do the
+same job. And then he just sees
+like, what's the quality level
+and that gives him a gauge of
+okay, I can see like, what the
+quality level is. And then he
+just picks his favorite one. And
+then he just rinses, washes and
+repeats and it's fiverr. So
+there's gonna be a range of
+prices and that's how he does
+it. And he does that for
+everything, literally every job.
+Arvid Kahl: That is awesome. You
+know what? I've seen is coming
+from a completely different
+field. I'm a hobby miniature
+Arvid Kahl: You should see the
+backside of this office because
+it's full of paints and brushes
+and stuff. But yeah, that's
+really that's what I do to
+unwind and just, you know, get
+into a space that is not
+completely occupied with just
+coding all the time. And in that
+community of YouTubers around
+that hobby, there are a lot of
+people who hire like 10 people
+on Fiverr or whatever, to paint
+their figurines for them. And
+then they create content out of
+this just checking the different
+levels of skill and the
+different price sets. So there
+is something to be said about,
+like finding somebody who's good
+by just setting them up against
+a couple other people and
+comparing. I think that's an
+interesting way of hiring. It
+kind of does reinforce kind of
+the global north south thing
+with the pricing. You know, the
+problem that people in the
+countries that have really,
+really low wages and you know,
+painter. So I paint tiny
+figurines because that's just a
+their purchasing power parity is
+extremely low. They do a lot of
+work for very little money, but
+it does make sense to try this
+hobby of mine that I've had
+since childhood. Yeah, exactly.
+out. Like, would you outsource
+all of these things? Like, is
+that something? My question
+really is like, how much does
+the founder need to be involved
+in this? That's really what it
+is because you were talking so
+much about customer interviews
+and all that in the beginning.
+And it's like, yeah, that's
+something I need to do to see
+the vision of this. But when it
+comes to creating content or
+marketing strategies, how much
+involvement does a
+solopreneur/small team leader,
+small CEO, really need to put in
+there?
+Asia Orangio: Yeah, that's a
+great question. It's a tough
+Asia Orangio: Yeah
+one. Okay. So what I will say
+is, if you think about your time
+horizon of a year, if you did 10
+very high quality customer
+interviews a year, you would be
+beating literally all of your
+competitors, every single one of
+them. I know that because I
+probably work with them. But if
+you think about, can you do 10
+interviews in a year, that
+doesn't feel too bad, right?
+Especially if it's like the
+first couple of weeks of the
+year. But I would say if you
+just did that, which will
+require a lot of involvement
+from you because you're gonna
+have to source them, you're
+gonna have to reach out to them,
+you're gonna have to actually
+talk to the customer. But I
+guarantee that if you were to do
+that process, it would energize
+you for the next six months, at
+least. And in terms of like, how
+you would be thinking about
+like, okay, well, what marketing
+do I need to put out? What
+should my messaging be? That
+you're gonna get so much clarity
+just from doing that. The book
+I'm gonna recommend to everyone
+listening is the Mom Test. Rob
+Fitzpatrick makes interviewing
+very, very straightforward. I
+cannot think of a better
+resource for bootstrappers or
+indie hackers or anything like
+that, like it like truly the one
+of the best. But I guarantee
+that if you do that, when we
+think about the year time
+horizon, seems pretty small. The
+level of involvement, however,
+on an ongoing basis, does
+ultimately depend on how
+experienced your resources are.
+If you have budget to spend, I
+would highly recommend investing
+more in your resources. If you
+don't have as much budget to
+spend, keep in mind that the
+quality of the marketing or
+whatever it is that you're
+putting out there might not be
+as good, therefore, we'll
+require more of you. But the
+thing is, is that if you don't
+know what great looks like, then
+it is what it is like you're not
+going to notice anyway. But what
+I can say, though, is if like so
+let's say you're at the 45 or
+40k MMR mark and you're at the
+place where like you can hire
+resources. But you're like
+you're torn. Like, do you need
+someone experienced, need
+someone not experienced? This is
+where I would say it's gonna
+very much depend on what is your
+comfort level? What trade offs
+are you willing to make? Because
+you can hire someone who's maybe
+less experienced, but much
+cheaper. But the trade off will
+be, they're gonna look to you
+for all the answers. If you
+don't like marketing, you're
+probably gonna have to answer a
+lot of marketing questions and
+it's gonna feel very
+uncomfortable. And otherwise,
+you're gonna have to figure out
+how to level them up. So can you
+afford courses? Can you afford
+training? I recommend reforged
+everyone, like literally
+everyone because it's so
+affordable, like compared like,
+based off of what you get. But
+that's kind of one of the trade
+offs and knowing that you're
+never probably like this person,
+unless they're just gonna really
+knock your socks off. They're
+probably not going to be your
+CMO because you're not paying
+cmo money, right? That's one of
+the hardest decisions to make.
+And I've got a couple of clients
+in this boat now. You know, they
+have an incredible marketing
+team. They love their marketing
+team. But they really need a VP
+of marketing, but they're just
+not quite at the place yet where
+it makes sense to afford that.
+So the trade off is okay, well,
+that's okay. Yeah, love your
+team. That's great. Let's get
+them some training. Let's get
+them some like advising. Let's
+get them some coaching. Like
+let's like if we can't afford a
+VP of Marketing, that's fine.
+There's other ways to level up
+your skill and to level up your
+team. The downside is, it will
+require more of you, assuming
+that you care. You might not and
+that's okay. Like I want to make
+sure anyone who's listening is
+not like feeling guilty about
+like, oh man, I really don't
+care about that, like, that's
+okay. I believe in like running
+your business how you want to
+run it like and if you want to
+improve it and if you want to
+get better at certain things
+great, like, that's where you
+can hire other people. You can
+hire resources. You can, you
+know, get consultants, whatever.
+But if you're like, I'm never
+gonna do that, Asia like, that's
+totally fine. I'm cool with it.
+I applaud it actually.
+Arvid Kahl: What do you think of
+hiring like fractional people
+for those kind of roles? Like
+because they're expensive in the
+full role but in a fractional a
+couple days a week, what do you
+think of that?
+Asia Orangio: I am biased
+because I have been fractional.
+I actually I helped a company go
+from 13K MRR to 2 million ARR.
+And they just exited. They just
+exited for a lot of money for so
+much money. It was really cool.
+And but I was fractional. I
+wasn't that expensive, either.
+It was, to be fair, they did
+have some marketing resources,
+but they didn't have a single
+full time marketing person until
+this year. And I've worked with
+this company for a very long
+time. And I mean, it's
+impressive, like they were
+extremely lean, very, very lean.
+So I think that there are
+scenarios where it works. And it
+makes sense. I think it's very,
+very contingent on, the
+ultimately the founder or the
+CEO. Because I think if the
+expectation is that this person
+is just going to take marketing
+off of your hands forever and
+you're never going to think
+about it, that's never the case.
+I can't think of a single
+scenario where as the founder,
+you never think about marketing
+unless you have a co founder
+who's the marketer. And then
+maybe you never, you actually
+just never think about
+marketing. But I think if the
+expectation is that this
+fractional person is just going
+to take it all off of your hands
+and you're never going to have
+to think about it. I don't think
+that that's realistic. The other
+thing too, is that it depends on
+the nature of just how
+fractional this person is. Are
+they doing execution? Are they
+not doing execution? Do they
+have budgeted resources to get
+the execution? So in my case, I
+wasn't doing it all. But I was
+able to hire writers. I was able
+to hire like freelancers to just
+come in and do some of the
+executions if needed. And then
+also the CEO himself did a lot
+of stuff. So I think if there's
+a very clear expectation for how
+are we going to divvy up the
+work, then I think it could work
+extremely well. And I think
+like, I mean, this company, like
+really made out super well,
+doesn't work for everyone,
+though. I think that there are
+scenarios where if there is
+budget and they need a full time
+person and like it's really
+obvious that they do it, then
+they just need to hire full
+time, like let's but I do think
+that there are some scenarios
+where fractional makes a lot of
+sense for maybe more executive
+leadership. I'm essentially
+like, a chief growth officer or
+CMO coming in and like, okay,
+here's what you gotta do. You
+gotta go and do all these
+things. And like, I can help you
+do some of it. But like, we need
+other people to also do it,
+can't be all of Asia, right?
+Those are scenarios that work
+really well. I know Amanda
+Natividad has an opinion on
+this. I thought was really,
+really, really interesting. And
+I'm not gonna remember exactly
+what she said about it. I
+remember seeing this on Twitter.
+And I remember agreeing with a
+lot of what she said. But there
+are scenarios though or
+fractional can make sense. There
+are a lot of scenarios, though,
+where it doesn't and I think
+like, I think if you can afford
+full time help that's
+experienced get it. But that
+comes down to like, how good are
+you at hiring? Demand me then.
+So my own business, it took us
+years to get good at hiring
+researchers. It took us years,
+took a lot of trial and error.
+But now that we know like, oh,
+this is what the process is.
+It's like it's so easy.
+Hopefully you don't have to go
+through that with marketing.
+That would suck. But I know for
+me because we mostly work with a
+lot of contractors and
+freelancers. So we do a lot of
+hiring like a few times a year.
+But hopefully that's not the
+case for you for marketing
+because that would not be fun.
+But I will say though it's a
+muscle.
+Arvid Kahl: Oh for sure. Like
+like all things business, right?
+You get to experiment and figure
+out they're just the right way
+to lift the weight and then
+lifting it becomes much easier,
+right? Let's use that weird
+analogy here. But what I get
+from you, what I heard you just
+say was that fractional hires
+shouldn't be your first hires.
+That's really what I'm getting
+out of this, you should get
+makers and people who like will
+get their hands dirty and in the
+weeds, even though they might
+not be the most experienced ones
+and not the most expensive ones.
+But the first hire should not be
+a person that needs other people
+to help them do the work. That's
+what I'm getting out of this.
+Asia Orangio: Totally. And I
+also think too, there's a lot of
+models that I've seen where
+maybe the team is very junior
+but there's like a fractional
+executive leader. That can work
+really well depending on how
+much management the team needs,
+that could work extremely well a
+lot of the times, but sometimes.
+So a fractional person and when
+I say fractional, like I'm
+assuming that they're like 10 to
+15 hours a week, sometimes
+though, having an advisor. So
+there's a lot of companies that
+I advise. And I'm maybe it's
+like a couple of hours a week if
+that. And that can be extremely
+helpful because a good adviser,
+depending on like, what they're
+advising in, for me it's usually
+growth or marketing or both. I'm
+able to like cut through the
+traffic really quickly, like
+don't prioritize that project.
+That's gonna be a waste of your
+time do this instead. And then
+they're like, okay, great,
+great, great. Can you review our
+work? Yes. Like, yep, that's all
+good. No, change these things.
+Okay, go off. And then they go
+on to do the thing. And then
+they come back and they're like,
+okay, we've got more stuff. So
+if you can't, yeah, executive
+level fractional stuff, I
+wouldn't recommend that for
+super early stage. But advising
+could be extremely beneficial
+because I kind of like working
+with someone who's either been
+through it or work with a bunch
+of companies who have been
+through it. That could be
+awesome, for sure.
+Arvid Kahl: Yeah, I do it for a
+couple of people more in the
+technical space, but like it's a
+call a month or something. And
+just like keep people in the
+loop, keep reshuffling
+priorities that may have like
+gone out of proportion or
+something. I think that's
+effectively mentorship on a
+level, right? Like for many
+founders, there's this
+mentorship aspect to it as well,
+where it's not just like
+advising on the business, but
+also in the personal development
+of the founder. That's kind of
+where I come in, like a little
+bit like intersectional there.
+But yeah, that sounds like a
+much smarter move than just
+hiring somebody who may really
+not be the right hire. Wow,
+thank you so much for sharing
+all of your insights and your
+personal experience here, too.
+That is incredibly valuable.
+Like, it's really nice to hear
+the distilled knowledge from all
+these projects. And all these,
+you know, these surveys, these
+conversations, 1000s of
+interviews, like when do you get
+to talk to a person that
+actually has all this insights?
+So thank you so much for sharing
+this. I bet everybody listening
+right now will be very
+interested in following you and
+learning more about you. So
+where would you like them to go
+to stay in touch with you?
+Asia Orangio: Yeah, okay,
+there's a few places. I hang out
+the most these days, I still
+call it Twitter.
+Arvid Kahl: Me, too. Me, too.
+Asia Orangio: Cool, cool.
+There's also LinkedIn and then,
+you know, feel free to connect
+with me on LinkedIn. If you do
+just leave a message just like,
+hey, I heard you on the podcast.
+Otherwise, content wise. So I
+have a newsletter called The
+Work. And it is where I publish
+all about how to do the work
+like this really hard, muddy
+growth work that's like really
+confusing, same thing for go to
+market. And my whole thing is,
+how can I give you practical
+examples of doing a MaxDiff
+survey? How to interview
+customers about like, you know,
+potentially buying a product,
+like how do you do that? So my
+whole thing is, how do I give
+practical advice about the work
+that is required. So that can be
+found on
+demandmaven.substack.com. And
+The Work newsletter, I try to
+publish every week, but I
+actually got sick last month. So
+it has not been every week. But
+this year, I'm going to try to
+do I'm going to say at least 40
+posts this year. So not the
+whole year, but at least 40.
+That's my goal.
+Arvid Kahl: That's a spectacular
+goal. And if anybody needed any
+evidence that you're good at
+marketing, I think the last 60
+seconds will convince them that
+you're really good at this.
+You're spectacular. Thank you so
+much for talking to me today and
+sharing all of that. It was
+really, really insightful. Thank
+you.
+Asia Orangio: Thank you. It was
+a pleasure. Had a blast.
+Arvid Kahl: I appreciate it.
+And that's it for today. I will
+now briefly thank my sponsor,
+acquire.com. Imagine this,
+you're a founder who's built a
+really solid SaaS product, you
+acquired all those customers,
+and everything is generating
+really consistent monthly
+recurring revenue. That's the
+dream of every SaaS founder,
+right? The problem is, you're
+not growing for whatever reason,
+maybe it's lack of skill or lack
+of focus or play in lack of
+interest. You don't know. You
+just feel stuck in your business
+with your business. What should
+you do? Well, the story that I
+would like to hear is that you
+buckled down, you reignited the
+fire, and you started working on
+the business not just in the
+business, and all those things
+you did, like audience building
+and marketing and sales and
+outreach. They really helped you
+to go down this road, six months
+down the road, making all that
+money. You tripled your revenue
+and you have this hyper
+successful business. That is to
+dream. The reality
+unfortunately, is not as simple
+as this. And the situation that
+you might find yourself in is
+looking different for every
+single founder who's facing this
+crossroad. This problem is
+common, but it looks different
+every time. But what doesn't
+look different every time is the
+story that here just ends up
+being one of inaction and
+stagnation because the business
+becomes less and less valuable
+over time and then eventually
+completely worthless if you
+don't do anything. So if you
+find yourself here already at
+this point or you think your
+story is likely headed down a
+similar road, I would consider a
+third option and that is selling
+your business on acquire.com.
+Because you capitalizing on the
+value of your time today is a
+pretty smart move. It's
+certainly better than not doing
+anything. And acquire.com is
+free to list. They've helped
+hundreds of founders already.
+Just go check it out at
+try.acquire.com/arvid, it's me
+and see for yourself if this is
+the right option for you, your
+business at this time. You might
+just want to wait a bit and see
+if it works out half a year from
+now or a year from now. Just
+check it out. It's always good
+to be in the know.
+Thank you for listening to the
+Bootstrapped Founder today. I
+really appreciate that. You can
+find me on Twitter @arvidkahl.
+And you'll find my books and my
+Twitter course there too. If you
+want to support me and the show,
+please subscribe to my YouTube
+channel, get the podcast in your
+podcast player of choice,
+whatever that might be. Do let
+me know. It'd be interesting to
+see and leave a rating and a
+review by going to
+(http://ratethispodcast.com/founder).
+It really makes a big difference
+if you show up there because
+then this podcast shows up in
+other people's feeds. And
+that's, I think, where we all
+would like it to be just helping
+other people learn and see and
+understand new things. Any of
+this will help the show. I
+really appreciate it. Thank you
+so much for listening. Have a
+wonderful day and bye bye.

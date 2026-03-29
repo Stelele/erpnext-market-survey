@@ -1,0 +1,363 @@
+﻿[Music]
+happy New Year hey it's Arvid and this
+is the bootstrap
+[Music]
+founder this episode is sponsored by
+paddle.com my payment provider of choice
+if you in a software business and you
+don't want to deal with the intricacies
+of sales taex or having to integrate
+every single money related thing
+yourself I can really recommend it
+paddle made this all super easy for me
+and I use this in lots of my properties
+so go check it out it'll make operating
+your own software business much
+better last week I did a recap of my
+2024 and now that we're starting a new
+year let's look ahead at the
+opportunities and the challenges facing
+the software business world of
+20125 I want to share my insights into
+the SAS and software engineering
+landscape just from what I learned by
+being a SAS founder look at all the
+emerging Trends and patterns that I see
+and explore in my own work and most
+important
+how to leverage them whether you're just
+looking for business opportunities for
+yourself or just trying to stay ahead of
+the curve there's something to learn
+from all of these things the biggest
+impact on how we will build and run
+businesses in 2025 will definitely come
+from agentic Ai and I know this is a bus
+word that everybody is talking about AI
+agents and I know it's annoying and this
+is probably one of the 20 times you've
+heard this already but it doesn't feel
+like a revolutionary shift from what is
+already out there especially if you're a
+software developer and you're used to AI
+coding assistance and that kind of stuff
+but I believe we're about to see a major
+leap here in just the capabilities of
+the systems and what comes out of this
+when people discuss agentic AI they
+often use like these trivial old school
+examples like ordering flights or pizzas
+and these examples remind me of the
+first Bitcoin Pizza purchase which is
+almost a meme at this point and Bitcoin
+itself recently crossed the $100,000
+Mark and that make the whole thing the
+purchase of that pizza a half a million
+dollar Pizza in retrospect which is fun
+and it kind of gets you views if you
+talk about it but this pizza example
+undersold bitcoin's potential clearly
+and reducing AI agents to simple task
+automations also misses their
+transformative power so let me share
+maybe a more compelling example that I
+recently encountered on the TED Talks
+daily podcast that I occasionally listen
+list to maybe not every day but
+occasionally and that day I listened to
+an episode about ai's application in
+biotech specifically Alpha folds protein
+folding simulations for drug Discovery
+it's very specific but that made it so
+interesting because currently
+pharmaceutical companies employ teams of
+researchers who might spend years
+studying a single proteins properties
+just to get it right just to understand
+that like there are whole phds written
+about one individual kind of thing one
+pro protein and its properties the
+podcast revealed that AI can accomplish
+what takes a human years the same task
+in minutes now and this isn't just about
+speed either it's about scale because
+when you can replace years of human
+research with minutes of computation and
+then parallel process thousands of these
+tasks simultaneously across these GPU
+clusters that everybody is building well
+the implications all of a sudden become
+staggering those 23 drug researchers in
+a company they aren't just being
+assisted by AI their entire workflow is
+being transformed and the AI systems
+never sleep they work thousands of times
+faster and they continuously
+self-optimize through incredibly tight
+feedback loops imagine this with a
+person right takes you a year to figure
+out the protein folding and everything
+you learn in between you can apply to
+the next year Well in AI can do this
+within minutes and learn and learn and
+learn much faster this computational
+power enables a fundamental shift in
+approach instead of developing generic
+drugs for broad populations like we have
+right now we can soon imagine and maybe
+expect hyper individualized medicine
+imagine AI agents designing treatments
+specifically tailored to you to your
+individual biochemistry and the illness
+you may be having running thousands of
+simulations in parallel for millions of
+people like you at the same time the
+pharmacy after future might not even
+stock generic medications anymore but
+rather synthesize personalized treatment
+on demand and on the Fly that is crazy
+to think about just coming from a world
+where this does not exist but it could
+well be a reality and agents can do
+things like this the transformation here
+is not limited to biotech as a developer
+I've already seen how AI has changed
+coding my own coding workf flat like
+tools like cursor GitHub co-pilot they
+have eliminated the need to manually
+trans at my mental models into code line
+by line that era I feel is gone and I
+don't think it's ever going to come back
+unless you count artisanal coding or
+stuff like that and there will be room
+for that there will be a place for this
+but for a capitalist society that is
+driven on efficient process and creating
+things cheaply quickly that era is over
+we'll never again write code without AI
+assistance unless we have a an
+outstanding reason to do so and what's
+particularly exciting is the decreasing
+size of capable language models when we
+started out with this whole large
+language model thing like a year and a
+half ago which is also crazy that this
+is just like a year and a half old
+really as technology hitting the scene
+everything was massive right the chat
+GPT was sitting on a massive closed
+non-public model and there weren't any
+models to play with and then all of a
+sudden meta made the choice to release
+the Llama model and mistra released
+their model and there are so many
+smaller models that just started
+proliferating and people started
+training them and learning from them and
+building new ones and all of a sudden
+they're becoming smaller but they retain
+the power of the big ones it's really
+cool we're moving from this Cloud
+dependent solution that we used to have
+and still do in terms of scale from any
+processes to local processing which
+becomes easier and easier because gpus
+now become a thing that many hosting
+providers think they might need to
+attach to their servers all of a sudden
+you can run a GPU based model on a web
+server because they offer these now and
+the prices are coming down as well
+because scale hits right economies of
+scale so when AI first hit the scene we
+all relied on these big apis open Ai and
+chpt and even anthropics claw still big
+apis now with tools like llama CPP and
+ol llama tools that I use in my product
+myself you can run these sophisticated
+models locally on your own hardware and
+under your own control this shift
+towards Ed Computing brings greater
+privacy like nobody gets to see your
+data you can do tenant isolation like
+your model is not using your other
+customers data when you want to do
+something for one particular customer
+the data security improves with that and
+independence from cloud platforms and
+how quickly they can pull the plug also
+increases that's a net win for Founders
+for people who want to have control over
+that technology stack and for SAS
+providers this means a fundamental shift
+in customer expectations too because if
+everybody can do it then people will
+think you might want to do it anywhere
+and they will expect it in any product
+you're no longer just providing tools
+that facilitate human work that make it
+easier you're expected to provide
+intelligent agents that actually
+complete work and entire workflows
+entire processes we've been talking so
+much about jobs to be done in the
+founder world and how you want to find
+the job to be done and then hopefully
+give the person doing the job all the
+tools they need to get from A to B right
+to do the job but now we're actually
+looking at jobs to be done and think
+well can we do the full job and can we
+have an AI do it that is novel like that
+didn't used to be a way of building a
+business but now it actually might be a
+buck tracking system that just won't
+just identify issues anymore it will
+have to actually resolve them fix them
+if you look at centry that's exactly
+what they're building right they've been
+doing this very interesting thing first
+obviously they collect error messages
+right they are a back tracker an error
+tracking tool and the initial step was
+to kind of combine all this external
+information like what deployment was it
+and when did the bug start when was it
+fixed like what is responsible and
+they've been doing this for decades like
+they have code and deployment States and
+code changes and bugs and bugs that were
+fixed and data about this in probably
+the billions of examples and now they
+started building a system that can
+actually start fixing these things for
+you that create a pull request into your
+repository with what the system thinks
+is the best fix well guess what that is
+being trained on right your existing
+code base plus all the changes all the
+fixes of everybody in the past this
+system is now built to eventually
+probably automatically resolve them so
+you don't even know anymore so the
+pressure to expand from point solutions
+to comprehensive workflow automation
+will be intense for Founders this year
+and for many years to come this is not
+going to go away this is going to get
+even harder and the shift is happening
+already recently my friend Tyler tring
+is shared how he built an entire SAS
+product in 4 hours using Ai and he's a
+capable founder he's a developer he can
+build these things so what a capable
+founder developer like this can do today
+anyone will likely be able to do next
+year even less capable Founders and less
+capable developers the barrier to entry
+for creating software products is
+disappearing even the job of the
+software engineer is threatened by this
+not the people's skill set and the
+capacity for them to find a job I think
+that will still be there it's just going
+to be something different you're going
+to be an orchestrator more than an
+implementational list right that's the
+difference now the AI agents will do the
+work for you and you just check if what
+they're doing is good not right
+correctness is not the problem but good
+like something that is qualitative
+something that you cannot infer that
+judgment will still be the the task of a
+human being at least for the time being
+I don't know what I'm going to say next
+year maybe there will be AI smart enough
+to actually do this already but let's
+just say the execution will be AI ified
+in almost anything that has to do with
+Computing computation so you better keep
+your eyes on that and look for
+automation opportunities because people
+will expect them and they will pay money
+for it and counterintuitively here as
+automation increases the human element
+becomes more crucial right our capacity
+to judge
+in a world where AI can spin up a
+competing product in hours well trust
+and human connection actually become key
+differentiators for you and your brand
+I've seen Founders succeed by building
+in public and sharing their journey in
+maintaining genuine relationships with
+their customers against an onslaught of
+competitors and copycats and clones
+people still seek the original because
+that's a person they can actually trust
+not a nameless something that is just
+churning out these copies your about
+page your public presence your authentic
+voice these become competitive
+advantages now when customers can choose
+between dozens of functionally identical
+products they will choose the one and
+they have chosen in the past they will
+keep choosing the one with a real
+relatable human behind it as the
+software becomes increasingly automated
+and that is what we will see being
+visibly human might actually be your
+strongest defense against
+commoditization through Ai and of course
+this too might change if AI agents start
+handling software for acquisition if
+actually a company has an automated
+system negotiating prices and features
+while customizing Solutions in the
+background I can see this I can see big
+companies actually trying to find an AI
+agent to buy their tech for them to
+negotiate you into Oblivion so we will
+probably as software Founders have sales
+AI agents that have to then fight with
+these purchasing agents and have like
+millions of messages and negotiation
+tricks Exchange second or something it's
+going to be pretty weird but stuff like
+this will exist but for now at least for
+this year Human Relationships remain
+crucial to business success and whether
+we embrace it or not AI will permeate
+every aspect of software business in
+2025 it already is it already is so
+present right in our community clearly
+but if even our Boomer parents talk
+about chat GPT and use chat Bots like
+how could it not be in the whole world
+of software businesses and everything
+they facilitate so our customers
+expectations for all generations will be
+shaped by the best AI powered
+experiences out there and the question
+isn't whether to adapt but how to do so
+while maintaining the human touch that
+makes our businesses
+unique so yeah that's 2025 for you at
+least my interpretation of what is to
+come thank you so much for listening to
+the bootst founder you can find me on
+Twitter at avit k and you find my books
+on my Twitter Co there too if you want
+to support me at the show please tell
+everybody you know about pocan FM and
+leave a rating in the review by going to
+rate thisp podcast.com founder makes a
+massive difference if you show up there
+because then the podcast will show up in
+other people's feeds and any of this
+will help the show thank you so much for
+listening have a wonderful day and
+bye-bye
+[Music]

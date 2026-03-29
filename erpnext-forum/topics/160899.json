@@ -1,0 +1,51 @@
+{
+  "topic_id": 160899,
+  "title": "How to send email notification on Task assignment using ToDo doctype",
+  "slug": "how-to-send-email-notification-on-task-assignment-using-todo-doctype",
+  "category_id": 6,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2026-02-18T19:11:56.885Z",
+  "last_posted_at": "2026-02-18T19:11:56.969Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-to-send-email-notification-on-task-assignment-using-todo-doctype/160899",
+  "views": 17,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 1,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Erithiel",
+  "posts": [
+    {
+      "id": 494605,
+      "username": "Erithiel",
+      "name": "Rati Gigauri",
+      "created_at": "2026-02-18T19:11:56.969Z",
+      "cooked": "<p>ERPNext was not sending email notifications when using the “Assign” button on a Task document. The built-in assignment notification was not working, and setting up a Notification with Document Type “Task” also did not work because the Task doctype does not have an <code>assigned_to</code> field that the notification system can use.<br>\nUse the <strong>ToDo</strong> doctype instead of Task in your Notification. Every time you assign someone to a document in ERPNext, the system automatically creates a new ToDo document behind the scenes. By listening to new ToDo creation and filtering by <code>reference_type == \"Task\"</code>, we can trigger the notification at exactly the right moment.</p>\n<p><strong>Steps:</strong></p>\n<ol>\n<li>\n<p>Go to <strong>Setup → Notification → New</strong></p>\n</li>\n<li>\n<p>Fill in:</p>\n<ul>\n<li>\n<p><strong>Subject:</strong> <code>New Task Assigned to You: {{ doc.reference_name }}</code></p>\n</li>\n<li>\n<p><strong>Document Type:</strong> <code>ToDo</code></p>\n</li>\n<li>\n<p><strong>Send Alert On:</strong> <code>New</code></p>\n</li>\n<li>\n<p><strong>Channel:</strong> <code>Email</code></p>\n</li>\n<li>\n<p><strong>Condition:</strong> <code>doc.reference_type == \"Task\"</code></p>\n</li>\n</ul>\n</li>\n<li>\n<p>In <strong>Recipients</strong>, add a row and set <strong>Receiver By Document Field</strong> to <code>allocated_to</code></p>\n</li>\n<li>\n<p>Write your message using these fields:</p>\n<ul>\n<li>\n<p><code>{{ doc.reference_name }}</code> — Task name</p>\n</li>\n<li>\n<p><code>{{ doc.description }}</code> — Note added during assignment</p>\n</li>\n<li>\n<p><code>{{ doc.assigned_by }}</code> — Who assigned it</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Save</p>\n</li>\n</ol>\n<p><strong>Why this works:</strong> When you click Assign on a Task, ERPNext creates a new ToDo with <code>reference_type = \"Task\"</code> and <code>allocated_to = assigned person's email</code>. The notification triggers on that new ToDo and sends the email automatically — no need to manually save the Task.</p>\n<p><strong>Note:</strong> If emails sit in the queue and don’t send automatically, SSH into your server and add a cron job to flush the queue every minute:</p>\n<pre><code class=\"lang-auto\">* * * * * docker exec frappe-backend-1 bench --site yoursite.com execute frappe.email.queue.flush\n</code></pre>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/erithiel/{size}/93965_2.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 10,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

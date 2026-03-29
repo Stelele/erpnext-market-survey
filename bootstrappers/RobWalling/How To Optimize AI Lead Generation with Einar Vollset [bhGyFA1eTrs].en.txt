@@ -1,0 +1,978 @@
+﻿what I'm not going to talk about is um
+some of the sort of what I call almost
+the obvious stuff obviously like you
+know AI by AI usually we all mean chat
+GPT or at least llms and it's it
+generates text right so the obvious the
+obvious solution is you know what do I
+hate doing but I need know I need to do
+is generate a bunch of text right I need
+to write Outreach emails I need to write
+uh marketing content I need to write you
+know personalized emails I need to
+figure out you know repurpose in my blog
+post into um social media postings
+fitting it to Instagram doing all that
+stuff I'm going to talk about absolutely
+none of that whatsoever partly because
+it's sort of straightforward and obvious
+and also because it is getting kind of
+crowded that space if that's what you
+think of when you think of how can I use
+AI to help my business then I fully
+understand why you're sort of on the
+other side of this crested wave where
+what you're thinking to yourself is yeah
+this this is not that big a deal this is
+not going to change my business so
+instead what are we actually going to
+talk about I talk to Xander actually and
+he does a survey about what is the
+reason why um what is the reason why
+people come to microcom or are they
+hoping to get out of it and the number
+one thing is this group of conss here
+which relates to I need more top of
+funnel I need more leads I need more
+customers um just more stuff for my
+business I wrote all the code but nobody
+showed up effectively and so that's what
+I'm hoping to help you guys with here
+and I'm going to show you how to do it
+okay so my standard thing is just like
+if you're starting off with G with chat
+GPT or with llms or with AIS
+particularly with chat GPT my usual
+default go-to is I have a problem let's
+just ask chat GPT and see what it thinks
+right and so just for some context in
+addition to you know working with Rob at
+Tiny Seed I also a partner at a sside
+Investment Bank so what that means is we
+helped sell uh mostly B2B SAS businesses
+sort of in that 2 to 10 million AR range
+that's what we do mostly the private
+equity and so I was like okay let's just
+do it let's just ask CH GPT and see what
+it can do hello I run a salside m&amp;a
+Investment Bank I'm hoping you guys can
+see the text by the way because
+otherwise this is going to be quite a
+boring talk at the back um I've run a
+salside m&amp;a Investment Bank I'm looking
+for B2B SAS businesses with 2 to 10
+million ARR that want to sell please
+list 25 and actually that's like a trick
+for me too if you're looking for
+something ask for at least 25 if not 50
+of something because usually the first
+five qu five answers are absolutely
+super boring and predictable and then it
+gets interesting after that anyway so
+then it goes up and it's absolute
+garbage as you can see it says I can
+assist you in finding directories or
+platforms where they are listed for sale
+however identifying specific businesses
+within the requested Revenue range may
+require more indepth research or
+potentially direct Outreach to the
+companies right and then it goes on to
+make even I mean to a degree at least it
+wasn't hallucinating so badly that it
+started just giving me names right it
+could have just done that which is what
+he was doing before with version like
+chat gbt 3 it would have just gone
+Oracle Microsoft and just like made up
+seven German software firms that didn't
+exist you know but at least now is doing
+it now it's completely wrong because
+like for a number of reasons first of
+all bis bu sell they don't even list
+software companies like if you want to
+buy a chain of you know gas stations in
+Oklahoma bisb sells your place it's an
+amazing for that similarly flipper flipp
+is great but if you have a 5 million AR
+SAS business like if one of your friends
+is listing their 5 million AR House
+business on flipper then they're making
+a mistake and they should call me
+instead so and and finally like if
+they're already on Flippa or bis by cell
+or you know some of the other places
+well then they probably already that's
+too late for us you probably have a
+similar problem right you probably know
+when a big potential lead for you
+becomes a customer of someone else and
+and sort of picks your competitor but at
+that point it's too late right they've
+already made their choice you wanted to
+know that they were in the mood to
+purchase before they actually made their
+purchase decision so that you can
+influence it in that
+way all right so why does this fail in
+general this fails because llms are
+extremely extremely bad at like all the
+questions if you ask it things like give
+me all the whatever it is some sort of a
+produce some sort of exhaustive list or
+a long list of things is extremely bad
+at it because that's not the kind of a
+system it's it's set up to to create
+it's set up to basically pleasingly
+provide the next you know token or text
+um or word that humans like that's what
+it's good for it's really bad at things
+like all the questions so don't ask
+questions like that and then finally
+even if it wasn't uh bad at this the
+information simply isn't out there what
+are we doing
+now okay so my first thought was all
+right so I have a list of SAS companies
+I can figure out if they're SAS
+companies that's reasonably
+straightforward right you guys can
+probably if you look at a website you
+can probably go like this and go yeah
+that looks like a SAS company like it
+typically has a pricing page it does all
+this stuff so finding a list of SAS
+companies is not all that hard but the
+problem is particularly with like design
+not necessarily correlating to revenue
+how do you even know um you know that
+somebody is doing 20 million in revenue
+or 20 $20 in Revenue it's very hard to
+do right you can't find out actually so
+I'm very small some people spend way too
+much time on design and not enough time
+on marketing and sales and so their
+website looks baller but they have like
+500 in Revenue versus some really ugly
+websites I can tell you are making
+millions of dollars so that's not
+actually a good way to do it however my
+first thought was okay and actually I'm
+not going to show this because the talk
+was going to get too long um my you know
+I actually use chat gbt to help me out
+with this too the first one was like
+okay let's just do a heuristic let's
+just say okay let's use builtwith and
+builtwith is basically like a search
+engine if how many here know builtwith
+do you know what it is okay most of you
+good so for those of you that don't it
+basically just means like what are the
+technologies that are installed on the
+various websites it's like a search
+engine but not for content right and and
+one of the things that it does is it
+includes this spend estimate so it
+basically says all right we know roughly
+how much various software cost we know
+what you know is installed on the
+software um on the website that gives us
+an idea roughly how much money they're
+spending on software each month the
+thesis is you spend more money on
+software maybe you're a bigger you know
+AR Mr business so genius right more
+spend bigger SAS business seems
+reasonable um the problem is it doesn't
+work and so if you just straightforward
+do that um you end up in a scenario
+where basically at best the model of
+theistic you come up with is like 50/50
+and so it's wrong half the time and the
+problem with that is at least from my uh
+business and I think for a lot of your
+guys case is that if you are wrong 50%
+of the time you end up spending way too
+much resources on leads that actually
+don't fit you know as your ideal
+customer profile it just doesn't it just
+doesn't make any sense to do so and so
+for example like particularly if you're
+doing like Enterprise sales or bigger
+ticker like items a lot of the time what
+you want to do is if you think someone
+is a very good fit for you you might
+spend a fair amount of resources on
+trying to to at least make that lead
+aware that you exist but if it turns out
+that you invest all this money all this
+effort into somebody and actually it's
+just you know a SAS company that has no
+Revenue then he wasted all that stuff so
+for us this is it just means that's way
+too much time and effort wasted on
+reaching out to two small um SAS firms
+so what do we
+do well the actual um hero of our story
+is something called chat GPT Advanced
+Data analysis how many people here have
+heard of chat GPT Advanced Data
+analysis all right keep your hands up
+how many have used it more than two
+times okay
+so three Heroes here out of hundreds
+that's about right I I thought five I
+got got with got with uh three so I I'll
+goope with that what it is is based
+basically first of all you have to be a
+paying customer of chat gbt and if
+you're not then you're being too tight
+and you should really do that um it
+gives you access you have to go into
+settings and then enable it and then you
+can when you hover over the GPT 4 you
+can do the default one which is just gp4
+or you can do browse with Bing which I
+don't know what that does and then but
+this is the one that you want the
+Advanced Data analysis and effectively
+what it is it's chat gpt's most capable
+model plus a python interpreter and it
+gives gives you this magical button
+right here this magical button right
+here means that you can upload files to
+it up to like 100 megabytes and it will
+do analysis on it so now it has the
+ability to upload files it has the chat
+GPT and it has a python interpreter
+environment that it can write and run
+coded and evaluated and this thing
+honestly is extremely
+capable and like if if your last
+interaction with chat gbt was like chat
+gbt 3 or 3.5 like 6 months ago you owe
+it to yourself to go and play with this
+thing because it is mind-blowing and
+basically for our purposes it's a little
+bit like having a seconde university
+stat student at your becking call which
+is obviously extremely valuable the only
+downside is the thing is disgustingly
+cheerful as you will
+see okay so let's just do this and like
+keep in the context of what I was doing
+again I'm just taking this approach
+where I'm like I'm just talking to it so
+let's say hello I a sside m&amp;a Investment
+Bank I'm looking for B2B SAS businesses
+with 2 to 10 million AR and then I say
+if I have a list of companies where I
+know the Mr and I know this because of
+you know Tiny Seed and discretion I have
+you know some stuff and then um and then
+another list of those same companies
+with various externally observable facts
+so these are the stuff that I just
+downloaded from builtwith right do you
+think you could help me predict the mrr
+of a given company is greater than some
+number let's
+see well first of all like a side note
+here so I actually hate the word prompt
+engineering because what it ends up
+doing is giving people writer block and
+actually programmers are the worst at
+this because programmers in their head
+have this view that like they have to
+like model things in their head and then
+precisely write things down on the page
+and that actually is is really bad for
+chat GPT and in general you should just
+start talking to it and just like
+interacting with it much more because if
+you have like this what I call the chat
+gbt writers Block it's it's actually
+worse than the normal writers block
+because with the normal writers block
+you're not producing anything but with
+chat gbt writers block not only are you
+not producing anything but you're also
+sort of missing out on chat gbt teaching
+you something that you may not know so
+rather than thinking about this like oh
+I have to perfectly figure out how to
+engineer this prompt so I get the right
+answer it's just like just talk to it
+just interact with it it's usually a
+much more productive way particularly
+when you're doing exploratory stuff so
+like I said disgustingly cheerful
+absolutely all right predicting the
+monthly Mr of a company based on various
+observable fact is a classic regression
+and classification problem depending on
+you do it here is a high level approach
+you see what it's done now I just gave
+you two things I was just like hey I
+have this problem I have this data what
+do you think can you help me and instead
+it lays out basically the six steps that
+are involved in uh running a classic
+regression and classification problem
+from scratch so it says let's do data
+preparation let's do future engineering
+let's do model selection let's do model
+training model evaluation deployment
+prediction and then obviously there's
+there's the other uh Improvement so
+let's dive into this and keep in mind
+like my background is fairly technical I
+have a PhD in computer science but it's
+been a long time since I did any of this
+stuff and so because it's it usually
+takes you a fair amount of effort to get
+up to speed to use these toolings
+directly yourself I haven't done it in
+like 10 years Okay so oh and I I'll
+highlight some of the stuff here the
+stuff in red is like me going like yeah
+I sort of kind of this is like think of
+every like red line as like two days of
+work for your competent programmer to
+figure out okay how do I do this how do
+I go to stack Overflow what the some the
+example of this cut and paste this stuff
+run it oh do I need to understand this
+blah blah blah blah blah so it goes
+through and data preparation if you've
+ever done any serious ml stuff this
+they'll tell you this is usually the
+most painful part of the whole thing so
+the fact that it just kind of does it is
+sort of mind-blowing so first it says
+I'll check for missing values which of
+course you have to do but like if you
+never thought about it then it's kind of
+hard to come up with um then we'll need
+to convert the Technologies this into a
+format suitable for machine learning
+models I mean obviously that's true you
+need to put it into a format that makes
+sense but again that line there is
+probably two days down a rabbit hole of
+stack Overflow and figuring things out
+and doing like what the hell is going on
+here and then it says all right let's
+create a binary Target variable and
+again like yeah obviously it's a
+classification task yes or no we got to
+figure how to do that but even like
+learning to understand what a binary
+Target variable is and how to do that is
+probably another half a day at least
+okay so it goes through and it just does
+it in this case it just let's start for
+checking with missing values and it says
+uh technologist has no missing values
+however Mr has 48 missing values um and
+then it suggests some options for you in
+this case I haven't shown you the entire
+stuff but it says you want to remove the
+rul or do you want to remove the row or
+do you want to impute them and I just
+say let's just let's just kind of remove
+them
+okay it moves on the feature engineering
+all right next we will like I said it's
+very cheerful next we'll work on
+converting the Technologies list into a
+format um that can be used for machine
+learning and then let's do it into uh
+something called one hot encoding
+another line there this is probably
+another days worth of my time when I'm
+like okay I have an array of texts how
+do I turn that into a format that makes
+sense for these models while it's one
+hot encoding first I'd have to figure
+that all out understand that I needed to
+do something in the one hard encoding
+and then actually do it and like I said
+that's at least half a day if not two
+and this just does it and then it says
+we'll create a binary Target variable
+let's start with a one hot encoding and
+then it just kind of just goes away does
+a little work comes back all right it
+says the one hot encoding on the
+Technologies list has resulted in 2,161
+binary features Additionally the binary
+Target variable Mr over 100,000 that was
+the threshold I sent has been
+successfully
+created
+amazing all right then and again again I
+just wanted to point out this is one
+session this is me sitting there for 45
+minutes just [&nbsp;__&nbsp;] around with it
+pardon my French and it says all right
+now that we have our features at Target
+Val we can proceed with trading
+classifier now I told it and this is me
+feeding this more data than you
+necessarily need like I told you that
+Precision is more important than recall
+in my case it suggests that I'm using a
+model that allows us to optimize for
+this metric and I cared about Precision
+more than recall anyway the fact is when
+I started this like 45 minutes half an
+hour before this this this point I I
+didn't really know what a random forest
+classifier was nor did I really
+understand that this was a decent model
+if you wanted to tune precision versus
+recall it just knows this and sort of
+just does the right thing while
+educating you in the process all right
+would you like to proceed with the
+training model and I go yes please
+because you have to be very polite to
+your model otherwise it won't behave as
+well the random Forest classifier has
+been trained and evaluated here are the
+results and then it spits out this stuff
+and I you know I like I said I I have
+PhD in computer science when I first SP
+this out I was
+like what does that mean I don't
+remember it looks good there's Precision
+there's an F1 F1 like racing that's good
+there's a confusion Matrix that's
+confusing okay but it's a little bit
+like it goes along and it says okay it
+tells you and you can just ask it this
+is why I'm saying like in general I see
+too many people like they get to this
+problem and they're like I don't
+understand this I'm going to Google it
+and then they Google the question I'm
+like what are you talking about just
+have it explain it to you and so it does
+it starts to do this and it actually
+says the Precision for the class is 100
+which means when the model predicts that
+Mr is greater than 100 is always correct
+however the recall is quite low
+indicating the model missing significant
+number of instances which is fine and
+actually like the confusion Matrix I
+think is something along the lines
+of uh How does it go I think it's like
+uh true positive predicted positive true
+negative predicted negative something
+like that anyway but the point is if you
+know as little or less than me about
+this stuff you just at this point you
+would just spend 20 minutes having
+saying like Okay can you explain this
+please as if I'm and then whatever level
+you want five high school college
+whatever and it'll walk you through the
+model and do it and actually this side
+of the gate is pretty good you know it's
+comes along and it says Fair what this
+basically means is okay this is the ones
+I'm looking for right I want to look for
+Mr more than 100,000 um and and
+precision means like if it makes a call
+and says this company is more than
+100,000 at least in the evaluation data
+set it says it's right all the time it's
+pretty good the downside here is um the
+recall is only 02 which means it misses
+80% of the ones that actually are above
+100,000 so I was like this is Sweet
+let's keep going okay so it then says
+would you like to try to fine-tune the
+model or is there anything else you
+would like to do and and again I'm sort
+of cut for times there and I say uh can
+we try an svm approach which is another
+model like in theory what you'd probably
+do here um if you didn't have short time
+and wasn't giving a presentation you'd
+be like you know tell me about the
+trade-offs of the various models and
+they would tell you about support Vector
+machines and random force classifiers
+and all the other uh different
+classification algorithms that are and
+the various trade-offs and how they were
+tunable and all this stuff and this is
+the interesting thing about this it sort
+of goes between being like an extremely
+capable tool that just executes for you
+and then at the same time when you need
+it at the level that you needed it
+becomes an educator which goes like oh
+you don't understand this piece let me
+explain it to you in the detail that you
+want um and then you can obviously ask
+it say hey I have specific example I
+have this this this you know can you use
+that as the example or the explainer for
+me so then it goes through and it says
+let's just do that let's just switch to
+an svm model and train it and it goes
+okay it's done and again it's been
+trained and evaluated again like this is
+me just saying yes clicking a button and
+it builds the svm does classification
+spits out the classification report
+report spits out the confusion Matrix
+for a wholly different model and if that
+doesn't improve you impress you then I
+guarantee you you've not not done a lot
+of machine learning or training um or
+statistics really in in in real life
+okay so what I show you could do from
+Zero to Hero basically in under 45
+minutes so okay you so you think to
+yourself all right fine like this is
+great now I have a model but like how do
+I glue that how do I get it close to
+something act usable and here's another
+thing with this too because you can
+download files no you not only can you
+upload files to it like whatever it
+produces it can produce a download thing
+for you so what I said was okay let's
+proceed can you give me all the files I
+need in order to just run this like okay
+we we did this thing we modeled it out
+you know I'm not going to call chat GPT
+every time I need to do this
+classification how do I just do this
+locally and it says absolutely oh
+certainly in this case to make it it
+easy I'll provide you with the following
+files model file serialized version of
+the train model feature names a way to
+basically one hot encoding the new data
+and a python script to run it and then
+it explains what the script will do and
+then let's write it and then it's been
+created here you are and you can hardly
+see the download
+link that's pretty
+cool that's like okay so I was just
+fussing around I gave it some data we
+played around with it it it teach taught
+me some stuff that I didn't know and
+then it gave me uh something that I
+could just run so now I can come along
+and I can say we have 40,000 SAS
+companies in our database I could pray
+built with to give me the list of
+Technologies installed of all of those
+and then just run this model on my local
+database and now I have a pretty good
+idea of which SAS businesses are over my
+threshold in this case 100,000
+Mr for me that's obviously super
+important because of the kind of
+companies that I care about and the key
+thing here is like what actually just
+happened here like it's worth stopping
+and pausing and thinking what actually
+happened and what actually happened was
+chat GPT used Python and the files you
+uploaded to solve this problem right and
+like specifically how it did it you can
+just look like you just take a look and
+you can say Well it imported the SK
+learn models uh it imported the random
+Forest classifiers it got the
+classification port and the confusion
+Matrix and this is how it actually run
+it and this is important because a lot
+of people the reason why they're
+dismissing chat GPT at the moment or
+similar models is they're saying like oh
+um but it's just hallucinates things I
+can't trust it if you're an expert in
+the field and you ask it about the field
+you you'll know how stupid it is I'm
+like yeah but this is not the same as
+that this is an imp precise sometimes
+but very capable tool using a very
+precise tool and so the stuff that comes
+out of it the files that you download
+from chadis model are not we're not
+going to hallucinate they're sort of
+deterministic or at least more
+deterministic than chat GPT is more
+importantly
+though conceptually what
+happened conceptually we just spent 45
+minutes is and 17 cents is to get
+results that usually I never see unless
+this business like a SAS business has 10
+million AR or more in some cases I deal
+with 10 million AR businesses that don't
+have this kind of capability because
+what do they need to do it this isn't
+product features right so you can't like
+imagine taking your current developer
+even if you're a developer and say oh
+just start doing this stuff well they
+might figure it out in a couple of weeks
+but your feature development grinds to a
+halt so basically what you're going to
+need and usually is like you need a data
+analyst or two you need you know budget
+to P pay for for bi tooling and then it
+starts to get into like expensive
+sounding Enterprise software like ETL
+and data lakes and all this stuff and in
+fact in Tiny Seed we tell people people
+like it's a good indicator that you can
+charge people more if they're using this
+kind of tooling and that's true because
+it's a very expensive thing but also
+crucially you need dedicated time to
+solve this issue which if you're like
+99.9% of boost sters is you don't have
+dedicated time to do anything other than
+sell the [&nbsp;__&nbsp;] out of your product and
+build more features right and the
+average bruise Trapper has none of that
+but you don't actually need that now
+like you can have the equivalent output
+of like a half a million of a year
+budget data tooling for 45 minutes and
+17 cents and a bit of knowledge which I
+think is pretty cool okay so you might
+tell yourself well I'm not an investment
+bank I don't need to predict SAS Mr um
+just because you're being obnoxious and
+I can say well okay but you already have
+like basically what you're looking to
+for this particular use case what you're
+looking for what is the hidden what is
+the hidden variables what you're looking
+for and a lot of the time like can you
+predict which of your Lees look like
+your best stickers or biggest customers
+right you already have customers like
+you you definitely have some that you
+prefer over others maybe they pay you
+more they stick around longer well can
+you build a model that predicts which of
+your big group of leads look more like
+those and focus your efforts that way
+can you predict and prevent turn based
+on user action can you predict and
+improve you know what is your freed paid
+the conversion Based on clickstream data
+can you uh predict what is the most
+likely upsell opportunities among your
+existing customers there's a lot of
+stuff where basically what you're doing
+is um there's some hidden information
+that if you somebody would just tell you
+your life would be much easier well with
+chat GPT and this Advanced Data model
+you can basically build a model that
+predicts that hidden data so in the T of
+just being able to say what's what's
+wrong here I'm just I don't know how
+much time we have for this but like
+another example of this is pricing
+Consultants right so pricing Consultants
+are people that go in and they help you
+figure out how to make the most of your
+money and they're really expensive like
+our mutual friend um what's his name
+profit F guy who sold his business for
+200 million yeah Patrick Campbell that's
+pretty much what he did like that's why
+he sold for $200 million because he was
+charging like $150,000 per pricing
+consultant engagement but it's very
+variable right it's very valuable like
+if you nail the pricing you know that's
+the difference between potentially
+retiring as a multimillionaire or having
+to get a job with Google again right and
+it instantly made me wonder huh I wonder
+if chat BT could do this now the problem
+is I don't know anything at all about
+you know what a pricing consultant even
+really does so then I just started
+talking to it all right so I was like
+let's do this your highly paid pricing
+consultant focused on SAS educate me on
+the demand curve and then I get some
+stuff like clearly like I did this
+before okay certainly the demand graph
+is a graphical representation of the
+relationship between the price of a good
+good or service and the quantity
+demanded blah blah blah in the context
+of SAS the demand curve can help you
+understand how changes in price might
+impact the number of subscribers when
+you plot the price blah blah blah it
+goes through right and then it says here
+are some of the concepts that you may
+want to know luckily for you guys you'll
+get these slides so you don't have to
+read it all now but it goes into
+Concepts like elasticity of demand which
+is like how sensitive is the uh customer
+to price shifts in the demand curve due
+to various external factors determinance
+of demand prices rated Goods taste
+experience expectations number of
+potential consumers all that stuff for
+SAS companies understanding their demand
+curve is crucial it helps pricing
+decisions forecasting strategizing for
+example if SAS company knows a is
+elastic it might consider low prices to
+significantly incing prices would you
+like visual representation and I was
+like yes I would like a visual
+representation so I click the button and
+it just tells you here are the various
+I'm going to skip across this guy here
+are the various kinds of demand curves
+along with corresponding Revenue curves
+linear exponential parabolic logarithmic
+they basically look like this now if
+Patrick like this graph here was like
+the money shot in any report that came
+from Patrick's firm like you paid
+$100,000 you were getting this kind of
+thing and it basically shows
+here's the um let me get make sure I get
+this right the demand curve is the blue
+one it goes down um and then the price
+goes up and then the red one is the uh
+is the um um the red one is the what are
+you here Revenue curve so you end up in
+a scenario where like how do you Max
+where do you maximize revenue for this
+friend well the right price is 50 right
+it's a pretty linear the intersection
+here the curve the red curve is the
+highest okay like I said I didn't know
+very much about pricing consultant but
+even I can figure that out the best
+price for this kind if you if this was
+exactly what your demand looked like the
+price the right correct price is 50 to
+maximize revenue and then you have
+different ones like here's an
+exponential decay one where basically it
+falls off much faster in that case the
+right the right one is is 20 bucks um
+you come along because the top of the
+curve is here is now on this one and
+then there's different demand curves of
+different ones again now I'm being
+educated about pricing Consulting right
+I'm looking at different demand curves
+and you might again think to yourself
+that's great but that's still how many
+steps is that away from um you know how
+many steps is that away from actually
+doing anything with my data and my
+customers like don't I still need a
+consultant for this like yes I've
+learned some stuff but like this feel
+still feels like there's like a
+gazillion different steps before uh I
+actually uh get any useful data and the
+answer is kind of and so instead I said
+hey can you generate me a template
+spreadsheet with real data that would
+need to be collected in order to perform
+this analysis on an actual business
+please indicate how many samples you
+need certainly like I said it comes
+along to perform this kind of analysis
+we need to this it is price point number
+of units solds total revenue date time
+period other relevant data all of a
+sudden for me this is like this is an
+achievable thing right now I have a in
+by the way here's the spreadsheet with a
+template that I'm going to need to do
+analysis on your specific data all of a
+sudden now I've gone from do I spend
+$125,000 to Patrick
+Campbell or do I figure out how to fill
+out this spreadsheet and then F feed it
+back to chat GPT you know I think at
+least initially I'm going to save
+Porsche's worth of money and just fill
+in this spreadsheet that's going to be
+my
+goal
+okay
+I wonder if there are any
+questions is it safe to upload all your
+sensitive data to JB especially when
+you're uploading files so that's a good
+question it's quite com it's quite a
+common question the way that I think
+about it is as follows you're doing this
+all day any day anyway like you're
+you're taking sensitive data and storing
+giving it to third parties which have
+computers on the internet all the time
+it may feel different because you sort
+of feel like there's some sort of an
+intelligence that understands your data
+and like feels like it's more like
+giving it to this other person but
+conceptually it's no different giving
+data to chat GPT than it is to giving it
+to S3 or Amazon S3 and you know you can
+even just straight with the API and
+stuff you can say Okay opt out a
+training data which is you know using
+your data for training which is probably
+the only way I think that data can leak
+out but equally like you can go instead
+of going on uh just chat GPT if you go
+on Azure you can have like the
+Enterprise version of chat GPT which can
+be like Hipp compliant sock compliant
+whatever ISO number makes you you know
+happy um so so actually no I don't think
+I understand the question and like it it
+it I get it often but
+realistically you're giving data to a
+third party with computers on the
+internet that's been going on for at
+least 25 years so no I wouldn't be too
+worried hi uh thank you very much for
+that talk it was really AES awesome
+thank you I want to know with this model
+that you created did you actually use it
+and has it been successful so yes I am
+using it at the moment and basically it
+allows me to prioritize like I said we
+have these 40,000 models and right now I
+I I haven't bought enough credits
+unbuilt with yet to to fill out more so
+we ran it on about 5,000 of them but
+yeah I'm using it and actually one of
+the things that the key thing really for
+this kind of problem is you got to
+figure out where examples are sort of
+and so I for example had like 200
+companies where I happen to know the Mr
+you guys probably have like customers
+where you know how much they're spending
+and so you can use that kind of data
+another data point that someone pointed
+out was in the US there was the PPP
+loans during covid which actually tells
+you how much like uh what the company
+was and how much money they got which
+basically correlates to two and a half
+months worth of salary so then you can
+estimate how big they are right so
+that's training data that you happen to
+know this now you can build a predictor
+that predicts okay how how many
+employees does this company have um
+basically I have a question for you oh
+all right so well let's say that I'm
+running a SAS company and I have 500
+customers and I want to find more like
+them do you feel like the same model
+like I would go because it's most of the
+audience here is in that space right
+that that going to built with and trying
+to match up maybe not all 500 of my
+customers but my 200 best customers or
+something like that right and trying to
+feed it into chat GPT and saying what
+technologies are they using is is that
+how you would think about it in terms of
+you would talk I would just start
+talking to chat gbt about it I would
+just be like hey and specifically the
+Advanced Data analysis I'd be like hey
+this is the data that I have hey this is
+the problem that I'm looking for like in
+that particular case you sort of need
+the positive and the negative you know
+like you need here are like 200 good
+customers here are 200 bad customers um
+and then it doesn't have to be built
+with it could really be anything like as
+long as it's publicly available data
+that you think in the larger scheme of
+things you'll be able to find for other
+prospects but built with is a good
+example um you would just basically tell
+it that like yeah this is the this is
+this is the class that I'm looking for
+this is the class that I want to avoid
+here's the data I have across the two
+can you build me a classifier then yeah
+I would do that so I'm just curious is
+there any like best practice that we
+should all be doing now to create the
+data that we can then later analyze like
+should we be writing every event to Red
+shift or whatever a system like it do
+you have any recommendations on that
+front it's a good question um I mean the
+answer is if you really optimize for
+this is yes I mean there's a reason why
+like you know the bi tools and the the
+the big companies that have you know
+teams of 20 uh doing this stuff full
+time why they use like data lakes and
+red shift and all this stuff and and
+that's effectively the approach like
+they just just sort of record everything
+and because later maybe you know that'll
+that'll be useful um I think in general
+if there isn't a giant amount of
+overhead then yeah I would I would just
+start recording a lot more data um and
+just like having available but that
+being said honestly I think most of the
+time like um most of the time
+particularly like in terms of finding
+leads like what you want to build a
+model on is not necessarily the stuff
+that's just internal to you you want to
+build a model and stuff that you can use
+on C people that aren't customers yet so
+there are things that are public data
+that you can find right because you want
+to build the reason why like you use an
+internal data set first is because you
+know the answer like it's like a cheat
+sheet like oh this is a bad customer
+this is a good customer the question is
+can you go from that sort of knowledge
+and build a model that uses you know
+publicly quote unquote unrelated data in
+order to predict whether they're going
+to be a good or a bad customer or
+whatever it is you're looking to predict
+amazing let's give a big round of
+Applause to Mr
+Anar

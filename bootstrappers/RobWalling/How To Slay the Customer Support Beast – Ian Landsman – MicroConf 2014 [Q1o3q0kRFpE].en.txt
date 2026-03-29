@@ -1,0 +1,1129 @@
+﻿[Music]
+if for those who don't know me have a
+company called user scape we've been
+making customer support software for
+about nine years we have two products
+help spa and snappy so help spa is
+downloadable as Rob mentioned that's are
+still our main product the the big
+product and then snappy is a new sass
+customer support tool I do bootstrap the
+FM how many people have heard boot cut
+the I fan whoa all right so you you know
+you might not be surprised that this
+talk will kind of be part tactics part
+minor rant so we'll see how that goes
+whoa I didn't I do it with on reboot are
+there I figured get them all screen time
+we also the discuss forums so a great
+place for everybody to check out a lot
+of really interesting boost shop or into
+discussion going on there I saw I'm a
+little bit old-school kind of like LL
+Cool J here at this big box and you know
+so I want to talk a little bit about the
+business kind of side of things and how
+customer support has directly impacted
+user escape it's kind of hard to get
+information on that I mean to to talks
+leading up Dave and Josh for actually
+really good lead ends for for a lot of
+us so to me customer support is the
+original growth hack like before we all
+got obsessed with measuring every little
+minor thing somebody touches on your
+site right like you just had a great
+product and you supported it well and
+you had happy customers and that's how
+you got more customers as they referred
+you and they brought you with them to
+their next next you know jobs and things
+like that
+so so here's our growth hacker in
+residence
+that's max my son he's obsessed with
+metrics as you can see but you know it's
+just something I like people to think
+about you know these days with customers
+we we tend to think about customers like
+this right like churn what's their
+lifetime value what's the average
+revenue per XYZ
+and we kind of lose sight a little bit
+of the human factor I kind of feel like
+we're doing this to the customers a
+little bit like I'm gonna turn them into
+the battery you know and we're just
+gonna plug them in so and that stuff's
+important but I want to try to keep I
+wish I could keep in mind you know the
+human factor so you have children your
+customers have children they have their
+own hopes and dreams desires and you
+know being your battery's not not in a
+soy on that list so try to keep a
+picture of your customers in your mind
+just always trying to be human with your
+support is really a big big part of
+great support is just being human about
+it okay so enough touchy-feely I know
+you guys are all capitalist bastards so
+we'll get into some money to start
+things off so to me the support is
+sales-ready especially for most of our
+size companies you know you're not going
+to have a distinction between your
+support channel and your sales channel
+you might have different email addresses
+or different forms or whatever but at
+the end of the day they're all going to
+be coming in to the same place and
+usually the same people are gonna be
+dealing with those so I wanted to share
+some kind of concrete examples of what
+that means and what that's meant for
+freezer escape so I wanted to look back
+a user scape from 2005-2008 so that's
+when we first started the business it's
+just me and my wife and you know we we
+didn't really know what we were doing
+essentially we have scratched our own
+niche back then there wasn't a lot of
+web-based help desk software there's a
+lot of client-server I came from a job
+where we only had three lines in a
+mainframe terminal where you could enter
+the customers issue so that wasn't ideal
+and didn't do email or anything like
+that so so we built our first product
+help spot so we had no employees we did
+no marketing we did no advertising we
+had no email list we didn't do any a/b
+testing we didn't track anything at all
+really
+the only thing we actually did we did
+have a mailing list of beta
+sign-ups 80 people I emailed them one
+time mm let them know it was that one
+and I'd never emailed any of them ever
+again we did do a little bit SEO but we
+were never never number one or anything
+like that or anywhere close to to the
+first position so we know we had no idea
+what we were doing like literally that
+was me just like working around the
+clock just trying to figure out what the
+heck we're gonna do but the only thing I
+knew is I had a product that solved the
+problem and you know that I knew how to
+support it well and so here's some
+actual numbers which I think are kind of
+telling so we did nothing but support
+the product in these first three and a
+half years nothing at all so the first
+year we we you know we made $15,000 the
+second year double you know ten ten
+times to one twenty three and I was like
+whoa cuz I only thought I'd ever make
+$60,000 like that was my goal 60,000 and
+I'm and I'm how so then 264 then 488 I
+had no idea what's going on you know so
+just to show I graph our ad spend and
+marketing spend so we spent nothing the
+the only thing we spend is in 2008 there
+fourteen thousand ten thousand of which
+was an ad on the deck which was not a
+good idea we didn't we didn't even have
+one conversion all for that so what I
+want to look at though in even more
+detail so that's kind of like the
+overview right is our first hundred
+customers because that's that's a more
+manageable size to think about and your
+early customer is kind of like what Josh
+was saying in a certain sense of the
+early customers to me are really hard to
+hold onto right these are the people who
+go through your I trashed all my code
+and rebuilt everything in two weeks
+right they go through that and they go
+through the horrible bugs that you know
+where nothing works for days on end and
+all those kind of things so this first
+hundred like I wanted to really look
+into how we held on to them and what
+that meant for us so over the past nine
+years those first hundred customers have
+submitted about seventeen hundred
+support tickets the majority of those
+summers are still customers not all of
+them but the majority and this is what
+we made on those customers in the past
+nine years
+so 2005-2006 were the first hundred
+customers initial sales $90,000 in
+licenses and then over the next nine
+years on support and on upselling of you
+know additional licenses we made another
+200 thousand dollars from those so just
+was first hundred customers so $207,000
+like to me that's kind of a quantifiable
+thing that's what our customer support
+was worth - as far as hundred people
+those people stuck with us every year
+they pay their support renewal every
+year you know we're we're helping them
+encouraging them and helping them grow
+their businesses and in turn they're
+buying more licenses and and you know
+generating additional revenue for us so
+you know it's it's hard to make the
+connection between customer support and
+revenue there's not a clean way to do it
+it's just not something easily trackable
+to say oh I helped this person and that
+equals X dollars but in an aggregate
+over this long time span that we happen
+to have I think it's a little bit
+interesting to look at it that way now
+over that time span this was our support
+volume so it kind of went up with
+revenue as you'd expect it was just me
+answering support for these first three
+and a half years so at one point we're
+doing about 400 tickets a month with
+with just me answering those and one of
+the metrics I do like to look at and
+support his first response speed so this
+is an basically how fast you initially
+reply to the customer and for the most
+part we did pretty good for companies
+kind of our size if you're under an hour
+you know that's that's pretty good
+obviously as you could figure companies
+can have a lot of support people and
+they you know you see companies that
+sometimes just a couple minutes but for
+you know if you're just by yourself
+we're just a couple people then you know
+wondering how I was really good and we
+were able to keep that most of the way
+until the end and then we hired a
+support person which is why this is also
+kind of a good thing to keep an eye on
+if you see your response speed is
+getting longer and longer and longer you
+know it's probably time to look at
+outsourcing or well the outsourcing
+support or hiring part-time support or
+full-time person and your your volumes
+and then this will come a little bit
+later as well but I just want to show
+the categorical breakdown here of the
+support we did and now remember this is
+all for help spot so this is an
+on-premise product so there's a lot of
+weird technical support
+you know Windows 2000 server weirdly
+configured with seven help desk apps and
+they're trying to try help spot also and
+it doesn't work so we have to help them
+with those those things but even so you
+can see that we have account issues and
+what's kind of like a sales category we
+use pre-sales and how-to so these are
+all things not really related to direct
+kind of support at all in terms of
+technical customer support and that will
+come up in a little bit so so how do we
+do support so we get into a little more
+kind of tactics of it and I don't want
+to I'm not gonna beat you over the head
+too hard with this but you should
+probably have a support tool whether
+it's one of mine or somebody else's but
+you know email really does break down
+pretty quick you know something gets
+marked read you then you miss it and you
+don't mark it unread because you want to
+go back to it later and actually reply
+to the person you forget to do that and
+now you never get back to them and then
+you get an email two days later from a
+very angry person because you never got
+back to them you also haven't really any
+reporting I'm you're not gonna be able
+to get first response speed you're not
+gonna be able see who's assigned things
+things like that so as you get just a
+little bit bigger even if it's just you
+and one person who works part-time at
+that point it's it becomes very
+complicated to see what they've done
+what you've done what they're working on
+what you're working on so you do
+probably want some type of support tool
+okay so for small companies these are
+the support channels I really like to
+focus on so a help site in app support
+and email so before we get into details
+on those marketing stuffy different
+marketing is not support so that came up
+in the earlier talk you're gonna be
+blogging people are gonna ask you stuff
+on the blog about hey how do you do this
+in your app that's not where you want to
+answer them you don't want to be trying
+to answer people in all these different
+places you market so that's what the
+help site comes in you want to afford
+people to the help site give them your
+email address get them into the channels
+that you maintain and don't try to be
+everywhere answering support on Facebook
+and all these other places it's just way
+too much for for really any company up
+before you get into having numerous
+support people you want to really funnel
+them into just a couple places that you
+can effectively manage those are the
+asterisk for Twitter Twitter's kind of
+an in-between so if you're on Twitter
+which I'm sure everybody is you know
+obsticle are gonna ask you questions on
+Twitter so kind of my rule of thumb is
+if you can answer them in 140 characters
+then answer them 140 characters but for
+most kind of things you're gonna need a
+more in-depth response or you're gonna
+try to answer them 140 characters and
+they're gonna get back to you and say
+well I don't understand what you mean
+and so then you have to go back and
+forth back and forth
+so again sound of the help site give
+them the email say hey just send us an
+email and we can we can then go back and
+forth properly on that in us with the
+proper space to elaborate okay so I'm
+gonna talk about help sites this is kind
+of the main content you generally want
+on your help site it's pretty early on
+you can get into a lot more stuff than
+this but detailed information on any
+initial setup so like for our products
+you have to integrate your email with
+the products so you want to have very
+in-depth instructions on that because
+that's something you're just gonna
+reference all the time people gonna be
+looking for that on their own so you
+want to have that settings is a really
+good one because a lot of times settings
+you know as a developer you just say oh
+I'll put a setting and
+you know it'll change the way the app
+works entirely you've just this little
+toggle and customers you know don't
+necessarily understand the implications
+always of those settings so I find I
+refer to settings documentation a lot so
+having having docked in settings and
+then any advice or best practices okay
+so here's some just an example help site
+a couple things here to point out you
+want to always have a clear way to
+contact support so this has been
+something I've been seeing a lot lately
+his help sites with no way to actually
+contact support so that's not good so
+you want to make sure that if somebody
+ends up on your help site and they don't
+find out the need it's very clear how to
+get to you again you don't want this
+person to say oh heck with it I'll go
+over to the competing system where they
+are willing to help me so make sure it's
+very clear how you get a hold of
+somebody it's good to be very clear also
+about where the customer is so this is
+the help site for snappy very clear we
+are they might been coming in on Google
+who knows how they got over here
+originally sometimes you may have your
+customers customers ending up on your
+support site so again it's good to be
+clear about about where the person is
+and then of course search these days
+everybody wants to be able to search so
+you need to be all those search or help
+site pretty common a couple of little
+things you want to pick a URL that
+reinforces that they're in the right
+place so help be snappy calm or maybe
+it's you know company slash support
+whatever the case may be doesn't matter
+the particulars there but just want to
+be clear about again where they are you
+know especially nowadays you'll have
+resources other places so for instance
+in our case we have support docs on our
+API those are actually in github so make
+sure you link out to those things the
+help site should be kind of central
+place where anybody can show up and
+they'll find everything you have
+available even if some of those things
+aren't you know in the help site itself
+so sending them over to github and then
+also navigation so navigation is
+something that kind of sometimes falls
+out of favor
+I'm a big fan of having specific
+navigation on the help site because
+while people tend to want to just say oh
+search for the help lot of time the
+customers don't know the proper term in
+order to do that and so they end up just
+searching randomly and they can't just
+browse for the different areas and say
+oh yes the users thought that's what my
+where my question is and it also lets
+them discover much more easily where
+again if it's just search based they're
+not going to really be able to discover
+anything this is just another company
+audiophile engineering they this is a
+help spa installation you can see very
+clear how you contact support very clear
+where to search and very clear to
+navigate so you can go into the
+documentation for each app another one
+campaign monitor so this isn't this
+particular site isn't on any support
+tool at all they just built it and also
+you could build in WordPress sir any
+other CMS these days but again very
+clear where to contact you can search
+you can navigate okay so some help site
+tips just one's gonna be a little rant
+II don't require registration this is
+one of my pet peeves I really don't like
+registration for customer support sites
+I'm already your customer I'm paying you
+money and you're putting this barrier
+between me and you and a lot of times
+I'm only contacting you rarely so I'm
+going to come back in a year and have to
+contact you again not gonna remember the
+password I'm gonna have to do go do the
+whole password forgotten password thing
+and reset my password all just to ask
+you a question I'm already paying you
+substantial amounts of money in most
+cases but to me this is kind of like a
+battery thing right like you're turning
+the customer in a battery you're trying
+to optimize for the metrics so heavily
+that you're like okay we'll just
+blockade these people until they log in
+and give us their information and then
+the most infuriating part you'll find is
+that always 100% of time if you're on a
+site that requires registration for
+support if you go over to sales you can
+get a sales email or you can get into
+whatever the sales process is with no
+registration and always or almost always
+that sales email just ends up in their
+ticket system
+so then you'll get the reply from sales
+and it's just in the ticket system and
+they just say ok and you know they'll
+move it over to support so you're making
+your customer jump through hoops that
+they don't need to jump to don't expose
+the internal metadata of of your
+helpdesk so this thing's like status
+types categories anything like that
+nobody cares so nobody cares that the
+internal status of your ticket is
+waiting for customer reply right it's
+totally irrelevant to the customer they
+have a problem they're waiting for you
+to give them the solution that's it so
+don't don't bog them down with a bunch
+of internal details and then organize
+content for customers so you see this a
+lot too with help systems that might be
+folder based in their help sites so a
+traditional knowledge base where it's
+organized by the staff for themselves so
+there's this deeply nested folder of
+information and unless you're kind of on
+the inside you don't really have any
+idea of what the proper organization is
+or where anything you need might be so
+you really want to keep it organized for
+the customer always keep the customer in
+mind they don't know everything about
+your product they don't know everything
+about the industry or the proper names
+for things often so kind of keep that in
+mind again that's where navigation comes
+in to make it easily scannable so they
+can kind of feel their way around a
+little bit so in that not a lot to go
+over in-app I think probably kind of the
+basics of this but at the very least
+here's customer i/o you want to give
+them a link to your help site and then
+probably have a way to explicitly
+contact support as you can see at the
+bottom there so very simple but just
+making sure when they're in your app
+they know how to get ahold of support
+here's so here's snappy our product and
+our we obviously use snappy to support
+snappy which is kind of handy and so we
+have a widget
+and so you know this is another kind of
+more advanced if your support tool
+supports this kind of thing it's kind of
+handy
+you can search from right within the app
+you can navigate from within the app you
+can also contact support from within the
+app so you're not actually sending
+people out to another website that can
+do it all right from within the app I'm
+gonna show off a little bit here but
+another thing that kind of bothers me is
+in support documentation you often
+duplicate yourself because you're
+writing you'll have in-app help right
+like you have a little question mark you
+know add next to form fields and things
+like that and so in your app code you
+have help documentation and then you
+also help site which has the same
+documentation and but you know they're
+in separate places you have to maintain
+those they always get out of sync with
+each other you know developers build a
+new feature and they update the the in
+half one but they don't update the box
+because they don't go over to the docs
+and all that kinda stuff so in snappy
+and shows a couple of tools I probably
+do this as well as you can see here if
+you click a link in the app that's for
+help text it actually opens up the
+widget and pulls that from our help site
+FAQ system so it's only in one place
+it's not duplicated when we update it in
+one place it's a bit everywhere and we
+don't make mistakes about what's
+documented and and have errors like that
+okay so email so email is definitely
+still king in the support world seen a
+lot of support tools a lot of new
+support tools that say we're not doing
+email any more emails old and funky no
+more email and six months later they had
+email always because customers want to
+talk to people you know talk to
+companies do email so you obviously the
+Hale email pretty much all your support
+will be email either directly or even if
+they contact you initially through a
+forum or widget or whatever that'll end
+up turning into an email conversation so
+we'll talk about the ABCs of email a
+little bit here I got this from
+Glengarry Glen Ross right so this is how
+this
+goes I think always be compassionate
+right so you want to be compassionate
+just like Alec Baldwin said always be
+compassionate so it's hard right it's
+hard to be compassionate it's really
+hard especially when you are the
+developer of the product too because
+it's very personal and when people say
+you know your app sucks and I hate you
+then take that personally like oh man
+and it's only because you know they
+couldn't find a setting somewhere right
+it's a little thing it's always a little
+thing but you know the customer gets
+upset you know you don't you don't want
+to panic alright so I'm always thinking
+this all right we're gonna turn that
+frown upside down so that's what that's
+how you think you always want to be you
+always want to have the moral high
+ground in the conversation of the
+customer so even though they're getting
+upset and using abrasive language you
+always want to think how am I gonna turn
+this customer around how am I gonna make
+them happy and a lot of times you know
+that customer you turn around that's the
+one that loves you the most
+that's the one that goes on Twitter and
+says those guys are the best because you
+turn them around from being so upset to
+being you know the magician who made it
+all made all okay um so this is kind of
+my strategy for that I pretty much
+always apologize doesn't matter if I
+should apologize like if I was wrong or
+not right apologize kind of in that
+first email back and then I ignore from
+penis so any any other kind of back and
+forth after that initial one I apologize
+and then I focus entirely on the problem
+I don't think about anything else with
+the problem and no matter what they say
+back to me my reply is always something
+helpful towards getting us to the
+solution so I ignore any front penis and
+I just say okay well check this in that
+and then they'll write back and they'll
+have checked it and they'll throw in a
+little one line or maybe that's you know
+supposed to get me or whatever but
+that's fun and I ignore that and I carry
+on and because once you solve the
+problem that's it then they're happy so
+it's all about solving the problem
+okay so replying to the actual emails
+this is how you start the reply
+to a support email a proper greeting Oh
+ease so you could say hello could say hi
+whatever you want to do but not just the
+name you know it's too too formal we're
+trying to get on a human level here with
+the customer and definitely not no-name
+or nothing at the top which I see quite
+a lot too just a dump in - here's some
+info with I can't even bother to type hi
+and put your name in or even bother to
+set the support will do that for me
+outro so the outro is where I like to
+have a little fun I stole this one from
+Chase Clements of support ops and the
+base camp support team so if you have
+any other questions just let me know and
+I'll be happy to help so you know
+letting the customer know how you feel
+more questions keep me coming and have
+an awesome Monday like just a little bit
+of humanity right like is if you were in
+person there it goes a long way because
+remember this is also sales right you
+want to stay connected to the customer
+want to know that positive experience so
+little things like that make a huge
+difference it takes no time it can be
+automated honestly but just that little
+thing is a huge help keep a human so
+another kind of practical thing is
+canned responses respond 5000 per front
+percent faster I've measured that it's a
+fact but really I mean you have to use
+care responses so but just be careful
+it's be careful with care responses
+because you don't want to be like I
+don't know if you've ever emailed like
+Amazon right like you get back the worst
+care responses it's totally generic and
+horrible and you know it's just some
+machine that turned it out and it's
+horrific so you don't want to do that so
+the the intro the greeting and the kind
+of outro to the email helped with that a
+lot and then also I use can responses
+you know not necessarily for entire
+replies so use just a paragraph right
+like be customized the beginning in the
+end but that bit of text that's like how
+you actually reset your password where
+you actually go just you know shove that
+in with a can response and save yourself
+that paragraph of typing I use them a
+lot just for links to like people always
+ask for a pricing page so I just
+insert the link to the pricing page but
+then the rest of my answer might be
+custom it just makes you way more
+efficient eliminate the common mistakes
+all that kind of stuff you know again if
+you're using a support tool I'm you also
+have other options here usually and a
+good one
+where you can for instance whenever you
+say I use the pass where it can response
+right whenever you use that can respond
+it'll also set the category of that
+request and it can set the status and it
+can you know set other fields that might
+be options in your system
+so that you can just use the can
+response hit you know update and close
+and be done without having to click all
+those off and when you're doing 400
+tickets a month that's important that's
+click saved which is money saved okay so
+I'm organizing tickets I'm not huge on
+necessarily having a ton of crazy
+organization I'm like we have customers
+and help spot who have 200 custom fields
+and then you know the support they have
+to fill in these fields in different
+scenarios and things like that so for a
+big formal helpdesk sometimes they need
+those things but for our size companies
+you know just the basic stuff is fine so
+categorize them like just like I was
+able to show you from you know nine
+years ago the types of requests we got
+that's good information to have
+especially again when you start to maybe
+get the scaling the support team to have
+some idea of the types of requests that
+come in is pretty important at least on
+a broad level I'm they also big on broad
+categorization so you don't want to when
+you go to think about categorizing you
+don't want to have 50 options you want
+you know six eight maybe ten categories
+on the outside we don't even have ten
+but just keep it simple so you can
+quickly select is it pre-sales there's a
+technical issue keep it simple so you
+can go through it fast but still collect
+that basic data I like to assign to
+individuals so if you do have more than
+one person working support in any
+capacity it's usually good to try to not
+assigned groups of people because they
+just end up thinking the other person's
+doing it and then that causes delays
+it's usually better to assign to a
+particular person and then let let that
+you know ticket be reassigned if you
+need to reassign it to somebody else to
+work on it and then prioritize so you
+know your time is kind of limited gotta
+prioritize them generally I prefer very
+simple prioritization also so urgent not
+urgent done obviously you can get into 1
+2 3 4 5 all kinds of different schemes
+but generally I find urgent not urgent
+is really all you need because there's
+either urgent the person's freaking out
+or it's not urgent and it's fine so you
+get to it you know after the urgent ones
+okay so schedule so this is mostly for
+those of you who are you know on your
+own doing support right now you know how
+you schedule these that you're getting
+back to people efficiently and so
+something you want to put a little
+thought into so this is kind of the
+schedule I I like to use first thing in
+the morning then give yourself that
+break to do coding or marketing or
+whatever work needs to be done and then
+after lunch to kind of get your
+replies so you respond to everybody in
+the morning those people are going to
+reply to you you can then get back to
+them after lunch and then end of the day
+kind of make sure you clean sweep to
+have that all all cleared out I think
+I'm trying to keep it under an hour on
+that first first response if you can
+okay so talk a little bit about scaling
+support so this was the mistake I made
+is I definitely didn't hire early enough
+for support because remember this chart
+here you see at the end kind of got away
+from me a little bit there I was taking
+us a long time to reply so you know it's
+and it's there's a lot of different
+options out there now I'd say more than
+2005 so hire somebody part-time hire a
+virtual assistant I think Patrick if
+he's here uses a virtual assistant with
+snappy so you know there's a lot of
+options and again if you know what your
+support is you know a lot of times sales
+support or a basic account issue
+how to's right those are easy things to
+bring somebody on and let them help with
+you can train them if you've been
+organized about your support over time
+you'll already have everything kind of
+ready so you can eliminate that
+low-hanging fruit you can just drop
+somebody in there and they already have
+def accuse they need they already have
+the can response it's bill you could do
+a little bit training with them and
+they're gonna be able to effectively
+reply to a pretty sizable portion of
+your customer base early on this is even
+more true with SAS apps which is I
+assume what most of you are working on
+where there's basically no technical
+support so there's nobody mailing you
+with hey my windows 2003 servers broken
+right so you know how many of those so
+you pretty much only have you know how
+do I do something a sales question and
+those kind of things which are you know
+very easy to train somebody who's not
+necessarily developer or or very
+technical
+another nice tactic here too is if you
+hire a part-time support person then
+especially think you work the mornings
+doctorly ideal so they can work just
+like a four hour shift in the morning
+then they're gonna be able to what's
+called triage your your support so they
+can go through all your support answer
+anything that they can answer and then
+they can escalate to you you know what
+they can't handle and you know they can
+still do and this will reply to those
+people so that the person can get an
+initial response okay where we got your
+issue we're working on it I've escalated
+it because you know I need to send it up
+to developers so the customer gets a
+fast reply and you can handle that then
+you know after lunch or later in a day
+and keep the whole morning to yourself
+which is usually when most people are
+most productive I'm so yeah this is why
+you know ticket organization is
+important again if you're using all
+these the the systems can responses
+characterisation faq is much easier to
+get somebody rolling very quickly and
+and for them just to even be able to
+properly support your customers because
+it's all set up for them um you know as
+you get bigger this is something I
+definitely like everyone does support so
+we do that user scape
+you know developers do support
+the support and that works out pretty
+well as well and begin with a SAS app
+you know
+normally support people are pretty early
+hires but with a SAS app if you're
+organized by your support you might not
+have to really hire our support person
+kind of early on or maybe just a
+part-time one and people more those
+resources maybe the developers or sales
+or marketing or wherever you think those
+would be be better spent so you know as
+you do scale your support one of the
+problems is that then you're kind of out
+of the loop so you know you're used to
+seeing everything and knowing what
+people are saying and what features
+they're asking for and all the kind of
+things and now you're not that person
+getting all the emails so this is really
+to me is a management issue right like
+this is about training people who work
+for you what to do so they need to keep
+you in the loop so things like bugs and
+features obviously can be logged and
+history trackers but where I see this
+fail a lot is that so they'll be
+mechanisms for for reporting up the
+chain of command problems right so
+somebody's freaking out there's a bug
+there's mechanisms for that there's
+never ever a mechanism for the successes
+so the nobody ever puts in place a
+mechanism for the support team you did
+something great or customers super happy
+so that's what you want to think about
+you want to make sure to tell your staff
+like hey when somebody's super happy
+like let me know that and you know then
+you can work that into marketing and
+testimonials and all those kind of
+things but you want to stay in the loop
+on the successes on the same way you
+stay in the loop on problems I mean you
+can use you know chat for that if your
+remote team our support tools have
+mechanisms built in that kind of let you
+do that ESCA Lee or successes as well as
+problems so different ways to do it so
+kind of the last thing I wanna cover is
+surveys so I like periodic surveys
+because I think it gives the customers a
+chance to kind of rate your support over
+a period of time so you
+depends on the business but maybe every
+six months or every year I'm not a big
+fan of surveys in each support email
+because they kind of degrade into just
+the way the people who are mad tell you
+they're mad and route around your
+support process and again I kind of view
+this as a management issue your support
+team should be able to recognize when
+somebody's getting upset it's really not
+difficult it's usually very very clear
+when somebody is unhappy so I don't like
+the idea of putting the burden on the
+customer in every interaction with you
+here's a link survey a survey a survey a
+service like that's not that's not the
+solution for that I mean if you do want
+to chalk that chalk it on the support
+side right the support staff again I've
+been handling support for ten years I
+never have a problem identifying
+somebody who is unhappy or one who's
+ecstatically happy so track those things
+on the support end okay so then this one
+little pet peeve also the follow-up
+survey a few few days later so like we
+all hate these right don't you hate
+these like when you email company and
+then they solve your problem hopefully
+and then two days later they spam you
+with a link that's like survey us about
+how we did and it's every single time
+you contact them Trier's later you get
+this email so again to me this is again
+the battery thing you're just you're
+just trying to push your issues that
+you're tracking your metrics on to the
+customer so I would recommend you don't
+do this but maybe that's just me so big
+recap time to me support is sales you
+want to think about it that way and
+always trying to be delight the
+customers because over time that's how
+you're gonna build your business those
+customers they're gonna upgrade to the
+bigger plan their business grows they
+expand people who work at those
+companies they get new jobs they say hey
+that's snappy that was the best we'd
+love that thing
+you got why aren't we using that here
+this is ridiculous you're using this
+whole other horrible tool right so
+that's how you get those referrals
+support channels help site in a half
+email
+the rest pretty much ignore and maybe
+the exception of Twitter and be
+organized scale your support early
+thanks man who's about to speak he was
+up on a mountain about 36 hours ago and
+acquired a ticket from someone who
+wanted a refund and this is his only
+change of clothes because he was he
+literally as in hiking gear
+so after this come up and I have some
+t-shirts I can give you take up a
+collection regarding the email I totally
+see everything about that but do you
+still do a telephone support and how do
+you match the telephone support with all
+the kind of the tagging and all that
+with with the email support yeah great
+question
+so telephone support I I in certain
+industries you definitely you definitely
+need it so with help spot we do
+telephone support how we handle it is we
+actually use a Ruby which is like
+receptionist service and so primarily we
+let them answer the calls who's gonna
+have enough people to live answer phone
+support so we let them answer the calls
+and then they send us like either a
+description that they type out or
+voicemail and then we'll call them back
+so that's the primary way we handle that
+it really is pretty effective I know
+it's kind of fallen out of favor doing
+phone support so I didn't spend a lot of
+time on it any time on it but but if you
+use a system like that where you time
+shift it the way you can time shift
+email then it is much more doable for a
+small company and especially if you're
+selling anything kind of
+enterprise-grade I think that it's it's
+important honestly not many people
+actually call you so it's a nice
+addition certainly if you've like a
+tiered plan it's an obvious thing to say
+and you know three tiers up is phone
+support and then tracking wise again we
+with the support tool usually you can
+just tag it as phone or some will have
+like it helps out there's a specifically
+way to tag it phone versus email or
+something else so you could tag it that
+way and then we're able to track it and
+was this enter a short description and
+tag it as phone great question
+there's another question
+sorry how do you avoid the feelings of
+personal you know like getting attacked
+or something and how do you avoid
+ignoring email support right well you
+know it's um it's tricky I mean honestly
+in a user Escape we've really only had
+one truly bad customer in all nine years
+where they were just just bad to work
+with so everybody else is like they're
+just frustrated so I think you just have
+to really keep that in mind like you
+know you know what it's like right on
+the other end where you're trying to fix
+something you're trying to do something
+the tools working against you and you're
+just frustrated by it so I don't have a
+particularly basically my motivation
+really is kinda like I said like if you
+focus on turning them around and making
+them happy then at the end of that
+conversation it's gonna be it's gonna be
+good like they're gonna be happy you're
+gonna be happy usually it's not even
+something that complicated usually need
+a small thing oftentimes that kind of
+people fly off the handle about so if
+you kind of stay focused on the end so
+just you know stay focused on fixing the
+problem is always the main thing because
+if you fix the problem they're gonna be
+happy so fixing the problem and then
+yeah just kind of focusing on the end
+game the long-term value of turning this
+customer around first taking it personal
+and you know getting down into an attack
+back to them or even getting rude with
+them so a lot of people off second I go
+all the way back to attacking the
+customer but it's a very fine line to
+even just getting a little bit rude like
+when they're rude with you and you just
+you just get a little bit rude back with
+them that's bad because then they're
+gonna really be upset right and then
+you're gonna have a situation that even
+if you fix the problem they're not gonna
+be happy anyway because you were rude to
+them so if you just stay above that then
+when you fix the problem you know you're
+gonna be golden we have time for two
+more so as one of the people I've come
+across that has not doing SAS support
+and so you're like you said you have
+users using your software on Windows and
+you have technical support questions
+about server this server that so we're
+in the same boat desktop software and
+99% of our technical support questions
+require a lot of domain knowledge you
+know like Windows this one is that when
+it's not working this that right how do
+you bring on you support staff give them
+a crash course on all this you know it's
+a huge domain knowledge right
+it's a there's not an easy solution
+really uh-huh so it kind of comes back
+to whole team support really for us so
+like since the developers do support and
+they're not kind of separated out as
+people who don't do support you're kind
+of have to get a two-for-one in that
+when you're a small size company so you
+have a frontline support person usually
+who can handle all the simple stuff and
+then they're gonna have to escalate to
+somebody more more domain knowledge when
+you get into those tricky things where
+it just requires somebody to to be who
+knows about you know Windows XP and
+there's not really good way around that
+um the best way around that though is
+like to make sure you just stay up with
+those bugs right cuz a lot of times it's
+bugs or it's not really a bug right but
+it's at this gray area where it's not
+their fault but not your fault it's kind
+of weird so those things I always like
+to make sure we fix those because then
+at least you know you never get that
+weird one again and just trying to stay
+on top of it that way but yeah it's you
+know it's hard to the nice thing about
+doing that ways in terms of having
+developers do support is it is very
+tricky to hire developer for only
+support it's not a lot developers who
+want to be only a support person so if
+you have that model where okay like
+they're doing some support and maybe
+they're taking an hour their day and
+doing some support on the flip side
+they're still getting seven hours of
+development time so it's not so tricky
+to find somebody for that scenario as it
+is when you're just trying to say okay
+you're your professional developer but
+you're only gonna do customer support
+eight hours done for a self-funded
+startups do you see me think for a while
+and wrong with posting like office hours
+and adhering to them saying Monday
+through Friday 10:00 to 5:00 or 9:00 to
+5:00 that's one will answer support
+questions absolutely not you definitely
+want to do that for sure so we do that
+9:00 to 5:00 Eastern and you know we
+sell to UConn and huge corporations and
+you know they're fine with that like you
+know you're occasionally I come across
+the customer who's like hey we need 24/7
+support and you can't you can't do that
+so I definitely don't want to promise
+that because you know for sure they're
+gonna need support Sunday at midnight
+and you're not gonna be around and
+they're gonna flip out but you know with
+few exceptions the police'll on your
+product but in our case you know
+helpdesk is something that is heavily
+utilized right so we have HubSpot
+customers with hundreds of staff and
+they're using it 24/7 365 and you know
+we still only have support 9:00 to 5:00
+Monday through Friday and you know it's
+really never been an issue so definitely
+wanna be honest about that and I don't
+think it's a problem at all to set those
+expectations for a couple it's again Ian
+alright hit me up later

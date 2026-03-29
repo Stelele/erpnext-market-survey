@@ -1,0 +1,356 @@
+﻿I am excited to show you this podcast to newsletter automation.
+We're going to go from a full on list of shows, all kinds of hundreds of podcasts
+To a fully automated AI-generated email that is drafted and scheduled
+On kit.
+com, formally convert kit, ready to be sent to any list you like.
+This is going to be fully automated.
+I'm going to explain the whole process, the whole workflow that I have here on N8N.
+How we get to the data, how we get the data in here, where we store the data, how we generate the email, and how we dispatch it.
+So buckle up
+Because this is going to be a lot of stuff.
+We start on PodScan.
+I created a list on my PodScan account that is just like newsletter ideas, right?
+Because I want this to be a newsletter of the best ideas of all the podcasts out there.
+That are interesting to digital entrepreneurs, software founders, people like me, pretty much.
+So I created a list on PodScan through search, through going through a list of demographics, going through the charts, and this
+probably warrants a video in detail, or by just going to the lists page and having my list builder create an automated list of all kinds of interesting shows.
+That contains at this point over 200 episodes or 200 actual podcasts with many, many episodes that are in the whole entrepreneurship AI space.
+That's pretty much what this is about, right?
+There are shows like The Vergecast, Today Explained, just news shows, shows with interesting topics, The Daily, Acquired, software shows, Market Huddle, Marketing Shows, all kinds of shows on here.
+And on PodScan, I have this list.
+Set up to send a webhook to this location.
+And this location is where N8N starts.
+This is sending to my N8N cloud.
+Obviously, by the time
+that I said this video the webhook has changed a little, but the idea here is that for every episode that is transcribed
+I get the full transcript of the episode and some additional information sent to this webhook.
+And that's where we get into N8N.
+I created a project, a workflow, and N8N, and it has two components pretty much.
+This one up here, which is the
+Webhook coming in, we generate a summary, we save it somewhere to a sheet, I'm explaining in a second.
+And then a much larger one that is a scheduled one that actually generates the email out of all these summaries.
+Now, when
+Webbook comes in that contains the full transcript here.
+I take the transcript, I have a prompt, I put it into the prompt and generate a summary and I save it to a sheet in Goog
+This is in my Google Sheet page here, and whenever something comes in and gets properly summarized, I send the full data here
+to this particular sheet in my Google Sheet.
+Like this is just a full summary with some data.
+I'll dive into this in a second.
+And once a day goes by,
+And the lower workflow gets executed, that also saves that email to a sheet, but a different one, that would be the episodes one.
+So this has been the last couple of days, and this says the full email is saved in here as well.
+It also dispatches it into kit, into the actual broadcast page, you find it probably here.
+Yeah, drafts it there and then sends it out an hour later.
+That's the whole workflow here.
+So let's dive into this.
+Let's dive into the webhook here that takes in the path.
+It's a post request to this webhook.
+And it I have some data pinned here for test execution, so I can test this whole thing in my workflow.
+You get an episode transcript.
+That is the data model that comes into the workflow from the webhook.
+And you get some other information like audience size, like Spotify ratings, rankings, like how many episodes we have in the database
+If there is like a URL for the podcast, the name for the podcast can explore all of this data as it comes in.
+But the most important part for us is the transcript here.
+So we take that transcript and we go to
+OpenAI for which I have a credential on N8N.
+We message a model, and this is O3 Mini because it doesn't need to be the full O3
+That would be quite expensive if there's a lot of stuff coming in.
+If you have a list of, say, ten thousand podcasts that you monitor because you just want every single podcast in an industry.
+And you pay for every single time that's got summarized.
+So you choose the model that works best.
+I usually use O three Mini or 40 Mini, like either of these works for me, but O3 Mini it is for this one.
+Then I have an extraction prompt
+And this prompt really is just describing to O3 at this point, you're supposed to extract actionable business ideas from this.
+Then this is the data that's coming in in the JSON object.
+I just describe it roughly.
+The O3 is capable of pulling this information out by itself.
+The task is to analyze and identify up to three distinct business ideas that are interesting, discussed, implementable, relevant, all of that.
+I give it some special
+insights into what I think the audience of software entrepreneurs would be resonant with.
+Then I tell it to extract these kind of things
+the idea where to find it, where to find it in the the timestamp, in the episode, quote if possible, how it could be best implemented, just pull stuff out of the
+the actual conversation.
+Then I categorize it by model, implementation difficulty for whom it is, what kind of founder you would be, give it some scoring metrics internally so it can score these ideas, pre-score them for later
+And then I give it a well defined JSON output format that I want every single one of these summaries to look like.
+So I can later just send them all over and they have a normalized schem
+That's kind of what this is about: giving the scores, the idea, the summaries, and all that.
+And then I put from this data here, from the webhook, not from the headers, but from the body, I just pulled in all this information, like where
+The episode title lives, the podcast name lives, the transcript, the description, the score, the reach score that PodScan also supplies, which is a number
+between zero and one hundred in terms of how much reach does a podcast have.
+Name of the publisher, the actual URL.
+And for this I had to sometimes I have a URL for the episode, and sometimes it's just the audio file for the episode.
+Either way, I pull it in, the podcast URL, the website of the podcast, and an image for the the thumbnail.
+I pull it in, I don't really use it because the markdown is kind of rough.
+with implementing Blink images and showing them in a good format, but I pull it in anyway and save it.
+So there's a couple of guidelines here.
+If you don't have three ideas, just return however many you find.
+Prioritize interesting implementations over vague concepts and so on.
+I can make this prompt available.
+If you're interested, just hit me up.
+But the whole idea is: here's the data coming in, here's what I want, here's what I want it to look like.
+Create that summary.
+That summary then gets created and I save it to a Google Sheet.
+I have a sheet here, obviously.
+I have a sub sheet
+On that document where I want this to be in.
+And then I mapped columns: the podcast ID, episode ID, data created at, that you'll see here, right?
+If you go back here, podcast ID, episode ID, data created at, you pre-create this sheet.
+And it then can pull it in.
+And then you just batch these things properly.
+JSON message that's obviously you can't really see it here because I don't have like pinned data here, but all of these batch
+and they get written into the database.
+And that is this webhook that gets executed all the time.
+And if you look here
+Like they take roughly thirty seconds, and this one has been executed four times over the last couple hours.
+There's just new episodes coming in from the webhook, from PodScan.
+New transcripts, full transcripts of these shows.
+And well, yeah, that's that.
+Let's go back in here for that one.
+That just saves these new items to the list.
+These four have come in over the last couple of hours.
+And now let's take a look at the one that runs once every day, that schedules the daily email.
+First off, we have a scheduled event, pretty much.
+That's a daily
+One day between triggers, every day at 8 a.
+m.
+, I want this to run.
+And it does.
+It grabs the summaries, which means it goes to the Google Sheet.
+Goes to the document, it does the get row operation, it pulls all the rows from the ideas document and the data sheet, and I want them all, right?
+I have
+This one set up the data location in sheet here.
+Detect automatically for range definition and read rows until last row in sheet.
+I want all the rows here
+Because what I'm gonna do is, I'm gonna take all of these, I'm gonna combine them into one document or one data object, gonna feed that into OpenAI
+And then I'm going to move all of these into the archive.
+The archive is all the rows from days previous.
+I'm just going to copy them in here, and I'm going to remove them from this thing so that the next day
+It can just take all the rows again and has all the fresh rows.
+That's the idea.
+So I take them all.
+There is an aggregate summary step, which is just the aggregator.
+Pulls all of these data fields into one big object of many data fields.
+So that can be fed into the
+open AI system like in one big gulp.
+Before we get to this, archive all summaries is pretty much just append rows
+And I take all the rows that come right out of this get row thing and put them right into the archive sheet.
+It's really what this is.
+Like it's just a mapping of the row row to row
+I take one row, move it to the archive.
+Take this row, move it to the archive, and then it does them one by one as they came into the workflow here.
+So that is my archival option that happens before we send the stuff to the
+API, because once we get the OpenAI created email, we actually save the email to the sheet, which is
+You know, you append a row in ideas, this time in episodes, you match the date and the data, and you just write it in there.
+And then we remove all use summaries, which is we go to the data sheet in the
+ideas document, we delete all the rows starting from row number two to one hundred market million or so.
+It just deletes all the rows.
+That is kind of the document related flow here
+Now there's also a shared contents Slack message post.
+Doesn't really matter much.
+I just want to know when this thing has run through
+And then there is the actual relevant flow, which are these three things here.
+We generate the email, we turn the markdown into HTML, and we create and schedule a broadcast on Kit.
+Let's look at the most important part here.
+Let's look at the prompt for this.
+It's now an O three, right?
+Let's use the O three model, which is the best balance between hyperexpensive and
+Super fast.
+It's somewhere in the middle.
+It's expensive-ish, but this runs once a day.
+Fine with me.
+It costs me like a couple cents, maybe twenty, thirty once every time I run it.
+Perfectly fine
+For something that generates a newsletter that gets sent out to potentially hundreds of thousands of people, this is fine to do once a day with a really
+a well established model.
+It's a reasoning model, O three.
+I'm not using anything bigger or smaller.
+You can experiment with getting good results because in NATN, you can kind of pin the results in the pre the step previously, and you can just select another model here.
+And just run this step and just see what the results are.
+And that's one of the benefits of using NIT.
+And it's really built for developers, built for people who want to set up really complicated automation.
+That happens here.
+Let's take a look at this prompt.
+This prompt is a two-step prompt.
+That's something I've learned from using AI systems that have data and want to do something on the data and then create something out of the data.
+You have to
+Absolutely instructed to have multiple steps because if you don't, and I had this previously, look at the newsletter here.
+I'm going to try and pull it up directly from my email because that's what it looks like.
+This newsletter starts with a snapshot.
+This newsletter says, hey, I have 10 ideas from nine top business podcasts.
+And then it says,
+Nine shows were out of all the forty that were analyzed, and top category says easiest win is this and biggest opportunity is that.
+Well, how is it supposed to know?
+these things before it has even gone through actually calculating all of these ideas.
+Because that's the thing with LLMs
+It might just come up with some random stuff here, and then it tries to push this stuff so that it fits with that.
+I want it the other way around
+I wanted to come up with the ideas first, because that's the stuff that's really in the podcast, and then I wanted to be able to build a summary from
+So, for that, because it generates this email one token, one word at a time, right?
+It comes up with this stuff first and then it tries to fit this.
+I don't want that.
+I want it to come up with these things one thing at a time, and then create the snapshot.
+For that,
+We get into the prompt.
+We tell it you have a two step process, you analyze and select the best ideas.
+You output structured data
+And then you generate the new starter markdown from the structured data.
+So it kind of comes up with some JSON object that it just puts the data into, and then it's done creating half of that object with all the ideas.
+And then it keeps building the newsletter, the markdown, from that data that has already output.
+So that's the whole point of having a two-step system here.
+If you do this in one step, it will mostly work fine if you do summaries because it has all the information kind of in its context already, but it can often mess up numbers
+and some are like aggregates and stuff, it just doesn't work well if it doesn't have the data explicitly formulated.
+So I wanted to have the idea selection and processing be step one, and then have step two being the new stator generation.
+Let's look into both of these because this is just the meat of the workflow here.
+And again, if you're interested in this, just let me know.
+And I send you the full prompt.
+No problem.
+Just hit me up on Twitter or in an email, something like this.
+Or just come up with your own.
+It's generally
+This works for me and what I'm doing.
+But for whatever data you want to extract from podcasts, you might just have a completely different approach.
+Brainstorm this with an AI.
+That's kind of what I did.
+This is a prompt written through a prompt
+and just test it out.
+See if it gets you the results that you want.
+Anyhow, here is mine.
+I tell it to create a scoring system
+To score these ideas because I want the top 10 best ideas.
+And then I tell it how I would rank these in almost a pseudocode kind of Python thing.
+And then I tell it what date I want or what kind of data I want it to return.
+Right, and this is the data.
+So processing metadata, so I know the number of analyzed shows and so on.
+And then the ideas in an array.
+And I want them ranked like this.
+I want them to have
+The name of the show, the title, the URL, and all of this.
+I want them to have difficulty levels, target fund, all of these strings that we have already extracted here.
+I want them in this form and shape.
+So that it is much easier for the new slider generation part to then turn them into like individual text blocks, right?
+Special mansions, easiest win, biggest opportunity.
+They're already here in this data
+So that when we get to the next step, the new static generation, this has already been generated internally in the response data.
+So it can now pull
+this unique data, the structured data from step one, and generate some markdown that looks like this.
+Here's the header, the date, how many lengths, how many ideas I had from how many podcasts I looked into, which we did in this step.
+Then some text that I want to be in every email, the stats section that we saw here, right?
+This thing here, the snapshot
+And then the big ideas section, that is a repeated section of what's the number of the idea, what's the title, what did you come up with as the idea name.
+what podcast is it from?
+And link to the podcast so people can listen to it.
+That would be this kind of thing here, right?
+That full link.
+Then we go to how
+The timestamp range, like how do you find this idea in the show?
+Who is this for?
+Then to put the concept in there, implementation details, key insights, why you should do it now
+the challenges, the biggest ones, and then success and quick start.
+That is the structure that I want for every idea.
+And if you look at it, you have the listen ad best for
+The text, insights, challenge, quick start, success signal for every single one of these.
+So we just iterate over this, have the AI generate this, let me get back to it here.
+And then
+we have a priority matrix and a top episode section just above the footer.
+If you scroll down here, like this is just something I've added in there because I know that some people want to
+build something, but also plan for other things in the future if they want to run multiple startups.
+So it's a nice idea to see what to do right now and what to
+Do this month.
+So that's this section.
+Top episodes to binge.
+If you're not interested in the idea, you just want to listen to the best episodes
+That's thing, that thing here.
+And then a little Powered by PodScan thing where the platform that supplies this information is highlighted.
+It's kind of my sponsor blog here at this point, right?
+So people know: okay, if I want to build this, or if you want to build this, click this button and you can just set it up.
+You set up a list, you set up a webhook, and boom, you're happening there.
+So that's the prompt.
+And this prompt generates
+Some markdown, and we pull this markdown in the Markdown to HTML conversion tool from the Newsletter Markdown field into the data key here.
+And then we set up
+An API hit on the kit.
+com developer API.
+That's the version four one, the broadcast API.
+I have a credential here, which is I think they use a header
+X dash kit off or something for that.
+That's an API off.
+You can just set this all up in N8N.
+Really simple, really straightforward.
+And we send a body, a JSON type, using JSON, and in here we have a really, really simple.
+We have
+A filter for a tag, because in my kit I only want certain people that just subscribe to a certain newsletter to get this email.
+So people with this tag
+You find that all on your kit.
+com page.
+You set the content, which is the stringified JSON data.
+You send the data that contains the HTML, but you have to stringify because it might have quotes in it.
+Or something, so it gets escaped pretty much.
+So you can send it in JSON.
+You have to set a couple other things that the kit.
+com developer API documentation will help you with.
+The one it's set public, I want it to send
+In an hour from now.
+I want it to be published in an hour from now.
+Here is a little description.
+Here's a little preview text.
+And here is the
+Title of it, which is taking the date and says Podskin's business ideas for this date.
+And then I have a template ID.
+So that it creates not a text only email, but an email that looks like this.
+All of this you can find ins inside your kit, right?
+Like every
+in your templates, I think email templates, you find the ID.
+In your broadcasts, you find the tags and all of this.
+You can also set up any other email system that you're interested in, obviously, but I found this to be super easy because this way I can just schedule the full-on email to be sent
+like automatically from this.
+I don't even have to look at it.
+If you don't want that, you just set this to null, the send add, and it's only a draft, and you can manually inspect it and then send it later.
+If you want to do this every day, which is perfectly fine, particularly for the first couple
+days or weeks that you want to see if the system works.
+But yeah, that's the full workflow.
+That is all this is.
+It gets webhooks from PodScan.
+Like all the time, they just come in through this, they get saved to the sheet.
+Right here in the data.
+Oh, one arrived like since we started this.
+So this has run through.
+And what is this about?
+Okay, apparently the AI Daily Brief has a couple of
+Interesting ideas.
+Ambient agents.
+Okay, I'm so interested in this stuff.
+Looking forward to my own newsletter here.
+But that's how it works, right?
+New.
+A thing comes in, gets summarized, ideas get extracted, saved to a sheet, and then once a day we pull all the summaries from the sheet, we aggregate them, make an email out of it
+Turn it into HTML and send it to Kit.
+That's it.
+And you get emails like this.
+You can create any kind of email.
+You could turn this into a video, like an auto-generated video.
+or a newsletter, or a a document, some kind of analysis, and email this internally in the business.
+Anything that comes from a list of podcasts which
+can be any size, can be any number of shows, can be summarized, condensed, and turned into
+Some piece of content that you can monetize, that you can use internally, externally, whatever you want.
+I think that is really, really cool.
+Highly recommend signing up for PodScan just to try this out, to create a list of whatever you want.
+and just funnel these webhooks into an N8N automation like this.
+And yeah, enjoy this.
+I think it's really, really cool, the things we're able to build
+And obviously, you can augment this workflow in any way you like to create files, to notify individual people about certain mentions and certain ideas.
+In a workflow, it's all possible through N8N.
+There are a number of things you can do with this, like so many different
+Tools that you can just connect to this.
+It's pretty wild.
+It is pretty wild what you can build.
+I hope you
+have a great time building this.
+And yeah, if you have any questions about this, any specifics that you would like to know about how to use PodScan to track things
+How to set up this automation.
+Just reach out to me on Twitter.
+You can find me at Ovid Kahl there or at arvid at podscan.
+fm.
+That's my email, open for anything as well.
+Hope you enjoy this.
+Yeah, thanks so much for listening.
+Enjoy.

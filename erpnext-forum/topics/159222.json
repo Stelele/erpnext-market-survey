@@ -1,0 +1,51 @@
+{
+  "topic_id": 159222,
+  "title": "Prevent Server Scripts from Running During Data Import - ERPNext v12",
+  "slug": "prevent-server-scripts-from-running-during-data-import-erpnext-v12",
+  "category_id": 6,
+  "tags": [
+    "script"
+  ],
+  "created_at": "2026-01-15T12:40:06.699Z",
+  "last_posted_at": "2026-01-15T12:40:06.845Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/prevent-server-scripts-from-running-during-data-import-erpnext-v12/159222",
+  "views": 12,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "hilalhabeeb",
+  "posts": [
+    {
+      "id": 491324,
+      "username": "hilalhabeeb",
+      "name": "Hilal Habeeb",
+      "created_at": "2026-01-15T12:40:06.845Z",
+      "cooked": "<h3><a name=\"p-491324-erpnext-v12-prevent-server-scripts-from-running-during-data-import-1\" class=\"anchor\" href=\"#p-491324-erpnext-v12-prevent-server-scripts-from-running-during-data-import-1\" aria-label=\"Heading link\"></a>ERPNext v12 – Prevent Server Scripts from Running During Data Import</h3>\n<p><strong>Issue</strong><br>\nIn ERPNext v12, Server Scripts (<code>Before Save</code> / <code>After Save</code>) may still execute during <strong>Data Import</strong>, even when using common checks like:</p>\n<ul>\n<li>\n<p><code>frappe.flags.in_import</code></p>\n</li>\n<li>\n<p><code>frappe.flags.in_importer</code></p>\n</li>\n<li>\n<p><code>frappe.flags.mute_emails</code></p>\n</li>\n</ul>\n<p>These global flags are <strong>not reliable inside <code>safe_exec</code></strong>, causing unwanted side effects such as auto ToDo creation or workflow automation during imports.</p>\n<p><strong>Finding</strong><br>\nDuring Data Import, ERPNext consistently sets the following flag on the document:</p>\n<pre><code class=\"lang-auto\">doc.flags.updater_reference.label == \"via Data Import\"\n\n</code></pre>\n<p>This value is:</p>\n<ul>\n<li>\n<p>Always present for imported records</p>\n</li>\n<li>\n<p>Accessible inside Server Scripts</p>\n</li>\n<li>\n<p>Reliable across doctypes</p>\n</li>\n</ul>\n<p><strong>Solution</strong><br>\nUse this guard condition to safely skip automation during imports:</p>\n<pre><code class=\"lang-auto\">skip_automation = False\ntry:\n    if doc.flags.updater_reference and doc.flags.updater_reference.get(\"label\") == \"via Data Import\":\n        skip_automation = True\nexcept:\n    pass\n\nif not skip_automation:\n    # automation logic\n\n</code></pre>\n<p><strong>Result</strong></p>\n<ul>\n<li>\n<p>Automation skipped during Data Import</p>\n</li>\n<li>\n<p>Normal behavior on manual saves</p>\n</li>\n<li>\n<p>Fully safe-exec compatible</p>\n</li>\n</ul>\n<p>This approach has proven to be the most reliable method in ERPNext v12.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/hilalhabeeb/{size}/84790_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 8,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

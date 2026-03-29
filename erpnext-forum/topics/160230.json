@@ -1,0 +1,51 @@
+{
+  "topic_id": 160230,
+  "title": "Unable to get student",
+  "slug": "unable-to-get-student",
+  "category_id": 40,
+  "tags": [
+    "customization"
+  ],
+  "created_at": "2026-02-04T06:49:41.749Z",
+  "last_posted_at": "2026-02-04T06:49:41.865Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/unable-to-get-student/160230",
+  "views": 26,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Pkolhetkar",
+  "posts": [
+    {
+      "id": 493286,
+      "username": "Pkolhetkar",
+      "name": "prashant kolhetkar",
+      "created_at": "2026-02-04T06:49:41.865Z",
+      "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/5/1/51c5e75965badae41d955e3bed9b236db44ce2d1.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/51c5e75965badae41d955e3bed9b236db44ce2d1\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/5/1/51c5e75965badae41d955e3bed9b236db44ce2d1_2_690x213.png\" alt=\"image\" data-base62-sha1=\"bFoGh0JR7s6ycYFQXij1PpXSBcR\" width=\"690\" height=\"213\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/5/1/51c5e75965badae41d955e3bed9b236db44ce2d1_2_690x213.png, https://discuss.frappe.io/uploads/default/original/3X/5/1/51c5e75965badae41d955e3bed9b236db44ce2d1.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/5/1/51c5e75965badae41d955e3bed9b236db44ce2d1.png 2x\" data-dominant-color=\"9D9D9D\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">816×253 19.3 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>i am trying to create student group but when i am clicking get student then its saying no student found</p>\n<p>but i have student in my student doctype and i have enrolled for program also</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/85f322/{size}.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 13,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

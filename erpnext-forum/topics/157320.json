@@ -1,0 +1,51 @@
+{
+  "topic_id": 157320,
+  "title": "Update Items In Purchase Order After Submit",
+  "slug": "update-items-in-purchase-order-after-submit",
+  "category_id": 6,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-11-26T12:55:43.564Z",
+  "last_posted_at": "2025-11-26T12:55:43.656Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/update-items-in-purchase-order-after-submit/157320",
+  "views": 33,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Akash.N",
+  "posts": [
+    {
+      "id": 487507,
+      "username": "Akash.N",
+      "name": null,
+      "created_at": "2025-11-26T12:55:43.656Z",
+      "cooked": "<h3><a name=\"p-487507-current-situation-1\" class=\"anchor\" href=\"#p-487507-current-situation-1\" aria-label=\"Heading link\"></a><strong>Current Situation</strong></h3>\n<ul>\n<li>\n<p>In My Purchase Order workflow, the <strong>Update Items</strong> button is visible <strong>only when the PO is in the Approved state</strong>.</p>\n</li>\n<li>\n<p>Only the users/roles mentioned in <strong>Only Allow Edit For</strong> can update items.</p>\n</li>\n</ul>\n<h3><a name=\"p-487507-what-i-want-2\" class=\"anchor\" href=\"#p-487507-what-i-want-2\" aria-label=\"Heading link\"></a><strong>What I want</strong></h3>\n<p><strong>After the PO is submitted</strong>, the <strong>Update Items</strong> button should be visible to <strong>everyone listed in “Only Allow Edit For”</strong>, not just the approver.<br>\nWhen they update the item details, the <strong>workflow state should restart from the beginning</strong> (ex: Draft / Pending CTO Approval / Pending Approval etc.)..</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/7/b/7bdf1be74eaedeac152c1c971f88d5ed3fbb44c9.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/7bdf1be74eaedeac152c1c971f88d5ed3fbb44c9\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/b/7bdf1be74eaedeac152c1c971f88d5ed3fbb44c9_2_690x384.png\" alt=\"image\" data-base62-sha1=\"hFOJJG1X3aW8Q48HKDtGZc6wUjL\" width=\"690\" height=\"384\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/b/7bdf1be74eaedeac152c1c971f88d5ed3fbb44c9_2_690x384.png, https://discuss.frappe.io/uploads/default/optimized/3X/7/b/7bdf1be74eaedeac152c1c971f88d5ed3fbb44c9_2_1035x576.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/7/b/7bdf1be74eaedeac152c1c971f88d5ed3fbb44c9_2_1380x768.png 2x\" data-dominant-color=\"F5F7F9\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">2216×1236 264 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/5/f/5fb949f95179eea5396b591bfea1f2e94bde31f8.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/5fb949f95179eea5396b591bfea1f2e94bde31f8\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/5/f/5fb949f95179eea5396b591bfea1f2e94bde31f8_2_690x419.png\" alt=\"image\" data-base62-sha1=\"dEOl2SLIdD3RYLRnfsdtW7CMB5K\" width=\"690\" height=\"419\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/5/f/5fb949f95179eea5396b591bfea1f2e94bde31f8_2_690x419.png, https://discuss.frappe.io/uploads/default/optimized/3X/5/f/5fb949f95179eea5396b591bfea1f2e94bde31f8_2_1035x628.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/5/f/5fb949f95179eea5396b591bfea1f2e94bde31f8_2_1380x838.png 2x\" data-dominant-color=\"F3F5F6\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">2200×1338 309 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Can anyone assist me with this requirement? I would like to know the best approach to achieve it??</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/ea5d25/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 12,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 2,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

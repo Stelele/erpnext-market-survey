@@ -1,0 +1,52 @@
+{
+  "topic_id": 151075,
+  "title": "Getting Max benefits should be greater than zero to dispense benefits in flexible benefite",
+  "slug": "getting-max-benefits-should-be-greater-than-zero-to-dispense-benefits-in-flexible-benefite",
+  "category_id": 6,
+  "tags": [
+    "hr",
+    "payroll"
+  ],
+  "created_at": "2025-08-02T16:29:32.325Z",
+  "last_posted_at": "2025-08-02T16:29:32.452Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/getting-max-benefits-should-be-greater-than-zero-to-dispense-benefits-in-flexible-benefite/151075",
+  "views": 26,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "DakshKothari18",
+  "posts": [
+    {
+      "id": 476157,
+      "username": "DakshKothari18",
+      "name": "Daksh Kothari",
+      "created_at": "2025-08-02T16:29:32.452Z",
+      "cooked": "<p>Hi I added a flexible benefite in my salary component<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/6/4/6412077773ecffed956f48e94abd849c458e45c4.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/6412077773ecffed956f48e94abd849c458e45c4\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/6/4/6412077773ecffed956f48e94abd849c458e45c4_2_690x327.png\" alt=\"image\" data-base62-sha1=\"ehgnd1uoWjVo0ZnlJE9KcxR3HJq\" width=\"690\" height=\"327\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/6/4/6412077773ecffed956f48e94abd849c458e45c4_2_690x327.png, https://discuss.frappe.io/uploads/default/optimized/3X/6/4/6412077773ecffed956f48e94abd849c458e45c4_2_1035x490.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/6/4/6412077773ecffed956f48e94abd849c458e45c4_2_1380x654.png 2x\" data-dominant-color=\"FBFBFB\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1916×909 69.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\nand tagged it in salary structure<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/2/d/2da4bd917ce4637ca21e8fa7ec8d94b7ea38a28c.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/2da4bd917ce4637ca21e8fa7ec8d94b7ea38a28c\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/2/d/2da4bd917ce4637ca21e8fa7ec8d94b7ea38a28c_2_690x319.png\" alt=\"image\" data-base62-sha1=\"6vMrlsrdInvnBZhSq8QDcSjmctm\" width=\"690\" height=\"319\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/2/d/2da4bd917ce4637ca21e8fa7ec8d94b7ea38a28c_2_690x319.png, https://discuss.frappe.io/uploads/default/optimized/3X/2/d/2da4bd917ce4637ca21e8fa7ec8d94b7ea38a28c_2_1035x478.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/2/d/2da4bd917ce4637ca21e8fa7ec8d94b7ea38a28c_2_1380x638.png 2x\" data-dominant-color=\"FBFBFB\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1919×889 85.8 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>I’m getting error message<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/5/f/5fcd6d9e0c9deb33a374a50d3caa3fc822f1d88d.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/5fcd6d9e0c9deb33a374a50d3caa3fc822f1d88d\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/5/f/5fcd6d9e0c9deb33a374a50d3caa3fc822f1d88d_2_690x322.png\" alt=\"image\" data-base62-sha1=\"dFvuecEdZKv1h25JSmxRJypMH5r\" width=\"690\" height=\"322\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/5/f/5fcd6d9e0c9deb33a374a50d3caa3fc822f1d88d_2_690x322.png, https://discuss.frappe.io/uploads/default/optimized/3X/5/f/5fcd6d9e0c9deb33a374a50d3caa3fc822f1d88d_2_1035x483.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/5/f/5fcd6d9e0c9deb33a374a50d3caa3fc822f1d88d_2_1380x644.png 2x\" data-dominant-color=\"696969\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1919×898 77.2 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>What I’m doing wrong and what should I do</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/dakshkothari18/{size}/84622_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 6,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

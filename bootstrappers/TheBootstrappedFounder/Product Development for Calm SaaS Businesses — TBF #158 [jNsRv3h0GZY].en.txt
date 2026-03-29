@@ -1,0 +1,333 @@
+﻿Building a software product
+is both incredibly simple and
+excruciatingly complicated.
+You can build a new mind
+blowingly helpful feature within
+hours, sometimes even minutes.
+But if you make the wrong technology
+choices, you might be rewarded with
+several months of additional work a
+few years after you make those choices.
+So let's talk about building a product
+that can carry a SaaS business to
+success calmly and intentionally.
+We start with intentional choice
+number one, and that's your tech stack.
+Choose a technology foundation that
+works for you instead of something
+you need to work on all the time.
+While all the cool kids go with the
+newest and fanciest framework on the
+market, calm founders pick a technology
+that has been around for a while.
+Established tech like that, has
+many benefits and very few drawback.
+You get something that had to
+prove itself to others before you.
+If it hadn't worked for
+someone else's project, the
+tech wouldn't still be around.
+And most tech comes with a prosperous
+community that is helpful and
+supportive to newcomers, creating
+tutorials and troubleshooting
+guides, and generally vast amounts
+of freely available information too.
+Established tech has a vibrant
+ecosystem of extensions and
+integrations that you can use.
+So whatever functionality you
+might need, someone likely had that
+requirement before you and then
+built something that you can now plug
+into your solution often for free.
+You'll find that most of the calmest
+SaaS businesses out there use Ruby on
+Rails or sit on top of php, and few
+companies succeed at their goals while
+also chasing the most current trends.
+Every day someone somewhere releases a
+new candidate for sparkly framework of
+the month, I suggest you ignore those.
+While your product could undoubtedly
+benefit from having the newest
+UI or the latest high performance
+compiler optimization, your
+customers don't care about that.
+In fact, customers rarely ever care about
+the underlying tech of your solution.
+Even when you build software for
+other engineer, they won't care about
+the specific choices of your stack.
+All they want is for you to
+solve the problems reliably.
+And  picking a tech stack
+that can deliver on that.
+Now, that's how you build a calm business.
+So what are these great
+foundational choices?
+The best tech choice is the one
+where you pick the things you already
+know and you're very familiar with.
+If you've been building software
+using NodeJS for half a decade,
+building your business on top of that?
+That's a good idea.
+If you are a Rails developer, use Rails.
+It's very simple.
+The cost of learning a new framework
+to build a business with is
+incredibly high because it will
+eat up your development time.
+Starting a business venture with an
+unfamiliar tech stack rarely ever makes
+sense, no matter how promising it is.
+Imagine how long it would take
+a well versed programmer to
+build a particular feature.
+Within four hours using JavaScript
+and maybe three hours using
+Python, they would get it done.
+And if you're a JS veteran, but
+want your business to be a Python
+project, you now have to learn
+enough Python to build this feature.
+And this might take you weeks,
+maybe even months, and even then
+you won't have the confidence to
+have produced a high performing
+version of what you wanted to do.
+Four hours versus four weeks,
+and you'll still have to pay
+you a bills while you do that.
+So if you're building a business
+to live from, eventually four hours
+can make or break your effort.
+Choose the tech you know.
+There's a rule of thumb
+called the Lindy Effect.
+It states that in the world of
+technology, at least, things that have
+been around for a while are likely
+to stick around for equally as long.
+The older something is, the
+longer it's life expectancy.
+Consider that when picking your
+foundations, new things are likely to
+go out of fashion much quicker than
+things that have been seeing usage
+for decades and are heavily integrated
+into the business world out there.
+And that brings me to intentional choice
+number two, abstractions and decoupling.
+Because all things can come to an
+end, and that's something that a
+calm SaaS founder prepares for.
+You can set up your product to be
+able to adapt to changing conditions
+in the technology landscape.
+And here are a few ways
+to make this easier.
+Service abstractions.
+Any service you use that is
+outside your control could stop
+working at a moment's notice.
+No matter if that's how you send
+your transactional emails or
+where you upload user generated
+videos, or even how you deploy your
+code to your production system.
+It's a potential tool that you
+might need to replace at some point.
+So how do you prepare?
+You make things easily replaceable by
+wrapping them in a layer of abstraction.
+Instead of relying on any particular
+solution, you implement it in a
+way where you could just switch
+it out for another product easily.
+Configurable modules are usually
+the way to go, so remember,
+anything can break at any time.
+You choose how much you
+prepare for those moments.
+Another idea here is component decoupling.
+Most founders are over zealous with their
+tech stack, and they build everything
+web facing in their SaaS using code,
+the landing page, the application
+itself, and all adjacent tools.
+They get integrated into
+this big application.
+And while this is initially faster to
+do, it will come around and hurt you
+later when correcting a single typo
+in the landing page means the full
+redeploy of the whole application.
+Instead, I recommend looking into no code
+solutions for the content heavy parts of
+your website, use WordPress or Web Flow,
+or even just the static HTML page for
+those things instead of bundling it all.
+Another idea is platform agnosticism.
+Your whole application should be able to
+be moved from platform to platform without
+having to spend months of migration work.
+The calm choice is to build everything
+on top of a commonly supported
+containerization strategy like Docker.
+Then run your stack on the many cloud
+platforms that support it: Google
+Kubernetes Engine, Amazon ECS, and
+Microsoft Azure, or services like Heroku.
+In case you need to move, all
+you have to do is to change some
+configuration and your software moves.
+And then there's integration and  APIs.
+Your servers will grow and will
+need to talk to other products
+eventually: from the start, think
+about how you can best and most
+reliably integrate and be integrated.
+Instead of inventing a new format to
+save your data, just use commonly used
+ways of data storage, and that way
+you will increase your compatibility
+with other software products, and
+that's something that you will need
+for future partnerships anyway.
+Building an internal API for
+your own services to talk to,
+it'll make it easier to open
+this up in the future when
+customers need a more technical
+interface than just your website.
+Making your service "plugable"
+is a feature that opens up whole
+new worlds of possibilities.
+And let's talk about
+features here, at this point.
+Choosing what goes into the product
+and what stays out of it is critical
+to building a calm business.
+Setting boundaries.
+That's a hard skill to learn in any field,
+and it's particularly hard for a founder.
+You wanna service many people
+as possible, and they all have
+these many, many problems.
+If only you could build a
+platform to solve them all.
+Well, you can't.
+At least not right from the start.
+Instead, build a tool that solves
+one problem really well and build it
+as an MVP a minimum viable product.
+Now, many people use this term to
+describe their initial version of the
+software, so let's talk a bit about
+what that looks like for a calm SaaS.
+An MVP is supposed to make it clear
+to your customers what problem
+you solve, how you solve it,
+and how it benefits their lives.
+That's the focus.
+Not having a complete interface
+or a great onboarding flow or
+even a working cancellation button
+doesn't need to be in there.
+And MVP focuses on allowing early adopter
+customers, and those are people who don't
+have the expectations of a mainstream
+user, to show you what the final shape
+of your market ready product should be.
+Your MVP is a functional piece of
+software, and with early customer
+feedback from those people who like
+it experimental, it will quickly
+change into something bigger.
+And that's another concept
+with three letters here.
+The MLP it's the minimum lovable
+product, and that's essentially a
+refined, visually and experientially
+pleasing version of the MVP.
+The MLP of your SaaS, that's the
+thing that people want to try out
+and then recommend to their friends.
+It's attractive to more than just
+the experimental early adopters.
+It's for everyone who has
+the problem that you solve.
+And understanding this distinction leaves
+you with essentially a threefold choice
+for every feature idea that you have.
+Does it belong in the MVP?
+The MLP?
+Or the mature product?
+If you classify your collection of ideas
+into these three groups, you will find
+a certain kind of feature that only
+lives in the mature product category.
+It's a nice to have, but not
+essential to solving the problem.
+These features are strong candidates
+for being ignored until you have a
+business that hums along, a business that
+generates profits without you having to
+search for product market fit hectically.
+So the MVP and the MLP features
+are the scope of a calm product.
+Anything beyond that should not concern
+you for the first couple of years.
+And I know boundaries are hard.
+I bet you have hundreds of ideas
+and things you want to build.
+But if you don't pace yourself here,
+if you don't learn to say no to your
+own eagerness and your own willingness
+to build stuff, you'll have a hard
+time taking a breath throughout your
+founder journey, A calm business is
+built by a founder who knows when
+not to do a thing and when to defer
+building a feature into the future.
+Calmness requires control, and even
+when things happen unexpectedly, staying
+calm requires you to be prepared.
+It is in preparation and flexibility
+that SaaS businesses thrive even
+when they're in rough waters.
+So scope your product to only
+include solution centric features,
+build abstractions around services
+and platforms that you use.
+Pick established and boring tech, you'll
+be well on your way to build a great
+business that will grow sustainably
+and without those self-induced
+headaches by making the wrong choices.
+And a quick final note on
+industry best practices when it
+comes to coding your product.
+Build the product the market needs
+in a way that allows you to build
+and maintain it to your best ability.
+Don't blindly implement today's
+best infrastructure practice
+just because that's what
+enterprise SaaS businesses use.
+You probably don't need a complicated,
+I don't know, microservice architecture
+or a multi-cloud deployment pipeline.
+Go with frameworks and tech that you
+understand, you'll find a suitable
+time if you need to change it later.
+There are founders out there
+who run multimillion dollar
+businesses on a single PHP file.
+And most advice out there will
+be conflicting anyway, go with
+what you know and slowly learn
+new paradigms as you need them.
+You'll be fine.

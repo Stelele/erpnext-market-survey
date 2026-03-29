@@ -1,0 +1,51 @@
+{
+  "topic_id": 157291,
+  "title": "How to import a template with multiple variant attributes?",
+  "slug": "how-to-import-a-template-with-multiple-variant-attributes",
+  "category_id": 9,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-11-25T19:04:18.158Z",
+  "last_posted_at": "2025-11-25T19:04:18.240Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-to-import-a-template-with-multiple-variant-attributes/157291",
+  "views": 36,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 1,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "grzes-business",
+  "posts": [
+    {
+      "id": 487452,
+      "username": "grzes-business",
+      "name": "Grzegorz Diaconescu",
+      "created_at": "2025-11-25T19:04:18.240Z",
+      "cooked": "<p>TLDR: I can’t find a way to import a product template with more than one variant attribute e.g. Size, Color</p>\n<p>Hi there,</p>\n<p>I am trying to import a template for a product using a CSV file:</p>\n<pre><code class=\"lang-auto\">item_code,item_name,item_group,stock_uom,is_stock_item,has_variants,attributes.attribute,variant_based_on\n\nSHIRT-SLOW,Shirt slow,Clothes,Szt.,0,1,\"Color, Size\",Item Attribute\n</code></pre>\n<p>But I can’t get through with the import because I need multiple variant attributes to be assigned to the template, which I can’t figure out how to do.</p>\n<p>I have tried many ways:</p>\n<ol>\n<li>Importing in one cell using: \"Rozmiar, Kolor” (as in the example), Rozmiar|Kolor, Rozmiar;Kolor</li>\n<li>Importing using column separation, this means using attributes.attribute and attributes.attribute.1 for the two variant attributes</li>\n<li>Also I tried just a second row with only the attributes.attribute and variant_based_on filled in, which of course failed because I had to provide an item_code</li>\n<li>And lastly, of course I tried to import the template in two rows with the attributes values being different.</li>\n</ol>\n<p>And nothing I tried worked. I might just try to find the feature inside of the source code and try to get it from the very source, but come on, haven’t anybody figured that out yet?</p>\n<p>Your help and replies are highly appreciated in advance.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/grzes-business/{size}/92201_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 13,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

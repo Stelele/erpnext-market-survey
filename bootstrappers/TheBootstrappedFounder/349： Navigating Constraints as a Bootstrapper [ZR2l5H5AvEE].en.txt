@@ -1,0 +1,653 @@
+﻿[Music]
+hey I'm arvit and this is the bootstarp
+[Music]
+founder in recent podcast episodes I've
+been discussing constraints and how I
+deal with limited resources as a
+bootstrapper today I want to dive deeper
+into this topic and I want to share my
+experiences with pods scan and how I
+navigate these challenges with limited
+adjustable income and fixed expenses
+this episode is sponsored by paddle.com
+more and
+later running pods scan involves a
+delicate balance between various
+processes there's transcription of
+podcast there is data extraction and
+then question answering and alert
+verification and unfortunately all of
+these things need a GPU to work
+efficiently graphics cards and their
+respective compute Cycles are a rare
+commodity right now and even with new
+providers flooding the market I think
+just a couple days ago digital ocean has
+started offering GPU droplets this stuff
+is is still very expensive so my core
+business processes compete for resources
+all the time and managing a steady flow
+of podcasts coming in while extracting
+valuable data from it is crucial to my
+customers who want to see poan as
+something valuable or who I want to have
+them see it as so when extracted data
+then fits an alert so that's the third
+part and that's the main selling point
+of my business right now it needs
+verification and that's quite a bit of
+GPU compute it creates an interesting
+balance and a balance that I have to
+maintain especially when it comes to
+managing Q sizes server capacity because
+that's really what I'm limited by as a
+main part of my UI and the underlying
+API I am running melee search that is a
+an open- Source very fast search on a
+fairly sizable machine but the structure
+of the data that I push there requires
+massive indexing too just imagine like a
+couple million of items and all of them
+have this massive transcript attached
+and then you want to do full text search
+on it obviously every day I'm pushing
+tens of thousands of these and to add to
+an index that already has millions in it
+it just takes a lot of compute and this
+can lead to the que on that server
+falling behind and then if that doesn't
+get updated quickly it overall results
+in outdated data on the system and
+that's the dilemma I need to balance
+volume customer being able to find
+everything on this API with Fidelity
+data being as accurate as it can be and
+recency too right finding the most
+recent episodes first all of these
+things are important but I need to
+prioritize and to prioritize at this
+point becomes extremely important
+because it wouldn't make sense for pod
+scan to prioritize a four-year-old
+episode of a podcast that people have
+already talked about and kind of
+forgotten about over one that has been
+released like 2 hours ago to my
+customers recent episodes offer way more
+potential for user engagement and for
+collaborations or even just placement
+opportunities if you're a podcast agency
+I often tell my users if you respond to
+a recent episode some something that has
+been released very very recently you
+talk to the host quickly or you post the
+whole episode on social media a link to
+it you can potentially get a partnership
+out of this or you find a place for your
+podcast agency to place a client like
+the more recent you are the better
+that's why timeliness is more important
+than completeness but both are relevant
+right you want both because I want
+search to work historically too I want
+people to find that old episode if
+they're doing the research if they're
+trying to figure out what people said
+but I also want the recent ones to be in
+there so I can't just ignore one over
+the other and in my constrained world of
+what right now probably is like 30 some
+backend servers so 30 graphics cards and
+this one search server with limited
+compute capacity I am constantly
+deciding where data should flow and who
+gets priority who and what gets priority
+it's not just a technical thing really
+it's almost a mental exercise in
+prioritization and I have found that it
+really helps to conceptualize all this
+software stuff all these system
+priorities as a reflection of actual
+customer priorities I could
+theoretically do the developer thing and
+build a perfect system with like Ideal
+Balance and really cool mechanisms and
+all that but the ultimate decider if
+this is good or bad is how my customers
+react and what they truly need because
+they are literally paying for this I'm
+paying for this clearly it's an expense
+but they the revenue they provide pays
+for this so they need to understand it
+they need to get something out of it so
+I talk to them as I usually do and I
+listen to them when they have something
+to say and their feedback both the
+explicit stuff and the underlying
+implicit thing has been very
+instrumental in figuring out and
+implementing out my priorities so here's
+how I came up with my priorities what
+they are I guess and what triggered them
+I'm going to start with the biggest one
+data extraction it's crazy how important
+this is my customers were most vocal
+about extracted data not being complete
+or present when they expected it they
+didn't care like at all about
+transcription speed as long as it
+happened within the same day but it
+didn't matter to them if it's like 10
+minutes after an episode was released or
+an hour maybe even 10 hours as long as
+the data they needed was there
+and this was a surprise to me initially
+because I had assumed that transcription
+speed and like the time to first email
+would be the primary concern that people
+have but they would rather wait for data
+to be complete and enriched over getting
+it quickly ideally obviously it would be
+both but in these conversations and in
+the actual behavior that I see from
+paying customers they're fine with the
+delay as long as more data is in there
+but the other way around they start
+complaining very interesting observation
+clearly impacts my priority here the
+same goes for my AI verification my in
+uh what do I call it my inference where
+I uh do AI verification that ensures
+that the keywords that are mentioned in
+a transcript actually happen in the
+right context right my customers can put
+a question into their keyword list and
+that if that question is answered with a
+yes then and only then do they get a
+notification and if it's a no then it's
+ignored it's like if you have a a name
+like meta or Facebook and you only want
+people um only want notifications when
+people talk about your brand Facebook or
+meta in the context of I don't know the
+shareholder value or something like this
+right something very specific you can
+add this line of text and that is the
+verification part of it and I think this
+is very important to a lot of customers
+who have brands that are kind of very
+common
+names and the speed of that was not a
+concern for them at all as long as it
+happened roughly on the same day again
+like speed only doesn't matter until
+it's super delayed but this tool to them
+is crucial for maintaining the accuracy
+of their alerts without being
+overwhelmed and customers were super
+forgiving of slight delays there and
+again accuracy and completeness over
+speed something I did not necessarily
+expect when I started building pot scan
+and I had several calls and chat
+messages where people told me that they
+truly need SL value I guess maximally
+useful as an enriched as possible data
+as an input for their own next process
+their job to be done whatever it is
+they're doing whether it's integrating
+into a CRM or an Outreach tool or a
+database or just into an Excel sheet it
+doesn't matter I've come to think of
+business processes like the things that
+I do and the things that my customers do
+as machines with an input and an output
+shoot where stuff gets put in and then
+it comes out on the other side and the
+magic happens in the middle and for me
+and when I look at my business obviously
+I have an input and an output and all
+the stuff in the middle that I do but
+for my customers all they see is my
+output and that is their input for their
+own machine that has an input shoot and
+an output shoot and that they stuff
+something into the input then something
+happens and then they have an output
+that they need to deliver to somebody
+else so for my customers the more
+enriched data they get the better their
+following process works my output is
+their input that's all that matters they
+need the highest Fidelity data possible
+speed again not important which is
+interesting again was surprising to me
+and finally reliability is very
+important to them for my API users
+having reliable and consistent data both
+in the schema and in the actual data
+itself is crucial they prefer having all
+possibly extractable data even if it
+means a slight delay in other things and
+other processes that happen apis don't
+really do well with change so having
+data there that is kind of unreliable
+and sometimes there sometimes not that's
+problematic it being the same shape and
+the same expectable density of data is
+very important to people I used to
+expose new episodes onto my API even
+before they were transcribed and
+extracted and just acted like it was
+already kind of fully a data set for
+people to pull and customers asked for
+flax to be able to hide incomplete data
+from that from the tooling so whenever
+they would send a request they did not
+want to see incomplete data until it was
+fully there didn't expect that because I
+use apis differently but apparently my
+customers do not and they pay for this
+so they get what they need and based on
+customer feedback I've learned that my
+priority should be extracting as much
+data as possible from the podcasts that
+people actually want to learn about
+rather than tracking all podcasts
+everywhere as quickly as possible which
+was my initial Mission the initial idea
+that I had and this realization led me
+to focus on improving the data
+extraction capabilities of pod scan I've
+been running a lot of experiments trying
+to find the right balance B between
+speed and quality of extraction and this
+has been taking up quite some time
+during the last week or so and before we
+jump into that let me talk for a minute
+about the sponsor of this episode panel
+because that's kind of related when I
+started pods scan I had yet another
+prioritization choice to make how much
+of my time and effort should go into
+dealing with customer payments you know
+how Founders are we have to do all the
+things right we have to build the thing
+we have to market the thing we have to
+sell the thing and then we have to get
+the money that people owe us for a thing
+and I have implemented my fair share of
+payment systems over the last couple
+decades and for pots scan I wanted to
+make the optimal Choice from day one and
+since I was building on laravel I looked
+into what the ecosystem would give me
+which was laravel spark kind of plug
+andplay payment portal solution and to
+my delight they supported paddle like
+from the get-go and why was I so happy
+about this well I've used other payment
+providers in the past and I had to deal
+with creating invoices calculating sales
+taxes I had to go to apis to get like
+the current vat in Europe that kind of
+stuff I had to chase payments that
+didn't go through for podan I was not
+going to do that again paddle is a
+merchant of record and they take care of
+all these things for me so I can spend
+my time actually scratching my head over
+data extraction problems instead of not
+getting paid so if you're looking for a
+payment provider that takes care of you
+and your customers needs I recommend
+paddle check them out at paddle.com
+I'm currently working with meta's latest
+local large language model Lama 3.2 I
+guess is what it is right now that has a
+couple variants they're all very
+interesting the bigger variants have
+Vision capabilities now which is new for
+meta's model but it's really not
+particularly useful for podcasts I'm
+more interested in the smaller the text
+models particularly the 1 billion and
+the 3 billion parameter models that can
+run on edge devices or servers with
+limited resources I think they're
+actually trying to get these these
+things to be able to run in CPUs
+effectively which is really really cool
+if you think about what that means that
+every computer out there can deal with
+this eventually and even right now
+they're so small that it's quite
+exciting because you they can run these
+models can run on about 10 GB or of
+Graphics Ram some sometimes even less
+which is something that even normal
+graphics cards can handle laptops can
+handle this and this means they'll be
+very performant in their regular State
+those models and even more so when Quant
+and pre-loaded onto my backend servers
+as you can probably tell quite excited
+to get these things on the road and if I
+can get the Llama 3.2 3 billion instruct
+model that's the one I'm currently
+working with running where currently I
+have the Llama
+3.07 billion instruct model I could
+potentially speed up extraction
+significantly probably double it without
+losing much in quality or just terms of
+accuracy for summaries and data
+extraction Precision I might even try
+the 11 billion model and see if I can
+make it work within my constraints and
+be at the same speed as the 7 billion
+model was before so there's a lot of
+really fun experimentation with these
+local llms that I'm currently doing and
+the idea here is to find the perfect
+balance between accuracy of the
+extraction that it does and cost of the
+GPU that is used for that cost per cycle
+right cost per transcription that I run
+through it unfortunately that is one of
+the most wonderful things about this
+whole Space right now now every few
+weeks new models or new implementations
+of inference strategies appear and they
+make it into the tools that I use so I
+just need to get pull and recompile and
+then it's 20% faster and this makes
+everything just a little bit faster or a
+little bit cheaper so the true challenge
+is really to keep up with the tech Which
+models are out there is there an
+optimized version of the model is there
+an optimized version of like llama CPP
+or whatever well that that is what I'm
+currently dealing with it gets me quite
+excited it's probably audible but it's
+not the only thing I'm dealing with you
+know founder with a thousand hats I have
+another challenge that I want to share
+because it highlights just how hard it
+is to deal with things that don't scale
+well compared to things that actually do
+so one of the most computationally
+intensive processes in podcast analyses
+like when you have the raw audio and you
+want to deal with it is diarization and
+that's the process of detecting and
+labeling different speakers in a podcast
+and this became a significant bottleneck
+in my system and it's a great example of
+how strains force you to think
+creatively before I started diarising
+episodes and that was like the first
+couple months of podan I was just just
+transcribing them didn't care like who
+said what I just wanted the raw text so
+I can get to the keywords but more and
+more of my customers told me hey it
+would be really cool if I could either
+know exactly who's speaking or at least
+I would see that there are different
+speakers in here so before I did this I
+could process like 120,000 episodes a
+day with like medium to high high
+quality transcription it's very easy if
+I went for extremely high quality it
+would still be around like 880,000 which
+was significantly outperforming the
+30,000 new episodes of podcasts that are
+released every day right I could easily
+cover today's 30k and then for the
+remaining like 50 to 70,000 episodes
+that I could run on any given day I
+could go like two days back into the
+past so every day I would step one day
+ahead and two back in the past in my
+backlog which was great but after
+introduc ucing diarization this number
+dropped to dramatically from 120 to
+50,000 or less per day depending on the
+length of these shows sometimes as low
+as 35,000 episodes that is just enough
+to do what comes in every day and unlike
+transcription where you can choose
+different models to balance speed and
+accuracy you can have like a super fast
+model that often makes mistakes but it
+still gets to the gist of it or you can
+have the highest qu model it takes like
+12 times as much time to to to actually
+transcribe but it gets you the best
+results but diarization doesn't care
+it's a very linear Affair it takes the
+same time to diarize a highquality
+expert panel where 10 people talk about
+very important stuff as it does a simple
+monologue or a reading from a book and
+to address this I had to build an
+internal prioritization system that
+considers factors like podcast
+popularity or user inter interactions
+from from customers of pod scan have
+they interacted with that or not and
+search frequency how often does this
+appear in people's
+searches this prioritization system
+determines which podcasts should get
+dized and which receive regular
+transcription so I can keep up with my
+backlog so I've really adopted an 8020
+approach here I provide standard
+treatment by default to every podcast
+and then I flag podcasts for special
+treatment based on user interaction and
+importance if a podcast gets a certain
+amount of interaction from my customers
+it will eventually get flaged by the
+system to be one of the important ones
+and get dized if people don't interact
+with the podcast if it never has any
+mention of a keyword of the ones that
+people currently have in a system on
+pocan then maybe it's not important
+enough to be prioritized for diiz and it
+does not it will still Flack keywords in
+the future and that will bring it back
+onto the map where it might get flaged
+in the future if people interact with it
+and as you can imagine all of these
+transcripts diiz on not that's a lot of
+data 30,000 plus episodes a day that
+occupies quite a lot of space in my
+database and that brings me to yet
+another constraint that I'm dealing with
+all the time that's search data indexing
+pocan really serves two main functions
+it's a business that has kind of two
+products not too happy about this I
+would like to streamline that either
+into an even bigger Suite of things or
+into different businesses but I'll get
+to that when I'll get to that the first
+one is it's kind of a Google alerts for
+podcast mentions right it's very much
+real time like this was just matching on
+this podcast here you get an email now
+you can do stuff with it and on the
+other side it's kind of a Google like
+search for podcasts with a lot of
+historical data you want to figure out
+what somebody said on the Tim Ferris
+show two years ago yeah that's what you
+do you search for it you find it and you
+read it and you then do something with
+that and the search function is accessed
+through our interface which some people
+use and the API which more people use I
+have a lot of people that buil tools on
+top of this so when I encountered issues
+with M search earlier I mentioned this
+right being millions of items behind an
+indexing because I just was throwing way
+too much data at it my API users reached
+out about the lack of fresh information
+and they were very clear to me in their
+communication they said I use the API to
+get fresh information I feed this into
+my own system if the information on
+there is not fresh this is a problem for
+me and this feedback led me to develop
+another privitization system for search
+database updates in initially I had the
+approach that every episode with a
+transcript that I have either highest
+quality or lowest quality popular or not
+should be in the search database that's
+kind of the volume thing I wanted
+everything to be in there and when that
+overflowed the database I switched to
+only including important episodes but
+for many podcasts that meant that for
+the less popular ones title and
+description of the episodes of that
+podcast were not searchable so that
+whole podcast would never be found which
+wasn't ideal either so now I found a
+balance here every episode's title
+description podcast name and the
+metadata are written to the database to
+search database but full transcripts are
+only included for episodes from podcasts
+with a certain level of popularity again
+are people using it are people following
+it um I sometimes it's a dynamic system
+but let's just think if the iTunes
+rating the amount of reviews on iTunes
+for this podcast is over 10 then it's
+episodes full transcripts are added if
+it's below and this fluctuates obviously
+but then they might be omitted and this
+Dynamic priority system adjusts based on
+the current Q size of my back end and it
+allows for more room for popular
+podcasts likely to contain information
+that's relevant to pot scan's
+professional users that's really what it
+is it's not a perfect solution and I
+kind of hate the idea that I can't
+include everything right now but it's a
+necessary compromise given my current
+constraints and as a bootstrapper I
+often face the unfortunate reality of
+not being able to do everything
+simultaneously prioritization has to
+happen because without it I won't be
+able to attract customers cuz the
+service is going to be subpar on every
+level and without customers the business
+won't be profitable so it won't be
+around for much longer so I'm very much
+enjoying the kind of limitations that I
+have around my backend systems and stuff
+because it allows me to really minmax
+the efficiency of these models and see
+which one of these many open source
+models can do the most work and create
+the most value for my customers but
+every component of PODS scan that
+interacts with the world of podcast and
+that data in there has to have this
+balance of priorities and that is
+derived from customer conversations and
+The observed Behavior I've started
+tracking a lot of behaviors of my
+customers like internally obviously and
+kind of anonymized as well like what
+things are clicked on the most which
+items are opened which podcasts are
+frequented a lot and I continually ask
+to
+just understand I asked them questions
+to understand what customers need and
+then automatically prioritize these
+things in future interactions with the
+software that they might have I focus on
+data quality Fidelity is very important
+for me like the completeness and
+accuracy timeliness and then quality of
+service like what can I deliver how
+quick can I do it so for instance and
+this is like with just an example of how
+I go about this now I get a lot of
+podcasts coming in every day from things
+like City Council meetings and religious
+readings they're interesting and they
+contain a lot of relevant information
+depending on who you are but it's
+content with a small but well-defined
+audience and unless that audience this
+is the bootstrapper mentality is a
+customer of potan right now I just
+transcribe these things quickly to catch
+most of it and then summarize them but I
+don't need 100% accuracy on stuff that
+nobody looks at right now might be
+different for podcasts that people are
+actively following every episode of
+those need needs to be high quality but
+as a bootstrapper I can always adjust
+things once I find customers who care
+about this data I can reanalyze these
+things later but right now my focus
+should be on things that people already
+use so in the end navigating limitations
+as a bootstrapper is about understanding
+my customers needs and having those
+customers in the first place maybe
+that's also important having people to
+pay for this stuff right I need to set
+clear priorities and I continuously
+optimize my systems to just deliver the
+most value within my constraints that is
+noticeable by my customers it's
+challenging but I think it's very
+rewarding as a process because it forces
+me to think creatively and stay closely
+attuned to my users's needs and this
+approach has not only helped me make the
+most of my limited resources but has
+also given me valuable insights into
+what my customers truly value and what I
+thought they did and the discrepancy
+between them it's this constant process
+of adjustment and refinement but it is
+what allows a bootst business like podan
+to compete and thrive in a resource
+intensive field like trying to get all
+podcasts everywhere under control so
+yeah that's what I'm dealing with and
+that's it for
+today thank you so much for listening to
+the Boer founder big shout out to paddle
+for sponsoring this episode you can find
+me on Twitter at Abit a RB KL and you'll
+find my books from my Twitter course
+tattoo if you want to support me in this
+show please tell everyone you know about
+podan FM and leave a rating and a review
+by going to rate thisp podcast.com SL
+founder it makes a massive difference if
+you show up there because then the
+podcast will show up in other people's
+feeds and any of this truly helps to
+show thank you so much for listening
+have a wonderful day and bye-bye
+[Music]

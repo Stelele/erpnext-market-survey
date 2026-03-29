@@ -1,0 +1,748 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+Today you will learn exactly how I code
+or I guess rather how I make machines do
+my bidding and why that is both highly
+effective and has changed my coding
+forever and it's also surprisingly
+anxietyinducing.
+But first, here's something that reduces
+my anxiety. The episode you're listening
+to is sponsored by paddle.com, my
+merchantofrecord payment provider of
+choice. They're just taking care of all
+the things related to money so that
+founders like me and you can focus on
+building the things that only we can
+build. And I don't want to have to deal
+with the anxiety that comes with like
+taking people's credit cards or
+whatever. Paddle handles all of that for
+me. Sales tax, credit cards failing, all
+of that recovery. I highly recommend it.
+So, please go and check it out at
+paddle.com.
+[Music]
+There's something deeply unsettling
+about being dramatically more productive
+while also feeling like you're barely
+working. If you've been using AI over
+the last couple months, you might have
+felt like this, too. All of the sudden,
+this thing is doing stuff for you. And
+what should you do now? Should you also
+work? Should do something else or watch
+it work? It It's wild. There's a strange
+dichotomy that I find myself in every
+day now with AI assisted coding and I
+use that quite a bit. My output has
+multiplied significantly over the last
+few months. I think that might even be
+an understatement. It's been 5x, 10x.
+It's a lot. Yet, I often feel like I'm
+underutilizing my own time. It's
+probably the most interesting and
+confusing part of how I build software
+today and how I would never have thought
+I would build software just a couple
+years ago. So, this shift has been so
+massive that I can barely recognize how
+I used to work in the past. And the
+difference isn't just in the tools, it's
+in the whole role that I play as a
+developer. I want to share exactly how
+this works for me at this very point,
+like in this moment, how I code, because
+I think we're witnessing this
+fundamental transformation in what it
+means to build software. And if you
+haven't tried it just yet, maybe this is
+going to inspire you to give it a shot.
+And if you are trying it, maybe this is
+going to give you a couple of hints and
+pointers as to how to optimize it and
+make it even more magical. So, let me
+walk you through what I actually did
+today earlier before recording this just
+to show you how I built software right
+now because it perfectly illustrates the
+new workflow that I've developed. So,
+whenever I need to build something that
+extends existing code, whether I wrote
+it myself or AI wrote it previously
+through a different kind of prompt, I
+have found that the most effective
+approach is to draft a very well-defined
+spec like a specification of what I
+want. But here's the key difference to
+how it used to be in drafting these kind
+of things. I don't type these specs. I
+speak them. I have a mic attached to my
+computer for podcasting obviously and
+it's always on. I use a tool called
+whisperflow on my Mac that lets me hit a
+key command, just start speaking, and
+whenever I hit the finish command, which
+is the same key command, the full
+transcript of what I just said gets
+pasted into whatever input field is
+currently active under my cursor.
+Whether that's chatyp or claude
+perplexity or my coding assistant or
+just a text field somewhere maybe
+Twitter input field anywhere I want to
+put text I can just dictate it and this
+is so much faster than typing even
+though I can type pretty quickly and
+stuff still like being able to voice it
+massive difference. The transcription
+quality is quite excellent for this tool
+in particular because Whisper Flow has
+this additional AI step at the end of it
+that smooths out the transcript instead
+of just a raw transcription which can
+have mistakes. It does reduce
+misspellings and makes the text more
+coherent which is particularly important
+if you do computing stuff if you do
+coding things right if you say PHP and
+you want it to actually be PHP and not
+like some other weird transcript thing
+that may come out of it or Ruby on
+Rails. I don't know what the transcriber
+might think of this if it doesn't know
+the term. So, it's really nice to have
+an AI look into this. So, when I have a
+coding task, which is what this whole
+podcast episode is about, I use Juny
+right now, which is the AI coding
+assistant for Intelligj's PHP Storm
+platform. It's my IDE of choice. And I
+want to use it. I just start talking. I
+might even switch between Windows. I
+look up articles, blog posts, research,
+related information, all while I
+verbalize my thoughts. I scroll through
+my own codebase. I name certain
+functions, right? I I talk about stuff
+that already exists and how to
+contextualize it, but I just speak it.
+And once I'm done speaking, I select the
+Juni window and I paste what I said. And
+that becomes my prompt. And these spoken
+prompts typically follow a very specific
+structure that I have found works best
+for coding. I start by speaking through
+where we are right now, what the tool
+is, what it currently does, what's the
+current status of the code that I want
+changed or augmented, which files are
+relevant to all of this, and what
+business logic might be impacted by it.
+I kind of give it an environmental
+description, and then I describe what I
+want the changes themselves to look
+like, what the interface components are,
+the wording changes, new logic,
+different outcomes. I try to prompt
+outcome first. I give as much detail
+about the desired outcomes as possible
+and about half the time I also provide
+detailed implementation steps not just
+outcomes but steps there the process
+because sometimes I know exactly what
+the solution should look like I just
+don't want to type it out I'll say
+something like here's the class that I
+would create here's the job that I want
+you to create for this and the job gets
+invoked and dispatched at this point in
+that file in that function in this
+context I just kind of built what I have
+in my mind, the mental model that every
+developer develops of their code, I
+verbalize it to the AI, so it knows
+exactly how I'm thinking about it. And
+after developing this workflow over a
+couple months, I've noticed that my time
+breaks down into a consistent pattern
+here that works best. It's roughly 40%
+of my time is setting up the prompt.
+It's like talking myself through it and
+turning this into a verbalized
+transcript. Then 20% of my time is
+actually waiting for the code to be
+generated, waiting for the agent to do
+the work. And then 40% the remaining 40%
+of my time is reviewing and verifying
+the code. And that 40% upfront
+investment into this prompt I think is
+crucial because I've tried with less and
+the quality was pretty bad. The things
+that came out of it just didn't fit.
+They were too much, too little. But the
+moment I spent 20 minutes sometimes just
+verbalizing my prompt, all of a sudden
+what it would have taken me a couple
+hours to build is then done in 10
+minutes by the AI. And if I had only
+spent 5 minutes explaining it, I would
+have done it in 10 minutes. It would
+have been bad and I would have to do the
+whole thing and couple more 10-minute
+steps after that. Usually half an hour,
+under half an hour, 15 minutes,
+something like this, of just explaining
+exactly what you need will allow you to
+build very, very good first shot
+results. So that upfront investment is
+crucial. And the more time you spend
+giving the AI context, the less likely
+you will run into unexpected errors cuz
+you've kind of matched every potential
+scenario and explain what should happen.
+A highly contextualized prompt will
+generate code that does not surprise you
+and doesn't surprise itself because
+agents are now kind of recursive in how
+they interact with their own code. So
+the more you contextualize, the more you
+reduce errors in the process. I found
+that being verbose here and if you
+listen to this podcast you know exactly
+what I mean with this is super helpful.
+Just talk talk think about everything. I
+often repeat myself even when I describe
+what I want, especially for like
+critical business logic because the AI
+doesn't really know what is critical and
+what is not. So if I'm dealing with
+important data that could be corrupted
+or mishandled if I didn't get it right,
+I lay out every single scenario, what
+the data should look like, what changes
+should look like, what's allowed, what's
+not allowed. I make it almost repetitive
+to ensure that the AI system understands
+every case and what's important in it.
+And this might be weird because we're so
+trained to be concise in how we
+communicate as developers, but for an AI
+doesn't really matter if you repeat
+yourself 10 times. In fact, it helps
+because it gets to see what you stress
+as something meaningful and important
+and valuable. And this level of detail
+pays off because the AI takes the same
+care and projects it into other parts of
+the application that you might not have
+even thought would be involved in the
+changes if you hadn't talked about it
+before. So when I know that multiple
+files and complex interactions are
+required, which is often if you're
+building on top of an existing codebase,
+I do give the AI explicit instructions
+to be thorough in the planning stage. We
+have these reasoning models now that do
+a lot of planning before they actually
+go into like research or thinking,
+right, or giving you a result
+inferencing. I tell it to search for all
+files where certain code might be
+relevant or where models that are being
+changed where the task is to change a
+model or something are being used or
+they are being implemented or there is
+an interface that's related. I want to
+find every place that needs modification
+instead of jumping to the first place
+and forgetting others. And for the agent
+to do that, I need to tell it to be very
+thorough in exploring as much as it can.
+To help with this, inside my IDE, I open
+two or three core files that I know will
+be involved before running the AI. Like
+if I were to do something on my podcast
+model, for example, right? I wanted to
+have the AI add a couple more
+demographics to the estimator or I
+wanted to, you know, build something
+that if a podcast is marked as hidden by
+a user, it removes it from the database,
+something like this. Then I open my
+podcast model file. It may be the
+podcast dashboard controller file. and I
+put it in the context of the prompt.
+This gives the agent anchor points and
+it doesn't have to search the whole
+codebase which is something that tools
+like cursor often do. No, I give it the
+specific context in which I want it to
+operate. It can start with these key
+files and then it usually finds
+references from there. I found much
+better success with this approach than
+giving the AI either the entire codebase
+or nothing at all. Couple key files,
+that's all you need to put in. And
+usually then I hit generate. The AI runs
+for 5 to 10 minutes depending on the
+complexity of the task. Sometimes for
+very large features that require dozens
+or hundreds of file changes, I need to
+come back and eventually type continue
+to finish the implementation. Rarely
+happens, but for normal midscope
+features, one shot is usually enough to
+get something usable out of it. And then
+we're now 60% into this. come the 40%
+that's probably the most crucial period
+of all of this workflow code review and
+this is where I investigate every change
+line by line I look at code that I
+didn't write which requires intense
+focus but it certainly beats having to
+write all the code myself so do
+appreciate it and since I've given it
+such a specific scope definition of what
+I want the generated code usually aligns
+well with my expectations and that's
+just me talking about Juny here right
+that's the tool that is built into my
+IDE that has access to all the automated
+code intelligence and all of this
+probably helps. I've not done this work
+with Windsurf or Cursor. I've checked
+them out, but they might have different
+levels of integration. I'm telling you
+what works for me, but I have one
+non-negotiable rule in all of my code
+review. Even though the code might be
+great, I must understand every single
+line of code written by an AI agent. I
+have to go through it. Even if it looks
+good and it works because I try to test
+it. I always test changes immediately to
+catch logic errors or when it misses an
+import or something like this. Even if
+it looks good and works, I need to
+understand it. I need to check out every
+single line. And most of the time,
+that's probably 80% in my experience.
+The code works on the first try. When
+there are issues though, they're usually
+small. They forgot an import statement.
+they just reference the class because
+they know it's there but it's not really
+imported for the compiler to find or
+there's slightly incorrect syntax or
+minor logic errors. These typically take
+no more than two or three changes to fix
+and often it's enough to take the output
+of the error somewhere and just paste it
+right back into the the prompt and it
+will figure it out and fix it for you.
+But code review gets pretty hard when
+entirely new files are created. when
+there's a completely new job being
+defined or something, I actually have to
+read and understand the entire
+definition. I can't just look at what
+changed and verify that it looks right
+in the context of, you know, the
+existing function. I need to dive deeply
+into the logic. And that's the only
+stressful part of that code review
+usually is when there's a completely new
+file, need to figure out does it fit,
+right? Is it the right smell? Is it the
+right location? Is it the right
+connection? And one of the most powerful
+features there for these AI coding
+assistants is the ability to set
+guidelines. Juny uh for example,
+obviously the others do that too, lets
+you define coding standards that get
+applied every time an agent runs. You
+can tell it to, I don't know, create
+unit tests for every new method that
+they create or integration tests for
+every new end-to-end job or define your
+test suite and how you want it to be
+run. Tell it about your coding style or
+the code smell that you want by giving
+it examples. All of this gets
+automatically applied if it is well
+defined. And in the documentation,
+IntelligJ even suggests having the AI
+create these guidelines by investigating
+your existing codebase, which I think is
+so cool. It's such a cool idea to have
+an AI that is smart enough to set up
+guidelines for itself to stick to by
+investigating the thing that they're
+supposed to help you with. Like, how is
+this not magical? I wonder. You can task
+it to understand how you currently built
+your product, how your code is
+structured, how you approach jobs,
+background jobs, database connectivity,
+all of that. And then it codifies this
+understanding into guidelines that it
+will use every single time it creates
+code for you. So I recommend always
+using these guidelines. They're not just
+useful for code quality, but for
+providing architectural insight, both
+for the AI and for yourself. You can
+tell the system, my back end is Laravel
+version 12. My front end is Vue.js. We
+use inertia to bridge them to. We try to
+use as few libraries as possible in this
+part of the program and we prefer
+external services for these kind of
+features. And if you have this all
+written down, well, it makes integration
+and decisions around this much more
+intelligent, right? It gives the tool
+the tools to make the right choices for
+you. So that's my agentic coding
+experience, my voice to code thing
+because you know everything is kind of
+spoken at this point. But agentic coding
+isn't the only way I use AI in
+development or in my business to begin
+with. For less technical issues like
+operational challenges and maybe even
+super technical things like server
+errors and database stuff, but it's it's
+not coding related, I use conversational
+AI like claude in the browser. So when
+my servers start throwing 502 errors
+intermittently, that's a problem that I
+still have on occasion. It's because my
+back end is just hammering the server
+all the time with with new um
+transcripts and stuff and sometimes
+errors appear. I can ask well what could
+be the reason clot? Where should I start
+looking? Which log files should I
+investigate? When I have a large JSON
+object and I need to extract data with a
+bash command or I need a script to
+convert CSV to JSON, stuff like this, I
+handle these through back and forth
+conversation rather than integrated
+agents. And recently I used Claude's
+artifacts feature for prototyping
+front-end prototyping. That's so cool. I
+highly recommend you try this. I was
+working on analytics, a visualization
+for pods scan because we track podcast
+charts and rankings over time. So I
+wanted to show to my customers how the
+chart position moved and wanted the
+graph for this. So I took example data
+straight from production. just went into
+the database, copied some metadata from
+one podcast, pasted that JSON into
+Claude, and then asked it to generate
+three different ways of visualizing this
+data as live React components. And Cloud
+is really good at building React code.
+Like they built an HTML file and get all
+the JavaScript in there and all the
+React and you can actually test it and
+and use it and run it. So it built three
+different interactive components and
+once I found the one that I liked, I
+told it to convert that into a Vue.js JS
+composition API component, which is what
+I use in in Potscan for my own project.
+And then I took that component, threw
+that into my coding agent, and told it
+to integrate everything properly. It's
+so powerful. It's incredibly powerful to
+have a workflow like this for
+prototyping and iteration. Everything is
+done by the machine, yet you have all
+the joy of interacting with the in
+between stages and figuring out where
+you want to go. It's really powerful.
+And one of the most impressive
+applications for this AI stuff recently
+for me has been documentation generation
+because nobody likes to write docs. And
+this week I overhauled the documentation
+for the potscan fire hose API. By this
+week I mean earlier this morning and it
+took me 10 minutes. A customer mentioned
+some parts were outdated. And the fire
+hose API for Podcan, in case you haven't
+followed this podcast religiously for
+the last 50 or so episodes, is a web
+hook based data stream that sends
+information about every single podcast
+episode that we transcribe the moment we
+finish processing it. Right? There's
+like 50,000 shows a day that release a
+new episode worldwide. We grab them all.
+We transcribe them and then we send off
+the full data through the fire host to
+our customers that need this data. It's
+it's in the advanced tier like the most
+expensive tier of Podcan to be able to
+access this information. Contains the
+full transcript, host guest
+identification, sponsor mentions, all
+the main themes, topics, basically
+everything we analyze dispatched as a
+sizable JSON object. Like most of the
+data is just a couple words, but the
+transcript that can be megabytes in
+size. Imagine Joe Rogan talking for 4
+hours about something. That is a
+significant transcript and we just zip
+it out. So to update the documentation
+which already has most of this well
+definfined or had at that point I took
+my existing markdown documentation from
+the notion document in which it's kept.
+I turned on my fire hose on my own
+account into a test web hook to collect
+real data for a bit and after getting
+about 30 to 40 episodes worth of actual
+data which is like a minute or two I
+exported all of this as CSV directly
+from webhook.site site. That's what I
+use for testing. And then I had Claude
+create a bash script for me to condense
+the transcript portion so I could fit
+more examples into the AIS context. So I
+had Claude build a little script to take
+my massive JSON and snip out most of the
+transcripts from inside the JSON and
+then create a CSV file again. Put that
+into Cloud and I told it here's the
+existing documentation attached to
+markdown. Here's the real data showing
+the actual structure and field
+variations. attached to CSV, update the
+documentation to be comprehensive and
+accurate, respond in a markdown
+document, and less than a minute later,
+I had extended documentation that
+included everything from my prior
+version that I'd already written
+manually, like a person from the 1500s,
+apparently, but it had replaced all the
+simple examples that I handcrafted with
+a table-based index of every single
+field, what types might be expected,
+when they're present, and what their
+purpose is. It was 95% correct. It was
+mostly incorrect in terms of frequency
+and stuff. So I went through it again,
+code review, corrected it, and the
+remaining 5% took very little time to
+fix. I think like 5 minutes just to read
+through the whole thing. And this is how
+I code now. This is how I run my
+business, my my software as a service,
+podcast database business. It's just me
+wrangling AIS to do my bidding. It's
+bizarre that this is a thing. I would
+never thought that this was the future
+that I would live to see. But here's
+what's most fascinating about this
+entire transformation. Those 20% moments
+when the AI is generating code between
+the 40% of me telling it what to do and
+the 40% of me checking. That still very
+much feels like cheating. It feels like
+somebody else is doing the work for me
+and I should be working. I have to
+remind myself that without this process
+of specifying, executing, and reviewing
+40 2040, I wouldn't get half the things
+done that I accomplish in a day.
+Probably not like even 10% of it at this
+point cuz it is extremely reliable and
+super fast compared to me spending 2
+hours on a whole thing instead of just
+half an hour. I'm often humbled by the
+speed at which these systems generate
+code. It's not always right, but neither
+is mine to be honest. When I write code,
+I'm confused when people complain about
+AI writing code that doesn't work. They
+seem to forget that they themselves
+write code that doesn't work immediately
+and always needs debugging or needs at
+least some kind of iterating process.
+Coding for most of us and I call myself
+a 0.8x
+developer both jokingly and
+realistically. I'm not the best coder
+out there. It's always been trial and
+error for me at least and for many
+others until the errors become small
+enough not to matter. That's the process
+that I had. And I think just from
+watching Juny do the work like from
+actually reading the individual steps.
+AI systems work the same way internally
+now. They have self-checking loops. I
+often see an agentic system tests its
+own work either linting it or realizing
+that something can't compile or is
+interpreted and doesn't work and they
+try again until it finds the right
+approach. And that's exactly what a
+developer would do. What we're
+witnessing here is a transformation from
+being code writers to code editors.
+We're no longer writers of code. We are
+the editors of code. And what we call a
+code editor now might as well be
+redefined, right? It's not the program
+that allows us to type in things, but
+it's a tool where we say, "Yeah, I
+approve of this code. Yes, do this. Oh,
+you've done this. Okay, it's fine." Or
+it's not. Do it again. I think it's a
+fascinating redefinition of terms in our
+industry that we are looking at right
+now. And I think this is becoming the
+norm very quickly, this approach to
+coding and doing stuff because we need
+to understand something important here.
+Today's version of AI assisted coding is
+probably the worst version we'll ever
+see again. It might be the best we had
+so far, obviously, but it's also the
+worst one that we'll have going forward.
+Everything is going to be better.
+Tomorrow's version will be better and
+the day after that will be even better.
+At the speed that these things are
+developed, that might actually be
+factually the case. And these systems
+will become more reliable, more
+autonomous. will see fewer interventions
+needed and more sure this works looks
+good to me responses from people
+particularly with the advent of people
+understanding MCPS the model context
+protocols and integrating external
+verification systems AI will be checking
+its own work through external tools and
+internal tools that we build for it and
+that are built into the idees and
+development systems of the future so if
+you're still writing code entirely by
+hand I think that's great that's fine
+that you can actually still do that it
+still something that we need to be able
+to do. I occasionally take a step back
+and code manually only to quickly get
+frustrated with my own limitations which
+have always been there. Right? It's not
+that I've forgotten how to code. It's
+that it's always been a struggle to get
+things just right. For perfectionists,
+this is particularly complicated. But if
+the alternative is telling someone to
+write code for you, then understanding
+that code and saying yes, this is
+exactly what I would have written or no,
+try again. You missed this thing. Now,
+that is the superpower all in itself. We
+thought coding was the superpower, but
+it turns out that the typing part never
+really mattered. What matters is
+understanding what good code looks like,
+what it does, and what it shouldn't do.
+Being able to discriminate good code
+from bad code all of a sudden becomes
+much more important than being able to
+type good code into an editor in the
+first place. You still need to
+understand algorithmic complexity, basic
+algorithms, data types and all that so
+you can prompt effectively. But you
+don't necessarily need to implement
+everything by hand anymore. You just
+need to be able to get it. And this
+obviously translates into other fields
+as well. You can apply the same 40 20 40
+approach taking time to get the prompt
+right, giving as much context as
+possible, and then expecting mistakes
+and approaching it from a corrective
+verification perspective. You can take
+that to writing, sales, outreach,
+research, really anything. You just have
+to know what looks good when you look at
+the result. And this feels like the
+inevitable conclusion of automated
+software development to me. We're
+experiencing something here that
+certainly wasn't possible a couple years
+ago. And it feels like we're just
+getting started. And if you're not
+already experimenting with AI assisted
+development, I encourage you to give it
+a try. See if it fits somewhere into
+your workflow. Start small maybe with
+documentation like I did or simple
+scripting tasks and work your way up to
+more complex features that you let these
+agentic systems build by themselves. See
+how far you can take it without being
+completely annoyed by it because there's
+always a ceiling of the mistakes that
+you're allowing to happen in front of
+your eyes. But I believe the future
+belongs to those who can effectively
+collaborate with these systems. And the
+best way to learn that collaboration is
+to practice it today. The tools will
+only get better. But the fundamental
+skills of knowing how to specify what
+you want, how to review what you get,
+and then iterate towards better results,
+that's something you can start building
+right now. And frankly, I think you
+should because the people you're
+competing with, they're figuring this
+out, too. So what matters isn't whether
+you can type faster or remember more
+syntax. That's 90s coding. What matters
+is whether you can think clearly about
+problems, communicate effectively with
+these systems that are building the
+solutions for you, and recognize quality
+solutions when you see them. These are
+the skills that will define the next
+generation of builders and the next
+generation of successful software
+businesses. And that's it for today.
+Thank you for listening to the Bootstrap
+Founder. You can find me on Twitter at
+Avidka Avid Khl. If you want to support
+me on this show, please talk about
+potscan.fm to your professional peers
+and those who you think benefit from
+tracking mentions of brands, businesses,
+topics, names on podcasts all over the
+place. 50,000 episodes a day. We
+transcribe them all. We have this near
+real-time podcast database with a really
+really solid API and a really good
+search. So please share the word with
+those who need to stay on top of the
+podcast ecosystem. I appreciate it.
+Thank you so much for listening. Have a
+wonderful day and bye-bye.

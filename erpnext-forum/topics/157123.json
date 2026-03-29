@@ -1,0 +1,51 @@
+{
+  "topic_id": 157123,
+  "title": "Why  ERPNext only support advance receipts and advance payments through Payment Entry?",
+  "slug": "why-erpnext-only-support-advance-receipts-and-advance-payments-through-payment-entry",
+  "category_id": 6,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-11-21T08:51:55.729Z",
+  "last_posted_at": "2025-11-21T08:51:55.847Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/why-erpnext-only-support-advance-receipts-and-advance-payments-through-payment-entry/157123",
+  "views": 41,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "ssqzr",
+  "posts": [
+    {
+      "id": 487121,
+      "username": "ssqzr",
+      "name": "Ssqzr",
+      "created_at": "2025-11-21T08:51:55.847Z",
+      "cooked": "<p>when i make advance payment(“Is Advance“ is checked) in journal entry, it will show alert “Making Journal Entries against advance accounts: {0} is not recommended. These Journals won’t be available for Reconciliation.“</p>\n<p>If I forcefully submit it, there will be no record of the advance payment when selecting it while creating a purchase invoice.</p>\n<p>Accounts payable and receivable can be recorded through journal entries.</p>\n<p>Journal entry should be a universal bookkeeping method, and it should be able to record transactions of any type.</p>\n<p>Why is it restricted that only Payment Entry can record advance receipts and advance payments?</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/ssqzr/{size}/87557_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 18,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

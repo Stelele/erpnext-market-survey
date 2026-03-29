@@ -1,0 +1,53 @@
+{
+  "topic_id": 160033,
+  "title": "QR Code inside table row in print_designer",
+  "slug": "qr-code-inside-table-row-in-print-designer",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "customization",
+    "print_format"
+  ],
+  "created_at": "2026-01-30T05:57:57.230Z",
+  "last_posted_at": "2026-01-30T05:57:57.372Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/qr-code-inside-table-row-in-print-designer/160033",
+  "views": 44,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "MagIngMech",
+  "posts": [
+    {
+      "id": 492908,
+      "username": "MagIngMech",
+      "name": "Dino",
+      "created_at": "2026-01-30T05:57:57.372Z",
+      "cooked": "<p>Hi, I am trying to create custom work order print format with operations table and the last column of the table should be QR code of the respective job card for that operation. I can get QR code generated outside the table, but don’t know how to embed it into the row of the operation ?</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/3/0/30db70169a8be764bc2b4ab31ba8b4a6334f8cec.jpeg\" data-download-href=\"https://discuss.frappe.io/uploads/default/30db70169a8be764bc2b4ab31ba8b4a6334f8cec\" title=\"Capture\"><img src=\"https://discuss.frappe.io/uploads/default/original/3X/3/0/30db70169a8be764bc2b4ab31ba8b4a6334f8cec.jpeg\" alt=\"Capture\" data-base62-sha1=\"6Yd3QjnvIAQdEK1L23eIWuEZ2aw\" width=\"323\" height=\"192\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Capture</span><span class=\"informations\">323×192 7.87 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Thank you for your help!</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/9e8a1a/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 19,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

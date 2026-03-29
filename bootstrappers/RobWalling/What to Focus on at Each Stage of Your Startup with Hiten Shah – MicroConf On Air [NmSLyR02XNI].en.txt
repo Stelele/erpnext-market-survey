@@ -1,0 +1,857 @@
+﻿[Music]
+welcome to today's episode of microcon
+on air I am your host Rob walling as
+always every Wednesday we live stream
+for about 30 minutes and we cover topics
+related to building and growing startups
+in an ambitious way but in a way that we
+can allows us to preserve our freedom
+our purpose our relationships and
+doesn't burn us out today I'm really
+excited to be welcoming heat and shot to
+join me but before we dive in I have a
+couple housekeeping items number one if
+you haven't heard or watched our
+playlist on YouTube it's called building
+your first sass the ultimate crash
+course she made the youtube.com slash
+micro conf and we have a handful of
+playlists there that with curating its
+out of a hundred and ninety-four micro
+comm talks we curated ten that make a
+crash course a master class in essence
+in in idea validation and launching and
+growing and there's one about customer
+support one about staying mentally
+mentally fit and mentally acute while
+you're doing it and not being stressed
+out so building a first SAS help from a
+crash course it's for free youtube.com
+slash micro cough if you want to
+participate in conversations like this
+we already have two questions that have
+come in for heating today so there's
+there's always live Q&amp;A in order to
+participate in that go to micro Kampf
+connect calm apply to be a member and
+it's a free year-round slack channel we
+are around a thousand members in the
+slack Channel is a really good
+conversation it's heavily moderated
+really high level high quality
+conversation in there from all types of
+micro founders there's info products
+there's WordPress plugins SAS founders
+though the whole deal so micro Kafka
+calm if you want to be part of that
+community and be able to ask questions
+on these live streams if you miss an
+episode of this live stream head to
+micro Kampf on it well head to any
+podcast app and search for microphone
+air we are taking the audio of these
+files and we are releasing them a
+synchronous late as in the podcast feed
+so I think we're a couple episodes
+behind right now but I was checking on
+that last night so we'll see when we can
+get those up micro Kampf on air as a
+podcast and lastly thanks as always to
+Basecamp and stripe there
+are you know Michael golf headline
+partners this year and they make it a
+lot easier for us to get done what we do
+so today I'd like to welcome Heaton Shah
+to join me he and I are gonna dive into
+what to focus on at each stage of your
+startup Heaton tends to not need an
+introduction in the microf community but
+just in case you forgot he co-founded
+crazy egg KISSmetrics and now fYI and
+that's at use fYI dot-com fYI brings all
+your documents from all your apps and
+accounts together in one place
+Heaton has self-funded several
+businesses he ran an agency he has
+raised venture funding and he also blogs
+and has an email newsletter at product
+habits calm him anytime and highly rated
+micro comm speaker and host of the
+startup chat podcast is steli efti
+hating siya thanks so much man things
+coming on the show are we quarantine
+weary I was just commenting we're
+growing our hair out we're like no he's
+an easing into this stuff so we're gonna
+talk about some pre product market fit
+post product market fit stuff from your
+experience but I want to kick us off
+with a question from Korean Pope it's
+kind of a two-part question she says I'm
+a former product manager and early stage
+founder I know Heaton is a big product
+guy so I'd be curious what blind spots
+might former product managers have when
+building their own thing and how much
+time do you usually spend on product
+stuff versus everything else yeah I
+think the the biggest blind spot is you
+if you're if you're doing something on
+your own that's really interesting as a
+product manager I think the most product
+managers have a sort of variety of
+experiences so the blind spots tend to
+be things that they didn't have to worry
+about or have enough experience with I
+mean there's a lot more to a business
+than just the product that's typically
+what I would say like especially as a
+business gets more mature but it
+questions really challenging to answer
+because it really is based on your own
+experience pre starting the business and
+it doesn't matter if you're a product
+manager or your sales person in your
+market or you're an engineer
+you're what you're really looking out
+for when you start something new is any
+of the biases that you're bringing into
+the experience and and making sure that
+you're actually able to find ways to
+consciously address those so like if
+you're a product manager your bias is
+probably going to be like hey let me go
+build product and I'll product my way
+out of any problem that I have if you're
+a salesperson you probably sell your way
+out of any product yeah if you're a
+marketer you'll market your way out of
+any product you have and the classic one
+is if you're an engineer you'll engineer
+your way literally with code out of any
+problem you have so I think it's like
+the the skillset that you end up
+figuring out really fast that you need
+to solve for is actually not your past
+experience but the ability to learn new
+skills really fast and making sure that
+you know which what the right skills are
+that you need to learn at any given
+point in your business that's kind of
+why I think the topic you know for today
+is sort of really fascinating to me and
+continues to be yeah yeah totally I know
+that even as I grew one business after
+the other I tended to make similar
+mistakes I come back to product too much
+I over build I had not an engineer
+anymore I code on the weekends but I
+don't write production code but I just
+it's the my hammer is always to build
+features and I really have to talk
+myself out of it and be aware of that
+it's like a blind spot you know and did
+it with her tail did it with trip I mean
+it's just always a it's always a thing
+so totally get it will I think will
+Johnson asked you've written a ton over
+the years I wonder if any of your
+articles are your favorite to have any
+favorite articles or which you think are
+timeless
+my favorite article is the one that
+hasn't been written yet
+and I definitely write less these days
+and tweet more so I would say that like
+yeah I you know this is a very
+interesting question because the concept
+of a favorite or the concept of the best
+or that concept I think can create sort
+of a artificial level of sort of praise
+for yourself when really like
+you should be worried about is what's
+next not what you did in the past in
+order to basically grow the fastest and
+I really do believe in sort of that's
+personal growth I think fast business
+growth is a whole different situation
+and conversation the fast personal
+growth is I think important regardless
+and yeah so I think the idea of favorite
+or best I would be doing myself a
+disservice if I really wanted to point
+something out and say hey that was my
+best thing because that implies that
+maybe I can't do better ever again
+and so a lot of my time is spent more on
+what's next and way less so on sort of
+what happened in the past whether it was
+good or bad I mean we you know in my
+companies we do a lot of post mortems I
+do those mentally for almost every
+experience that I had personally at the
+same time like it's just about getting
+better and so yeah there was this
+article I wrote about my billion dollar
+mistake that was very popular if you ask
+other people they might say that's my
+best article or that's the favorite
+thing that I've written I mean I wrote
+it four times over like five years
+it came from notes that I wrote like
+about my experience at KISSmetrics and
+where I really screwed up or where I
+think I screwed up and I look at it now
+and I'm like like kind of sucks to get
+honest there like it was probably my
+most popular thing I've ever written
+right when you look at a popularity
+standpoint but I think it sucks and like
+I'm really much more focused on what's
+next and honestly like I think some of
+the best writing is when you're coming
+from an experience of your own that
+resonates with other people because it's
+just a story and it's like something
+where like they've either experienced
+some version of it themselves or they
+can get pulled in to the point where
+like it's visual like there's a visual
+for them or like a they've sort of a
+level of empathy there and like what
+your if you want to do your best work
+and find something like that I think
+like it's really important to like think
+about what your own sort of personal
+experiences that can resonate with other
+people and then working on putting
+content out that has more of that kind
+of format seems to be what's working
+right now but like again like I don't I
+don't think I'll ever have that
+experience again and be able to write
+about it so I had it I wrote about it
+I've moved on and I'm very much focused
+on like what's next
+yeah yeah that makes a lot of sense wait
+you when I heard the question I was
+thinking oftentimes the one thing I'm
+working on now or about to publish is my
+favorite and then but if I look back at
+a body of work I have several hundred
+essays as well typically it's it's
+almost tainted or or impacted by what's
+popular and so if I were to top of my
+head think of what's my favorite I I
+think it would be like the top five the
+ones that got the most digs you know or
+the most tweets or whatever and and
+that's I think a little bit disingenuous
+because I don't actually believe that's
+I don't know that that's the a good way
+to think about it you know yeah so cool
+um one more question and then we can
+dive into the main topic all right let
+me see if I can summarize this most of
+us are trying to do it all yeah most of
+us are trying to build a product trying
+to get to a break-even point and taking
+home enough income that we can quit our
+jobs at that point what are the first
+one or two areas where we should look to
+spend on for SAS growth so it's once you
+have you know some money obviously this
+is a self-funded company where would you
+look to spend first wet part-time
+contract help virtual assistants or
+would you invest in content and SEO or
+social or ad optimization or general
+admin support or whatever this is a bit
+this depends it depends answer for me
+but you have thought team yeah it
+depends for sure I think the way to
+think about where you spend your money
+as a self on a business is basically
+looking to figure out what's absolutely
+necessary for you to get that next
+customer and and the one after that and
+then the one after that and I think that
+that's not something that you would
+naturally kind of think about because
+because because of just you know and
+honestly like what I've seen is because
+of a lot of the emotion involved with
+like oh I just made my salary in a month
+that I just didn't imagine that I could
+do you know like just six months ago or
+a year ago or whatever and so I think
+like
+there is no right answer to this
+question except the answer that works
+for you the framework is what's going to
+help you get the next customer or if you
+have 50 or 100 or ten what's going to
+let you double that and just having that
+sort of rigor on that exercise is more
+important than me or Rob or anybody else
+telling you hey go do content marketing
+or go hire a virtual assistant honestly
+I don't know but what I do know is that
+you should only be focused on what's the
+what's preventing you from making
+getting more customers and it's likely
+it's just repeating what you've already
+seen work so so the idea of repeating
+what's already working finding ways to
+repeat that regardless of how you feel
+about it because I hear a lot of times
+like took me so much effort to get to
+these many customers like yeah and you
+think it's gonna get easier for the next
+that Betty no way right it doesn't
+really get easier
+it just gets it's just different and so
+I think the emphasis should be on like
+what's it gonna take for me to get
+double the customers I have or another
+five or whatever you're you know
+whatever you set up as your goals and I
+think what's really helpful here is when
+you actually have goals right and you
+can be like okay I have a hundred
+customers I'd like to get ten more every
+month right or 20 more every month okay
+so then you work backwards from okay
+what's it gonna take for me to get 20
+more well how did I get my last hundred
+and what did I have to do and what were
+the steps I had to do to get each one of
+those how can I do that for 20 more and
+then spending money and time all you're
+a resource allocation oriented around
+sort of solving that problem so to speak
+which is getting more customers you know
+and I look across like the tiny seed
+portfolio companies and even then the
+angel investments I made I see some
+companies come in to you know a tiny
+seed batch and they're like I'm
+overwhelmed with incoming leads and I
+can't do all the sales demos and I'm
+like okay so you either need to hire
+someone to do those or you're still
+doing support hire someone to do support
+so that you can do more demos which is
+right in line with what you're saying
+it's how do you land more other folks
+come in and they're like we don't have
+enough leads and it's like okay so now
+you either have to do some outbound you
+know outbound cold email or you need to
+do some inbound you need to do content
+marketing SEO blog that's whatever it is
+so that that's what I look at is it's
+like where is the bottleneck you know do
+you not have enough leads do you have
+too many or you
+leads but they're not converting so then
+we say well why you know do you need a
+higher touch sailors sales process do
+you need a to qualify people more do you
+need a lower touch sales process so
+that's that's where that is okay cool so
+let's let's talk about the topic at hand
+you wanted it to run through and kind of
+dig into what to focus on at each stage
+every startup and you and I talked
+offline and you were thinking you know
+the stages are essentially pre product
+market fit and post product market fit
+so you want to talk us through your
+thought process in those two stages yeah
+I think the the thing you just said kind
+of dovetails really well into this which
+is in my assessment and the time I've
+spent helping people think through sort
+of their business problems I found that
+there's always only one thing and
+there's just one thing that you can do
+and that's frustrating because there's
+there's your ability to discover what
+that one thing is that's the most
+important thing right now is the skill
+set and that doesn't matter what stage
+you're at that's the skill set you layer
+on this concept that I think it's taken
+me way too long to actually like
+appreciate is that an organization can
+only do one thing at a time and in the
+past I might have said something very
+different but the more I see the
+patterns the more I see kind of what's
+possible in what amount of time it
+becomes more and more clear to me that
+it's like a the there's like the easiest
+thing to get a team or even yourself to
+do is focus on a single thing and that
+that makes everything much clearer in
+terms of communicating responsibilities
+bubbling up those responsibilities to
+one thing and if you think about a lot
+of the management frameworks that are
+out there majority of them operate this
+way too and they focus on how they help
+you focus on getting to that one thing
+so I think as you mentioned Rob like
+depending on your scenario around what's
+going on in your business whether it's
+leads lead volume
+lead conversion you have a thing to
+focus on now all those things are things
+that become a problem at a stage post
+product market fit or some resemblance
+or product market fit so let's talk
+about pre product market fit first so
+there's a high level of debate about how
+to assess product market so that's the
+first thing I'll say the ultimate truth
+about product market fit is that you
+have especially for the majority of the
+folks that are listening in part of sort
+of the micro column sort of community
+and ecosystem you're you're likely to be
+building a self-funded business very
+highly likely you're very highly likely
+to be building a business where you make
+money and and the goal is to get
+customers that pay so let's just take
+that filter and just say that's the sort
+of type of businesses and if that's the
+case then pre product market fit you're
+aiming to get to a point where people
+are willing to pay you because they need
+what you've built and the way you know
+they need it is that they actually pay
+you for it
+they're convinced they pay you and then
+after they pay you the way you determine
+that it's a need is if they keep paying
+you and so there are ways that you can
+assess this but all that matters is that
+you get customers who want to keep
+paying you so my definition of product
+market fit in this context is you get
+customers that are paying you and keep
+paying you because they need what you
+built not they want it they need it the
+want part gets them to sign up the need
+part gets them to stay because it
+becomes a critical part of their life
+somehow right or their work or whatever
+it is you know that you're solving for
+them and so when you think about it like
+that anything you do that is not related
+to that you shouldn't do it the only
+focus should be how do I get people to
+need what I want or I'm sorry need what
+they said they want when they signed up
+and keep it and so I you know not to get
+philosophical about it but at the end of
+the day it
+there's anything you do that doesn't
+help anything you're doing or your
+team's doing that doesn't help you reach
+that goal then you shouldn't be doing it
+and so a lot of times what that boils
+down to is companies early on or
+businesses early on when you're starting
+all you really need to do and figure out
+is what do we need to do what do we need
+to build that gets people to keep paying
+us and working backwards from that
+concept and the thing is like if you're
+building something and charging money
+for it and you're trying to you know
+make a certain amount of money to either
+quit your job or have the passive income
+you have some goal in mind around how
+much money you want to make so sometimes
+it's just really easy to take that
+number and say I'm gonna do the minimal
+amount of work required to get that
+number and that's like what your goal is
+so it's like what do I need to build in
+order to hit that number and how can I
+do math simple math to figure it out so
+if I need to hit five thousand dollars a
+month in recurring revenue because
+that's my number that's my initial
+number that I want to get to that might
+be a high number but let's just say
+that's an initial number and you're
+charging fifty dollars a month you need
+a hundred people to pay you fifty
+dollars a month and not stop paying you
+so the part where people really screw it
+up is the idea of building something
+that has high churn and not realizing it
+has high churn that's why I keep harping
+on this they keep paying you so pre
+product market fit is all about finding
+something that people want to keep
+paying you for because usually most
+folks are working on a recurring
+subscription model there are other
+models so in those models like the would
+be you've built something that people
+want to keep buying whether they're you
+know and could be new people buying it
+or it could be the same person buying
+more of it that's fine but typically
+let's just say this is a recurring model
+you want to hit some number you work
+backwards from that number and you do
+whatever you can to get to that number
+and make sure it's something that people
+are repetitively are repeatedly willing
+to pay for now I'll give some tactics
+real quick and then we can move on to
+the next phase I'm assuming and so the
+biggest the biggest tactic here is that
+when you when you are doing your
+customer development work when you're
+talking to customers
+the thing you want to really focus on is
+the frequency of sort of behavior and
+finding things that are frequent that
+people are doing that you can help them
+do better if it's not frequent it's
+unlikely that they'll keep wanting to
+pay you for it or needing to pay you for
+it and what I mean by that is like if
+somebody's doing something once a month
+and it's super super high value to them
+for you to like help them do it once a
+month and but they're gonna do it every
+month once a month that's okay
+if they're doing something once a day
+and it's really painful for them to do
+before your tool and then you give them
+your tool or your product or whatever
+and now it's much easier for them to do
+it but they do it every day and they're
+willing to use your product to do it
+every day you're you're literally gonna
+be in the money if you solve their
+problem and and so so to me it's
+frequency and then the second piece is
+urgency how urgent is sort of that need
+and then and then there's pain so what I
+was referring to a little bit is there's
+a combination of pain and urgency so
+what I try to do in conversations and
+customer development is oriented around
+the solution or the problem that I'm
+trying to solve I'm looking for
+something that's highly frequent ideally
+high urgency and ideally high pain that
+is very rare like most things don't hit
+all three high so for example in my
+business we help you find documents in
+three clicks or less there is a
+frequency to it that's almost daily if
+not literally daily it is daily where I
+need to find a document and then the
+urgency when you need to find it is
+variable depending on the type of
+document and the urgent scanner but it's
+it's not low urgency it's usually like
+medium to high urgency maybe a little
+bit lower for certain things but usually
+it's high because I need it now and it's
+preventing me from doing my work if I
+can't find that document and then the
+pain is an interesting one
+the pains usually actually pretty medium
+or low it's not always it's not really
+high pain that like hey I need to find
+this document it's usually a medium or
+low but their urgency is pretty high
+relatively speaking and and the
+frequency is really high too and so this
+is the way I would map the opportunities
+you have in front of you whether you're
+thinking of different businesses you
+thinking of adding a feature is like
+basically figuring that out and then
+you're gonna be closer to solving over a
+problem that's recurring for people that
+they really sort of you know need solve
+for them so that's pre product market
+fit box I like that and as you were
+talking I was thinking about a tool like
+slack you know where the the frequency
+is extremely high right I mean some
+people are in an all day every day and
+the urgency is is variable but once
+you're in slack everything feels like
+it's urgent so that you know that's
+there and then the pain of not like if
+you were to use slack and then suddenly
+your whole team did not use slack it
+would all be emailing routes which a
+tool like there would be paying there
+you know so then and select grows like a
+you know one of the it's a b2b tool that
+grows like a b2c hasn't be a see growth
+curve and I went through mentally like
+drip you know drip where drip is on each
+of those and you know just was running
+through businesses in my mind so I
+really like that framework I haven't
+heard you talk about it before yep so
+what's what about a post product market
+fit you've built something that people
+want their you know to some degree
+they're continuing to pay you for it
+what's your thought your framework there
+yeah once you've figured it out and you
+found the whole idea of like people
+paying you and you feel like you know
+you have product market fit because
+there's enough people paying you turn is
+low what you really care about is one
+thing and what you care about and this
+is the thing that people get most
+distracted with is how do we get more
+people to that experience where they
+need the product so badly that they're
+willing to keep paying for it and all
+your job is is to get as many people as
+possible to that experience so in the
+earliest stages of sort of post product
+market fit when you feel it you're gonna
+see signs of word-of-mouth people
+signing up you don't know them you don't
+know who's signing up you don't know why
+they're signing up you're gonna see a
+lot of these signs even if it's just one
+or two extra people a day you're just
+gonna see some of those things happen
+and that's kind of when you kind of know
+it or you're just gonna see you're gonna
+basically think of it this way the sign
+of early fit and ready to scale so to
+speak or grow or whatever or is this
+idea this concept that like unsolicited
+people are coming to you somehow emails
+been like referrals are unsolicited if
+someone refers you and says hey I my
+friend should use this or whatever
+it's unsolicited it comes in so that's a
+sign second you have that you're gonna
+basically get a different type of
+audience than you kind of had before
+that's kind of like what you start
+seeing happen in almost every case and
+when that happens their experience is
+actually likely to be different than the
+experience of the people who got to you
+to product market fit and who are the
+early adopters so to speak not that
+you've gotten past early adopters but
+there's different considerations I've
+seen this like over and over again
+because the way they came into the
+product might be very different you
+might not have handheld them you might
+not have called them up to get them to
+use it so there's just a whole different
+context and they're coming in and it's
+likely your your site kind of sucks for
+them it's likely that you're you're
+you're sort of onboarding is not very
+efficient or optimized and it might even
+be manual which is totally fine if you
+can scale it manually go for it
+so that's the whole idea of like you
+know concierge onboarding and all those
+concepts that are kind of very micro
+comp concepts in my opinion and and so
+what you're looking to do as step one is
+make your own funnel as efficient as you
+possibly can for whoever's coming
+through it even if the numbers are low
+it's not about optimization like from an
+a/b testing standpoint it's more so just
+low-hanging fruit on how do we make this
+experience that much better and
+literally it's about taking every step
+of that experience whether it's on a
+screen in front of the people who are
+signing up or it's an experience where
+you're talking to them or an experience
+where it's even off your website
+somewhere else and think about how that
+experience could be made ten times
+better and really push on making those
+experiences better because it's likely
+just by doing that you're gonna be set
+up to like get more people because you
+already have people coming in not all of
+them tend to convert to becoming these
+customers who need your product and so
+on so that's the first step and then and
+the second step is is literally finding
+all the marketing channels all the ways
+to basically grow your top of funnel and
+get more people in there whether it's
+sales its marketing tactics or whatever
+it is and again doing just what's been
+working and figuring out how to scale
+and do more of that
+the thing I've said for many years and
+I'll continue to say that we tend not to
+do so the focus at that point is how do
+we get as many people as possible to
+that experience where they feel like
+they this is a product for them that
+they need and will continue to pay for
+and that's all that really matters and
+you can literally do that for the rest
+of this business because what will come
+out of that is new things you need to
+build out and things like that the the
+muscle to build is is this muscle that
+helps you see what I see and understand
+what the new people are coming into your
+product or into your funnel need that
+might be different than what people
+before that needed and that's how you
+basically expand because it's this
+recognition and this idea that you don't
+sort of you don't you don't you don't
+convince yourself that everything's okay
+and I just need more people to come in
+you have to convince yourself that I can
+make it better all the time we as a team
+can make that experience better all the
+time and you know that's why they say
+it's kind of silly that like we you know
+it it's sort of a good habit to go sign
+up for your product as a new user
+constantly and if you were thinking this
+way you would do that or you would on
+board people do user interviews user
+tests whatever your flavor is sales
+calls whatever with new prospects new
+people coming into the funnel so you can
+understand what their experiences are
+like because there's two things that
+change that you are not in control of
+you're not always in control of who's
+coming to your site or your business and
+and their experience like you're not
+always in control of that because a lot
+of it happens before they visit and come
+your site so you need to understand them
+much better and new people you know over
+time new people come and they have
+different impressions of your business
+when they start and whatever impressions
+people that you know came before had it
+might be very different for these new
+people the second thing is something you
+don't control much either
+and that that piece of it is basically
+the the idea that as time goes on the
+market changes and the people come to
+your site might be exposed to
+competitors or alternatives to your
+business and your product that you might
+not as clearly be aware of and that
+means that their whole impression of
+what you're doing is
+different because they might come in in
+the beginning they might come in be like
+oh you know the customers that came in
+were like I never knew I could do this I
+never knew this was possible then over
+time like six months in a year and
+longer other folks might have the same
+feature set functionality or the
+customers coming might already be
+exposed to an alternative and then they
+come in and they're like oh this is like
+X or Y and then the whole way you treat
+them is actually has to change because
+they have an impression that's very
+different than their impression from the
+early folks I think that's really
+insightful and something I don't I don't
+think a lot of people think about
+especially early on as an entrepreneur
+we were running up against time but I
+did want to get one more question in
+from the micro conf on our channel in
+micro Cove Connect Nick from dentally
+says how do you decide what areas of
+your product to focus on when you're in
+a really low churn market he says we're
+in a space where we don't really lose
+any customers which means we're always
+trying to figure out the best parts of
+our product to work on next how would
+you think about that well lucky you
+first of all and in finding that market
+and in delivering enough value where the
+turn is low I would focus on anything we
+can do on product I would basically just
+convert the whole business into a a
+acquisition team and so everything I
+would do would be how do we get more
+customers whether it's product features
+we add that help distribute the product
+to new customers whatever it is you know
+it depends on the context of your
+business in your product of course but I
+just flipped the whole team over to
+doing things that help you get more
+customers if your turn is that low
+because well it really matters is how
+fast you can get new customers at that
+point if churn is low it's all about
+just getting more customers flip your
+product team over to do that build tools
+that attract more customers whatever you
+have to do get more customers right you
+will not go wrong that way if you're
+correct about what you're saying about
+your business Eaton thanks so much man
+you always have tons of knowledge and
+insight and kind of a unique mental
+framework of thinking about things I
+really appreciate you taking 30 minutes
+to hang out with us today if folks want
+extractor you talk about talk about this
+kind of stuff every week twice a week or
+you get still twice a week on the
+startup chat yeah I think we're twice a
+week there yeah yeah the startup chat
+it's a podcast with
+steli efti and if you want to follow
+heatin he is H and sha on Twitter as
+well as prolific it used to be prolific
+blogger at a product habits calm that
+you know I do the same thing when I'm in
+between companies I do all this writing
+and thinking and then you start a
+company to get get pulled away so thanks
+again to heat and for coming on the show
+coming up we will be let's see next week
+may 6th same day same time it's
+Wednesday at 1:00 p.m. Eastern Geisler
+the week after that thanks so much for
+coming on the show I'll see you next
+time
+[Music]

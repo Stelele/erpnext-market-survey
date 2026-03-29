@@ -1,0 +1,540 @@
+﻿Hey, it's Arvid and this is the
+bootstrap founder.
+[Music]
+When you build a software business as a
+founder, you have this dream, right? The
+dream is to build something that people
+actually need, something that they want
+and something that will make you money
+and that you can keep building and make
+better and make more money as you build
+it and make it better. And maybe there's
+an extension to that dream where you
+sell it for millions or where you build
+a company that allows you to retire. But
+the core of the dream, the interesting
+part, I mean everything is interesting,
+but what is interesting right now is
+that you have a thing that you think
+needs to be built and then you build it
+and then people come and give you money
+for it because they actually need it.
+Now that is a dream. Quick word from our
+sponsor here, paddle.com. I use them as
+my merchant of record for all my
+software projects. They take care of my
+taxes, currencies. They track the client
+transactions and they update credit
+cards in the background so that I can
+focus on dealing with my product and my
+competitors and my customers and not
+have to deal with banks and financial
+regulators. I don't really like
+interacting with them at all. So, it's
+nice that Paddle takes care of this for
+me. So if you think you would rather
+just build your product at work on that
+dream and we will see how realistic that
+is the dream not working on it check out
+paddle.com as your payment provider
+[Music]
+people paying for your product is not
+just a dream right that's the general
+concept of entrepreneurship but along
+the way you will realize that this
+starting point isn't actually the whole
+story along the way there are a lot of
+things that you care about personally
+that other people simply don't. So today
+I want to demystify the stream. I think
+we should be diving into a couple of
+things that might be contentious,
+polarizing in their ways, but are
+definitely things that you as a founder
+are overindexing on that other people
+just don't care about. It's kind of a a
+warning to not do certain things even
+though they feel like the right thing,
+but they're not. This is obviously going
+to be different for every project and
+every founder, but what I have learned
+from my own experience building pot and
+the other SAS businesses in my life.
+Let's start with the visible part, the
+user interface of a software product. I
+thought if I don't spend hours or days
+or weeks tweaking this interface, people
+are not going to be using my product
+because they have high expectations.
+That's what I thought. And lo and
+behold, people still use it. Even though
+a lot of the things that I want to
+change, things that I feel deserve weeks
+of refactoring have been sitting in my
+feature backlog for months if not years
+at this point. People are, and I
+perceive this through the conversations
+that I have with them in customer
+service, they're very much focused on
+using the product to serve their needs.
+And as clunky as it might be, extremely
+rarely do I ever get feedback on the
+actual user interface. people just don't
+tell me about this kind of stuff. Might
+be a perception problem. They might not
+even understand it as something that
+they can complain about, but that also
+might be because it's further along or
+because it's good enough. But nobody's
+telling me, "Hey, you should really
+refactor this." And nobody will ever
+tell you this unless you build a
+refactoring tool for people who refactor
+all day long. Then they're probably
+going to talk to you about refactoring
+and maybe suggest stuff for your own
+software. But customers don't look at it
+like this, right? they see does it work
+for me? Does it work for me somehow and
+if it does then that's fine. If it
+doesn't at all then they will come. So I
+had one customer just one tell me in
+your product there's a certain kind of
+behavior that exists in this location
+and then in that location and in that
+location and it's slightly different in
+the fourth location. Could you please
+streamline this? We're getting confused
+whenever we use that. And I think this
+is really good feedback. It's interface
+feedback and it's something that I still
+have on the pile. Got to be honest. But
+here's the thing. They're using all four
+locations, right? It still works for
+them even though it is slightly
+confusing. It's not that they really
+complained about it. It was kind of the
+consequence of a longer conversation
+that we had when I asked them is there
+anything that comes to mind that should
+be changed should be different. So I was
+kind of pulling at it and that is what
+came to mind. It was the only thing
+really that they had that they could
+give me as feedback because the other
+things didn't even register as potential
+problems. So my focus in Potcan and also
+in the other products that I had before
+is never really on rebuilding interface
+components. Once they're built, they
+tend to work. They might be adjusted a
+little bit. They might need some sort of
+like redd designing or even just
+rephrasing of certain things that makes
+things much easier. It never really is a
+design issue. It always is an issue of
+wording of the phrase that is used for
+buttons, for names, for features, for
+sections. But my focus, and this has
+been my focus with PodsCamp in
+particular from early on, but more now
+than ever, is making the data that flows
+into the system as reliable and usable
+as possible. Because in the end, to my
+customer, that's all that matters. What
+data comes in and what of that data is
+useful. Because for Podscan, which is a
+podcast monitoring and podcast data
+service, people care about accurate
+transcriptions. They care about accurate
+results for their alerts. They care
+about reliable API access. Nothing about
+what it looks like is relevant. Like my
+API docs are pretty nice, but they could
+be so much nicer. That's another thing I
+have on my backlog. It's like build
+fancy API docs, but people already are
+using the API as it stands and they are
+using it well at that. So that is not
+worth putting my time on. Even though I
+see the Stripe API docs and I'm
+thinking, "Oh my, this is what I want."
+Or I look at some open source projects
+that have spent years of making this
+developer friendly and I'm like, "Oh
+man, I wish this was easy." But it's not
+and it's really not worth it. It is not
+relevant. people would probably be able
+to use the very first version of Potscan
+and the API UI if the data quality was
+high enough. Could still be the weird
+thing from early 2024 that didn't have
+all the changes I've added since and
+people would still find it valuable.
+Which brings me to not just the visual
+part, but the API design, the structural
+design of a software application that is
+consumable by other machines. As
+founders, we have this idea that we need
+to have exactly the finest API, right?
+We want the API that people at Stripe
+would look at and say, "Wow, this is
+welldesigned." That's what we want. At
+least that's what I want. But people
+really don't care. I have hundreds of
+people who use the Potskin API to power
+their businesses at this point. And one
+person reached out and said, "I'm trying
+this API endpoint and it's weirdly
+named." And that person never converted
+into a paying customer. And well, I did
+look into this and it was a little issue
+of me using uh capitalization in an API
+route for some reason. That was really
+strange. So like an API route that had
+like an uppercase character in it and
+the lowerase version of it didn't work
+but the uppercase like slightly
+uppercase version did. So I kind of
+tried to adjust it a little bit but in
+the end these kind of things super on
+the back burner. I don't really care
+about this. My API is designed well, I
+think, but I do not go overboard in
+making it the most beautiful thing I've
+ever seen. Overengineering, I think, is
+my enemy when I run a software as a
+service business because I come from a
+technical background. I want things to
+be perfect, but the reality is that the
+first version that is deployed of
+anything will eventually be depended
+upon by somebody. There's something
+called Hyram's law and I think I made an
+episode about this in the past that with
+a sufficient number of users of an API.
+It doesn't matter what you promise in
+the contract, all observable behaviors
+of your system will be depended on by
+somebody at some point. So even if I
+don't explicitly build something into
+the API or if I build it and don't
+document it or if I just build it cuz I
+want to keep it for a little bit then
+maybe change it, somebody will find it.
+use it and then I can't change it. So
+I'm not going to go overboard in making
+this a beautiful thing and changing
+things along the way. The important part
+is to document it well and if I need to
+change it, I must change it in a new
+version. That's where versioning comes
+in. And that is the moment I go from V1
+to V2 is when I will do another pass at
+API design. probably probably not in the
+next couple months because it's working
+perfectly fine and particularly now that
+you have documentation for it that is
+automatically generated and let's be
+honest likely automatically ingested and
+worked upon by things like cloud code or
+codeex or any kind of coding tool these
+agentic coding systems it's probably
+more important to be accurate in
+describing your API than in making it
+perfect and like aesthetically pleasing
+because documentation will be consumed.
+AI systems will try to build it. They
+will test it. They will try to adhere to
+full exports of the JSON schema of an
+API or something. They will figure out
+how to use it and get the data that they
+need. And for humans to interact with,
+you have written documentation that can
+also be automatically generated by these
+systems. And this documentation doesn't
+have to be great. Doesn't have to be
+fancy. Doesn't have to be flashy. It
+needs to be text that you can copy and
+paste and throw into clot code or any AI
+system. It's pretty much what it is.
+Honestly, if you build anything and you
+build documentation, just make it
+accessible. Make it so that people can
+copy it, copy paste it, can run it,
+throw it into claw chat, GPT to get the
+gist of it or a code example. Make it
+easily accessible. Do not make it this
+JavaScript single page app that can't be
+scraped or parsed by OpenAI or
+Enthropic. This will be an actual
+drawback for adoption of your system.
+You want something that people can pull
+very easily into their development chain
+so they can use the documentation your
+source of truth because they don't have
+the source code. They have to rely on
+the docs as a data foundation for the
+agentic or the real human coders. So
+when it comes to userfacing docs people
+don't really care what the documentation
+looks like can be a standalone help desk
+software like intercoms knowledge base
+or what I use crisp. There's a knowledge
+owl which is a really cool company. I
+had their founder on my podcast a couple
+months ago, maybe a year ago at this
+point. There are many different systems
+that allow you to set up a help desk and
+some kind of docs. That's like the
+userfacing documentation, right? Not the
+developer facing one. But initially my
+help desk for bot scan was a couple of
+notion pages turned public and linked
+from my application. Like really just
+like share on the web took this weird
+link with the weird prefix. It's still
+in there and put it in my app. You
+clicked on it, you opened notion. Still
+in some parts I have public notion pages
+for my docs. I have a section in my
+notion organization that is called
+public do not delete. So have this
+little red alert flashing light in this.
+So I choose not to move or delete it.
+And in there are all the individual
+pages that are littered across the
+application realistically. It's just uh
+honest at this point. And they're linked
+between each other and from the app. And
+that makes it extremely easy to update.
+I can write updates in real time. I even
+have a notion proxy running on a
+Cloudflare worker that pulls this data
+to a specific URL and caches it so that
+it can be accessed as if it was on my
+own domain. That's something really
+really cool that you can do. Just Google
+for like notion proxy Cloudflare worker
+and you can set up very easily a worker
+that would just pull the ID of a notion
+page and you can connect that to your
+domain and all of a sudden you have like
+docs.youdommain.x
+XYZ slash that ID and it will pull live
+from the notion page or cache it for a
+couple minutes until you refresh it.
+It's really really fun and you can do a
+lot of stuff. It effectively renders
+notion pages directly in HTML. You can
+include it somewhere. You can embed it.
+You can just share it. It's it's fun.
+The point is have documentation that's
+easy for you to write because people
+will read it if they really need a
+solution to their problem and they've
+already seen the value of your business.
+So that's the kind of inspired person
+that will look for docs. They'll go
+through the step of reading some weird
+website or trying to find exactly what
+they need in a convoluted document
+because they're already bought in. You
+need to have an easy time writing that
+thing as a founder and people will bite
+the bullet to search. Any documentation,
+any knowledge base is better than none.
+and the one that you create and maintain
+for your customers is going to beat the
+one that your competitor doesn't have or
+that your competitor autogenerated but
+never updated since the last patch two
+years ago. Another thing, and this might
+be different, really different between
+businesses depending on your audience's
+professional expectation, is
+interoperability.
+You'd think that people really care
+about being able to import Excel files
+or files in proprietary data formats
+used in the industry and export the
+exact same file format or something else
+that goes directly into the machines
+that produce merchandise or whatever.
+But that's really not what people expect
+from software as a service platforms.
+That's what they expect from standalone
+installed hyperspecialized super
+expensive fullyfledged software suites.
+But from a SAS people have this almost
+maximum I guess expectation like that's
+the ceiling. Does it handle CSV or Excel
+sheets? Can I import a spreadsheet,
+select the things that I want and pull
+it into the program? And can it export a
+spreadsheet that I can then take to my
+next software? That's really all they
+want. The fancier you get in terms of
+the formats you support, the more you
+have to eventually implement and
+maintain. But people have found a lot of
+ways to turn Excel files or even simpler
+commaepparated value files to CSV and
+import export that into anything they
+need and export it from anything they
+need. As long as you have that baseline
+of a CSV export and import in whatever
+is relevant to your customers, you're
+pretty good for input and output. It's
+surprising because you would think the
+more you support the cooler and better
+it looks, but that's really engineering
+you can do at a later point. It's not
+required. people don't really care
+unless of course you're in an industry
+that creates a video or something,
+right? Obviously, if people expect a
+video to come out of this, you can't
+supply a CSV file, but that is something
+really specific for most transitional
+data things. These formats are
+absolutely sufficient. Customer support
+now is something that I've changed my
+mind on over the past few years. In the
+beginning, I thought, yeah, you really
+need to have a chat. you need to be
+there within seconds for your customers
+to delight them. And I think it's still
+kind of true. It's nice to see somebody
+go, "Wow, you responded within a minute
+to my customer service outreach. That's
+amazing. That never happens to me. Are
+you a bot? Are you AI?" Well, that's
+what you get now more than ever, right?
+Like, you must be AI. This is way too
+fast. But honestly, I don't think you
+need to have the chat thing to be real
+time in the first place. People are fine
+with email, particularly the higher up
+you go the corporate customer ladder.
+When you work with enterprise, most
+communication between you and your
+prospects and customers is going to go
+through email anyway. So having a
+customer service system that just goes
+to email and maybe live action, but only
+when you initiate it with that
+particular customer works perfectly fine
+for most of service businesses. Cuz
+here's the truth. People who expect to
+be helped immediately for something that
+costs them 10 bucks a month are likely
+not fun customers to serve anyway. But
+somebody who's paying 200 or 2,000 bucks
+a month and is fine with a day or two
+between emails, that's suddenly a much
+easier, much less annoying, and much
+more gratifying customer to serve. So
+consider that in the beginning, it's
+useful to build that initial
+relationship with your customers, be
+there for them. But the moment you have
+some kind of repeatable process, turn
+off that real-time chat. Only use it
+when you need it, and have everything
+else go through email. It's always good
+to have a paper trail anyway. Chat tools
+have this internally. There's an audit
+trail, but you can bounce these emails
+up and down if you need to, and you can
+delay them or have them come back to you
+in a couple days if it's not pressing
+right away, or just delete them if they
+don't work out. The more professional
+your customers are, the more they will
+know that you're busy, just as they are,
+and won't expect a submitted response
+time. It still delights if you're there.
+It's still great, but it's not a
+requirement. So if you think about it,
+what people need is something that helps
+them get that job done without having to
+bend over backwards to make it happen.
+Provide these common and expected input
+output formats cuz that is what every
+job to be done has, right? Every job to
+be done has a starting point and a final
+point of a result that people want. They
+have an input and an output. If you can
+support this and if people have
+expectations, well do that, right?
+That's what helps people map their
+process into your tool and then they
+have a good reason to use it. So have
+this reliable and well doumented system
+both the user interface and any
+programmatic interface you might have
+and have a reliable and expectable
+response time with your customer
+service. Do these things and you're
+pretty good with most industries and
+most people will gladly pay for your
+service over time. So the lesson here
+obviously I hope you understand this is
+not to build bad software or incomplete
+software. It's to recognize that as a
+solo software entrepreneur, you have to
+do 8020 all the time. And the 8020
+clearly is in works well enough and is
+super well doumented, not in beautiful
+long-term hypermaintainable
+hyperscalable perfection. That's just
+not feasible. Your customers are using
+your product to solve a problem they
+have, not to admire your craftsmanship
+like some do. And people will over time
+heighten expectations there. They want
+reliability initially and the refinement
+later, functionality first, fanciness
+later. Right? Results matter more than
+architectural beauty. So build something
+that works, document it so people can
+use it and their AIs can use it and be
+there when they need help even if not
+instantly and keep making this core
+value proposition better. The thing that
+actually matters, right? the thing that
+people pay for everything else that is
+founder vanity and you have to kind of
+fight that recognizing the difference
+between what we care about as founders
+and what our customers care about.
+That's one of the most important lessons
+in the journey from founder to
+successful entrepreneur. And that's it
+for today. Thank you so much for
+listening to the boots of founder. You
+can find me on Twitter at arvit a r v i
+d k ahl. And if you are feeling that
+you're missing critical conversations
+about your brand on podcast, Podscan
+monitors over 4 million podcasts in real
+time. It's crazy to see the alerts and
+transcriptions coming flowing into the
+system. And Potscan will alert you when
+anybody mentions you or your brand. So
+you can turn this unstructured podcast
+chatter into competitive intelligence
+and actual meaningful customer insights
+with our API. So if you're a founder
+who's searching for your next venture,
+you're looking for ideas, ideas.
+Potscan.fm helps you discover validated
+problems right from the conversations in
+the market. We identify opportunities
+for startups from hundreds of hours of
+expert discussions daily so you can
+build what people are already asking
+for. So share this with anyone who needs
+to turn conversations into a competitive
+advantage. Thanks so much for listening.

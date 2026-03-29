@@ -1,0 +1,52 @@
+{
+  "topic_id": 159284,
+  "title": "Unable to Register Site to Access Support",
+  "slug": "unable-to-register-site-to-access-support",
+  "category_id": 6,
+  "tags": [
+    "bug",
+    "frappecloud"
+  ],
+  "created_at": "2026-01-16T09:47:18.964Z",
+  "last_posted_at": "2026-01-16T09:47:19.040Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/unable-to-register-site-to-access-support/159284",
+  "views": 20,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "khoa-l",
+  "posts": [
+    {
+      "id": 491448,
+      "username": "khoa-l",
+      "name": "khoa",
+      "created_at": "2026-01-16T09:47:19.040Z",
+      "cooked": "<p>Hi all,</p>\n<p>In trying to solve my Internal Server Error 500 issue, I wanted to put in a support ticket, but was unable to do so as it required registering the site for support.</p>\n<p>I had reset the site and added myself to the Users list as well as a password, but it still didn’t seem to check that I was a valid user on the site. Very likely I am missing something.</p>\n<p>Any assistance with this would be appreciated! Thank you!</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/khoa-l/{size}/91254_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 9,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 2,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

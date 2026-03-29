@@ -1,0 +1,53 @@
+{
+  "topic_id": 161385,
+  "title": "How to Disable or Remove Charts from Financial Statement Reports in ERPNext v15",
+  "slug": "how-to-disable-or-remove-charts-from-financial-statement-reports-in-erpnext-v15",
+  "category_id": 6,
+  "tags": [
+    "customization",
+    "frappe",
+    "custom_script"
+  ],
+  "created_at": "2026-03-10T07:51:24.005Z",
+  "last_posted_at": "2026-03-10T07:51:24.116Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-to-disable-or-remove-charts-from-financial-statement-reports-in-erpnext-v15/161385",
+  "views": 13,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "astraq-shubham",
+  "posts": [
+    {
+      "id": 495713,
+      "username": "astraq-shubham",
+      "name": "Astraq Shubham",
+      "created_at": "2026-03-10T07:51:24.116Z",
+      "cooked": "<p>Hello everyone,</p>\n<p>We are currently using ERPNext for our accounting workflows and noticed that the financial statement reports (such as Profit and Loss Statement and Balance Sheet) include charts by default.</p>\n<p>For our use case, we would like to remove or disable these charts so that only the tabular report data is displayed.</p>\n<p>We are looking for a clean and maintainable way to achieve this without modifying core files.</p>\n<p>Environment details:</p>\n<p>ERPNext Version: v15.98.1<br>\nFrappe Version: <strong>:</strong> v15.100.1<br>\nDeployment: Production server using Bench<br>\nCustomization approach: Preferably via custom app or configuration rather than core modification</p>\n<p>Questions:</p>\n<ol>\n<li>\n<p>Is there a configuration or setting available to disable charts in financial reports?</p>\n</li>\n<li>\n<p>If not, what would be the recommended approach to remove them (e.g., overriding report JS, modifying report configuration, or using a custom script)?</p>\n</li>\n<li>\n<p>Has anyone implemented a similar customization in ERPNext v15?</p>\n</li>\n</ol>\n<p>Any guidance or best practices would be greatly appreciated.</p>\n<p>Thank you.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/astraq-shubham/{size}/94245_2.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 8,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

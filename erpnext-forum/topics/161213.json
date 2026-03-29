@@ -1,0 +1,51 @@
+{
+  "topic_id": 161213,
+  "title": "Any Canadian users using ERPNEXT for GST Returns in Canada",
+  "slug": "any-canadian-users-using-erpnext-for-gst-returns-in-canada",
+  "category_id": 6,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2026-03-01T09:57:10.868Z",
+  "last_posted_at": "2026-03-01T09:57:10.984Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/any-canadian-users-using-erpnext-for-gst-returns-in-canada/161213",
+  "views": 25,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "snowface",
+  "posts": [
+    {
+      "id": 495230,
+      "username": "snowface",
+      "name": "",
+      "created_at": "2026-03-01T09:57:10.984Z",
+      "cooked": "<p>Hi</p>\n<pre><code class=\"lang-auto\">  I am trying to figure if there is any user who is using ERPNEXT for a Canadian business. I am trying to create a report to do end of month GST return. I am trying to use general ledger report of GST account to figure out return data but this approach is not fool proof and prone to mistakes. \n\nLooking to see if anyone else might have different way of doing it ?\n\nThanks\n</code></pre>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/s/22d042/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 15,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

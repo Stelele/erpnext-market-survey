@@ -1,0 +1,2113 @@
+﻿Arvid Kahl: Hello everyone and
+welcome to The Bootstrapped
+Founder podcast. Today, I'm
+talking to Daniel Vassallo,
+writer, founder and person with
+very strong opinions. He's
+building a portfolio of small
+bets in public on Twitter. And I
+will talk to him about the
+importance of making money in
+diversified ways, how to
+structure your life around being
+a founder, and how to figure out
+which business ideas might
+actually work. Here is Daniel
+Vassallo. I'm super glad you're
+here. Because I have a couple of
+questions. Dude, you ahead of
+you've written a couple tweets
+over the last couple of days
+that I would like to talk about.
+And one of them, one of them is
+our mutual friend, Dan Bowden,
+who runs ELO thought as Oh, this
+Twitter analytics thing. He has
+started a pricing experiment, I
+guess, give offering lifetime
+plans. And he talked about it
+and you tweeted something at
+him, which I found very
+interesting in which probably
+will confuse every single
+software as a service founder
+that is listening to this, you
+said that upfront revenue is
+more important or bigger than
+recurring revenue. I would like
+to know what that means. What
+were you trying to say? And like
+how contrarian that you want to
+be with that one?
+Daniel Vassallo: Well, not very
+much, I think it's important to
+realize that the curling revenue
+is just an upfront payment paid
+in installments, I mean, there's
+always a lifetime value and all
+SAS businesses that we you know,
+if the average subscriber stays
+for 18 months, and you're
+charging $10, a month is
+basically the average lifetime
+value is $180. If you can
+collect that $180 upfront, it's
+better objectively, right? Now,
+of course, there are situations
+where, you know, the cost of
+running the business, the cost
+of sales are proportionate to
+the time, you know, if you're
+running a hosting service, where
+you know, it's feasible, right,
+and I'm not saying that the
+cutting revenue is bad, or it
+should never be used, or
+whatever, I'm trying to make
+people because they consider,
+right whether they should be
+considering lifetime, this,
+whatever you call them upfront
+payments, one time payments,
+because I think the main
+advantage is that usually they
+make the sale easier. I think I
+look at my own behavior. Every
+time I'm about to sign up for a
+subscription service, even if
+it's $5 a month, and I can
+afford $5 a month, right? It's
+not a big deal. But I'm always
+reluctant that I'm always
+there's this psychological
+thing, or seemingly irrational
+thing that makes me reluctant to
+add another thing onto my bank
+statement, you know, this, this
+feeling that maybe I won't use
+it after the month, and I'm
+overpaying and maybe if I want
+to cancel, I won't be able to
+find how to cancel. So forget
+about it. There's something
+insidious that I think everyone
+recognizes subconsciously about
+subscription, which I think
+basically you're putting that
+burden on your customer and the
+most delicate point when they're
+about to sign up. That's where
+when I observed my own behavior,
+when whenever I need a piece of
+software, and I noticed that
+it's a one time fee, even if
+it's a high one time fee, if
+it's $200 $200, I am more likely
+to impulse buy by knowing, you
+know, because there's a sense of
+ownership as well, which I think
+again, we under value. Of
+course, you can always say you
+never really own software, you
+know, I bought windows 95, back
+in 1994. And I don't think I can
+run it anymore. But I paid a lot
+of money for it. But I felt like
+I owned windows 95 I had the CD,
+I could install it, I bought a
+new computer, I installed it
+again, you know, all those kinds
+of things. And I think with the
+software that I buy one time,
+you know, recently, for example,
+I bought snapper the
+screenshotted tool from Tony,
+you might know him, I don't know
+I paid $30 or something like
+that I own it now just have an
+icon on my computer, I'm not
+paying anything. Of course, he's
+saying I think this is a small
+plenty saying that, if he may
+need to do a major update or
+whatever it might be a paid
+update or whatever, I completely
+fine with that, like Windows 95,
+when Microsoft released Windows
+98, I had the option to pay for
+it so that at some point
+computers became outdated, and
+there's probably no computer in
+the world now that would run
+Windows 95. But it's okay. So
+it's not I think it's still it's
+objectively true that upfront,
+collecting the money upfront is
+better than getting it in
+installments, of course. But you
+know, some people mislead it as
+like, I'm against the cutting
+payments. That's not what I want
+to say. But I wanted to make
+people to consider pause and
+make their lives easier. I think
+for certain software, I think
+it's already a very viable
+option, which I think is a great
+example. And I think I think Dan
+would get a competitive
+advantage because I think none
+of there's a couple of
+competitors that in his space
+that overlap a lot. I think
+right now they're all the
+cabling and the sort of $20 $30
+or higher per month. If he would
+be able to you know pay $120 I
+don't know had that night, I
+don't remember his placing, I
+think you might get a big
+advantage there,
+Arvid Kahl: I can see that too.
+There's certainly different
+kinds of different kinds of
+software that fit different
+kinds of pricing models, right,
+you have these things that
+obviously benefit from a one
+time payment, like software like
+standalone software, I also
+bought snapper, I also bought
+that piece of software for the
+exact same reason it's packaged,
+it's one thing, I don't expect
+it to grow into, like the
+world's biggest, you know, like
+platform for screenshots, I just
+wanted to be able, I want to be
+able to take screenshots of the
+things that I have. And for
+that, it's great. I think for an
+analytics platform, it's similar
+because it has a certain kind of
+purpose. But the risk that I
+always see, which is why I bring
+this up is that people over
+estimate the the amount of money
+that not only Oh, people
+overestimate how much money they
+can make, by forgetting how much
+expenses they actually have in
+the future write down the line,
+because this with any kind of
+upfront payment that is not
+recurring, at some point, and
+hopefully far in the future,
+your customer has used up the
+amount of money that they paid
+to you, right, so you have to
+compensate for that. So where do
+you draw the line? Where Where
+do you think, for a founder that
+has not yet implemented that
+kind of particular payment
+system, like an upfront payment
+that only has recurring revenue?
+How do you how would they go
+about like calculating the price
+that they should be actually
+asking for?
+Daniel Vassallo: I have no hard
+to do. But the my own here, the
+stick in general, for everything
+that I've done so far is to
+slightly err on undercharging, I
+know, this is probably also
+concerning advice. Usually, the
+things that we hear on the
+internet is charge more, you
+know, you should raise prices,
+whatever, I'd rather leave some
+money on the table, get more
+customers gets more word of
+mouth gets more reputation, more
+credibility, more emails, and my
+contact lists my email lists,
+right. And the and the way I err
+on undercharging is by trying to
+psychologically put myself in
+the shoes of my customers. I
+know, this is not a perfect
+through this stick, because I'm
+not like every customer, you
+know, people with different
+price, purchasing power and
+other parts of the world,
+whatever. But I make an
+assumption that at least there's
+a decent percentage of people
+that might behave like me, and I
+try to put myself you know, in
+my shoes, like, if I'm visiting
+this landing page, right? Would
+they pay $50? For this? Would I
+pay $50 a month for this? Would
+I pay 10. With that, and if once
+I get it, and I do consume the
+product, or start using it would
+I feel satisfied with how much I
+paid. And again, it's hard to do
+because we have to tap into the
+subconscious light because it's
+not something you analyze on a
+spreadsheet. But it's what I try
+to do, right and then I base my
+pricing base most basic model
+and the price points as well,
+based on this and you know, it's
+I think it's it's not a one way
+though, that you can change
+pricing later. So you can start
+with something generalists that
+at least one on the table. As
+things start to grow, you can
+optimize later, you might notice
+maybe I can charge more for this
+right and and improve things. I
+was watching the base camp guys
+a couple of days ago had a great
+discussion about pricing,
+because they've always been you
+know, very simple not proceed
+pricing for Basecamp. And now
+they're, they're actually
+experimenting with a per seat
+pricing. It's a one size fits
+all and they were discussing how
+after 20 years, they're making
+this ethical change but it's not
+that daunting because they can
+always revert it right they can
+always only apply to new
+customers. And you know these
+things that same this key I
+would always start with again, I
+think the biggest mistake not
+the biggest one of the mistakes
+people do are they tend to be
+too greedy in the beginning
+because I think the beginning it
+is either leave money on the
+table but get customers right.
+There's another thing that Tony
+does the word by the way of the
+behind snapper that easily
+snapper for free in the
+beginning, that I think I got
+the first copy actually for free
+that I paid him just because I
+wanted to support him. And he
+basically allowed it to go
+viral. He got 1000s of customers
+when it was still very close.
+Basically an MVP right. And
+that's one point after a couple
+of months who put a buy button.
+Right but it's I think it's an
+amazing strategy that it allowed
+him to understand whether people
+want it he got tons of people
+signing up got their email
+address. Amazing.
+Arvid Kahl: Yeah, I think I
+particularly noticed you
+mentioned the Basecamp guys I
+saw that too. There's the
+building and public that's
+pretty much what that was right?
+They're communicating their
+internal things on a public
+medium on Twitter. Tony is doing
+the exact same thing he's
+building and public and he has
+been building a public for a
+long time now not just with with
+snapper but also with like magic
+has Twitter integration and all
+these other tools. And you are
+building in public too. I mean,
+it's sometimes with like snazzy
+country intakes but often also
+with a lot of data lot of graphs
+and information on what you're
+doing how you're doing certain
+things, I find that incredibly
+exciting, like every time you
+post something like that, I'm
+just digging into the data
+because I, first off, there's
+nothing better than actual data
+to make choices from and then
+seeing how you make choices from
+that data. Super exciting. One
+of the things that you stand for
+the most, and I would assume
+that most people who are
+listening to this know this, but
+I'm still going to try to, you
+know, give you the chance to
+explain it. What is a portfolio
+of small bets? What is it
+portfolio? What is a small bet?
+And what's the bet? Can you give
+me some kind of underlying
+definition for this?
+Daniel Vassallo: Yes,
+absolutely. I think it's just a
+fundamental attitude that you're
+treating business ideas. I like
+to use the term like cat and not
+like pets, right? Basically, you
+don't make a business idea, part
+of the identity and you've gone
+all learn, and you're taking
+imprudent risks to try to make
+it a reality, alcohol costs. But
+you're just potentially building
+an experiment, building a
+portfolio, it's very similar to
+how a VC builds a portfolio of
+startups they invest in that, of
+course, there are differences
+between the FEC and us as
+individuals, we can't invest in
+2000 businesses, but we can
+have, I think, whether they are
+strictly, you know, four or five
+income streams, right, some
+might be bigger than the other
+because business is
+unpredictable. And sometimes
+what succeeds is not the one
+you're most expecting, and
+things change over time. But
+it's basically this attitude
+that I don't want to be known as
+the creator of the good parts of
+AWS or the founder of user base,
+or the creator of the Twitter
+course, or the small bets
+community, host or whatever.
+Because because next year, I
+might be doing something
+different. And I'm not just
+doesn't mean that I'm already
+thinking about something that's
+actually like, No, I'm pretty
+focused on one thing because I
+have this community, it's
+working well, I'm going to try
+my best to continue to grow it
+and, and, you know, make it as
+successful as possible. But it's
+just the attitude that it
+doesn't have to be this lifetime
+not doubling down and going all
+in and sort of ignoring
+everything guys, basically,
+actually, intentionally. I'm
+leaving space. I don't want this
+to consume all my time. But I'm
+leaving space at the time still
+watching for opportunities. Take
+a look at Peter levels. He had
+no meatless which was probably a
+wild success by many measures.
+And he had the most Okay, which
+was an even wider success
+millions of dollars, one or two
+millions of dollars of revenue
+per year. Like look, he's now
+experimenting with with into the
+AI just yesterday that he
+launched this AI of authority
+and gets made $4,000 Like
+literally from idea to
+implementation to and but the
+thing is, if Peter levels had
+Ops had labeled himself as I'm
+the founder of nomad list, I'm
+just going to do things that are
+nomads, and I'm going to
+specialize in no matter
+whatever, he would have missed
+out on other opportunities,
+right? Because I'm always okay,
+maybe the most okay, you can say
+it's the latest, but this is
+some company related interior AI
+interior design, probably the
+opposite of No, it's like, I
+don't know if nomads are that
+much into interior design. I
+don't know. But, but it's
+fascinating to see. And again,
+this doesn't mean that he's
+neglecting everything else. I
+think what it means is that he
+is, like I do that he's not
+relying on Nomad list becoming
+there forever, or the Moto k
+being there forever. He's
+leaving slack in the system
+space so that when he finds
+something exciting, that it
+pounces on it and utilize the
+one last thing I want to say
+when I say small bet is that
+this business, I believe this
+may be something again, people
+think it's controversial. I
+don't think it should be
+controversial. But you know,
+business is unpredictable. Like
+if I were to tell you I'm about
+to launch a software service,
+that helps freelancing.
+Accountants keep track of their
+finances. And I'll show you a
+demo, I tell you my marketing
+strategy, and they ask you how
+much money do you think I'd be
+making in six months? It's good
+to be entertained with $0 $1,000
+a month, $10,000 a month.
+$100,000 a month is very
+different, very different
+situation than if I were to tell
+you, I'm going to take a job at
+Google, as a junior software
+engineer, you can probably
+Google the range and you know,
+you get a decent average and
+chances are I'm going to be
+making close to the average
+business is unpredictable.
+Right? So knowing that knowing
+how hard it is to know what's
+going to work and what's going
+to fail, I think the only
+prudent strategy is to radically
+reduce the inputs. That is the
+efforts investments are again
+very similar to like a VC does
+every see they have a $10
+million fund or whatever. They
+don't just write some million
+dollars to the best idea they
+hear like the whole check day.
+Is it $100,000 checks to 1000
+companies? This is the same
+thing book publishers do. They
+publish multiple books, many
+books 1000s of books So I just
+same thing movie studios do in
+Hollywood. And I think we should
+be doing something similar, of
+course, to a smaller scale, I
+think we need to be even more
+rigorous with the with the
+selection criteria, if you see
+might afford to invest in 1000
+startups and 900 of them fails.
+Republicans, right, we need to,
+you know, maybe try five things
+for five things in a year, maybe
+three things, you know, depends
+on depending on our
+circumstances. But I think we
+need to be even more selective
+things that the things that we
+try, we need to make sure that
+we don't over invest our time.
+Because, you know, if you invest
+six months in something, how
+many six months versus we have
+in our lifetime? Like, not a
+lot, when you think about it,
+it's like, I mean, that's a
+very, very expensive thing. So I
+think it needs to be small, less
+than a month, I did a couple of
+weeks, Peter levels again, great
+example, you see him do these
+things like very quickly. And,
+and then some things work, some
+things don't like, that's the
+reality. And then you sort of
+you take it from there, right.
+And then you can make another
+small bet on what works. Again,
+I see Tony do this as well, it's
+red snapper small bet weekend
+project 4000, people started
+using it, then he made another
+small bet he spent a month
+adding more features. And then
+he launched his own product. And
+then it went number one on
+product hands down, he made
+another small batch. So to make
+it a bit more even better with
+markups and whatever. That's
+the, you know, that's what I
+would like to encourage people
+to take the uncertainty of
+business, because it's hard.
+Otherwise, if you just go on,
+and probably just funnel it
+through to find as I think the
+risk that most people
+underestimate is the
+psychological risk. I don't know
+about you, but if I were to
+spend six months working on
+something, and it fails, and
+maybe I'd say against spent six
+months on something that fails,
+I want to be discouraged. Right?
+I mean, no matter how much
+willpower or runway or savings I
+have, it's hard, you know, and
+the psychology cost can be as
+low and as you know, I can't
+overstate, then you might, you
+know, have to go back to a full
+time job or something that you
+don't want to do.
+Arvid Kahl: That's right. So the
+mental health implications of
+these, the entrepreneurial, just
+a journey that most people on,
+people don't really think about
+that like how quickly it can
+actually damage their, their
+health, like physical mental
+health. And I think you said
+something really cool in a tweet
+also, a couple of days ago, you
+are or somebody was talking
+about the concept that you
+introduced to them have a good
+idea is an idea that doesn't
+break you if it doesn't work
+yet. And I really, really liked
+this because this kind of brings
+together this small bet approach
+with the mental health care that
+people should take on their
+entrepreneurial journey. Right.
+So can you talk to me more about
+what good compatible small bet
+ideas look like? Not specific
+ideas, obviously. But what kind
+of common things do they share?
+Daniel Vassallo: No, no, I think
+for me, I sort of I have like a
+selection criteria list almost
+like in my head that when I bump
+into an idea, and I start to get
+excited, I start being inspired
+and see an opportunity. I try to
+ask myself, can I bring this to
+market quickly? For me quickly,
+my current situation with two
+kids limited time other things
+going on in my life quickly,
+ideally, a week or two? Like,
+can I bring this to market in a
+week or two? Sometimes a month
+might be okay, but it starts to
+be a stretch for me. I and I
+think this can change. You know,
+if you're still very young,
+you're in your early 20s, you
+have less commitment, sort of
+maybe you can afford a little
+bit more. But again, I think we
+all have the same 24 hours a
+day, same average lifetime,
+lovely life. So if you start
+spending six months a year, I
+think it's always a big, big,
+big bet for everyone. Number
+two, I like to blink I like to
+start with things that I can
+bring to market on my own, not
+because I think I can do
+everything. But for me, it's
+almost a litmus test, that it's
+simple enough, I think, I like
+the flexibility that if
+tomorrow, I started feeling I
+lose interest, I started feeling
+that this is not I don't see the
+opportunity. And the more I get,
+I start thinking about something
+different. I don't want to feel
+sort of the obligation that
+there's somebody else with me,
+and I'm letting them down and
+they're expecting and so I need
+to manage that. I want to be
+agile, I like waking up in the
+morning and just having options
+in front of me and no
+obligations. And I think if you
+start doing something with
+someone, at least at least in
+the beginning, because
+afterwards, like for example in
+my small best community now I
+have multiple people doing guest
+classes. So there's sort of some
+arrangement and that's okay now
+because this thing is sort of
+the same momentum is going on.
+But I wouldn't have done that in
+the beginning in the beginning
+how I started that project was
+just one cohort one cohort
+course it just made everything
+get just two weeks I that was
+delimits. Right and then sort of
+once it's that we can fully
+booked. I tried another one that
+a few more and sort of I kept
+iterating over that. I also like
+to do things where I like to
+call them where time is my
+friend right and As I dislike
+opportunities, where if, if the
+opportunity doesn't pay off
+before some time, then I have to
+shut it down. And this is tricky
+with software as a service. And
+I did this mistake with user
+base with user base, I built a
+software as a service business
+that requires 24/7 support. Just
+last night, a couple of nights
+ago, I got to go open at 2am in
+the morning, some AWS, some
+discs and out of space, I needed
+to clean it up. But it's, it's
+annoying. And luckily, it only
+happens that night with user
+base is quite simple. And
+customer support burden is not a
+big deal. But if it's worth a
+difference, that I would have
+been forced to either shut it
+down or sell it or whatever. But
+so it's now even though it's not
+making me almost any money. So
+basically breaking even, it's
+just learning learning on its
+own. Maybe at some point, maybe
+I will find a buyer or maybe
+maybe it will pick up who knows
+what time is my friend
+basically, I don't wake up in
+the morning feeling that I'm
+running against the end of the
+runway with the deck and I'm
+doing good things. Because it's
+it's the end, you know,
+information products are
+excellent example of this,
+right, you can never get a
+negative sale or something.
+After the morning I wake up and
+there's a couple of sizes. Just
+a surprise, has it just a
+positive surprise. Of course,
+you know, even for products at
+some point might become
+obsolete. Maybe you know, I have
+a technical book, maybe at some
+point, I might need to put it
+off the market, but it's still
+not an obligation. Either either
+I updated so I the movement. So
+more or less like that's that
+those are some of the things
+another one might be. This is I
+think very conventional advice
+that is like I avoid doing
+things that I don't want that
+this light outside to not be too
+novel. I try to go with the
+flow, Justin Jackson, Jackson,
+like the census tech guy, what's
+his name? Justin Jackson, just
+ingesting talks about this, I
+like to sort of do not try to be
+too novel, right? I like to look
+at what what is what is money
+exchanging hands today are
+people buying self published
+books. And you know, in 2012,
+before Gumroad, and before sort
+of the Creator economy started,
+there was nobody almost making
+self published books or buying
+self published books. I had
+never bought self published
+books. Now it's changed. Now.
+It's different. Now. I think my
+Gumroad library is bigger than
+my Kindle library. And I started
+by more self published books
+than traditionally published
+books. And I think this is
+important information that I
+wouldn't self publish in 2012.
+But I would now and there's many
+other sorts of things happening
+as well, I wouldn't call them to
+the answer, because that, to me
+implies the future where things
+are going, I think it's
+basically looking at the present
+like lights. Now, what is
+exchanging hands, so I tend I
+try to stick to things that are
+already working. Otherwise, I
+think I'd be stacking the odds
+against me. And that's, that's,
+that's, that makes things
+harder.
+Arvid Kahl: Does that make
+sense? So it's kind of
+validation. And as far as you
+can validate anything, which was
+also something that you recently
+said like you don't believe in
+validation, you believe in
+hints, hints that something
+might be working? Right.
+Daniel Vassallo: I this is a
+semantic argument. But I think
+it's an important semantic
+argument because the term
+validation, validation should be
+used in mathematics and logic
+and whatever are things that
+have certainties and
+uncertainties, business has none
+of that. Business has
+likelihoods and unlikelihood
+probabilities are higher odds
+are lower odds. And I think if
+the way people use the term
+validation is as if something
+went from a state of non
+validated to validate, it's a
+binary thing that rubber stamp
+have validated. And I think even
+if you're careful with it, I
+think if you start to thinking
+of it like that, you start
+fooling yourself that with user
+base, I made this huge, huge
+mistake, because I to where I
+over invested, I lost a lot of
+money out of my own savings,
+where I started building in
+public, I started getting the
+additional validation signals in
+I had a waiting list with over
+4000 emails, I had endorsements
+from highly influential people,
+the CEO of Natla, phi and very
+self publicly endorsed me and
+tweeted me, I launched and then
+I was put number one on product
+hands, front page on how can use
+for a whole day, even launch day
+in terms of revenue was good
+that I made a few $1,000 in
+sales, you might say this is a
+validated business. And that's
+what I thought I should be. I
+hired an employee, I should be
+spending more. And then it turns
+out that, you know, things were
+harder than they seem. So I
+mean, to convert people from the
+fleet size to pay the light and
+the people are expecting more
+and more competitors emerged.
+And I'm almost ashamed to say,
+you know, I spent almost
+$150,000 Out of my own savings
+in that business that is only
+making about $10,000 a year in
+revenue not in mine. So I tell
+you, like it will almost
+certainly never recover. That's
+I mean, that's, that's the
+mistake that you should nobody
+should be doing like that. And I
+think what foods made was this
+constant thinking in terms of
+validation. I thought this was a
+validated business, the demos
+that I was the least thing
+before it was released, lots of
+usage lots of people lots of
+enthusiasm. Again, and it's just
+so I think, again, we should
+eliminate the term because I
+think it's insidious, like you
+can never validate a poker hand
+that you have. If you're playing
+poker, you might think you have
+a strong hand, or a weak hand or
+something in between, like high
+strength, medium strength, but
+it's never validated because you
+never know what's on the, on the
+other people's hands on the
+table, or sort of in the deck or
+whatever. And business is way
+more complex, because focus just
+52 cards, there's limited odds
+you can do to calculate the
+odds, business and real word is
+just way more complex million
+variables that you don't really
+know what's going to happen. So
+it's just a semantic argument. I
+know that people if you dig
+deeper there, and they agree,
+that is just signals. But I
+think I think it's important to
+be rigorous with how we think
+think of signals think offense.
+Yes. This is a hint that there's
+something, you know, some some
+demand here, there's a hint that
+I might be able to fulfill that
+demand. Like there's a handle
+that displaces, you know, is
+appropriate, whatever. But I
+wouldn't think of certainties
+and use the term validation.
+Arvid Kahl: Yes, definitely not
+binary. And I, since you were
+talking about this as like a,
+almost a philosophical concept,
+right? The idea that you could
+even validate anything. I mean,
+in social psych, in social
+sciences, there's a call purpose
+argument that you can only
+falsify, and extend your theory,
+right? And
+Daniel Vassallo: say, yes, you
+can invalidate like, for
+example, if I'm trying to market
+a product for free, and I'm
+struggling to make people use
+it. While it's free, I think
+it's almost certain, you can
+probably say it's certain that I
+can't monetize it, or very poor,
+like you can invalidate a
+business concept and validate
+it. Right. So I think there are
+certain basically the certain
+evidence that that will tell you
+that there's no chance like if
+if I can't get people to come to
+my landing page, I'll because,
+you know, you can teach that if
+nobody knows about your
+business, you could have the
+best product in the world.
+Right? And it's guaranteed
+failure. So yeah,
+Arvid Kahl: but if you build it,
+they will come. Isn't that isn't
+that
+Daniel Vassallo: how that works?
+No, absolutely not.
+Arvid Kahl: I think that's
+that's very important. And I
+think your your approach of the
+statistics, like the statistical
+approach, like this thing might
+or might not workout. And then
+adding strength in numbers
+three, and having multiple
+experiments at the same time,
+that gives particularly
+solopreneurs, or bootstrap
+founders, people who use their
+own money to build a business
+instead of having somebody
+else's money to, you know, play
+around with, that gives them
+some more fundamental footing to
+at least have a higher chance at
+reaching some kind of
+profitability. So if you need to
+have multiple experiments going
+on how many is enough? And how
+many is too many? Because I
+would assume that some people
+that you're currently working
+with in your community probably
+are trying a bit too much or a
+bit too little in terms of
+diversification. What's the
+what's a good approach to like
+spreading out your experiment?
+Daniel Vassallo: I, you know, I
+don't have a hard number. I
+think however, I think what I
+recommend, again, is, like we
+described Peter levels before, I
+mean, what, how many, how many
+projects has Peter levels have?
+He probably has like 70 projects
+online that isn't turned off.
+But realistically, every day,
+he's only working probably
+actively like high intensity
+mode only on one side now
+probably on the authority thing.
+Last week, it was on the
+interior air AI and probably
+flip flop a little bit, maybe a
+month before it was on the
+motor. Okay, maybe or maybe a
+few months before. So like
+actively only on one and, and
+probably even in the span of a
+year, like if you were to
+examine 2021 Probably here might
+have only touched four or five
+now, but he has 70 learning
+because I so could he have 140
+probably right? I mean, they're
+not really consuming much. It's
+just things that he again that
+he started and they're there,
+they might drink something they
+might not right. And it depends.
+So I think rather than thinking
+in terms of should it be five,
+should it be 10 should be 100. I
+think what I'd like to do is
+like, take the attitude that
+makes sure that whatever you do,
+don't, do not sign up for so
+much work that you become
+completely busy. Leave some
+slack in the system. Always be
+watching for opportunities, no
+matter how good things are, like
+if you have something that's
+making you $50,000 A month so it
+might be great, amazing that
+you're making the most money
+I've ever made, right? It's,
+it's wonderful. I would still
+recommend, leave some time some
+slack in the system, keep
+watching because you never know
+you never know about anything
+distinct that's making you
+$50,000 a month. You know, there
+might be some disruption that
+might reduce sales. It might be
+you start hating it, like
+preferences change. It might
+start with a wedding goats and
+Loading your life because it
+might become, you know, scale
+changes things. That's something
+that I think Jason freed,
+incidentally just posted a tweet
+a few minutes before we talked
+to you. scale changes things. So
+I tend, and you never know how
+it's going to affect thing. So,
+again, it's, I keep using these
+elements as an example, because
+his is perfect. And this,
+despite having something that
+was making him millions of
+dollars a year in revenue, many
+people would say, oh, we should
+double down, forget everything
+else. Everything else is this
+distraction. Now he's playing
+with tons of related things.
+Right. And right now, I think
+he's more intrinsically
+interested in playing with AI,
+Dan, and sort of improving no
+medalist. And that's an
+important thing. And cystic
+motivation is so so powerful,
+that if you feel that you're not
+doing something because you're
+forced, right, it's a pity to
+not use it, that when you feel
+that drive, I think you should
+try to ask yourself presuming
+like what Peter did? I mean, can
+I do a business around their
+sampling with AI? I'm enjoying
+it, can I do something with
+this? Right? And what I like to
+do as well, you know, I'm doing
+right now, like crazy things.
+I've spent the last couple of
+months doing DIY and on the
+house, you know, small things,
+I'm still very much a newbie in
+the back of my mind. And this is
+something completely new to me.
+I'm a newbie in DIY, and I don't
+have an audience that knows me
+about DIY projects that don't
+have anything and because the
+ability, but can I do something
+about this, maybe in the future,
+it's in the back of my mind, I
+know, I would love to, probably
+I would prefer this than me
+know, doing something related to
+tech. It's what I'm thinking, I
+jump out of bed in the morning,
+the first thing I thought of,
+I'm building an office in my
+garage that I need to go to Home
+Depot, buy some two by fours,
+that's the first thing I taught.
+So again, this doesn't mean
+anything will happen. Good
+chance that nothing might
+happen. But it's there. So I'm
+watching for opportunities. If
+something was it be an info
+product would be sending some
+plans for what I'm doing, or
+could it be some tool? I don't
+know. But I'm always wondering,
+always watching for inspiration.
+Right. So that's, I don't know
+if I answered your question like
+maybe a bit. So the other way
+around, but no hard number, just
+an attitude. I think that of
+just keeping slack in the system
+people watching.
+Arvid Kahl: Yeah, the attitude
+is exactly what it is. And
+that's and let's just keep
+talking about Peter levels. Why
+not? Like he's a great example,
+right? Hey, Peter has this this
+attitude to things first off, he
+is fine with failure, he's fine
+if stuff doesn't work out. And
+he's also always a beginner in
+every new every field that he
+encounters. And he considers
+himself one, he doesn't consider
+himself an expert by any means,
+right? Like just just look at
+the two latest projects that he
+built a really simple user
+facing UI that you probably
+wouldn't expect to see like,
+it's really basic, and
+everything is kind of just glued
+together. But he doesn't, he
+doesn't need to show that he is
+the best UI designer for the
+kinds of experiments that he's
+doing right. He's perfectly fine
+with us. And honestly, I am
+currently also getting into
+another hobby of mine like
+miniature painting, I'm really
+enjoying this, this is the thing
+I've settled a little tiny mini
+painting studio right over
+there. This is my YouTube
+studio. And the mini museum is
+in another corner of my
+basement. And I've enjoyed
+learning about how colors work
+and how the acrylics work the
+chemicals in resin. I'm 3d
+printing to like all these
+little things that I can make, I
+really enjoy it. And I'm also
+thinking, hey, this could be
+something in the future. Who
+knows I'm an absolute beginner.
+I mean, I consider myself a
+beginner in any field, beginner
+writer, beginner, beginner
+Twitter user beginner engineer,
+because I know there's many
+people out there that are way
+better at what I would like to
+be doing than I am. But I enjoy
+the process of learning. And by
+sharing this by teaching, I also
+get to share this with other
+people that may or may not find
+value in it so much that they
+pay me for it. And that's what
+Peter's doing to he's learning
+AI. And he's just like, using
+tiny prototype products to see
+if the what he's learning can be
+monetized. What a mindset right
+like that is, that's such a
+wonderful thing. How do you get
+to such a mindset, particularly
+when you come from an employment
+level, kind of do what you're
+told and Don't overextend? How
+do you
+Daniel Vassallo: change the AIA?
+I think, I think it's important
+to think of. So I'm going to get
+to the answer. But I think what
+Peter levels, what Peter love is
+does really well, which seems
+like he's he's learning faster
+than everyone has is that he has
+this ability to keep things
+simple as you were noting that
+and eliminate all the
+unnecessary things. And this is
+a hard thing because this
+requires practice. And I think
+the how to get better at that
+and identifying, you know, the
+8020 rule is this idea that you
+can get 20 to 80% of the results
+with 20% of the effort, but it's
+hard like how do you choose?
+Determine what is the right 20%
+to focus on? I think Peter
+Excellent and that I think like
+many things will get better with
+this with practice. And in
+general, when we're when we're
+going to a traditional career
+full time job, we have a goal to
+work towards. It's like
+everything is what we create a
+Gantt chart, and sort of
+everything is very precise, very
+predictable, you will everyday
+work closer to your goal, we the
+muscle, right? That we need to
+make these decisions under
+uncertainty, right to make these
+cause to eliminate things.
+Almost atrophy is a way that I
+felt the site and it's very hard
+to exactly articulated what I
+felt that when I was starting,
+everything was daunting, like,
+what should I leave? What should
+I do, but the more I do it, the
+better it feels. And I noticed
+this with the people in my small
+best community that is that we
+have a get feedback channel. And
+the general feedback is like
+you're overdoing it, you're
+overthinking it. So it's like
+the most of the time these are
+people who are new, they're
+starting their first thing. And
+my best advice is take a small
+risk. So I take place and start
+doing things under uncertainty.
+This could be writing a blog
+post, right? I mean, writing a
+blog post requires you to choose
+where to write it to determine
+how you know, the templates,
+whatever are the colors, the
+title, the fonts, and you will
+start to realize that all those
+things are unnecessary. You
+already starting to exercise
+that muscle, right? But you need
+to start to do it right. And
+then you need to start sharing
+your blog posts. That's why do
+you share that you post it here
+or dairy, whatever, that and you
+start to notice that what is
+worth doing what is not worth
+doing. And like retail levels,
+for example, it's very similar
+in the as well, I think he did
+placated his blog post, he said,
+I post a blog post and I get
+like 200 views, I post a tweet,
+and I get 100,000 impressions.
+And I think his blog post, you
+know, the guy next to his
+Twitter account, I noticed this
+a couple of days ago. But
+basically, it took him probably
+took him 10 years to come to
+this site. But again, this is I
+think, the evolution of
+realizing how to best expend our
+energy. And this is the thing
+that when you're when you're on
+your own, and you have your own
+skin in the game, right, and you
+need to make ends meet, you need
+to survive, you just start to
+activate a part of your brain
+that that that needs to be good
+at using energy efficiently and
+time efficiently. And I think
+when you're in a very structured
+environment, you don't need that
+light, you're basically you're
+told that the goal of the
+companies to release this
+product project by November 30.
+That's hard to do. So now the
+only ambiguity that is is like,
+how do we split up the work
+between between us to five team
+members, so I tend, you know,
+and then we just try to work
+hard to get to the goal. It's a
+very, very different domain.
+When you have infinite options,
+you can do whatever you can
+keep, you can basically you can
+keep keep sharpening your tools
+forever. I tried to imagine our
+hunter gatherer ancestors died
+back 10,000 years ago and more,
+you know, when the tools became
+dull, they need to sharpen them,
+when did they stop sharpening
+them? It was probably a gut feel
+that they developed that they
+thought, oh, despite the sharp
+enough, yes, sure, I might be
+able to, I might encounter
+something that might require a
+sharper tool. But it's a gut
+feel. It's our subconscious, our
+subconscious is smarter. I
+believe our subconscious,
+probably the smartest part of
+our brain, when it comes to
+dealing with uncertainty in our
+subconscious gut feel, whatever
+you want to call it. And I think
+when we're operating in a well
+structured environment, that we
+almost turn off our subconscious
+that we try to, you're making
+data driven decisions inside the
+company, we're working with your
+conscious mind with the honest
+everything needs to be
+determined on the spreadsheets,
+what pros and cons, customer
+data, things like that. Whereas,
+you know, out there in the real
+world, you need to use your
+subconscious, this fuzzy logic
+calculator, right that needs to
+tell you this is enough. This is
+not necessarily right. I mean,
+again, like pizza lovers,
+interior AI I think he monetized
+that before he even had a login
+page that I take him manually
+Santos people like, who paid
+like, guru or dy, that or
+whatever. And I sort of he
+didn't even decide the pricing
+that he then did 10 different
+places.
+Arvid Kahl: Experiment was
+really cool, right? Like, seeing
+also the results of his pricing
+experiments, and then him
+choosing a price that that was
+the best long term kind of price
+that was so insightful. Yeah,
+exactly. I
+Daniel Vassallo: did the first
+decision. That's I mean, it's a
+daunting but what should this be
+priced? I mean, it's not a
+market that presumably now it's
+like, is it architects is going
+to be buying this as individual
+users is that younger people,
+older people, you know, what?
+Why don't I offer you know, 10
+different prices? And I'll make
+the call later, right. Again,
+it's amazing. It's very extreme.
+But I think it's the result of a
+lot of practice.
+Arvid Kahl: Yeah, exactly. And
+it's, he's, he's experienced
+enough with it to understand
+that he is will run an
+experiment where most most of
+the outcomes will be people, you
+know, like, be slightly unhappy,
+maybe they paid too much or, you
+know, they expected more for
+what they paid. But there will
+be that one price that works,
+where you where he will see more
+of them paid. And then and then
+the other price brackets. And
+that's the one he keeps. And I
+think dealing with this kind of
+uncertainty and particularly
+dealing with the nine or 10
+failures, you need to see the
+one success. That is that is
+something that is completely
+orthogonal to how we approach
+success in the in the employment
+world, right? Either it's a
+guaranteed success, or we won't
+even try it. And here it's yeah,
+we have like eight or nine
+things that don't work, but we
+will find the one that works. So
+this is a mindset that you have
+cultivated, and that I guess
+successful founders have
+cultivated, how can how can
+people get there faster? How can
+they be, have an easier time
+dealing with these little
+failures that lead to the
+equally small but noticeable
+success?
+Daniel Vassallo: Yeah, and I
+might be repeating myself here,
+I think the best way is to try
+many different things. Because
+once you start to realize that
+the thing that you were most
+bullish on didn't work, and the
+thing that you least expected
+was the thing that paid off the
+best, it's changes, so wires in
+your brain. Right? I mean, you
+it's humbles you, I mean, me
+when my case probably was the
+Twitter course that sort of
+revealed this to me, because,
+you know, the AWS book was
+something I was specialized in,
+you know, I had decades of
+experience, even though it's
+sort of still paid off better,
+more than I expected. But the
+truth, of course, on a whim,
+right, very small project, I
+think, made $200,000. And it's
+still making, like $4,000 a
+month, I still get four or five
+sales a day. And I don't even
+know where these people are
+coming from, like, it's just who
+was like, what's happening,
+like, almost two years later,
+and I can't explain it like
+there's no evidence, there's no,
+like, if I look at my sense,
+because I've just like, at some
+point, the gradient changed. I
+don't know why it's changed.
+Like, again, I basically this to
+me, and you know, when I talk
+with successful founders, you
+know, I've been watching
+recently said something similar,
+like, I could have never
+imagined five years ago that I
+would be making money, millions
+of dollars for my CSS framework,
+right again, right? Where he was
+doing different other things. I
+feel like many of us, it was
+time to start a SaaS business
+light and something like that.
+And I am again to blink that the
+analogy with VCs, I think it's
+similar as well with VCs, VCs
+might be bullish on crypto to
+the point though, clubhouse,
+whatever, and investing a lot.
+And then the thing that succeeds
+is some random, you know, thing
+that nobody expected that and I
+think the good VCs understand
+this, even though they tried to
+be bullish, because they tried
+to hype things up, whatever,
+they still, no VC will will say,
+I'm going to liquidate all my
+investments and go all in to
+you. Like no matter how bullish
+they were in clubhouse. Nobody
+just went all in, right? They
+might have written that a check
+that was a bit bigger than
+usual. It's twice as big five
+times as big, but they were
+still very, very diversified.
+Because they know, they know
+that the things that they paid
+off in the past were things that
+they barely looked at. i By the
+way, I've seen this at Amazon,
+right? I mean, Jeff Bezos, you
+could say, cultivated a
+portfolio of small bets, of
+course, at his scale, at the US
+itself is a portfolio of I think
+there's probably now 200 Plus
+products, right, and I can't see
+the numbers. I won't buy my NDA,
+but I can tell you that that is
+basically there's five making
+money, bunch of them breaking
+even and a bunch of them losing
+money. And the ones that are
+making money were the ones that
+nobody knew like this very
+simple thing. Right. And same
+thing with Amazon in general,
+like Bezos statement of things
+to phone that fail the auctions
+that failed. Lots of drones, you
+know, things that went nowhere.
+And then Alexa, whatever ended
+up sort of blowing up lights,
+which there was already
+competition or whatever, it
+wasn't their strong thing,
+right. And, again, this just
+shows you the role of randomness
+and business, which doesn't mean
+businesses always end and again,
+just what people misinterpret
+me, I'm not saying business
+anymore, that skill is not
+important, or that the market
+fit is not important, whatever.
+But there's a role of randomness
+being a desired place at a time
+that is significant. Right? And
+you can't underestimate it. And
+the best way to tame it again,
+is to do same way we do we deal
+with risks and uncertainty and
+financial, if you diversify,
+right, I mean, we might think
+Apple is a great company. I
+wouldn't want to invest all my
+life savings in Apple big why
+not? Because it will go to zero
+but because some law in China
+might change tomorrow and
+suddenly the revenues dropped by
+50%. And and then the thing you
+know, snowballs who knows that I
+mean, these things happen all
+the time. And the way we tame
+that uncertainty is by not going
+all in and to diversify into an
+index fund or even better
+between different economies or
+Kansas or whatever and things
+like that.
+Arvid Kahl: Yeah, it's like what
+you've been doing with your own
+portfolio. Right? It's very
+diversified. I love your, your
+many info products. And now you
+have a community going, what I
+do wonder because, again, Peter
+levels he posted a couple weeks
+or months ago, at least of all
+the products you've ever done.
+And all the products that made
+some money was like four or five
+of them. And that was like 80
+products that did not, that is a
+pretty interesting ratio. How
+was your ratio? Did you ever
+calculate that at this point?
+Yeah. Like,
+Daniel Vassallo: I think I have
+somewhat better ah, I think to
+be honest, Peter has been known
+as being too harsh on himself in
+that in that list, like he had
+to make book, which he
+considered like the failure
+pass, but he made it made him
+like $200,000. But to him, it's
+not growing anymore. I think
+that's only four are still
+making money. Now. That's what
+he said. Right. And, and I think
+even in his case, his today's
+show is, is decent. My show, I
+think it's about 50% of it. I
+had, I had a tweet recently,
+where I had like a cumulative
+sales of every product. And sort
+of there was, like, 333 products
+at the bottom line C products
+still growing. I think if you
+search for me and 200k, you
+might be able to find it. But
+Arvid Kahl: yeah, that's right.
+I like this. Yeah. Your days on
+market versus revenue graph. I
+really, I really, I'm gonna put
+it in the show notes. That's
+this graph has that that was
+inspirational to me to
+particularly seeing how your
+small bets product, which is to
+me a mix between the course and
+a community core course really,
+but it goes beyond that. Right?
+Do you empower people like on a
+long term basis? how successful
+this has been? And it seems to
+me, If correct me if I'm wrong,
+but every product that you
+launch, gets to have a steeper
+curve in terms of revenue versus
+days on the market? Do you think
+that's random? And luck? Or is
+that a result of experience
+listened
+Daniel Vassallo: to was the tech
+I don't think it was like death?
+I think. So it was a little bit
+in the beginning, because I
+mean, user base was one of the
+lowest and then the West book
+was second, which was better,
+and then the total cost was
+better. But then I did the
+cutting board. Yeah, I did
+Profit and Loss membership was
+was my first attempt as a
+community, I tried to build a
+community on circle. It didn't
+work because it was incidental,
+it isn't a funny thing. You
+know, the small bits community,
+I didn't try to build the
+community, I just launched the
+course. And I kept doing the
+cohort course I kept repeating
+it and the community happened on
+its own. I wasn't mentioning a
+community, I told them my
+landing page, I think I was
+lucky that the first couple of
+cohorts, the people were very
+active, I had set up a Discord
+server just to share the
+recordings and the slides and
+the notes and whatever. And
+people kept coming up after the
+course and did that. And they
+kept helping each other without
+my intervention. And they built
+the first energy, I think we
+told them, I'm sure it wouldn't
+have happened. And I didn't ask
+them to do it. I didn't do
+anything to help them do it.
+Except I was lucky, I think
+there was a place for them to
+hang out. And then as people
+continue to join, if people
+started telling me, I signed up
+for the course, but I'm saying
+for the community, I mentioned
+the community more. And people
+were actually telling me, you
+should probably start mentioning
+the community in your landing
+page. And then I made a, I made
+another small batch, I made a
+marketing position, I started
+selling the community instead of
+the course now I'm selling it
+site joined the small best
+community and the course is
+free, right and almost changed.
+Nothing I still didn't during
+the course of the month, right?
+But instead of people signing up
+for cohort, 11, and they have
+assigned a fixed date, they join
+the community. And they can take
+the course whenever they want as
+many times as they want. It's
+just there. They can join and
+whatever. And it's worked. I
+think it's improved. My
+conversion rate is better,
+because it's changed what I'm
+selling people, I think that
+there's a bit of the fear of
+missing out in our course, yes,
+of course, education knowledge,
+but the community, more people,
+I think, want to be part of
+something, right. And I think it
+helps me tap again into a pool
+of customers that you know,
+that's probably I wouldn't have
+been able to teach. And then I
+did another small experiment, I
+started inviting guest speakers.
+So I just was another's
+financial investments. These are
+people I'm paying that already
+spent over $25,000 I'm going to
+spend twice as that. Now
+sponsoring some recorded classes
+as well like helping people
+record courses, we'll make them
+free for the community and then
+the course creators can sell
+them on their own as well. And
+so even though now I'm it seems
+like I'm making bigger bets.
+It's not really that much. I
+mean, it's still to me, like
+when I started inviting guest
+classes, I said, Okay, let's
+start an experiment with $5,000.
+I do five guest classes. Let's
+see how it goes. Will people
+show up with people like it? It
+was to me again, I like like you
+mentioned in my tweet, if I were
+to lose $5,000 Will I lose sleep
+at night? No, I mean, this
+product already made a lot
+sights, of course, I don't want
+to lose them, right. But But I
+will still be some door
+disappointed that you can never
+eliminate this appointment
+completely. But it wouldn't
+affect me in any material way.
+And same thing now that sort of,
+I'm still placing small bets on
+the community, still, I'm still
+trying to make it succeed as
+much as possible. I'm just not
+relying on it. So I'm just aware
+that this thing of next year
+might not make me as much money
+or any money at all or in a
+couple of years, right? It's
+just a reality, everything has
+an end date. At some point,
+Arvid Kahl: well, I love the
+fact that you're always keeping
+your eyes open for potential
+ways of improving this, and
+improving the portfolio through
+it. Right, that's kind of what I
+see with this, I followed that I
+followed your profit and loss, I
+found that very interesting,
+because it gave people a very
+interesting insight into
+somebody trying to diversify
+their portfolio with a product
+that then diversified their
+portfolio. I love recursion,
+that's just the funniest thing.
+I just really enjoyed that. And
+then seeing you taking the
+approach, but not the product
+and turning that approach into
+another product and changing
+that over time. Super exciting.
+And I think highly
+inspirational. And that kind of
+inspiration are first of all,
+thank you for sharing this like
+because it's not, not everybody
+believes in public the way you
+do. There's, I know that you
+also use your public presence,
+obviously now with the 135,000
+followers. That's significant,
+right? It's a lot of people, but
+and obviously anything you do
+has a built in audience, but
+then sharing your learnings and
+decisions along the way for
+other people to reach similar
+success and their own things
+just is a wonderful thing. So
+thank you for that. I've always
+been a big fan. And it's I know,
+it takes time and it takes not
+just work but also bravery in
+some way to talk about the
+things that do not work. And
+that, you know, you're kind of
+doubtful about. So particularly
+in front of an audience of a
+couple, you know, 100,000 people
+that that is substantial. I just
+want I want you to know that I
+find it inspirational that many
+people find it inspirational.
+And that brings me to the last
+thing I kind of wanted to talk
+to you about because we're
+hitting time almost. And I you
+said that recently. Like all the
+things that we talked about
+today, you said that recently,
+but I, I find find that great
+that you find inspiration in
+scrolling Twitter for a while
+every morning. That is something
+that goes so much against what
+most people think social media
+is like for most people, it's
+distraction. It's like Doom
+scroll. And you said that that's
+where you get new ideas and new
+inspiration. As the final thing,
+can you can you say something
+about that and how people can
+use this? Interesting. Let's
+just call up Twitter an
+interesting platform to create
+and to monetize?
+Daniel Vassallo: Yeah, yeah,
+absolutely. This is another
+realization that I think
+occurred to me over the last
+couple of years is that I used
+to think like many people do
+that. Ideas come in the shower
+light, or you go for a long
+walk, and you sort of come back
+with an eureka moment, and you
+have a good idea. And, of
+course, taking a long walk and
+thinking about something
+sometimes might help you
+optimize something, improve
+something, maybe think of a
+better name for your product or
+whatever. But usually, I think
+almost always good opportunities
+happen when you embrace
+randomness. You need some
+inspiration from the outside.
+And I'm going to tie it all. So
+back to the VC movie studios,
+book publishers things like the
+publisher who published Harry
+Potter, like they it wasn't the
+executives who sat down in a
+boardroom and decided, Oh, we're
+going to write this whimsical
+story about our 10 year old
+wizard who's going through this.
+No, they just opened the inbox,
+they're less than them. Things
+come to them. JK Rowling showed
+up one day and they just decided
+this might be interesting. Let's
+give it a shot. Same thing with
+VCs, I look at Y Combinator,
+they do the American Idol like
+audition day, like people come
+pitch for 10 minutes. And they
+just say Yes, sir. No, they
+don't they it wasn't the VCs who
+talked about Dropbox, or Airbnb
+or whatever, or Twitter or
+Facebook or everything, then
+them things came to them. And I
+think we need something like
+that. So I tend, if I reflect on
+everything that I've done, that
+I can listen to find the tweet
+that inspired me to do it.
+Right. And sometimes it's
+something seemingly unrelated,
+but it opens my eyes to a new
+way of doing things and then
+it's like a catalyst. And then I
+start thinking, what if I do
+something similar in my own
+domain, like I remember like the
+Twitter course because I had
+never done I have never recorded
+myself on video before ever like
+and I'm an introvert and sort of
+it's not something that comes
+naturally to me and I had this
+impression that video is
+recording yourself on video was
+an extremely daunting thing.
+Editing recording techniques.
+Time insists that I didn't have
+once I was calling Twitter
+tweets showed up from a person
+who I didn't follow event was
+tweeted by somebody. It was a
+course on Gumroad about flipping
+pallets. It's called I just
+basically this business side
+hustle thing where you buy I
+turns goods from Amazon and
+Walmart and whatever and you go
+to eBay and try to sell them.
+And this was $25 I was about to
+make, I was about to go for
+lunch, and I bought it on just
+on a whim because I was curious.
+I wanted to see what this is.
+And what blew my mind was the
+presentation, not the content
+content, I learned something
+new, I doubt I'm going to use
+it. But this lady here who
+created this course just took
+her iPhone, started diving went
+to the car, but listen to the
+first person mode, went to the
+warehouse. And she's just
+explaining how she picks the
+pallets, which pallets are worth
+it, how she breaks the pallet to
+fit it in car Monday and things
+like this, but it made it
+approachable, it made it feel
+like to me, if I wanted to start
+getting into this pallet
+flipping business, I know what I
+do. And it seems like it was
+completely no effort for her.
+She didn't do any editing and
+the recording like vertical
+mode, literally just I found
+that and it was okay. That's the
+production quality wasn't
+necessarily. And I saw that on a
+I think it was on a Thursday on
+the flight because same thing in
+the back of my mind, I already
+thought I should do something
+with the knowledge I got to how
+to build an audience. When I was
+thinking, Should I write a book
+should I? What should I do as
+books felt daunting for
+something so visual. And this
+was a lightbulb moment, I know
+what I need to do, I'm just
+going to create a Zoom meeting
+with myself, share my screen
+plus the court. And I'm just
+going to talk brain dump of what
+I do what I tweet about what I
+don't tweet about how I set my
+profile, blah, blah, blah, I
+ended up, I targeted an hour, it
+took a bit longer. I didn't edit
+it, I didn't speed it up, I
+didn't cut anything, upload to
+Gumroad. And again, like I if I
+didn't bump into this and then
+tweet on that day from a person
+who I don't even follow, I would
+have missed out very likely. And
+I see $100,000 payoff. Probably
+it's open even more doors. And
+you know, this is just one
+example. Everything else that
+I've been doing that is what
+something random. Right? And I
+again, I think I'm not
+recommending everyone should be
+using Twitter. But everyone
+should find something that is an
+inspiration generator. And this
+could be like, for example, a
+podcast series, right? I mean,
+it used to be like your blog, or
+you could do the heck as
+podcasts is a good one.
+Excellent. When you hear people
+talk about how they set up their
+business, what they doing
+unconventional things, whatever,
+like this podcast of yours might
+be a good example. I mean,
+something that allows you to see
+things that until a minute
+before you weren't even aware
+of. That's what the thing, a
+great example of inspiration
+generator and my friend Peter
+askew, do you know him the
+onions guy, I sell onions on the
+internet. His inspiration is
+every day he looks at expired
+domain names, he makes a cup of
+coffee in the morning, he's
+close to a list of over 100,000
+expired domains. And this
+fascinating every business he
+started, it wasn't an idea in
+the shower, he saw the domain.
+It sparks something in him
+speaks to him that's using his
+own words had bids. Sometimes he
+doesn't win it. But he went once
+he was done hit size to develop
+it. So it's super, super
+fascinating. Rather than
+dimness, this event embracing
+randomness, right. And, again,
+he's diversified. He's selling
+Ghanians, he has job listing
+sites, birthday party services,
+to tie the SAS which is sold
+later, like lots of different
+things. And he changes over
+time, that as well. He sells
+things like sort of it's super
+fascinating person again,
+excellent. He's been doing the
+portfolio business for over a
+decade. And he and the I think
+his special thing is like his
+own unique inspiration
+generator. And again, I'm not
+saying everyone should do the
+same thing. That's what's
+important for people to not just
+believe that they're just going
+to brainstorm an idea or an
+opportunity. I think we should
+be embracing randomness every
+day bumping into random things
+as much as possible.
+Arvid Kahl: I like that like
+seeding your inspiration by the
+random stream of whatever it
+might be, right? Maybe you're on
+Reddit, maybe on Facebook, maybe
+on Twitter, maybe you're just
+checking expired domains,
+whatever you find that that
+allows you to come up with
+inspiring thoughts. That is a
+wonderful idea. And I've been
+like I said, I've been following
+you on Twitter, and you've been
+very inspirational to me and
+many others. So coming to a
+close, where would you send
+people to be inspired by you?
+Would you like people to follow
+Daniel Vassallo: me? Yes,
+certainly Twitter like Twitter.
+I like Twitter a lot. I'm sort
+of sharing as much as I can on
+Twitter, and it's 100 280
+character limit. So yeah, de
+Vassallo on Twitter. And if you
+asked me a question that I tried
+to reply to everyone as much as
+possible, so this probably the
+best way to contact?
+Arvid Kahl: Certainly Do you
+definitely reply to my
+questions. So I'm really
+grateful for that. Thank you so
+much for coming on today. That
+was a wonderful conversation.
+Thank you for being here and
+bringing up all these amazing
+ideas that I hope people,
+Daniel Vassallo: always, always
+great to talk with you. Thank
+you. Thanks for inviting me.
+Arvid Kahl: And that's it for
+today. Thank you for listening
+to the bootstrap on the podcast.
+You can find me on Twitter at
+Arvid. Kahl a VAD KHL and you'll
+find my books SR two sold and
+the embedded entrepreneur and my
+Twitter course find your
+following there as well. If you
+want to support me and the boots
+on the podcast, what I would
+really appreciate is if you were
+to follow my YouTube channel,
+subscribe to the podcast and
+your podcast player of choice
+and leave a rating and a review
+by going to rate this
+podcast.com/founder. Any of this
+will really help the show. Thank
+you very much for listening, and
+have a wonderful day. Bye bye

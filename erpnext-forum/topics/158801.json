@@ -1,0 +1,53 @@
+{
+  "topic_id": 158801,
+  "title": "show sign in when i want to start the video but i already signed in and enrolled",
+  "slug": "show-sign-in-when-i-want-to-start-the-video-but-i-already-signed-in-and-enrolled",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "frappe",
+    "bug"
+  ],
+  "created_at": "2026-01-07T19:36:04.380Z",
+  "last_posted_at": "2026-01-07T19:36:04.577Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/show-sign-in-when-i-want-to-start-the-video-but-i-already-signed-in-and-enrolled/158801",
+  "views": 15,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "bhupeshjoham",
+  "posts": [
+    {
+      "id": 490523,
+      "username": "bhupeshjoham",
+      "name": "",
+      "created_at": "2026-01-07T19:36:04.577Z",
+      "cooked": "<p>I can’t start my training in frappe it shows me to sign in everytime when i want to start the video</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/0/8/0875b669f8c7591c660649240565814998e7c6c2.jpeg\" data-download-href=\"https://discuss.frappe.io/uploads/default/0875b669f8c7591c660649240565814998e7c6c2\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/0/8/0875b669f8c7591c660649240565814998e7c6c2_2_690x324.jpeg\" alt=\"image\" data-base62-sha1=\"1cQ16dXBlrfzifsG4TLOguZoIYW\" width=\"690\" height=\"324\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/0/8/0875b669f8c7591c660649240565814998e7c6c2_2_690x324.jpeg, https://discuss.frappe.io/uploads/default/optimized/3X/0/8/0875b669f8c7591c660649240565814998e7c6c2_2_1035x486.jpeg 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/0/8/0875b669f8c7591c660649240565814998e7c6c2_2_1380x648.jpeg 2x\" data-dominant-color=\"919191\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1587×746 156 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/b/6a8cbe/{size}.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 7,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

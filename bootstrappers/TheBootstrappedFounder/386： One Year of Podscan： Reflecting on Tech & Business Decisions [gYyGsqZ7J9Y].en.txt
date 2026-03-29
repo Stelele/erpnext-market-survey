@@ -1,0 +1,697 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap
+[Music]
+founder. Today I want to reflect on
+something that is both foundational to
+the business and quite personal to me.
+It's been pretty much a year since I
+started Podscan and I think it's time to
+look at the choices I made back then in
+terms of technology and dependencies and
+services and everything around the
+business and see how they're holding up
+today. This episode is sponsored by
+paddle.com, the merchant of record that
+has been responsible for allowing me to
+reach profitability just this month.
+Paddle is truly more. That's merchant of
+record. Because their product has
+allowed me to focus on building my own
+product that people actually want to pay
+money for. And that's why Paddle does
+more for you. They deal with taxes and
+they reach out to customers when they
+have failed payments. They charge in
+people's local currency. do all these
+things that I don't need to focus on so
+I can really be present for my customers
+and their needs. It's amazing. Go check
+out paddle.com to learn
+more. So, Podscan itself is doing pretty
+well. It has grown from this experiment
+that it was a year ago into something
+quite substantial. It's profitable now
+and has customers of all kinds that I
+didn't even expect to serve in the
+beginning. With every week, I think I
+shift closer to the perfect messaging
+and I reach more of the right people at
+the right time. What I want to share
+with you today though is me walking
+through the tech stack and the business
+stack of the Potscan business and the
+product. I'll talk about what
+expectations I had back then in the
+beginning and if they've been fulfilled,
+if they've been exceeded or if I had too
+big or too small expectations,
+essentially what worked out and what is
+still lacking. I'll start with the tech
+side of things and then go more into the
+business side. The services that I use
+to make pods can run. Let's start with
+the tech stack. There are a couple of
+major choices you always have to make in
+a software business when you start.
+What's the general infrastructure that
+you build your product on? What's the
+development pipeline? And what are the
+components that you integrate your
+system with from the beginning? For me,
+the general architecture was quite
+simple. I wanted to build a single
+central application server that pretty
+much does everything. I didn't want to
+over complicate it. If I need any
+external stuff, I just going to set up
+servers that are going to be their own
+deployment somewhere else. Any external
+services or background processes that
+happen on another server. I figure that
+out. But from the beginning, I wanted to
+build one central kind of monolith
+application and for that I needed to
+make a tech choice. The biggest choice
+that I made at the beginning of pots was
+to build this product with PHP and more
+precisely the Laravel framework. Now my
+background is actually in PHP back in
+the day in 2003 and four. When I first
+started working on software and web
+development, PHP was at version 4 and
+that was the first language that I
+started out with. Over time I went into
+JavaScript and Elixir and Ruby and all
+these other things and built software
+with that. But it turns out that PHP has
+grown into something quite amazing and
+Laravel in particular is the gateway to
+building web businesses more easily than
+anything else I've ever used. At the
+time that I started, Laravel was at
+version 10. It's now at version 12. I
+haven't upgraded yet because it's still
+working and it's perfect in terms of
+performance and works well enough. So, I
+didn't have to do the upgrade yet. I
+will get to that in a second though
+because when I started using Laravel and
+looked into the Laravel space, I was
+quickly very pleasantly surprised and
+inspired really by the ecosystem around
+the product. Nowhere else had I found
+such a plug-and-play ecosystem that
+seemed so well integrated before, not
+just with libraries, because most
+ecosystems have great libraries and
+projects, but here it was actual
+products that seamlessly fit with each
+other. And this isn't surprising when
+you look at all the work that the
+Laravel team and Taylor Artwell have
+been doing to create things like Laravel
+forge which is for hosting and Voyer for
+deployment, Laravel Spark for payments,
+Laravel Jetstream for users and team
+logic and so many other components. In
+fact, there is Laravel shift which is an
+upgrade component which helps you
+upgrade from Laravel 10 or Laravel any
+version to Laravel current 12 in this
+case. There are solutions, kind of
+plug-and-play products that are all
+integrated with each other and allow you
+to use the full power of the ecosystem.
+And initially, it was almost
+overwhelming to see all these services,
+but I ended up massively benefiting from
+them. The initial prototype for Potskin
+was very quickly spun up, like very
+quickly within a couple hours with all
+these components in place. And none of
+them has been problematic over the long
+term. They all fit really well, and
+they're all still well supported.
+They're working extremely well with each
+other. They're reliable and I haven't
+needed any extensions that I couldn't
+build or find somebody who had already
+built it for. Like anything that went
+beyond the basic things that these
+packages offered, I could either do
+through just reading the documentation
+and diving into it or use AI, I guess,
+or have some other solution out there
+that is building on top of it. And one
+benefit that I found I didn't expect in
+the beginning because I wasn't working
+with AI back then. and I was still
+coding everything by hand is that once
+AI actually hit the scene and I could
+have AI tooling check my logic and build
+features for me. The fact that PHP is
+such a popular language it has been with
+decades of people solving problems
+became a massive benefit. AI systems
+particularly the current versions
+trained on so much material and with
+really good reasoning capabilities they
+are extremely good at building PHP
+software. They are pretty good at
+building any software that has been
+around for a while. Choosing PHP, one of
+the oldest programming languages on the
+web and using it to build on top of a
+well distributed and popular framework.
+I think that was a spectacular choice.
+There a couple businesses back both
+feedback panda, the one that I built and
+sold and even permanent link the one
+that I built after I had started writing
+my book. They are built on elixir and
+elixir itself is a great language. It
+has a wonderful ecosystem, but it's not
+as widely popularized as the PHP or the
+JavaScript world for comparison here.
+So, Elixir's wonderful benefits of being
+like
+hyperparalized, they kind of pale in
+comparison to just how easy it is to
+build with PHP. You may not build as
+performant an application, but it still
+will work if you run PHP. and the tools
+that are around are just so much better
+because of the wide popularity of these
+things. I highly recommend that you look
+into this when you build a new product.
+You take this into account. There's
+something called the Lindy effect. And
+that means that a thing that has existed
+for a while is very likely to keep
+existing for just as long. Things that
+have been around for 20 years, like PHP,
+will probably be around for 20 more
+years. But something that's only been
+around for 2 months, think of recently
+more hyped popular JavaScript framework
+might not be here anymore in 2 months,
+right? These things, they have to grow
+into some kind of adult state or a
+mature state, but they often don't.
+Things that are already mature, they
+will likely stick around for a while.
+Hypes are quick, but long-term things
+stay longterm. And this effect is
+particularly true about programming
+language choices and framework choices.
+Most technical choices actually benefit
+from things that have been around for a
+while because there's a long rat tail of
+addendums and additional stuff that you
+might not even think about. But a
+community, right, that is something if
+that exists and has existed for a decade
+or so, that's valuable. So if you choose
+a language that's popular and has been
+around for a while, you will find a lot
+of potential experts out there to help
+you with problems because they've had
+the opportunity to learn for a while,
+build projects with this, and become
+experts for a long time. You will find
+documentation and examples that you can
+draw from if you just look at it, read
+it, understand it, and that AI has
+already learned and understood. And you
+will find well-maintained libraries that
+are not just well written and well done,
+but they include features that you
+actually need in real world projects
+because they were written by people who
+needed them for real world projects over
+a couple decades. And this is something
+that comes with a technology choice that
+might be boring or not as modern and
+maybe not as super performant, but it's
+still incredibly impactful for how easy
+it is to build a business on top of it.
+And that's kind of why we're doing this,
+right? We're not just playing with
+technology for the sake of technology.
+We want to make money with this. So the
+choices have to reflect that. And there
+are several cascading choices from this
+framework selection. For me, Laravel
+with its internal system called
+Eloquent, just kind of the OM, the
+mapper that sits on top of the
+relational database. Well, that supports
+a couple databases, including MySQL,
+Possql, and
+SQLite. And I chose MySQL here. That's a
+choice that let's just say I don't
+necessarily regret it, but I think I
+could have made a different one and
+probably had a more positive outcome
+here. as I created massive numbers of
+transcript every day and the system is
+still doing this. Like 50,000 new
+episodes come in every day and I
+transcribe them all and I feed them into
+this database. Well, I have to deal with
+the fact that MySQL is not that good for
+things like full text search or vector
+embeddings. Those things don't really
+exist in MySQL or they don't really
+exist well. So it has been around
+forever MySQL for web programming and
+even before but these capabilities
+aren't part of the basic toolkit that's
+different for things like possql and it
+turns out to be much easier in SQLite as
+well. So out of the three choices that I
+had in the beginning did I make the
+right one? Well let's just say SQLite
+doesn't make sense for me at all because
+I have so much data to store pots at
+this point is probably somewhere north
+of five or six terabytes in raw storage.
+not going to put that on a local
+database file. I had to build a system
+to move some of this onto object storage
+and only reference and pull that data in
+when needed to kind of trim down the
+database. So that's that's not really
+something I want in one file on one
+system. I want it to be on a dedicated
+server somewhere that runs a database.
+So that kind of left my scale on
+posgress. And posgress I probably could
+have picked that and fared pretty well
+because posgress does all of the things.
+It has a really good vector storage
+internally. It has full text search
+probably usable to a certain degree. But
+I think MySQL is fine. The consequence
+of having massive amounts of data in a
+database table is that with MySQL in
+particular, changing the structure or
+the schema at that scale of that
+particular table with all this data is
+almost impossible without a workaround.
+If I try to add an index to a database
+or to a table in the database that's
+constantly being read from and written
+to and has a lot of stuff going in and
+going out, has a lot of indexes already
+in there. That index is going to lock up
+the application and I can't afford this.
+particularly not if I offer an API the
+way I do right with full access readr to
+the database at all times can't just
+have it lock up for two hours so what I
+can do at this point is what AWS where
+this is hosted calls a blue green
+deployment where I create a copy of the
+whole database I synchronize it I then
+add my index to the green copy the kind
+of green field the new variant that's
+not being kind of used yet by the
+program then I get the index run there
+takes less time because there's there's
+not too much uh reading going on from
+it. Writing still happens, but it's
+synchronized in the back. So, the
+backlog just waits. And then when that's
+done, I switch it over, right? I turn
+the green into blue and I switch them
+over. AWS does this, I think, on the DNS
+level. So, you don't even have to change
+your configuration. It's really cool,
+but it's additional cost. So, for every
+index that I want to add, I effectively
+have to pay twice the daily hosting rate
+for spinning the whole thing up, running
+the index on it, and then switching it
+over. And that's easily hundreds of
+dollars for every index that I add or
+every new field that I want to add to
+the database. That's not fun. And I
+rarely do this now unless it's really
+needed because it's just a complexity of
+a certain thing. So that's my SQL here.
+Not sure if poscress would have been
+easier or if it it's just my database
+schema approach that I should change.
+There are so many different ways of
+solving this problem, but I just feel
+like I have to mention here that MySQL
+may not have been the perfect choice
+because I've been constantly barged by
+Jack Ellis, the co-founder of Fathom
+Analytics, for not using Single Store,
+which is something that he suggested to
+me from the beginning and I probably
+should have used, but I didn't, you
+know, and it's really hard to make that
+switch at a later point, but it's just
+what it is. The fact that I can't do
+full text search in MySQL though meant
+that I needed to externalize search to a
+different system and I chose Miley
+search at this point out of several
+options back then. I think we were on
+version 1.7 of my search. I quickly
+learned that having every single item
+from my main database in my search
+engine kind of trying to completely
+duplicate it would almost be impossible
+for the search engine to keep up with.
+It's just too much stuff to ingest, too
+much pointless data, too much text to
+run through, and my research needs to
+build an index on this massive round of
+transcripts for hourlong podcasts. It
+just kind of swamped even a very
+powerful server. So, I had to figure out
+how to set up my server to handle the
+inflow. And then over time, Mighty
+Search became much better. 1.9 was the
+version that really started working for
+me. And I just upgraded to 1.14 a couple
+days ago. It just worked until now. And
+throughout this time, Mighty Search had
+a couple hiccups, which is just, you
+know, hosting a isolated system. I just
+have to deal with, you know, file
+descriptors and temporary storage and
+all that. But I always run two servers
+anyway, so I can quickly switch to one
+if the other one needs maintenance. And
+it requires some monitoring, but once
+running, it's extremely fast, quite
+reliable, and produces very good results
+that I use in both my API and the UI.
+And with 1.14 ingestion, like the
+indexing process has sped up so much. I
+can now hammer it with transcripts and
+it just keeps ingesting them very
+quickly. It's been really good. It's a
+good choice. So the big benefit of
+building pots in public, which is
+something that I'm currently doing, I
+guess, and I have been doing for the
+last year, was being able to reach out
+to the people behind my search, the
+open- source maintainers, and do bug
+fixing with them and complain to them
+about stuff and give them full data
+exports just to play with and see how
+that works. This led to features being
+prioritized that I can really use now.
+And I'm really happy with this choice,
+especially seeing where my search is
+going with AI assisted vector embedding
+search, hybrid search, and that stuff.
+One day I'll turn that on and have a
+semantic search over the full corpus of
+all podcast episodes anywhere. And
+that's still something for the future
+because it requires resources that I
+can't spare yet. Potscan has only
+recently turned profitable. I still have
+to do a couple things, but that'll be in
+the future of the system. Just full
+semantic search. I'm excited for this.
+Now, let's talk hosting and deployment
+here. My server is hosted on AWS, which
+has been very reliable. I think there
+was one time in the last year where my
+server died because of a physical rack
+malfunction where it was hosted. But I
+could quickly restore the virtual
+machine to another server and it just
+kept running. I deploy through Laravel
+Forge and Laravel and Voyer, two tools
+that make that happen. That has been an
+amazing choice from the start. Like I
+said, everything in this ecosystem is
+really cool and Forge in particular
+builds this really performant PHP FBM
+setup and Voyer has a very easy gitbased
+deployment system and they work really
+well together. His tools have been super
+reliable in helping me set up my main
+server and the API servers that I use
+for transcribing and data abstraction.
+The whole ecosystem has been extremely
+useful and good to me. I have a backup
+server somewhere for Podcan. I think it
+lives on Hetner just if I ever need it.
+Again, if I need to restart my main
+server or something, that is what that
+would be. I don't think I need to scale
+the system to anything much bigger than
+this because it's just good enough the
+way it is right now. But that also might
+change in the future. Who's to say,
+right? I don't know what's going to
+happen over the next year. So, that's
+the technical side of things. Let's
+maybe look more into the business side
+choices that I made, the services that
+help Podscan operate. Big one here is
+scraping because I need to check a lot
+of things and pull a lot of data from
+the web to enrich the podcast data that
+I already have. So for all my scraping
+needs, I've been using scraping B and
+they have been great from day one. It's
+a wonderful SAS that delivers exactly
+what you want for scraping data. They're
+very good, very reliable. And more
+recently, they added AI features where
+you don't even need to tell them exactly
+what to extract from a page in terms of
+like this is exactly where it is. You
+just tell them what you want to know and
+the AI will extract it in your chosen
+format. And this has been massively
+helpful to offload some of this AI
+complexity to another company and just
+pay them for it so I don't need to do it
+on my own end. It's really nice. It
+reduces my own system complexity and
+they keep making it better and better
+which is really cool. Things that break
+though happen like everywhere and they
+happen for me as well. So for my error
+tracking in both PHP and the JavaScript
+front end I've been using Sentry mostly
+focused on JavaScript here and Flare
+which is a PHP ccentric error tracking
+tool and both have been really really
+helpful. Their alerting is quite
+spectacular and the deep insights that
+they give you into the problem have
+really helped me figure out how to build
+a more stable system. Like at this point
+there's still errors like every system
+experiences errors right it's just that
+the complexity of it but new errors I
+spot within minutes of deploying and old
+errors once they reoccur for some reason
+I get to see immediately as well like
+the alerting is really really spot-on
+and they send through email they get
+emails I get notifications and for
+sending email I initially used Postmark
+for a while that worked pretty well at
+first but it became quite expensive over
+time and deliverability tanked at some
+point. I made a mistake. I think I sent
+10,000 emails to a person in a day
+because of a glitch in the system and
+then trying to recover deliverability
+just did not work out. I switched to
+recent at some point and that has been a
+much better choice for my transactional
+emails. They are being delivered more
+reliably and it's cheaper and it's also
+more a developer focused tool. So recent
+I highly recommend for sending emails.
+For non-transactional emails, for
+marketing stuff, I use Kit, formerly
+ConvertKit. And it's probably one of the
+best choices I made. It just keeps
+everything super useful. And I can
+adjust the layouts and I can add tags. I
+do this through my application, right?
+If I get somebody signing up, I add
+their email with a tag to my kit list
+and then allows me to start a campaign
+and invite them. and that the team is
+capable of coming in and talk to people,
+help with emails and we have
+well-designed templates through Padio.
+There are so many interesting tools in
+that ecosystem. Highly recommend looking
+into K for that. And then I think the
+most important choice that I made in the
+business sense is payments. And for
+that, unsurprisingly, I chose Paddle.
+They've been the most reliable and least
+complicated payment provider that I've
+ever worked with. I have almost 10K in
+MR at this point because Paddle makes it
+happen. And I've worked with other
+payment providers that made it hard to
+get to just even integrating payments.
+Not the case here. Now, I could probably
+have about $500 more per month if I
+didn't use Paddle. But I would have so
+many headaches and I would have to build
+so many things that Paddle just
+provides. It doesn't make sense. They
+handle renewals, fail payments, refunds,
+local currencies, all that stuff that I
+would have to manually build. It's
+extremely useful and has been a good
+choice to have chosen paddle. And this
+also means that I don't even have to
+send invoices to my customers. The
+people buying Potcan are actually
+Paddle's customers and buying it from
+them. I just have to get these reverse
+invoices 12 times a year with Paddle.
+And that is so much easier to handle
+even when it comes to bookkeeping. Maybe
+that's important to mention here too.
+For banking and making the business
+happen, filing taxes, bookkeeping
+reports, I use First Base. That's a
+company that sets up US-based companies
+in Delaware, Wyoming, wherever you need
+it. I set POTS up as a Delaware CC Corp
+so I could take this bootstrapper
+compatible funding from the com company
+fund. And they also set me up with
+bookkeepers and tax professionals. They
+set me up with a bank account at
+Mercury, which has been really good.
+Banking with Mercury has been a breeze
+and it's really cool because it's
+app-based and professionally handled.
+Like they know exactly who their
+customer is. They get that businesses
+need a modern software uh for their own
+modern software businesses. Their UI and
+APIs are built with that in mind. So if
+you want to start a company or want to
+move banks because yours is getting
+weird and old school, look into your
+Mercury. Now it's not a bank itself.
+It's a financial service provider, a
+fintech startup. They are working with
+Evolve Bank and Trust, which has been
+pretty reliable and reputable. The more
+traditional
+bank might not be as easy to actually
+set any of this up. Now, let's reflect
+on this year of choices because
+obviously Potskan is now a profitable
+business and it's doing well and it's
+growing. I think I made the right
+choices along the way so that I could
+even get to this point. Looking at it
+after the fact seems very easy, right?
+But I do want to do this kind of
+reflection on a more regular basis
+because I tend to do this yearly recap
+in my mind for all of my projects.
+Looking at where things are, how I want
+them to go, how I wanted things to go a
+year ago, and how they are now. Maybe
+next year I'll have a different answer
+to any of these things. I have a
+different perspective on that. Maybe
+I'll find certain technologies don't
+work for me anymore. Maybe my
+transcription system will be completely
+replaced by a service invented 2 months
+from now that's 20 times more efficient.
+But I then have to rebuild everything
+and some past choice doesn't make sense
+anymore. that hey, looking at it now
+from April 2025 back to April 2024 when
+Podscan really got going as a
+fullyfledged product, I think the
+technical and business choices that I've
+made have been pretty good on average. I
+still try to ensure that any choice I
+make has this migration path, the
+possibility to choose something else. I
+think it's harder with fundamental
+choices like the language, the
+framework, the database. But it's easier
+with external services like the email
+providers, the scraping tools, error
+tracking. I always think if that service
+exploded tomorrow or was acquired and
+then shut down, would I still be able to
+run my product? How long would it take
+me to get back to normal? And for all of
+these services, I believe I have an
+answer. I have backups. I have
+abstractions. And I have internal and
+documented migration plans. So that's
+kind of what you have to do in a
+situation like this. Drisk, right?
+D-risk at deplatforming. And because I'm
+thinking about questions that I will ask
+myself a year from now, looking at
+today, the choices that I make today,
+maybe I should ask myself today, could I
+have chosen something wildly better a
+year ago? And realistically, I don't
+think so. I mean, you know, the database
+could have used another kind, but I
+would still have scaling database
+issues. I would not have completely
+solved all of these problems. I still
+would have to build the right indexes,
+you know, for data to come quickly. That
+happens on every database that has
+millions of rows in there. I've met many
+new technologies along the way and I
+experimented with them. But nothing
+really beat what I had going on already
+and mostly because I think at this point
+I had already built a project with this
+stack, right? Podscan is the project
+that was trying to help me market
+Podline and Podline was built exactly
+with the stack and I knew exactly how to
+set it up. Part of the magic is really
+just knowing what you're doing and
+repeatedly doing it. So that's my look
+back at the technology and business
+choices that I made a year ago. Let's
+see how many good choices I make for the
+next
+year. And that's it for today. Thank you
+so much for listening to the goods
+founder. You can find me on Twitter at
+avidka v khl. If you want to support me
+on this show, please share potscan.fm FM
+with your professional peers and those
+who you think will benefit from tracking
+mentions of brands, businesses, and
+names on podcasts out there. Podscan is
+this near realtime podcast database with
+a stellar API. So, please share the word
+with those who need to stay on top of
+the podcast ecosystem. Thank you so much
+for listening. Have a wonderful day and
+bye-bye.
+[Music]

@@ -1,0 +1,1996 @@
+﻿Arvid Kahl: Welcome to The
+Bootstrapped Founder. Tony Dinh
+is a prolific indie hacker and
+I'm talking to him today. I've
+been following Tony's journey
+building and designing products
+in public on Twitter for years
+now. And that's what I wanted to
+talk to him about today, indie
+hacking in public. We dive into
+how he creates visually stunning
+products and his approach to
+pricing and revenue models.
+You'll find out how he navigated
+the recent Twitter API price
+increase and then ultimately
+sold his popular browser
+extension Black Magic to
+Hypefury for a fraction of what
+he could sold it at a few months
+ago. The indie hacker life is
+one of ups and downs. And Tony
+is sharing it all with you today
+right here. Before we dive into
+our chat, just a quick thank you
+to our sponsor, acquire.com.
+More on that later. Here is
+Tony.
+You've become one of the most
+interesting indie hackers to
+follow on Twitter at least when
+I'm concerned. I love following
+you. And I think you're taking
+building in public to the next
+level. And so far, I've watched
+you build four different
+products in public on Twitter.
+And I think that's incredibly
+impressive. And even better, I
+think your products are
+incredibly well designed. So
+you're not just building awesome
+stuff, you're also designing it
+so well. And most indie hackers,
+they don't build good looking
+products. They're not good at
+design at all. So how did you
+learn to create such visually
+stunning products? Where does
+this come from?
+Tony Dinh: Wow, first of all,
+thank you for the kind words. I
+really don't think I deserve all
+that. And secondly, I think most
+of the indie hackers I know on
+Twitter are very good at design.
+You look at loss knack and the
+product side CBT by hunnu. Hope
+I pronounced his name right. And
+product by Faulk John.
+Everywhere I see, the indie
+hackers usually have a very good
+sense of design and they
+actually do the designs by
+themselves very well. So I kind
+of feel like I am always
+somewhere in the middle. So I'm
+not sure if very good design
+compliment is fit for me. But
+Arvid Kahl: Nice deflection
+right there. I think you're
+really good at it because I
+think I'm not good at it at all.
+I use Tailwind to get like a
+basic level, you know, to have
+some kind of design. But after
+that, if I were to like build a
+custom component, it would look
+really bad. And I'm using
+several of your products like
+black magic. And we can talk
+about the whole journey and the
+acquisition in a bit. But I use
+that tool. And it's part of my
+Twitter process, obviously,
+right? I use it every day on
+Twitter. And I've been using it
+most recently from my Twitter
+tear downs where I look into
+other people's accounts. And I
+tell them how did you build a
+better Twitter profile. And it's
+just so good. Like I look at it
+and it has the pie chart for the
+things that they do and the
+timeline. And it's also visually
+clear. And I think that clarity
+and how to present data, that's
+something that's kind of what I
+mean with design, not just the
+beauty of the product, but your
+clear visual representation of
+data. And you have that in all
+of your products. So that's what
+I'm saying. Do you put some
+extra effort into this to make
+it visually very clear?
+Tony Dinh: Actually a little bit
+difficult for me to tell exactly
+how I got good at design, but
+also not that good, but okay.
+The one trick that I always use
+is that I always try to use as
+much built in components as
+possible, as you already
+mentioned, you use Tailwind,
+right? So I bought the Tailwind
+component library and just use
+that as much as again. So not a
+lot of components I use in my
+apps are like custom built. And
+about the chart, like I think
+I'm mostly I just use whatever
+reliever in the library itself.
+And sometimes I have to tweak a
+little bit about a spacing
+issue. But other than that, the
+only trick that I use is just
+stick with a template or stick
+with a component library. And
+usually it will come with a good
+design. But it's not fair to not
+mention that I also have a bit a
+little bit of skills in
+Photoshop in the earliest stage
+of my career so and also I used
+to work as a front end engineer
+and I had to work with a lot of
+designers building HTML, CSS and
+JavaScript, right? And back
+then, they were very strict
+about how you implement the
+design into the front end code.
+So they have a very good
+designer so they don't want to
+waste money when you don't
+translate the design into
+something like 100% to be so
+perfect, right? So I guess over
+the years I just pick up like
+what makes sense, what doesn't
+make sense, how is it good
+spacing and some other common
+sense around design. So that
+somehow get in me and help me
+with, you know, design some
+custom components when I need
+to. And then yeah, could be a
+little bit disappointed
+Arvid Kahl: No, not at all.
+Tony Dinh: I trained the design
+skill in me. So, yeah.
+Arvid Kahl: Well, that is the
+answer, right? The answer is
+that you've done all of this
+before and you have good
+designers to show you what good
+design looks like. Not everybody
+has this if you come from a
+technical more background kind
+of background, right? You're
+building database stuff or
+you're just a DevOps engineer
+and you want to build something
+like a tool for other DevOps
+engineers. You only know what, I
+don't know, like Jenkins looks
+like, right? The software that
+looks like it's from the 80s and
+you don't have the kind of sense
+of what it could look like if it
+was well designed. That brings
+me to a question I asked on
+Twitter just a couple of days
+ago, before this has been
+recorded, obviously, who had a
+question for you because you're
+so big on Twitter now with
+90,000 followers, which is
+crazy, right? And people asked a
+couple of questions. One was
+asked by Kevilyn Pit. And he
+asked how long you've been a
+software engineer before you
+went into indie hacking as a
+business building effort? And it
+sounds like you've been doing
+this for a while, right? So
+what's your story in terms of,
+you know, how this came to be?
+And when did you choose to start
+indie hacking for money?
+Tony Dinh: Right. I've been a
+software developer for seven
+years. So seven years working
+professionally for companies,
+right? But when I started
+writing code, I was like 15 and
+writing code in high school
+already. And I was very, like,
+interested in computers and
+coding in general. Back then I
+was writing application with
+Visual Basic in Windows
+applications. And I was having a
+lot of fun, a lot of fun. So
+when I graduated and graduated
+from my engineering school, life
+getting away, I just go with the
+flow, you know and just
+graduated, get a job, get a high
+paying job and learn everything
+about the industry, everything
+that you can then get another
+job with higher salary and then
+go on and go on. So I've been
+doing that for like seven years.
+And during the years, I've
+jumped around quite a lot of
+roles. First I started as a
+front end engineer. And then I
+switched to back end and while I
+was doing all of my full time
+job, I always have some side
+projects where I practice on
+mobile development, database,
+DevOps and everything in
+between. So just a little bit of
+hobby and a little bit of
+professional work combined
+together. So I was learning a
+lot during those seven years.
+Arvid Kahl: That sounds very
+much like the journey that I had
+with myself. I started many,
+many years ago, did some stuff
+here, some of the stuff there,
+always building side projects,
+always exploring the other
+things in the field. So would
+you think that this is just
+looking at people who want to
+start indie hacking who have
+the, you know, they want to be
+like you, build really cool
+projects and then sell them, you
+know or build big MRR projects
+and monetize their lifestyle
+through that? Would you suggest
+they go and actually work in
+enterprise businesses first? Is
+that something you would like
+actively suggest?
+Tony Dinh: It depends. So
+usually, I would say that my
+seven years of experience is one
+of my very big unfair advantage.
+So the way because of that, I
+got advantages. So a lot of my
+products, like, I was able to
+build them very fast, very
+quickly and get into the market
+very quickly. So if someone is
+who is a very new indie hacker
+and jump into this game, they
+could use the same strategies as
+mine, which is working in the
+industry for long enough and
+gather on experience and use
+that as their unfair advantages.
+But they can also use other ways
+to acquire some unfair
+advantages on their own. Because
+I say that because I have seen a
+lot of other people who are not
+like working in the industry
+that long, even for people who
+are from a completely different
+industry jump into learning to
+code and then they was able to
+build something while learning
+to code and then the business
+went big. So definitely is not
+the only way to have some
+advantage that you will have to
+work for companies and other
+people, but it is definitely a
+way and that is what I was doing
+and not necessarily had to copy
+the whole journey. But there's
+many other ways to approach
+this.
+Arvid Kahl: Yeah, I would agree.
+There's definitely no silver
+bullets in indie hacking, I
+guess, any kind of
+entrepreneurship, right? It's
+always a risk. It's always a
+risk to take. And the path,
+there usually is a pretty round
+path. It's never a straight
+line. I really liked that. When
+did you I think one of the first
+projects you built was DevUtils,
+right? That was one of the first
+things. That is, for people who
+don't really know, it's a
+collection of software tools for
+devs, that you sold kind of on a
+one off basis, right? It's not a
+recurring subscription, right?
+Is that what it is?
+Tony Dinh: Yeah, it's a one off
+license that include one year of
+update. So in the next year, if
+they don't want to upgrade to
+the new version, they can still
+continue to use that for as long
+as they can, if they want. So
+it's the kind of the model that
+similar with some other popular
+software's like JetBrains IDE,
+if I remember correctly. So
+yeah, people can buy one time
+and use that forever or they can
+just upgrade it when they need
+it. They don't have to renew it
+every year. So yeah, just one
+time budget.
+Arvid Kahl: I'm asking these
+questions because in our
+circles, indie hackers,
+everybody's talking about MRR,
+right? Everybody's talking about
+recurring revenue and
+subscriptions and stuff. And you
+started with something that was
+not at least technically a
+subscription business. I think
+the next one you build like
+Black Magic was a subscription
+business. And then Xnapper was a
+non subscription business again.
+And now TypingMind is a
+subscription business again,
+like you were oscillating
+between these two. Is that
+always just a choice that you
+make about a particular product?
+Or how do you deal with pricing
+these kinds of products?
+Tony Dinh: So usually, the
+common sense I have is that if I
+don't have a recurring costs to
+maintain the software to
+maintain the product, then I
+don't have to charge the
+customer a recurring cost,
+right? A recurring price. So for
+DevUtils, for Xnapper, they are
+all software. If I don't update
+it, people can still use it
+normally no problem at all. So I
+don't have a lot of costs in the
+server to maintain them. So I
+only charge them like one time
+purchase. But for Black Magic
+everything is like data and
+database and
+Arvid Kahl: Yeah, Twitter API,
+right?
+Tony Dinh: Yeah, yeah. So a lot
+of maintaining costs and also is
+online service. So I need to
+monitor the server and
+everything so very closely every
+day. So a lot more cost
+associated with that. So that's
+why it makes sense for those
+type of businesses, those types
+of products, I will charge a
+subscription costs. So usually,
+I don't really like subscription
+model when I buy stuff. So I
+don't want my customers to have
+that feeling as well. So
+Arvid Kahl: Yeah, I can relate
+to that. I think mostly if
+you're selling as an indie
+hacker to other indie hackers,
+you kind of know what they feel
+right? You get the sense of what
+do they like. What do they not
+like. I really appreciate this.
+Thank you for sharing your
+thoughts because it shows to me
+at least right now how much you
+care about the people you're
+serving, right? The people that
+use your products, you don't
+want to charge them money if you
+don't need to. That is a really,
+really kind sentiment to have
+when you're building a business.
+And you're still making money.
+You're kind but you're still
+making money. I just want to
+point this out because so often
+people just charge, charge,
+charge because everybody tells
+them to, you know, get MRR out
+of products. And then you know
+products don't change because
+they just milk them for money. I
+appreciate because I'm a
+customer of Xnapper. And I'm not
+a DevUtils customer, but I am a
+Xnapper customer and I love the
+product. It's something I would
+probably pay you monthly if you
+asked me to because I like you.
+But as the product itself, it
+was a super easy choice for me
+to just buy it. And I guess that
+is revenue for you. And it makes
+it easy for people to purchase,
+right? I would like to talk to
+you a little bit about Black
+Magic. That to me is one of the
+other tool of yours that I use.
+I think I use two of your four
+products. I'm a big fan of you
+and your product. And Black
+Magic, like I said earlier has
+been an integral part in my
+professional Twitter life and I
+think evermore has been an
+integral part of your life,
+right? You recently sold the
+business to Hypefury and you
+posted about that on your
+newsletter. You sold it for and
+I'm just going to throw a couple
+of numbers in here $128,000
+overall in deal value to them.
+And there's obviously a big
+story to all of this because you
+had acquisition offers in the
+past. I think the first one was
+like 40,000, I guess, a year and
+a half ago and the second one
+was 500,000. But with 100
+upfront and then the other kind
+of staggered over time and now
+you sold for 128. Ups and downs,
+right? That's the indie hacker
+journey. And I would like to
+talk to you about this. Maybe,
+for people who are completely
+oblivious to what's going on on
+Twitter, can you explain to me
+why you had or felt you had to
+sell this browser extension
+based, really, really cool
+Twitter tool? What happened
+there? What was the process for
+you?
+Tony Dinh: Yeah, oh, man. Like
+quite a journey for me from the
+beginning to the end. So yeah. I
+mean, if you're on Twitter, you
+know about the pricing change in
+the Twitter API when Elon Musk
+decided to get more revenue for
+the company. So a few months
+ago, when they announced that
+the Twitter API price will
+increase and there will be no
+more free plan, I was like, very
+optimistic that the price will
+be somewhere like $100-$200 a
+month. I can definitely afford
+it, right? At the time, it was
+like at 14K MRR. $14,000 a
+month, definitely I can buy
+this, buy the subscription, buy
+the idea. But then there was
+rumor going out. There was a few
+people contacting me in my, so
+there was a private group of
+Twitter makers, who originally
+found it by the Twitter
+community themselves and they
+organize this. But when Elon
+took over, this group, kind of
+nobody managed this group
+anymore. So a few people from
+this private group reached out
+to me and saying that there's a
+rumor that Twitter API will no
+longer be free. And not only
+that, it will cost you minimum
+42K a month. 42K a month is not
+like 42k a year. It's $42,000 a
+month. And basically, they are
+going to kill all the existing
+app anytime now. So when that
+person told me the information,
+they also told me that I only
+have like one or two weeks
+before they decided to cut off
+the API access for every app.
+And he actually told me that the
+Twitter team tried to get off on
+the app already somewhere in
+like last week already. But they
+couldn't do it because some
+technical issue and that result
+in a Twitter outage. I don't
+know if you remember that. Yeah,
+the data just went out and the
+rumor is that they tried to cut
+off access to the top of the
+apps, but accidentally get off
+their own.
+Arvid Kahl: Oh, boy.
+Arvid Kahl: Right
+Tony Dinh: So yeah, we have a
+little bit more time. So yeah,
+Arvid Kahl: Yeah. That's a
+common problem for indie
+Tony Dinh: Yeah
+at the time, that was a shock.
+There's no way I will be still
+staying profitable with that
+cost in mind. So at the time, I
+was wondering about considering
+about a few options. Firstly,
+hackers, particularly when there
+is a crisis, like the one that
+try is to complete the sale.
+Another option is to somehow try
+to use private API and on that
+shady stuff, but I don't really
+want to do that. I really hate
+to use private API and
+unofficial thing because I'm
+trying to build a legitimate
+you were in, like, you have no
+experience dealing with, like
+business, right? And the option
+is not from another Twitter
+community. Some people have an
+idea of like, maybe we can unite
+together and create a company
+then we buy the API assets, then
+we can share that between all
+the small apps, including Black
+being acquired, like nobody does
+this before they do it for the
+Magic, which is still
+considering small at the time,
+right? And considering between
+those three options, the private
+API, I don't want to, the unite
+together and share the API key,
+it goes against the Twitter
+terms and condition, obviously.
+first time. So everything is
+new. Everything is dangerous,
+Twitter doesn't want to do that.
+And later on in the story, I get
+to later which show that Twitter
+really doesn't like it and they
+are actually verifying if you
+are doing that with your API
+key. So yeah and eventually the
+only option left is to sell. And
+you never know, right? Can you
+trust people? And is everything
+at the time, I was looking for a
+few people to sell. One is the
+one who reached out to me and I
+reached out to a few others. And
+I got two offers out of three
+potential buyers and then
+Hypefury was one of them. I
+talked with Samy. Samy also got
+the rumor somewhere together, so
+I kind of know him before
+going to explode? I remember the
+process when you were purchased
+because I listen to his indie
+hackers podcast and I know his
+story and I know about Hypefury
+and stuff. So we kind of get in
+touch with each other, we got
+into a deal, signed a letter of
+intent and then we just move
+really, really fast because
+or when you were acquired. And
+you had to do this migration
+there was only one week or two
+weeks to move everything. So
+imagine that if I don't move
+fast and if the deal haven't
+closed yet and Twitter will cut
+off the assets, people start to
+leave and customer become angry.
+The value of the business will
+too, righ? From the
+authentication from inside Black
+be much less, you know and
+things will be much more
+difficult to sell if that
+happens. So we kind of both
+understand that and we move very
+fast with the acquisition. Yeah,
+as soon as we sign the contract
+Hypefury contacted Twitter to
+Magic to Hypefury. You did that
+really well. I just want to tell
+share about the news so that
+Black Magic is now belong to
+Hypefury so that, you know, in
+the future Twitter, if you are
+going to cut off the access just
+don't do that. Like, so yeah, we
+kind of facilitate that. And we
+manage to keep Black Magic alive
+you this. I think you did a good
+job at making it very accessible
+when they started to get off
+access to other apps. And yeah,
+at the time, it caused a lot of
+problems. So yeah, that is the
+whole thing. So it went super
+fast. I didn't have enough time
+to you know, look for as many
+buyers as I can as I want to. I
+and very easy. But there was a
+lot of work to be done to
+am pretty sure that it will be
+possible to sell at a higher
+price than at the price I sold.
+But yeah, you know, critical
+time and also the first time I'm
+doing this, right? So
+migrate the business over,
+right? How much did you have to
+do to move the business into the
+Hypefury family of products?
+Tony Dinh: We just mostly spent
+the time on transferring the
+access, the ownership of the
+access. So in terms of the
+business and the product is
+there's not much changing, like
+not at all, besides the
+ownership, you know. So right
+now, still two separate
+business, separate customer
+base. And if you want to use
+both products, you still have to
+pay for both. Not a lot changed
+since then. So most of the
+effort is spent on transferring
+the ownership. And at the
+beginning, we only spend on
+transferring the absolutely
+necessary access, like the
+domain and the payment stuff so
+that we can move fast with the
+process. And then later on, we
+start to transfer all the stuff
+that there's a long list of
+services where I need to, you
+know, transfer ownership, that
+means permission to the new
+owner. And also a lot of
+services I use from my personal
+account, so split that out. So
+that's definitely a lesson there
+if it goes in the future, you
+know. Your business make sure to
+register everything under your
+business domain. It will make
+everything easier. But at the
+time, I know that earlier. But
+in order to save costs, I cannot
+afford to you know, register a
+new Cloudflare account every
+time I open a business and new
+account everywhere. So that's
+some account that I still share
+with my personal account. And
+only when I'm confident that the
+business can live on their own.
+It was difficult, but there was
+a lot of work. And we're still
+transferring everything now. I
+still haven't transfer the
+mobile apps yet because quite a
+lot of requirements from Google
+and Apple to transfer those
+mobile apps. So still haven't
+done but we got everything
+working and the customers
+experience no interruptions,
+which is the top priority,
+right?
+Arvid Kahl: Yeah, that's good to
+know that you're still working
+on it. And yeah, it's
+complicated. Even if these
+things were in your business's
+name, which is something that I
+regularly do suggest from the
+start, right? To separate your
+personal and your professional
+finances, logins or whatever but
+even if you had it like that, it
+would still take a long time
+with these walled garden systems
+like the Apple App Store and
+Google Play and that kind of
+stuff to just move things
+around. It sounds like you're
+still very actively working on
+this. And I think that's part of
+the deal, right? You're gonna
+stick around with the product
+for a while. How is that
+structured? What are you going
+to do? And when are you going to
+move out of that?
+Tony Dinh: Yeah, so now that we
+have a new, I hire a new
+freelancers to work dedicated on
+the project. So previously, just
+me and my other freelancer who
+worked with me on all of my
+projects, right? So I cannot
+afford to, you know, let him go
+work with Hypefury all the time
+because I have many projects for
+him to work with me. So we hired
+a new freelancer and we train
+her to work on the project,
+like, understand everything
+about the technical part of the
+product. And I will be
+monitoring and, you know, like,
+providing assistance to the
+product in general and I still
+coding for the product if I
+wanted to, but there's no
+obligation at all from the
+contract. So basically, just for
+me to continue to work on Black
+Magic for at least a year. So I
+will maintain and make sure the
+business is running and
+everything is working correctly.
+And then after that, you know,
+whenever I wanted, I could just
+move out and we have a new
+person to take care of the
+business right now. And also
+have re onboard a team of
+customer support. So, you know,
+they're really a big team right
+now compared to what I learned
+from the last time I listen to
+the podcast. So now they have
+grown into a pretty big team. So
+they have customer support to
+take care of the customers. I
+don't have to, like closely
+monitor them anymore. That is a
+lot of free time for me. So
+yeah, I guess from now on, I
+will still continue to
+contribute. My part is, you
+know, what features to develop
+next and how to work with the
+system and train the freelancer
+to be able to fully manage the
+product. And then I guess at
+some point, I will declare the
+end of my relationship with
+Twitter in everything, not
+material account you know,
+building products with Twitter.
+The whole thing about Twitter
+API change and Elon Musk really
+like decrease the confidence I
+have in the platform in general,
+especially the recent changes in
+the Twitter company overall and
+in the API team. So for example
+in the Dev forum, you will see
+that they don't really have any
+one monitor there anymore, maybe
+one or two people at the time.
+And I also heard that from
+people on Twitter, that even
+though they have access to the
+enterprise accounts, they still
+don't have a lot of support from
+the Twitter team. So I guess
+it's really a mess out there.
+And I really have have like,
+admire people who are still
+sticking with Twitter and on the
+products out there like have
+free obviously and other
+products would still stick with
+Twitter. And yeah, I guess at
+sometime, I'm gonna look for
+something new. Yeah.
+Arvid Kahl: Yeah, you ran into
+platform risk, right? You really
+felt what platform dependency
+means and what the risk is of
+building on something that is
+super shaky. I do have one
+question and this might be a
+painful question. But how did
+you feel when like a month after
+you sold, they introduced the
+$5,000 plan? Like that would
+have been something you could
+potentially have afforded,
+right?
+Tony Dinh: Yeah, initially I was
+like, ah shit. If only they
+announced it earlier, but then
+you know, others considering it
+seriously. I find that if they
+announced it 5k, it will be a
+word of pain for me. So first of
+all, try to squeeze down the
+obligation to you know fit into
+this plan. And also is not like
+the whole Twitter team and
+Twitter Dev and Twitter API is
+working normally right now.
+There's still a lot of downtime
+and there's absolutely no
+customer support from Twitter
+even though you are paying
+$5,000 a month. Even 42k a
+month, you still have no
+support. So and all of that is
+it could feel like I will be
+spending more time doing useless
+things if I try to fit Black
+Magic into that 5k. So I guess
+in a way, missed feeling, missed
+feeling. On one hand, I could
+have a profitable business,
+right? 5k a month, I can pay for
+that, still have like 10k left
+for me to pay the cost and then
+some for me to take home, right?
+But on the other hand, I will
+be, like, stuck with Twitter and
+don't have a lot of time to
+explore other stuff.
+Arvid Kahl: That's right. Yeah.
+And that's what you did, right?
+You left that one platform and
+you went to the next platform,
+went to open AI, built something
+there. But I do wonder and let's
+talk about the thing that you're
+actually working on right now,
+right? Let's talk about your
+current project. You now have a
+project that made $30,000.
+Tony Dinh: Yeah, correct.
+Arvid Kahl: Okay. Well, I gotta
+be precise here. And this is
+obviously some good money. And I
+would like to talk to you about
+this because this is an AI
+project, right? It's built on
+top of the open AI ecosystem.
+How did you fall into that?
+Because you were in social
+media, you were building tools
+for like Xnapper to me is
+technically a social media tool.
+Because it's you know about
+presenting screenshots in a
+really nice way. It can be used
+on on social media. And then
+Black Magic, obviously, is a
+social media tool and then you
+went to Typing Mind and Typing
+Mind is something completely
+different. How did that happen?
+And what kind of business are
+you building around that?
+Tony Dinh: Right, so Typing
+Mind, the original idea was that
+I was using the chat app from
+open AI, the default one, you
+know, the ChatGPT app. So there
+was a lot of thing I didn't like
+about it, about the app and I
+wanted to do it. And originally,
+I wanted to build a Chrome
+extension to, you know, change
+the way the application worked
+on my browser. But then at the
+time, I didn't have time to do
+any of that. That's just my
+idea. I just tried to explore
+what this Ai thing will be and
+what can I do with it? Can I be
+with some business or others?
+And during this time, I use
+ChatGPT a lot. And that's how I
+came up with, you know, some
+pain point that I wanted to face
+with my ideas. But then at some
+point, ChatGPT did a very big
+move. They released an API. Wow,
+I was not expecting that. They
+released API. At first, I was
+like, okay, they have a chat
+app. There's no way they're
+going to release API because
+otherwise, who are going to use
+their channel anymore? But they
+did. So that is something I
+really liked about open AI.
+They'd really, like developer
+focused and all the other later
+announcements. Since the time
+they announced the chat API,
+till now everything they do is
+that is like focus. And they put
+a good effort on maintaining the
+developer community and
+supporting them. So yeah,
+anyway, they announced the API,
+if I remember correctly, on the
+first of March, if I remember
+correctly. Yeah, a few days
+later, I built a very first
+version of Typing Mind. I
+register the domain name like,
+one day after. And then one day
+after I have a first version of
+Typing Mind, which is a very
+small, like. So the pain point I
+had with ChatGPT was that I was
+not able to create folders, that
+is the only thing. And the
+second thing is, I cannot search
+for my previous chats, you know
+that quite obvious common sense
+things that people would want to
+do when they have a long list of
+chats. But you cannot do that in
+ChatGPT. So I built a one simple
+app that allows you to search
+the history. So I released the
+app. I shared on my Twitter and
+people liked it a lot. And one
+thing that they really liked
+about it is that you don't have
+to like you have to use your own
+API key. And whatever you use,
+you pay OpenAI to use your key.
+You don't have to pay me for
+everything for every chat that
+you made. So I saw that. So a
+lot of people on Twitter are
+excited about the app. And so I
+decided to put a price tag. I
+charged people, like, if you
+want to use this, right now is
+free because it's in beta. It's
+free. You can use it, but if you
+buy right now you can buy it for
+$9. And then people just started
+to buy. And the first day I
+think I made like $1,000 or
+something. And then the next day
+$2,000, next day $4,000 and then
+8k and then $10,000, which is my
+pin tweet on my Twitter profile
+at the moment, which is
+celebrating 10 days $10,000 of
+revenue. And yeah, it really
+took off from there. And since
+that point, until now I just
+focused on talking to the people
+who are using it, talking to
+customers, adding new features,
+extending it, expanding it to
+other product lines, where I
+offer some like hosted service.
+So yeah, that's how product
+works.
+Arvid Kahl: So cool. What a
+story too like, surprised by
+your own success. That is the
+indie hacker dream, right?
+Tony Dinh: Yeah, at first I
+thought I was like, okay, I sell
+this for $9. Maybe I can make
+like 10 like $5,000. And then I
+can sell the whole thing on
+microacquire for $10,000. And
+then I'll exit the game. Who
+knows? Wow, I did not have that
+much customers. So that really
+took me by surprise.
+Arvid Kahl: That's funny. Yeah,
+that is surprising. Did you like
+actively launch it like in a
+big, big way? Or was it just
+like sharing it as a build in
+public project and people just
+took it off?
+Tony Dinh: Initially I shared on
+Twitter and I obeyed everything
+on Twitter. But when I started
+to see initial traction, when I
+reached $10,000 of revenue, I
+prepare a launch on product
+hands. And I basically use all
+my resources that I have, all
+the years of the last two years.
+I only started this two years
+ago. So I use all of my
+resources to focus on that
+product and launch. And at the
+launch, I made like, another
+$14,000 if I remember correctly
+from the launch itself. So there
+was an official launch of the
+product, which happened only a
+few weeks, two or three weeks
+after the first version is
+released. So yeah.
+Arvid Kahl: Your quick, your MVP
+is take one day to build and
+Tony Dinh: I feel like I was
+living again the days where I
+build Xnapper and build Black
+Magic. I wake up every day. I
+got in the morning and then in
+the afternoon I shared on
+Twitter and talk to people and
+then repeat the coding, coding
+everyday, everyday release. I
+deploy in production like 10
+times, 20 times a day.
+Arvid Kahl: That's so cool. How
+much customer service do you get
+like customer service inquiries
+do you get on any given day?
+Tony Dinh: Right now, I think
+every week we have like 10 or 12
+customers emails.
+Arvid Kahl: Oh, wow, that's not
+too much. So you actually have
+the time to focus on coding.
+You're not consistently barraged
+with like, question, question,
+question, right? Is there any
+way you deal with this?
+Tony Dinh: There was a lot of
+customer support question as
+well, especially in the early
+days and in the launch days,
+too. I use Lemon Squeezy, which
+is the new platform that I use.
+So I also that is something new
+as well in this project. So
+there was a few problem with the
+payments and people contacted a
+lot. So I really had to spend a
+lot of time on email and
+answering people's questions.
+Some people really don't
+understand how the app works.
+And they suppose you will need
+an API key to work to use the
+app. But some people don't
+understand what is an API key
+and what is that because they
+see the launch and they see the
+discount price. They wanted to
+get it, you know and then in the
+end, I have to answer all the
+questions. But in the end, till
+now I have someone to help with
+me on this already. So this is
+something also different
+compared to the previous
+products that I run, right?
+Right now I don't run a loan
+anymore. I have a team of one
+customer support. She's
+basically my business assistant.
+She helps me with everything,
+content, marketing, customer
+support, social media,
+everything, right? And I still
+work with a freelancer that I
+have worked with over the last
+year. And yeah, it's bigger is
+more time for me to focus on
+deliver the features that I
+really like and I really want.
+So it's something different this
+time.
+Arvid Kahl: Yeah, it's
+different. You're not a
+solopreneur anymore, right? Like
+all of a sudden, you're a big
+business leader, that's who you
+are.
+Tony Dinh: I still consider
+myself solopreneur because I
+don't really want to step into
+that management, you know, role.
+And I still feel right now the
+way I work with freelancers is I
+don't spend a lot of time on
+managing. I really, like put a
+lot of trust in their work and
+focusing on making them
+independent like me. So no
+deadline. No meetings and
+everything in sync. So
+Arvid Kahl: Do you have a lot of
+process like do you have like
+internal documentation for
+certain things like how to deal
+with problems? How to
+communicate with customers?
+Tony Dinh: No
+Arvid Kahl: Okay
+Tony Dinh: Yeah, don't have
+anything. So everything we kind
+of talk, we jump on a call and I
+just explain what is this? What
+is that? And luckily, the team
+was learning very fast and they
+kind of get what I'm doing. And
+I also like, give them every
+resources that I have that I can
+to make them understand the big
+picture. For example, everyone
+on the team can answer to
+customer support request,
+developer and my business
+assistant, right? They can
+access to customer support and
+they can talk to customer,
+understand what is the problem
+they have. And they can just
+sometimes the developer just fix
+the bug with the customer on the
+Customer Support Portal, without
+even me taking a look.
+Arvid Kahl: In an early stage
+business, like the one that
+you're currently in, I mean,
+it's a couple of months old,
+right? It's not that old. This
+is the way to go. And then I'm
+only asking you about your
+process or documentation because
+we were talking earlier about
+Black Magic and how you are
+still transferring things over,
+right? That would be easier if
+there was a, you know, good
+business manual and Operations
+Manual, like a franchising
+document for business. But that
+takes some time to establish.
+Tony Dinh: That is something
+we're learning to have as a
+solopreneur business.
+Arvid Kahl: Yeah, that's the
+problem, right? For many
+solopreneurs, they never start
+doing this because they always
+want to be solopreneurs. And
+then they sell their business
+and they figure out, oh, wow, I
+need this now. I need to train
+somebody to do all my jobs. And
+it's usually not that you need
+to train one person to do all
+your jobs. You need to train
+like five people, customer
+service, developer and
+operations and marketing, right?
+All of these things that are in
+your head, you need to take them
+out and give them to other
+people, which is why and I don't
+want to turn this into a lecture
+about documentation. But as a
+German, I love documentation. So
+you have to forgive me about
+that. It's just solubility of a
+business becomes much more easy.
+You can sell it more easily if
+you have stuff figured out. And
+that's kind of why I'm asking
+because you said something just
+a couple minutes ago, about oh,
+yeah at $5,000, I'm gonna put it
+on acquire and I'm gonna sell
+it, right? And just to let you
+know, acquire.com is sponsoring
+this very episode of the podcast.
+Arvid Kahl: So they're probably
+interested in that the rationale
+there too, like, you wanted to
+put it up maybe for a couple
+$1,000. But now the business is
+actually taking off, do you
+still maybe think about
+eventually selling it? Like
+what's going on in your mind
+about this?
+Tony Dinh: For sure, like every
+product that I own right now
+have a price, you can just give
+enough. So I'm a developer and
+I'm a businessman, you know,
+everything has a price. So at
+some point, I guess I will open
+for selling Typing Mind, the
+product. But at the moment, I am
+having a lot of fun with it. So
+it will cost a little bit more
+to overcome that barrier. I
+actually have someone contacted
+me and asked to buy the product.
+Arvid Kahl: Wow
+Tony Dinh: But yeah, I also tell
+them the same thing. I'm having
+so much fun with this. It's
+gonna be expensive to take it
+away from me. Not for the
+product alone, but like you're
+taking the fun away from me. So
+which is remind me of the same
+thing I said when one tried to
+buy Black Magic from me for
+5000K, I reject that. Then a few
+months, only a few months later.
+Arvid Kahl: Yeah, that's that's
+I have the I just read through
+the article again, like earlier
+today that you wrote when you
+said no, I'm not selling it.
+It's like the same arguments are
+happening here. And obviously,
+it's a different situation.
+Right? You as you said, Open AI,
+the company is much more
+developer focused. And it's kind
+of if I'm thinking about this is
+kind of what Twitter used to be
+for developers, where they had
+like a really nice ecosystem.
+And they didn't make it hard to
+build stuff. They free,
+everything was kind of free.
+Everything was available. I
+mean, it wasn't enterprise plan.
+But you know, that's, that's for
+big, big companies, for indie
+hackers, we could just use the
+API, as we saw fit. I think
+opening I is still in that
+stage. I hope that they're gonna
+stay in that stage forever. But
+they might not because you know,
+Microsoft, and it's also a
+business essentially.
+Tony Dinh: So the way I always
+can just go down anytime.
+Arvid Kahl: That is the next
+problem right here. We are
+living in this kind of up and
+coming wave. And it makes me
+wonder how are you dealing with
+platform risk now that you're
+again, building at least on one
+of potentially many platforms
+right now? Are you considering
+building a more platform
+agnostic product that interacts
+with many, like, how are you
+dealing with this so as to not
+make the same? I wouldn't call a
+mistake, because nobody knew
+that it was going to happen with
+Twitter, but to not run into the
+same problem again, what are you
+doing?
+Tony Dinh: I talked about this
+at the very beginning of the
+product type in mind. So I
+mentioned that in order to use
+Wi Fi, you have to provide your
+own API key, right? Which mean,
+right out, I mean, my I run the
+product, but I don't have any
+API key at all. I don't need
+any, because the customer,
+they're gonna bring their own.
+So open API. They don't have
+anything from me. I don't have
+anything from them as well.
+Maybe I need the API to develop
+the app to test it for whatever.
+But when the app is done, I
+don't need an API. To maintain
+the app, so they cannot ban me,
+right? It's not like they want
+to or it's not like I am
+challenging them. But just in
+theory that I don't depend on
+open AI, my customer do so. So
+that is something that I thought
+at the beginning, I don't want
+to make another API like, API
+Gropper around open AI, and
+Josh, the customer, a little bit
+more expensive than what opened
+it, I would have judged, that
+would have been a like, you want
+something that term is the
+grupper business as a new term,
+rapper business, which you take
+the API from someone else, you
+take the API from open AI, and
+then you build something like
+very slightly on top of it, and
+then you charge more more
+people's so at the beginning, I
+don't want to do that is not the
+applet that are gonna ask the
+customers to provide the API by
+themselves. So. So that's how I
+was thinking about, like,
+navigating and escaping this
+platform risk in the future. And
+also right now I type in my is
+not only about GBD, from open
+AI, I do support all the models
+as well. For example, you can
+use open source models, like ZBD
+for all Vicuna, llama and all
+the model right and also support
+anthropic cloud, which is the
+new model. And also the Google
+model, the POM to model will be
+supported soon as well. So this
+is something like I, I consider
+this is, you know, the app where
+the postman app where you use it
+to send HTTP request to some
+server, you don't know you're
+everywhere. Yes, I consider this
+as application, a job
+application, the generic
+application that you can connect
+to any LM model, AI assistant.
+And you can have a conversation
+with it with all the fancy
+features, like just the history,
+add to folders, and all the
+fancy prompts and characters and
+stuff, right. So I considered it
+that way. So that it can stay a
+generic app and not dependent on
+any of the of the platform. So
+cool, is really cool enough to
+escape this, you know, the
+platform rich nightmare.
+Arvid Kahl: Yeah, thanks for
+sharing your thoughts here,
+because I see two layers of
+defense that you've built. That
+is really cool. Because I only
+thought about the one, I thought
+about the second one that you
+were just talking about, like
+integrating other models, right?
+Because that's kind of what you
+want to do. If one of them dies.
+If open AI implodes, let's hope
+they won't, because the product
+is really cool. But if anything
+happens to any of the models,
+it's nice to still be to be able
+to support to support other
+models. I just like having a
+business that has a lot of
+different customers. And if one
+of them churns while you still
+have the others. And that's kind
+of what you do with it with the
+platform to support but the
+thing that really I find really
+smart is to not sit as a wrapper
+on top, but to be kind of like
+what you said with postman is
+just a tool to connect different
+to different tools. And that
+brings me to another question
+because I know postman, I've
+been using that a lot. Actually,
+I think I've used poor, the Mac
+client that does something
+similar. And I think there's
+also Nocturne or something, some
+other tool that is very similar
+to that. And that reminded me
+of, well, a lot of people
+probably think, Okay, this is a
+cool tool, I'm going to build
+the executive tool, you know,
+clones, let's talk about that.
+You build in public a lot, you
+share all the things you build
+and all the ideas that you have.
+Are you a little bit afraid of
+people cloning your work? Or how
+do you deal with with people
+that are just copycats in this
+very public world of indie
+hacking that you're operating in
+very publicly to?
+Tony Dinh: Yeah, there will be
+copycats everywhere. So every
+product that I have built,
+there's copycats. I mean, it is
+not it's not an exception. So I
+guess at this point, I the best
+action to do with copycats is
+just to ignore them. So I do
+have I do keep a list of like
+more than 10 Even 20 now of the
+topic as who are like ill fated
+copycats so there's a few way
+that people can inspire from
+your work right some legitimate
+way that people see what you're
+doing and they see that make
+sense and they have their own
+way of doing it. But there are
+some people who just like for
+example a few copycat that I saw
+a copy of the design copy the
+copy there's a few FAQ session
+that a copy the whole thing that
+the same time same answer. They
+were they were very carefully
+replaced that product name
+unlike the lifetime you know
+that some people someone copy my
+deputies up without even
+changing the name. I find out if
+you have doubts. So um, yeah, I
+do know about all of those. Not
+all but I do keep track of those
+at some point. And then but
+Mostly I will ignore them on
+social media. And now I don't
+really even keep track of them
+anymore. Because it weighs too
+much this wave of like, chat Do
+I like aI chat UI, and also open
+source projects as well. There's
+just too many, it doesn't serve
+any purpose to keep track. Right
+now I lose job. But this AI,
+this AI, UI application type of
+product are everywhere now. So I
+guess the advantage here is that
+I just have, like, first mover
+advantage, I have a lot more
+features, and is more useful.
+Have a lot of users as well. And
+I guess that I will keep that as
+is an advantage to compete in
+this world? I guess.
+Arvid Kahl: Would you consider
+your pretty sizable almost six
+figure, Twitter presence to be
+one of those advantages as well?
+Like?
+Tony Dinh: Absolutely.
+Absolutely. Yes. At the
+beginning, when I shared that on
+my Twitter, it was the beginning
+of the product. If the if that
+tweet didn't blow up, if I
+didn't have like 70k or
+something followers? I don't
+think the product will have we
+have seen the the day of light
+live day. Yeah.
+Arvid Kahl: Yeah, that makes
+perfect sense. I think for indie
+hackers, like you like yourself,
+who's very publicly sharing
+stuff, but much of the success
+the initial success, not the
+overall success, but the you
+know, the initial interest in
+the product comes from having so
+many people that might be
+interested in it. Also your
+capacity to launch a product and
+at knowing how to do it right. I
+mean, both snapper to me, black
+magic and typing mind. They're
+all indie hacker slash Product
+Hunt compatible products, right?
+You could be a good day, or good
+on Product Hunt, because the
+people who go to Product Hunt
+will want to figure out what
+this is, particularly with
+snapper I feel it was just
+beautiful. And I'm just gonna
+tell you, you build an amazing
+product. Let me just serenade
+your product a little bit. It is
+really nice. It's super usable.
+It has features that other
+people never thought about, like
+redacting text, or putting like,
+that kind of stuff was always
+important to me, particularly as
+an indie hacker, because when I
+share a screenshot, I don't want
+to share my name or my login
+credentials, right? I want this
+to be good. Does that redact it
+that you audit?
+Tony Dinh: The Mallory thing
+that you like the balance thing
+in the stopper app?
+Arvid Kahl: Yeah, yeah, that is
+that's, among other things. So I
+think it's the fact that you
+have your gradient thing in
+there, the redaction that did
+the little arrows and did that
+they have slightly different
+shapes. That's what I was saying
+earlier, with good design, you
+have an understanding, not just
+for visual design, that that is
+already great. But I think you
+have an understanding for
+experienced design in your
+product. Right. And that is
+something that that comes I
+hope, from being exposed to good
+designers and doing front end
+work and understanding what an
+experience is, right? And that
+that's something that you can't
+really, that you have to learn,
+you can't just have that by
+random chance, you have to
+understand it and learn it. So
+what I'm trying to say, Yeah,
+you're awesome. Let me just say
+this. It's really been very
+awesome. The what I what I'm
+trying to say is these products
+are particularly good for
+Product Hunt, because people on
+Product Hunt value, good
+interfaces, good design and
+usable tools in their own
+journey. So what I'm also here
+kind of feeling with these
+products is that you built them
+mostly for an audience that you
+really understand. Well, that
+would be indie hackers and
+developers, was it always a
+conscious choice to sell
+directly to indie hackers or to
+people in your own community?
+Tony Dinh: Actually, I just
+built for myself, I that is the
+first priority. I don't really
+spend a lot of time to targeting
+indie hackers and founders I, I
+spent absolutely zero top on, on
+that. So a lot of people see
+that all of my products like
+somehow feel like targeting
+indie hackers and founders. But
+I really don't intend to do
+that. It's just, I guess it's
+just like, the Duda circle that
+I am in have a lot of indie
+hackers and, and founders, so
+that if make it feel like the
+product are targeting in
+coincidence, yeah, in general,
+it just be for me, I guess. And
+somehow, like, it makes sense
+with other people. So they do it
+and because I have a lot of
+indie hackers in my followers
+and my audience on Twitter, so
+it may feel it may feel that
+way.
+Arvid Kahl: Okay, that is an
+interesting perspective, because
+I would have just as well
+accepted Yes, this is all
+intentional would have would
+have been an acceptable answer
+to but you're just saying you're
+building stuff for yourself and
+the people around you are like
+you it's not surprising that we
+are in communities that are like
+us, and that they like it. Okay,
+cool. What you have like four
+products now, you probably
+weren't Hang on more than we'd
+love to know where this is
+going. But before we get to the
+future, that's when we talk
+about the reality of running
+multiple products at the same
+time, right? You have dev utils,
+and you have snapper. I don't
+know how much work goes into
+this, it's probably not massive.
+But there is work to be done.
+There's always maintenance and
+stuff. And like magic needs to
+be not only like maintained, it
+needs to be transitioned, and
+you need to train people. And
+then we're taping mines, you're
+now also training people and
+you're building your features.
+How do you balance all of this,
+like, this feels like a lot of
+work for one person plus a
+couple of people helping,
+Tony Dinh: right. So as you can
+see, all of my products, not a
+lot of them are like recurring
+revenue, right? So they are
+mostly software. So snapper
+videos are on software, low
+maintenance, low maintenance, I
+don't really have a server for
+like, license license key check
+ins overlay, right. So very
+small maintenance effort for me.
+And from time to time, I just
+come back to add new features
+and push our new update. And
+that is that is actually it,
+there's not a lot else going on,
+I don't even receive a lot of
+customer emails anymore for
+those products. So low
+maintenance and for, for typing
+my wish is the current active
+product. So that's why I spend
+like 80% of my time these days,
+on type in mind. So because my
+primary product right now,
+right, and for black magic, is
+quite demanding when it was
+active. And when I was actively
+working on that, because it's
+surprising product and, and a
+lot of customer use it every
+day. And they sent me a request
+feedback, but reports. So I
+think at the time I was wrong, I
+was still running black magic. I
+spend all the time on Blackmagic
+because it was a very demanding
+business. And the other the
+other software, not a must
+maintain a needed. So even
+though I have multiple products,
+but I only focus mainly one at a
+time. So so I don't feel like
+it's that difficult as you would
+imagine. Let's say if I have
+multiple, like recurring revenue
+businesses right now, it will be
+very difficult for me for sure.
+I, I wasn't I cannot be like
+sustainably run two businesses
+at the same time. But for a
+software business, it's just
+like you have an app on the App
+Store and it just keeps making
+you money. You can come back and
+release an update whenever you
+want. But other than that
+there's not much else going on.
+Arvid Kahl: Sounds like mostly
+passive income, mostly. But
+still.
+Tony Dinh: I haven't pushed our
+new bid for snapper for quite a
+while. So I'm working on that.
+Arvid Kahl: Okay, good. I have a
+couple ideas. No, no, no
+pressure. It's a tool. It's
+definitely good enough for what
+I need, right? And there's
+always room to improve. But you
+don't have the same I think the
+same pressure to add add add
+features with a product that
+doesn't have this recurring cost
+and recurring revenue attached.
+Cool. So a couple of standard on
+software products. On the way
+out like magic going to somebody
+else still kind of working on
+that and putting all of your
+efforts and typing mind. Where
+where's this going? What are
+your goals as an indie hacker,
+like, what do you have like long
+term goals for this? Do you have
+short term goals? What's the
+future holding for you?
+Unknown: Ah, I don't really have
+a long, long term goal and a
+long term plan I am really bad
+at planning. I guess that's one
+thing I wanted to do in the far
+future is is to make a lot
+money, a lot of money. Okay,
+those are good go. And at some
+point where I can just buy any
+house that I that I want. That
+is the level that I wanted,
+which previously, it was like 5k
+a month, which is when I was
+first started my indie journey,
+I want to make 5k a month and at
+that point, I will be
+independent and I don't have to
+go to work for any company
+anymore. And I will with that
+kind of money. I can live
+anywhere in Vietnam or at least
+in C not in the US, you know,
+but yeah. But right now now that
+I have achieved that I'm have
+lived that life for more than a
+year now. I think they're still
+quite filled in that I cannot do
+yet, right? Compared to you
+know, be the levels. And I
+understand that that could be a
+very deadly trap that you just
+keep going forward. So I told
+myself that I yeah, yes, I want
+to make a lot of money right
+now, to the point where I just
+can I can just buy any house
+that I want without looking you
+know, closely at the price. But
+I would do that in a very
+peaceful pace and enjoy life at
+the same time. So every day,
+this day, I only worked like
+four hours a day. And whenever I
+wanted, I just take the day off.
+And I purposely make all of my
+business so that I don't really
+have any contract any deadline.
+And because of that, I also
+don't really give any deadline
+to my employees, and my
+freelancers. So I'm trying to
+achieve that go without
+sacrificing sacrificing life and
+family. So
+Arvid Kahl: that feels like a
+much more relatable goal than
+making infinite amounts of
+money, right? Because living the
+life is always so right. And
+that's, that's the hedonic
+adaptation problem, right, the
+treadmill where you just keep
+running, running, running, I
+think it's smart for you to
+recognize it already. That is
+the problem, potentially. But
+it's also a good goal. I mean,
+if you if you want to live the
+life that you dream of then
+having that dream, there's no
+problem with that. I think
+that's a really nice transition
+from you know, where you are
+right now to where you might go,
+I think, yeah, living the day as
+you want to take being able to
+take days off, that is one thing
+that I had after I had my exit
+for the very first time in my
+life, you know, having a choice
+over my own time, that makes
+such a difference in the quality
+of life. So I'm glad that you're
+at this point already. I'm glad
+you're, you know what, I'm glad
+you're seeing success in all
+these different varieties, you
+know, like you, you got your
+half a million dollar offer,
+didn't take it and then you got
+another offer. And you did take
+it. I mean, that's still an
+offer. That's still an
+acquisition, right? It may not
+be the perfect thing, but we
+never get the perfect thing
+anyway. So it's, I think it's
+right. It's great that you did
+it. And it's great that you
+share it. So thank you so much
+for sharing all of these things
+here with me today. And
+obviously, all day, every day on
+Twitter. What if people want to
+find out more about you and
+follow you on your journey to
+being able to buy whatever house
+you want? Where do you want them
+to go? Well, what do you want
+them to check out?
+Unknown: The easiest way, right
+now is to go to turnitin.com.
+Donate then.com, which is my
+name.com. From there, you will
+see my Twitter or if you want to
+hear my horrible user name on
+Twitter, it is the i n h
+underscore me, underscore me. So
+yeah, I guess it will be easier
+to go to turnitin.com and see
+all my links over there. I do
+have a newsletter, on my
+website, where I share all of
+the stories, including the
+acquisition story with a lot
+more details and numbers in
+there, compared to what I share
+here on the podcast. So yeah.
+Arvid Kahl: Yeah, thank you so
+much. I recommend following you
+on Twitter, obviously. I think
+most people that are in the
+indie hacker space should
+already follow you if the 90,000
+followers is any indication. But
+still, that is a Twitter account
+worth following and in the
+newsletter I'm subscribed to it
+to, I think you're so good for
+sharing all of the numbers and
+all the details that just makes
+it more real, and gives people
+both things to look up to and to
+compare themselves to and to
+aspire to, and to see like the
+ups and downs of our journey.
+Highly recommend that
+newsletter. Tony, thank you so
+much for being on the show today
+and talking to me about all
+these things, your long journey
+and your many products. That was
+really, really insightful. Thank
+you so much.
+Tony Dinh: Thank you so much for
+having me.
+Arvid Kahl: Absolutely.
+And that's it for today.
+Remember when Tony almost sold
+his business in the beginning?
+Well, this is where our sponsor
+comes in. Tony even mentioned
+acquire.com by name. That's how
+established they already are in
+the in the hacker world. And the
+scenario where Tony almost sold
+his business is all too common.
+Imagine this, your founder who's
+built this solid SaaS product.
+You've acquired customers, you
+making money consistent, monthly
+recurring revenue. The problem
+is that you're just not growing
+for whatever reason, maybe it's
+lack of focus, lack of skill or
+just plain lack of interest and
+you feel stuck. What should you
+do? Well, the story that I would
+like to hear is that you buckled
+down and somehow reignited your
+fire. You got past yourself into
+cliches, and you started working
+on your business. Rather than
+just in the business. You
+started building this audience
+and you move out of your comfort
+zone and do sales and marketing
+and in six months, you've
+tripled your revenue. While
+reality is not that simple
+situations are different for
+every founder who's facing this
+particular crossroad. And too
+many times the story ends up
+being one of inaction and
+stagnation until the business
+becomes less valuable or worse,
+worthless. And if you find
+yourself here, where you think
+your story is likely headed down
+a similar road, I can offer you
+a third option. Consider selling
+your business on acquire.com. At
+any stage, capitalizing on the
+value of your time is a smart
+move. Acquire.com is free to
+list and they've helped hundreds
+of founders already go to
+try.acquire.com/arvid and see
+for yourself if this is the
+right option for you.
+Thank you for listening to The
+Bootstrapped Founder today. You
+can find me on Twitter
+@arvidkahl. You'll find my books
+and my Twitter course there as
+well. If you want to support me
+and the show, please subscribe
+to my YouTube channel, get the
+podcast in your player of choice
+and leave a rating and a review
+by going to
+(http://ratethispodcast.com/founder).
+Any of this, will really really
+help the show. Thank you so much
+for listening and have a
+wonderful day. Bye bye.

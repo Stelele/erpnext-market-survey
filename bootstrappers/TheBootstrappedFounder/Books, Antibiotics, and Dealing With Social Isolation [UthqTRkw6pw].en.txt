@@ -1,0 +1,2421 @@
+﻿[Arvid Kahl]: Welcome to Arvid and Tyler Catch Up.
+I'm Arvid.
+[Tyler Tringas]: I'm Tyler. Let's catch up.
+What's up with you man?
+[Arvid Kahl]: Oh, I've been thinking a lot about
+writing this week. So coming off of MicroConf,
+[Arvid Kahl]: I've been kind of reading a lot.
+But on the trip, I brought one book, which
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: was Paul Millerd's book, you know,
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: was Paul Millerd's book, you know,
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: was Paul Millerd's book, you know,
+[Arvid Kahl]: The Pathless Path,
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: and that book is written so well.
+It's highly inspirational. Just the idea of
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: and that book is written so well.
+It's highly inspirational. Just the idea of
+[Arvid Kahl]: the concept of the book is really
+cool, and I've been reading
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: the concept of the book is really
+cool, and I've been reading
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: that and really enjoying it. And
+at MicroConf, as a speaker, I got one of the
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: that and really enjoying it. And
+at MicroConf, as a speaker, I got one of the
+[Arvid Kahl]: 25 copies in the whole world of
+Rob Walling's new book. The SAS playbook got
+[Arvid Kahl]: that here, which is also really
+well done. Like, it's really for a self-published
+[Arvid Kahl]: book. And those I find inspirational
+in particular. It's super high quality. The
+[Arvid Kahl]: design is cool. The dust jacket
+is really nice. Well designed. I talked to
+[Arvid Kahl]: Rob about this. And he spent quite
+some money on just getting it right, particularly
+[Arvid Kahl]: compared to his first book, Start
+Small, Stay Small, which has the cover design
+[Arvid Kahl]: skill level of, I think he admitted
+that like a a 10 year old because he has no
+[Arvid Kahl]: idea what he was doing back then
+or had no
+[Tyler Tringas]: Uh
+[Arvid Kahl]: idea.
+[Tyler Tringas]: Uh
+[Arvid Kahl]: idea.
+[Tyler Tringas]: huh.
+[Arvid Kahl]: idea.
+[Arvid Kahl]: And it looks like just somebody
+opened a Word document, printed out a page,
+[Arvid Kahl]: and that's now the cover. But
+no, it's just it's a great book. It just looks
+[Arvid Kahl]: like
+[Tyler Tringas]: Uh-huh.
+[Arvid Kahl]: like
+[Tyler Tringas]: Uh-huh.
+[Arvid Kahl]: it's self-published. This one
+does not. And I've been inspired to keep writing
+[Arvid Kahl]: because as a writer myself, I
+just want to write cool stuff and seeing books.
+[Arvid Kahl]: I'm going to thinking more about
+writing books. So I was talking to Brennan
+[Arvid Kahl]: Dunn, who has a book coming out
+as well. And he's been sending out, you know,
+[Arvid Kahl]: early advanced copies to his friends,
+which for some reason includes me. And I'm
+[Arvid Kahl]: really happy about that. So I
+got to read his book and that was inspirational.
+[Arvid Kahl]: So I chatted with Brennan about
+like how he got this publishing deal, which
+[Arvid Kahl]: he seemed to have gotten for this
+book because
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: he seemed to have gotten for this
+book because
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: I've been self publishing. And
+I've been talking to a lot of people who've
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: I've been self publishing. And
+I've been talking to a lot of people who've
+[Arvid Kahl]: been self publishing in the past,
+but he found a publisher and I thought, well,
+[Arvid Kahl]: My next one is going to be hopefully
+about building in public, something that, besides
+[Arvid Kahl]: our project, the Comm MBA, which
+is more SaaS focused, building
+[Tyler Tringas]: Okay.
+[Arvid Kahl]: our project, the Comm MBA, which
+is more SaaS focused, building
+[Tyler Tringas]: Okay.
+[Arvid Kahl]: public is more audience, community
+building, and just live the life that you want
+[Arvid Kahl]: to live and build your business
+and your brand at the same time kind of focused.
+[Arvid Kahl]: So I've been thinking, do I need
+a publisher? Do I want a publisher? Do I want
+[Arvid Kahl]: to keep self-publishing? That
+has worked well for me over the past. Or do
+[Arvid Kahl]: I want to see if there is some
+other way of getting the message out there?
+[Arvid Kahl]: because both what you and I have
+been doing and sharing our thoughts on this
+[Arvid Kahl]: podcast and on on the internet
+and on Twitter and stuff that is building in
+[Arvid Kahl]: public and it has been working
+pretty well for both of us. So maybe we should
+[Arvid Kahl]: I thought we should get this kind
+of story and by we I mean myself out further
+[Arvid Kahl]: right into the bigger world that
+is not just indie hackers and not just creators
+[Arvid Kahl]: but somebody else and for that
+a publisher would be cool. but maybe it is
+[Arvid Kahl]: just for indie hackers and creators
+or they would benefit the most from this. So
+[Arvid Kahl]: I should kind of keep it in this
+community. I've been thinking a lot about this.
+[Arvid Kahl]: And honestly, I don't think
+[Tyler Tringas]: in.
+[Arvid Kahl]: And honestly, I don't think
+[Arvid Kahl]: I have answers. I talked to a
+couple of people, Brandon introduced me to
+[Arvid Kahl]: people who work in the publishing
+industry and, you know, deal with agents and
+[Arvid Kahl]: getting book proposals out. And
+I talked to one guy who's been doing book proposals
+[Arvid Kahl]: for like large publishing deals.
+And he kind of tried to steer me away. from
+[Tyler Tringas]: Hmm.
+[Arvid Kahl]: for like large publishing deals.
+And he kind of tried to steer me away. from
+[Tyler Tringas]: Hmm.
+[Arvid Kahl]: thinking about publishing itself
+as a necessary, like, evil or a necessary way
+[Tyler Tringas]: Hmm.
+[Arvid Kahl]: thinking about publishing itself
+as a necessary, like, evil or a necessary way
+[Arvid Kahl]: of getting the book out there
+between self-publishing and regular old traditional
+[Arvid Kahl]: publishing, there seem to be ways
+to do hybrid publishing where essentially you
+[Arvid Kahl]: pay people to be your editors
+instead of having the publisher pay them, right?
+[Arvid Kahl]: Publishers are kind of VC in a
+way, they try to get, like, make bets on books
+[Arvid Kahl]: and pay for everything and then
+you get an advance and maybe you get royalties
+[Arvid Kahl]: later and self-publishing is essentially
+bootstrapping without any
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: later and self-publishing is essentially
+bootstrapping without any
+[Arvid Kahl]: kind of funding. And then there's
+in between, funny enough, like there is a comfund
+[Arvid Kahl]: version of book publishing, right?
+[Tyler Tringas]: Mm.
+[Arvid Kahl]: version of book publishing, right?
+[Arvid Kahl]: There's the kind of this, okay,
+yeah, we take you on, we give you like some
+[Arvid Kahl]: access to this kind of network
+and we help you through, it costs you pretty
+[Arvid Kahl]: little apparently. I haven't really
+looked
+[Tyler Tringas]: What's
+[Arvid Kahl]: into this
+[Tyler Tringas]: What's
+[Arvid Kahl]: into this
+[Tyler Tringas]: it called?
+[Arvid Kahl]: into this
+[Tyler Tringas]: it called?
+[Arvid Kahl]: much, but the whole idea is hybrid
+publishing. As you get the, it's not the exact
+[Tyler Tringas]: it called?
+[Arvid Kahl]: much, but the whole idea is hybrid
+publishing. As you get the, it's not the exact
+[Arvid Kahl]: same thing as what comfund is,
+like they don't
+[Tyler Tringas]: Yeah,
+[Arvid Kahl]: same thing as what comfund is,
+like they don't
+[Tyler Tringas]: Yeah,
+[Arvid Kahl]: pay
+[Tyler Tringas]: Yeah,
+[Arvid Kahl]: pay
+[Tyler Tringas]: yeah,
+[Arvid Kahl]: pay
+[Tyler Tringas]: yeah,
+[Arvid Kahl]: you money,
+[Tyler Tringas]: yeah,
+[Arvid Kahl]: you money,
+[Tyler Tringas]: I get
+[Arvid Kahl]: you money,
+[Tyler Tringas]: I get
+[Arvid Kahl]: you
+[Tyler Tringas]: I get
+[Arvid Kahl]: you
+[Tyler Tringas]: it.
+[Arvid Kahl]: kind of pay them as a service
+provider, but the idea is that they have the
+[Tyler Tringas]: it.
+[Arvid Kahl]: kind of pay them as a service
+provider, but the idea is that they have the
+[Arvid Kahl]: logistics. and a distribution
+to get your book into, I don't know what traditional
+[Arvid Kahl]: publishers would do, get you into
+airports, get you into bookstores, right?
+[Tyler Tringas]: Hmm
+[Arvid Kahl]: What is always extremely hard
+for people like me because my books are print
+[Arvid Kahl]: on demand. So I'm
+[Tyler Tringas]: Right.
+[Arvid Kahl]: not gonna get them into airports
+unless I do a kind of partnership with somebody
+[Tyler Tringas]: Right.
+[Arvid Kahl]: not gonna get them into airports
+unless I do a kind of partnership with somebody
+[Arvid Kahl]: who puts them in there. So all
+of this is currently happening as I'm speaking
+[Arvid Kahl]: about it. I'm still trying to
+figure out where I'm going. Honestly, I just
+[Arvid Kahl]: wanna write. I don't even wanna
+deal with this kind of stuff because... as
+[Arvid Kahl]: it's kind of like a software developer,
+you don't want to do marketing as a writer,
+[Arvid Kahl]: you don't want to do this kind
+of operational stuff either, right? Somebody
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: you don't want to do this kind
+of operational stuff either, right? Somebody
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: else supposedly should be better
+at doing this. But yeah, again, I find as a
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: else supposedly should be better
+at doing this. But yeah, again, I find as a
+[Arvid Kahl]: founder, I'm wearing 20 different
+hats. And
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: founder, I'm wearing 20 different
+hats. And
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: as a writer, I'm wearing an equal
+amount of slightly different hats.
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: as a writer, I'm wearing an equal
+amount of slightly different hats.
+[Tyler Tringas]: Hmm
+[Arvid Kahl]: And that's been that's been my
+week essentially trying to figure out where
+[Arvid Kahl]: I want to go with this still undecided.
+If you have any opinions on this, as somebody
+[Arvid Kahl]: who almost published a book.
+[Tyler Tringas]: I'm sorry.
+[Arvid Kahl]: But we'll put a book out there
+as well. You've been writing a lot on the SaaS
+[Tyler Tringas]: I'm sorry.
+[Arvid Kahl]: But we'll put a book out there
+as well. You've been writing a lot on the SaaS
+[Arvid Kahl]: stuff as well. If you have any
+opinions on this, please, please share.
+[Tyler Tringas]: Well, I was curious, actually,
+as you were talking about this, whether build
+[Tyler Tringas]: in public might be the exact
+worst topic to pitch to a book publisher, because
+[Tyler Tringas]: it's kind of, it's kind of
+literally talking about the strategy to avoid
+[Tyler Tringas]: having to work with a book
+publisher
+[Arvid Kahl]: I guess.
+[Tyler Tringas]: in some ways, right? I mean,
+I know that's not exactly the intent of it,
+[Arvid Kahl]: I guess.
+[Tyler Tringas]: in some ways, right? I mean,
+I know that's not exactly the intent of it,
+[Tyler Tringas]: but I could imagine being on
+the side of a book publisher and basically
+[Tyler Tringas]: reading this as like. You want
+to write a book about how to not have to work
+[Tyler Tringas]: with a publisher and you want
+me to publish it?
+[Arvid Kahl]: Yeah,
+[Tyler Tringas]: with a publisher and you want
+me to publish it?
+[Tyler Tringas]: with a publisher and you want
+me to publish it?
+[Tyler Tringas]: This might
+[Arvid Kahl]: that's
+[Tyler Tringas]: This might
+[Arvid Kahl]: that's
+[Tyler Tringas]: not
+[Arvid Kahl]: right.
+[Tyler Tringas]: not
+[Arvid Kahl]: right.
+[Tyler Tringas]: be the one to be your test
+case for for working with a publisher. I don't
+[Tyler Tringas]: know. What do you think about
+that?
+[Arvid Kahl]: Yeah, I mean, building in public
+has this effect, right? Like you're kind
+[Tyler Tringas]: Right.
+[Arvid Kahl]: Yeah, I mean, building in public
+has this effect, right? Like you're kind
+[Tyler Tringas]: Right.
+[Arvid Kahl]: of, you're on your own journey
+and you, everything, and you have to be honest
+[Tyler Tringas]: Right.
+[Arvid Kahl]: of, you're on your own journey
+and you, everything, and you have to be honest
+[Arvid Kahl]: too, which in an industry that
+is about like ranking high on lists like the
+[Arvid Kahl]: New York Times bestseller list
+or whatever industry publication you can be
+[Arvid Kahl]: in, there's a lot of glorification
+of hero figures, like writers that the whole
+[Arvid Kahl]: Stephen King on Twitter situation
+like has been blown up in all the periodicals.
+[Arvid Kahl]: So
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: as a, I'm kind of, I'm a, want
+to be a sci-fi writer, so I'm subscribed to
+[Arvid Kahl]: Locust magazine, which is kind
+of the industry publication for all kinds of
+[Arvid Kahl]: sci-fi, who sells which book to
+watch publisher and kind of stuff. It's interesting
+[Arvid Kahl]: to read, but I don't write much
+in that regard. I just, you know, get the information
+[Arvid Kahl]: in and
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: there's a lot of hero worship
+in those magazines too, because there are names
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: there's a lot of hero worship
+in those magazines too, because there are names
+[Arvid Kahl]: that you know, like Brandon Sanderson,
+big fantasy writer, and when he does something
+[Arvid Kahl]: cool he gets a full page article,
+right? It's very focused on the celebrities,
+[Arvid Kahl]: which is not something I necessarily
+want. And I guess I told that person that as
+[Arvid Kahl]: well, like who was trying to figure
+out if I should be working with a big publisher.
+[Arvid Kahl]: And I told him, I don't want to
+deal with all this kind of hero stuff or this
+[Arvid Kahl]: going on TV for like, you know,
+recommending your book on a morning TV show
+[Arvid Kahl]: because it's supposed to help
+everybody in every audience possible. There
+[Arvid Kahl]: is a disconnect because building
+in public is a niche thing. Like you wanna
+[Arvid Kahl]: be in your community sharing your
+story with the people who matter and you don't
+[Arvid Kahl]: wanna be on national TV in the
+morning in one of these morning shows, talking
+[Arvid Kahl]: to whoever might be looking at
+the TV at that time. Right, there's
+[Tyler Tringas]: Uh huh. Yeah.
+[Arvid Kahl]: to whoever might be looking at
+the TV at that time. Right, there's
+[Tyler Tringas]: Uh huh. Yeah.
+[Arvid Kahl]: also
+[Tyler Tringas]: Uh huh. Yeah.
+[Arvid Kahl]: also
+[Tyler Tringas]: I'm
+[Arvid Kahl]: also
+[Arvid Kahl]: a big difference there.
+[Tyler Tringas]: gonna
+[Arvid Kahl]: a big difference there.
+[Tyler Tringas]: gonna
+[Arvid Kahl]: And
+[Tyler Tringas]: gonna
+[Arvid Kahl]: And
+[Tyler Tringas]: go to bed.
+[Arvid Kahl]: And
+[Tyler Tringas]: go to bed.
+[Arvid Kahl]: I've seen people like Ryan Holiday
+on national TV stuff is like, I don't want
+[Arvid Kahl]: to do this. Or even James
+[Tyler Tringas]: Why
+[Arvid Kahl]: to do this. Or even James
+[Tyler Tringas]: Why
+[Arvid Kahl]: Clear,
+[Tyler Tringas]: not?
+[Arvid Kahl]: Clear,
+[Arvid Kahl]: right? But, but first off, I don't
+want to get up early in the morning. That's
+[Arvid Kahl]: one of the biggest problems. But
+I honestly like James Clear is an example.
+[Arvid Kahl]: And I talked to the guy who writes
+these book proposals about this. If you go
+[Arvid Kahl]: to like a PTA meeting with you
+have kids in school and you go like to the
+[Arvid Kahl]: other. with the other parents,
+you go to a PTA meeting and you ask people
+[Arvid Kahl]: who wants to build in public.
+Like nobody is going to, nobody even wants
+[Arvid Kahl]: to be an entrepreneur or very
+few people in that community want to be an
+[Arvid Kahl]: entrepreneur. But if you ask them
+who wants to lose weight and like half of them
+[Arvid Kahl]: raised their hands and you said,
+well, I have the perfect habit forming book
+[Arvid Kahl]: for you. This is Atomic Habits
+by James Clear. Right?
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: This is the kind of stuff they
+need. They need the James Clear stuff, the
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: This is the kind of stuff they
+need. They need the James Clear stuff, the
+[Arvid Kahl]: highly generic things that are
+somewhat ish applicable to every single situation.
+[Arvid Kahl]: And yeah, I know, I felt the same
+[Tyler Tringas]: I don't
+[Arvid Kahl]: And yeah, I know, I felt the same
+[Tyler Tringas]: I don't
+[Arvid Kahl]: way.
+[Tyler Tringas]: know, but I think you might
+be
+[Arvid Kahl]: way.
+[Tyler Tringas]: know, but I think you might
+be
+[Arvid Kahl]: That's
+[Tyler Tringas]: know, but I think you might
+be
+[Arvid Kahl]: That's
+[Tyler Tringas]: selling
+[Arvid Kahl]: That's
+[Tyler Tringas]: selling
+[Arvid Kahl]: what they
+[Tyler Tringas]: selling
+[Arvid Kahl]: what they
+[Tyler Tringas]: yourself
+[Arvid Kahl]: what they
+[Tyler Tringas]: yourself
+[Arvid Kahl]: say though.
+[Tyler Tringas]: yourself
+[Arvid Kahl]: say though.
+[Tyler Tringas]: short a little bit here. I
+think if you asked people, you know, who wants
+[Arvid Kahl]: say though.
+[Tyler Tringas]: short a little bit here. I
+think if you asked people, you know, who wants
+[Tyler Tringas]: to find a way to build that
+project that you've been thinking about and
+[Tyler Tringas]: haven't found a way to get
+started on, if you framed it slightly different,
+[Tyler Tringas]: like, hey, I have a method
+that you create public accountability and then
+[Tyler Tringas]: you are able to get started
+without anyone's permission, I think that would
+[Tyler Tringas]: resonate with a lot of people.
+businesses necessarily, but it might be, you
+[Tyler Tringas]: know, organizational groups
+they've been meaning to start or a pickleball
+[Tyler Tringas]: league in the neighborhood
+they've been meaning to start, right? Like,
+[Tyler Tringas]: I mean, I don't know, like,
+you might be selling yourself short here. It
+[Tyler Tringas]: could have a little bit
+[Arvid Kahl]: Thanks.
+[Tyler Tringas]: could have a little bit
+[Arvid Kahl]: Thanks.
+[Tyler Tringas]: wider applicability than you're
+thinking.
+[Arvid Kahl]: Thanks.
+[Tyler Tringas]: wider applicability than you're
+thinking.
+[Arvid Kahl]: Well, thanks so much for being
+constructive in your feedback.
+[Tyler Tringas]: Hahaha!
+[Arvid Kahl]: Honestly, one of the books that
+I always really like that has a strong built-in
+[Tyler Tringas]: Hahaha!
+[Arvid Kahl]: Honestly, one of the books that
+I always really like that has a strong built-in
+[Arvid Kahl]: public vibe has been Show Your
+Work by Austin Kleon.
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: That tiny little book, like Still
+Like an Artist, Show Your Work, they all
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: That tiny little book, like Still
+Like an Artist, Show Your Work, they all
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: are kind of about being a creator
+in the public space. And he found a publisher
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: are kind of about being a creator
+in the public space. And he found a publisher
+[Arvid Kahl]: with a book
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: with a book
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: that obviously resonates and still
+sells pretty well. So maybe I should just do
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: that obviously resonates and still
+sells pretty well. So maybe I should just do
+[Arvid Kahl]: the whole. What in the software
+world is like we're striped for cats or something.
+[Arvid Kahl]: I should say like, I'm show your
+work for, for businesses or something.
+[Tyler Tringas]: There you
+[Arvid Kahl]: I need
+[Tyler Tringas]: There you
+[Arvid Kahl]: I need
+[Tyler Tringas]: go.
+[Arvid Kahl]: I need
+[Tyler Tringas]: go.
+[Arvid Kahl]: to go
+[Tyler Tringas]: go.
+[Arvid Kahl]: to go
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: to go
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: and
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: and
+[Tyler Tringas]: Well,
+[Arvid Kahl]: and
+[Tyler Tringas]: Well,
+[Arvid Kahl]: just
+[Tyler Tringas]: Well,
+[Tyler Tringas]: I
+[Arvid Kahl]: position
+[Tyler Tringas]: I
+[Arvid Kahl]: position
+[Tyler Tringas]: mean, you know,
+[Arvid Kahl]: position
+[Tyler Tringas]: mean, you know,
+[Arvid Kahl]: myself
+[Tyler Tringas]: mean, you know,
+[Arvid Kahl]: myself
+[Tyler Tringas]: you should
+[Arvid Kahl]: myself
+[Tyler Tringas]: you should
+[Arvid Kahl]: better.
+[Tyler Tringas]: you should
+[Arvid Kahl]: better.
+[Tyler Tringas]: do I think, you know, because
+it's funny, I was in Austin a couple weeks
+[Arvid Kahl]: better.
+[Tyler Tringas]: do I think, you know, because
+it's funny, I was in Austin a couple weeks
+[Tyler Tringas]: ago, and literally talking
+about this exact topic with Paul Miller. And
+[Tyler Tringas]: he was talking about, you know,
+trying to decide whether or not to work with
+[Tyler Tringas]: a publisher for his book. And
+he was bringing up some Some kind of cons to
+[Tyler Tringas]: it that I hadn't thought about
+in the sense of, uh, you know, them having
+[Tyler Tringas]: like control over derivative
+works and stuff like that. So anyway, you should
+[Tyler Tringas]: have him on your, uh, on your
+main podcast and you guys should just talk
+[Tyler Tringas]: about it. I
+[Arvid Kahl]: a great
+[Tyler Tringas]: think that's
+[Arvid Kahl]: a great
+[Tyler Tringas]: think that's
+[Arvid Kahl]: idea.
+[Tyler Tringas]: think that's
+[Arvid Kahl]: idea.
+[Tyler Tringas]: a no brainer.
+[Arvid Kahl]: idea.
+[Tyler Tringas]: a no brainer.
+[Arvid Kahl]: Let me do this right after we
+wrap. I'm just gonna,
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: honestly, I'm just gonna send
+him this episode. Let's
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: honestly, I'm just gonna send
+him this episode. Let's
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: honestly, I'm just gonna send
+him this episode. Let's
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: see what he says. That
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: see what he says. That
+[Tyler Tringas]: Yeah,
+[Arvid Kahl]: see what he says. That
+[Tyler Tringas]: Yeah,
+[Arvid Kahl]: is
+[Tyler Tringas]: yeah. Yeah.
+[Arvid Kahl]: is
+[Tyler Tringas]: yeah. Yeah.
+[Arvid Kahl]: a great idea. Yeah, that's wonderful.
+But I've been admiring his work and his approach
+[Tyler Tringas]: yeah. Yeah.
+[Arvid Kahl]: a great idea. Yeah, that's wonderful.
+But I've been admiring his work and his approach
+[Arvid Kahl]: to particularly like his I don't
+need the big launch kind of thing. I'm just
+[Arvid Kahl]: gonna sell this book like when
+it becomes popular, kind of like that as well.
+[Arvid Kahl]: So yeah, thanks. That's really
+helpful. I'm, you know what, it's a lot of
+[Arvid Kahl]: imposter syndrome in this for
+me as well, because all of a sudden you play
+[Arvid Kahl]: in a different league and you
+don't really know
+[Tyler Tringas]: Word.
+[Arvid Kahl]: in a different league and you
+don't really know
+[Tyler Tringas]: Word.
+[Arvid Kahl]: right with all these these extremely
+successful other people but then again why
+[Arvid Kahl]: just as well man thanks so much
+how has your week been what have you been doing
+[Tyler Tringas]: My week has been pretty bad.
+[Arvid Kahl]: Aw.
+[Tyler Tringas]: Mainly I've just been really,
+really sick. I don't often get like really
+[Tyler Tringas]: sick for more than a day or
+two. And I've been sick for two straight weeks
+[Tyler Tringas]: on top of like, you know, a
+bunch of other stuff, which we discussed last
+[Tyler Tringas]: week. So it's been it's been
+a challenging week in terms of really just
+[Tyler Tringas]: not being able to get a lot
+done. Here I'm still kind of like coming out
+[Tyler Tringas]: of it. Got on like a bunch
+of antibiotics and stuff a couple of days ago.
+[Tyler Tringas]: So I'm feeling much better
+now. And this is like starting to be productive
+[Tyler Tringas]: again. But, you know, it's
+just like really challenging couple of weeks.
+[Tyler Tringas]: And like I just had to kind
+of continuously remind myself that when you
+[Tyler Tringas]: find yourself in this position,
+especially as like a founder, where you have
+[Tyler Tringas]: a lot of. leverage as a founder
+and when you are productive, that's like 10
+[Tyler Tringas]: or 20 times more effective
+in like a day than a day where you like pound
+[Tyler Tringas]: a bunch of coffee and cold
+medicine and kind of force yourself to answer
+[Tyler Tringas]: some emails. And so like you
+feel a bunch of guilt about it, because you'll
+[Tyler Tringas]: feel a bunch of things piling
+up that need your attention. And like right
+[Tyler Tringas]: now I'm feeling that I've had
+a lot of stuff that was fairly urgent that
+[Tyler Tringas]: needed my attention that I
+was just like I think I just need to like log
+[Tyler Tringas]: off for a couple of days and,
+and try to, to get better because it's just
+[Tyler Tringas]: not worth it to, to try and
+slog through a little bit of stuff if it, if
+[Tyler Tringas]: it drags out an illness. So
+that's kind of like a hard one lesson. I've
+[Tyler Tringas]: done the opposite of that several
+times where, you know, you just end up like
+[Tyler Tringas]: kind of ruining several weeks
+at a time. But yeah, looking forward to being
+[Tyler Tringas]: back at a hundred percent pretty
+soon. The other thing that's been going on
+[Tyler Tringas]: is just the response from,
+you know, last week, I kind of rolled out the
+[Tyler Tringas]: announcement about reducing
+the team size, having to lay a few people off
+[Tyler Tringas]: at CompFund and really narrowing
+our focus to, you know, the core job, you know,
+[Tyler Tringas]: canceling a couple side projects,
+that kind of stuff. And honestly, the response
+[Tyler Tringas]: has been just like tremendous.
+I can't even respond to all of the emails and
+[Tyler Tringas]: DMs that have just been like
+100 percent. you know, supportive and encouraging
+[Tyler Tringas]: and understanding. Super awesome
+to, to feel that I, you know, if, if any of
+[Tyler Tringas]: those folks are listening to
+this, I really, really appreciate it made a
+[Tyler Tringas]: huge difference. Um, during
+a pretty tough, a couple of weeks for me personally.
+[Tyler Tringas]: And it just reminded me that
+like, you almost can't lose as an entrepreneur
+[Tyler Tringas]: in a lot of ways, you know,
+like you just get so much credit from everyone
+[Tyler Tringas]: just for trying that even when
+you try something and it's sort of. objectively
+[Tyler Tringas]: doesn't work out, right? You
+know, you might say it failed, right? You just
+[Tyler Tringas]: get so much credit from everyone
+for trying. Everybody is still so stoked that
+[Tyler Tringas]: you gave it a good shot and
+there's almost no real penalty from most people
+[Tyler Tringas]: that you care about their opinion
+for not succeeding in a particular part of
+[Tyler Tringas]: the venture. And everybody
+is just ready for you to kind of like. get
+[Tyler Tringas]: back on the horse and try again.
+So that's been really, really nice, especially
+[Tyler Tringas]: the last couple of weeks to
+just this, I mean, it's like hundreds of emails
+[Tyler Tringas]: and DMs coming in after the
+public announcement that, yeah, it was just
+[Tyler Tringas]: super supportive. So I'm really
+grateful for that.
+[Arvid Kahl]: Yeah, I'm so happy to hear it.
+I'm not surprised that our amazing community
+[Arvid Kahl]: acts amazingly, you know,
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: acts amazingly, you know,
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: when,
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: when,
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: when you interact with them, but
+I'm super happy to, you know, like for, for
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: when you interact with them, but
+I'm super happy to, you know, like for, for
+[Arvid Kahl]: you to be in this physical state
+of despair, cause you're
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: sick, right? Sick, it just sucks.
+You have this, you see the world differently,
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: sick, right? Sick, it just sucks.
+You have this, you see the world differently,
+[Arvid Kahl]: but then still have this glowing
+lights of support and motivation come in and
+[Arvid Kahl]: understanding probably most of
+all, so that's wonderful. It's one of those
+[Arvid Kahl]: things. That's kind of why I want
+to do more about building in public as well.
+[Arvid Kahl]: This is such a clear example
+[Tyler Tringas]: Totally.
+[Arvid Kahl]: of your personal journey transcending
+the journey of the business. It doesn't, you
+[Tyler Tringas]: Totally.
+[Arvid Kahl]: of your personal journey transcending
+the journey of the business. It doesn't, you
+[Arvid Kahl]: being you and you learning and
+you growing and you sharing this, it could
+[Arvid Kahl]: have been great what happened
+to Com. It could have been, it was kind of
+[Arvid Kahl]: bad what happened to Com, but
+either way, there's something that strengthens
+[Arvid Kahl]: the bond between the people that
+are around you and you through whatever comes,
+[Arvid Kahl]: which is such a cool phenomenon.
+That's something that... If you hadn't shared
+[Arvid Kahl]: your journey, you would just be
+alone and sad and people would get mad at you.
+[Arvid Kahl]: But now you've built this goodwill
+and people actually also want you to succeed.
+[Arvid Kahl]: And no matter what happens, they're
+there for you. That's such a wonderful thing.
+[Arvid Kahl]: I'm really happy to hear this.
+[Tyler Tringas]: Yeah, I think you're totally
+right that like, you know, this is an exemplar,
+[Tyler Tringas]: an example of the value of
+building in public, right? Because the decisions
+[Tyler Tringas]: that we made were sort of laid
+out along the way, people knew the bets we
+[Tyler Tringas]: were taking, the risks we were
+taking, the upside of the decision, why we
+[Tyler Tringas]: made these decisions, you know,
+and that was kind of laid out and publicly
+[Tyler Tringas]: documented and then kind of
+landing on, well, here are the outcomes of
+[Tyler Tringas]: those and here are the decisions
+we need to make. I think You just get a lot
+[Tyler Tringas]: more goodwill and just kind
+of trust from folks. Whereas if they just see
+[Tyler Tringas]: the, you know, the, the outside
+effects without the kind of behind the scenes
+[Tyler Tringas]: explanations, I think people,
+you know, some portion of people will, will
+[Tyler Tringas]: fill in the explanation for
+that
+[Arvid Kahl]: Yeah.
+[Tyler Tringas]: fill in the explanation for
+that
+[Arvid Kahl]: Yeah.
+[Tyler Tringas]: series of events with kind
+of
+[Arvid Kahl]: Yeah.
+[Tyler Tringas]: series of events with kind
+of
+[Arvid Kahl]: That's
+[Tyler Tringas]: like
+[Arvid Kahl]: That's
+[Tyler Tringas]: like
+[Arvid Kahl]: right.
+[Tyler Tringas]: the, you know, the worst case
+scenario, right in a, in a lot of ways. And
+[Arvid Kahl]: right.
+[Tyler Tringas]: the, you know, the worst case
+scenario, right in a, in a lot of ways. And
+[Tyler Tringas]: I really don't think. I haven't
+found anybody. I was certainly worried a little
+[Tyler Tringas]: bit that there might be some
+backlash. We have a lot of investors and stuff
+[Tyler Tringas]: like that that might say like,
+oh, this sucks. You're not doing as well as
+[Tyler Tringas]: I thought you would or something
+like that. And there was just none of that,
+[Tyler Tringas]: absolutely none. So it was
+actually fantastic.
+[Arvid Kahl]: It's kind of hard to get mad at
+somebody who's been honest with you the whole
+[Arvid Kahl]: time.
+[Tyler Tringas]: Right.
+[Arvid Kahl]: Right?
+[Tyler Tringas]: Right.
+[Arvid Kahl]: Right?
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: Right?
+[Arvid Kahl]: Just want to get
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: Just want to get
+[Arvid Kahl]: you get mad at yourself for maybe
+having inflated expectations if there's nothing
+[Arvid Kahl]: that you can cling on onto. That's
+really cool. Yeah, but wonderful. You just
+[Arvid Kahl]: kind of co wrote a chapter for
+my book. So thank you so much,
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: kind of co wrote a chapter for
+my book. So thank you so much,
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: because I'm going to use this
+as an example, because lots of people have
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: because I'm going to use this
+as an example, because lots of people have
+[Arvid Kahl]: been asking around building in
+public, well, where are the negative examples?
+[Arvid Kahl]: Where is where something went
+wrong? And how did that affect people? I think
+[Arvid Kahl]: this is as positive as can be
+for such a negative example, right? Stuff didn't
+[Arvid Kahl]: work, you still got something
+out of it. That's that's exactly what I love
+[Arvid Kahl]: about that story. Even though
+I wish it would have happened differently for
+[Arvid Kahl]: so many reasons. But the way it
+happened, the way you communicated has been
+[Arvid Kahl]: stellar. And I'm very happy to
+see that. Yeah, people don't they did not have
+[Arvid Kahl]: an avenue of complaining, which
+is great. You come, you covered your bases.
+[Arvid Kahl]: That's what you
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: That's what you
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: did in many ways, right? In a
+positive and I guess empowering way for others
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: did in many ways, right? In a
+positive and I guess empowering way for others
+[Arvid Kahl]: to learn from. That's really cool.
+Well, I'm glad we live in a community where
+[Arvid Kahl]: everybody understands each other,
+[Tyler Tringas]: Hmm.
+[Arvid Kahl]: where everybody kind of knows
+where we are going with the thing that we're
+[Tyler Tringas]: Hmm.
+[Arvid Kahl]: where everybody kind of knows
+where we are going with the thing that we're
+[Arvid Kahl]: doing. Like they understand
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: doing. Like they understand
+[Arvid Kahl]: that there's risk in entrepreneurship
+and that they also understand that this risk
+[Arvid Kahl]: is worth failing from time to
+time.
+[Tyler Tringas]: Hmm
+[Arvid Kahl]: I think that's the big difference.
+Because if you had people who don't understand
+[Tyler Tringas]: Hmm
+[Arvid Kahl]: I think that's the big difference.
+Because if you had people who don't understand
+[Arvid Kahl]: this, they probably would have
+responded differently to your announcement,
+[Arvid Kahl]: right?
+[Tyler Tringas]: Yeah, absolutely.
+[Arvid Kahl]: right?
+[Tyler Tringas]: Yeah, absolutely.
+[Arvid Kahl]: Well, maybe we should use this
+opportunity to dive into the topic of today,
+[Arvid Kahl]: which is
+[Tyler Tringas]: Let's do it.
+[Arvid Kahl]: which is
+[Tyler Tringas]: Let's do it.
+[Arvid Kahl]: very much,
+[Tyler Tringas]: Let's do it.
+[Arvid Kahl]: very much,
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: very much related to this. I've
+been, uh, at MicroConf, I was talking about
+[Arvid Kahl]: fundamental health, right? The
+problems that we all commonly share, being
+[Arvid Kahl]: overworked, doing a lot of things.
+And one, one thing that I shared a pretty sad
+[Arvid Kahl]: story for my life, um, from was
+social isolation, feeling alone, feeling
+[Tyler Tringas]: Hmm.
+[Arvid Kahl]: story for my life, um, from was
+social isolation, feeling alone, feeling
+[Tyler Tringas]: Hmm.
+[Arvid Kahl]: misunderstood, feeling not, not
+supported at all. And I f- Ever since then,
+[Tyler Tringas]: Hmm.
+[Arvid Kahl]: misunderstood, feeling not, not
+supported at all. And I f- Ever since then,
+[Arvid Kahl]: people have been reaching out
+to me, both right there at the venue after
+[Arvid Kahl]: I gave my talk and over the next
+couple days, plus now in Twitter DMs, sharing
+[Arvid Kahl]: stories about how hard it was
+for them to stay the course, like to calmly
+[Arvid Kahl]: build a business, trying to stay
+calm when around the people around them were
+[Arvid Kahl]: just energetically trying to distract
+them or pull them away from entrepreneurship
+[Arvid Kahl]: because they just didn't get it.
+Like this week I had an interview, I just released
+[Arvid Kahl]: it earlier today, with Dagobert
+Renouf, the co-founder of Logology. He and
+[Arvid Kahl]: his wife founded a logo creation
+software as a service business.
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: And one of his puns or means that
+he's been talking about on Twitter has been
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: And one of his puns or means that
+he's been talking about on Twitter has been
+[Arvid Kahl]: that his father-in-law has been
+completely unsupportive and not understanding
+[Arvid Kahl]: about why he and his wife would
+ever build a business together when they both
+[Arvid Kahl]: could just have regular careers.
+that she's a designer, he's a software engineer,
+[Arvid Kahl]: like they could work for corporate
+and they would be fine for life. That's his
+[Arvid Kahl]: perspective,
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: perspective,
+[Arvid Kahl]: has been his perspective for a
+while until he saw that it's kind of working
+[Arvid Kahl]: out. But he shared this on my
+podcast and I was like, yeah, this is something
+[Arvid Kahl]: that probably every founder can
+relate to because I personally have a very
+[Arvid Kahl]: similar story in my life, early
+life, even like not necessarily with Feat.
+[Arvid Kahl]: Panda, the stuff that actually
+worked out, but much earlier, like in 2013,
+[Arvid Kahl]: 2012. when I kind of, I was still
+in university, I was studying political science,
+[Arvid Kahl]: but I always wanted to be an engineer,
+I always wanted to code, I was coding on the
+[Arvid Kahl]: side. And
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: I got this invite to San Francisco
+for, like there was a C-funded company that
+[Arvid Kahl]: found my GitHub and they wanted
+me to kind of see if I could work for them
+[Arvid Kahl]: as a remote employee from Germany,
+but they wanted to meet me, so they flew me
+[Arvid Kahl]: in or wanted to fly me in from
+San Francisco. Even just that was something
+[Arvid Kahl]: that my grandma at the time, who
+had kind of the maternal role in my family,
+[Arvid Kahl]: She didn't understand and didn't
+support. Like she was like, no, you shouldn't
+[Arvid Kahl]: do this. This is dangerous. This
+is kind of risky. I think this feels like something
+[Arvid Kahl]: that, you know, that's kind of,
+that must be a scam. They invite you over,
+[Arvid Kahl]: that's not right. I think that's
+like, why would anybody pay for a ticket and
+[Arvid Kahl]: you don't even know who they are?
+And she just did not even understand this kind
+[Arvid Kahl]: of founders taking a bet on a
+potential employee.
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: So it worked out. I flew there,
+I had a great time. We came to an agreement.
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: So it worked out. I flew there,
+I had a great time. We came to an agreement.
+[Arvid Kahl]: I worked for them for two years,
+and then it got burned out and everything exploded
+[Arvid Kahl]: in my life. But that's a different
+story for a different opportunity. But
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: after that, I started building
+tiny software businesses with my friends and
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: after that, I started building
+tiny software businesses with my friends and
+[Arvid Kahl]: peers. And again, she was like,
+I don't know if this is the way you should
+[Arvid Kahl]: be going. Like you could, you're
+good at your job. You could just find a job
+[Arvid Kahl]: with like some software business.
+Right? You could go to Audi or another big
+[Arvid Kahl]: German company and work in a software
+department, right? And I was like, no, but
+[Arvid Kahl]: I want to do this. And I then,
+then I did this and these things failed. And
+[Arvid Kahl]: she was like, yep, told you you
+should go and get a job. And I just, I kind
+[Arvid Kahl]: of listened to her. I started
+getting into consulting with a bigger business
+[Arvid Kahl]: and consulted for them as my big
+fish main client. But over time, I just wanted
+[Arvid Kahl]: to build more businesses.
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: And it took until we actually
+had Feedback Panda, my girlfriend and I were
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: And it took until we actually
+had Feedback Panda, my girlfriend and I were
+[Arvid Kahl]: like building Feedback Panda and
+showing her that this was now, um, like a $20,000
+[Arvid Kahl]: a month business. for her to say,
+well, okay, I guess it's fine. That was the
+[Arvid Kahl]: situation. We built a SaaS business
+to 20K MRR and that was okay, I guess this
+[Arvid Kahl]: is all right. Took
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: is all right. Took
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: me only what, five, six years
+to get her to this point. Super frustrating.
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: me only what, five, six years
+to get her to this point. Super frustrating.
+[Arvid Kahl]: And I think everybody who's been
+going into solopreneurship or just entrepreneurship
+[Arvid Kahl]: in general has a story like this.
+I wonder if you have a story like this too.
+[Tyler Tringas]: Um, I think
+[Arvid Kahl]: Doesn't have to be family,
+[Tyler Tringas]: Um, I think
+[Arvid Kahl]: Doesn't have to be family,
+[Tyler Tringas]: so.
+[Arvid Kahl]: Doesn't have to be family,
+[Tyler Tringas]: so.
+[Arvid Kahl]: right? It could
+[Tyler Tringas]: so.
+[Arvid Kahl]: right? It could
+[Tyler Tringas]: Yeah,
+[Arvid Kahl]: right? It could
+[Tyler Tringas]: Yeah,
+[Arvid Kahl]: be anybody.
+[Tyler Tringas]: Yeah,
+[Arvid Kahl]: be anybody.
+[Tyler Tringas]: so I grew up in a family where
+entrepreneurship was a little more normalized.
+[Tyler Tringas]: My, you know, my stepdad was
+sort of my head of household for most of my
+[Tyler Tringas]: life, and he ran a guitar shop,
+you know. So I think the the concept of being
+[Tyler Tringas]: an entrepreneur was a little
+more normalized within the family. So there
+[Tyler Tringas]: wasn't that kind of constant
+pressure to be like, why don't you get a job
+[Tyler Tringas]: sort of thing. But I would
+say,
+[Tyler Tringas]: the elements that kind of resonate
+with me in this are a little different, which
+[Tyler Tringas]: are, first of all, just like
+not necessarily, not having active pushback,
+[Tyler Tringas]: but not really having a support
+network, right? Like not having people within
+[Tyler Tringas]: my community. So. When I like
+my college friends and my, you know, first
+[Tyler Tringas]: friends from after college
+and stuff like that, like almost none of them
+[Tyler Tringas]: were entrepreneurs. So I didn't
+really have people that would push me in the
+[Tyler Tringas]: right direction or that I could
+sort of lean on in tough times necessarily.
+[Tyler Tringas]: So it was sort of isolated
+versus having, you know, kind of things pushing
+[Tyler Tringas]: back against me. Um, and then,
+you know, definitely like just in general.
+[Tyler Tringas]: Feeling like. uh, in most social
+situations that I didn't really have anything
+[Tyler Tringas]: to empathize with people, right?
+Like you're at, uh, you know, you're dating
+[Tyler Tringas]: someone who has a normal job
+and you go out with them and their friends
+[Tyler Tringas]: and everybody's complaining
+about, uh, you know, not having enough time
+[Tyler Tringas]: off or, you know, like weird
+stuff that's like no longer relevant feature
+[Tyler Tringas]: of your life at all, and you
+have nothing to say
+[Arvid Kahl]: Right.
+[Tyler Tringas]: on these topics. Um, you know,
+this, that sort of isolation, I think is something
+[Arvid Kahl]: Right.
+[Tyler Tringas]: on these topics. Um, you know,
+this, that sort of isolation, I think is something
+[Tyler Tringas]: that I felt a lot, um, pretty
+early on as an entrepreneur. And so. Yeah,
+[Tyler Tringas]: I think we should talk about
+it. I don't know if I have a specific example
+[Tyler Tringas]: that comes to mind. It was
+just like a very pervasive thing for quite
+[Tyler Tringas]: a few years for me.
+[Arvid Kahl]: Oh,
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: I think it's definitely specific
+enough, particularly the thing with like going
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: I think it's definitely specific
+enough, particularly the thing with like going
+[Arvid Kahl]: out or going to any kind of social
+event and being just of a completely different
+[Arvid Kahl]: frame of mind, what even warrants
+being discussed.
+[Tyler Tringas]: Right.
+[Arvid Kahl]: That's what I feel like when I
+was at a family thing a couple days ago and
+[Arvid Kahl]: it was really nice and when family
+hangs out, it's always enjoyable. But even
+[Arvid Kahl]: getting to a topic of discussion
+that I find interesting. in terms of like,
+[Arvid Kahl]: you know, I want to talk about
+AI, or I want to talk about like entrepreneurship,
+[Arvid Kahl]: I want to talk about like building
+something cool or cool projects. But people
+[Arvid Kahl]: don't necessarily find these things
+as interesting as I do, which kind
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: don't necessarily find these things
+as interesting as I do, which kind
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: of precludes me from even getting
+to a point where I can contribute meaningfully
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: of precludes me from even getting
+to a point where I can contribute meaningfully
+[Arvid Kahl]: to a conversation. Because the
+other topics, I'm not that much into sports,
+[Arvid Kahl]: I'm not that much
+[Tyler Tringas]: Thank
+[Arvid Kahl]: I'm not that much
+[Tyler Tringas]: Thank
+[Arvid Kahl]: into,
+[Tyler Tringas]: Thank
+[Arvid Kahl]: into,
+[Tyler Tringas]: you.
+[Arvid Kahl]: into,
+[Tyler Tringas]: you.
+[Arvid Kahl]: you know, vacations or whatnot,
+these these topics that normal people normally
+[Arvid Kahl]: talk about,
+[Tyler Tringas]: I think
+[Arvid Kahl]: talk about,
+[Tyler Tringas]: I think
+[Arvid Kahl]: right?
+[Tyler Tringas]: I think
+[Arvid Kahl]: right?
+[Tyler Tringas]: these
+[Arvid Kahl]: right?
+[Tyler Tringas]: these
+[Arvid Kahl]: It's
+[Tyler Tringas]: these
+[Arvid Kahl]: It's
+[Tyler Tringas]: are
+[Arvid Kahl]: It's
+[Tyler Tringas]: are
+[Arvid Kahl]: just
+[Tyler Tringas]: are
+[Arvid Kahl]: just
+[Tyler Tringas]: more
+[Arvid Kahl]: just
+[Tyler Tringas]: more
+[Arvid Kahl]: that
+[Tyler Tringas]: more
+[Arvid Kahl]: that
+[Tyler Tringas]: the hazards of being a nerd
+versus being an entrepreneur, which I identify
+[Arvid Kahl]: that
+[Tyler Tringas]: the hazards of being a nerd
+versus being an entrepreneur, which I identify
+[Arvid Kahl]: But wait,
+[Tyler Tringas]: the hazards of being a nerd
+versus being an entrepreneur, which I identify
+[Arvid Kahl]: But wait,
+[Tyler Tringas]: by the
+[Arvid Kahl]: But wait,
+[Tyler Tringas]: by the
+[Arvid Kahl]: what's,
+[Tyler Tringas]: way.
+[Arvid Kahl]: what's,
+[Tyler Tringas]: way.
+[Arvid Kahl]: isn't that the same? Like, isn't
+like one, like there's a big Venn diagram and
+[Arvid Kahl]: I think like entrepreneurs like
+right dab in the middle of,
+[Tyler Tringas]: Yeah, nerdy
+[Arvid Kahl]: I think like entrepreneurs like
+right dab in the middle of,
+[Tyler Tringas]: Yeah, nerdy
+[Arvid Kahl]: of the
+[Tyler Tringas]: Yeah, nerdy
+[Arvid Kahl]: of the
+[Tyler Tringas]: on
+[Arvid Kahl]: nerd
+[Tyler Tringas]: on
+[Arvid Kahl]: nerd
+[Tyler Tringas]: your
+[Arvid Kahl]: nerd
+[Tyler Tringas]: your
+[Arvid Kahl]: thing.
+[Tyler Tringas]: your
+[Tyler Tringas]: very challenging socially.
+[Arvid Kahl]: Well, I honestly, I mean, I'm
+great. I'm great among family and we always
+[Arvid Kahl]: have nice chats. And even this
+time we did get to talk about chat chipperity
+[Arvid Kahl]: because a couple of people in
+the family work in marketing and we had this
+[Arvid Kahl]: whole conversation about, funny
+enough, we actually had a conversation that
+[Arvid Kahl]: went, that went into entrepreneurship
+because we kind of talked about them with their
+[Arvid Kahl]: career path and me, like how I
+source my finances, right? Where I find my
+[Arvid Kahl]: sponsors. Then we got into like
+how sponsorship evolved over time. people working
+[Arvid Kahl]: in an ad agency, obviously they're
+interested to see how it works on the ground
+[Arvid Kahl]: for a creator. Like how I
+[Tyler Tringas]: Mmm.
+[Arvid Kahl]: for a creator. Like how I
+[Tyler Tringas]: Mmm.
+[Arvid Kahl]: source my sponsors, how they could
+potentially connect with more people like me.
+[Arvid Kahl]: And it was an interesting conversation
+just about the different perspectives that
+[Arvid Kahl]: you have from an agency perspective
+on how to place advertisement and sponsorships
+[Arvid Kahl]: and what I care about as a creator
+and what I would never do, what is normal to
+[Arvid Kahl]: them. Like it was a nice conversation
+in the overlap of our fields. That was cool.
+[Arvid Kahl]: But that rarely happens. And it's
+just a few people that work in jobs that are
+[Arvid Kahl]: even adjacent to what I'm doing,
+because most people have normal jobs, like
+[Arvid Kahl]: plumber or nurse. What am I going
+to say? Build in public your next plumbing
+[Arvid Kahl]: project? It's going to be far
+cry for me to even get to a conversational
+[Arvid Kahl]: topic there. So those situations,
+always enjoyable, but never really a part where
+[Arvid Kahl]: I feel I can contribute a lot.
+And that puts some distance in there, I feel.
+[Arvid Kahl]: That's just what it is. We chose
+this occupation and with it comes an interest
+[Arvid Kahl]: for certain things and a dismissal
+of others. It's just what it is. But I feel
+[Arvid Kahl]: it does show, at least for me,
+where our priorities lie and what we completely
+[Arvid Kahl]: ignore as entrepreneurs. What
+you said, these conversations about, oh, my
+[Arvid Kahl]: boss, or I wish there was more
+paid vacation. What is an entrepreneur going
+[Arvid Kahl]: to say? I wish
+[Tyler Tringas]: Mm.
+[Arvid Kahl]: there
+[Tyler Tringas]: Mm.
+[Arvid Kahl]: there
+[Tyler Tringas]: Mm.
+[Arvid Kahl]: there
+[Arvid Kahl]: was any vacation at all, ever.
+It feels like it's just a different different
+[Arvid Kahl]: kind of perspective to take on
+conversations. But maybe that is the happy
+[Arvid Kahl]: kind of result of us being somewhat
+isolated. But I feel there's a lot of mental
+[Arvid Kahl]: health pressure on people to still
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: health pressure on people to still
+[Arvid Kahl]: perform and to still to still
+maintain these bonds, particularly when it
+[Arvid Kahl]: comes to good friends or family
+or your significant other. Like the amounts
+[Arvid Kahl]: of times I've been listening to
+a Star Trek podcast. Let me just like throw
+[Arvid Kahl]: it all out there, because like
+if we're nerding out my just as well. It's
+[Arvid Kahl]: called The Greatest Generation,
+and it has two male co-hosts that worked in
+[Arvid Kahl]: the entertainment industry. They're
+coming from videography or directing and kind
+[Arvid Kahl]: of stuff. And they now go through
+the old Star Trek The Next Generation episodes,
+[Arvid Kahl]: like one by one, and just comment
+them in a funny way. I highly recommend listening
+[Arvid Kahl]: to it. But what they always talk
+about is how their wives are just kind of embarrassed
+[Arvid Kahl]: about them running a Star Trek
+podcast. And you know, like whenever they're
+[Arvid Kahl]: out in public and now some of
+they have a lot of listeners, listeners come
+[Arvid Kahl]: up to them and want like an autograph
+or a photo, they're kind of embarrassed about
+[Arvid Kahl]: that. And I was like, this is
+so sad. I guess it's so unfortunate that somebody's
+[Arvid Kahl]: joy that also makes them money
+because they have a podcast with like, now
+[Arvid Kahl]: I guess hundreds of thousands
+of monthly listeners and yet still their partners
+[Arvid Kahl]: in life feel disconnected enough
+to not even care about it much or embarrassed
+[Arvid Kahl]: that. this person that they share
+their life with is doing this as a profession.
+[Arvid Kahl]: And I should say, like their partners
+are, I think one of them is a lawyer and the
+[Arvid Kahl]: other one also has a pretty high
+paid job. So there's this kind of discrepancy,
+[Arvid Kahl]: high paid lawyer, start with nerd
+on a podcast, right? This seems to be a problem
+[Arvid Kahl]: for people. And I was like, why?
+This is so sad, right?
+[Tyler Tringas]: Yeah, I'm not a couples counselor,
+but that that that seems like a
+[Arvid Kahl]: Hahaha
+[Tyler Tringas]: pretty bad dynamic in the inner
+relationship.
+[Arvid Kahl]: Hahaha
+[Tyler Tringas]: pretty bad dynamic in the inner
+relationship.
+[Arvid Kahl]: Yep. Yeah.
+[Tyler Tringas]: pretty bad dynamic in the inner
+relationship.
+[Tyler Tringas]: pretty bad dynamic in the inner
+relationship.
+[Tyler Tringas]: Did you feel like you had to
+defend entrepreneurship, you know, to to your
+[Tyler Tringas]: family or or friends or anything
+like that? Did you ever find yourself sort
+[Tyler Tringas]: of needing to? You know, I
+mean, you can sort of just like either shrug
+[Tyler Tringas]: it off, but sometimes you might
+feel the need to engage and sort of make the
+[Tyler Tringas]: case for it. Did you find that?
+[Arvid Kahl]: again, mostly with my grandma,
+because she was just she was in such a protective
+[Arvid Kahl]: role that anything that had more
+risk than gainful employment, like risk from
+[Arvid Kahl]: a perspective of somebody who's
+been in gainful employment all through her
+[Arvid Kahl]: life, right?
+[Tyler Tringas]: Hmm.
+[Arvid Kahl]: life, right?
+[Arvid Kahl]: That's the kind of default frame
+that she had on this, anything that was more
+[Arvid Kahl]: risky. And we can argue that entrepreneurship
+is risky in a different way, you know, unlimited
+[Arvid Kahl]: upside, unlimited downside compared
+to limited upside and limited downside for
+[Arvid Kahl]: employment and If you only have
+one employer, you have kind of platform risk,
+[Arvid Kahl]: platform
+[Arvid Kahl]: dependency risk, but
+[Tyler Tringas]: Yeah,
+[Arvid Kahl]: dependency risk, but
+[Tyler Tringas]: I would think
+[Arvid Kahl]: you know.
+[Tyler Tringas]: I would think
+[Arvid Kahl]: you know.
+[Tyler Tringas]: I would question the limited
+downside side of things. But yes, I think
+[Arvid Kahl]: Yeah,
+[Tyler Tringas]: I would question the limited
+downside side of things. But yes, I think
+[Arvid Kahl]: Yeah,
+[Tyler Tringas]: it's
+[Arvid Kahl]: Yeah,
+[Arvid Kahl]: exactly.
+[Tyler Tringas]: limited downside too. But yeah.
+[Arvid Kahl]: That's right. There's a common
+narrative, right? And that's kind of what I
+[Arvid Kahl]: was trying to describe with the
+upside-down side thing.
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: That narrative is breaking apart
+in the reality that we live in. Because if
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: That narrative is breaking apart
+in the reality that we live in. Because if
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: That narrative is breaking apart
+in the reality that we live in. Because if
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: you get fired today, try find
+a job and see how long your paycheck-to-paycheck
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: you get fired today, try find
+a job and see how long your paycheck-to-paycheck
+[Arvid Kahl]: life can be sustained if you don't
+get a paycheck, right? And it's not your fault
+[Arvid Kahl]: necessarily as an employee that
+this is the reality in which we live in. But
+[Arvid Kahl]: to think that this is safe is
+probably a misconception. So I had to argue
+[Arvid Kahl]: these kinds of things to her,
+which is like talk to like an 86 year old woman
+[Arvid Kahl]: about your perspective as a 20
+year old while she has been living in multiple
+[Arvid Kahl]: different countries. Like we came
+from East Germany, doesn't exist anymore than
+[Arvid Kahl]: had to be in Germany and she had
+a career there. So she's been through stuff
+[Arvid Kahl]: and her perspective is what I
+know is good and what I can teach this person
+[Arvid Kahl]: and what I can help them accomplish
+is also good. So can't blame it, but I did
+[Arvid Kahl]: have to defend it. And one other
+thing, one other probably more relatable thing
+[Arvid Kahl]: for most, like I had to defend
+my entrepreneurial aspirations to my peers
+[Arvid Kahl]: at the last job that I was working
+in. So
+[Tyler Tringas]: Thank
+[Arvid Kahl]: when
+[Tyler Tringas]: Thank
+[Arvid Kahl]: when
+[Tyler Tringas]: you.
+[Arvid Kahl]: when
+[Tyler Tringas]: you.
+[Arvid Kahl]: I was building Feedback Panda,
+I kind of did it on the side while I was having
+[Arvid Kahl]: a full salaried 40 hour a week
+software engineering position in Hamburg. Like
+[Arvid Kahl]: there's this whole story that
+I often tell is like. me commuting from Berlin
+[Arvid Kahl]: to Hamburg allowed me to listen
+to all these podcasts and read all these books,
+[Arvid Kahl]: including your ebook and that
+kind of stuff to figure out how I wanted to
+[Arvid Kahl]: build my next business. All this
+commute back and forth gave me so much time.
+[Arvid Kahl]: So when I was in Hamburg working
+40 hours a week and then took some time, like
+[Arvid Kahl]: after working, I still stayed
+in the office and coded on my own project.
+[Arvid Kahl]: People just didn't really get
+it. They were like, why are you doing this?
+[Arvid Kahl]: You already have a job. The hardest
+part about all this was when I then quit because
+[Arvid Kahl]: our business already went somewhere
+and I wanted to focus on something else. They
+[Arvid Kahl]: felt almost betrayed. Like it
+had this kind of notion of hey you were one
+[Arvid Kahl]: of us and now you're kind of not
+anymore.
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: What's going on? This must be
+like a negative thing or this must be some
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: What's going on? This must be
+like a negative thing or this must be some
+[Arvid Kahl]: kind of attack. It was pretty
+strange because these were people that I really
+[Arvid Kahl]: went well with until I told them
+that I didn't want to be an employee anymore.
+[Tyler Tringas]: it.
+[Arvid Kahl]: Like I had mental health reasons
+there as well. I felt like overwhelmed and
+[Arvid Kahl]: I didn't want to do this. And
+you know, my grandma had just died around that
+[Arvid Kahl]: time. So there was that as well.
+There was just so much animosity that I was
+[Arvid Kahl]: exposed to, which was really unfortunate
+because I didn't expect it from people who
+[Arvid Kahl]: were just like me. It turns out
+they were not necessarily like me. They were
+[Arvid Kahl]: just compatible on one level,
+but very incompatible on another. So yes, I
+[Arvid Kahl]: did have to defend it. And I honestly,
+I just defended it by doing it. and not caring
+[Arvid Kahl]: about what other people said.
+[Tyler Tringas]: Yeah, I think I would encourage
+other folks and I wonder if this resonates
+[Tyler Tringas]: with you, but I think you just
+have to drop the idea of defending it. I just
+[Tyler Tringas]: think like, you know, it's
+one of those things where people are going
+[Tyler Tringas]: to get it or not and, you know,
+all the energy that you would put into trying
+[Tyler Tringas]: to convince that person in
+your life. Um, that it's, you know, a good
+[Tyler Tringas]: idea. You should just put into
+yourself and basically, you know, recognizing
+[Tyler Tringas]: that like, you're just, you're
+probably not going to convince them and you
+[Tyler Tringas]: just need to kind of reconcile
+that and, and, you know, Just go for it. Right.
+[Tyler Tringas]: Like, I just don't think that
+a lot of upside, I think this is maybe potentially
+[Tyler Tringas]: challenging when it's specifically
+a partner slash like spouse. That's probably
+[Tyler Tringas]: like the one area where you
+really do need to. get some buy in, I think
+[Tyler Tringas]: with your family, like unless,
+I don't know, unless they're financing your
+[Tyler Tringas]: lifestyle or something like
+that, you probably just have to accept the
+[Tyler Tringas]: fact that they're not going
+to get it until you're successful, and then
+[Tyler Tringas]: they're going to get it. And
+like, that's that, like that's how it's going
+[Tyler Tringas]: to play out. That's how almost
+everyone that I know that's gone through that
+[Tyler Tringas]: sort of situation, like, they
+don't get it, they don't get it. And then as
+[Tyler Tringas]: soon as you're like, tangibly
+succeeding, they get it right away. They're
+[Tyler Tringas]: like, Oh, that's cool. Great.
+You know, and like, there's really no shortcut
+[Tyler Tringas]: to that process. Um, I wonder
+actually if it's a bit more challenging with,
+[Tyler Tringas]: uh, with a partner. I've never
+really had to go through that process at the
+[Tyler Tringas]: early days. Um,
+[Arvid Kahl]: Mm-hmm.
+[Tyler Tringas]: early days. Um,
+[Tyler Tringas]: I guess did, did you, so, so,
+you know, I only had a serious partner in my
+[Tyler Tringas]: life after, you know, I was
+single when I started, you know, when I quit
+[Tyler Tringas]: my job and started to become
+an entrepreneur and my business was fairly
+[Tyler Tringas]: successful. before I had a
+serious life partner along that journey. So
+[Tyler Tringas]: what about you? Did you have
+a partner at the early days of this stuff?
+[Tyler Tringas]: Or was that a thing
+[Arvid Kahl]: So
+[Tyler Tringas]: Or was that a thing
+[Arvid Kahl]: So
+[Tyler Tringas]: you had to do?
+[Arvid Kahl]: So
+[Tyler Tringas]: you had to do?
+[Arvid Kahl]: yeah, like all the things where
+I failed, I didn't have a partner at all. And
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: yeah, like all the things where
+I failed, I didn't have a partner at all. And
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: the thing where I succeeded, I
+met Danielle, my co-founder and life partner
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: the thing where I succeeded, I
+met Danielle, my co-founder and life partner
+[Arvid Kahl]: is in this very building that
+I'm recording
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: is in this very building that
+I'm recording
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: in right now. I met her in 2015.
+[Tyler Tringas]: Mm-hmm.
+[Arvid Kahl]: in right now. I met her in 2015.
+[Tyler Tringas]: Okay.
+[Arvid Kahl]: We started the business in 2017
+together. So I was still a fully set and salaried
+[Tyler Tringas]: Okay.
+[Arvid Kahl]: We started the business in 2017
+together. So I was still a fully set and salaried
+[Arvid Kahl]: engineer at the time, even like
+working half remotely. So I was in Hamburg
+[Arvid Kahl]: commuting back and forth for like
+half of my week. So it was a... a relationship
+[Arvid Kahl]: that itself was already pretty
+tested from the early days on right, you're
+[Arvid Kahl]: your partner and some sometimes
+there's sometimes you're you're gone, you're
+[Arvid Kahl]: gonna have a long distance relationship
+several days a week. So we had a lot of stuff
+[Arvid Kahl]: compressed into a very early timeframe
+there. And then we started the business together
+[Arvid Kahl]: in 17. We sold it in 2019. And
+we moved to Canada two years later in 2021.
+[Arvid Kahl]: So that that's kind of the story
+of our life together. So yeah,
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: I was just we built this together.
+So she was
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: I was just we built this together.
+So she was
+[Tyler Tringas]: Right.
+[Arvid Kahl]: I was just we built this together.
+So she was
+[Tyler Tringas]: Right.
+[Arvid Kahl]: compatible in the sense that she
+actually also wanted to build it.
+[Tyler Tringas]: Right.
+[Arvid Kahl]: compatible in the sense that she
+actually also wanted to build it.
+[Tyler Tringas]: Right, maybe this would be
+something fun to discuss on Twitter after we
+[Tyler Tringas]: publish this to
+[Arvid Kahl]: Mm-hmm.
+[Tyler Tringas]: see you know if folks could
+share some stories of having to really get
+[Arvid Kahl]: Mm-hmm.
+[Tyler Tringas]: see you know if folks could
+share some stories of having to really get
+[Tyler Tringas]: buy-in maybe from a you know
+default skeptical Partner or spouse and and
+[Tyler Tringas]: kind of hear about that because
+I think that would be really interesting to
+[Tyler Tringas]: hear how folks Navigated that
+that's kind of like one version where you can't
+[Tyler Tringas]: just be like well You'll see
+you know and then just go three years without
+[Tyler Tringas]: getting support
+[Arvid Kahl]: Yeah.
+[Tyler Tringas]: getting support
+[Tyler Tringas]: buy-in from it I wonder if
+this resonates with you as well. It's kind
+[Tyler Tringas]: of like a variation of this,
+which is feeling behind your peers on more
+[Tyler Tringas]: of a traditional path, right?
+So you're an entrepreneur, maybe you haven't
+[Tyler Tringas]: quite gotten the financial
+success yet, and a small version might be you
+[Tyler Tringas]: see some article in... MSN
+money or whatever that's like, here's how much
+[Tyler Tringas]: you should have saved by the
+time your ex
+[Arvid Kahl]: Mm-hmm.
+[Tyler Tringas]: you should have saved by the
+time your ex
+[Arvid Kahl]: Mm-hmm.
+[Tyler Tringas]: years old, you're like, whoa,
+I don't have anywhere near that much saved
+[Arvid Kahl]: Mm-hmm.
+[Tyler Tringas]: years old, you're like, whoa,
+I don't have anywhere near that much saved
+[Tyler Tringas]: because I've been building
+equity in this business that's not successful
+[Tyler Tringas]: yet. And maybe then more like
+tangible milestones, right? Maybe people are
+[Tyler Tringas]: buying houses or maybe they're
+having kids and all this kind of stuff that
+[Tyler Tringas]: you feel like you can't necessarily
+financially do because you're still in the
+[Tyler Tringas]: trenches of entrepreneurship.
+Did you feel any of that at all?
+[Arvid Kahl]: Yeah, I'm thinking about it. I
+had friends certainly that had kids and had
+[Arvid Kahl]: jobs and that kind of stuff. But
+I always knew that I don't need to compare
+[Arvid Kahl]: myself to people whose lives I
+don't necessarily want to live. And this is
+[Arvid Kahl]: no a hidden dig at my friends,
+obviously, because they're my friends. But
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: the choices that they made were
+theirs to make and not necessarily mine. So
+[Arvid Kahl]: I don't think I compared my lifestyle
+with with them much. But I always felt that
+[Arvid Kahl]: the security that some people
+had financially by just having been around
+[Arvid Kahl]: and having already understood
+that's, that's an important part too, I'm going
+[Arvid Kahl]: to get to this in a second, how
+to invest, what to invest, like have their
+[Arvid Kahl]: employer pay half of whatever
+contribution they may have and build equity
+[Arvid Kahl]: in, in the market or in money
+markets or whatever over, over their, um, their
+[Arvid Kahl]: work lifetime. That was something
+that I was even just kind of exposed to
+[Tyler Tringas]: Hmm
+[Arvid Kahl]: late in life. I didn't even have
+a frame of reference to be kind of jealous
+[Arvid Kahl]: or comparing myself to because
+[Tyler Tringas]: Yeah
+[Arvid Kahl]: or comparing myself to because
+[Arvid Kahl]: I didn't even know that that was
+an option. Again, my grandma, she's great,
+[Arvid Kahl]: but she had very strong opinions
+about what investment looks like or what savings
+[Arvid Kahl]: look like. For her, that was like
+put money in a savings account every now and
+[Arvid Kahl]: then and that's it. Get like the
+rates that whatever the bank pays you. Because
+[Arvid Kahl]: again, East Germany, different
+story, her whole life was structured in a certain
+[Arvid Kahl]: way and she kind of taught that.
+I had to do a lot of unlearning as you can
+[Arvid Kahl]: probably tell.
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: from just the stuff that I've
+been kind of educated with as I grew up in
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: from just the stuff that I've
+been kind of educated with as I grew up in
+[Arvid Kahl]: that space. And she was burned,
+I think, by the local credit union style bank,
+[Arvid Kahl]: investing their money into really,
+really bad mutual funds that never made any
+[Arvid Kahl]: money. So they kind of lost a
+lot of money on this. So any investment into
+[Arvid Kahl]: anything in the market was a no
+go for her. That was how it was financially
+[Arvid Kahl]: educated.
+[Tyler Tringas]: Whoa.
+[Arvid Kahl]: Can you imagine? Yeah, right?
+So it's... I think I was 33 or 34 when I first
+[Tyler Tringas]: Whoa.
+[Arvid Kahl]: Can you imagine? Yeah, right?
+So it's... I think I was 33 or 34 when I first
+[Arvid Kahl]: in that business in Hamburg was
+exposed to a fellow developer who talked about
+[Arvid Kahl]: investing in the stock market
+and ETFs and that kind of stuff and how this
+[Arvid Kahl]: is actually a much saner approach
+than buying into heavily into mutual funds
+[Arvid Kahl]: or that kind of stuff that your
+bank tries to push on you. Any sane person
+[Arvid Kahl]: looking at this from the outside
+was like, why are they trying to sell me this?
+[Arvid Kahl]: Like, obviously there's more in
+that for them than for me. So That education
+[Arvid Kahl]: came at a super late part in my
+life. And ever since then, I've been working
+[Arvid Kahl]: on getting to that. But it's not
+because of comparison with my peers, it's because
+[Arvid Kahl]: of not being educated in that
+space at all. Honestly, I think the first book
+[Arvid Kahl]: that I ever read that explained
+this to me more clearly was Tony Robbins, like
+[Arvid Kahl]: Money Master the Game. Like it's
+not necessarily the best book about finances,
+[Tyler Tringas]: I gotta get
+[Arvid Kahl]: Money Master the Game. Like it's
+not necessarily the best book about finances,
+[Tyler Tringas]: I gotta get
+[Arvid Kahl]: but
+[Tyler Tringas]: on board somehow, you know?
+[Arvid Kahl]: but
+[Tyler Tringas]: on board somehow, you know?
+[Arvid Kahl]: it showed me a path beyond. like
+just putting some money in some bank account
+[Arvid Kahl]: and getting like minus 3% a year
+because the economy tech. So it's, but for
+[Arvid Kahl]: me, I did feel behind in just
+the sense of security that I had in my life,
+[Arvid Kahl]: which was one of the reasons why
+we actually sold the business when we sold
+[Arvid Kahl]: it, because
+[Tyler Tringas]: Uh huh.
+[Arvid Kahl]: it, because
+[Tyler Tringas]: Uh huh.
+[Arvid Kahl]: we had understood that the equity
+we had in this business at that point making
+[Tyler Tringas]: Uh huh.
+[Arvid Kahl]: we had understood that the equity
+we had in this business at that point making
+[Arvid Kahl]: 600K in ARR, so it was substantial
+already. It was technically by all just...
+[Arvid Kahl]: guesses of how much something
+could be worth a million dollar business, which
+[Arvid Kahl]: it then turned out to be in the
+end when we sold it. But we we both had nothing
+[Arvid Kahl]: else. Like we had no savings really,
+other than the weird stuff in our bank, which
+[Arvid Kahl]: was like a couple thousand bucks.
+We had a paycheck to paycheck kind of life
+[Arvid Kahl]: because we were living in Berlin,
+the middle of a big city, which is expensive
+[Arvid Kahl]: and I
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: and I
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: had a lot of expenses like traveling
+back and forth, even though the company helped
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: had a lot of expenses like traveling
+back and forth, even though the company helped
+[Arvid Kahl]: me with this, it was never free,
+right? And... we understood that, wow, this
+[Arvid Kahl]: is the only thing that's valuable
+and it's gigantically valuable in comparison
+[Arvid Kahl]: to what else we have. If we lose
+this business because of, you know, the business
+[Arvid Kahl]: implodes because of the market
+or some regulation, which funny enough it did
+[Arvid Kahl]: like a couple months ago, right?
+China introduced some weird regulation that
+[Arvid Kahl]: makes it impossible for a person
+to teach English online anymore without living
+[Arvid Kahl]: in China itself. So Feedback Panda,
+the business that we built, It doesn't exist
+[Arvid Kahl]: anymore for that reason. Like,
+[Tyler Tringas]: Okay.
+[Arvid Kahl]: anymore for that reason. Like,
+[Tyler Tringas]: Okay.
+[Arvid Kahl]: SureSprift had to just shut it
+down because there was nobody paying money
+[Tyler Tringas]: Okay.
+[Arvid Kahl]: SureSprift had to just shut it
+down because there was nobody paying money
+[Arvid Kahl]: anymore because they couldn't
+do the work that we
+[Tyler Tringas]: All
+[Arvid Kahl]: anymore because they couldn't
+do the work that we
+[Tyler Tringas]: All
+[Arvid Kahl]: helped them with. It's unfortunate
+[Tyler Tringas]: All
+[Arvid Kahl]: helped them with. It's unfortunate
+[Tyler Tringas]: right.
+[Arvid Kahl]: helped them with. It's unfortunate
+[Arvid Kahl]: that it happened, and I'm kind
+of glad it didn't happen to us. It happened
+[Arvid Kahl]: to a company that could handle
+such a financial loss, right?
+[Tyler Tringas]: Right.
+[Arvid Kahl]: Like, if that would have been
+us, everything we built over years would have
+[Tyler Tringas]: Right.
+[Arvid Kahl]: been lost at that point.
+[Tyler Tringas]: Right.
+[Arvid Kahl]: been lost at that point.
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: been lost at that point.
+[Arvid Kahl]: which is why I was super stressed
+about it, had like the kind of, oh, the bus
+[Arvid Kahl]: factor is incredibly high and
+it's so undiversified, we need to diversify
+[Arvid Kahl]: our investments. Again, something
+I had never known about before, but now I knew
+[Arvid Kahl]: and now I understood because I
+had people who work smart about investments
+[Arvid Kahl]: tell me about this as well. So
+that's the thing that I felt I would need to
+[Arvid Kahl]: catch up, just securing my own
+life by diversifying my investments. Hence
+[Arvid Kahl]: we sold the business. and got
+invested into fine funds such as the calm company
+[Arvid Kahl]: fund, for example, right? Like
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: it all kind of plays into this
+for me, like investing in your fund was one
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: it all kind of plays into this
+for me, like investing in your fund was one
+[Arvid Kahl]: of the things I did to diversify.
+So
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: yeah, you know, so yes, I did
+feel behind and I needed to catch up.
+[Tyler Tringas]: Yeah, yeah, I think I felt
+some of that too. I think some things that
+[Tyler Tringas]: resonated for me Over the years
+that kind of helped me maintain a little more
+[Tyler Tringas]: kind of calm about that because
+it is easy to sort of feel behind So the first
+[Tyler Tringas]: one that resonated for me was
+leaning into some of the stuff that you can
+[Tyler Tringas]: do as an entrepreneur that
+you couldn't do with a job, right so like I
+[Tyler Tringas]: think it can be really tough
+to be just like in exactly the same sort of
+[Tyler Tringas]: position as your peers, let's
+say your peers from college or something like
+[Tyler Tringas]: that. Like you're living in
+the same cities, in the same neighborhoods,
+[Tyler Tringas]: trying to buy the same houses,
+trying to do the same activities, you know,
+[Tyler Tringas]: all this kind of stuff, except
+you're the like struggling entrepreneur and
+[Tyler Tringas]: they're the like successful
+corporate person. That sounds like setting
+[Tyler Tringas]: yourself up for like a really
+difficult time mentally. So I think like one
+[Tyler Tringas]: thing that comes to mind is
+this overlap between a lot of entrepreneurs
+[Tyler Tringas]: becoming digital nomads. And
+I'm not saying like every entrepreneur should
+[Tyler Tringas]: become digital nomads, but
+you know, you have this like kind of sort of
+[Tyler Tringas]: judo way of turning around
+some of the negatives into a positive. Like,
+[Tyler Tringas]: yes, you have to work a lot.
+And yes, you maybe don't have as much disposable
+[Tyler Tringas]: income, you know, month over
+month, if you kind of graph it. But you do
+[Tyler Tringas]: have a lot more flexibility
+in terms of where you are. Right. And so you
+[Tyler Tringas]: can sort of lean into, well,
+I can go live in Bali for six months. And that's
+[Tyler Tringas]: pretty cool. You know, and
+so there's like a, um, there's an upside to
+[Tyler Tringas]: being an entrepreneur as well.
+And so I think kind of looking for, you know,
+[Tyler Tringas]: those opportunities to, um,
+you know, to take advantage of some of the
+[Tyler Tringas]: things that are unlocked by
+being an entrepreneur, mainly the ability to
+[Tyler Tringas]: travel, the ability to work
+remotely, the ability to. frankly, you can
+[Tyler Tringas]: take more time off, right?
+You know, if you're able to do that, right?
+[Tyler Tringas]: If you get the business to
+some level where that's possible, and sometimes
+[Arvid Kahl]: Mm-hmm.
+[Tyler Tringas]: If you get the business to
+some level where that's possible, and sometimes
+[Tyler Tringas]: If you get the business to
+some level where that's possible, and sometimes
+[Tyler Tringas]: that's a lot sooner than you
+think, you know, the capacity to take six straight
+[Tyler Tringas]: weeks off, which is basically
+impossible for, you know, anybody in a corporate
+[Tyler Tringas]: job. So I think I definitely
+leaned into that heavily, and that helped me
+[Tyler Tringas]: a lot. with the early days
+of challenging, it was like, okay, I'm pretty
+[Tyler Tringas]: much broke. I have like no
+money, you know, like very minimal amount coming
+[Tyler Tringas]: in, very way behind on where
+I should be on savings, but I get to travel
+[Tyler Tringas]: the world. I went to like 40
+countries. I lived out of a backpack. I did
+[Tyler Tringas]: all this cool stuff, you know.
+So it was like, even if I kind of finish this
+[Tyler Tringas]: and none of these businesses
+work, I actually still won't regret this period
+[Tyler Tringas]: of time. Like I'll have less
+money than my peers, but I will have so many
+[Tyler Tringas]: incredible experiences that
+Like it'll feel like a pretty good investment.
+[Tyler Tringas]: I think overall so that was
+like one that was pretty useful I'm gonna say
+[Tyler Tringas]: I think Another thing that's
+kind of nice and I'm curious if this kind of
+[Tyler Tringas]: resonates for you as well,
+but I have found that Entrepreneurship really
+[Tyler Tringas]: helps me avoid the hedonic
+treadmill and the life inflation aspect Right?
+[Tyler Tringas]: So like, you know, your income
+and your savings are these numerical numbers,
+[Tyler Tringas]: but they are also relative
+to how much you spend. Right. And so the sort
+[Tyler Tringas]: of lumpiness of the cash flows
+of entrepreneurship, the fact that they're
+[Tyler Tringas]: not that reliable, but when
+they do come, they come in like generally like
+[Tyler Tringas]: very large chunks has kind
+of helped me avoid the the constant, you know,
+[Tyler Tringas]: okay, you get this raise and
+then you raise your spending by exactly the
+[Tyler Tringas]: same amount. And so you get
+this point where you're really on this treadmill
+[Tyler Tringas]: that's turned up to 11 and
+you have to continue making this very high
+[Tyler Tringas]: salary just to sort of stay
+in place because your cost basis is so high.
+[Tyler Tringas]: I think one nice thing that
+entrepreneurship does is it forces you to keep
+[Tyler Tringas]: that level low. And there's
+a benefit to that, which is that you have so
+[Tyler Tringas]: much more flexibility in your
+life. Whether or not it's other entrepreneurial
+[Tyler Tringas]: ventures or other things like
+that, I think a source of a lot of unhappiness
+[Tyler Tringas]: in middle age for a lot of
+folks is this hedonic treadmill where, yeah,
+[Tyler Tringas]: they've had nice steady success
+and now their base level of existence is they
+[Tyler Tringas]: need to make $500,000, $600,000
+a year just to stay in place. That means they
+[Tyler Tringas]: can absolutely never take a
+year off and go and try to write a book or
+[Tyler Tringas]: try to. do some experiment
+or start a company or whatever. And so, I wanna
+[Tyler Tringas]: encourage folks to appreciate
+that upside that even though it feels kind
+[Tyler Tringas]: of limiting in the moment that
+you wish you had a little more disposable income,
+[Tyler Tringas]: that dynamic is actually going
+to be a source of, I think pretty substantial
+[Tyler Tringas]: happiness at like a decade
+long time scale. And so, just kind of focusing
+[Tyler Tringas]: on that I think is valuable.
+[Arvid Kahl]: I really appreciate that because
+I feel the same way. I honestly like most people
+[Arvid Kahl]: when I talked to them about the
+sale, the exit of the business, they asked
+[Arvid Kahl]: me, so what did you buy? Right?
+There's always this this big
+[Tyler Tringas]: No.
+[Arvid Kahl]: me, so what did you buy? Right?
+There's always this this big
+[Arvid Kahl]: me, so what did you buy? Right?
+There's always this this big
+[Arvid Kahl]: focus on money. And I was like,
+I got a MacBook Pro, I think
+[Tyler Tringas]: Yes.
+[Arvid Kahl]: focus on money. And I was like,
+I got a MacBook Pro, I think
+[Tyler Tringas]: Yes.
+[Arvid Kahl]: I got a new computer so I could
+write better or I could write in one room and
+[Arvid Kahl]: watch videos in the other. That
+was like my leveling up at that point. And
+[Arvid Kahl]: it has felt like this ever since
+because I think you're on to something here
+[Arvid Kahl]: with the lack of reliable numbers
+that you see growing every month. I just did
+[Arvid Kahl]: my taxes. So it was tax season
+here in Canada, like until I think the 30th
+[Arvid Kahl]: of April is that last tax day.
+And obviously that meant I did my taxes on
+[Arvid Kahl]: the 30th of April.
+[Tyler Tringas]: PINWRD.
+[Arvid Kahl]: And I had to, I pulled all the
+data from the business together and something
+[Tyler Tringas]: PINWRD.
+[Arvid Kahl]: And I had to, I pulled all the
+data from the business together and something
+[Arvid Kahl]: I didn't notice in 2022, this
+was a six-figure business. I did not notice.
+[Tyler Tringas]: See you.
+[Arvid Kahl]: I didn't notice in 2022, this
+was a six-figure business. I did not notice.
+[Arvid Kahl]: I didn't notice in 2022, this
+was a six-figure business. I did not notice.
+[Arvid Kahl]: I was not aware of the fact that
+all my media business is now actually. six
+[Arvid Kahl]: figure business and I saw this
+on the text sheet because with that number
+[Arvid Kahl]: comes an equally high tax payment
+that you have to pay and Expenses were manageable
+[Arvid Kahl]: all that kind of stuff it was
+very interesting to see but the lump thing
+[Arvid Kahl]: that the fact that it's distributed
+over so many ways and I think every month I
+[Arvid Kahl]: have like 30 different items on
+my just where money comes in because Amazon
+[Arvid Kahl]: has like 12 different locations
+where the payments for the books come in and
+[Arvid Kahl]: then every other store pays me
+through some weird methods somewhere else and
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: then every other store pays me
+through some weird methods somewhere else and
+[Arvid Kahl]: then some goes to PayPal and Gumroad
+is here and Podia was there and there's Udemy
+[Arvid Kahl]: and there's Skillshare. All these
+different things just pay random things at
+[Arvid Kahl]: random times so you don't really
+see this big monthly up and down. You just
+[Arvid Kahl]: really see this trickle in and
+some random capacity. So you develop this.
+[Arvid Kahl]: I can only spend this much this
+month because you know, haven't seen much money
+[Arvid Kahl]: for a couple months. Let's just
+see. Let's just be smart about it. So it surprised
+[Arvid Kahl]: me to see how much money actually
+came in. but also how much I kept because,
+[Arvid Kahl]: you know, if I don't see it come
+in, I don't see it, I don't spend it, which
+[Arvid Kahl]: is great. And I think this is
+a consequence of having had this behavior where
+[Arvid Kahl]: no money was coming in in the
+past. It just sounds like the worst humble
+[Arvid Kahl]: bag in history, but the idea is
+I think I've always had this, let's just be
+[Arvid Kahl]: frugal about this. I mean, now
+I'm buying a lot of studio equipment. I think
+[Arvid Kahl]: my biggest expenses are microphones,
+monitors, and cameras at this point to be able
+[Arvid Kahl]: to do what I do. I don't spend
+money on cars. I don't even own a car. Like
+[Arvid Kahl]: we have one family car and it's
+not mine. I like walking to the store and that's
+[Arvid Kahl]: my life, right? It's just, there
+is no kind of keeping up with the Joneses kind
+[Arvid Kahl]: of creep in my life because I
+don't like that. And I never was a person to
+[Arvid Kahl]: do this, frankly, because I never
+had enough money to start. That's kind of how
+[Arvid Kahl]: I feel. I never had enough income
+to even start keeping up with other people.
+[Arvid Kahl]: And now that I have, I don't need
+that. I invested in my business again, which
+[Arvid Kahl]: is... and our lives here too,
+like in this fine province of Ontario, we just
+[Arvid Kahl]: building our little life here
+and having a nice house and having time with
+[Arvid Kahl]: family and friends, that's what
+we spend our money on, not necessarily fancy
+[Arvid Kahl]: things. So yeah, sorry, that's
+just derailed into a description of my financial
+[Arvid Kahl]: life. But honestly, I think this
+is something that is a consequence of me never
+[Arvid Kahl]: really. following the salaried
+employee narrative. And I think you brought
+[Arvid Kahl]: this up just now with, you know,
+when should you do what, right? The narrative
+[Arvid Kahl]: that we all are part of an economy
+and everybody should contribute and be compensated
+[Arvid Kahl]: for it for 45 years and then you
+retire. That kind of narrative. Or you have
+[Arvid Kahl]: to find a job, you have to then
+immediately buy a house and be in a place and
+[Arvid Kahl]: you can never be a nomad, right?
+Because you have to start a family and have
+[Arvid Kahl]: to pay like for a car, get a loan
+here, get a loan for that, the standard narrative
+[Arvid Kahl]: that most people follow. And I
+think you, you, by mentioning just digital
+[Arvid Kahl]: nomadism, that just completely
+breaks the paradigm. And that is a wonderful
+[Arvid Kahl]: idea for an entrepreneur is to
+start breaking narrative paradigms. Right?
+[Arvid Kahl]: about what a business should look
+like. Should you get VC funding? Yeah, sure,
+[Arvid Kahl]: every business needs funding,
+right? No, that is not necessarily true. Or
+[Arvid Kahl]: should you build it in secret
+and then sell it to whoever wants it? Well,
+[Arvid Kahl]: maybe that's also not a narrative
+that's true. Maybe you can do this in a more
+[Arvid Kahl]: public sphere. I think what this
+boils down to me for is breaking the paradigms
+[Arvid Kahl]: of narrative that are established
+in the society around us. And unfortunately,
+[Arvid Kahl]: often enough, this narrative is
+parroted by our parents, by our spouses, by
+[Arvid Kahl]: our friends, and by our colleagues.
+I kind of to bring this all together. Like
+[Arvid Kahl]: the fact that we have such trouble
+with them understanding what we're doing is
+[Arvid Kahl]: that they are living the narrative
+of somebody else and they are repeating the
+[Arvid Kahl]: narrative that somebody else has
+instilled in them. Our schools, our social
+[Arvid Kahl]: systems, our economic theory that
+whatever country is following at any given
+[Arvid Kahl]: time, all of this kind of trickles
+down into narratives that we hopefully can
+[Arvid Kahl]: break. So I don't know why I'm
+here now at this point. My train of thought
+[Arvid Kahl]: took me here, but I just alighted
+and I exited
+[Tyler Tringas]: Let's
+[Arvid Kahl]: took me here, but I just alighted
+and I exited
+[Tyler Tringas]: Let's
+[Arvid Kahl]: at the
+[Tyler Tringas]: Let's
+[Arvid Kahl]: at the
+[Tyler Tringas]: bring
+[Arvid Kahl]: station.
+[Tyler Tringas]: bring
+[Arvid Kahl]: station.
+[Tyler Tringas]: it home. I think I think you
+you made a great point there, which is and
+[Arvid Kahl]: station.
+[Tyler Tringas]: it home. I think I think you
+you made a great point there, which is and
+[Tyler Tringas]: I wanted to sort of talk a
+little bit about, okay, what, what do we think
+[Tyler Tringas]: you know, maybe other folks
+who are feeling a lot of these feelings that
+[Tyler Tringas]: we've been describing could
+do and
+[Arvid Kahl]: Yes.
+[Tyler Tringas]: I do think you just touched
+on the number one thing which is not. It's
+[Arvid Kahl]: Yes.
+[Tyler Tringas]: I do think you just touched
+on the number one thing which is not. It's
+[Tyler Tringas]: like kind of straightforward
+and simple and a lot of folks have unpacked
+[Tyler Tringas]: in a bunch of different ways,
+but just kind of like assessing the. You know,
+[Tyler Tringas]: the script or the playbook
+or the narrative that you sort of have this
+[Tyler Tringas]: perception that you're supposed
+to be on and really just questioning that,
+[Tyler Tringas]: right? I mean, a lot of entrepreneurship
+is questioning other narratives about, you
+[Tyler Tringas]: know, the world, right? You
+know, okay, this market is saturated. Nobody
+[Tyler Tringas]: else could enter it. Is that
+really true? You know, like a lot of the opportunities
+[Tyler Tringas]: come from that. And sometimes
+we forget to apply that same kind of critical
+[Tyler Tringas]: lens to. our own lives, right?
+To the narratives that we tell ourselves that
+[Tyler Tringas]: other people try to impose
+on us to say like, well, you should be doing
+[Tyler Tringas]: X, Y, and Z. And, and you can
+sort of take that same entrepreneurs kind of
+[Tyler Tringas]: skeptical, critical thinking
+analysis to it and say like, wait, is that
+[Tyler Tringas]: true? And what do you often
+find is like, no, you don't have to do that
+[Tyler Tringas]: at all. Like, you can actually
+do whatever you want in your life. And what's
+[Tyler Tringas]: been really helpful for me
+personally has been to connect with not just
+[Tyler Tringas]: so we're going to I was going
+to suggest, you know, connecting with other
+[Tyler Tringas]: entrepreneurs, I think that's
+kind of the no brainer, which is try to find
+[Tyler Tringas]: your community. And we can
+talk a little about that. But but also just
+[Tyler Tringas]: connecting with other people
+who are living lives that are just very different.
+[Tyler Tringas]: I got this primarily just from
+traveling a ton. But there's certainly other
+[Tyler Tringas]: ways you could probably do
+this. But but getting a firsthand experience
+[Tyler Tringas]: of other people who are living
+dramatically sort of off script lifestyles
+[Tyler Tringas]: and this could be maybe through
+podcasts or whatever but just sort of hearing
+[Tyler Tringas]: other people Describe a non-traditional
+approach to their lives. I think helps you
+[Tyler Tringas]: like widen the aperture of
+What's allowed what's possible, you know and
+[Tyler Tringas]: and I think really reinforcing
+that to say like yeah A bunch of people think
+[Tyler Tringas]: I'm off script here But like,
+that's okay. And a lot of people live their
+[Tyler Tringas]: lives that way, and it's fine,
+you know? You don't have to do any of those
+[Tyler Tringas]: narratives. So I think that's
+like kind of step one, is just like this base
+[Tyler Tringas]: level understanding that, you
+know, you can just kind of do whatever you
+[Tyler Tringas]: want. Yeah.
+[Arvid Kahl]: Yeah,
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: that's also what Paul is writing
+about in like
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: the pathless path, right?
+[Tyler Tringas]: Sure.
+[Arvid Kahl]: the pathless path, right?
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: the pathless path, right?
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: Let's bring that book into the
+mix here as well. The path that you choose
+[Arvid Kahl]: can just also be one of wandering
+around intentionally, right? It doesn't need
+[Arvid Kahl]: to be somebody else's script you
+follow. It could be just you be writing your
+[Arvid Kahl]: own script retroactively by just
+walking the path you want to walk and just
+[Arvid Kahl]: taking opportunities as they present
+themselves and then they connect the dots retrospectively,
+[Arvid Kahl]: which is... or retroactively,
+I guess. That's how it works anyway, right?
+[Arvid Kahl]: Like most people describing their
+journey, and then you see this a lot in memoirs
+[Arvid Kahl]: and stuff, like they find a lot
+of stuff that kind of connected, but it was
+[Arvid Kahl]: not connected in the moment. It
+was never connected. Like the next thing, the
+[Arvid Kahl]: next opportunity just happened,
+and they had this gut feeling that it was a
+[Arvid Kahl]: good one to follow, and then they
+took it on, and it turned into something that
+[Arvid Kahl]: connected super well with everything
+else. But that wasn't obvious at that moment.
+[Arvid Kahl]: It became obvious later when the
+things all kind of fell into place. There's
+[Arvid Kahl]: this nice, in sociology, I think
+this nice graph of the decision tree that you
+[Arvid Kahl]: make in your life. And the decision
+tree that you made up till this point is just
+[Arvid Kahl]: one path among many decisions
+that led you to where you are. And from now,
+[Arvid Kahl]: there is an infinite amount of
+possible decisions that you can still make.
+[Arvid Kahl]: But every year that you step forward
+into this decision tree, the path that you
+[Arvid Kahl]: went and made decisions gets longer.
+But the path in front of you is still infinite.
+[Arvid Kahl]: That's kind of what always motivates
+me to just look into opportunities as something
+[Arvid Kahl]: that probably connects to whatever
+I did in the past. Just take the opportunity
+[Arvid Kahl]: and see where it goes. And that
+is the journey of my life. That's my pathless
+[Arvid Kahl]: path. Kind of. That's how I feel
+it. And I love that you talk about finding
+[Arvid Kahl]: your peers and building community.
+That's the easiest way to find it, I feel.
+[Arvid Kahl]: Like, because you see, not only
+do you see other people walk their own path,
+[Arvid Kahl]: which is inspirational, but you
+also see the decision making that goes into
+[Arvid Kahl]: it. How they weigh risk. how they
+defend their decisions against others, just
+[Arvid Kahl]: like what we've been doing here,
+with describing how we defend our choice of
+[Arvid Kahl]: entrepreneurship to our families,
+to our spouses, to our peers. That is something
+[Arvid Kahl]: that just the fact that we did
+it might inspire somebody else to also do it
+[Arvid Kahl]: and find their own path. And for
+that, you need to be in the community where
+[Arvid Kahl]: you get exposed to conversations
+like ours. Right, if you're just in a community
+[Arvid Kahl]: where people go the traditional
+ways and talk about how to build a career and
+[Arvid Kahl]: how to write a CV, Well, you won't
+necessarily find inspiration to defend your
+[Arvid Kahl]: own choices, right? So that is
+a big deal for me as well. Yeah, I think community
+[Arvid Kahl]: is the biggest thing and community
+of different ways. I love the idea that you
+[Arvid Kahl]: talk about both finding your own
+bubble and bursting your bubble at the same
+[Arvid Kahl]: time. Right, you find your community
+of a founder bubble, that's great that everybody
+[Arvid Kahl]: is encouraging and stuff, but
+you also wanna see people who live a completely
+[Arvid Kahl]: wild life that is magically different
+from yours.
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: That's also something cool. So
+it's like build a bubble and burst it. What
+[Tyler Tringas]: Yeah.
+[Arvid Kahl]: a great way to live your life.
+[Tyler Tringas]: Yeah.
+[Tyler Tringas]: I love that. I think that's
+a great place
+[Arvid Kahl]: Yeah,
+[Tyler Tringas]: I love that. I think that's
+a great place
+[Arvid Kahl]: Yeah,
+[Tyler Tringas]: to leave it.
+[Arvid Kahl]: Yeah,
+[Arvid Kahl]: I think so too. Well, I do want
+to give a shout out today because I feel we've
+[Arvid Kahl]: been talking about Paul a lot
+and we've been talking about Dago Bear a lot
+[Arvid Kahl]: like the two people that have
+been inspirational in for me and just thinking
+[Arvid Kahl]: about this. So big shout out to
+Paul Millard with his amazing book The Pathless
+[Arvid Kahl]: Path and a big shout out to Dago
+Bear Renouf who is on a podcast just like this
+[Arvid Kahl]: one where he and James McKinven
+talk about their bootstrapper founder journey
+[Arvid Kahl]: and I kind of want to give that
+a shout out like it's called This Indie Life.
+[Arvid Kahl]: And it's a wonderful podcast now,
+I think at episode 20. And we're just behind,
+[Arvid Kahl]: I think, by 10 episodes. Probably
+we will never catch up if they keep going and
+[Arvid Kahl]: we keep going, we're always gonna
+be like 10 episodes apart. But that is a great
+[Arvid Kahl]: show that I listen to on a weekly
+basis whenever it comes out, because it's just
+[Arvid Kahl]: nice to follow the journey of
+people that motivate me. And that's a shout
+[Arvid Kahl]: out that I wanted to give today.
+Do you have anything you wanna shout out?
+[Tyler Tringas]: Yup, all good for me.
+[Arvid Kahl]: Wonderful. Well, then let's draw
+this to a conclusion. My dog is just barking
+[Arvid Kahl]: in the background. You've got
+to get the live experience here today. I've
+[Arvid Kahl]: been setting up a way for people
+who listen to the show to give it a rating
+[Arvid Kahl]: and a review. If you would like
+to do this, please go to ratethispodcast.com
+[Arvid Kahl]: slash catch up. That's C-A-T-C-H-U-P,
+one word. And you can find links that automatically
+[Arvid Kahl]: go to the Apple Podcasts place
+and Spotify and stuff, where you can give this
+[Arvid Kahl]: show. much deserved five star
+rating. Please do that and give it a review
+[Arvid Kahl]: if you like the show and if you
+like us. That would be really helpful. Put
+[Arvid Kahl]: us in front of more people who
+might actually need to hear what we've been
+[Arvid Kahl]: talking about today. And if you're
+a founder who's been through these things,
+[Arvid Kahl]: you know that there are a lot
+of peers who also need to hear this. So please
+[Arvid Kahl]: share this with them. You can
+also go to catchup.fm, find all the episodes,
+[Arvid Kahl]: all the seven or so episodes we've
+been doing up until this point and link people.
+[Arvid Kahl]: from there, it would be really
+appreciated. And yeah, I'm gonna talk to you
+[Arvid Kahl]: again next week. And that's it
+for this week.
+[Tyler Tringas]: See you next week.

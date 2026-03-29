@@ -1,0 +1,411 @@
+﻿Hey, it's Arvid and this is the
+bootstrap founder. [music]
+Sometimes software founders are a weird
+bunch. They've built their businesses on
+open-source software and the
+contributions of people who've done a
+lot of work for free. They've benefited
+at great length from infrastructure and
+tooling built on open standards that
+facilitate free exchange of data and
+ideas. Yet, when it comes to their own
+software business, they hold the opinion
+that you should have as much vendor lock
+in as possible when it comes to your
+users. The moment somebody signs up on
+your platform and invests the data into
+it, I've heard a lot of founders say,
+unironically, you have to lock them in.
+Make it as hard as possible for them to
+leave, that's going to make you money.
+And that is a retention strategy for
+some. I think it is a horrible practice.
+So, today, let's talk about why and why
+you shouldn't. Quick word here from our
+sponsor paddle.com. I use Paddle as my
+merchant of record for all my software
+projects. They take care of all the
+taxes, currencies, declined
+transactions, updated credit cards, so
+many things that I don't have to deal
+with so I can focus on my product. If
+you want to do the same, just build your
+own thing. Check out paddle.com as your
+payment provider or merchant of record.
+They also allow you to leave their
+platform and take your data with you,
+right? There is a migration path off
+there. So that might be interesting for
+you as well in the context of today's
+show. [music]
+Now I believe that you actually increase
+your retention and strengthen your
+product by making it as easy as possible
+to import and export data at any given
+point. And I'm going to make a case for
+this today. If you already think this is
+true, if you already like the idea of
+allowing your customers to import and
+export data as much as they want, well,
+you might come away with a couple ideas
+on how to make this even easier and how
+to communicate it more clearly to your
+customers. And if you think that it's a
+stupid idea to make it easy for
+customers to export all that data, I
+would ask you to give this a listen and
+then share your perspectives with me
+afterwards. Maybe I can convince you,
+maybe I can't. I want to hear from you
+anyway. I'm generally of the opinion
+that informed consent and informed
+choice is the highest value retention
+strategy you could possibly offer in any
+software business right offer to your
+own operations and offer to your
+customer because to retain people they
+need to actively choose to stay with
+you. So it is an offer you make. If
+somebody buys your product because they
+understand that not only is it going to
+be easy to use, that's great. But it
+will also be easy to leave, the chance
+of them sticking around or buying it in
+the first place actually goes up. It's a
+bit counterintuitive that an easier
+offboarding process will cause people to
+stick with you longer. But if you think
+about it realistically, people will lock
+themselves into any softer product you
+give them. they will just by the sheer
+inertia of a process once it's
+established stick with that product. So
+changing things in any product changing
+the process around it will always be
+hard and it's often quite complicated to
+change a longunning process in the first
+place. So anything you can do to make it
+feel like such a change if it ever is
+instigated, if it ever happens, will not
+be blocking the way, well, that's going
+to be a strong signal to a customer.
+Right? In the software as a service
+world, that means making the data in
+your platform movable. Just allowing
+people to get a full data export of
+their entire account, not to have to
+scrape things manually, but to have it
+facilitated easily. That is what that
+means. And often just even the promise
+of this is sufficient. They don't need
+to actually get the data. But when it
+comes to the due diligence that they
+might do on your business, they will see
+that you thought about it. And thinking
+about other people's end goals and their
+job to be done, which for many people is
+simply to keep running their business as
+it is, keep their process going. Well,
+that's a very important thing to do. And
+it's a strong signal that shows your
+customers that you understand them. You
+get it. So, let me give you a real
+example from my own experience. I'm
+running and have been running for like 5
+years at this point a business called
+permanent link. You'll find that under
+permanent.link. Surprisingly, it's a URL
+shortener, but it's also an archival
+tool in some ways. My customers, they're
+rightly concerned with the long-term
+survival of this business because the
+whole point of permanent link is for
+that link to be permanent. Right? If you
+link to a website and that website goes
+down because link rot is a real thing,
+links just vanish. Well, then the chance
+that your visitors won't be able to see
+what you meant for them to see is quite
+high. Permanent link helps by rerouting
+visitors to an archived version of that
+page. Either a publicly archived version
+or a version that we archive ourselves
+or the customer archives themselves.
+Doesn't matter. It's just a permanent
+and adaptable redirect. So permanent
+link the service itself is responsible
+for this rerouting activity. If we don't
+reroute users correctly, if our service
+is down, even if the original link still
+were to be working, we would not be able
+to forward visitors to where they need
+to be. So permanent link itself needs to
+stay there. And like any software
+business, people are concerned with the
+long-term survival of this particular
+business. So instead of just saying,
+"Yeah, yeah, we're going to be around
+forever. Don't you worry." I said, "Here
+is our contingency plan." and I outlined
+it quite intensely on the homepage. So,
+if that business ever shuts down, our
+dynamic linking feature will be turned
+into a static link system that would at
+least guarantee that the links that
+people currently have are going to keep
+working until their original sources
+expire. Or you could change them to
+always go to the archived version in the
+way back machine and then they would
+never expire as long as the way back
+machine works, which is a whole other
+thing. And for the long term, Permanent
+Link also offers a full export of every
+single rerouted and forwarded link
+formatted to be used on a self-hosted
+Apache server, a caddy server, or an
+engine X configuration. If you just want
+to download all your links and
+automatically forward them yourself
+because you have a subdomain and you
+have already set that up in permanent
+link too, well, we have the data format
+ready for you. You can offboard and
+switch to that in a minute. Like it used
+to take like five minutes to do all this
+configuration stuff easily a couple
+years ago. Now you just paste that thing
+into an AI whatever and it will tell you
+exactly what to do. Super fast, super
+reliable. You could just run it on your
+own domain and nothing would change.
+Nobody would see it. We export all the
+configuration. You would just have to
+run this server yourself if we were ever
+to go. And this has been received with a
+lot of positive signals from the
+community. People were like, "Yep,
+wouldn't have bought it otherwise, but
+now I know whatever happens, I can
+always export this data and just run my
+own server. that really helps me make
+that choice and it helps because it
+gives optionality. It gives people the
+expectation of what would happen in the
+worst case. And for people who know how
+precarious the situation of software
+companies can be, even if they are low
+expense like permanent link doesn't cost
+me more than a couple hundred bucks a
+year to run, you still want to give that
+optionality because people care about
+being given that. And it generally feels
+good particularly now with AI systems to
+have a full data map and let anybody a
+machine a person or an AI do analysis of
+your data that you have in any given
+system. It might be really useful for
+you to just export all your data in
+whatever service you might be loaded up
+in some kind of AI chatbot data
+ingestion system and then have it number
+crunch and figure out are there any
+inconsistencies in this data? Are there
+patterns that I may have missed when I
+used it? You will find that these tools
+can do a lot of that with the data that
+you have. So allowing customers to use
+this however they want is giving them
+additional insight potential into their
+own information that they so graciously
+allowed you to host for them. So that's
+the export side of things, right? What
+people can take away should they ever
+want to leave your business. But it is
+just as important to make it easy for
+them to get into your business to take
+their existing data from other places.
+That might make it hard or not make it
+hard to export and then make it simple
+for them to use it on your end. So what
+I recommend here is to also make it
+extremely easy to allow people to import
+their data into your system. And by
+import I really mean do you have the
+capacity to get them set up with a good
+enough version of the process that
+they've already established in their
+business as quickly as possible? And I'm
+looking at my friends over at Fathom
+Analytics here. When Google announced
+that their Google Analytics version was
+going to change, a lot of people needed
+to move off Google the Analytics
+platform because it just wasn't giving
+them what they needed anymore, and the
+changes were weird. People needed to
+find a new platform, another platform to
+run the analytics on. But obviously,
+they wanted to keep their data around.
+So, what the people over at Fathom
+Analytics did quite quickly was built a
+Google Analytics importer service. I
+think Jack Alice talked about this very
+publicly on Twitter and it was
+fascinating to watch just how much
+resonance that import feature got. A lot
+of people came onto the platform because
+there was a way to take their old data
+with them and they were not locked out
+from using that. Right? It's another
+kind of lockout. They were actively
+encouraged to take that data and bring
+this into the new service with them. And
+I find this both inspiring because it
+clearly worked for these customers and
+very important for the software as a
+service business itself because not only
+do you have a new customer that starts
+using your product, but from that data
+you get a massive level of insight into
+the needs that this particular customer
+might have, right? You see just how much
+expected capacity is going to go through
+your system. If somebody has, let's stay
+with the Fathom Analytics example. They
+already have 10 billion page views in
+the last month and they sign up for your
+product and they import these 10 billion
+views. Up to this point, you knew
+nothing about their business. You give
+them a JavaScript embed and all of a
+sudden you have 10 billion new items in
+your database over the next 30 days.
+That would be a big surprise, right? But
+if in the process of importing that data
+before they even start using your
+service, you see that well there's going
+to be an expected number of these items,
+you can already pre-provision systems
+that make this run smoothly. This is
+kind of customer anticipation. you could
+do that happens because you allow for
+data imports. You can see what's
+happening in the past and can
+extrapolate into the future. It's a
+pretty important part and it gives
+people continuity and expectability and
+reliability. In a way, it's kind of a
+soft lock in because they take their old
+data to you and as Google rolls down
+their service and that data vanishes
+there, now you are the only source of
+that data. So if you then also
+facilitate a full data export now they
+have the most possible peace of mind.
+They know that even if they would at any
+point leave your service their data is
+safe and if your service should ever
+stop for whatever reason they can take
+the data onwards to the next service.
+They will not try to find alternative
+ways to store that data which might even
+make them go for another potential
+vendor that has a less restrictive
+policy when it comes to data exports.
+you're making it harder for your
+competitors to compete with you on ease
+of use, if you were the easiest to use
+in the regard that when something might
+happen, if something ever happens,
+you'll be the least complicated solution
+in the space. So that's my
+recommendation. Allow people to import
+and export as much as they want, as
+reliably as they want, and you can
+provide it and support importing and
+exporting of any kind of relevant
+tabular data. That's my last point. I've
+noticed this with Potscan. I've noticed
+this with permanent link. I've noticed
+this with Feed by Panda before. In every
+single of my SAS businesses, B2B, B2C,
+somewhere in between, people want to be
+able to export any table of data they
+see in the UI. If it's a table, the
+moment you have tabular data with rows
+and columns, put an export button there.
+And you will see some people use it for
+whatever purpose it might be. Maybe just
+to have the data on their own computer.
+They might want to have a local copy in
+the Excel or upload it to Google Docs.
+Doesn't matter. They might want to throw
+it into an AI system for just playing
+around with it. They might just want to
+have a backup just to go through the
+list later. Import and export with
+commaepparated values with CSV. Whatever
+tabular data you might have, that's
+where export functionality for tables is
+always going to be useful. Whenever you
+have a table in your service that has
+meaningful business data, allow export
+functionality. And you will find that
+people aren't going to use it. They're
+going to find new ways of using the
+data. And they might even talk to you
+about this. They might say, "Hey, I took
+this data and I threw it into chatbt. I
+asked this question. I got this report.
+Really cool. Can you build this in so I
+don't have to do this manually?" And in
+that they will become sticky customers
+in your service because you have allowed
+them to do something and then you can
+pull it back into the feature loop. So
+yeah, allow everybody to import and
+export everything. It's going to make
+them customers who have more use for the
+product. They're going to use it more
+easily. They're going to join more
+easily. They're going to subscribe more
+easily and they're going to retain for
+longer because they know they don't have
+to look for an alternative. So if
+anything ever happens, it's going to be
+easy to leave. So they don't need to
+prepare. It's a peace of mind situation
+and it's not going to cost you much. In
+fact, it's going to make you stand out
+from all these other founders who have
+vendor lock in as one of the central
+mantras of their business strategy,
+which they shouldn't have and neither
+should you. And that's it for today.
+Thank you for listening to the Booster
+Founder. You can find me on Twitter
+[music]
+at Avidka Ab K A HL. And you know,
+speaking of listening what people are
+saying, if you're a founder, a PR
+expert, or part [music] of a marketing
+team, and you're wondering what people
+are saying about you on podcast, that is
+exactly what I built podscan.fm to
+solve. It monitors millions of shows for
+people [music] mentioning you. It turns
+this unstructured podcast chatter into
+competitive intelligence. And if you're
+a founder searching for your next
+venture, please do check out
+ideas.podscan.fm FM where we identify
+these startup opportunities that people
+just talk about on hundreds of expert
+conversations daily and then you can
+build what people are already asking
+for. Share this with anyone who [music]
+needs to turn conversations into
+competitive advantage. Either of these
+two. Thanks so much for listening. Have
+a wonderful day and bye-bye.

@@ -1,0 +1,52 @@
+{
+  "topic_id": 153308,
+  "title": "Issue with Printing documents as PDF, possibly related to wkhtmltopdf",
+  "slug": "issue-with-printing-documents-as-pdf-possibly-related-to-wkhtmltopdf",
+  "category_id": 6,
+  "tags": [
+    "frappe",
+    "print"
+  ],
+  "created_at": "2025-09-09T08:50:40.709Z",
+  "last_posted_at": "2025-09-09T08:50:40.835Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/issue-with-printing-documents-as-pdf-possibly-related-to-wkhtmltopdf/153308",
+  "views": 41,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "jerry-krismanto",
+  "posts": [
+    {
+      "id": 480244,
+      "username": "jerry-krismanto",
+      "name": "Jerry Yan Krismanto",
+      "created_at": "2025-09-09T08:50:40.835Z",
+      "cooked": "<pre><code class=\"lang-auto\">Traceback (most recent call last):\n  File \"apps/frappe/frappe/app.py\", line 97, in application\n    response = frappe.api.handle()\n  File \"apps/frappe/frappe/api.py\", line 55, in handle\n    return frappe.handler.handle()\n  File \"apps/frappe/frappe/handler.py\", line 48, in handle\n    data = execute_cmd(cmd)\n  File \"apps/frappe/frappe/handler.py\", line 86, in execute_cmd\n    return frappe.call(method, **frappe.form_dict)\n  File \"apps/frappe/frappe/__init__.py\", line 1619, in call\n    return fn(*args, **newargs)\n  File \"apps/frappe/frappe/utils/print_format.py\", line 130, in download_pdf\n    pdf_file = frappe.get_print(\n  File \"apps/frappe/frappe/__init__.py\", line 2049, in get_print\n    return get_pdf(html, options=pdf_options, output=output) if as_pdf else html\n  File \"apps/frappe/frappe/utils/pdf.py\", line 43, in get_pdf\n    filedata = pdfkit.from_string(html, options=options or {}, verbose=True)\n  File \"env/lib/python3.10/site-packages/pdfkit/api.py\", line 75, in from_string\n    return r.to_pdf(output_path)\n  File \"env/lib/python3.10/site-packages/pdfkit/pdfkit.py\", line 201, in to_pdf\n    self.handle_error(exit_code, stderr)\n  File \"env/lib/python3.10/site-packages/pdfkit/pdfkit.py\", line 155, in handle_error\n    raise IOError('wkhtmltopdf reported an error:\\n' + stderr)\nOSError: wkhtmltopdf reported an error:\nExit with code 1 due to network error: HostNotFoundError\n</code></pre>\n<p>Got the following error, i’ve tried setting host_name in site_config.json but to no avail. I also tried printing on different documents using different print format, including a very simple one with no image, all returns the same error.</p>\n<p>Does anyone have solutions to this? any help is appreciated</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/jerry-krismanto/{size}/88479_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 19,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

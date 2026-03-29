@@ -1,0 +1,52 @@
+{
+  "topic_id": 155719,
+  "title": "Im not bale to get this work, 6 days, and counting",
+  "slug": "im-not-bale-to-get-this-work-6-days-and-counting",
+  "category_id": 6,
+  "tags": [
+    "customization",
+    "wkhtmltopdf"
+  ],
+  "created_at": "2025-10-17T23:58:19.626Z",
+  "last_posted_at": "2025-10-17T23:58:19.730Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/im-not-bale-to-get-this-work-6-days-and-counting/155719",
+  "views": 35,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "cicorp-digital",
+  "posts": [
+    {
+      "id": 484344,
+      "username": "cicorp-digital",
+      "name": "Cicorp Digital",
+      "created_at": "2025-10-17T23:58:19.730Z",
+      "cooked": "<p>I’m using Proxmox and using NPM. I installed the latest version, since 6 days trying to check one invoice in PDF, and it didn’t work. I tried everything and finally want to know if this really works. PDF error Correct version: wkhtmitopdf 0.12.x (with patched qt). I updated it. after that non-stop server time, I even updated the proxy_connect_timeout 300s;<br>\nproxy_send_timeout 300s;<br>\nproxy_read_timeout 300s;<br>\nsend_timeout 300s;</p>\n<p>Nothing changed. Just anyone here, tell me if it really works, I came to know about ERPNext just few weeks ago, while researching about Odoo. Please anyone here, who can help.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/cicorp-digital/{size}/91417_2.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 22,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

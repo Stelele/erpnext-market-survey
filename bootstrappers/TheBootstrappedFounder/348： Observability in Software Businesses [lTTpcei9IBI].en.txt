@@ -1,0 +1,741 @@
+﻿[Music]
+hey it's Arvid and you're listening to
+the bootstrap
+[Music]
+founder I didn't see it coming that is
+something that I had to admit to myself
+a few times recently over the last
+couple weeks I've been experiencing
+several issues with pod scan that only
+came to pass because I didn't really
+have any observability on my system well
+at least that's what I know now because
+it always takes a while to see the
+bottom part of the iceberg and with pot
+scan most scaling issues only showed
+themselves in a delayed fashion that's
+the problem with this kind of system
+that I run the problems that came up
+were consequences of issues much further
+down the line that happened much earlier
+and this experience has taught me that
+observability isn't just a nice to have
+for my data software business it is
+crucial so as I spend more time building
+this heavily d based driven AI based
+business on top of technologies that may
+be rather new and untested I'm realizing
+the importance of robust observability
+this is especially true given that I'm
+building an architecture of a size that
+I've never built before pcan is the
+biggest thing I've ever done everything
+I learn is through doing and running
+into challenges and then facing them
+head on and hopefully finding a solution
+but most of the time that actually works
+so let me share my early stage learnings
+about system observability in this
+distributed data Centric system of mine
+even if you don't have a software
+business or might not operate with
+millions of data feeds every single day
+I think there's still something
+insightful here that I will not just
+likely but guaranteed take into my
+future business efforts so I guess it's
+also going to be really really good for
+you let's talk about being overconfident
+in your ability to see problems for
+starters for the longest time I thought
+I'll see when things go wrong I will
+notice that it will not Escape my sight
+but as my systems got more complex with
+more moving parts and individual
+components with varying scaling
+capacities I very quickly realized that
+I need to find ways to either
+automatically detect and mitigate
+problems or recognize them early on
+either of these needs to happen ideally
+I want to spot Trends and patterns or
+moving thresholds so I can see that if
+something continues running for a couple
+more weeks and slowly becomes more
+problematic well then I'm going to have
+an issue two weeks from now and this
+foresight ideally allows me to deal with
+potential problems proactively but if I
+knew what problems were to come I would
+make sure they would never happen right
+so why then do I still have issues well
+if that level of prediction is not
+possible then I need monitoring
+observability in place that immediately
+alerts me of a problem either a problem
+right at my doorstep or one in the
+making so I'm trying to build all of
+these systems but as usual with
+observability one of the core problems
+here is that often you don't precisely
+know what to
+observe for me it really is a question
+like I have a really sizable database
+and I have a search engine with its own
+database that is kind of structured
+differently and then I have this Fleet
+of backend servers over 30 servers that
+all have their own databases and some of
+them have no databases but a lot of
+caching which tends to be also a
+database the question becomes which of
+these things just even for thinking
+about databases do I need to observe to
+see if there are any issues should I
+look into every single one of them or
+are one or two of the main ones enough
+for me to see if things might go out of
+whack size-wise or if the data is
+corrupt or inserted correctly or
+incorrectly yeah that's the question
+right obviously I can't observe every
+single thing everywhere that's just
+impossible because of performance
+reasons you can't just Trace every
+single thing so the question the first
+question that always comes up for me is
+what are the things that could
+potentially cause trouble and sometimes
+these future issues well they are
+extremely clear from the start or at
+least there is a very high likelihood
+that these things might be problematic
+in the future for example when you're
+taking a long list of items a whole list
+of them of all items of a certain kind
+and then do something with that entire
+list that tends to be something that
+once at scale becomes very problematic
+and you'll see why I'm saying this but
+just as as an example if you test
+something on your local computer and you
+have 100 items or a thousand items in
+your database well then it's clearly not
+a problem to do an operation on each of
+them right do a map ruce or summarize or
+do an average or anything like this
+there's enough space in Ram and you you
+have enough resources for that but what
+if you're loading 100,000 items or 2
+million items there might still be
+enough space in your memory for this
+because we have machines with like
+dozens not hundreds of gigabytes now but
+the operation on each of these will
+consume memory and time as well so
+that's going to multiply so is it going
+to take the one second that it takes on
+your local computer once you push to
+production or is it going to take 10
+minutes there and block the database for
+everything else this might not be
+immediately obvious from the code that
+you're writing and you'll have to learn
+this by just recognizing this concept of
+things maybe exploding as things scale
+but every single time I find such a
+glitch I realized that I kind of should
+have seen it coming or I could have seen
+it coming and for me that's a tooling
+question I can prepare for this the
+important thing is to understand that
+there are easy targets right from the
+get-go that I should be monitoring and
+if that is true well then I should set
+up a kind of reporting system that has
+some sort of intake where I can reliably
+push reporting information into so that
+I can later look at it there are many
+options for this like Prometheus or the
+elk stack the AL tag all of these are
+fine if you set them up and push data in
+there it's always better to have data in
+your monitoring system than not to have
+it in there even when everything is
+perfectly fine for example you could
+just push the number of items in any
+particular database as ajacent object or
+something into your chosen system
+whenever you do an interaction with that
+database whenever you do like a major
+summarization or you count you push that
+into your metrix database as well then
+you can use visualization tools to show
+either the number that currently have or
+a trending graph of where that number is
+going to be going and what the Delta is
+between the last time you checked like a
+week ago or two months ago you get
+historical data and depending on
+something very important this
+information might make you sleep soundly
+or Panic slightly and that is context
+because the number alone won't really
+help you its current value itself tends
+to be a somewhat binary thing either
+it's bad or it's good and that changes
+over time if you have zero items in your
+database then usually is a problem maybe
+not when you just start out but a couple
+years into the lifetime of your business
+zero items problem if you have 200 100
+million items in your database that
+might be a problem too right CU it's way
+too much even for a lot of substantial
+Services out there but it really doesn't
+matter if it's 5,000 or 6,000 or maybe
+20,000 30,000 there's a spectrum in
+between these extremes and those
+thresholds too little too much or just
+right they are for you to determine and
+constantly adjust and UNIF founded SAS
+might need a warning when the number of
+projects that you have itps a few
+hundred because you have like 10
+customers how can you have 200 projects
+but a two decade old SAS business well
+they can easily expect thousands of new
+projects to be created every month so
+revise your thresholds as they are
+reached recurringly like the moment you
+run into these thresholds more and more
+you might need to adjust it
+and some issues aren't as easily found
+as these things the things that you
+learn as you build the business and the
+product so I experienced this a couple
+of months ago when I had a major memory
+Leak with pot scan it was debilitating
+it was really really bad and it costed
+my servers to actually stop working so
+that's how bad of a memory leak it was
+and the ram of my server which was a
+sizable machine with like 30 gigb of ram
+at that time was just exhausted very
+quickly over and over again and every
+time I restarted the process like the
+PHP uh the fpm process that kept all of
+this stuff going and the server
+sometimes even just F the machine fully
+rebooting it more and more memory would
+be consumed almost immediately it was
+crazy unfortunately I found a way to
+dampen the leak so I could spend my time
+investigating it it was the PHP fbm
+configuration if you ever run into this
+and you are running on laral or have PHP
+going PHP fbm can be configured to
+restart processes after a number of
+requests and I set that to something
+really low so it would constantly
+restart the processes internally so they
+could never reach this massive Ram
+problem but I eventually traced it to my
+internal caching logic and my metrics
+caching was at fault I built this
+ironically to figure out when things go
+wrong and it itself caused an error that
+was quite hilarious it was implemented
+in a way that would load a lot of
+unnecessary data into RAM and stick
+around for a bit right it would load
+like the list of like the last hours
+items and then add one item to that and
+then persist it into redus like this
+whole list so if the list was very long
+like tens or hundreds of thousands of
+items it would always load every single
+item into RAM add one to it and then
+kind of write it into Redd again it was
+fairly not well implemented I consider
+myself a 0.5x developer at least on on
+those days and if enough processes were
+started with this data obviously that
+was would Cascade into a memory League
+so I fixed that by fixing the underlying
+caching logic using Reedus's internal
+commands instead of loading all the data
+which is give the new item to redus and
+let it put it into its own data and
+everything returned to normal throughout
+the whole system cuz I used this in a
+lot of locations but now whenever I
+build something that's doing an
+averaging or summarization or adding an
+item to a list operation I try to figure
+out immediately how big that list could
+potentially get and if I can maybe stop
+the list from being too big before it
+gets that's too big either by chunking
+or using partials or pagination whatever
+something is potentially massive in
+memory I'm now looking at this this is
+what I mean like you learn to spot
+Problems by experiencing them along the
+way which might mean you will run into
+them and you will have to run into them
+before you can adequately spot and solve
+them it's one of these things you have
+to run into the wall a couple times
+before you figure out where the door is
+cuz you don't know what the door is you
+didn't even expect it there so I've
+trained myself to see this as I code and
+before that happened I was like oh it'll
+be fine those processes will eventually
+remove the memory and be good and that
+was true most of the time but it was
+just that they were not fast enough with
+it and that cascaded the overwhelm of
+the system came from me just having too
+many moving parts for the system to
+self-regulate and I have found one thing
+a little little cheat here I guess or
+just a little tip on how to deal with
+this chat-based llm platforms like
+anthropics CLA AI are pretty good at
+spotting performance bottlenecks in code
+you don't even have to give them metrics
+you can just give them the code and then
+they can look at it and tell you okay
+you problem might be here and you might
+want to rebuild this maybe refactor this
+into that so I sometimes throw the full
+source code of a core component of my
+app into Claude and tell it to
+investigate the five biggest potential
+performance risk or bugs in that code
+that is actually how I refactored this
+caching thing that broke when I had this
+memory League I took the whole module
+the service the caching service that I
+had written threw it into CL and told it
+to hey rewrite this so it doesn't
+explode on me and it did it found the
+right commands commands for Reddit that
+I'd never heard of before and put them
+in and then it worked so just sometimes
+the mere approach to how Claud argues
+for its answers allows me to see
+something that I hadn't thought of
+before and I'm picky I don't take the
+full answer I don't take every single
+thing that CLA tells me but some of
+those things are actually quite useful
+and I certainly hope that ID will
+integrate this as a constant background
+process soon I would love to be able to
+code and have this thing tell me every
+morning hey I ran a couple experiments
+overnight and these things might be
+improved I saw a couple things that may
+be problematic I want that my IDE to
+work for me while I'm working but for
+now I guess I have to hunt for
+bottlenecks myself and generally the
+problems that you run into and that
+might Cascade into chaos are resource
+problems it's R ever a logic problem
+itself that causes massive issues
+and even if it is it then becomes a
+resource problem so you always have to
+deal with resource problems anyway and
+resource problems that are code bound
+where code impacts the performance of
+the system itself and not data Integrity
+or accuracy which I would call like data
+problems those resource problems tend to
+be either issues of compute power like
+you're causing too much compute your CPU
+is overwhelmed and the system gets
+locked up because you just can't keep up
+with the calculations needed or it's a
+Memory availability problem you have too
+many things in memory like my memory
+leak and that causes the system to lock
+up by being unable to allocate more
+memory to critical processes or probably
+one of the most common one is dis issues
+so either in terms of operations iops
+like reading or writing too much data
+that your dis just cannot produce or
+persist fast enough it can't handle the
+overwhelming amount of data that needs
+to be written or read or and this is the
+most likely one size you run out of hard
+drive like you have 95% of your dis left
+and everybody's kind of fighting for the
+rest of it your temp directory is trying
+to grab some of that data or it's just
+full and your processors are trying to
+persist data to this that they cannot
+persist those are the three right
+compute CPU Ram or HDD hard drive and
+then if you add gpus graphics cards into
+the mix the resource problem becomes
+even stronger because graphics cards in
+particular are bottlenecks on most every
+system that I've encountered that uses
+GPU right I use it a lot for
+transcription obviously but there are
+also Vector uh databases or retrieval
+augmented Generation all these things
+that use GPU stuff GPU processing power
+I guess and memory on it become a bottle
+all in itself it's like a little
+computer in a computer yet again the
+solution to most of these problems for
+me has been CU systems putting cues in
+place you can cue almost anything in
+your backend system and in your web
+application and every framework
+available allows you to queue background
+process processes using tried and tested
+method PHP the thing that I'm using has
+laral Horizon and laral Q rub has
+sidekick and python has celery and I
+think JavaScript has bull mq like there
+are all these super tested highly
+performing libraries that can do queuing
+for you and you should use it because
+you can cue any regular calculation or
+operations of your system unless they
+belong to the request that needs that
+data as an answer but most of the time
+you don't really need this for heavy
+calculations you can use placeholders if
+you're building for example a AI based
+image product that generates AI images
+you can do this in the background right
+you put a placeholder loading image into
+your application and then fetch
+generated images as they are created and
+you can do a lot of things in the
+background as long as you restrict your
+queue to running only a couple of these
+operations at the same time which then
+prevents Runway memory leaks like mine
+or other resource constraints that could
+affect other parts of your product and Q
+systems are also innately measurable
+they come with this tooling for laral
+which I'm using for po scan the system
+is called laral Horizon and that comes
+with its own endpoint where you can see
+how many processes are running and what
+they're doing and how many are waiting
+in the queue they even visualize this
+and all these queuing tools come out of
+the box with features like that so it's
+definitely very useful to build queuing
+as a first class citizen into your
+application and if your resources are
+doing all right then the queue will go
+through immediately anyway you will
+barely notice it it has almost no
+latency they're optimized for this right
+and if you have a resource problem at
+any point then the queue will help you
+deal with the problem until you find a
+solution by just curing up the things
+that need to be done right they're going
+to be persisted somewhere and most
+queuing tools also have notification
+systems built in for when cues are
+overwhelmed or when there are too many
+items in any given queue this
+observability is built in from day one
+and it doesn't cost you anything I
+highly recommend you looking into
+queueing just learning how to use it and
+if you already use it use it a little
+bit more often just queuing a couple
+more things that you would have
+processed right there and then can
+really really mean a lot of more
+flexibility for the system and it also
+means you don't need as big a computer
+or as big a server or as big a instance
+of whatever you're using because queuing
+allows you to re to use resources when
+they are available instead of having to
+provision a lot of resources just in
+case you have to do 10 things at the
+same time so whenever it comes to observ
+ility you want to be able to see
+historical data from when things are
+doing well and from when they're not so
+you can compare them it doesn't really
+help to know only what the last 10
+minutes of metrics were when you deal
+with an avalanche of Errors without
+knowing what the normal state looks like
+you need something to actually compare
+it to so having access to historical
+data at any given time will help you
+investigate problems and solutions to
+see if they're doing what they're
+supposed to be doing right if you
+implement a fix well you need to see if
+it goes back to normal levels historical
+data does this personally I try to track
+all of my relevant system metrics on a
+per minute basis and I persist them into
+a database that exists exclusively for
+those metrics every minute a process
+runs that pulls all the sizes of my cues
+that I run the number of items that I've
+cashed over the last hour the number of
+transcriptions I run the extractions
+that I've done the API requests that I
+got the number of times my search engine
+got used number of customers to sign up
+all of this exists in a database where
+every minut it I get new information
+about every single one of these numbers
+and this has been extremely helpful for
+me to plot them out and graph them so I
+can over time see developments just see
+where things are going it's really
+interesting with pods can to see the ups
+and downs of the transcripts per hour
+that's something that I did not expect
+but I saw in my data not just the
+transcripts that I transcribe that's a
+fairly steady number because you know I
+have a fleet of 30 servers and they can
+only do so much but even just how many
+new podcast episodes I detect every hour
+this changes throughout the day because
+new podcast episodes are usually
+released between 9:00 a.m. and noon in
+the US English speaking podcasts than
+they are at night nobody releases their
+podcast app at night or few people do so
+in the morning and around noon I get
+this massive Avalanche of podcast
+episodes coming in and that affects my
+cues right I can see them growing and
+then in the afternoon those cues start
+to become really small and the system
+can go into the backlog and go into
+older episodes and transcribe them and
+this creates new situations because
+there's a different kind of quality that
+I wanted to use for transcribing older
+episodes and therefore I can use more of
+my energy to transcribe more of them at
+the same time which again affects my
+stats and my metrics and I know this
+because I have the data because I can
+track it and recently I've started
+adding a lot of things I didn't track
+before um one of them is external
+systems that my system interacts with
+over the last week or so I had a massive
+problem with my search data B which
+started when one of my users told me
+that they had a problem with certain
+items being missing from search but
+being present on the API like the API
+uses search too so sometimes they were
+present sometimes they were not and that
+is a problem so I tracked it and I
+traced it to a Q on the database to
+search engine itself on my Min search
+instance being overwhelmed there were a
+couple million items in that queue like
+6 million items obviously that kind of
+froze up because even that Quee is
+persisted somewhere and six million of
+database items that contain a lot of
+transcript data just it's way too much
+dis and there was a problem so I really
+didn't know why that happened and
+because I wasn't tracking it before I
+didn't know what the queue looked like a
+couple days before or a month before all
+I could do was to say okay I guess we
+lost empty the queue and in doing that I
+had to repport a significant number of
+items like six million times like 10 or
+it was a lot of items and had I known
+that development had I seen the number
+and been able to see where it was at any
+given point along the way I probably
+could have dealt with this much earlier
+before it became a problem I probably
+would not have run into a situation
+where for more than a day or two data
+wouldn't have been synchronized and this
+experience taught me that I needed to
+track this information external
+information and make it part of the
+logic of my internal application itself
+if you have different kinds of cues and
+your application can only really
+understand one kind of queue its own
+internal queue then if the other
+external que is not available or
+overwhelmed it will still try to send
+data there because it doesn't know so I
+taught the system to see both cues its
+own and the external ones so now I am
+not sending new items to synchronize
+with my search database if it's already
+handling a sizable queue now I'm waiting
+for that Quee to go down and it needs to
+go below a certain threshold for me to
+send more items so it will never be over
+that threshold and this helps me with
+back pressure and overflow prevention
+which I need to build into my system to
+guarantee this interaction between my
+internal system my server and the
+external system the search engine curing
+thing and I think this is very common
+for any distributed architecture you run
+into this problem all the time there is
+something external that has its own
+little mind and you need to make sure
+that it's not overwhelmed before you
+integrate it into your system or before
+you interact with it
+and since we're talking about
+externalities let's talk about the fact
+that sometimes things are just out of
+your control observability is great but
+it's not only about visualization and
+hoping that you find patterns it's about
+literally alerting you and getting you
+out of whatever you're doing if there's
+an actual problem with your business or
+product or one of the vendors that you
+use from any single function inside your
+codebase failing to AWS data centers
+being flooded you need to know anything
+along the way if the ram any of my
+servers that I'm operating is over 80%
+for 5 minutes I want to be informed I
+want to be sent an email and I want to
+be sent an email too if one of my domain
+goes down for a minute or when AWS has
+connectivity issues for certain critical
+issues beyond that email I also want to
+get paged or get a call and this
+alerting system that I've set up around
+these things really recently helped me
+when I was reimporting all of this data
+into my search engine queue I was
+importing so much data again
+overwhelming but that it was
+overwhelming A system that I did not
+expect to be overwhelmed my
+observability system for Horizon right
+the the lateral thing that handles the
+queuing mechanics checks my Local Q my
+application server had a problem because
+it kept succeeded jobs like finished Q
+items around for too long with too much
+data in them the queue was growing
+obviously because I was posting all of
+these items into the queue for it to be
+sent over to my search engine and the
+ram of the system there was growing into
+the 80% range because the que was
+configured to keep old successful jobs
+in the data memory too and when you
+import tens if not hundreds of thousands
+of items at the same time that's a lot
+of stuff to keep in memory even if it
+succeeds so I needed to deal with this
+and I got an email around 10 p.m. I just
+had gone to bed I wasn't asleep yet I
+was on my phone so I saw the email
+quickly got out of bed figured out what
+was going on I made a configuration
+change to get those finished items out
+of memory immediately after they were
+dealt with and then I went back to bed
+had not done this I probably could have
+experienced actual server faults because
+memory again would have been so high
+that my application might have been
+stared for memory and that's when things
+started to break down avoid it because
+of an alerting email so it's it's really
+important to set those but nobody has
+the means to observe all the things all
+the time so make sure you see critical
+errors and make sure you don't see
+non-critical ones that's like my Mantra
+with this I want to see critical stuff
+immediately and anything that is
+non-critical or I can look into tomorrow
+is not allowed to alert me I have to
+check it out it's kind of push and pull
+push for critical pull for non-critical
+and if you lock everything you will
+never look at any of it and if you look
+at nothing you won't be able to track
+things as they are happening so it has
+to be somewhere in between always look
+at how things might scale that's one of
+the the biggest things I can tell you
+anything you built imagine it today with
+the load that you currently have 10
+times that a thousand times dead is it
+potentially problematic might that be an
+issue if so you have to deal with this
+or at least look at it from day one make
+sure you don't overwhelm your system in
+the future by loading too much data a
+pet peeve of mine and be prepared to
+adjust your thresholds for when things
+are too high or too low observability
+isn't just about seeing what's happening
+right now it's about predicting and
+preventing issues before they become
+critical problems for that you need data
+and building a maintaining a complex
+distributed system that's a journey of
+constant learning and adaptation a few
+years from now few months from now I'll
+probably have lots more to say about
+monitoring and alerting that I just
+don't understand yet that will come with
+being exposed to these issues as they
+happen but it's always worth looking
+into today at any scale by implementing
+robust observability practices you are
+not just going to solve today's problems
+but you're setting yourself up for
+success as your system grows and evolves
+so take a look and that's it for today
+thank you for listening to the boep
+founder you can find me on Twitter at
+AIT a Kahl you find my books on my
+Twitter costet to if you want to support
+me in the show please tell everyone you
+know about podan FM and leave a rating
+and a review by going to rate this
+podcast.com please go there right now
+and leave a rating and a review rate
+thisp podcast.com really appreciate it
+it makes a massive difference if you
+show up there because the podcast will
+show up in other people's feeds and
+that's where it should be any of this
+helps the show thank you so much for
+listening have a wonderful day and
+bye-bye

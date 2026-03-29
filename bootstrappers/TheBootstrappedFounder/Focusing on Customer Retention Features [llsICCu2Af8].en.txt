@@ -1,0 +1,137 @@
+﻿Welcome to the Bootstrapped Founder. My name is Arvid Kahl and I talk about bootstrapping,
+entrepreneurship and building in public. Today we'll dive into what features to build for your
+software business and what not to do. Let me quickly thank the sponsor of this episode acquire.com.
+More on that later. Now let's talk features. So I read an article this week about the tyranny of
+the marginal user. That was the name of that particular article and was really interesting.
+The author discussed how large companies focus more on attracting new customers than retaining
+current ones and building features for that. Primarily because of unit economics and the
+internal company politics. It was a fascinating read from the perspective of a Google insider.
+I recommend you reading it. And it talks about products that have massive user bases like OKCupid
+that was given as an example too. And it used to be a pretty complex product that made it possible
+to find very interesting romantic matches and it had a catalog of a lot of questions and all that.
+It was complicated. And over time it devolved into something more like Tinder. A pretty simple
+swiping app that does not create deep connections but is more for hookups and that stuff. And the
+point here was that they had to cater not to the existing users but to their growth metrics. To get
+new people. Things got simple and boring because they built features for the next user. A user with
+less attention and more simplicity expectations. And that made me wonder about indie hackers and
+our small software products that we build. Because we also need to grow but we need to retain customers
+just as much. Maybe even more because their monthly payments keep our businesses afloat.
+So how much complexity do we allow in our products and the features that we build?
+How many customer feature requests do we actually implement? Or should we listen to them at all?
+And it's a difficult choice because we often don't know how customers will respond to new features.
+Primarily our early customers. And our development time is very precious when we're also trying to
+bootstrap a whole business around a product at the same time. We don't have the luxury of being able
+to just build, build, build all the time. There's more. There's marketing and sales and biz dev and whatnot.
+It's indie hacking. It's a lot of things at the same time. And as such a person, as a software
+engineer and business operator, well I have a framework for this and I want to share that with
+you. My personal framework for judging feature requests and improvements in a business. I found
+that the highest chance of feature adoption and customer retention comes from features that align
+with the job that the customer needs to do with the tool. And I mean specifically the jobs to be
+done framework here. That's really excellent for understanding requirements like this.
+A good example for having implemented this in the past is Feedback Panda. The software as a service
+business that I co-founded and then two years later sold in 2019. The job that people had was
+for these online English teachers to create written feedback for parents of the kids they
+were teaching and then submit that feedback to be able to be paid. So features that made this process
+faster or easier were quickly adopted and appreciated and features that did something
+outside that scope were often ignored and complained about. Like we considered integrating
+other systems that they may have used or building communication features between teachers but those
+things were underused or unused at all. The features that we thought about were not critical to the job
+at hand which was creating and submitting feedback. But once we built features for that, we built this
+feedback template sharing feature into the product, its adoption exploded. Understanding the job to be
+done was crucial and we did that research. We got it and then we built features just for that.
+And those features that supported this consistently increased retention and signups too because our
+customers were so happy to refer new teachers away particularly with this feature because it
+was a network effect feature that meant their job would get easier if those new teachers that they
+referred shared their own templates inside our product. It was really a good driver for growth
+and funny enough I think that's precisely why products with millions of users go for the
+marginal user and the marginal features. They need more people to join their networks for the
+network effects to work more effectively. So in a way indie hackers and unicorns like that they are
+pretty much aligned. It's just that as we're hunting for this elusive product market fit,
+our marginal users, the next user to join the business, well they are not these kind of people
+that only want simple UX. Our marginal users are still early adopters who have a higher capacity
+for dealing with complex products. I think for OkCupid in the beginning that was the same deal.
+The people who went there they had a choice between simple dating sites and a more complex thing
+and they were fine with complex. So yeah back to what features to build as an indie hacker and
+let's get away from the whole online dating thing for a second because it's just an example right
+but it shows just where you can end up if you only go for that next user to join your business
+instead of building things to keep people there for the core reasons that they join your customer
+base in the first place. So I noticed two other factors to be really useful for judging the
+criticality of a feature, how important it is to build that at an early stage and that's workflow
+inputs and workflow outputs because every job to be done starts somewhere and has a result that the
+next job needs and I have an example here. When I learned to program the elixir language I was
+mesmerized by just how elegant functional programming can be because every function in
+there takes in data transforms it and then returns data again and elixir program is really just a
+chain of data transformations and once I understood that that coding part got super easy and I think
+in a way that chain of transformation that's exactly what the workflow is. You start with a
+task and you end with a deliverable and in between these two sit many subtasks that each have some
+kind of input and output and one task's output is the input of the next one which means that
+any feature that makes this easier is a strong candidate to be built early. So for inputs just
+look for features that add ways to connect and make connection easier to the things that come
+before and for outputs add new formats that follow up tasks expect or can deal with more easily and
+anything that enriches the outputs in ways that future tasks can use is a good idea too. So if
+you have like a video editor that adds subtitles to short video clips these little you know text
+that's in the video maybe you could also export a variety of subtitle files like srt's or whatever
+these things are called that platforms like youtube prefer to ingest instead of just burning
+the text into the video. I mean you probably want both right you want the platform to know what it
+is about and you want it in the video so this is an output that you can generate that makes a future
+step like telling the platform what the content is about easier. It's essential to focus on features
+that align with the job that your customer needs to do both within your product and the workflow
+outside it. That's something that people seem to forget occasionally that their product exists in
+a workflow that other products are also part of and if you build something that lacks this focus
+well these products go die in the startup graffits every single day they're just great ideas but they
+get abandoned the moment that your prospective customers when they try it out notices that these
+products don't fit into their existing process they will not change their whole process for
+your cool tool you have to fit into theirs but if you support their workflow you can expect
+significantly higher retention and happier customers who are more likely to refer others
+to your product because it works for them it respects their workflow and it speaks to their
+needs and still when they speak be careful with feature requests from your customers when they
+request features make sure that the requests themselves are specific and relevant to the job
+that your tool is meant to solve be cautious about implementing very unspecific requests like oh we
+need more input features or we need more data whatever that might mean only go for specific
+ones or also don't go for features that go beyond the scope of your tool's initial purpose stick to
+your core promise and focus on solving the specific problem that you set out to solve
+and in the future you can always choose to expand your scope of your product your business whatever
+but as an early stage founder just don't let yourself be pressured into building everything
+right away because sometimes customers say they will join if you build a particular feature
+if possible make them commit by paying for a multi-month subscription with the guarantee that
+you build the feature within a reasonable time frame otherwise them telling you that they will
+sign up if you build this that's just an empty promise that will lead to feature bloat in your
+product for a customer who is not even paying and it's okay to say no to potential customers who try
+to pull you towards solving other problems outside the job to be done that you want to solve stay
+focused on your initial goal that's really what a business is about don't pivot too quickly based on
+individual requests if everybody wants that thing it's a good idea to pivot but if there are just a
+couple people among dozens of people who do not request this you know they might not need that
+and you will need that just because someone wants something different doesn't mean you should act
+without purpose it's like being a headless chicken running around aimlessly that's not a way to build
+a purposeful business so let's just make a checklist here when deciding if you should build a feature
+just look at these couple things is it a job to be done that you're currently solving does it fit
+the scope of the problem that you're trying to solve is it part of a workflow and does it improve
+integration into existing processes does it change or simplify input methods or is it enhancing your
+output adding new ways to export results or enrich the data for easier use with other tools
+the more of these criteria your feature fits the more likely is that you should go ahead and build
+it and if not it's probably a good idea to wait and that's it for today i will now briefly talk
+about the sponsor of this episode acquire.com because it also kind of fits we were talking
+about like businesses growing and features here imagine a situation like this you're a founder
+who's built this solid SaaS product you built all the features you needed you've got customers
+and it's generating consistent monthly revenue you have retention which is the dream right the
+problem is you're not growing for whatever reason you keep people but no new people show up lack of
+focus lack of skill or just plain lack of interest or lack of features you just feel stuck what should
+you do well the story that i'd like to hear is that you buckled down reignited the fire got past
+yourself and built the things that needed to be done and you worked on the business not in the
+business you started audience building and marketing move out of your comfort zone to all
+the things that you should do right and six months down the road you tripled your revenue
+reality is not that simple situations are different for every founder here if when you're
+facing this crossroad but too many times the story ends up being one of inaction and stagnation until
+that business that you're building becomes less and less valuable or at worst worthless so if you
+find yourself here or you think your story is likely headed down the similar road i can offer
+you a third option consider selling your business right now on acquire.com because capitalizing on
+the value of your time today is a pretty smart move right there are other things you could do
+acquire.com is free to list and they've helped hundreds of founders already so go to try.acquire.com
+and see for yourself if this is the right option for you today you don't have to do it but it's
+always nice to know where you stand and being able to sell a business well that's great right so
+here we are thank you so much for listening to the Bootstrapped Founder you can find me on twitter at
+@arvidkahl a-r-v-i-d k-a-h-l you find my books my twitter course there too and if you want to support
+me in the show which i would really appreciate because it's just very nice please subscribe to
+my youtube channel get the podcast near a player of choice and maybe leave a rating and a review
+by going to rate this podcast.com/founder or wherever you rate and review your podcast any
+of this will really help the show so thank you so much for listening have a wonderful day and bye bye

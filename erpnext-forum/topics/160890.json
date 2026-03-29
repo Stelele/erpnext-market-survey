@@ -1,0 +1,52 @@
+{
+  "topic_id": 160890,
+  "title": "How to create an asset having no life but having the Residual Value",
+  "slug": "how-to-create-an-asset-having-no-life-but-having-the-residual-value",
+  "category_id": 55,
+  "tags": [
+    "erpnext",
+    "frappe"
+  ],
+  "created_at": "2026-02-18T14:51:02.167Z",
+  "last_posted_at": "2026-02-18T14:51:02.410Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-to-create-an-asset-having-no-life-but-having-the-residual-value/160890",
+  "views": 15,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Saireddy15",
+  "posts": [
+    {
+      "id": 494593,
+      "username": "Saireddy15",
+      "name": "Sai Anandh Kumar Reddy",
+      "created_at": "2026-02-18T14:51:02.410Z",
+      "cooked": "<p>We are having few assets where we need to capture them like the assets life has completed and where there is a residual value. On these type of scenarios how to capture them. For the assets which are having life we can enter the residual value in the depreciation schedule tab which is having a field for Value after life of %.</p>\n<p>Can any one assist in this issue for us?</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/s/838e76/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 5,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

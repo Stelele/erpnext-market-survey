@@ -1,0 +1,388 @@
+﻿Hey, it's Arvid and this is the
+bootstrap founder.
+[Music]
+Today we will talk about how AI systems
+and particularly the ones that do all
+the work for us can both massively
+amplify and hinder our effectiveness at
+the things that we want to do. This
+episode is sponsored by paddle.com, my
+merchantofrecord payment provider of
+choice. And they've been helping me
+focus on Potscan from day one. That's my
+own business. They're taking care of all
+the things that are related to money so
+that founders like you and me can focus
+on building the things that only we can
+build. Paddle then handles the rest.
+Sales tax, credit cards failing, all of
+that. I highly recommend it. So, please
+check out paddle.com.
+[Music]
+Now, picture this. An engineer gets
+called to fix a massive industrial
+machine that's been down for hours and
+that costs a company thousands. They
+walk in. They look around for maybe 2
+minutes. They pick up a hammer and give
+one precise tap on a specific component.
+Machine wars back to life. The bill
+$10,000. The company obviously is
+outraged. Well, all you did was hit it
+once with a hammer. How can you charge
+$10,000 for that? And then the engineer
+calmly explains, "Well, the hammer tap
+was $5, but knowing exactly where to
+hit, that's the other $9,995."
+That's a pretty common story that is
+often told in the industry about
+expertise. And this story perfectly
+captures what I want to talk about
+today. The nature of expertise and a
+growing concern that I have about how AI
+tools might actually be fundamentally
+changing our ability to develop it. I
+recently read an article that got me
+thinking about one of AI's most
+celebrated features, its ability to
+remove friction from processes that used
+to be quite difficult. And I think this
+sounds wonderful, right? Who doesn't
+want things to be easier, to be
+frictionless? But here's the thing
+that's been nagging at me. What if this
+removal of friction also removes our
+capacity for expertise? Think about what
+happens when we use an AI system,
+particularly the kind of sophisticated
+agentic ones that we use for coding and
+all of that to do all this work for us.
+The abstraction of planning, the
+individual execution of steps, the
+verification of those steps, and the
+adaptive behavior to overcome problems
+and regressions that happen in between.
+All of this gets kind of taken away from
+us. It gets abstracted away. And this
+makes me wonder, can expertise actually
+still be formed without friction like
+this at all? Is not friction a necessary
+requirement for expertise? Or are there
+maybe ways to become an expert even when
+the struggle of understanding the nuance
+and running into problems over and over
+again is missing? When it comes to
+software development, to
+entrepreneurship, being a founder,
+there's so much in that process, that
+lifestyle that requires very intense
+dealing with setbacks and failures and
+mistakes and errors all the time. Like
+if you ever tried building anything
+meaningful, anything new, you will have
+run into this. And if we have tooling
+and automations that take every single
+pain point and every single point of
+friction away from us, what happens to
+our development and our capacity to deal
+with this? My assumption is that we
+either become much slower at developing
+skills that are similar to the tools
+that we're using or we're prevented
+completely from building the repertoire
+of understanding and the kind of
+behavior that we would call expertise or
+professional experience.
+And in the absence of that expertise, we
+might not be good founders or good
+entrepreneurs or good developers. We
+might not even be able to get there
+anymore. I came across a phrase
+recently. Not sure who said it
+originally, might have been me thinking
+out loud, but might have found it on
+Twitter, but it goes, "With AI, people
+who are already good at a thing get
+better. And people who are not yet very
+good at that thing get worse. The good
+get better, the bad get worse." And the
+core of this statement lies in how we
+work through friction. Through working
+through criticism or experimentation or
+failing and trying many other ways,
+reading about other people's
+experiences, trying to integrate them
+into our own and failing at that too,
+then finding our own way to integrate
+other people's experience. That's how we
+learn, right? That's how we build this
+kind of knowledge of deep understanding
+of a thing and how to deal with it. And
+it is through all of this friction that
+we build the muscle of execution. We
+build the muscle of comprehension that
+allows us to develop judgment and
+discernment and a capacity to understand
+good from bad, to have taste, to
+understand this is good and this is bad.
+You can't really innately understand
+things like this. You have to try to
+figure out how they work to see, okay,
+this is well done or see something that
+looks shiny but isn't. Look into the the
+details of it and see, oh, this is all
+just clobbered together. this doesn't
+look nice. I don't want this. I don't
+want to build things like this. And most
+of the time when we think about an
+expert, we think of someone capable of
+executing a certain task in a particular
+field to some kind of standard of
+excellence, right? Somebody who's good
+at doing stuff. But I think that's too
+narrow a definition because an expert is
+a person who's developed taste. A person
+who has the capacity to judge tasteful
+from tasteless, to see good from bad, to
+see the beautiful in things and see when
+they are lacking beauty. And these
+aren't things that are innate to us. An
+expert has developed taste in the
+industry for a long time because they've
+been working in it. And they've
+developed the capacity for discernment
+because they had to discern a lot of
+things and can very quickly apply that
+taste discernment judgment to any new
+situation, even ones that they haven't
+figured out yet because they can
+extrapolate because they have so much
+repertoire. And going back to our
+engineer story from the beginning, I
+think that's exactly what expertise
+looks like. It's knowing what works,
+knowing what doesn't work, what won't
+work, and being able to almost
+immediately discard the many ways that
+don't work and you know that won't so
+that the number of ways that do work in
+whatever options you have left is high.
+That's discernment. And that's the
+capacity to make a judgment call. Let me
+give you a personal example here. I've
+been a developer for 20 years at this
+point and I've seen some inkling along
+the way of what good code might look
+like and I know how a seasoned software
+developer would approach solving a
+problem. So when I prompt an AI system,
+I don't tell it to build me this or
+build me that. I give it a very scoped
+definition of what I want the same way
+that I as a developer would want the
+definition to be told to me by my boss
+or by somebody whose project I'm
+building. I tell the system, the AI,
+this is the application this feature is
+in. This is the kind of customer it's
+for. This is the data it will work on
+and here are the things that it will
+need to interface with. Here's the
+input. Here are the outputs that I
+expect. Here's probably how I would
+build this. And here are the steps that
+I would think about. Couple edge cases
+to consider as well. I have a lot of
+understanding of my existing code bases
+and how new code is written. So in my
+prompt, I give all of this information
+to the AI system. I don't tell it to
+write me a game where wizards fight
+monsters or anything like this. I would
+tell it to build me a rog like
+sidescroller that uses sprites from the
+certain sprite database and has a level
+design that is specific to this. And
+then I would tell it every single detail
+extensively because I would already have
+built this up in my mind. I have the
+phrasing, the understanding and the
+capacity of knowing what another
+developer would need to build this too.
+That's how I use this tool, just as if I
+were to outsource this work and
+externalize it to another developer. But
+just in this case, it's a machine. And
+this makes me faster because I can do
+this in parallel with many different
+systems. I can spend 5 minutes scoping
+and then I wait 10 minutes for a result
+versus 5 minutes scoping for myself and
+then implementing it for 30 minutes. The
+machine writes code much quicker than I
+do. And the better my definition is, my
+scope is, the more realistic the result,
+right? the better the actual outcome.
+And even if there are errors, it's
+quicker to look and find the bug, the
+problematic line, and then fix it
+myself. But here's the crucial part.
+Once I look at the code that comes out,
+I personally can discern if that looks
+like code that I would have written. I
+can judge its quality. And I get to
+benefit from this AI system in a way
+that somebody who wouldn't know what
+good code looks like or if that code
+would even work, they could not benefit
+from it the same way. And I've recently
+talked to a customer who's not technical
+at all, but they've been trying to build
+applications using Lovable, this AI tool
+which you can prompt your way to a fully
+capable application in. It's really
+nice. Now, I've used Lovable before. If
+you look at the Podscan homepage,
+podscan.fm, FM you will see what a day
+or so of hacking around the lovable can
+produce. There is a world map that shows
+whenever new episodes come out and where
+they have come out and it shows the
+thumbnail and the world rotates is
+really cool. I think podscape.fm
+is the actual landing page. I just pull
+it into my pods homepage. It's really
+cool what you can build by just coding
+away there through prompting. Like I
+didn't write a single line of code. All
+of this was just me telling it what to
+build. But this person, my customer, has
+been trying to integrate the exact same
+API that I've been using for this Pscape
+tool into their own lovable application.
+And they've been struggling. Whenever
+new data comes in that doesn't perfectly
+adhere to the format that they have
+prompted into the system, it fails. And
+they've spent hundreds of thousands of
+tokens trying to get it to work by just
+telling it to try it differently. But
+they didn't know what the code should
+look like or what the data might be
+structured as. They were just hoping to
+get it right. That's a waste of time and
+money. It's somebody who would have
+likely not spent two days trying to
+figure this out and it made them spend
+more money and it made their life
+objectively worse. This AI tool isn't
+useful for them because it doesn't get
+them the results they need because they
+don't know how exactly to get to that
+result. I could probably help and prompt
+that tool out of the abyss back into a
+functioning system, but the tool itself
+isn't the magical component here. In all
+things AI, the magical component is the
+person capable of prompting it
+effectively. So if AI systems make good
+people better and bad people worse at
+coding, at writing, at creating art,
+creating insights, basically creating
+anything, what should we do? Honestly, I
+wouldn't want to learn how to code today
+by just using VIP coding or
+promptcentric software development tools
+at all. I would definitely want to learn
+to code using AI having somebody help me
+build things a tool that can help me
+build them with me maybe but not
+building them for me because if I don't
+know how a thing is built how can I
+judge the quality of the building if I
+don't know how this code came to be what
+the alternatives would have been how can
+I say that this is the optimal choice or
+that this choice has a good reason
+behind it if that's just taken away from
+me abstracted away I will never
+understand it and this is something that
+we need to be really careful with when
+we attempt mastery at anything now.
+Outsourcing the act of struggling
+through our first and even later
+experiments in that field is not okay.
+We need to struggle through this. We
+need to have friction. We need to fail a
+little bit every now and then to develop
+the capacity to overcome challenges, new
+ones and old ones to understand why
+things work one way and don't work
+another way and to build the taste
+that's required to discern a good thing
+from a bad thing through criticism. I
+think that's important too. Like
+somebody telling you this is not good.
+That's okay too. You have to learn from
+this. You quick say then understand well
+what do you think good looks like and
+why is this not? How you experiment how
+you fail and try many other ways.
+Reading about people's experiences and
+pulling them in. We built a muscle of
+comprehension. And this muscle allows us
+to build judgment discernment and the
+capacity to understand good from bad.
+It's what separates someone who can
+execute a task from someone who has true
+expertise. So whenever you think about
+outsourcing something to AI, a whole
+process, think about the fact that that
+very act might make it harder for you to
+do the actual thing yourself in the
+first place, doesn't mean we should
+avoid AI tools. They're super powerful,
+make us way more productive, but we need
+to be intentional about how we use them.
+Use AI as a collaborator, a pair
+programmer, or somebody who helps you,
+but not a replacement for your thinking
+and struggle because you have to let it
+handle the tedious parts. And you still
+need to maintain involvement in the
+conceptual and creative aspects of
+anything you do. You have to keep enough
+friction in your process to continue
+building your expertise muscle because
+at the end of the day, the most valuable
+thing that you can develop isn't just
+the ability to get AI to do things for
+you to delegate. It's the judgment to
+know whether what it produced is any
+good. The hammer tap, that's the easy
+part, but knowing where to hit, that's
+the expertise that no amount of
+automation can replace. And that's what
+I've been thinking a lot about lately. I
+would love to hear your thoughts on
+this. Are you finding that AI tools are
+making you better at what you do? Is my
+perspective wrong here? Do you actually
+grow or are they creating this
+dependency that might be limiting your
+growth? And that's it for today. Thanks
+so much for listening to the founder.
+You can find me on Twitter at avid kal a
+khl. If you want to support me in this
+show, please share Potscan with your
+professional peers and those who you
+think will benefit from tracking
+mentions of brands, businesses, and
+names on podcasts out there. We are a
+near realtime database with a really
+good API. So, please share the word with
+those who need to stay on top of the
+podcast ecosystem programmatically.
+Thank you so much for listening. Have a
+wonderful day and bye-bye.
+[Music]

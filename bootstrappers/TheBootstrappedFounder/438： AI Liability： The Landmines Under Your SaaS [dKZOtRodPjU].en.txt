@@ -1,0 +1,706 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+A couple things happened this week that
+brought into sharp focus just how
+naively we interact with agentic systems
+to the point where we do get surprised
+by the consequences of using them. So,
+Enthropic made it very clear in their
+terms and conditions recently that their
+max plan, the $200 plan and all the
+others meant to work with tools like
+cloud code, the cloud web app and the
+desktop app, it cannot be used to run
+agentic systems like open claw. They
+said no to this. They made it very clear
+that that's not allowed. And even tools
+like Open Code, which is just another
+harness for cloud code, well, they're
+having trouble allowing cloud code to be
+called in its operational loop. They're
+taking it out of the repository because,
+well, Entropic doesn't like it. And then
+Google started banning people for using
+OpenClaw to connect to Gmail recently.
+Their developer system also flat out
+stated that using their API for agentic
+harnesses is not allowed either. Wow.
+Right. two of the bigger players in the
+space are acting quite differently from
+what OpenAI is doing or seemingly
+allowing or fostering even and they are
+shutting things down. And I believe it
+has almost nothing to do with the actual
+token usage. Now, keep in mind that most
+of these businesses still are kind of
+subsidizing tokens anyway, right? So,
+there is that angle that you pay $200,
+but it's kind of costing them 2,000 or I
+think I I heard yesterday that it's
+getting more and more expensive with the
+bigger models. So, your 200 pays for 200
+out of 5,000 that somebody else has to
+pay. But I don't think that's the actual
+angle, right? That's why they're raising
+it like a series K at $4.5 trillion or
+whatever the numbers are right now. It's
+quite ridiculous. I believe that Google
+and Enthropic are closing this down
+because they don't want to be the first
+AI provider that through either
+negligence or lack of control or lack of
+feedback loops is responsible for the
+first human being to be seriously harmed
+or killed by agentic AI actions. They
+want their own teams to be responsible
+for safety to make sure that things
+can't go wrong. Because if somebody else
+were to facilitate a disaster, some
+agentic system, it's ultimately still
+their model making the call and then
+taking the action. And that made me
+think about liability, not just theirs,
+but ours. What should we as founders, as
+software developers, as operators of
+software businesses? What should we be
+thinking about when it comes to
+integrating AI and agent systems into
+our products?
+I think of AI liability like a landmine
+field. Each risk is kind of a mine
+buried just beneath the surface
+somewhere and you don't know exactly
+where they all are. You can't always see
+them. And if one goes off, it's
+catastrophic.
+The goal isn't just to walk carefully
+here. It's to prevent them from being
+laid in the ground in the first place.
+It's kind of the metaphorical approach
+that I'm trying to implement in my own
+life. And these minds exist on multiple
+fronts. So, let's walk you through them.
+I know that's a terrible phrase for a
+minefield, but let's step around the
+minds to see where they are, right?
+Let's start with the most obvious one.
+Customerf facing AI. Having some kind of
+customer service chatbot. It sounds like
+a great idea, and it kind of is in many
+ways, but it's already quite the risk.
+You don't really know what it's going to
+do. You don't know if it's going to
+solve a customer's problem in the way
+that actually benefits them. That's the
+ideal happy case. Or if it's going to
+offer some solution to a problem that
+itself envisions that doesn't match
+reality, so you are left with a confused
+customer or worse, well, could it be
+detrimental? If you give it enough
+capability and capacity, could it delete
+data that a real customer service agent
+could never delete or would never
+delete? And these are questions you have
+to think about right now because these
+tools aren't just pulling information
+from articles anymore, right? That used
+to be the first step that you have like
+a chatbot and it pulled in like
+knowledgebased articles. Well, no. A lot
+of customer service tools allow MCP
+integrations with the actual product.
+Now on PodScan, for example, if somebody
+asked me, hey, I want to create an alert
+that tracks these couple keywords. Can
+you just do it for me? Well, as a human
+customer service operator, I'd say,
+really, can't you do it yourself? Here's
+the page. or sure I'm I'm going to do it
+for you carefully, but for an AI system
+that has access to the POTSCAN MCP,
+which I do offer. Well, sure, we can
+just create it for you. We know your
+team ID, your user ID, your plan, we can
+do this, and then it would do it. But
+what if the user says, "Hey, delete all
+my content like jokingly or it gets
+interpreted, right? It says something
+that could be misconstrued like archive
+all of my mentions." And the chatbot
+misinterprets that as well, delete them.
+We don't have an archive function. We
+have a delete function. All of a sudden,
+data your customer put into your
+platform for safekeeping is potentially
+destroyed. And all of it was done by an
+LLM. That is problematic. And then
+there's inapp agentic tech, right? Not
+just customer service, but actual
+product features like enter any text
+here and we'll try to make it happen.
+I've seen a lot of products that use the
+old control key or command key depending
+on the operating system that you're on
+to pull up this kind of global search
+feature. That was in the past what this
+was usually used for. Now it's the
+global do whatever you want just enter
+it here feature and then an agentic
+system takes over in the background.
+That is interesting right? Because what
+stops the customer from turning that
+into a conversation about their love
+life or about how to build something
+dangerous and this is a real nightmare
+trying to convince your agent that
+they're a different customer and then
+loading somebody else's data. If you're
+not protecting that well enough, you
+have a privacy nightmare, a scope
+nightmare, and you're paying for the
+tokens that create these answers, too.
+So, who's responsible here? There's a
+mental model that I think works best at
+this moment right now. Treat your AI
+features the way you would treat an
+employee. If you have a customer chatbot
+and it causes damage, it's not the
+chatbot company that is responsible,
+even though they should be, but it's
+you. You expose that chatbot as a
+worker, a virtual employee of your
+company. If somebody gets damaged by
+your company, even through a third-party
+tool like this, they will seek legal
+recourse against you and your business,
+not the tool you were using. And even if
+you can point to somebody else, it's
+going to be a pass through situation.
+Liability ultimately lands on your desk
+and you have to deal with it. And here's
+the part that should make you
+uncomfortable. Even though there's
+insurance for employee activity, right,
+there likely is not insurance for AI
+activity, not yet and not cheap. Your
+business insurance might not cover this
+at all. Which means the moment you turn
+on an AI powered feature in your
+business, in your product, you might be
+running an uninsured operation. Now, you
+might think, well, I'll just add a
+disclaimer to my terms of service, shift
+the liability to the user, and yes, you
+should do this for these features. But
+here's the tension. The moment an
+enterprise customer's legal department
+reads that clause, it's going to be the
+reddest flag they've ever seen. So we're
+looking at either you try to shed the
+liability but lose customers or you eat
+liability and you open yourself to
+completely uninsured operation really
+damned if you do damn if you don't
+situation here. So does this mean all AI
+integration is equally risky? No. I
+think it's really about consent. As long
+as there's a moment of consent and that
+consent is revocable any action that an
+AI does is defensible. It's about that
+moment of confirmation and more
+importantly about taking that
+confirmation into an audit trail. We
+have auditing systems in SAS. These
+things exist for every single platform
+out there. But what's usually tracked is
+the change itself and the change of the
+model, which model it is, which user ID
+has issued it. The actual exeutor of
+that change is typically not tracked
+because it's presumed to be the user.
+User clicks on stuff, something changes.
+Well, guess it's the user. But if an AI
+system working with that user's
+credentials does something, well, we
+should audit that too. So, auditing gets
+a new dimension here. And this also
+means we should very clearly communicate
+that any feature with an AI in it has
+this that it is AI originating or AI
+used or AI facilitated. I don't think
+there's a best practice for this yet
+other than maybe the little sparkle icon
+next to a feature saying AI powered, but
+we should do this more and more and we
+should label clearly. So then our terms
+of service can reference those labels.
+People who are cautious about AI in
+their workflows will see the labels and
+make their own informed decisions and
+maybe use the other path to get to the
+data that they want. That's the
+responsible approach here. So here's
+another one that a lot of founders
+aren't thinking about yet. What happens
+when it's not your AI that causes the
+problem, but it's your customer's AI
+interacting with your product? MCP,
+that's kind of the key term, right?
+People are connecting these MCP servers
+and their agentic tools to everything
+right now. Zapier, web hooks, chat, GPT,
+they're all kind of intermixed and
+everything is pulling data from each
+other and pushing data to each other.
+So, what if somebody points an
+autonomous agent at your API and that
+agent by its own internal design hammers
+your endpoints and scrapes data it
+shouldn't access or exploit some edge
+case your API wasn't designed for.
+That's not you deploying AI. That's kind
+of your customer deploying AI against
+your platform unintentionally, but it
+happens. And I think you need to treat
+this like you would any other attack
+surface on your system because it's
+effectively negligence due to lack of
+intelligence on the side of the AI and
+well maybe on the side of the user as
+well. Don't want to go that far. An
+agent that isn't smart enough, one that
+just does what it thinks is right, will
+hammer your server, delete data, and
+connect to far more than it should
+because it can. It's probably not going
+to be a malicious AI that aggresses
+against your service. It's just going to
+be one that's thinking what it does is
+right, but it's the completely wrong
+operation, the completely wrong
+approach. If you use any agentic coding
+tools, you will know this, right?
+Sometimes even I had this yesterday. I
+was building something in the payment
+section. I was trying to build another
+kind of tool into my overall payment
+stack that facilitated a feature that
+the current system that I have didn't
+yet have. And I threw the documentation
+at my agentic system. I gave it insight
+into what I was trying to do, really
+clearly explain it. I even asked it to
+research on the web how other people do
+this and then I saw it reason its way
+through a thing where I was like no
+you're missing the the focal point of
+the documentation that you should be
+reading. So I stopped it. I gave it the
+exact URL of the doc that I think it
+should be using. It read it and it
+figured it out. Ultimately it used that
+part and implemented exactly what I
+needed because it got some kind of
+guidance as to what the right way is out
+of all the potential ways it could have
+solved the problem. Right? The first
+approach wasn't wrong that it tried to
+implement. It was just not optimal and
+it didn't know because it didn't really
+understand the system as well as I do.
+Again, it's agentic engineering. It's
+not AI writing code, right? It still
+needs the engineer. We're trying to
+think about security in terms of bad
+actors, but this is about dumb actors
+with admin credentials. There was a
+story just a couple days ago about some
+agentic system. I think it was claude
+code yet again destroying a production
+system by using a Terraform command that
+the user whose production system got
+destroyed ultimately verified and let it
+run. So there was a human in the loop.
+They just thought it was doing something
+else. And giving these tools permission
+to change big systems is still
+problematic. We're not there yet. This
+will take another couple years until not
+only do we have smart enough models that
+would never do such an operation, which
+is questionable because even people
+would do this sometimes. But until we
+have the tools that watch our tools, the
+guardians for these tools that make
+absolutely sure that any action taken is
+a sane one, is something beneficial, not
+something destructive. So giving admin
+credentials, giving push credentials,
+giving destructive credentials to an
+agentic system is problematic. Don't
+give them that. On top of that, rate
+limit everything in your application.
+Every path that is touched by an API,
+MCP, REST, web endpoints, anything needs
+rate limiting. Consider soft deletes
+instead of actual data deletion. have
+monitoring in place and use something
+like Cloudflare's JavaScript challenge
+logic to prevent larger automated
+attacks. Also something that happened to
+me just a couple days ago. I had a
+massive influx of people trying to
+scrape my public pages of course, right?
+It's podcast information. People are
+interested in that. But their servers
+just all of a sudden spun up 10 times
+the capacity that they used before.
+Before it was manageable, but now it
+wasn't. So I pretty much turned on
+Cloudflare's managed challenged for all
+of these individual connections there
+that came from a particular location and
+that immediately reduced these attacks.
+And again, they're not necessarily
+attacks. They're just somebody's weird
+AI system trying to get more data than
+it should. You have to really make sure
+that you're protected against it as if
+it was an attack. So test your
+permissions exhaustively because a
+confused agent, they will iterate over
+your endpoints. They're looking for the
+one that doesn't require authentication
+because they can, right? They can run a
+thousand requests. A person would
+struggle. They would have to type
+everything out. An agent can do this in
+like 2 minutes. Problematic, but the
+reality we're facing right now. And the
+legally liable part, well, that's the
+user whose account credentials are being
+used on your service. But I guess that's
+called comfort if your data is already
+gone because the agent deleted it. So
+protect your system. It's not just
+customerf facing either. If your own
+development tools have these technology
+systems, they're using it internally.
+They carry risk too. And I experienced
+this firsthand very early on when I
+started using cloud code. It tried to
+connect to my production MySQL database.
+Unfortunately, the values in my
+production. file were outdated. But I
+saw it attempt a connection and it
+freaked me out. In a gentic system that
+has no understanding of the intricacies
+of a production system, production
+database combined with the capacity and
+capability of running any query as an
+administrator. That is an incredible
+just liability risk. It's a massive risk
+for the system. There used to be a time
+when you could at least as a small
+founder reliably have your development
+configuration, your testing config, your
+maybe staging, maybe your production
+settings all in. and files right there
+in your IDE because nobody else would
+see it. And you could be pretty sure
+that your local tooling would always
+just use your testing or development
+files. But now if you say, "Hey, check
+in the product if this feature is still
+working." It might connect to the real
+product because it disambiguated it as
+yeah, he probably wants production. It
+might confuse your development system
+with your production system. And if
+you're locked into both with an admin
+account, it can happen that it tries to
+test a feature on production messes up
+customer data. That is problematic too
+because if you have cloud code and it
+has the d-chrome flag, it can open
+Chrome for you. If you are logged into
+your production system with using
+Chrome, right, in your Chrome browser,
+it will potentially open this in the
+background and do stuff in your admin
+account. You better prevent that by not
+giving it permission to open your
+production website in that particular
+Chrome extension that cloud code ships
+with. That's also something that has
+happened to me. highly recommend turning
+it off and only turning it on if you
+actually are sitting in front of the
+system looking at what it does. If my
+agentic system had decided to run a
+migration test back then when I was
+trying to connect to the production and
+confused my development database with my
+production database, I could have seen a
+full wipe of everything. several
+terabytes of customer data of podcast
+data that I painfully sourced and my
+backup solution at that point would have
+taken like half a day to restore because
+it's a massive amount of data and it
+gets worse. I once told cloud code it
+was not allowed to run PHP artisan
+migrate which in narl is how you run
+database migrations rollbacks wipes
+right to prevent that from doing this.
+So what did it do? it wrote a bash
+script which it was allowed to do and
+inside that script it invoked the exact
+same command that I had forbidden. It
+knew that it wasn't allowed to run the
+command. So instead of asking me what
+else to do, it made an effort to
+circumvent my permissions. So as Arthur
+Weasley says in Harry Potter, don't
+trust a thing if you don't know where it
+keeps its brain. And I feel the same way
+about agentic systems. You just don't
+know what it will do next. So for local
+development, never run without
+permissions. I think never use the
+dangerously skip permissions flag even
+though it makes it easier to go step
+away and do whatever you want and you'll
+be interrupted less if you use it. But
+it's better to babysit the agent a
+little here because you need to
+understand what it's doing. Sandbox
+everything you can. You can run cloud
+code inside a Docker container. You can
+even use just the regular sandbox
+command inside of cloud code which will
+help you quite a bit and have a solid
+backup strategy for any system that an
+agentic tool touches. Right? If it
+touches the database, have a snapshot,
+save it somewhere else. If it touches
+your file system, have a full disk
+backup. And if it touches an email
+inbox, have a full export of the data as
+well. There's another kind of liability,
+right? I'm just going through a thousand
+different kinds of liability here, but
+maybe one that isn't like about
+legality, but it's just as dangerous,
+and that's platform risk. Google banned
+people's accounts for connecting to
+Gmail through protocol that they didn't
+sanction using like Open Claw, and all
+of a sudden, their digital identity
+became inaccessible. Imagine you have a
+Google account for like 20 years now,
+and they just say, "Nope, you're banned.
+You can never use this again." all the
+400 services that you're logged in with
+that you only have access through this
+email to they're gone. you effectively
+become a digital homeless person in in
+that sense. You have no central hub from
+which to orchestrate things and
+Anthropic is tightening what you can do
+with the API as well as a bootstrap
+founder building on top of these models
+and these providers or if they just
+can't change the rules that your feature
+dies all of a sudden your business dies
+your customers are affected you have
+zero recourse and some of these
+landmines aren't ones that we lay as
+founders even though you know
+incompetence does do that but the
+providers are laying them under our feet
+while we're walking and not telling us
+about it. So I generally consider any AI
+implementation that I have in my system
+to require by default an abstraction
+layer where provider swapping can be
+done with a configuration toggle. Right?
+Any feature should be provider agnostic
+because of the standards that exists in
+the field that have been set to how to
+interact with LLMs. I think it's quite
+easy to be going agnostic and I highly
+recommend it. You can run your own LLMs
+if you want to. They may not be as
+powerful, but it's an option. It's the
+powerful ones that give you the
+operational advantage right now. So
+maybe running your own not the best
+idea. Just abstract and be ready to swap
+and test it, right? See if you can do
+the same thing with OpenAI that you did
+with your cloud API or see if you can
+have a a Grock in there somewhere. Like
+there are many different ways to do
+this. the the difference will sometimes
+be in the details of the prompt a little
+bit but you can assume that most of the
+frontier models will deal with the same
+prompt very similarly unless you have it
+kind of a conversational structure to it
+might be different but anything that has
+to do with data it's going to be quite
+reliable so if you can do only three
+things before you ship an AI feature
+here they are first rate limit
+everything assume anything with an
+endpoint will get hammered by customers
+by their agents by their stupid agents
+by bad actors, confused bots, anybody.
+20 requests per minute. That's kind of
+my baseline for every endpoint. That
+means every 3 seconds I have to deal
+with something. And if you need more for
+specific routes, add capacity there.
+Like obviously that can always be done,
+but everything gets a limit by default.
+And second, label your AI features
+clearly and put it in your terms of
+service. Make it explicit that if a user
+is interacting with an AI agent or
+energetic systems are deployed on their
+behalf, liability rests with them.
+Having something prepared for legal
+review is already a strong signal,
+right? Having it in your terms. It's not
+necessarily a go-to market advantage,
+but something that people will notice if
+they're looking for it and they will
+notice if they can't find it either.
+Third, have restore ready backups for
+everything an agent touches, right?
+Local development environment. It's
+probably I should tell you that that
+this is not about production. This is
+about your local dev environment. Have
+the means to create your dev environment
+over and over because for some reason if
+you have a lot of data and you didn't
+save it as a backup, it might just be
+gone cuz somebody decides, yeah, this
+migration looks weird. Let's just do
+everything from scratch. Cloud code is
+weird that way sometimes. Your
+production system obviously should also
+be back up to your production database.
+Everything that uh is touched there.
+This has always been good practice, but
+it's urgent now because agentic tools
+can delete and remove things way faster
+than any human ever could. And people
+are pretty fast at making stupid
+mistakes. But AI systems can make these
+mistakes 10 mistakes per second. That's
+quite substantial. So despite all the
+precautions, something will eventually
+go sideways with all of this. And when
+it does, you need a kill switch in your
+application. Not just for individual AI
+features, but for all AI features across
+your system. I have this in place a pod
+scan. If something happens, if something
+leaks, I've make my um yeah, I don't
+know what it might be because obviously
+if it if I knew, I would have prevented
+it. But if something happens, I can turn
+off every connection to an LLM
+throughout the whole system with a flip
+of a switch. And that's also my
+safeguard against token draining attacks
+where people are kind of trying to get
+past the kind of limitations that I have
+in place and use my AI as their AI. For
+customer communication, when something
+goes wrong, I recommend being very
+specific and reach out to individual
+customers. I wouldn't do blanket public
+announcements. The legal landscape
+around this is still forming and broad
+statements might trip you up later. Got
+to be careful here. So, clear it up
+directly. Apologize for store data if
+you can and refund subscriptions if
+needed. Don't necessarily point out the
+AI. Again, it's a tool. Just fix the
+problem and kind of own up to it. And
+here's where I want to bring it all
+together because this connects to what I
+talked about in the last episode of the
+podcast. The founders who treat AI as
+the product will constantly be chasing
+liability problems because they're
+exposed on every surface. But the
+founders who treat AI as tools, as
+infrastructure, a tool that helps them
+collect, refine, and serve unique data
+have a much smaller and much more
+manageable risk surface here. The
+competitive mode for a business right
+now is not the use of AI. It's human
+originating highquality, highfidelity
+data that other systems can't replicate,
+even if they implement the exact same
+features and are built by the same
+agentic systems. The trick is not to
+make AI the thing that's competitive,
+but to leverage AI to find the thing
+that makes your business competitive,
+unique data, accessible, and
+trustworthy. We are still flat in the
+innovation phase of this technology,
+right? We're still innovating quite
+substantially. It improves and changes
+every single week. As much as I caution
+against unreflected use, as much as I
+caution against overly optimistic use of
+these tools, I still suggest using them
+in significant parts of product
+development and operations because
+they're powerful. It's a weird new
+balance to strike, but it's a balance we
+have to at least be aware of. So protect
+yourself, label things, back things up,
+have a kill switch, abstract your
+providers, and build your mode out of
+data, not models. And that's it for
+today. Thank you so much for listening
+to the boots of founder. You can find me
+on Twitter at akcon v khl. And you know,
+speaking of liability and monitoring, if
+this episode made you think about how
+conversations happening in podcasts
+right now might contain critical
+intelligence about your brand or your
+competitors or even your next venture,
+that's exactly the problem that I'm
+solving with Potcan. We monitor over 4.5
+million podcasts in real time and we
+alert you when anybody influencers,
+customers, competitors mention you. Turn
+this unstructured podcast chatter into
+competitive intelligence. You can use it
+for PR opportunities, customer insights.
+We have a great API. And if you're a
+founder searching for your next venture,
+you can discover already validated
+problems straight from the market at
+ideas.podscan.fm with them where we
+identify startup opportunities from
+hundreds of hours of expert discussions
+daily so you can build what people are
+already asking for. Please share this
+with anybody who needs to turn
+conversations into competitive
+advantages. Thanks so much for
+listening. Have a wonderful day and bye.

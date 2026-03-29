@@ -1,0 +1,872 @@
+﻿And we are live. Welcome to this fun
+live stream from Microcom, Tiny Seed
+about how will the Silicon Valley Bank
+collapse collapse affect startups. I'm
+Rob Walling, co-founder of Microcom and
+Tiny Seed, host of your favorite podcast
+about startups called Startup for the
+Rest of Us. And this gentleman joining
+me from Austin, Texas, South by
+Southwest, is Anar Vulset. Anar, intro
+yourself.
+Yes, my name is Anar Volset. I am a
+partner and co-founder of Tiny Seed
+and we received over the weekend since
+Friday I've received a lot of outreach
+uh asking our opinions on um you know to
+be honest before yesterday afternoon
+when essentially you know it was
+announced that depositors would be made
+whole um as needed by the Federal
+Reserve we got a lot of questions about
+how what should I do next you know how
+should I react I think the conversation
+today is both It's different than it
+would have been yet 24 hours ago before
+that happened, right? But it's also um
+there's still a lot of questions. We're
+gonna talk a little bit about what
+happened. I think most people probably
+know that, so we'll skip through it. Um
+talk about maybe a little bit of our own
+experience dealing with it and and then
+talk about uh you know, looking ahead
+like
+you know talk about there's a lot of
+conversation around was it a bailout or
+not as well as advice and actions to
+take moving forward to kind of ensure
+your financial safety. Y
+I think the one question that we had in
+the outline is like why are we uniquely
+suited to talk about this? What do you
+think Anar?
+Oh just because a ton of our money
+was stuck in the SVB and we were
+panicking maybe. So so we dug into
+specifically what and we saw like you
+know we're connected to I mean obviously
+like a lot of this was tied to VCs and
+you know we are VCs and
+we saw a lot of the behind the scenes
+machinations going down uh over the
+weekend and last week. Um so yeah so we
+we sort of lived it. We definitely had
+funds above 250, you know, per EIN in
+SVB and and we we over the weekend there
+was a lot of panic about, you know, what
+does this mean? What do we do now? Uh
+what are the contingency plans, you
+know, and and and partly like why did
+this happen,
+right? And it's interesting when you,
+you know, if I didn't have money on the
+line, it just when you have money on the
+line, it makes you really dig into
+things and learn about them and follow
+it closely and really get into the
+details, you know. for sure.
+So, obviously, you know, disclaimer,
+this is not financial or legal advice at
+all. It's just two people talking on the
+internet about some stuff that we
+two opinionated dudes. Yeah.
+Yeah. Exactly. Um, if you have
+questions, we already have a few
+questions that have come in on Twitter,
+uh, via YouTube, and via Micro Connect.
+But feel free to ask them, uh, in the
+YouTube chat, and producer Ron will put
+them in our doc. So to kick us off, Anar
+two-minute recap like what happened and
+what like why did this happen so fast
+and really what was the sequence of
+events? Why did why did SVB fail?
+So So this is um basically a a what the
+first like social networking bank run
+collapse effectively is what happened.
+So the the technical reason that kicked
+it off in the first place is is kind of
+boring and I think a lot of people don't
+fully understand it. they sort of, you
+know, the headlines are like they took
+super risky bets and then they lost all
+their money and now they're getting
+bailed out which sort of not not really
+true for first of all nobody an equity
+holder or employee at SVB is getting
+bailed out um you know and um so so
+that's a that's a big change but
+fundamentally what happened was so VC's
+Silicon Valley Bank was the largest bank
+for VCs and startups and as everyone
+knows in like 2020 and 2021 like a lot
+of like these startups and VCs raise a
+lot of money and most of the time they
+put their money in SVB for you know
+structural reasons basically it was the
+default gold standard bank to put your
+money in. So from SVB's perspective,
+what they then did, the mistake that
+that triggered this whole thing was, oh,
+usually what they do with these deposits
+are they don't they don't gamble them on
+like, you know, super risky assets.
+They're just looking to get, you know,
+some return um on deposits. And so what
+they used to be doing was buying
+governmentbacked
+uh short duration, so like a year-long
+bonds. Um, and they were doing that, but
+then in 20 I think in 2020 or 2021, for
+whatever reason, they started to instead
+of buying bonds that were one-year
+expiration, they started to buy them
+that were doing like 10-year expiration.
+Um,
+yeah. So, they were baser
+your duration of your bond, if interest
+rates change, when interest rates go up,
+your bond values drop.
+Yeah. So, the challenge Yeah. The
+challenge became basically like they had
+10 year 10-year bonds with like 1.6 six%
+interest in an interest rate environment
+where you know now you can get four and
+a half five percent guaranteed from the
+feds. So that that was the problem they
+had. Now there was no I mean again like
+what how risky were they? They were
+still governmentbacked. There was
+nothing wrong here like and basically
+that the the difference was they had
+some of these like what call AFS
+available for sale and some they were
+planning to hold to maturity. So if you
+you know you don't lose the money even
+if you have a low interest rate you know
+even though the value of the bond goes
+down you don't actually lose any money
+as long as you plan to hold it to
+maturity. The challenge is um you know
+they basically didn't what they decided
+to do was to just to crystallize that
+loss and you know in order so they could
+free up capital and buy higher
+performing assets. That's fundamentally
+what I think they were trying to do. the
+the the problem became that um they did
+that the day after uh uh they they
+announced this the day well so what they
+did was they did that and then they said
+okay in order to make sure that we're
+we're already within the sort of like
+federal requirements for safety but in
+order to stay even more on this side of
+like of this we're going to raise $2.5
+billion dollarsish of equity sale
+basically the the challenge was in part
+is that They announced this the day
+after Silvergate went under. So
+Silvergate was this crypto bank and then
+it's basically a PR disaster from their
+end. They basically decided to to put
+that out there that you know this was
+happening. They taken crystallized this
+loss and they were by the way they're
+raising two and a half billion dollars
+with the help of Goldman Sachs and like
+General Atlantic was putting 500 million
+in. The challenge was that well they
+came out the day after another bank
+failed with like hey um we ra we want to
+raise we need to like the impression was
+we need to raise $2.5 billion and we've
+only raised 500 million and so that's
+what sort of triggered people to stop
+being like hey what happened and then
+and I truly believe this I think sort of
+VCs calls this bank run is is my view so
+some high-profile VCs then started
+advising their portfolio companies that
+they should take their cash out now was
+this
+I heard was Peter Teal. The first one I
+saw was the first one, but certainly
+other VCs too instead of what I think
+they should have done which is like you
+know basically get on a call and be like
+hey you know like let's not induce a
+bank run here. They basically induced a
+bank run telling everybody to yank their
+money out. And so when that started, you
+know, like what are you going to do?
+Like you fast like a flash crash of
+deposits and and really what would
+happen then is like the problem is now
+you in order to to fund all that stuff
+you have to start selling things that
+you weren't planning to sell
+because they don't they're not liquid,
+right? They have $200 billion of assets
+but only a small percentage of that as
+liquid at any time. That's what a run on
+the bank is is a bunch of people saying
+I need my money right away. I need a
+hundred billion of that. And it's like
+we don't have that in cash. Right.
+Exactly. And actually like even when
+they got shut down on Friday morning in
+a Pacific time, they had more than $50
+billion in in in assets in excess of
+deposits. So this wasn't really
+something where you know like you know
+they did took this huge risks and then
+you know they just crashed and everyone
+ran really like you know I think if a
+small handful a dozen or half a dozen
+VCs had gotten together and been like
+okay let's show a united front in
+support of SVB I think SVB still would
+have been around.
+Yeah. And so as of Friday, we were
+calculating, it's like, okay, FDSC
+insurance is $250,000. And when we do a
+capital call for our funds, because we
+invest in bootstrap SAS companies, we
+get literally millions of dollars into
+bank accounts. And so what do you you
+know, that's you know, uninsured by the
+by FDIC. And so we're strategizing like
+how does, you know, how does this play
+out? And then that essentially was
+assuaged yesterday afternoon when the
+Federal Reserve said
+we're going to cover it, right? That
+that they have a fund. They they said,
+but what they said is we're going to
+backs stop it. We we have this 25
+billion already in this something fund.
+I forget what it's called and we don't
+we're going to backs stop it if needed,
+but we don't even expect to need to
+touch it.
+Yeah.
+Right. That's what they said
+fundamentally. Yeah. So there's no and
+this must be very clear like there's no
+taxpayer money going out here. You know,
+this is not this is not like the
+government handing cash to, you know,
+VCs who took a bunch of risk. This is
+just basically the federal basically
+guaranteeing the deposits, but the
+actual actual money like there was no
+there will be no money coming from
+taxpayers to any of the depositors. It's
+just it it they needed to do this and
+you can see it on the Monday morning
+like what happened with all the bank
+stock this morning. This is even after
+all these things were guaranteed.
+Like there's a huge there would have
+been an enormous run on any bank that
+wasn't like the top four banks. We would
+have had like I talked to several people
+in real estate for example who basically
+saying like I got $100 million across
+eight regional banks. We have a plan
+Monday morning 8 am. We're going to wire
+everything to JP Morgan. And that would
+have happened across across the country
+for sure.
+It would have been catastrophic.
+Basically caused a bunch of run on
+additional banks because this is a
+contagion, right? Yeah.
+So that's the thing I wanted to say. I
+mean the the whole weekend I was like
+I'm hoping the Fed steps in because
+again this is not a bailout like 2008
+2009 where banks themselves the
+shareholders of a bank the equity owners
+the you know everybody the CEOs and all
+that they the the bank was given money
+to stay solvent and to stay in business.
+It was a taxpayer handout. Now it turns
+out the US government actually made
+money on all that. Did you know that?
+Through the warrants and whatever else
+and the loans they got paid back. But
+that's aside, this is very different
+from this. Silicon Valley Bank is done.
+It went to zero. If you owned all the
+equity holders, like the shareholders in
+SVB, they get nothing. The thing that
+the Fed is stepping into do, and as you
+said, not taxpayer money, is to make
+startups. And these are like, look,
+people say, well, startups in Silicon
+Valley and this that, but like tiny seed
+startups, there's like we funded 105
+companies and like three of them are in
+Silicon Valley. You know, these are like
+in the Midwest. These are all over the
+world and they're just small businesses
+that you
+obviously like some of the stuff come
+through that people are like why would
+you only super wealthy people stake more
+than 250,000. I'm like yeah but okay so
+h how does this work? You know we have a
+100 plus investors and we're going to
+invest in 30 40 companies. What are we
+supposed to do? Like you know put the
+money in 50 different bank accounts. Is
+that the prudent thing to do? I mean
+it's it's a you know it's a nightmare of
+of of accounting basically to do that.
+So, so we didn't. Um, so yeah, it's I I
+think people really misunderstand what's
+going on in terms of, you know, I was
+doing it.
+That's the thing. The $250,000 FDIC
+limit, uh, even for individuals, okay,
+maybe. But like when you run a business
+of any size, you have a cash back. I
+mean, you have 30 employees, 40
+employees, like your payroll, that's
+like two months of pay, three months of
+payroll, whatever. It's just not that
+much.
+That's the problem is with businesses
+that this amount of, you know, that
+amount of insurance.
+Yeah. and the notion I mean so the
+fundamentally what's going to happen now
+and you're seeing that with Mercury and
+Brex and all this stuff is like
+basically that you'll have software
+layers on top that'll spread the risk
+across you know 30 banks at a time you
+know and that's that's one way to go
+there now here's my view of this if you
+do that then you get I don't know say5
+million$10 million worth of FDIC
+insurance I don't see why that's like
+you know as somebody who decides to
+stick money in the bank what moral
+hazard did I you know decide to did I
+take by taking cash and putting in a
+bank account. I don't think you really
+understand you want a system where like
+basically the US all of US industry
+thinks that you know there's no single
+bank that can take more than 250,000.
+That's a nightmare scenario for all of
+the US industry industrial base. It's
+just not tenable as a as an approach.
+Um, and you basically I think if if if
+that had if it hadn't been rescued, I
+think pretty much all banks other than
+like the top four most likely would have
+gone out of business. So now you'll have
+four banks that are way too big to fail.
+You can never let them fail,
+which arguably maybe you should have
+done during in 2008, but now they're
+they're so big because nobody else is
+going to trust like putting money in a
+local regional bank. Like why would you?
+It doesn't make any sense to do so
+because that money could be gone.
+The risk. Yeah. And also I mean there's
+a huge um risk to he I think you had
+said boy we might be hitting a like a
+startup uh winter where just the market
+the bottom drops out no one's spending
+money to buy companies. No one's
+spending investing money like if this
+hadn't been you know backs stopped
+yesterday. So
+we have tons of questions coming in. I
+want to get to those. Hopefully that's
+been a good overview for folks.
+obviously feeling very much relieved
+today and I believe um we're supposed to
+receive funds today, right? It should
+already be in our account in terms of
+well yeah what happened apparently so so
+so famously the Silicon Valley bank web
+interface has always been atrocious.
+Um so so yeah so I'm not surprised but
+what we hearing is that basically all
+the funds are available as normal.
+You're just encouraged to as soon as you
+can move those money into a different
+bank account. A lot of people are strugg
+are like scrambling to to get set up
+with a different bank account basically
+so they can move it out somewhere else.
+So that's what's going on pretty much
+across the across
+they've been unable to log in thus far
+because their servers are down but it is
+what it is. So, first question. Martin
+uh in the tiny seat slack asks, "I'd
+love to get your thoughts on this tweet
+from modest proposal one on Twitter."
+And this is a tweet. The piece I haven't
+read yet, but I'm very interested in is
+how does the tech e ecosystem change
+over time without SVB? The cost and ease
+of doing business has uh has to be going
+up meaningfully. Everything from
+fundraising to lines of credit. I don't
+think the ramifications of this are very
+well understood. I have my own thoughts,
+but what what are your thoughts? Yeah, I
+agree 100% with that. I think like
+basically Silicon Valley Bank was, you
+know, pretty much the only one of the
+only banking like true banks that like
+would do things like provide venture
+debt and and lines of credit to
+startups. And I think people are I I
+think the most likely outcome of this is
+that and like obviously we all know that
+like with the war in Ukraine and
+whatnot, the fundraising environment has
+gotten significantly harder,
+you know, in 2022 and going into 23 and
+I think a lot of the time like startups
+that were reasonably well capitalized,
+they were planning and but maybe will
+struggle to raise in this environment
+were planning to to rely on venture debt
+and like debt options. And I think
+that's become
+significantly harder slashimpossible
+pretty much overnight over the weekend.
+And so I think what's most likely to
+happen is that you know I I think a lot
+of people were predicting like a because
+people had raised so much money and all
+this stuff like there's going to be like
+a slowmoving car crash with f with
+startups going under. I think if
+anything this will this will accelerate
+that because the the people who can't
+raise who plan had to raise but were
+planning on relying on venture debt are
+now going to struggle to find those
+things. So I think it'll it'll
+accelerate you know death in the more
+traditional venture environment. I think
+I think that's probably true. Um and
+also I think in general like you know I
+think this will significantly impact the
+appetite for people to invest money and
+lend money. So I think like things will
+slow down and freeze and I think that's
+you know does some of the same stuff
+that the Fed is doing with the
+increasing the the the rate. So, I
+wouldn't be surprised if there's going
+to be another meeting in next week about
+the Fed raise and everyone's saying, is
+it going to be 25 basis points or 50? I
+wouldn't be surprised if it's nothing
+now because of because of this
+because of the fear the fear around it.
+Yeah, I think that's I think you're
+right. I think startups that rely on
+funding and especially
+venture debt are going to see it because
+SVB was a huge provider of of venture
+debt. We don't have time to really
+define what that is, but just assume
+it's it's a loans plus they get an
+option to buy some part or company
+called warrants.
+They also had Yeah. They also had a
+pretty significant portfolio of startup
+shares. Yeah. And so I think because of
+these warrants and and things like that
+that they had and those are assets now
+to to creditors and I think you know
+it'll put downward pressure on secondary
+prices for some of these you know
+privately listed companies if they're
+required to be sold. The other
+interesting thing is I have several
+friends who were unable to get a
+mortgage because they are a startup
+founder and you start a company and even
+if you've raised money and you know you
+have tons of money in the bank and
+you're taking you know a salary you go
+to a standard bank and they don't
+understand it. Same thing being a
+venture capitalist
+which you know it sounds like a first
+world problem but it's like no I can't
+get money to buy a house. No one will
+lend me money. SVB understood that. You
+know they would ask about your fund and
+this and that. So that's that's going to
+be maybe a not as broad of of an issue,
+but certainly an impact. Our next
+question is from Dave in Microsoft
+Connect, and he asks, "I just raised a
+friends and family seed round and
+and yeah, deposited it into SVB last
+week. It is over what timing? Sorry,
+Dave." And it's over the $250,000 FDIC
+limit. It was definitely a stressful
+weekend. So it's like it's it's stuff
+like this like friends and this is not a
+bunch of billionaires. It's like his
+friends and family giving him money to
+grow a startup to create jobs you know
+and and he could have lost a chunk of
+money. His question is the startup world
+understands the contagion and payroll
+issues that would have ensued if the
+government didn't backs stop uninsured
+deposits. However, public perception
+which you can already see on Twitter is
+that this is just another bailout for
+wealthy people. How do you parse this
+out and what are your thoughts? I guess
+we kind of already already answered this
+a bit. Do you have any any additional
+thoughts on this?
+I mean I think I think this is sort of
+the fallout to a degree from the change
+in sentiment about tech. So I I think
+broadly some of the main press pieces
+has turned pretty hostile to tech since
+about you know 2012 2014. It feels like,
+you know, the usual it feels like a
+missed opportunity from tech. Although
+we saw, you know, with with the herd
+mentality this this week that um I don't
+know how much of a community there
+really is, but fundamentally I think
+this is the backlash of some pretty
+highprofile VCs being class A
+and sort of like, you know, the joke is
+like, you know, there's no there's no um
+atheists on a foxhole and no
+libertarians during a bank run. Like I
+think some of that is playing out.
+There's been a lot of like huffing and
+puffing from pretty big VCs who
+have like skewed people's perception of
+of what what this means in the economy.
+And so I think there's a lot of sort of
+Scott and freed as it were when it comes
+to seeing it's like let's go and get
+those But fundamentally here's
+the thing like those glass eye
+they're fine right do you think they
+have cash stuck in SVB? No. Most of the
+time it's they're invested all over. You
+know it's it's really the smaller
+players that are that are getting hurt
+for this. Um, so, so yeah, I think
+that's part of the reflection. Like part
+of the reflection is like tech has just
+been starting to be portrayed as this
+boogeyman and that's sort of playing out
+in people's perceptions of what happened
+for sure.
+Yeah. And it's interesting that tech is
+it's like Facebook and Google and Uber,
+they they're not I mean if they're
+banking at SVB at all, they're not under
+any danger of this. They have money all
+over the place, right? It it really is
+the smaller players, the tiny seed
+companies, the micro comp companies, the
+40, 50, 60 person startups. I mean, we
+know that like the vast majority of jobs
+in the US specifically are created by
+companies under 50 employees, you know,
+and that that's what a lot of these
+funds uh you know were that's where a
+lot of these funds were from.
+Next question. Yeah. So Kevin in
+Microsoft connect asks, "What can
+startups do to reduce potential
+fragility
+uh in light of SBB?" So as we move
+forward, what are some steps that we can
+be thinking about? So
+yeah, I mean I think so here's my thing.
+I suspect that we'll get to a point
+where like the FDIC insurance will be
+would be higher, which I think makes
+sense because it's like what's what's
+the value of not doing that? And you can
+say well then the government is backing
+the they take all the risk and stuff.
+you know, there are already regulations
+in place around what the level of risk
+you you have to take, you're allowed to
+take with the money. And so, okay, if
+you increase the limit now, now the
+banks need to put more money into the
+FDIC fund to backs stop more money. But
+I think that'll come in the
+intermediate, you'll definitely see
+things like, you know, like we're we're
+moving to Mercury, the the startup bank,
+and and you know, full disclosure, the
+founder is a friend of mine. Um, but
+they just today announced they have like
+a three million FDIC limit because what
+they're doing is behind the scenes is
+they take the money and then they spread
+it across multiple banks for everybody.
+And they also like are offering like
+insured um, you know, basically treasury
+management products. So this would be
+things that like sweeps into government
+guaranteed bonds, that sort of thing.
+So, I I sort of hope that the FDIC limit
+will be raised because it's it's really
+it doesn't add any business value to
+spend like a lot of time and effort to
+just move money around like between
+different institutions and in and out of
+overnight funds and all this crap. Like
+that's not actually valuable stuff.
+No, it's
+it's just something that you sort of
+have to do now. And like I think I think
+that's sort of for startups that's what
+I would do if you have significant cash.
+I mean we did this too with Tiny. we
+would overnight they would be swept into
+you know government funds and and and
+government insured you know you know uh
+funds the the challenge was the bank got
+shut down on Friday during the business
+day so I was joking on Friday I was like
+it'd be better if you'd shut it down
+like a couple hours before because then
+our funds would have been with the feds
+right
+so so I think that's what'll happen
+people will start switching to banks and
+banks will start offering products that
+share the risk across so you're
+effectively no matter what happens with
+the FDIC limit you're getting a higher
+FDIC limit uh for your funds
+Right. Yeah. I I like the idea, you
+know, with my per our personal funds.
+I've always had multiple banks, even if
+one of them is like a brokerage or
+retirement thing, they have, you know,
+an ATM and you can move money in and
+out. So, I've always had that ability.
+I've never done that with any business
+I've started. I just never thought it
+was necessary. So these days, I would
+have a spare bank account and even if
+you only have one month of payroll, you
+know, or two weeks of or just some
+amount of money that you can stash away
+that
+because the odds of of it all going away
+are relatively low. It can happen, but
+they're relatively low. But the odds of
+you not having any cash for a week, it
+is totally possible, right, of
+everything being locked up for a number
+of reasons. We're going to take more
+questions, but as a reminder, if you
+like these types of reactions to current
+events and more videos about growing
+your startup, make sure to like this
+video and subscribe to the channel. Next
+question is from Trevor and Microcom
+Connect. I'm curious why VCs did not
+encourage their companies to take out
+private deposit insurance for amounts
+over $250,000 or as we just said to
+diversify their holdings across several
+banks since this was a known risk
+factor. Was SVB just part of the good
+old boys network so VCs quietly ignored
+the risk or was there another reason? I
+will say I'll just address them moving
+it around to other banks because it's a
+huge pain in the ass and it's a bunch of
+wasted labor. It's not this does not
+grow our economy for me to have my ops
+person spending hours a month moving
+crap around. And uh you know to be
+honest there
+on the insurance side too there's no
+panacea there because then it's like all
+right now I have to pay for this to
+store money in there for presumably a
+short amount of time and most of the
+time we have you know we have less we
+don't have a ton of money in tiny seed
+because we call the money in and then it
+gets spread out again once it's deployed
+and so now if FDIC insurance on top of
+that hey I got to pay for it okay but
+now are you you know moral hazard are
+you going to do your due diligence on
+the insurance company? How do you know
+if they don't go under? Where do they
+bestow their bank? Like, it's a it's a
+it's a like a
+sort of a rabbit hole of just one thing
+after another if you if you can't trust
+the system. If you need to make every
+piece of the financial system in the US,
+like all the inherent trust that exists
+there, if you need to make that explicit
+and charge for it, you're going to add a
+significant friction to the economic
+growth in the United States. So, I don't
+know that you want to do that. Like, it
+wasn't like a good old boy network. It
+was just look at any business with more
+than four employees. They will have been
+in this situation in the last 12 months
+where they had more than $250,000 in in
+a single bank account. They just had to
+like it's almost impossible not to do
+it.
+Yeah. And it's do we want startups
+spending their time and money building a
+better product, finding more customers
+than hiring, creating new jobs and
+hiring people, or do I want them
+spending time screwing around with their
+bank account? Like the the red tape is
+it's just not not what we want to be
+doing.
+Kent on YouTube asks, "Do you think this
+will affect seed funding as much as it
+will mature mature fundraising cycles?"
+[Applause]
+You know, I think so because I think
+what's happening is
+the challenge is like a lot of VCs, they
+have some folks now that maybe they
+thought, okay, we know they can't raise,
+but now they like also can't tap debt
+markets. I think a lot of funds will now
+be earmarked at least towards propping
+up existing bets. So yeah, I think it'll
+have an impact on on how much money
+flows into precedency.
+I think in general it has a chilling
+effect on on the things. I think a lot
+of people will now be spending their
+time like LPs, investors, angels will
+now spend a lot of their time and effort
+moving money around and putting it in
+different places and you know worrying
+about Is this bank going to blow
+up? Is this thing going to go away
+instead of investing? I think that's
+true and I and I think I think it'll
+definitely impact seed investing and
+preed investing.
+The next we only have two questions left
+and Chasey basically asked, "Do you
+think this affects fundraising for
+startups or does everything reset to
+where it was two weeks ago?" No, it
+sounds like you feel
+it was already bad two weeks ago. It's
+even worse today.
+I think so. And I wonder how long
+that'll last. That's the thing. You just
+don't know, right? there's an
+institutional memory or a cultural
+memory of this and will it take you know
+two months will it take six months does
+it take a year you know what happens
+and and the other interesting thing is
+if there is another regional bank
+failure god forbid you know it's that
+regional banks do fail over the years
+they just fail
+yeah now all of them are going to be
+reported on every single
+this is only like it's high profile it's
+a big bank but also like you know pretty
+much nobody the only instance I could
+find where any any depositors ever had
+lost any money was in the indac failure.
+There's been hundreds and hundreds of
+failures where like people don't lose
+their deposits. It's not coming. And
+actually in SVB, I believe that I
+actually don't think depositors would
+have lost any money in the long term.
+Even for this situation,
+I just wouldn't have happened. Like it
+just
+SVB had the assets to cover it. It just
+would have taken a while to sort it out.
+A lot of time and like a ton of
+other banks would have gone under.
+Yep. Yep. All right. Last question and
+then we'll wrap. And as a reminder, if
+you like this type of video as well as
+learning how to build and grow your own
+startup, make sure to like it and
+subscribe to the channel. Jay on YouTube
+asks, "Sorry for the tinfoil hat
+question. Do either of you get a gut
+feeling that there was something bigger
+going on here, aka someone driving the
+bank run intentionally for their own
+gain?"
+So there's rumors that basically um some
+of the same people who were like
+encouraging folks to withdraw their
+portfolio companies to withdraw had
+short positions on the bank.
+Um I I haven't heard anything other than
+rumors on that. So I don't know.
+I wonder if there will be an invest you
+know if there's rumors then I bet the
+Fed somebody in the you know where the
+attorney general's office has to be
+Yeah. because it's that's not legal and
+so so there's there's that. But yeah, I
+don't I I hope not, but I I wouldn't be
+super surprised if something like that
+did happen.
+Yep. All right, and that is it for the
+questions today. Thanks everyone for
+joining us. We love to do these topical
+and timely live streams when things like
+this come up. So, final reminder,
+subscribe to the channel, like the video
+if you like this kind of stuff.
+Annervet, thanks so much for taking time
+out of your day. He's supposed to be at
+South by Southwest, folks.
+I am at South by Southwest. I'm just
+stuck in, you know, Airbnb doing
+sitting in a hotel room doing a live
+stream instead. Yeah, it's awesome. It's
+uh good to see you, man, and great to
+see everybody. And we'll see you next
+time.
+Bye.
+[Music]

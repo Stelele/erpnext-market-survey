@@ -1,0 +1,861 @@
+﻿[Music]
+through Wednesday we live shooting for
+30 minutes and we cover topics relating
+to building and growing startups that
+are ambitious but fit within the goals
+of having a real life not burning
+yourself out finding freedom purpose and
+relationships thank you so much for
+joining us again this week a great guest
+coming up today we're gonna be digging
+into customer success having a customer
+support customer service customer
+experience all things that you know you
+really should be thinking about as a
+start-up founder before I do that a
+couple housekeeping items if you miss
+any episodes of microcon on-air they're
+always available on our pod in our
+podcast feed as audio so go to any pod
+catcher type in micro Kampf on air and
+you should find us in all our glory and
+thank you as always to Basecamp and
+stripe our headline supporters headline
+partners for this year so today Sarah
+Hatter and I are discussing customer
+support and experience title for this
+one is adjusting the customer experience
+journey while inside of a glass case of
+emotion
+Sarah Hatter is I know that that's a
+mouthful Sarah Hatter is the founder of
+Co support a customer support coaching
+training and hiring consultancy she's a
+two-time micro Comp speaker and she
+produces elevate CX although not not at
+the moment much like Microsoft but she
+will I'm assuming what's the pandemic
+dies down and that's a three times a
+year conference for customer support
+pros and product managers Sarah Hatter
+thanks so much for joining me on the
+show today hi thanks for having me this
+is fun this is a nice reunion for me to
+give it back in the microcon flan
+because your conference is always
+overlap with ours in in the spring so I
+think the only times I've ever been able
+to attend is when I'm actually speaking
+which is unfortunately it's a fantastic
+fantastic conference I'm glad to see
+that you're doing more outside of the
+in-person event realm it's a it's a hard
+adjustment but it's it's nice to kind of
+keep the vibe going right year-round
+yeah yep yeah we you know we already had
+it in our roadmap to do a bunch of on
+online more digital stuff releasing the
+library of all of our videos and doing
+some live streams and setting up a slack
+channel that was already in the works
+and then when the pandemic it we just
+said alright let's let's scoot it all up
+how has it uh you know I'm curious aside
+from I'm elevate CX has obviously you've
+postponed it or put it on hold for the
+year how else have you been impacted
+well you know we were in the same place
+as you we've been doing event since 2012
+three sometimes four times a year in
+three countries you know cities all over
+the place we travel with it moves with
+us so we had already really been kicking
+around this idea of I'm getting old I
+can't handle like the travel incessantly
+especially like overseas trips you know
+I was I was doing like six seven trips
+to Europe a year it's crazy
+and it was one of those things burns
+like when you have a good idea you
+really like to think about it and plan
+on it we started pulling anning for you
+know shifting digitally I think like
+last summer and now we're having to do
+it very very quickly so I think it kind
+of kicks me back to that sort of
+bootstrapping mentality of you know be
+scrappy be quick and figure things out
+as you go which is also for a lot of
+people how they start out and customer
+support it brings me all the way back to
+like my beginnings in tech when I had no
+idea what I was doing and I was just
+seeing what worked so in a way it's
+great you know in a way it kind of gives
+everybody a rest especially those of us
+who who travel and consult and have to
+be on the road all the time it's it's
+been a nice nice time to stay home and
+you know but yeah it's just it's
+definitely an adjustment we're just
+trying to figure out what's next you
+know yep I'm just glad that I didn't get
+trapped somewhere because I was like
+literally came home from London a month
+before I had been in Australia and so
+I'm just very very very happy that I was
+able to get home and get to my own
+drawer of pajamas before the yep out
+there in Northern California cool we
+already have a couple audience questions
+but first I want to ask you I want to
+ask you two quick ones I mean we may we
+may not get to the whole was it the
+glass case of emotion thing if we get
+enough questions because people are
+Xander came up with that title and
+another reason why he is the best at his
+job it's hilarious to me so my first
+question for you Sarah is I looked at
+your I went to your Twitter account you
+have an amazing Twitter handle SH two
+letters Twitter handle just so cool but
+based on your Twitter profile pic I'm
+wondering what the significance is of
+Burger King in your life because you
+literally have a pic yourself standing
+in front I um when I was growing up I
+grew up in a very very small town in
+Northern California and El Dorado County
+we had one fast-food restaurant and it
+was a Burger King and if you're if you
+grew up in a small town go being able to
+go to a fast food place was like and
+that was amazing right and so when I
+started traveling the world it just kind
+of became this jokey thing that every
+time I would be in a foreign country and
+there would be a Burger King I was to my
+friends and family like with the Burger
+King and I think that picture that's my
+profile pic now with something like my
+27th picture of a Ford Burger King you
+know to the point where like you were
+asking me before these Lord of the Rings
+commemorative Burger King glasses were
+actually gifted me for Christmas because
+it combines my two great loves in life I
+can't tell you the last time I actually
+ate at a Burger King but you know it's
+it's it's a good to have tradition it's
+good to have inside you in tradition
+yeah and now it's becoming like people
+are noticing it about me I'm starting to
+become like you're not the first person
+who's asked me what's with the Burger
+King picture but no no it was prominent
+awesome well let's dig into some some
+customer conversation here so we have a
+question I have some questions that I
+have carved out but I wanted to start
+taking some listener questions first
+because I think we just had our third
+one rollin so first question is gonna
+Colin gray he says we're wrestling with
+response times and commitment to them
+right now
+we're a small team with one dedicated
+support person
+and then developers pick up the slack
+when we get overwhelmed so he has
+several questions so I'm gonna ask him
+one at a time what's a reasonable
+response time to aim for how much are
+people paying you that's the question
+all right they're if they're paying you
+more than let's say $24 a month you owe
+them a 12-hour window definitely if
+they're paying more than that we're
+looking around 2-3 hours if you're one
+of those people who has an autoresponder
+that says we strive to get back to
+everybody in 48 hours take that out
+immediately don't say that you don't
+have to put out there unless you have
+like a definitive SLA with people you
+don't have to put out there your time
+frame you can just say that we're gonna
+get back to you you know as soon as we
+can and make sure that you have an
+autoresponder that leads people to a
+knowledge base to maybe answer their own
+questions make sure that if you cannot
+get two tickets within that window that
+you're sending that first touch email
+out that's you know you can send it in
+bulk make sure it looks really personal
+it doesn't look like a robot wrote it
+and said we're trying our best and then
+of course we're gonna move on to this
+question I'm sure is like in the next
+point that you're gonna make but you
+really have to be careful about triaging
+the emails that you're getting to first
+right obviously bug reports obviously
+downtime obviously billing disputes
+whatever it is so those are the things
+you really want to take a first pass out
+anything else that seems low priority if
+it's a feature request or if it's maybe
+a pre-sales question and you can you can
+put it off that's where that first touch
+email is really gonna come in handy
+because it's a personalized email that's
+not an autoresponder you're giving
+people some context about your day about
+what their expectations should be and
+you're buying yourself a little bit more
+time to get a real response in so when
+you say it's personalized are you
+literally tight like typing it out and
+sending it yourself or is it triggered
+automatically no the trigger
+automatically is one that everyone
+should do anyway that autoresponder
+whatever helpdesk you're using all of
+them have it make sure like I said that
+it sounds you know it's not one of those
+we receives your requests kind of like
+template email that I think is like
+out-of-the-box personalize it a little
+point people to the knowledge base point
+them to onboarding material that you
+have
+it again that's another part of like
+buying time is that it's leading people
+to education that might answer the
+question while they're waiting for you
+but the first touch email is really
+something that is like support 101 when
+the inbox is stacking up if you've had
+down time and you see emails just start
+pouring in a lot the same thing it's a
+way of acknowledging hey we know we see
+it we get it we'll be back with you and
+it gives people like an opportunity to
+say okay what is a real time frame for
+getting back to these people what are
+they all asking triaging through your
+inbox are they all the same
+what's priority here and then replying
+as fast as you can to those once you've
+sent the first touch out I think people
+are used to seeing the autoresponder but
+it's more like an acknowledgment that
+your email was received so sending the
+first touch a few hours later is more of
+just a I'm gonna try to get back to you
+as soon as I can I just want to let you
+know it's gonna be a little bit delayed
+and that's okay that puts some humanity
+in front of in front of whoever it is
+requesting this it's not just a trigger
+an email and it's not a canned reply if
+it needs to be we can't reply if you're
+looking at hundreds and hundreds and
+hundreds of tickets that are just
+sitting there waiting for someone to get
+to him make sure it's really really
+well-written and that it's really
+personal and that it's you know a little
+bit friendly and casual and funny mm-hmm
+cool and so then I think you already
+answered his next two questions because
+he basically said you know what's the
+first question was what's a reasonable
+response time and his next two questions
+are do you communicate that to your
+customers if so how and you say no I
+don't think you need to I think it sets
+yourself up for a lot of anxiety and it
+certainly sets customers up for a lot of
+anxiety if you're if you're gonna
+promise them I'm gonna get back to you
+in two hours I mean the point of all of
+this really is to surprise and delight
+we know that right that's sort of
+age-old saying but what we don't want to
+do is also the opposite of that where
+we're leading people into bad
+expectations like I'm not gonna hear
+from you for three days
+I'm gonna get to you that's immediately
+gonna trigger them to go to social media
+it's immediately gonna trigger them to
+try and reach out other ways if you say
+email takes two days to get back to you
+or whatever it is I think we're starting
+to see I mean part of the reason we're
+having this conversation is because
+emotions are heightened
+for everyone across the board right now
+whether its customers and developers or
+even people working in CX we all have
+kind of amped up a little bit our
+expectations and people and you know
+maybe some of the anger and rage that
+we're projecting onto them too you don't
+want to find like you want to create
+reasons for people to be even more
+irritated with you
+they're already writing you a support
+email that's already a point of failure
+so just try to ease it ease it in there
+a lot a lot more if you have an SLA with
+your customers you're doing enterprise
+level or you know huge contractual
+software obligations to them then that's
+a little bit different because maybe
+they already know that they're gonna
+care back from you in 12 hours but I
+just say you know as soon as we can
+we're specifically talking about the
+inboxes blowing up right now so we're
+modifying a little bit of our language
+and our little bit of our behaviors here
+but I think we're removing all
+anticipation of when they're gonna hear
+from you is gonna settle them a little
+bit it's gonna buy you some time
+ease things up and then when you are
+able to get back to them within that 2
+or 3 hour window or maybe by the end of
+the day it's gonna really really
+Surprise them cool our next question is
+from Mason Hensley he said can you
+describe custom tools / functionality
+teams have built that make customer
+support flows easier for example an easy
+button to extend a trial CRM syncing
+having the lifetime value in you know in
+your CRM or your support system you have
+any others off top of your head that
+you've seen built that really help your
+support team yes I think that there's
+there's a few help just out there that
+allow you to trigger follow-ups with
+customers
+I know XenDesktop that I believe helped
+Scout does it and these aren't
+necessarily things that teams have built
+but they're they're things you could
+replicate very easily if you're not
+using a helpdesk we forget to follow up
+a lot with customers happy customers you
+know new trial customers who convert
+people who we save from churn or even
+angry customers who are we just you know
+have a tense tense interaction with we
+forget that those are very important
+people in one or two weeks to follow up
+with and to see how they're doing the
+first thing we want
+to do is put them in the archive never
+think about them again right but a
+better response to it is to be
+responsive even when we won't don't want
+to be make sure that they're ok that
+they figured things out do they need any
+more help because especially if there's
+someone who you've had to escalate or
+there's someone who was really angry
+about a situation most likely they're
+not gonna want to reach out to you
+either so I think it's a really good way
+to you know again turn prevention is
+always on top of mind for a lot of
+people especially those escalated
+tickets but it's something that just
+puts forward again I'm gonna say it that
+word again your humanity the fact that
+you really care about your customers and
+you really think about them and you
+really want to be a part of their
+customer journey so you can trigger that
+on anything where someone has complained
+about something a billing dispute
+perhaps or they've had an issue or a bug
+that you had to fix for them that went
+back and forth I think it's a really
+strong idea to just set those triggers
+to be reminded to follow up with people
+it's it's really rare to see it and when
+it happens live I mean I'm sure I don't
+know if is a customer you've had that
+ever happened to you or you've had an
+issue and then awhile later you get a
+personal email saying how are things
+going
+that isn't like salesy or automated you
+know or it's like some sort of like a
+drip process it's like a real personal
+email it just I think shows the
+attention and that's what a lot of
+people want as customers they really
+want really good sharp attention from
+you know people who are creating the
+products are buying right yeah very cool
+all right next question from from
+Forrest what's the best way for support
+teams actually if if you're in micro
+cough connect and you have questions
+please feel free to keep them coming
+I feel like Sarah could do this all day
+even though I know it's really as they
+say my wheelhouse
+Sarah has forgotten more about customer
+experience than I will ever know let's
+just put it that way so if you if you do
+have if you want to have questions you
+know if you want to ask questions and in
+the micro conf on air you need to be in
+micro comm connect yeah do micro cough
+connect comm you apply you get into our
+slack Channel we have about more than a
+thousand people in there right now
+thousand founders and aspiring founders
+excuse me it's a great group of folks
+highly moderated and that's where these
+questions are coming from so forest asks
+what's the best way for support teams to
+measure the customer experience for
+improvement purposes well everyone's
+gonna tell you you know customer
+satisfaction and you know a thumbs up
+smiley face I think a lot of that is
+a lot of that is emotional
+responses to a singular incident that
+somebody had once again you know we
+talked about the idea of customer
+support what is it if someone has to
+write me an email about whatever it may
+be I don't understand a product you're
+billing me too much I'd rather have this
+feature this thing doesn't work those
+are all points of failure so judging how
+people think about you or your product
+or whether they're gonna continue to be
+customers based on a smiley face is you
+know a little bit of an archaic way to
+come up come about this stuff I think a
+better way to do it is really see how
+they respond to things like onboarding
+campaigns seeing how they respond to
+other educational opportunities whether
+you're doing online classes or courses
+or office hours whatever it is are
+people interested in that people's
+interest in their engagement with what
+you put forward really shows a lot about
+how they value your product
+I think feature requests the things
+people are asking you to build for them
+is a really important indicator of how
+likely they are to continue to use your
+product because they're looking for ways
+for it to become more sticky for them
+they're looking for ways to invest more
+time probably more money and so they're
+not throwaway
+emails or things that you just say you
+know no sorry get here go find another
+product that does that for you that's a
+very easy response but the hard response
+is to say what value does this have in
+the future of this customer and the
+product right another thing too is if
+you are having good communication open
+communication channels with your
+customers really start to look at the
+width the language that they're using
+when they write you or chat with you or
+hit you up on social media look at the
+words they use is it more weighted on
+positivity about your product is it more
+weighted on curiosity about your product
+is it more weighted when people are
+writing you support emails are they
+raging
+with you know maniacal anger because
+this weird feature set is just not
+working right for them so those are all
+like more experimental things but
+there's opportunities in all of that to
+really read between the lines about how
+customers are viewing your product and
+what their engagement level is KPIs are
+great but they don't tell the whole
+story statistics should be the should be
+the baseline of what our customers are
+actually doing and thinking and all of
+us I think micro comp is so great at
+educating people and tools for things
+like churn prevention right and drip
+campaigns and there's so many tools that
+you can use but unless you're getting
+down back into who are these people who
+are buying my product and using my
+product and what are they saying about
+it and thinking about it and feeling
+about it then you don't have a full
+story there I also think that triggering
+customer interviews in case studies is
+like the top-of-mind thing that you
+should be doing especially if you are
+building a company that's in that one to
+four year mark you should have monthly
+interviews with customers like
+constantly constantly constantly if you
+have one customer that you interviewed
+four years ago you should be going back
+to them every year and saying what has
+changed what do you think about it what
+do you feel about this another thing to
+remember too is that you're not gonna
+save customer relationships and they're
+and the way that they think about your
+product by doing a redesign every year
+you're not gonna save their emotions
+towards your product by changing a color
+scheme or a typeface or moving a
+hamburger menu none of that really
+matters what matters is a communication
+that you have with them
+the language that they're using on what
+they're telling you and if you don't
+have those open communication lines if
+you're not seeking them out they're not
+going to be telling you stuff yeah it
+always bothered me I worked at a few
+companies where they wanted to boil
+everything down to numbers only where
+it's like NP s and response time hours
+and thumbs up yeah and all the stuff and
+what you know we're saying is yeah
+that's where you start that's your
+baseline is right and you have to think
+about like how would I measure I mean
+Rob you know this you're married a
+psychologist how do you measure the
+health of a relationship year after year
+after year a month after a month
+especially if it's a new relationship or
+a new French
+you've got to start thinking at putting
+that humanity into how you think about
+your customers the other thing too is I
+think a really valuable
+KPI if you want to get into that is
+customer effort score how hard is it for
+them to learn this product how hard is
+it for them to make it sticky how hard
+is it for them to get deeper into the
+product where they're more invested in
+can't believe it that's our goal
+those those sort of things you know
+looking at your customer support inbox
+is it is it an entire page worth of
+email is that how do I do something that
+seems really obvious to your development
+team that's a problem that's something
+to look into so customer effort score
+there's a lot of plugins and
+opportunities out there in the world
+just google it you'll find you'll find
+stuff you can use for that coolin just
+quickly before I go to the next question
+I have used at drip we used help scout
+and then we got acquired and we switch
+to Zendesk and Scout personally because
+it was simple and it felt very like
+one-to-one Zendesk wasn't terrible it
+certainly was not as bad as like the
+generation of summer support stuff that
+came before it that I had seen are those
+your if someone were to say hey I'm just
+getting started today one you know were
+two people three people working it wet
+wood is your go-to for like early stage
+and then where do you kind of recommend
+people migrate up to when they if they
+outgrow it yeah I don't think yeah it's
+built on the marketplace it's built on
+you gotta buy this side of in this
+edition in this edition and you got to
+have a sales manager and you can't
+upgrade to this until you talk to your
+sales manager there's people's whole
+lives out there and Enterprise land
+where that's their job is tool set to
+talk to the sales manager that's not you
+so I think right now help Scout is
+probably the best one it has a great
+integrated marketplace as well it's you
+know all the stuff you need and it's
+none of that bulk doesn't distract you
+I know founders I'm a founder myself and
+I know we get very distracted with new
+ideas that come along that we can add to
+this integration and all this kind of
+stuff and what you really need to focus
+on right now is the emails coming in and
+the emails going out that's about it
+so until you get to that place I you
+I tell people like if you're getting 100
+or less support emails a day
+across all categories stick to the
+smallest smallest opportunity for some
+people that might be a shared gmail
+inbox which is easy to hack easy to
+completely easy to use for a team that
+size even you know shared like I said
+help Scout is probably the next best
+option if you're ready to like move on
+to an actual you know reportable
+integratable help desk but Zendesk is
+like you've got 10 plus agents churning
+through a thousand tickets a day it's
+just not necessary great product for
+what it is it's completely
+revolutionized how Enterprise
+large-scale legacy brands do customer
+support but it's just not necessary for
+startups or growth stage companies at
+all very cool next question comes from
+Raffy banks and he says what are the
+most difficult challenges when it comes
+to customer experience for SAS companies
+are they specific to onboarding product
+training getting feedback etc Thank You
+Robin Robin Sarah I love these names
+yeah I think the one that I see the most
+the people that the companies that we
+consult with are usually startups growth
+stage companies less than 20 employees
+that's our that's what we do we set up
+processes for those those types of
+companies most of them are coming off a
+season of their founders doing customer
+support we were all taught back in 2009
+that your founders should do support
+it's it's a terrible idea I can
+tell you why but we don't have that much
+time I think it's just emotionally and
+spiritually very draining for people who
+are invested in building a product that
+is like their money their time all that
+stuff to then take on the burden of
+people nitpicking it and requesting
+things and this is broken and go fix it
+all there's too much baggage for a
+founder to be a really great support so
+what we find is that they when we come
+in at that point we're like well let's
+build a new process let's hire you
+someone or maybe we'll handle it for you
+for a while there's such negativity
+around the inbox they have such baggage
+about what's in there that they can't
+see clearly the opportunity
+that I talked about before where you
+could really gather so much valuable
+insight from what people are saying how
+they're asking it where they live what
+time of day are they using your product
+and sending your support you know this
+is like really important stuff so
+they've spent a year two years building
+a product and doing support for this
+thing and have it looked at any of that
+stuff right those are the things that if
+you're starting out now you really need
+to get a handle on you know the idea of
+a founder doing support isn't just to
+save money it's to get insight into what
+customers are doing but you can't really
+do that very well if you're too
+emotionally triggered by it right that
+glass case of emotion again if it's just
+too much for you so that's the number
+one thing the other thing that I see all
+the time people are doing is they're
+just throwing someone in that role an
+intern or cousin or they have a
+part-time office manager who sometimes
+does support for them those things are
+really dangerous because it's putting
+value you're telling everybody from the
+get-go you're telling your customers the
+value that you see in their customer
+experience some of the most important
+conversations that you'll get for
+product or firm development is gonna
+come from people paying you money then
+sending you support email and if you
+think that those conversations are have
+no or little value that you're just
+willing to throw it in front of someone
+untrained to maybe get get it closed
+that's a really weak way of looking at
+you know what customer experience should
+be we all talk about customer experience
+most important thing customer support as
+we you know customer driven growth and
+then we pay someone $15 an hour to do
+support part-time these things aren't
+compatible thinking it's that's not how
+we really have to invest in this invest
+in process invest in language invest in
+a knowledge base invest in onboarding
+just like you would you know hire a
+junior designer to build an app for you
+for a hundred grand a year it's I'm not
+saying you necessarily have to start
+pigs I'm 100 grand a year for support
+but you really need to think about it
+beyond beyond what that baseline is out
+there the trend out there you know to
+just throw whoever wants to do supported
+to support really devalues the kind of
+support that you're offering people so
+that's it I could rant about this all
+day oh gosh I didn't realize people did
+that I just see I've never viewed
+yeah I was viewed as a customer contact
+point that was just so that had to be
+done really well you know I would never
+throw random personnel if you're
+thinking about if you're thinking about
+selling if you're think about
+acquisition you've got to think about
+the value add one of the first things
+you're gonna look at is your customer
+experience you're gonna they're gonna
+look at your support emails they're
+gonna look at who's doing it they're
+gonna look at what you've invested there
+people forget about that they think it's
+all code and it's all design but it's
+really a whole journey that they have to
+look at so it's something that you need
+to be investing in just much as you do
+other areas of your company yep I so my
+rule of thumb for when I would start up
+a new because I've done this over and
+over and over she's launching new apps
+it was I would do support for about 90
+days and during that time I would be
+trying to figure out what are I mean
+this when it was like one or two people
+right and I'd be trying to figure out
+who's the best person to hire to slot
+this you know what are the fa Q's so
+that I can frequent ask questions so
+that I can give him to the next person
+and kind of train them up but after
+about two or three months you're right
+the emotional toll it was it was
+noticeable on me you know because
+they're nicking their nitpick they're
+making requests but they're nitpicking
+my baby but to you yeah it feels like
+nothing's gonna go for these people
+right like you spend all the time with
+your family you're putting your own
+money into this it's very hard to have
+them on you the pressure of building a
+company on you and still take a
+reasonable customer feature request
+seriously without getting like you know
+crazy about it so alright sorry I have
+someone screaming in the hall next to me
+I'm freaking something's going sideways
+so anyways I was distracted from yep
+Pablo has a question do status pages
+help with non-technical users to
+communicate downtime integrated service
+absolutely absolutely
+yeah don't have it says just do status
+pages help with non-technical users to
+communicate downtime integrated service
+yes
+status pages should be updated daily if
+you can automate that because you have
+no issues that's fine but keep in mind
+that status
+are not just for is Twitter down right
+it's for things like we added this new
+feature you might have to change your
+login today because we push you know
+password recycling whatever those things
+are that happen internally that someone
+might get a notification about put that
+on your status page status page the
+actual app amazing amazing part of our
+elevate community for a very long time
+we love them in that last year's I think
+they make the best product for this it's
+easy out of the box
+anyone can do it you do not have I'm
+gonna say this again you do not have to
+build your own thing it's already there
+don't offense behind just use something
+like status page I think more than you
+realize if someone has a problem with
+something more than you realize
+users and customers are now googling
+things they're googling the error they
+get they're googling this weird thing
+that happens they're looking for an
+answer there they're not going to go to
+your knowledge base and they're not
+going to look up your onboarding email
+that you sent that explained this exact
+predicament to them they're going to go
+to Google and so if you have a page that
+is top of mind that has errors on it or
+has your status or whatever it's looking
+for it's going to be a good opportunity
+to reassure that customer but also
+eliminate or defer that potential
+support email coming in so I think
+they're very very useful if you are not
+having issues if you have all clear all
+green and someone stumbles upon your
+status page or it's something that's
+prominent in your app that people are
+clicking make sure that you're also
+using it for app updates if you even
+want to get quirky about it and start
+putting you know tip of the days on your
+status page it's being seen it could be
+seen by someone so might as well use a
+real-estate right indeed awesome we are
+at time there's Rafi Banks had another
+question but Rafi you can hit her up on
+Twitter Sarah up she's at SH if you want
+to find out more about what she does day
+to day that's at coast support dot-com
+Sarah Hatter thank you so much for
+joining me today thanks everyone
+I awesome to see you again so coming up
+on May 20th
+next Wednesday same time same place we
+will have Val Geisler talking about the
+talk she had planned for micro Kampf
+starter before we cancel it had to
+cancel it so she's gonna be talking
+about how
+forming onboarding email audits can help
+with customer retention see you then
+[Music]

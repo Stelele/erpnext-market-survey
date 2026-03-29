@@ -1,0 +1,2340 @@
+﻿Today, I'm talking to Rob
+Fitzpatrick, author of The Mom
+Test and Write Useful Books. Rob
+is truly a serial embedded
+entrepreneur. He's building
+resources and tools for writers
+and product managers, by
+involving himself in their
+communities. So we'll talk about
+accountability, building trust,
+and how to build something that
+both creates wealth and lets you
+express your passion. Here's
+Rob.
+How's it going? How's life?
+Oh, I'm, well. We've got our
+first baby due in a couple of
+months. So that's fun. And yeah,
+apart from that, the businesses
+like default growing, you know,
+slowly, but it's nice if
+something's default growing
+instead of default dying.
+Definitely, yeah, much better.
+And apart from that, just too
+many books to write, too many
+things I'm interested in, you
+know, just strapped for time.
+But in a good way, it's mostly
+going. There's too much stuff
+I'm interested in right now. And
+not enough time to pull on
+everything properly.
+Has that ever been different for
+you? Have you ever not been
+interested in many, many things
+at the same time?
+No. But normally, like, if
+there's no other stakeholders, I
+find it easier to be like, okay,
+I'm doing this thing, you know.
+Or there's a clear top priority
+and then everything else is a
+hobby that fills in the gaps.
+And now there's like, the book
+has a clear priority, like
+family has a clear priority,
+like the business is a clear
+priority. It's like, oh, no,
+like, I can't drop any of those,
+you know. Or I can, but I don't
+want to.
+Probably not a good idea to even
+consider dropping your family
+for, you know, like, simplifying
+your life, probably not the best
+way to approach that.
+No, that's a short term
+optimization, as they say.
+Yeah. I think that's like a
+timeout. That's what they call
+it, right? Like sleeping on the
+couch, that's your short term
+optimization. But yeah, this
+kind of prioritization is always
+a problem. I see that too. I see
+that in my own work, too. Like,
+I wanna write and I wanna spend
+time thinking about what I wanna
+write. But I also wanna do the
+podcast, obviously, and I wanna
+have a family life. And I wanna
+be able to be there for the dog
+because she's a puppy and she
+needs me too. Like, there's all
+these little things that are
+super hard to juggle,
+particularly if you'd go at it
+alone. But you're not alone
+right now, right? For most of
+your things, you do have people
+who help you. Is that right?
+It's true. Yeah. So with the
+main business, well, there's
+five of us, like three partners
+and two, I guess, employees but
+it doesn't, we're a team of
+five. Everyone kind of feels
+like a partner. And then so
+that's the main business, which
+in theory we do. That's the
+useful book stuff, which in
+theory is a 20-hour week thing
+is the way we always intend to
+that. And then like Tracey and I
+like my, you know, my partner,
+whatever, future co parent,
+whatever you wanna call it.
+Like, we work together on kind
+of the personal business, which
+is like, you know, books, the
+new stuff I'm doing right
+community. All of that. I don't
+know, it's fine. Yeah, there's
+always people and there's bits
+and pieces that can kick talk to
+freelancers, but I'm just so bad
+at delegation. I find that I
+work really well with people who
+are just so much better than me
+at the thing. That they're just
+like, Rob, stop worrying. And
+you know, I'm gonna take care of
+it. And I go, yeah, that's
+perfect. And but when someone
+expects me to like to coach or
+train or provide kind of this
+ongoing managerial support, I
+don't know, it doesn't put me in
+my happy place. And I don't
+think they enjoy it either. So
+I'm trying to find like,
+partners or find ways to do it
+by myself.
+Yeah, what is your happy place?
+What could you do forever?
+I mean, I ran the thought
+experiment years ago and it's
+one of the reasons I ended up
+doing what I'm doing. I'm like,
+what would I do if I was
+retired? And I wasn't like, rich
+enough to like, go nuts. But you
+know, I didn't have to worry
+about paying the bills. And I
+was like, well, I probably spend
+the morning reading, writing,
+and thinking, then go have a
+nice lunch and then hang out
+with friends, have some beers,
+play some board games, like
+chat, you know, relax, take it
+easy, go for a stroll. And I was
+like, oh, like I don't need to
+wait till I'm retired. I can
+pretty much do that now. It got
+a little overcomplicated because
+I fell for the ambition bug
+again and decided to try to make
+a slightly different or a
+slightly bigger business, which
+is the useful books thing. But,
+you know, that's okay. So right
+now it's more, there's a bit
+more work than I intended and a
+bit more stressed than I would
+have ideally chosen. But it's
+also all for good reasons, you
+know. And then I went into it
+eyes wide open and I'm happy
+with the choices for now.
+Okay, what are the challenges
+with Useful Books because I find
+that product in particular, that
+is such a result of all the
+things you've been doing up till
+now. It kind of you know, like
+it has this kind of you wrote
+your own books, you figured out
+what you need in terms of like
+BETA readers and stuff and
+you're building a community
+around that particular thing.
+And to software as a service
+tool, obviously, you have a lot
+of things on your mind. But what
+are the challenging parts in
+building this software tool?
+Which is probably one of the
+first like standalone software
+tools you've ever built, right?
+Is that right?
+Well, I've done a few different.
+Like my first company, the one
+that went through YCombinator
+was all pure software. And we
+started being marketing lead
+consumer driven. And then we
+pivoted into enterprise sales
+driven. And still similar
+products, but totally different
+business model. And then I've
+done a few others kind of for
+myself, these little like indie
+hacker throwaway things, some
+made money, most didn't. But you
+know, they were fun. I tended to
+choose them for learning. But
+yeah, this is the first time in
+a while I've done it with a team
+and tried to, you know, commit a
+decade to it and make it a bit
+bigger. It is. So the business
+model just for context is we've
+got a book, which is like the
+education like this is the
+process. This is the manifesto,
+the think piece, planting a
+flag, which is write useful
+books, that leads into a
+community, like an
+accountability community, a
+community of practice and
+outcome oriented community,
+whatever you wanna call it,
+where it's like, hey, we're here
+to help you implement the ideas
+from the book. And then along
+that journey, there's a
+particular sticking point, which
+is the beta reading, where we're
+like, okay, there's not a good
+tool here. So we'll build the
+software. So it's basically the
+book leads into the community,
+which leads into the software.
+And you can draw the arrow
+either way, like you can say,
+like, okay, we had this idea for
+the software, but it's got a
+real problem with retention and
+audience awareness. So you can
+extend because beta reading only
+lasts like three months or six
+months, and you go, okay, that's
+a hard, it's hard. And people
+only do like one book. I mean,
+you're a bit different. You're
+going from book to book, but
+like most, a lot of nonfiction
+authors do one book, and they're
+like, this is my book. So we're
+like, okay, we've got zero
+retention and it only lasts like
+three to six months. And that's
+a feature. So you go, okay,
+well, the community expands that
+window because now we can catch
+people earlier in the writing
+process and we can keep them
+through seed marketing. And then
+you go, okay, but how do they
+know this matters? And then you
+go, okay, so the book, so you
+can draw the arrow from the
+software backwards or from the
+book forwards. And eventually,
+we'd like to tack a publishing
+business onto the end of it,
+where we're publishing our best
+community members based on the
+performance of their manuscripts
+during beta reading, which is
+kind of I guess, what YC did
+with Hacker News, where they're
+like, okay, we've got this cool
+community of people. We've got
+this deal flow looks like. And
+again, like, which way does the
+arrow point? So the challenge, I
+guess, is that it is a good
+bootstrapped business. But the
+reason it's a good bootstrap
+business is because it's a
+terrible business, at least the
+software for the reason that the
+market is small. The customer
+dynamics, as I just explained,
+are really difficult to market
+to. Like we had to write a book.
+It's like marketing and like, I
+can't think of another way we
+could have accomplished that
+goal, right? Because it requires
+huge education. Like Steve
+Blank, the dude who invented
+customer development, he used to
+say, you know, some businesses
+need to educate your customers.
+If you need to do that, add five
+years to your plans because it
+takes a while to educate the
+market. And we're like, okay.
+And then the community has like,
+a lot of overhead to run that.
+But once it's running, it's
+incredible like, because for
+marketing lead businesses,
+having a customer community is
+such an incredible superpower
+because you're basically
+watching people struggle all
+day. Like all day, they're like,
+I'm stuck on this. I don't know
+how to do this. This is blocking
+me. I'm scared of this. You're
+like, yes, if the customer
+development dream and there's
+zero bias because it's not in
+the context of an interview.
+Like, tell me what you think?
+It's like, you're just watching
+them work. So but that all leads
+to the problem, which is there's
+a lot of things. It's been slow
+to get to this point. We're
+currently at about 10,000 a
+month. We're like just barely
+profitable, you know, we pay
+people salaries first. We
+dividend out a little bit each
+month. We always wanted this to
+be a business where we dividend
+at every month. So we're not
+trying to like, you know, we
+want it to be product lead
+growth. So we're not trying to
+spend our profits on growth.
+We're trying to like, take the
+profits, right? We're at that
+stage in our career and like
+build a good product at our own
+pace that can grow itself. But
+it's been slow. Like, if you
+include the writing of the book,
+we've been at this three years.
+And three years is a long time
+to only be at 10,000 a month.
+But the bright side of that is
+that because the table stakes
+are so high and because the
+market is relatively small, we
+feel very insulated against
+competition because only a
+lunatic would do what we have
+done to get into such a small
+market. So we feel like pretty
+protected. And so now, we're
+gonna have a time pretty soon
+where 80% of the team is on
+either maternity or paternity
+leave. And so we're gonna drop
+from five people to one person.
+And the whole company is
+basically gonna go on to
+maintenance mode, like we're
+gonna continue to maintain
+everything. It's gonna be fine
+for community members, like
+everything's gonna work.
+Customer Support will still run,
+but it's like a skeleton crew.
+And I don't feel scared about
+that at all because it's like,
+no one can like swoop in and eat
+our lunch, or at least if they
+do, I will be very surprised.
+Because they'd have to really
+have something out for us, you
+know, because it doesn't make
+rational sense for them to do
+it. So I'm like, oh, that's
+actually great for what we
+wanted the business to do. So
+like its strengths were also its
+challenges, if that makes sense.
+Yeah, it sounds like you have a
+moat and just being super
+complex and not in terms of, you
+know, internal complexity but in
+terms of like structural
+complexity. The business you're
+running is a business that I
+don't think I've ever seen
+anywhere else, particularly not
+at this size, right? You have an
+info product based business or
+at least one part of it is an
+info product. And then you have
+a community that is both run by
+the people who have created the
+info product and other people.
+And then out of that community
+comes the need to use certain
+tooling which you also provide
+by the same people. It feels
+like this, it's not a one trick
+pony. Like, that's the thing you
+give as advice to most founders,
+right? Focus on one thing and
+build it really well. Well,
+you've been doing a lot of
+things at the same time, all of
+them really well from the looks
+of it. I mean, 10k a month is
+really not too shabby for any
+business, you know, most stone
+gets
+And it's a start because I feel
+you have this kind of
+It's a start.
+sustainability loop in there,
+right? The community attracts
+more people who then either buy
+the book or get into the
+software, the software itself,
+by virtue of being used by beta
+users might attract more people
+into the community or into the,
+you know, it has this nice
+little flywheel internally
+built. Was that a consideration
+from the beginning? Like, did
+you start with the flywheel in
+mind or particular component?
+Yeah. Well, I mean, you probably
+know that there's always some
+arbitrary spark, right? Where
+like a product pops into your
+head. And I found that sometimes
+it's a piece of a product where
+I'm like, oh, that's an
+interesting business model
+dynamic. Or like, oh, that's an
+interesting like product screen
+or whatever. There's some piece,
+right? And then sometimes I tend
+to write those down, even when
+they're half baked. I was like
+and I just jot them down
+somewhere. But sometimes they
+pop into my head, like fully
+formed. And sometimes you come
+back and like two pieces fit
+together or you can like
+workshop a piece and figure out
+what goes around it. I've had
+stuff for attacking the
+publishing industry in my
+notebooks for it's got to be 10
+years, maybe more than 10 years.
+And I haven't because I
+understand and I respect moats
+and the moats of the publishing
+industry are pretty substantial.
+So I was like, okay, fine, I can
+make a good living as an author.
+Like, I can play outside of
+their system as an independent,
+but it's like, I can't attack
+their moats head on, you know,
+it's just impossible. And I
+especially looked at textbooks
+where the moats are even bigger.
+They've got these, like sales
+teams. They go to the
+universities and there's kind of
+something going on, which is
+similar to how it used to be
+with buying IBM, where like no
+one gets fired for buying like a
+textbook from the proven
+textbook producers that the
+university is always used.
+Whereas if you're like, I'm
+gonna buy textbooks from this
+guy, Rob. It's like, suddenly
+you're like, whoa, like you're
+getting a performance review,
+you know, as a professor. And
+anyway, so it's been like, in my
+head forever, right? And I
+didn't I'm kind of a believer
+that like a product, that you
+start with a problem. And then
+like the, you know, the product
+emerges, but like I take that to
+even more of an extreme because
+I don't I'm agnostic about the
+medium. So I had an idea where
+it's like, okay, most books
+fail. That sucks. They shouldn't
+like books should. I'm like,
+okay, is that assault with a
+blog post? Is that assault with
+a mobile phone app? Is that
+assault with productized
+service? Is that assault with a
+publishing business? Is the
+assault of the SaaS business?
+And sometimes people go like, I
+had this idea. I'm not sure it's
+big enough to be a book. It's
+like, well make it a blog post.
+I'm not sure it's big enough to
+be a blog post. Make it a tweet,
+like making a good tweet is like
+good, you know? And it's like,
+oh, but it doesn't fit in the
+tweet. Alright, make it a blog
+post. No, it's bigger than that.
+All right, making a book. It's
+like you have a need to follow
+people make it a community.
+Like, you have it, it needs to
+integrate with their email, make
+it an app. And I see a lot of
+founders, they're like, I wanna
+do SaaS and then they find an
+idea and they like, wedge it
+into the shape of SaaS, but not
+every idea should be SaaS,
+right? Some a lot of SaaS, I
+think this is a classic new
+founder mistake I've seen is you
+read a business book that has a
+process then you go, I should
+make SaaS that codifies this
+process from the book. But like,
+the wonderful thing about
+writing up a process as a book
+is that people can customize it
+to their circumstances using the
+tools that they already use.
+When you codify it into SaaS,
+you remove that flexibility. And
+so then they go oh, everyone
+says they want it, but they
+don't use it. And it's like,
+yeah, because you've baked in a
+rigid workflow, like, that sort
+of process should be a book.
+It's like book native, right?
+Anyway, that's a long way to say
+that we didn't have a full grand
+plan, but we had a spark. And as
+I kind of pulled on that spark
+and I pulled on the threads.
+It's like, oh, this idea needs
+to be a book. It's like, oh,
+this book to work needs the
+community, this community to
+work needs tools. And I was just
+like, you know, I like I pulled
+on that thread. And we did
+realize early on that to do it
+properly, would take five years,
+at least and that if we weren't
+willing to carve out five years,
+we may as well not start. So we
+didn't know if it would succeed
+or fail, we still don't. But we
+knew that to give it a shot
+would require at least half a
+decade. So we kind of carved
+that out and committed it ahead
+of time. And the reason we were
+comfortable to do that is like,
+we like the niche. Like I like
+talking to authors. I like
+serving authors and hanging out
+with them. So I figured, like
+worst case, I spent five years
+hanging out with people I like
+and respect and trying to help
+them out. So that kind of, I'm
+calling it in my head, the
+passion discount, which I think
+is an important like
+bootstrapping concept where if
+you're venture funded, you
+wouldn't want to spend like five
+years on a bad market. But if
+you can apply like a passion
+discount where you're like,
+actually, I would like to spend
+my time this way anyway. Then
+the math starts to make a little
+bit more sense. I don't know if
+that was a long ramble. And I'm
+not sure I answered your
+question at all. It is complex.
+And one thing I'll say about the
+complexity is that I'm a big
+believer in playing to your
+strengths. And this business
+would have been suicide for me
+to attempt when I was starting
+out because there are a lot of
+moving pieces. And it's like, we
+do a little bit of everything we
+do like consumer marketing, we
+do like product design, we do
+like b2b. Like I just set up
+Holloway. I really respect as a
+publisher. And it's like, we
+were just talking to them the
+other day. And it's like about
+setting up some sort of agent
+model. Before we're able to set
+up our own publishing business,
+can we pass promising author
+leads to them and get a
+commission as like an agent or
+coach or like, you know, author,
+coach or whatever. And it's
+like, so there's like a b2b
+element also in the partnership
+side. There's all these
+different pieces. But part of my
+like, advantage now is that
+because I have no attention span
+and I bounced around between so
+many different business models
+and businesses and products over
+the past 15 years, I kind of
+know how everything works a
+little bit, right? So now I can
+piece it together and this weird
+homunculus. But yeah, it would
+have been tough if I was doing
+it as my first business because
+it would have been a lot of
+different things to learn. But
+you know, play to your
+strengths. And yeah, if I can
+make that more of my moat, then
+great.
+Yeah, I love the idea of like
+being just curious about
+everything can eventually
+integrating into some kind of
+knowledge that you can use and
+distributed amongst all these
+different topics. But for most
+founders, the problem is mostly
+financials in the beginning,
+right? They just don't have the
+capital to spend five years
+chasing the niche.
+Yeah
+They have to kind of get to
+revenue immediately. How was it
+for you? Like you said, you
+wanted to set five years, in a
+way for you. You wanted to use
+the five years for this. Like,
+how did you finance this?
+This is one of the reasons that
+we made it a 20 hour a week
+business from the beginning. And
+that applies to everyone on the
+team, including the employees.
+So when we hire people, they get
+a like full time salary, but
+it's 20 hours a week. So it's a
+full time salary for halftime
+hours. And we sell that to
+ourselves as well. And the
+conversation there is like every
+strong value, it has to cut both
+ways, right? It has an advantage
+and a cost. And the cost of this
+is that we work fewer hours per
+week, but it means we need to
+work more months. We need to
+stay in the game longer to get
+to a result. So we go on, it's
+taken us three years. Well,
+yeah, but part of the reason
+it's taken three years is
+because we're only putting in
+halftime. And the benefit of
+halftime is that we can use our
+other halftime to support
+ourselves. And so for example, I
+use my other half time primarily
+to work on my books and I draw
+an income from my books. One of
+the partners, Devin works
+halftime as a venture
+capitalist, which is hilarious
+because, you know, his like day
+job is being a VC. And then he
+works on this like goofy
+bootstrap business with some
+buddies and in his other time.
+You know, Mark, when he started,
+he was taking a sabbatical. And
+so his other half time was going
+to intensive woodworking
+training. He was doing 20 hours
+a week in the woodworking
+workshop, like training under a
+master craftsman. And then now
+he's just finishing. He's
+actually taken a month off and
+he's in France doing like a full
+time woodworking thing for a
+bit. And then when he comes off,
+comes back from that his other
+half time, he's gonna do some
+freelance days to kind of fill
+in the gaps. And so because we
+were willing to put in more
+months but fewer hours, like we
+weren't in as much of a rush to
+get to these profitability
+milestones. Now, that being
+said, we do pay, I think 5000 a
+month in salaries for you know,
+freelancers, part timers,
+employees, whatever. So we
+needed to get to the point where
+we weren't losing money there.
+But again, playing to your
+strengths, like I understand
+books pretty well. And so it
+does not feel risky to me to
+draw profit from a book. So what
+I did is we treated the books
+royalty, the books royalties as
+the seed financing for the
+business. So all of the books
+royalties go back into the
+business and that gave us our
+early cashflow and early
+profitability, which allowed us
+to hire these early employees to
+not have to worry and we started
+getting just because of our
+team. We got a handful of pretty
+credible early investment offers
+from really good angels. And it
+was tempting, right? Because
+it's always tempting you go,
+yeah, I don't have to draw into
+savings. But we knew we didn't
+wanna do this as a funded
+business because we wanted the
+ability to stay in a small
+market that we felt passionate
+about. And to do it slowly and
+properly. And so it was just
+important, like all this stuff
+combined, right? And this is why
+I say like, people are gonna
+hear this some and go like, oh,
+well, this is useless, right?
+Because it only applies to Rob.
+But the bigger lesson is that I
+had it in my notebook for 10
+years, right? Along with 100
+other ideas. And if I'd been in
+a rush to do it 10 years ago, I
+would have failed for sure. But
+because it was like, simmering
+in my brain, right? And I had
+100 other ideas in there. And
+each year, I would return to my
+list and I would rework them and
+throw some out there were no
+longer interesting or viable,
+add more in, look at new at my
+assets, my strengths, my
+weaknesses, like, you know, it
+meant that I was like, always, I
+was able to find this thing that
+played to my unique strengths.
+And everyone can do that. You
+always have some sort of
+connection, skills, competences,
+insights that other people don't
+have, I would assume.
+I would certainly hope that
+because you know, what makes us
+unique also gives us these
+unique opportunities. I think
+you're right and the fact that
+you had it in your notebooks for
+10 years. And always check back
+on it, right? Always took a look
+at it. And is it time for it now
+and I do have the capacity? Do I
+have the you know, the financial
+situation? Is the opportunity
+ripe? I think that that is why
+when I look at the community, I
+am fortunate I'm hard I think.
+I'm there from time to time. I
+don't go check. But I definitely
+get your emails with the cool
+events. I wanna talk about that
+with you too. But you know, when
+I look at the community, I see
+it growing and I see it being
+very active. And I think this is
+such a clear sign that there is
+something happening in this
+field, right? In the field of
+self publishing, mostly like
+where people now have the
+capacity to actually make a
+meaningful amount of income or
+just create a meaningful quality
+of book that people actually
+read, maybe even get a printed
+copy off that is rather new. And
+I think you're with KDP and
+Amazon and all these other print
+on demand things that are coming
+up or have been coming up for a
+couple years. This is the right
+time to encourage people to get
+started because it's just as
+easy as it's never been before,
+right? And I kind of yeah, what
+do you think about like the
+timing aspect of this? Like, do
+you think that is one of the
+most important choices here? Or
+like what do you think of
+timing?
+I mean, when I did so my first
+book came out in 2013. This was
+the Mom Test. So that's what 8,
+9 years ago, I don't know, eight
+years ago, eight years ago, yeah
+quick maths. So like back then,
+I used KDP. I used the self
+publishing stuff, but there was
+still a big cloud over it. Like
+when I would talk to people. You
+know, it's like a dinner party
+or whatever, I'd meet a friend's
+mom, what do you do? Oh, I make
+books. Oh, who's your publisher?
+No, no, I self published and
+they would get embarrassed for
+me. They would go like, oh,
+well, don't worry, I'm sure
+you'll make it. Just keep
+trying. And I'm like in the top
+percentile of most profitable
+authors in the world. That's
+like, it's gotten a lot better
+since then. And they're like,
+yeah, but you don't have a
+publisher, like don't you do all
+that. And I'm like, I don't.
+They're like, okay and then they
+would like leave, they like
+didn't believe me, they would
+leave the conversation. And so
+what's changed? It's not
+necessarily that the tooling and
+tech are better, although they
+are. And it's not necessarily
+that the knowledge is more
+available, although it is. But
+like, certainly, like
+culturally, the feeling about it
+has changed, right? And that's
+nice. And you're seeing people
+invest heavily in self up,
+you're also seeing the opposite.
+And this is only gonna get worse
+with the AI content creators. A
+lot of people are making a lot
+of crap at scale. I don't wanna
+like throw names under the bus
+here. But there's like there's a
+movement that's quite popular,
+which is I'll tell you the
+origin story of the movement,
+but I'm gonna try to avoid like
+implying exactly who it is. So
+there was an author who was
+like, huh, I make $7 a day from
+my bad book, you know. And he's
+like, I don't know how to make a
+bad book better. And I don't
+know how to market a book. But I
+do know how to make lots of bad
+books. So how many would I need
+to make at $7 a day for this to
+be a full time living. They
+basically like scaled that. And
+a lot of people like that
+because they don't wanna take
+responsibility for making a good
+product, but they're happy to
+make lots of stuff. And it's
+essentially like a spin on SEO
+arbitrage or AdWord arbitrage
+but instead of arbitraging
+Google Search you're arbitraging
+Amazon search and you get a
+trickle of traffic and it's kind
+of enough and so they're making
+books. Like they're locking out
+keywords to try to get this
+trickle of traffic. And that
+really doesn't resonate with me.
+That's not how I would want to
+spend my time. And I like to
+spend a couple of years on a
+book, right? And two years is a
+rush. Like, because you also
+need to learn things. You need
+to have enough life experiences
+to have an insight, to have a
+perspective. You need to spend
+enough time as you're writing it
+to talk to readers to understand
+if it's gonna work for people
+other than yourself. I mean,
+like, you've done this with all
+the writing and public stuff,
+right? You're like constantly
+hearing back from whether it
+works for readers and they're
+calling BS on it. I mean, you
+change your whole book title.
+Like you can't do that stuff if
+you're trying to turn out five
+books a year. And so like, we're
+trying to press back against
+that trend as well, where we're
+saying like, it's not about
+making a book as easily as
+possible or as quickly as
+possible or as painlessly as
+possible. It's about making your
+book as good as possible, you
+know, as long lasting as
+possible as recommendable as
+possible. So, yeah, there is
+like a groundswell here. In some
+ways, it's been helpful that
+there's so many like people
+making garbage because we've
+been able to pick a fight with
+them. And it's like, by like
+positioning ourselves against
+that, I actually think it's a
+more useful fight to pick them
+positioning ourselves against
+traditional publishing. Because
+we do get traditionally
+published authors. We have about
+30%, who are traditionally
+published 70%, who are self
+published. And we've got a
+couple in the community have
+sold millions of books, like
+some of the most successful
+authors in the world are like a
+part of it because they're like,
+oh, yeah, this makes sense.
+They're not big participants in
+the community. But they like,
+you know, they use the software,
+they follow the process because
+they're like, oh, yeah, this
+makes sense. I don't know,
+again, kind of a rant. I guess
+I'm in a ranty mood today.
+That's all right. I think
+honestly, the publishing
+industry, there's probably no
+better industry to rant about
+honestly, on many, many levels,
+right?
+We're looking at your pet peeve
+of it, Arvid.
+We're looking at nonfiction here
+because that's kind of where
+we're most of the community that
+you're centering all of this
+around is, but the fiction has
+the same problem, right? Like,
+looking at Kindle Unlimited and
+the kinds of books that just got
+created to get thrown in there
+that are as long as possible
+because it's per page read that
+people get paid, right? So you
+have these weird incentives in
+the industry. I think the most
+recent episode of Seth Godin's
+podcast is about launches, like
+book launches. That's the
+industry he's from and talks
+about, like how there used to be
+this whole thing where you would
+launch the thing and you would
+try to print as many books as
+possible to get them into
+bookstores so that shelves were
+full. But then with the weird
+return policies that the
+bookstores had, like they could
+just destroy the book and not
+have to pay for it. I guess, so
+much weird legacy stuff going on
+in this industry that I'm glad
+that not only the tooling works
+because you're right, obviously
+KDP what was it called before?
+Like, it had a different name,
+but before it was called KDP on
+Amazon, right? Yeah, it existed
+before Amazon, like made it KDP.
+But the perception of a self
+published book being actually
+okay, I think what Twilights the
+book was self published until it
+was picked up by a publisher
+too, right? And there are many
+people like Stephenie Meyer in
+the publishing world that are
+creating really good books that
+don't have to be published. I
+was watching this 11 hour
+lecture by Brandon Sanderson a
+guy like me who likes, yeah,
+he's great. And the fact that he
+put his whole, a BYU lectures at
+Brigham Young University on
+writing fiction or yeah, writing
+sci fi and fantasy. I love that.
+And he had an hour or two
+devoted to the publishing
+industry, one hour to the
+regular publishing industry and
+one hour to the self publishing
+industry. And he actually had a
+couple of people who were self
+published and making lots of
+money in that lecture.
+Currently, we're gonna put it in
+the show notes here because it
+was so interesting. Talk about
+like, how people are using, use
+the right word or gaming the
+system of, you know, constantly
+publishing, writing whole like
+not just trilogies, but
+quintologies, octologies of
+books all at once and then
+trickling them in every week so
+that they have this kind of
+graph of adoption. And it just
+feels like people are always
+chasing these weird incentives
+in selling books or presenting
+books, instead of just writing
+good books. It just makes me go
+crazy. Like the apparatus the
+industry around it, it's just
+such an incentivized field where
+the incentive that I would like
+to see the most is suppressed,
+which is build a good creative
+work that encourages people to
+do stuff better. Yeah, that's my
+rant. So there we go.
+I was watching, I guess
+yesterday or today, I don't
+know. Like Notion has kind of,
+you know, Notion, the project
+management thing. They've added
+like GPT Text generation into
+their interface like this AI
+text expansion and text
+generation stuff. And the
+examples they gave were so soul
+churning, you know, it's like,
+what should my launch strategy
+be in the AI is like write 10
+blog posts. And it's like, okay,
+what should my first blog post
+be? And yeah, it's like, this is
+why one blog item, whatever. Oh,
+man. And when I think about
+that, like one of my firm
+beliefs about books is that a
+book is not a pile of words, a
+book is at least nonfiction. A
+book is like a self contained
+solution to a problem for a
+particular type of person,
+right? Which requires insight
+and requires empathy into the
+reader so that you understand
+their context, like what's hard
+for one reader might be easy for
+another. People have different
+objections, which is why it's
+helpful to niche down. Anyway,
+and I was reading this stuff and
+I'm like, man is so generic. And
+there's got to be so many
+interesting implications here
+because you gotta take it to the
+infinite conclusion, right?
+Which is that there will be an
+infinite number of books about
+every topic, which are garbage
+and written by AI. Like, why
+wouldn't there be? There will
+also be an infinite number of
+websites about every topic,
+which are, you know, as good as
+you could expect to get from
+like an intern or like content
+creation hire who's just like
+doing the research and writing
+stuff up, right? And then you
+think about like Google, like,
+does it make sense for Google to
+like, surely they got to change
+what they are highlighting,
+right? It does the whole
+industry of like SEO and
+content, you look at like the
+Twitter threads and people like
+summarizing best practice and
+stuff. Why would you ever do
+that when an AI can do it so
+much better and infinite scale?
+I was trying to think like, what
+survives, you know? And it's not
+being able to put down words. I
+think having a high word count
+in books and blog posts and
+articles used to be seen as a
+badge of honor because it's
+signified that you did the work.
+It signified that you spent so
+many hours on the task thinking
+it through. And so that was like
+a proxy for insight or for
+something. Whereas now I think
+it's thinkers like people who do
+stuff, thinkers, like people who
+observe the world and have
+original ideas. And teachers,
+like people who have enough
+empathy for a particular type of
+learner that they're able to
+give the same content in a way
+that resonates with that
+particular person. And to me,
+those feel more like AI proof
+and more of a, like, that's what
+people should be doing, right?
+And that when I think about
+myself, it's like, I try dumb
+stuff. I learn things from it. I
+build empathy for a particular
+type of person that lets me
+write to them. But it also lets
+me build software for them or
+build a community for them or
+whatever else. And like,
+occasionally, I have a new idea.
+Not very often idea, but like
+every five years, I have an idea
+that seems worthwhile. And
+that's a good pace.
+But yeah, because honestly, even
+if it's just every five years,
+it's still better than an AI,
+which cannot have a new idea,
+right? It could recombine things
+into things that look novel, but
+I don't think there is emergence
+in AI, right? Thing that
+summarizes everything will only
+ever have the knowledge of the
+things that summarizes. It won't
+be able to come up with a
+classification beyond the things
+that it already knows how to
+classify. I remember when I was
+studying at the university in
+philosophy, which is a great
+fields to have, like mental
+models and abstractions. And our
+professor talked about the
+knowledge of the world and our
+job as academics in that
+context. And he described it as
+the world of knowledge is a
+sphere of everything combined
+within it. And you as an
+academic you as a thinker, you
+go to the edge of the sphere and
+you put a tiny little additional
+sphere on top of it, like, just
+imagine the world itself, the
+planet is the sphere of
+knowledge and you have a little
+ball that you put on top of that
+sphere. And if every academic,
+every thinker does that, with
+their own little knowledge, the
+sphere grows in size over time,
+in miniscule amounts, but it
+does grow. And that growth is
+the new original thought that
+every new person brings to it.
+And I don't think AI could ever
+leave the original sphere that
+it's been trained in, at least
+at this current stage, like
+GPT-3 or GPT-4 whatever it might
+be. There is no leaving the
+original sphere, they don't have
+the capacity to create this new
+little ball of knowledge and set
+it on top. Everything that AI
+does is contained in the AI
+itself. Is that something that
+makes sense to you? Or would you
+think that's actually a
+misconception here?
+So I think it can push outside,
+but like what's different is
+that like, I wouldn't expect
+that it could push outside in
+like a reliably credible way for
+quite some time because so the
+art for example, is really good
+at like abstract, like
+impressionist stuff, like
+amazingly good. And that was I
+felt one of the first genres
+that it really nailed and like
+the visual arts was this because
+you could look at this stuff and
+it's so dream-like and the
+mistakes looked intentional,
+right? And it's like, it really
+does the modernists and like the
+postmodern and stuff super well.
+And I read someone's write up
+about AI writing and their
+conclusion was that you got to
+expose your humanity like you
+got to, they did they referenced
+that James quote about like
+bleeding on the first page or
+bleeding in the first line, like
+showing your weakness, showing
+your humanity. But that's like,
+super formulaic and that like
+the AI will absolutely be able
+to do like, you can easily make
+up a sad opening story to any
+article you want to grab
+people's attention. But that's
+just like emotional clickbait.
+So that answer didn't really
+resonate for me. I much prefer
+like the observing new things as
+they're happening, empathizing
+with a particular group of
+people and speaking just to them
+and like doing stuff yourself
+experientially. For the new
+knowledge, I think it will come
+up with lots of things that look
+like new knowledge or could be
+new knowledge or could be like
+extensions, right? But like, in
+the same way that it can come up
+with abstract art where it's
+like, whoa, it's like crazy
+experimental. And you still need
+someone thoughtful to kind of
+look through all that junk and
+be like, oh, actually, this one
+is, you know, this one
+resonates. And I guess people
+have done it with Wikipedia,
+right? Like, maybe this is the
+way that we like crowdsource new
+ideas where everyone just like
+combs through all this, like
+weird stuff that the AI is
+proposing. They tried to use AI
+to come up with a new sports
+game, like a new team field
+game, you know, and they
+constrained it to be like, it's
+five players on each side, it
+happens on a whatever, somebody
+that size of a football pitch,
+etc. And they fed in all of the
+rules of like, every game and
+they were like, look, AI made
+this game. And it's really fun.
+And they played it. And but if
+you look through their
+methodology, what the AI
+actually did is it made like
+every possible plausible
+combination. And then they spent
+like 2000 man hours, essentially
+like combing through them by
+hand to try to find the ones
+that were plausible and then
+playing them. Now then you go,
+okay, well, like could the AI
+simulator get a model of fun and
+then simulate playing the games
+itself, like it does with
+AlphaGo, and blah, blah, blah.
+It's like, maybe. Like, who
+knows? Who knows where it's
+gonna get to. But I don't know,
+that feels a way out. I feel
+like we got to play the game
+that's in front of us. And right
+now I feel the game that's in
+front of us is that if you're
+making Twitter threads,
+summarizing best practices, you
+are out of a job, you know.
+Like, if you're writing these
+like summaries of business,
+anecdotes from Steve Jobs as
+time doing whatever, it's like
+you're out of a job. If you're
+like scaling your business by
+writing lots of articles and
+you're hoping to kind of search
+results you are out of a job,
+like that stuff is gonna quickly
+stop working. And I think
+there's gonna be a brief window
+where people it's like humans,
+leveraging the AI to do AI
+powered, like mass content spam,
+whether it's in the form of
+books or audio or blog posts or
+what tweets or whatever. And I
+think that some people will
+build a really big audience by
+doing that and potentially make
+a bunch of money and that
+they'll sell a bunch of courses
+because a lot of people wanna
+emulate them because it seems
+like an easy path. But to me,
+that seems the same as the
+AdWord arbitrage that happened a
+couple of decades ago, where
+some people got really rich,
+arbitrage and AdWords. But it
+was essentially a zero value way
+for them to spend their time
+they weren't creating value in
+the world. They were just taking
+it, right? It's just you know,
+they're just taking a tax off
+this like inefficiency and find
+someone's gonna do it. It may as
+well be them. It doesn't really
+matter. But it doesn't feel like
+an aspirational way to spend
+when it's time to me like I
+can't imagine a crafts person
+being like, yeah, this is what I
+wanna do. So just like skip past
+that and go back to the I'm
+actually I paused my newsletter
+this week. I've been sending a
+newsletter to one of my like,
+personal community, it's a
+community about communities. But
+I paused it for the reason that
+this whole thing is throwing me
+for a loop, where I kind of feel
+like frequency is gonna get
+commoditized and word count is
+commoditized. And I kind of feel
+like I need to go in the
+opposite direction where I go
+slower and deeper. And you know,
+because I feel like everyone in
+their dog is just gonna be
+sending more stuff as it gets
+easier and easier. And I don't
+wanna do that. I wanna play the
+opposite game. But we'll see.
+I'm sure that's self optimal.
+Yeah, we will see, right? That's
+the thing. And I think that long
+term thinking that's the point.
+I feel all these things you just
+described that are gonna put
+people out of their jobs are
+short term wins or things that
+are not gonna be around for long
+because they are being abused by
+the people who are using them,
+right? And then this abuse will
+kind of cause regulation to
+happen for things to kind of
+quiet down or just the people's
+active ignorance of that thing
+will cause it to be less
+effective, just like spam emails
+and stuff, you know, spam
+folders and spam detection,
+right?
+Exactly. Like we recognize
+clickbait now. We recognize spam
+emails. And so that stuff
+doesn't work. Like it works
+briefly at scale, but then it
+stops and I guess it still works
+on a certain like subset of the
+population, which I guess is
+enough to feel the business
+model. So sure, you could
+probably use like AI written
+text to build a really big
+audience of stupid people who
+like wanna read AI generated
+text. But like, are those the
+customers you really wanna
+serve? Are they a desirable and
+profitable customers? Like but I
+don't know.
+I could see it in fiction.
+That's the thing. And nonfiction
+it doesn't make sense because
+there really is no instructive
+quality or can a genuine
+connection combined with
+instructive quality to AI
+written stuff, it doesn't have
+this personal touch. When I
+write something, I want it to
+sound like me because that's how
+I sound. That's how I wanna
+communicate. When I let an AI do
+this, it's hard for the AI to
+kind of pick up my style and the
+way I would explain a certain
+thing, right?
+Have you seen what's happening
+in the art world where you can
+feed in 10 or 20 photos or
+drawings by someone in their
+style, and then go like,
+alright, give it to me in this
+style. I don't see any reason
+you couldn't do that for text as
+well. Just the interface isn't
+there quite yet, but it will be
+soon. And you can be like, I was
+thinking it'd be really funny
+when it's possible. I'd love to
+see some of my blog posts like
+rewritten in the style of Hunter
+S Thompson, like aggressive,
+angry, Gonzo, drug fueled, like
+style on like my knowledge. And
+I think it can be really fun,
+right? And you can imagine
+people reading like, just like,
+you can look at websites and you
+can kind of control the font
+size. You can be like alright, I
+wanna read this guy's blog post,
+but like, you know, an angry
+lunatic or like, you know, like
+in three sentences. I was
+running some of my writing
+through a little like AI
+condenser called summary, to try
+to see what how the AI would
+compress it because I was trying
+to see is like, I was trying to
+find wasted, like, you know,
+wasted whatever verbiage or
+phrases or wasted bits in my
+message. And I was actually
+really happy because I
+compressed it at a bunch of
+different levels to the AI and I
+felt like even at the lightest
+compression levels of reducing
+the text, I felt like something
+important that I tried to say
+was missing from the
+compression. So I was like,
+okay, that's a good sign that,
+like I'm packing like value into
+the words like you sentence is
+doing a job. Anyway, it's
+fascinating times though. I'm
+like really keen, but man, I'm
+not looking forward to the spam.
+I feel like I'm gonna have to
+unfollow literally everyone on
+Twitter if this stuff goes
+mainstream because I just can't
+put up with reading more crap
+written by like garbage machine
+summarizing said like stuff
+like, tell me what you learned.
+Tell me your thing. Don't tell
+me what you read in someone
+else's book. Like, tell me your
+experiential insights, right?
+It's probably gonna come to a
+point where we have like Content
+Aware like ad blockers or spam
+blockers that see a summary of
+block it. Yeah, we've seen this
+before. Or yeah, it's weird that
+we have to invent tooling to
+fight the capacity of technology
+that is being enabled by other
+tools. It's just really sad. But
+one thing I wanna say about this
+whole different voices for the
+same content, actually, I quite
+enjoyed that. Because that just
+kind of blows my mind in a
+certain way to be able to read
+something in a tone of voice or
+in a style that works well for
+you. That's just what education
+should be, right? I was having a
+conversation recently about like
+education and this kind of
+frontal school education teacher
+stands in front of 30 kids and
+teaches them the exact same way
+where every single child has a
+different way of learning,
+obviously, that's how people
+are, right? So having a way to
+consume knowledge in a way that
+makes it more compatible with
+you guys, amazing. That's a
+wonderful idea. And if AI
+tooling could help with that,
+great, but that's I think the
+big difference here. The
+underlying information that this
+AI changes, that has to come
+from somewhere, right? And that
+cannot be auto generated out of
+something randomly. This has to
+be intentionally put there.
+However colored it comes out in
+unique personal perception, the
+knowledge itself that has to be
+stable and well structured,
+which I really love the idea
+with summarizing your own stuff
+and seeing what's missing.
+Because if you can summarize it
+and nothing's missing, then
+obviously you are way too
+verbose, right? And you can
+condense it even better for
+people to pick it up more
+quickly. That's actually great.
+And that kind of brings me to a
+point like I do like AI enabling
+or AI powered tools for writing.
+I like Grammarly to check for
+like basic grammar stuff. I like
+Summarize and I like, what does
+it call bot for like certain
+rephrasing things when I don't
+have a better idea. I mean, I
+could go to a synonym page or
+somewhere to find different
+words, use it myself, but if the
+thing can do it by itself for me
+to give me alternatives,
+wonderful, these tools are
+great. But the tools are just
+tools. The structure of the
+thought has to be within me,
+right?
+My second book was called the
+Workshop Survival Guide, which
+is about education design. And
+the big, like, concept of that
+book, like the core idea is
+don't start with the slides,
+start with a skeleton of
+learning outcomes. You know,
+well, really you start with the
+audience profile. You're like,
+where are they at when they
+arrive and what do they need to
+be when they leave. So like,
+what's different about what they
+can do and understand between
+the time they have arrived and
+leave. Then you go, okay, what
+like learning outcomes they need
+and what's like supporting
+learning outcomes, blah, blah,
+blah. And then you start
+thinking energy levels, timings,
+breaks, etc. And then the last
+thing you do is you make the
+slides. And what everyone does
+when they first approach it is
+they do the opposite. Because
+the slides are the most visuals,
+they start with the slides and
+the words and then they get
+really stuck, right? Because
+they aren't clear on their own
+message or the structure of that
+message. They're like, and it's
+way slower to move the slides
+around than it is to move like a
+list of learning outcomes
+around. And the same is true
+with writing books. It's like
+I'm a big believer in like,
+start with the table of
+contents, teach it before you've
+written it because it's way
+easier to iterate on a table of
+contents than it is to iterate
+on a 50,000 word manuscript or
+whatever. And it would be really
+cool if there was like, this is
+just playing off what you said.
+But if there was a standardized
+format of like, this is the
+knowledge structure under and
+then this is the pros. So this
+is the skeleton and this is the
+skin. So like the knowledge
+structure, the learning outcomes
+and you know, and then that
+could be re skinned in different
+voices, it can be embellished,
+it could, you can imagine an AI
+being like, oh, I'm looking for
+an example of when focus can
+backfire. And you can imagine
+the AI being like, oh, this
+person really likes Napoleon.
+Let me go get a Napoleon
+anecdote to illustrate this
+point. And then boom, you've got
+Ryan Holiday in a box, right? Or
+Robert Greene or any of these
+authors, like that's what they
+do. And you could imagine that
+those stories being swapped out.
+Now their voice is in their
+selection of stories, right?
+They like find a consistent set.
+And you can argue that's like,
+the interesting value of a good
+DJ on a radio station is like
+they've chosen an interesting
+set of selections to kind of
+build toward a whole, whatever.
+But you would want like a
+craftsperson. I was trying to
+play I was like, okay, I'm
+actually halfway through writing
+a post is called like, the
+writer is dead, like their
+writing is dead, you know? And
+it's like, what are the jobs
+that replace writing? Because if
+putting down words have been
+commoditized, it's not about
+writing, it's about like, is it
+knowledge creation? Is it
+curriculum development? Is it
+like empathy and teaching is
+that? Yeah, there's probably
+some really interesting business
+models there, where you're like,
+we create the core curriculum to
+teach kids of this age with like
+this socio economic background.
+And it's like, we're like, we
+create, like the underlying
+knowledge skeleton for this
+topic. And then you can skin it
+up however you want by hand with
+AI, whatever. I don't know. And
+then when people are refining
+it, you could separate the
+structure from the
+Yeah, it could be a whole other
+job. Like, you could be like a
+knowledge transformer, that
+could be an extra profession for
+a particular industry. And also
+that would kind of give people
+who have this particular niche
+expertise in that particular
+field and opportunity to
+translate knowledge from another
+field right into their field,
+which is kind of lifting the
+tide lifting all the boats at
+the same time, if you spread it
+out.
+It'd be cool too. You can
+imagine keeping like the core
+knowledge tree and like source
+control and then essentially
+branching it. So like, let's say
+there was a really well
+developed like tree of startup
+fundraising knowledge, without
+all the superficial blah, blah,
+blah, that people put on with
+the word craft, but just like
+the core knowledge. And then you
+can imagine branching that and
+that was like, okay, this is
+nonprofit grant writing or like
+grant raising. And this is like
+academic proposal writing. And
+you can imagine, like, I don't
+know, they can be cool stuff.
+I'm like, way too pie in the sky
+right now.
+Well, why not? I mean, you can
+be wherever you wanna be, right?
+That's the wonderful thing about
+having all this agency. But both
+in your own business and your
+own life, if you can just like
+dream about this for a couple
+hours, why not? I love the idea.
+I love the idea of abstracting
+knowledge away from its prose
+form. I think, as much as
+humanity has thrived and grown
+on the written word, we are at
+this kind of point where there
+is definitely a move forward
+towards a different structure.
+Funny enough, probably a
+structure that we ourselves as
+humans will have a hard time to
+comprehend. Because we
+experienced the world through
+words through sentence based
+thinking, at least that's the
+way we communicate, right? If in
+this kind of stream of words.
+I've always been a big sci fi
+fan and thinking about like how
+even the concept of telepathy of
+thought transfer would change
+the way we think not just the
+way we communicate, which is a
+whole thing, right? Like, if
+you've watched Star Trek and
+something, you still have these
+audio representation of
+telepathy, where people kind of
+talk in each other's minds. If
+you look at thoughts in your
+mind, while you think them
+yourself, they're not audible,
+not necessarily, right? They are
+constructs that you have. And
+then you kind of take parts of
+it and you communicate them in
+this kind of word by word
+structure. That will change if
+we have a brain computer
+interface that can take a
+snapshot of the thoughts not
+just an expression in words, but
+the actual structure, kind of
+mind blowing stuff because it's
+unimaginable at this point, I
+feel, but definitely an
+interesting field of research.
+So when is that product coming
+out? When is your business
+building that particular
+product?
+Well, gosh. So I think the
+testbed for that is because I've
+been trying to figure out my own
+blog posts like my own
+newsletters and my own content
+and stuff, right? And right now
+I'm in the process of doing an
+update to write useful books.
+I'm doing the 1.1 update. And it
+started and I was like, I'm just
+gonna fix a couple of like
+factual errors and typos that
+slipped in. But as I go, I'm now
+like a month into the update.
+And it's turning into a much
+bigger project, which I'm
+actually excited about because
+it's fun. But while doing that,
+I'm like, okay, I've added a
+bunch of like, I've expanded the
+page size. This gets back to
+your question, I promise.
+There's just a meandering route
+there. So I've expanded the page
+size. So there's way bigger
+margins and then I'm filling
+those margins with like a ton of
+stuff, right? Like the quotes
+and tidbits and behind the
+scenes and like tactical tips
+and all that or at least this is
+the plan. We'll see if I get
+there and print. But then I'm
+like, wait, that only works in
+print. How does that translate
+to the audiobook? How does that
+translate to the Kindle version?
+It doesn't like you can't inline
+all these things, you break your
+reader experience, you can't
+like narrate them. I heard of an
+audio book where for the
+footnotes, they just narrated
+them and like the dude did a
+different voice for footnotes.
+And apparently, I was just like,
+absurd. Because he kept like
+switching to this like fake
+voice but and then I'm thinking
+like, wow, like the format's are
+already diverging, right? And
+I'm in the process of, I've
+decided to give all of my books
+away for free forever on the web
+as like web versions. And then
+I'm like, well, if it's a web
+version of The Mom Test or the
+Workshop Survival Guide, you can
+bet there's gonna be audio of me
+delivering these like
+conversation techniques or
+facilitation techniques, right?
+Because why wouldn't you if it's
+a web version? And then I'm
+like, well, that's already
+different than the other
+versions then. And like, so it's
+like, I feel like the idea of a
+book is already fragmented
+because we had a decade or two,
+where the paperback, the Kindle,
+the audio book and the web
+version were identical, right?
+And I feel like that's starting
+to fragment and you've got a
+publishers like Holloway, who
+their whole thesis is to double
+down on the web version with a
+bunch of digital value adds that
+you can't do in other formats,
+and then charge a premium for
+it. It's like, okay, well,
+that's interesting. And so then
+when I think about something
+like this, it's very, like media
+medium in the like hand wavy,
+you know, heading the cloud sort
+of stuff. So you gotta try it. I
+remember reading a really cool,
+call it a web book from someone
+and it started as a I wish I
+could remember the source, I
+don't, but it started as a
+single sentence, right? It's
+like I'm making this up. But
+let's say it's like, selling is
+about asking good questions,
+right? So you go fine. And then
+each of those words was
+clickable and would expand into
+like, a clause and the clauses
+weren't, like the sentences
+within that. And essentially, he
+realized that he had an entire
+book that like was structured as
+a tree, which collapsed down to
+a single sentence. And like,
+each word could be expanded out
+and expanded out and expanded
+out. And you know, on the one
+hand, that's just like a fancy
+visualization over linking and
+hypertext. But on the other
+hand, there's something
+different about it, right?
+Because like it is the knowledge
+hierarchy. So I can imagine
+playing with something like that
+or different formats of that
+with my own writing, with my
+blog post with this and that.
+And, you know, eventually it's
+like, you do it for yourself
+bespoke for a while. And if
+people like it, they ask you
+what the tool is and you go, oh,
+it isn't really a tool. You
+know, you eventually make the
+tool for yourself, you expose it
+to a few other people. It feels
+like that sort of product where
+it's not solving an explicit
+problem, like problem that you
+can kind of validate and a clear
+cut way. And it's much more like
+does it feel good to use? Do
+people like to use it? And this
+is how stuff like Rome and the
+digital Kanban boards like
+Trello and stuff like that, that
+is how they got started. So I'd
+imagine this is in that like
+product category or problem
+category, where you kind of just
+need to tinker and see how it
+feels and play with it. Because
+it's also possible, I've
+sometimes learns that these
+things sound amazing in theory,
+and then you try them. And then
+you're like, that is fun once or
+that works really well for one
+type of content. But it does not
+scale to other types of
+contents. And it's never gonna
+get widespread or it's just way
+too much work to create. So it's
+not worth it, even if it is
+technically better. There's all
+these things that you don't
+figure out ahead of time.
+Yeah, kind of reminds me of what
+you said earlier, people like
+building businesses that then
+confined the actual capacity
+that people have, right? If you
+build a SaaS that doesn't fit in
+somebody's workflow because it
+designs a completely new
+workflow for them. They're not
+gonna use it just the same as if
+you take a book and a shape that
+people can use because they
+wanted to actually have physical
+version of it. And you don't
+offer that because it's all
+hyperlinked and stuff, which is
+great, but you know, it doesn't
+really translate, then you don't
+have readers for that book. And
+that's kind of what an author
+one site is, is their knowledge
+disseminated, distributed and
+consumed.
+I mean, any product creator,
+right? It's like you're
+opinionated. But you also gotta
+be open to the realities of the
+world. And, I don't know.
+It's in transition, it's hard.
+It's like, it's likely a
+transitionary thing. Like, there
+will be experiments like this. I
+think I've seen people build
+these hyperlinked books and
+particular with special media
+parts and then they compile down
+to an ePub without the media
+parts, but build links to the
+platform that exists, it's just
+complicated to use. And that
+usually in the market of mass
+distribution, right? Or at least
+like high distribution of the
+same product to different
+people, UX is a factor and you
+kind of wanna make sure that the
+thing you offer is usable. But I
+still love this little excursion
+into what knowledge structure
+could be and how we could turn
+it into into books because I
+love books. I love reading.
+Maybe these are two very
+distinct things, or will be even
+more distinct in the future,
+like the consumption of
+knowledge will not be reading
+books alone, it will be ebooks
+with other things attached. And
+I love the idea that all of this
+is kind of culminating in the
+community that you currently
+have what you see people
+struggling with making these
+things happen. And maybe that's
+one of the things that I wanna
+talk to you about while we close
+off this conversation here. The
+community that you have, you're
+an integral part of it, right?
+You're part of the person
+leading the community, you're
+doing events in the community.
+And I heard you say earlier that
+you like to go from thing to
+thing. You have a wandering
+attention. How does that work
+together? Because the community
+is something you need to
+constantly maintain and
+constantly like, move forward.
+How do you keep yourself
+accountable in this
+accountability community?
+So I've got two communities,
+which is possibly a bad
+decision. But there are
+different stages. So one is the
+useful author's community off of
+usefulbooks.com. And another is
+a community about outcome
+oriented communities, which is
+this like category of community
+I'm trying to figure out or
+define or whatever, which is off
+of robfitz.com. And they're very
+different stages. So the, you
+can think about like, is the
+community kind of at a stable
+point. So okay, I've got these
+dumb stages. So my first stage
+for community design, I call it
+the content and concierge stage.
+So you're doing a lot of
+concierge service, there's not
+enough other people to be
+helping each other. The cultural
+values aren't instilled in the
+members. So the founder, the
+creator, is very important,
+right? Because you're like
+making the connections, you're
+inviting people into the
+conversation, you're creating
+content, as if it was a campfire
+for your other members to gather
+around and have something to
+talk about and like to bring
+them together in these pockets
+of critical mass. That's where
+the outcome oriented community
+is. So if I stopped doing stuff
+that community dies and I'm like
+very much on the hook for like
+stimulating activity each week.
+Then the authors community where
+it's a couple 100 members is at
+what I call the second stage,
+which is simple, stable system,
+where we don't have all the
+fancy automated nations, we
+don't have all the fancy
+personalizations. But it runs
+like, people know what they're
+doing there. They know what the
+roadmap is. They know where
+they're trying to get to. They
+know what the proximate goals
+are. They can measure where
+they're at against that and
+understands like, okay, they can
+kind of self debug. There's
+enough members who have been
+there for long enough that the
+culture is kind of, you know,
+instilled. We know and like Seth
+Godin is where it is like,
+community is knowing people like
+us do things like this. Like
+that's like instilled. It's like
+authors like us beta read.
+Authors like us put it out there
+before we're ready. Like authors
+like us iterate. Like authors
+like us aren't trying to get it
+done fast. We're trying to get
+it done right. That's, like
+pretty instilled in the culture.
+And so they feel totally
+different to run. Like when I go
+on paternity leave in a couple
+months, the author's community
+will run without me just fine.
+Like, already, we've got four
+weekly writing accountability
+groups and I only run one of
+them. So we've already moved 75%
+of them to other people.
+Wow!
+The newsletter, we've got like a
+really clear style guide and
+structure, which is like
+intentionally a neutral
+journalistic style. Sometimes I
+write it, but sometimes other
+team members write it. And it
+doesn't matter because it's like
+all figured out in the style
+guide. It's like we refer to
+people in this way we like use
+this tense of verbs. Like we
+celebrate these category of
+things. We don't celebrate
+these, like we have a bunch of
+examples of like, this does not
+belong in the newsletter, even
+though it looks like it should
+for these reasons. So there's
+like that style guide is really
+well defined. And it runs like,
+we know what that community is
+right? Like now if there's a big
+name author coming in for a
+guest interview. Yeah, I
+probably need to do that myself.
+But probably not forever,
+though. Like already, we're
+going to start like I'm gonna
+bring in a co host. And then
+eventually that's like steps
+toward them being the host. So
+that was like working. And then
+the final like stage, the third
+stage of the community is like
+the flywheels, the growth of
+fancy systems, the you know,
+whatever, like integrating it
+into a more fancy business
+model, which we have parts of.
+Anyway, so that's why it's
+different. I am pretty concerned
+about the outcome oriented
+community community when I go on
+paternity leave because it does
+not run without me. And the kind
+of like, there's a couple really
+motivated members who really
+care and are really involved.
+It's a paid community, I don't
+know. Like I thought like, if
+things go really well in the
+next couple of months, then
+maybe I kind of like promote
+them to be like community
+volunteers or managers or
+something and they run out and
+fine. I thought that maybe I
+tell everyone that I'm leaving
+in two months or however long, I
+guess a little longer than that.
+And that I'm pausing their
+payments and I'll be back in
+three months or six months after
+that. And if they wanna stick
+around, they're welcome. And if
+I show back up and no one's
+there, that's fine, too. Like, I
+thought about saying like, this
+was great. Like, I can't run it
+anymore. I'm sorry. I thought I
+could get it stable before I
+left, but I couldn't. And I
+don't want it to backslide and
+to waste your time and become
+spammy. So I'm just gonna close
+it down instead. And then refund
+a couple months. Because
+ultimately, like, I don't know
+how to build the outcome
+oriented communities, right?
+Like the point of this community
+was for us to explore this idea
+together. So it was meant to be
+collective knowledge discovery.
+And as for the other part of
+your question is like, how do I
+stay excited even though I tend
+to drift? The reason I stay
+excited is it's because I'm not
+building these communities
+cynically. I'm building the
+communities that I want to be a
+part of. It's like, I'm trying
+to figure out community. So it's
+not that much of a chore for me
+to join the outcome oriented
+community and read what people
+are saying and get your
+thoughts, right? Yeah, like I
+write books every morning, you
+know, and sometimes it's really
+hard. Sometimes it's
+discouraging. Sometimes it feels
+like you're going backwards.
+Like, I know what that's like.
+And it's nice to be able to ask
+people for another perspective.
+So it's like, okay, that makes
+the author's community kind of
+fine. Like, so that's how they
+fit into my life, that's how I
+stay interested in them. There
+was no way I would be able to
+stay motivated to run an
+arbitrary community just because
+I thought it would make money.
+Like, that would be impossible
+for me, I don't have that sort
+of consistency and follow
+through, I have to be
+intrinsically interested. And
+already, honestly, two is a lot
+plus a business. Plus, like not
+wanting to work that hard. It's
+like, plus trying to write my
+own book, it's like a little bit
+too much, you know, but I really
+don't wanna give up any of them.
+Well, I can feel your passion
+and the purpose that you seem to
+feel from running and being part
+of these communities. And I
+really appreciate that because I
+think you're doing great stuff
+there. Like both for the author
+community, obviously creating
+this platform for people to be a
+platform for knowledge, just
+wonderful. And a community that
+is concerned with building
+better community and couldn't be
+any better, right? That's just a
+wonderful thing. So thank you so
+much for doing this. I think
+that that is just I benefited a
+lot from reading about these
+things. I frequent your website
+a lot. And I read your posts
+that you put in there. And it's
+always quite insightful, always
+very different angles and very
+different things that all kind
+of come together and create
+something that is bigger than
+the sum of its parts, which is,
+I guess, the point of a
+community. So thanks for doing
+this. Thanks for doing this in
+public too. And sharing all your
+knowledge both there and on your
+YouTube and wherever. So where
+do you want people to find you?
+If you care about writing books,
+it's usefulbooks.com. If you are
+just curious about me or the
+community stuff, it's
+robfitz.com. So either
+usefulbooks.com or robfitz.com.
+And you know, it'd be fun to see
+you there if you're interested.
+Absolutely. Well, thanks so much
+for being on. That was a
+wonderful conversation. We went
+far out and right back to Earth.
+So thank you so much. That was
+amazing.
+My great pleasure, always great
+to talk to you, Arvid.
+And that's it for today. Thank
+you for listening to The
+Bootstrapped Founder. You can
+find me on Twitter @arvidkahl.
+You'll find my books and my
+Twitter course there as well. If
+you wanna support me and the
+show, please subscribe to my
+YouTube channel, get the podcast
+in your podcast player of choice
+and leave a rating and review by
+going to
+(http://ratethispodcast.com/founder).
+Any of this will help the show.
+So thank you very much for
+listening and have a wonderful
+day. Bye bye

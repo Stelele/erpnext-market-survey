@@ -1,0 +1,231 @@
+﻿the most learning I've ever done the
+fastest I've done it in terms of being a
+developer is once I started doing it 40
+or 50 hours a week for someone else hey
+this is Rob Walling today I wanted to
+answer a question from our community I
+brought in my friend Reuben Gomez he's
+the founder of bid sketch and signwell
+to get his input as well if you have any
+questions you'd like to ask drop them in
+the comments and we'll see about
+answering them in a future video or
+maybe a live stream and with that let's
+dive in hey Rob my question is what
+level of expertise would you say the
+founders of a B2B SAS should have in
+order to create a successful product
+would you say that they need to be
+senior developers or would you say even
+if you're a beginner and as long as you
+know how to get by you should start and
+there's a chance you might get somewhere
+I just want to know what your thoughts
+are on this so I like this question I
+think oftentimes we get the do I need to
+be a developer or not and it's a very
+binary way but haybird I think is asking
+how much of a developer do I need to be
+and I want to be clear I don't think
+he's asking do I need to be a developer
+to start a SAS I think specifically he's
+asking how good of a developer do I need
+to be to code to actually build the SAS
+what are your thoughts it really depends
+on the complexity of the of the app it's
+hard to generalize when it comes to
+something like this because you could
+have SAS products that are relatively
+simple more cred like even certain parts
+might be people powered so that there's
+really nothing complicated to build out
+and those I think who's just starting
+out with development that has a few
+months of experience that could do some
+of the basics would be able to build
+that out the problem is it's just not
+going to be a good code it'll probably
+have to be Rewritten at a later time
+even the more simple version of it it
+gets tricky when we're talking about
+something that's complex not only
+potentially could there be some really
+bad bugs and things like that but it can
+drag on for a very long time way longer
+than you expect especially if you don't
+have experience like estimating projects
+and how long something will take to
+build everyone even very experienced
+developers think things will take way
+less time than they actually take
+somebody who who's looking to do that
+would probably consider at least hiring
+it could just be somebody to help Mentor
+them or you know coach them on some of
+the more complicated Parts Outsource
+like the more difficult Parts it doesn't
+have to be all one way or the other yeah
+I like that take on it my first thought
+when I read this was hit tail the SAS
+app I had before drip it was kind of
+just one feature with a bunch of tables
+and you know there was some scaling
+issues because it was it had JavaScript
+tag right and so it would it would send
+a request back every time you got a
+search engine hit but realistically you
+could have hacked it together in fact it
+was hacked together the code base wasn't
+not great it was classic ASP and it was
+a spaghetti mess when I acquired it and
+then we rewrote it in Ruby on Rails but
+that complexity I think you could pull
+it off but then to build drip you know
+this which is exactly what you're saying
+it's like simple versus not simple right
+and the cost of building an app and
+getting some traction and then running
+into performance problems that are
+literally unsolvable without a complete
+rewrite of at least up a section of your
+code it's pretty easy to do if you
+really don't you know you don't have the
+experience as a developer as soon as you
+get into anything that needs to be
+performant you just don't think about
+cues and being async and threading I
+mean there's just these Advanced topics
+that it's years in that you really get
+your head around these I think low code
+is super interesting these days right
+where you learn enough JavaScript that
+you can get tick bubble or an air table
+in a zapier and you kind of time
+together and you can write some
+JavaScript when you hit the edge of that
+platform where it doesn't you know
+airtable or bubble kind of lets you down
+and you can drop into the code and do it
+no Code and low code don't scale that
+well anyways you know I mean that is one
+of the drawbacks to them is they don't
+scale like true production SAS code and
+so if you can find something to build
+that you can do in no or low code I
+think that's interesting or coming back
+to the stair step like a step one app
+where you build for the HubSpot
+Salesforce Marketplace you build for the
+zendesk or help Scout Marketplace or you
+build for Heroku or atlassian or Cloud
+flare or digitalocean there's a whole
+list of these we'll link it up
+rocketjams.com rammy who runs rocket
+gems he is a fan of the stair step
+approach and he put together a list of
+68 B2B SAS marketplaces with
+opportunities for Indie hackers for
+there to be 68 of them is is pretty
+intriguing and I think building in a
+Marketplace like that is a lot simpler I
+don't think your code has to be nearly
+as complex because you're building like
+an add-on to Shopify or an add-on to
+freshdesk to allow a piece it's not a
+full-blown SAS app do you agree with
+that generally I would agree with that
+it depends right we we know really
+complicated ones but I kind of like that
+guideline as doing that and looking into
+something that you could build with no
+code maybe most of the way and then
+using Code toward the rest of this stuff
+the other thing that I was thinking
+about is if they don't have experience
+How likely are they to know that
+something is complicated to build or not
+that would be probably really hard when
+you and I say complicated versus not how
+do you even judge that if you have never
+built a production app right and this is
+where I had this idea or just just this
+thought of like working for other
+companies and working for whether it's
+startups or big companies I think that
+experience is so valuable not just as a
+Dev but becoming Higher Learning to hire
+people like I didn't learn to hire
+people when I was running my own startup
+by the time I was there I had already
+been part of 30 or 40 people's hiring
+process where whether I was the manager
+or a technical interviewer or something
+you're doing phone interviews I did like
+100 phone interviews phone screens more
+than that actually over the course of
+Two and a two years at this one job so
+by the time I went to hire my first Dev
+I at least had that experience and
+similarly by the time I went to write my
+first line of production code that I
+owned I had been doing it for several
+years and I think there's a trade-off I
+wished I didn't have to do those things
+because I didn't like working for other
+people but I did come into it with
+certain skills that I learned during the
+day job and I think that's applicable
+here is there an opportunity I know you
+know heybert that you don't want to go
+out and get a day job but it is
+interesting that the most learning I've
+ever done the fastest I've done it in
+terms of being a developer is is once I
+started doing it 40 or 50 hours a week
+for someone else it is very different
+before I got a job as a developer I was
+doing projects on the side for myself
+for people like that was okay but I
+didn't learn nearly as much as when I
+actually had my first development job
+and had to work based off of other
+people's real world business
+requirements and it's a trip you know
+it's weird to be on a startup podcast
+and tell someone to get a day job and
+I'm just honestly I'm just presenting it
+as one option because you and I both did
+it our day jobs and that's one reason
+that we could do it but then we have a
+tons of examples of folks who never did
+it at a day job and are still really
+good dare grimer is a good example right
+he never had a job coding I mean well
+his job coding was when I hired him to
+do contract work on hittail and then
+hired a new contract work on trip but he
+already had the skill set at the he had
+self-taught so you can totally
+self-teach this as well I do like the
+idea that you talked about like hiring a
+more senior Dev to Mentor you and to
+look through your code whether you pair
+a program or whether they look through
+your commits and they tell you what
+sucks about what you're doing I think
+that could be amazing you know I think
+you can make a lot of progress expensive
+no compared to yeah hiring somebody to
+build it that's right entirely for you
+that's right so awesome yeah that was a
+good question we've received related
+questions but not exactly like that in
+the past so thanks for the question
+Hayward I hope that was helpful I hope
+you enjoyed that as a reminder if you
+have any questions that you would like
+to see me answer on video or live stream
+please leave them in the comments below
+thanks for watching
+[Music]
+thank you

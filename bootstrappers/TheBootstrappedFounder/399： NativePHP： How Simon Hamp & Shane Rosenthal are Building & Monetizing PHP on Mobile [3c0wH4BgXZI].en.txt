@@ -1,0 +1,1343 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+[Music]
+Today I'm talking to Shayen Rosental and
+Simon Hemp from the native PHP project.
+These fine gentlemen have brought PHP
+and with it my favorite web framework
+Laravel onto mobile devices. And I love
+this. They take established tech and
+they port it into places where you
+wouldn't expect. I'll be talking to
+Shane and Simon about how they
+accomplish this. and maybe even more
+impressively how they turned this into a
+profitable business at a very early
+stage that's always complicated with
+open- source stuff. So, it's really
+really cool to see. This episode is
+sponsored by paddle.com, my personal
+favorite merchant of record, who also
+has something that might interest mobile
+developers. I recently produced a
+documentation for hosted checkouts
+because I was experimenting with the
+vibe coding tool that needed some
+payment and I found that Paddle has
+built a very functional and super easy
+to integrate hosted checkout for mobile
+applications. It works for other things
+too, but it's meant for mobile cuz it
+just makes it so easy to get people to
+pay for your app. Now, pair this with a
+solution like native PHP and you have
+yourself an application where all the
+money stuff is handled by professionals
+and you can just keep building in the
+language that you already know. It's
+really cool. So, go check it out at
+paddle.com. Now, here are Shane and
+Simon and their intriguing native PHP
+project.
+[Music]
+You brought PHP to mobile devices. How
+did you guys do this? And why did it
+take until 2025 of all years for someone
+to finally get this right? Oh, wow. Uh,
+this is the loaded million-dollar
+question. It's a journey. It's been a
+real journey. And I mean in terms of
+taking till now and we were talking
+about this a few weeks ago just like
+thinking would this have even been
+possible a few years ago and honestly I
+don't know the answer but it it feels
+like it's all come together at this
+point in time. So there's definitely um
+there's something in the air you know
+that has enabled all of this. So, uh,
+but yeah, getting to this point, I mean,
+for me personally, it started probably
+in 2019. I was working for a company. I
+saw this tweet by a fellow called Marcel
+Pozot, which you might know, and he was
+trying to get a project called Laravel
+Zero to run on somebody else's computer
+without them having to have PHP
+installed. and he was using this weird
+library that when I went to the GitHub
+page, it was all in Chinese and I, you
+know, I kind of gave up at that point,
+but I it stuck in my brain and I
+bookmarked the tweet and I thought,
+right, when I finish this job, you know,
+when I get some free time, I'm going to
+come back to this and I'm going to pick
+this up and I'm going to see if I can
+reach out to Marcel, you know, figure
+out how to get this going cuz it is it
+looked like he kind of got so far and
+then I never heard anything about again.
+Anyway, me thinking like this is going
+to take me a few months to get some free
+time to work on this took me until the
+time when I left that job, which was 3
+years later, you know, like 3 and a half
+years later. So, it was the end of 2022
+and I finally picked it up. I dug out
+the tweet, you know, and then I went and
+reached out to Marcel and all of that
+kind of stuff. But yeah, basically got
+Laravel working. not just the Laravel
+zero which was for CLI applications but
+full Laravel working on um a a
+distributable PHP executable
+and that was it that sort of unlocked
+the whole the whole thing and then we're
+here today. What's the magic there? Like
+why did it take so long? Cuz I I think
+compiling PHP into something else like
+that feels odd but not impossible like
+not 2025 impossible. So, so what was it
+that was needed at that point? That
+actually came out of a library that was
+able to compile PHP into this static
+binary. That's just what allows it to be
+distributable. But getting it onto
+mobile is another lift. It's not the
+same cuz you can't just ship that static
+binary onto a phone. And that didn't
+really come and we were just talking
+about this before this call, Shane and
+I, that didn't really come until about
+October last year. And I can't I can't
+really give a reason to why it's taken
+that time other than I think generally
+people go we probably shouldn't be doing
+this with PHP. Yes. So it's probably
+what it is. I would say I come at it
+from a very different angle. I didn't
+really have a curiosity or interest
+necessarily in compiling PHP for mobile
+or anything like that. I came at it from
+like a Laravel look. I interface with
+clients. I build apps. I make money. I
+feed kids. That's just what I do. And
+the reasons why I started working on
+this was there's a whole kind of story
+there uh with Simon and I. So, we were
+already on a podcast together called The
+Bucket. And we um off air one day he
+just announced he's going to talk at
+Laracon EU and that's was just this last
+February. And I helped him prepare for
+slides if I could or talk, you know,
+just go through his talk with him and
+really just try to ask the questions
+kind of what you're doing now, like how
+do you even do this? How do you go about
+this? And just conceptually
+understanding
+theoretically how it could be done. Even
+though I didn't know until literally
+like 10 minutes ago, he didn't even know
+how to do it at the time necessarily.
+But um I was like, "Okay." And uh yeah,
+I I asked him a question that would
+forever change the trajectory of my
+life. So far, it has at least. I don't
+see my life really going back to
+necessarily working on client work with
+the recent successes we've gained with
+this, but you never know. But I I asked
+them, you know, if you're going to be
+charging money for this kind of thing,
+you can't just do it for iOS. No
+company's going to seriously invest into
+this unless you can provide the world,
+right? which is at least more than 95% I
+would imagine Android and iOS is going
+to cover that. There's other kinds,
+right? So that question he his response
+was maybe 6 months to a year until he
+works on Android. I'm not going to do
+the accent, but uh thank goodness for
+that. Yeah, you know, maybe that long.
+He's also got client work he's doing at
+the same time and he has to he just, you
+know, kind of figured things out in iOS
+and that didn't sit well with me. I just
+felt like, you know, as my friend, which
+I do respect him in that regard highly.
+He's probably my best friend at this
+point or one of them. I felt almost like
+I want to help ease the burden for him.
+And it wasn't really like I hate the
+word entrepreneur. I think it's just
+overused, but it's really kind of what
+we are anyway. Like we actually are
+looking for like the right business
+ideas always. And I've swung for the
+fences so many times in my, you know, 15
+years of web development. and fallen
+short and it you get burnt out you know
+there's a churn there in your own mind I
+guess but I came at it from a different
+like wholeheartedly just a different
+angle and it was like I want to help my
+friend start tackling the Android side
+of things and uh after a couple weeks I
+was asking him different questions of
+like did you do this extension and did
+you do that and he was just like are you
+doing are you trying to compete with me
+or what are you doing yeah it wasn't for
+me like I had this genuine curiosity as
+to what we could push the boundaries
+with. I just found myself pushing the
+boundaries with the work we were doing.
+So, it's so interesting you say this
+with the entrepreneurial side of things
+too because I I have this feeling that
+particularly inside the Laravel
+community and the PHP community at
+large. There is like a very palpable
+entrepreneurial spirit that's always
+kind of part of it. I don't see it that
+much in JavaScript. There's a lot of,
+you know, people who just, you know,
+want to do stuff, but not necessarily to
+make money, but just to to make them.
+there's a there's a strong maker vibe
+and I don't see it as much in in the
+Ruby world or the elixir world or or
+Scala or these other languages right
+where it's more kind of corporateish
+almost right where it's like we have
+this this B2B SAS business that needs
+that particular kind of thing but in the
+laral world in particular and PHP in
+general people just want to build some
+kind of business first and then they are
+technically curious that to me is is
+very very interesting because it's kind
+of rare in a very opinionated ated
+community of you know of developers.
+That's a really good point and you know
+from my my opinion on it is that it
+stems from almost like the kind of
+people that used PH like why did they
+adopt PHP in the first place and the
+kind of person that they then are you
+know they're not the purists they're not
+the computer science grads who are
+desperate for the most perfect syntax or
+I I'm not trying to put anybody down by
+that. Those are all good things to
+achieve, but by and large, my I I've
+been doing PHP for over 20 years, and I
+think most of the PHP developers that
+I've rubbed shoulders with, they're
+pragmatic people. Like they just want to
+get the work done. And the fact is like
+PHP has allowed them to do that, you
+know, and so they were already of this
+mindset and they've come to PHP because
+it lets them do that quickly. And the
+same for Laravel, you know, it's like
+why people have come to Laravel because
+it it lets them do that so quickly and
+and then you just have this bias now
+because the community is full of these
+kinds of pragmatic business makers which
+I think is very very cool. Yeah. And the
+tools that they build and I'm I'm not
+just even talking about the the team
+which is building amazing tools but even
+like people like Marcel building like
+the the tools that almost every Larville
+developer uses, right? Like there's
+there's there's so much there's so much
+like a aim when it comes to tool
+building. people have this kind of
+shared goal which is often lacking in
+these massive open source communities
+that are very like splinter grouped
+right where there's a lot of infighting
+a lot of I was talking to Taylor about
+this too like just about Laravel in a
+recent episode of this show and he he
+also said yeah PHP is just an adaptable
+language and the people who started
+using it they they adapted over time
+right when you think about PHP before
+that was before there was any like
+object-oriented parts and it was
+horrible I remember building apps in
+like the early 2000s in that language
+web apps uh got to say got to be precise
+but I kind of didn't like it and then
+when you look at what a laral source
+code looks like now it is nothing
+compared to back in the day like all
+globals gone right weird like dollar
+server accessors like gone it's it's
+it's all completely different it has
+been supplanted by better and stronger
+systems on top of this stuff you could
+still use it probably right you could
+still write like PHP code like back in
+the day you shouldn't and nobody never
+show it, but it's it's likely that the
+binary still could support it. So, there
+is just some some pragmatism here in
+this community for which I think it's
+such an important thing that you guys
+been building something that allows them
+to now go onto a different platform. So,
+let's talk maybe about mobile a little
+bit. I remember building mobile apps in
+what was it like some weird ionic was a
+framework like a JavaScript framework
+that was the first thing that I ever
+used. It was horrible. It kind of
+workedish, but it was like a hybrid
+thing here and and didn't really work
+the way I wanted it. And I stopped doing
+this. I tried some swift. I I tried some
+some Gradle stuff and it all didn't
+really go anywhere. So, I would like to
+know just bringing PHP to mobile, how
+easy is it for me to build an app there
+and what can I expect to be able to do?
+I like this question. So touching a
+little bit on the accessibility of what
+PHP has provided and then what Laravel's
+done over the last almost 15 years with
+Laravel in a nutshell just to get to the
+answer if you can build in Laravel you
+can run a single command you have an app
+you have to think about some things a
+little bit differently your data is not
+shared globally it's on a device you
+need an API and you know security and
+files and and and some of those things
+but as far as like the ease of use we
+are fortunate and blessed to find
+ourselves using such a robust community
+ecosystem. It's not just the codebase
+and the docs are nice. They are. It's
+way beyond that. Laravel news and all
+the other news um news the hat right. um
+all of the other places to to get
+information, all of the resources,
+YouTube channels, plus just there's so
+many people that just they come into it
+and within the first few months of
+learning themselves how to do anything
+with Laravel, they're already posting
+videos on YouTube to show other people
+the way. And I don't there might be
+other things like that. I don't peak my
+head out of this uh bubble much because
+this is my whole world, you know. Um my
+son will be 16 in December. Every meal
+he's eaten was paid for by PHP andor
+Laravel. That's amazing, man. That's
+awesome. So, like I can stay here and
+just do that. That's like my whole life
+can be inside of that. The best thing is
+we have now this whole ecosystem,
+community, resources,
+plethora, 15 years plus of everything
+grown to where it is that we can just
+shoehorn our own foot into iOS and
+Android. And so we can leverage the
+power that's there already and just say,
+"Hey, now you can literally run this one
+or two other commands, think about
+things a little bit differently and you
+have iOS and Android with the same
+package installed on on your Laravel
+application." So it's easy. It's very
+easy. Well, I it is it is. And at the
+same time, it really depends on like
+what you're trying to do. You know, the
+classic software engineering response.
+Obviously, if you're if you're trying to
+do something that it's not capable of
+right now, then it's very hard. But
+also, if you're coming at this with a
+very specific thing in mind, then
+getting to the point where that is a
+robust solution for you isn't
+necessarily going to just like be a
+couple of commands away. But I think
+that point of sort of getting going
+there's been a really good kind of
+baseline for that that's been you know
+Laravel has sort of set the precedent
+for us and it keeps getting better at
+it. you know, in the last year alone, I
+think there's things that like php new,
+which I also think is one of Marcel's
+projects, you know, which is just like
+you you don't even if you've got a new
+machine, you just go to php new and run
+a command and and now you've got PHP and
+composer and everything on your machine.
+You haven't got to think about it. You
+know, this this kind of idea of I can
+just type a single thing and and sort of
+and and this was embodied in in the
+community for some years. I kind of got
+this sense of messages on Twitter and
+things where people would say there'll
+be a command that you can run and you
+know like Laravel magic and it will be
+you've created a SAS or you've created a
+you know a whole new product
+right like yeah we already have that
+tech you just need to pipe a couple
+prompts into a couple of like agents and
+then like wait a half an hour and you
+get like the full the full thing like of
+course it's not boxed up just yet but
+that might be a couple months from now
+until we have this like fully featured
+as a pay once used once kind of thing.
+When you guys talk about the challenges
+or kind of the limitations maybe of of
+bringing something that is like natively
+a web app or web framework into the
+mobile world, I'm always thinking about,
+you know, the um permissions or I'm
+thinking about like native access to
+things like cameras or or audio. What
+were the challenges along the way? like
+h how far are you to to having a kind of
+parody with a native app if that's even
+possible? What's the the technical
+situation there right now from that
+side? I mean Shane, you'll have to speak
+to the Android side cuz I don't really
+understand that very well compared to
+the and I don't understand the iOS side
+very well. Honestly, I built it. Um but
+no one does. No one does.
+Um it's generally quite straightforward.
+I mean, we're we're tapping into truly
+native functionality. So, there's no
+like layers really in the middle. I
+mean, PHP is built in C. The phones all
+have the ability to handle C
+instructions and most of the languages
+have got firstparty support for C. So,
+you can kind of throw C in there and
+it'll do a bunch of stuff for you. So,
+and then the operating systems like
+let's take the iPhone. You mentioned the
+camera and and permissions and that kind
+of thing. They've got their layers of
+security around all of that stuff. So,
+we're not bypassing any of this, you
+know, we're just tapping into the
+pre-existing APIs that they've built and
+we've put a nice little interface in
+between which is so that your userland
+PHP code can just call those functions
+as if it was. So, it's essentially
+bringing the native functionality right
+into your script, you know, your PHP
+script. Yeah, it is awesome. And we've
+then wrapped that up in a nice little um
+composer package basically. So, now you
+get all of the interfaces and all of
+the, you know, IDE hints and support
+that you you'd hope for. And it's just
+this very easy to use tool. And hey,
+Presto, you know, you're opening the
+camera and you're sending push
+notifications and who knows what next.
+Is it is it the same on the Android
+side? Uh, hey presso. Yeah, I mean it's
+Yeah, it is. It's compiled to C and so
+there's essentially you're you're using
+a PHP function. We have an extension the
+native PHP extension compiled into our
+own binaries and you call we are in par
+so we're not we're the same exact
+naming. So we can just build one. We're
+using facads if you're familiar with
+Laravel facads and that facade is really
+for the most part and we could get more
+creative with it um and we intend to at
+some point but it's just saying hey if
+that function exists run it and if not
+just don't show some weird error on the
+screen essentially if you're doing this
+in the browser which is a great way to
+prototype by the way but yeah that PHP
+function is just calling into C is then
+in Android world is calling onto uh
+cotlin and at that point anything that
+any API third party or first on Android,
+we can do whatever we really want to
+with. So, we can just interface and
+build those things out. So, limitations,
+uh, the biggest limitation that I see
+right now is time. Uh, I cannot find any
+anywhere. I know there used to be some
+all over my couch when I was sitting
+there for, you know, figuring this stuff
+out, but it's gone. So, someday maybe
+I'll find some time. But that's that's
+really our priority. Simon and I are
+there's a lot of other things. I think
+that in the last even just the last
+maybe a week we're finding ourselves not
+even like we're not trying to build out
+this project and make it really awesome.
+We are finding ourselves managing a
+business and that's not something that
+we intended initially. Maybe we wanted
+but good problems you know like there's
+these are good good issues to have. But
+I think too just to add to that point of
+like bringing it nicely and natively
+firthand experience with calling these
+facads inside of a live wire or just
+anywhere you want to inside of your
+Laravel application. One of the things
+that I really like too that we spent
+quite a bit of time on was the config
+file for this. And there's a lot of
+switches inside of that that will during
+uh we'll call it compile time. We're
+actually adding uh just doing like
+string replaces and stuff inside of your
+XML files on Android side. I'm not sure
+how Simon's doing it on iOS, but um to
+allow or to add or subtract those
+permissions. So if you don't need
+permission, I think the app stores don't
+want you to just have a whole all of the
+permissions. So it's all configurable
+and it's very like Laravel first. If
+you're a Laravel developer, it's going
+to feel extremely familiar cuz it is
+very familiar. You just end up with a
+nice emulator here instead of a browser
+and you can turn on flashlight and make
+phone calls and all sorts of other
+stuff. Yeah, that's the important stuff
+for a good app, right? Got to turn on
+flashlight. Yeah, makes perfect sense. I
+I'm excited by the whole the business
+the the product side of things because
+you you kind of said you didn't really
+intend to build a business, but you
+wanted to. That that already is an
+interesting statement. But from from my
+perspective, and I've been following you
+guys for for a long while, like prior to
+this as well, it felt like a very, let's
+call it intentional approach to slowly
+building something into reality. Like it
+didn't feel like you were surprising
+yourself with the success or even
+pitching it at the at Laracon. Like it
+all felt very intentional and not
+orchestrated in in that sense, but with
+purpose. Like along the way, you found
+validation. You did distribution first,
+right? like that's the stuff that most
+founders never figure out like you you
+did it first you went into the
+conference scene and all that. So maybe
+you can tell me the story and like just
+where you guys are right now like what
+the level of success is that you are uh
+enjoying at this point. So, I want to
+say something real quick there, though,
+because I I don't know if I misspoke,
+but yeah. No, I think what you're saying
+is right. And I think to to some to some
+effect, it was kind of like we were
+going through the motions of the things
+that we had already done a million other
+times that probably failed uh to but
+they didn't. If you look at if we get
+success at one time, then those were
+just practice swings, right? But they
+don't feel like that when you're missing
+the ball. You know what I'm saying? So,
+I really think that's probably the
+mindset for me at least behind this.
+Like, all right, so if this is a
+floodgate of people coming in, where are
+we going to direct that traffic? And
+there's like crickets, right? There's
+nobody actually there, but we know like
+if this thing is a valid, viable thing,
+then this is where they'll go and this
+is where we'll have them go. And then
+when we turn the faucet on, the water
+came out. And so, that's I think my
+response to that, you know. Yeah. For
+me, it's it's quite I I think I have to
+take in all of the context of like where
+native PHP as a project has come from
+first of all, but there's even more than
+that. I mean, we're talking technically
+effectively of standing on the shoulders
+of giants with all the the other stuff
+that people have done that have allowed
+us to get to this point. And it's the
+same is the true of the business in the
+same way. you know, there's in some
+cases the the giants are past us, you
+know, having made loads of mistakes and
+whatever. But yeah, we we kind of got to
+this well I got to the place where the
+the technical challenge was sort of
+solved, you know, and then Marcel said,
+this is back in 2023, he was like, I'm
+going to change my talk at Laracon US,
+which I think was in Nashville that
+year. And I was like, what are you
+talking about? That's crazy. like this
+thing's never going to be ready in this
+is like two months from that point in
+time and you know and you know people
+are just going to ask us about mobile
+phones and all we've got is one you know
+Mac like we haven't got Windows or Linux
+or any of this it's basically nowhere
+near good enough as was my point of view
+at the time and he was like no let's you
+know let's do it let's get it out there
+and I think that was that was an unlock
+thing for my brain straight away because
+him having the the confidence to to do
+that and saying that and reinforcing
+that the whole time like we're just
+going to put it out and it's going to be
+fine was incredible because he was
+absolutely right of course he went on
+stage talked about it and obviously
+people got his they they know Marcel
+they know that he's liable to do
+something crazy like this and so they
+they loved it and I I definitely that
+that's no small part of like the success
+of the whole thing, but you can't just
+rely on those moments, you know, and I
+think the my opportunity at Laracon EU
+was another moment. And they're great
+because they do bring a lot of
+attention. You know, you get all of this
+influx of busyiness around it for a
+short period of time, but you've got to
+smooth over the gaps. You know, you've
+got to it's going to go wild like up and
+down for months. And when you're in it,
+you really feel that. Like for me, there
+was this lull after Laracon 2023. The
+project sort of flooded with issues and
+and people wanting this and wanting that
+and it not being capable of doing all of
+those things and me feeling, you know,
+personally it was my responsibility to
+kind of solve all of that stuff. And
+then at some point last year kind of
+digging myself out of that hole and
+going, I'm just going to crack on with
+this. you know, I'm just going to like
+dive back in, fix as much as I can, and
+move it forward. Like sometimes you just
+have to dig deep. You know, I remember
+spending days, weeks, getting up early,
+going to bed very late, doing my client
+work to pay the bills and just putting
+in the hours of like solving issues and
+and all of this and just driving the
+thing forward and not even thinking
+like, I've got to market this product
+and and get to a place where I can build
+this community and then I can release
+mobile, you know? It was like I'm just
+going to do the desktop thing, make it
+sort of work and then maybe who knows
+what will happen. And along the way of
+doing that, you know, some of the mobile
+pieces sort of clicked into place and
+along the way the community grew and
+along the way they these contributors
+came in who were like instrumental in
+taking off some of the workload and you
+know Shane came along. Exactly. the
+same, you know, here's a piece of work
+that I've done and this adds to the
+whole thing in a in a huge way. And then
+when you step back and you look at this
+whole journey, you're like, "Oh, there's
+nice smooth curve." And it's like, it's
+not like that at all. Yeah. If you zoom
+out far enough, it always looks like a
+smooth something, right? But it's not.
+Well, what was the point? Like when
+exactly did you choose to monetize it
+the way you're doing it right now? Maybe
+you can explain exactly what you chose
+to do cuz that's also a more rare
+occurrence in the open source community
+and maybe when that entered the
+conversation. So I think I always knew
+that if we did mobile it would have to
+be some kind of premium offering in some
+way. You know I'd hoped that by the time
+we got to that that the whole project
+might have been getting some serious
+sponsorships. You know I might have
+gotten some consultancy gigs doing stuff
+for native PHP for desktop. It didn't
+quite work out how I had planned.
+Surprise, surprise. And I sort of got to
+the place where this is working. You
+know, I've got technically it's right.
+I'm going to put it in front of other
+people, but I'm not just going to give
+it to them. I'm going to put a hurdle in
+front of it. I'm just going to say
+sponsor me. And I I picked that up from
+another person in the Laravel community
+called Caleb Pio who built he's built
+many things, but among them Livewire and
+more recently Flux. And one of the
+things that he did with Livewire, which
+is in my view an incredible piece of
+kit, and I use it all of the time, I
+think Shane does as well, is he kind of
+monetized it through sponsorships. and
+he's never sold, as far as I'm aware,
+anything around Livewire, but it's
+become massively popular and he's become
+sufficiently wealthy from just that
+sponsorship setup that he had. And I
+think he was doing it around like
+content and you'd get access to this and
+that and some other things. And that was
+like right well it doesn't need to be
+exactly like that but I can see that
+there's this idea of if I gate this
+thing that appears to be of value and
+people see you know if I'm showing them
+what it could be like then I'll be able
+to test if they think it's of value some
+people will probably buy. You know I'm
+saying buy or they'll sponsor. And yeah,
+lo and behold, I had within a couple of
+weeks sort of 20 or 30 people who had
+just sponsor with no all they got access
+to was a very very rubbish uh GitHub
+repository which is in a complete state
+and barely worked. But it was this thing
+that told me people see value in this.
+They want what I'm building and they
+believe in what it can become. And that
+combination of those three things and
+the fact that people pass on real
+hardearned cash was enough for me to go,
+I have to see this through, you know,
+like I have to get to the point where it
+really does meet their expectations. And
+yeah, that was like the beginning of
+January this year. So it was like it's
+all been very very rapid since then. Is
+it a full-time gig for both of you just
+yet? Almost. I love that. It is. It is
+for me. It is for me. So, I I may as
+well take a moment here and thank Craig
+Anderson. Craig and Simon had been
+friends. Simon introduced me to Craig.
+Craig uh has a small dev shop. I guess
+it's just really him. And then he had
+too many hours. And through Simon, we
+met and I think I started working with
+him around November, October, something
+like that. And it was a very flexible
+schedule for me from the beginning. So,
+it was kind of like almost as many or as
+few hours as I wanted, which was
+awesome. So, I could kind of control how
+much of my credit card I needed to spend
+to pay the bills versus uh how much time
+I wanted to spend uh working on this,
+which didn't come for me until I guess
+towards the end of January. So, we had a
+pretty well-established relationship.
+And then it was just a few weeks ago we
+had the conversation of like you know if
+you need help if I need if I need the
+hours you know at some point and then
+he's like yeah you've got you I already
+know a lot of his apps and and he's got
+a lot of there's a lot of stuff he's
+working on but it's kind of still an
+openish door. We still talk all the
+time. Um I was prepping for a talk
+yesterday. He came in and gave us his
+sense on it. So that was that was cool.
+As far as the pricing, I wanted to just
+mention though real quick like for me
+it's like it's ask for forgiveness not
+for permission kind of like regardless
+of like whatever the dollar amount is. I
+think it's you know some people would
+think it's horrible if you put a dollar
+amount on this and nobody buys. I think
+it's worse if you put no dollar amount
+on it and everybody gets it and now you
+have to support something and you're not
+even getting paid for it. It's a really
+it's a bad situation to end yourself up
+in. and Simon did on his own little uh
+podcast little uh awesome podcast. He
+just did an episode called Pillars that
+I would I would say go check out
+Pillars. It's awesome. And it's not cuz
+I'm on this side of it. He just very
+precisely
+spoke on every topic regarding the
+justification of pricing and the things
+that we're working on and why we're
+choosing this this way to go forward for
+not just today and so that we can have
+an awesome summer, but where we want to
+end up in a year or three or five with
+the business. I'll be linking that in
+the show notes, that's for sure. you
+were talking about pricing and I I think
+it would be very interesting to just
+look a bit deeper into the the choices
+that you made along the way because I I
+know there's like this early beta stage
+that you have going on and pricing at
+early stage is always different but
+that's coming to an end, right? Yeah.
+The end of May we've decided now. I mean
+we've put it back cuz I think it was
+going to be a bit earlier but we hadn't
+quite achieved some of the technical
+things that we wanted to achieve. So
+it's still very early days. The project
+is going to keep evolving, right? But we
+have to draw a line in the sand as to
+what this early access means and you
+know who gets in on that. What you know
+it's been 4 months just over. It will be
+about 4 months when it comes to an end.
+And I think it's done the thing that I
+set it out to, you know, like originally
+my plan was to just build up enough of a
+little base to prove that this is a
+viable product. And really it's gone on
+way further than that, you know, and now
+we've got this business and it's going
+sort of wild. And I think that there's a
+sense there's always been a sense from
+in my mind anyway, and we've talked
+about this a lot where the value of this
+thing is far greater than the price that
+we're putting on it right now. But then
+there's this juxtiposition with like
+what the rest of the the market, let's
+say like the competitors in the space,
+if we can call them that, are pricing
+their products at and and for the most
+part that's zero. You know, they're all
+free. And so, yeah, there's this like
+real real challenge now as we come to
+the end of May of like are we are we
+shooting ourselves in the foot with the
+upping the price quite significantly?
+And there's a few people who have
+mentioned that, you know, they're very
+aware that the price of all these other
+tools is nowhere near what we're
+charging. So, yeah, it's going to be an
+interesting month, I think,
+so this whole the conversation around
+everybody else is free. How how can we
+charge? We have sales that justifies the
+price, right? Or at least it justifies
+the fact that people are finding value
+in what we're doing. And I want to say
+too, we don't have any competitors. And
+this is maybe a very controversial sort
+of statement. And that's okay because
+I'm a high-risisk kind of guy, right?
+Why not? All right. So, look at and I
+don't know these technologies very well.
+I've never built anything with React
+Native. I kind of learned a little
+Flutter once and I did do some ionic
+stuff back in the day. All of those
+frameworks are asking you to learn how
+to do mobile apps and to learn through
+their product how to do things. Nobody
+has done what we have done which is
+catered to the Laravel/PHP
+developer. We brought all of the tooling
+to your existing knowledge base with the
+exception of how to interface with the
+APIs and then also there's a little arm
+bend of you have to kind of learn how to
+think as an app developer. So you know
+that whole that whole scenario which you
+would have to do anyway whether you're
+doing it with us or anybody else. So the
+pricing I think whether it's a pricing
+or not just the fact that we're charging
+for something look we put it out there
+if no one buys then okay then there's
+not a market at this price or there's
+not a uh you know this isn't viable for
+some people or whatever the the cause
+but the fact that we've done sales I
+mean and just to um I know your your
+audience specifically out of respect
+well we announced um May 2nd was our
+official V1 release date on that day
+actually I think it was just a few hours
+before that we hit $100,000 in sales.
+So, I know like your audience would love
+to hear that, right? Yeah, I bet. So, to
+say like what we're talking about and to
+be further clear about that, I think
+about 40ishk was in the week leading up
+to that release date and it's continuing
+like there's still justification. We'll
+say it that way. And so, that's like all
+right, this is what people want clearly.
+this is what we need to be working on.
+And now we have to fall back a little
+bit, plan, strategize, and put some
+people around us that are really good in
+this space and lean on them and more of
+that managing the business more so than
+anything else. And I kind of went off on
+a little tangent there, but that's
+that's how I roll. I do appreciate it
+because I think it's important like you
+you're talking about like very very
+clear validation signals here and that
+that's kind of what I meant with like
+the the PHP developer community is at
+its heart an entrepreneurial community
+like you see not just the value of the
+product in a technical sense which is
+great like it's a great accomplishment
+to get this on mobile like to begin with
+right again it's 2025 and this is the
+first time it actually worked that's
+wonderful but the fact that you from the
+beginning try to look for value signals
+that are actually like cold hard cash
+value signals and not just somebody like
+thumbs upping on some issue on GitHub,
+signing up for a newsletter. Yeah.
+Signing up for a news or just just
+following you on social media or, you
+know, tracking starring your your repo
+or whatever. They're all signals.
+They're soft signals. They are great
+signals, but none of them are going to
+pay the the rent, right? That's that's
+something that as a developer who is
+trying to build something meaningful
+that has an impact on other people's
+lives. Well, it has to have an impact on
+your own life as well. And I think
+that's a reality that founders get and
+PHP developers are surprisingly strongly
+overlapping with that. Yeah, I that's so
+true. I I think for me like the context
+of that really comes from trying really
+hard and the kind of previous almost two
+years to do the thing that all the the
+other much bigger businesses frankly
+have been doing which is to give it away
+for free. And although it was with the
+desktop tool, backing that up with, you
+know, I'm building it, I'm trying to
+encourage the community around it and
+foster more collaboration and all of
+that, but at the same time, I'm actively
+trying to pursue funding it. You know,
+I'd made lots of grant applications. I
+was quite active in getting people to
+sponsor the project, but it was just
+never enough. like there was so much
+work and it was so hard to get to that
+point and you turned down so many times.
+I mean, I I don't know why specifically
+in all of those cases, you know, like
+grant applications were denied or
+whatever, but it doesn't really matter
+because the end result is it kind of
+forced me into this position of like if
+I want to work on this, if I want to
+make this a sustainable product that
+other people can rely on to use, I have
+to build a business around it. There's
+no two ways about it. And then the other
+problem is I I can't spend my time on
+yet another thing to offset the cost of
+running that business. So the obvious
+answer was I got to charge for the
+license to use the tool that I'm
+building and have that money come
+directly into building it. That's where
+we're at. That sounds about right.
+That's, you know, that's what a business
+is. It's so funny that so often people
+forget that that is like the main and
+like one of the only ways that these
+things can sustain themselves. The idea
+that monetization is an integral part of
+the product. That is something we we
+should also like just highlight for
+people who are building products on top
+of this, right? I recently there was
+this whole thing with the Fortnite
+situation. Let's just call it that,
+right? with the Apple the Walt Garden
+opening its financial vault doors a
+little bit and not taking the 30% cut at
+least enforcing it as much anymore as
+they used to do although they still do
+outside of the US for some reason. But
+let's talk about monetization
+opportunities on mobile because for many
+of the SAS founders that I know and
+myself not having a mobile app I don't
+think about this but if I now could and
+I am already like I have to keep myself
+from thinking about it right now the
+things that I could build with this cuz
+there's just so much opportunity for for
+my own business for pods scan how would
+you approach this like what does payment
+look like what does monetization look
+like building mobile apps yeah I mean
+the whole iOS inapp billing thing so I I
+don't follow. I haven't followed that a
+lot. I guess there was like a lawsuit
+going on for a long time and then they
+just finally settled that they're not
+forcing people to go through their 30%
+fee that they charge for the inapp
+billing. That being said, that's one of
+the API functions we have not yet
+implemented on iOS or Android, which
+does though. It says, "Hey, if you're
+going to build apps to release in the US
+on Apple, you can accept like a Stripe
+or something like that form inside of
+your app. There's already like cashier
+and there's already like I said these
+resources available to uh Laravel
+developers that you can just plug and
+play, modify for the app environment,
+and uh go to town." So, you can bypass
+this whole App Store thing. I do think
+and I think I've seen some notes of it
+already like I do feel like Apple is
+going to find a way to make that money
+back and probably retributively if
+that's a word like to take you know take
+it out on whatever cuz that's kind of
+the mantra that they've given off to me
+at least I love Apple I like their
+products you know um if you're listening
+please don't take native PHP if you're
+still right um so I mean as far as like
+what customer I
+I had a guy I was I did a small talk at
+um a local meetup a month ago probably
+and I was explaining after my talk to
+one of the guys there like there's
+someone that had come to me and was
+asking me about MDM. I didn't even know
+what that was. Some sort of drug maybe
+or something. What is MDM? It's a like a
+mobile device uh management. So he had
+this unique situation. and he had um
+hundreds of malls in America have his
+devices with basically a kiosk but it's
+using Android and he wants to lock down
+that device just for that app so nobody
+could exit out of it but remotely he
+could manage that and I'm like well we
+could totally do that and so I started
+explaining the technology to this guy
+and he was like oh you guys could build
+you guys could build this um like a a
+truck a trucker app like where you could
+like track where the truckers are for
+companies and stuff and I'm like no you
+can do that. We are building the tool so
+that people with you that have ideas can
+do that. Like we have ideas for our own
+apps of course, but like what we're
+doing is more like empowering, enabling
+that developer so that he can take that
+spark of an idea and start implementing
+it. Go find a trucker, go find a
+trucking company. Or maybe you already
+are working in that kind of space and
+now you're like, "Wow, we could monetize
+this through App Store or not." you
+know, cuz I don't know what the cut is
+with the Play Console, but you know,
+they have their own inapp billing there
+as well. And that's something even
+though I mean, we we have people all
+over the world are using this like um
+the binary part of our our package that
+it downloads a zip. We had a CDN it
+because we're servicing people literally
+India and Africa and all over the place.
+I couldn't have it in Ohio or whatever.
+So, just because that applies to the US,
+it doesn't apply everywhere else. So we
+absolutely have to support inapp billing
+on both OSS. And I think one of the
+coolest things I guess is our Discord
+server. We have a channel there that's
+like show us your app. Day one of
+releasing this, there were people like
+little like like JavaScript games.
+They're really just JavaScript. Um what
+was that? Like a snake game where you
+eat the eat the One of our good friends
+actually was working on that and um but
+he tied it into like a PHP server. So
+when you finish you got your score and
+you can have a leaderboard and and it
+was like really cool. I even had put
+something together for like I just found
+a GitHub Flappy Bird clone, right? And I
+just popped it in and hit run and it
+just worked and it was like, you know, I
+tie it to to touch. Yeah, we should
+play. We could use reverb and play
+against each other. Oh, multiplayer
+flappy. Yeah, I get one wing, you get
+the other. Um, but yeah, I think that
+people can get creative now and they can
+start dreaming. And even with our I'll
+say quote unquote limited libraries that
+we have right now cuz that's something
+we're we're focusing on actively. It's
+about a dozen or so. You can already
+start to build on some things and
+there's more and more coming out. We're
+trying to get to like a weekly release
+of more native functions. I think that
+the whole Apple Epic wasn't it Epic
+Games battle is it's obviously I don't
+want to weigh in on that because I don't
+I don't know very much about it really
+but the whole problem space of these
+walled gardens and what we've seen over
+20 odd years of more than that really
+but with the web you know the open
+technology is the thing that survives is
+the thing that drives innovation is the
+thing that enables you know new
+connections across the whole globe. And
+you know, I can see Apple wanting to
+keep a hold of that for various reasons,
+but their their main one publicly has
+always been so that we can maintain
+quality, right? But what we will just
+see over time, I think, is a bit of a
+domino effect from here where more and
+more countries around the world will be
+pushing them to open the garden up a
+little bit, you know, and and just let
+people have a bit of an easier time with
+it. So I think the opportunity now for
+people to really make money through apps
+is only going to increase. So I think
+we're going to see a proliferation of
+more apps doing this and more countries
+kind of pushing companies like Apple to
+reduce their fees and help people out,
+help people get started. And I think at
+the end of the day, like Shane said,
+that's actually going to turn around to
+be a net benefit for companies like
+Apple because they'll figure out other
+ways to to generate revenue. And I think
+they'll realize that, too. And then
+it'll just it'll make perfect sense for
+everybody. But yeah, it's like
+essentially you're getting in with a
+shovel, you know, as we're just about to
+start another sort of gold potential
+gold rush for the app marketplace. Yeah,
+I think you mentioned this before. you
+phrased it as like democratization of
+app building too, right? You're making
+things more accessible. You're making
+them less elitist and also just more
+playful. There's a there's a way that
+you can just do things now, particularly
+and we didn't even get into like the
+whole AI coding, VIP coding situation.
+Let's save that for another day because
+we could talk about this for an hour.
+But the tooling that we have right now
+to build these things is already there.
+Like it's much easier now to build like
+a PHP app than it ever was before. And
+since since native PHP is sitting or is
+allowing for just regular Laravel apps
+to be built like that is what AI can
+already do, right? Like this this is
+this is really really simple. And I
+guess over time the AIs of the world
+will absorb native PHP's best practices
+and that stuff as well, right? You could
+probably create some kind of
+documentation you can feed into a system
+like that and it can create like the
+perfect code. It's it's just so easy now
+to build things that I'm excited to see
+where this is going to go like who is
+going to build what and what the shift
+will look like when people talk about
+their big apps in the laral world in
+particular right the larons of the
+future like how many of them will just
+be mobile apps like mobile first apps
+instead of you know SAS web apps that we
+have been used to over the last decades
+or so that's something hard not to think
+of to be honest because it's almost like
+because we're on this side am I being
+biased in that sense so the sense is how
+many people might actually end up
+becoming Laravel devs because they want
+to be mobile devs and this is actually
+the easiest way to start working on more
+more rob I feel PHP is more robust than
+JavaScript again maybe a bias but it's
+not that hard right especially the way
+things are going one's trending one
+direction the other's trending another
+right so that's right um yeah maybe
+controversial but anyway I love
+JavaScripts me too I use it all the time
+Um, but I think that, you know, again,
+with the resources we have available,
+this is a much more robust unlocking
+tool, key if you will, to to getting
+into this realm. And so I do feel like,
+yeah, at some point, the more awareness
+we bring to this, more people are
+realizing that this is actually probably
+a better, if not best way. Maybe not
+today, but that's our goal. We're going
+to make this the best way. Like that
+we're going to strive and try our best
+to make it as good as it can be. And I
+do think they're going to find people
+ending up at Laracon that didn't know
+that we can do web with Laravel. Yeah,
+that's going to be awesome. That's going
+to be so Wait, you could do websites,
+too? It's going to be great. That's
+going to be cool. Guys, I'm I'm really
+looking forward to seeing both where
+your business goes, obviously, because
+that's that's just the entrepreneurial
+side in me. I'm looking forward to
+seeing where you take the project, like
+what novel things you will find over the
+next months or years. There's going to
+be a lot of interesting stuff happening
+in the field. Like, it never stands
+still, right? So you always have to
+adapt and where you take the community.
+I think that that's already established.
+You you were mentioning like a discord
+and people are flocking to you from like
+the Twitters, the axes, the blue skies
+and whatnot, right? People are excited
+for this. And for everybody who is
+listening to this and wonders, where can
+I find these people? Where can you guys
+be found? Where do you want people to go
+if they want to learn more about you and
+the wonderful projects that you're
+working on? I think I'm horrifically
+online.
+My wife would tell me off if I said this
+cuz well boy she knows it's true but I'm
+on Twitter and Blue Sky and all of the
+places. So wherever you kind of prefer
+I'm usually at Simon Hamp on there. So
+that's that's where you can find me. I'm
+Shane D Rosenthal I believe on Blue Sky
+and Twitter. Yeah, I have opened the
+door right before we released to some um
+like early beta testers and so like on
+Telegram they're messaging me problems
+now post release. I'm like, please just
+go through the Discord server. So, I'm
+like kind of reluctant to like give out
+too much info cuz I do have like reel in
+my attention and where I'm placing it
+these days. But again, good problems to
+have, but I am we love conversation.
+We're very much talkers and feelers and
+we love to dream. That's really where we
+want to get to every day. If we can do
+it just 10 minutes of dream time, you
+know, that that kind of ticks my boxes
+internally. So, I welcome the messages
+for sure. Well, I love this. Yeah.
+nativephp.com is the website of the
+project if anybody wants to just
+immediately purchase a license. I highly
+recommend it. It's a good idea cuz it's
+great, man. I I love this. You guys are
+doing such good work and it's so
+enjoyable to watch you build it in
+public like share the process and the
+journey with people. I I find this is an
+amazing thing. Thanks. Thanks so much
+for for sharing all of your insights and
+the journey of this on the show. Really
+appreciate it. Thanks. Thanks, Jay. And
+thanks, Simon. Thank you. Thank you.
+Thank you. Appreciate it. Appreciate the
+opportunity. And that's it for today.
+Thank you so much for listening to the
+bootup founder. You can find me on
+Twitter at avidkal arv k ahl. And if you
+want to support me in this show, please
+share podscan.fm, my SAS business, with
+your professional peers and those who
+you think will benefit from tracking
+mentions of their brands, their
+businesses, and names on podcasts out
+there. Podscan is a near realtime
+podcast database with a stellar API. We
+have 32 million podcast episodes in the
+back now. The database is humongous.

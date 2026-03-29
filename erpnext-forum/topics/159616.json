@@ -1,0 +1,51 @@
+{
+  "topic_id": 159616,
+  "title": "Queries Related to Reports and GST Handling in ERPNext Implementation",
+  "slug": "queries-related-to-reports-and-gst-handling-in-erpnext-implementation",
+  "category_id": 6,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2026-01-21T12:34:20.368Z",
+  "last_posted_at": "2026-01-21T12:34:20.477Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/queries-related-to-reports-and-gst-handling-in-erpnext-implementation/159616",
+  "views": 20,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "kaboo",
+  "posts": [
+    {
+      "id": 492078,
+      "username": "kaboo",
+      "name": "",
+      "created_at": "2026-01-21T12:34:20.477Z",
+      "cooked": "<p>Greetings of the day!</p>\n<p>We have recently implemented ERPNext for one of our clients, and during their usage—particularly while working with reports—they are facing a few functional queries. We request your guidance and support in addressing the same. The details of the queries are outlined below for your kind review.</p>\n<p><strong>1) Trial Balance Report</strong></p>\n<p>Currently, the Trial Balance report is displaying balances in a hierarchical manner, i.e., Head-wise (Assets → Current Assets → Bank Account). However, the client requires the Trial Balance to display only the individual Chart of Accounts (for example, Bank Account) along with their respective Debit or Credit balances, without the parent group-level aggregation.</p>\n<p>We attempted to configure this from our end but were unable to achieve the required output. Kindly guide us on the steps or settings required to generate the Trial Balance in the desired format.</p>\n<p><strong>2) Accounts Payable Ageing Summary – Credit Period Calculation</strong></p>\n<p>While generating the Accounts Payable Ageing Summary, the client requires the credit period to be calculated from the Inward Date (i.e., the date of receipt of goods) rather than from the Purchase Invoice posting date.</p>\n<p>To explain with an example:</p>\n<ul>\n<li>\n<p>Purchase Order Date: 15.12.2025</p>\n</li>\n<li>\n<p>Goods Receipt (Inward Date): 20.12.2025</p>\n</li>\n<li>\n<p>Purchase Invoice Entry Date: 10.01.2026</p>\n</li>\n</ul>\n<p>Due to issues such as rate negotiation, the Purchase Invoice could not be entered immediately. Meanwhile, the goods were approved by the quality team and consumed in production. Since the client had already frozen their December accounts for TDS and GST filings, backdated posting of the Purchase Invoice is not feasible.</p>\n<p>If the supplier’s credit period is 30 days, ERPNext currently calculates it from the Bill posting date (10.01.2026) instead of the actual receipt date (20.12.2025). The client wants the credit period to be calculated from the Inward Date.</p>\n<p>Kindly advise on how this requirement can be handled in ERPNext, either through configuration, customization, or a recommended workaround.</p>\n<p><strong>3) GST Implications in Purchase Invoice (Item-wise GST Rates)</strong></p>\n<p>While entering Purchase Invoices for Services, the client wants to apply different GST percentages (for example, 5% and 18%) at an item level within a single Purchase Invoice.</p>\n<p>Currently, ERPNext allows only a single GST tax structure per Purchase Invoice, and the selected GST percentage (either 5% or 18%) is applied to the entire bill amount, rather than calculating GST individually at the item level.</p>\n<p>Additionally, the client maintains separate ledger accounts for each GST rate (such as Input CGST 5%, Input CGST 18%, etc.) for both Input and Output taxes. They want the system to post GST amounts to the respective GST percentage accounts instead of common GST ledgers (Input CGST, Input SGST, Input IGST, Output CGST, Output SGST, Output IGST), to enable accurate tracking and reporting.</p>\n<p>Kindly guide us on how this requirement can be configured or addressed in ERPNext.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/k/5f8ce5/{size}.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 9,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

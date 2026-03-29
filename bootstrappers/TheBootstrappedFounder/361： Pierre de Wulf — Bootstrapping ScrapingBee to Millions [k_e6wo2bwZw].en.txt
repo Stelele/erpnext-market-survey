@@ -1,0 +1,1092 @@
+﻿[Music]
+hey it's arid and you're listening to
+the bootst
+[Music]
+founder today I'm talking to Pierre the
+wolf the founder of scraping be and I'm
+fascinated with this business it allows
+people to reliably get information from
+all kinds of websites many of which
+don't really like people grabbing their
+valuable data but in this industry
+Pierre has built a trustworthy and more
+importantly trusted brand around this
+very technically challenging business
+and we'll talk all about dealing with
+abusive customers the impact of the AI
+Revolution on content and scraping and
+how to differentiate your business in an
+entrenched landscape whatever Pierre and
+his team are doing I think it's working
+really well and it's working well for me
+and my own scraping needs and just like
+with scraping be I'm a customer of
+paddle.com the sponsor of this episode
+Pier will talk about the technical
+complexity of scraping and getting the
+right people to pay for his service
+easily and that's exactly what paddle is
+great at taking on the nitty-gritty
+details of charging money so you can
+keep building your business so go out
+and check out paddle.com if you're
+looking for a payment provider that
+works for you and now here's
+Pierre Pierre thanks so much for being
+on the show you went from being a
+developer to running a company that
+processes billions of web requests and
+what I assume a month a week a day must
+be a lot of weap requests on that side
+what was the first moment where you
+realized this whole scraping thing that
+you were building could actually be a
+real business and then maybe what made
+you bootstrap it despite there being a
+lot of people already in a pretty
+crowded space out there in the world of
+scraping thank you arid thank you so
+much for having me there uh so glad to
+be here um that's a very good question I
+think it all comes down to the previous
+product we boo strapped with SC Mund and
+LIF long friend where we use actually a
+w ring API uh we used a w ring tool that
+we knew was somewhat successful but it
+was honestly not that good in term of
+performance and speed and so at that
+point we knew okay there's something to
+be done in the watch weing space we also
+knew there were a lots of very big
+companies out there I'm talking 100
+Millions a year uh companies so we
+thought okay even if we manage to build
+something that captur you know a slight
+a small cramp of the market there's
+something there you know I mean the the
+the the market was there the the the
+need was
+validated uh why did we Bo strap it uh
+because I think that's the only things
+we we knew to do uh we didn't want to
+raise money for all the reason people
+don't want to raise money for that's
+were talked Asam extensively on this
+podcast already but then there is also a
+part of uh we weren't sure we would be
+able to raise anyway you know we didn't
+have the connection we didn't want to
+make a business plan we didn't know if
+our idea would be interesting enough for
+people willing to invest it so so yeah
+that would be the the answer to to this
+question did you ever consider it as the
+business was growing like did you ever
+think okay I could use like half a
+million dollars right now so half a
+million dollar definitely not but we
+ended up raising you know a small amount
+with a tiny Sid know a boot straper
+friendly fund we ended up not choosing
+any of the fund we raised but it was
+awesome to first get into some kind of
+so it's not really Tob betor but let's
+call it that way uh for the connection
+for the the Community the crown the help
+the mentoring out there and then the
+money even if you don't spend it knowing
+that you have this kind of money really
+helps a lot especially in the early days
+when you spend know when you count every
+Euro uh when you create tens of AHF tra
+account at $7 a week I think they
+removed it but I remember we used every
+email we could at that time and uh and
+when you you you just don't want to take
+any risk because then if you lose
+$20000 EUR that's 10% of your bankr
+vanished and when you have 100 thousands
+in the bank account it definitely change
+everything that's so cool like the the
+bootstrappers mindset that I that I hear
+that's so palpable right like you have a
+lot of money but you're not even using
+it that's that is so rare in the world
+of Founders where everybody's just
+talking about like spending money on
+marting spending spending spending to
+hear you saying okay I don't need this
+that's such a fresh breath of air it's
+really cool I think it all comes down to
+one big thing and it's not necessarily a
+good thing that good strapper they don't
+want to hre you know and what's the
+biggest cost what's the most expensive
+and if you want to to grow the team to
+hire a developer a very experienced one
+or start building a support team and all
+and so if you remove that then is not
+that much money you can spend in a month
+you know like once you have changed your
+MacBook when you are already spending
+five 10K a months on Google ass I mean
+you know yeah that makes makes sense
+like if you if you remove a lot of
+expenses obviously you're not going to
+spend as much but I I do Wonder like
+what's what's the team like right now
+because you have grown a team right yeah
+so now the team is like six full-time
+employee so it's like uh let's say okay
+so Kevin cunder he does all the ups
+thing marketing stuff uh I'm doing the
+whole tech product side we got a with uh
+yeah doing development for basically a
+lots of things the web app uh a bit of
+UPS stu um lot of things like uh Swiss
+Swiss army knife kind of Dev uh we have
+two support guys s and Nar 24 uh not 247
+not what I meant but uh full time uh on
+this and we have Peter our head of
+SEO um so this is a core team and we're
+also working uh with um freelance so for
+example hn would be working with some uh
+devops people specialized in one thing
+um I'm working with a frontend designer
+and developer integrator and um Peter is
+probably the one working with the most
+freelance out there to manage the whole
+content of the website that sounds very
+lean like very very constricted that's
+awesome like and it's also surprisingly
+small I think you you tweeted about this
+recently that people a week ago or so
+everybody was asking you how do you run
+an operation this big with just six
+people yeah yeah I we went to um a web
+scraping conference in Austin organized
+by Zite a big web scription company
+based in Dublin and uh um yeah it feels
+like lots of people knew about scraping
+be especially at this conference because
+it's a very small world and yeah
+everyone was surprised how small the
+team is I don't think it's I mean you
+can be proud about it of course because
+you're like yeah people think we should
+be bigger with small but in the end it
+might not be the the flex you think it
+is because it has a big cost to be very
+lean especially for K and I in terms of
+energy uh time spend and also quality
+like when you do a bit of everything
+it's hard to be great at everything I
+mean it's impossible so I'm telling you
+this because that's something we want to
+fix this year you know to to to grow the
+company a bit bigger to to sacrifice a
+bit of profitability to to to make the
+the company more smooth you know yeah I
+have to ask like how profitable are we
+talking like when people say hey six
+people is way too few people for how
+much you're making how much are you
+making uh for various reason we don't
+share how much we're making a year but
+we're making several millions of profit
+per year yeah I I remember back in 2020
+when you were posting your first tweet
+about hey we just hit 2.5k Mr right
+that's that was a different day that's
+so cool that was a different day
+definitely and even as this time I mean
+when we were doing 2.5k we were not
+paying us any money we getting so of
+course we were profitable but uh but
+yeah so so yeah we're Prett profitable
+and um and now we're ready to to
+sacrifice a bit of profitability to yeah
+to improve the operation yeah so I I do
+Wonder because what I what I've heard
+you say is hey if you have something
+that works why change it right that's
+that's been like also something that
+you've been very publicly talking about
+so what is it that you want to
+accomplish with a bigger team that you
+cannot accomplish with the team right
+now so I think we've come to the end of
+doing the same thing that works you know
+like for example let's talk about SEO
+you know we did a lot of SEO we're still
+doing a lot of
+SEO uh and it worked and it still work
+but at some point in um I don't know if
+you read the post about the I think it's
+from jayon Cohen you know and it's
+talking about
+like when you have an acquisition
+strategy that works like the the the
+chart would look like an elephant you
+know so and SEO was the same for us you
+know first is slow then you're good then
+you eat a plateau for various reason
+let's call it churn let's call in
+algorithm change let's call in uh
+competition and so the only way to to
+find big growth again is to to add a a
+new chart on top of it and so
+in this case it would be a new
+acquisition channel so we feel like
+we're in a phase or maybe we did a bit
+too much of the same thing and now we
+need to start experimenting other things
+that's very interesting yeah I I guess I
+mean that's that's the the plateau that
+every SAS founder is afraid of right the
+where where things stop working but
+still kind of work it's like always this
+balance between well what is the next
+thing how how do you find the next thing
+like what is your approach to getting to
+that next Plateau hopefully so this is
+really um exploratory you know so for
+example we this year we went to two
+conference uh we went to the web Shing
+one in Austin we learned a lot of things
+we also went to the elro AHS one in
+Singapore about SEO and there we had a
+lots of ID lots of things to test and we
+can talk about you know uh sponsoring
+short uh for video
+content um free ebooks uh course web
+scraping University uh web scraping
+video long form Channel and you know
+there's so many things out there to do
+so how do we choose what we do it's just
+a a cost reward balance which try to to
+find with SC in like okay if you want to
+try this how long should it take before
+it works how long should we give it
+before we scrap it you know because for
+example YouTube uh it's well known that
+YouTube is a very long uh game uh you
+have people like batol for example who
+created their Channel this year I mean
+they restarted it this year and they
+manag to have very high growth from zero
+and then you have people who just
+created 500 videos in the last three
+years and it was still have hundreds of
+view per videos you know so the the goal
+is yeah to to find the runs the right
+balance between those two extreme and to
+say okay if we don't hit those number at
+this time we scrap it and to to kind of
+find find the slope you know it doesn't
+matter if you're still if your number
+are still low after a few months but you
+need to have find a bit of uh momentum
+you know are are you going to make this
+choice about like when to re-evaluate it
+on on a different time scale for every
+experiment or is it going to be like hey
+we're going to give it a month for each
+of these and then we're going to see
+usually I think we're going to give it
+at least three to six months but then if
+if after four months for example you see
+that nothing's working either because
+you're not working with a correct person
+or because you your ID was bad or
+because the execution is bad we we we
+reevaluate things constantly with skin
+it so beforehand we'd be like okay let's
+give it six months but if after three
+months we see red flags everywhere we
+don't have the hard time saying okay we
+should get things short here it's not
+working it won't work okay that's good
+to know and this is the marketing side
+of things and the sales side of things
+which is interesting I I wonder do you
+have the same approach for feature
+development for product Improvement
+because you recently released this
+really really cool AI feature that I've
+been using like since before it was
+public I don't know like I I I saw it I
+I started using it and you were like hey
+this is new we're gonna launch it
+tomorrow but yeah it's it's uh do you do
+you approach building new features the
+same way like you give it some time and
+you check so for features is it's a bit
+different because since we have a lot of
+user we have a lots of feedbacks we have
+thousands of support conversation for
+people are asking for thingsam we have
+also competitors we have so it's very
+different but the same in the same way
+before each feature or big feature we
+like okay how much time will it take to
+build which is much easier to anticipate
+than the marketing side of things um how
+much will it cost to run uh how much
+people should use it before we call it a
+success and most importantly how much
+will it cost to maintain you know yeah
+yeah and same if a feature is hard to
+maintain and no one's using it we don't
+have a hard time scrapping it um we were
+lucky enough that we haven't had to
+scrape a lot of things from our uh
+fature uh run map also because our
+product is quite simple currently you
+know it's a just a simple API so what we
+call a feature or basically API
+parameters yeah but that's the thing
+right you like you you have to expose
+them to people you have to educate them
+about them being present they have to
+use it they have to figure them out and
+then they have to use it reliably that
+must be hard to track like how do you do
+that uh so to track so basically to
+track usage of new features we use data
+dog so basically all the API request
+arrives to data dog and then for every
+new feature we launch uh I create a
+dashboard when I see percentage of new
+user using it percentage of actual user
+using it and uh growth of this usage and
+we also release feature gradually so
+basically the first thing we would do is
+like we develop it we don't document it
+anywhere so basically no one knows about
+it except if we going to send a message
+to a particular customers hey by the way
+we just added these parameters uh here's
+a quick Doc it's not doed yet play with
+it let us know what you think about it
+which is exactly what happened with the
+aat
+then I'm going to write the
+documentation about it so still only
+either the new user or the hardcore
+users heard about it because they like
+to read our
+documentation then uh third step we
+would update the uh request Builder so
+as we are basically an HTTP visual
+request Builder on the dashboard and
+here we can uh emphasize on some new
+features by saying hey by the way we
+have this new feature and fourth step we
+send an email to everyone and update the
+marketing website so it's like a a
+staircase approach which allows us to
+catch the uh problems beforehand so for
+example when you start using the AI uh
+feature we developed it was a time where
+where I was reading every single request
+that was sent and the answer and to try
+to see if people understood if the
+documentation was clear enough and it
+was not and so it's an opportunity to
+learn without having to ask lots of
+question to to our users that is such a
+cool approach I I love the fact that you
+keep an eye on this stuff like that is
+just that I mean you that is expected of
+a Founder right like Founders need to
+understand what's going on in their
+business but doing this on the
+granularity of an API request level
+that's topnotch I love this by the way I
+I want to point out your request Builder
+is probably the reason that I'm a
+customer oh like that thing is is just
+the the easiest way for me to just see
+if and how it works was to put in the
+URL click all the little things and see
+which combination of them actually gave
+me the result right like I've been
+trying to scrape uh particularly like
+podcast related information because
+that's what podsa needs a lot of
+information about ratings and reviews
+from all over the place and I need
+information from bigger platforms and I
+wanted to see can I get this information
+because I tried with other scraping
+services and I couldn't so I went in
+there put in my URL and then just
+clicked the kind of proxy that I needed
+and the kind of data that I wanted and
+the kind of request it was going to be
+until I saw the result and once I had
+the result I just copied that URL and
+put it right into my application and
+just kept churning out information that
+is a really cool engineering as
+marketing I guess or as a um engineering
+as customer retention or acquisition
+tool is such a smart idea to make it
+easier for for me to get to my moment of
+value almost immediately just with a
+little bit of clicking thank you so much
+yeah uh I spent I say I because I
+developed it uh and we developed it very
+quickly after we launch like probably
+six months after the launch and I think
+we were one of the first to do it in the
+weing space you know having a query
+Builder was not a a very brand new idea
+you had this elsewhere but in the web SC
+creping space definitely not yeah and
+what we wanted to achieve is like to get
+the smallest uh time to copy paste
+possible yes for a developer because you
+know it was pre Ai and all and we felt
+like when I'm using an API I don't want
+to read how to instantiate the SDK or to
+put my secrets what kind of
+configuration variable name I need to
+put uh if this parameter accept a dick
+or Boolean and all I just want you know
+to request this resource and get a
+response and then if I need to tweak the
+request I'm smart enough to read the
+code so yeah this is why also on the
+documentation for every single parameter
+we generate uh a snippet in six language
+and it seems useless because you know
+you're going to generate one if you want
+to add a we parameter then another one
+if you want to add a render GS parameter
+but people love it you know just paste
+in their uh script or whatever it works
+and then they can start working on it
+and iterate so so yeah and the good news
+is like a brand new version of it is
+coming out I think probably Friday wow
+I'm excited like I mean the one you have
+is already good enough to get me to sign
+up but hey it's it's always room for
+improvement yeah Cent version is good
+but it's not great for disability you
+know we have so much feature here and
+the year feature is very bad currently
+because I just kept added feature over
+features and so we that's what I noticed
+I remember this I I I remember looking
+at it was like Hey this item is here and
+this this related item is down there
+they probably were built in this order
+so that's why the exactly it's a bit of
+a clutterer and so we work with a a UI
+designer you know here you can be great
+at everything so we've worked with
+someone very good atui ux and he
+rebuilds whole thing and is being um
+developed and integrated and that's yeah
+really a matter of days yeah I I love it
+and I love the AI feature like let's
+let's talk a little bit about this
+because to me in in the world of let's
+just say the overlapping world of SEO
+and scraping and content AI plays a big
+role in every single part there right
+like I I posted something yesterday on
+Twitter I think I was talking about the
+the dead internet Theory where it's all
+about Bots are talking to Bots and Bots
+are writing articles for Bots to read
+and then those Bots make a summary that
+another bot reads and then does
+something like it's it's just computers
+talking to computers all the time and I
+think the prevalence of AI has helped
+this become a problem even more right
+because now when I when I look about
+what I'm actually doing is like I am
+using an AI to scrape a website that has
+probably some parts that were created by
+AI so now it's really just the computer
+talking to a computer and extracting
+information that it feels like AI is a
+is a problem in this space
+how do you how do you deal with this
+because you probably also know that the
+the big AI uh the llm companies the big
+big model companies that you can like
+open Ai and anthropic and all these
+places they are using scraping quite
+significantly and that has if if
+scraping had a problem before it has
+exacerbated the the public opinion of of
+scraping in the first place so how do
+you deal with the wave of AI both tools
+and content in the world of scraping so
+the way I see it is like a signal vs
+noise problem so and what's interesting
+with AI is like first I've only thought
+about AI about allowing people to
+extract uh signal from noise to extract
+information from data so basically you
+have e-commerce page you want to expect
+structure information but then with llm
+the other thing happens like people add
+noise to signal so let's say you know
+the most basic thing is like craft a
+very nice email to this person asking
+for a refund you know you're just adding
+noise to signal and so you're right it's
+like so we're currently in an Ever
+ending Loop of this know some people app
+clutter other filter it in terms of
+scraping I mean what's cool is that
+people will I think always need scraping
+because everyone want to owns their own
+data and so con easy only way to do it
+at scale it's to either pay some website
+a lots of money the way Google paid
+Reddit for example or you scrape
+publicly available data and so that way
+you can work on the same data as
+everyone else but on the signal and uh
+your added value will be there or you
+clean this data treat it train it and
+all and of course llm has made this
+easier in a way to extract signal from
+data and also harder because they're
+much more much more noise out there but
+uh yeah that that's how I see it
+currently I I like this perspective on
+on scraping in the first place and it's
+I don't think it's surprising like you
+operate a scraping company you have a
+Nuance perspective on this but I think
+you absolutely right you you're you're
+dealing with publicly available data
+that is just hard to to aggregate gate
+like if you don't have the direct
+connection like a direct API access or
+something like this and everybody wants
+to protect it because they yeah I don't
+I don't know why really I mean but I
+have the same thing with pod scan I also
+want to protect all my information
+because that has been like accumulated
+and like you said cleaned and examined
+and analyzed which was why there is an
+API in the first place but scraping is
+something that is just a thing that's
+just normal and everybody kind of uses
+it to a certain extent we certainly use
+it when we use tools like HS or anything
+like this like there's a lot of scraping
+behind the tools that we use as well I
+think H is I think they say they are
+this the second biggest web spping
+company behind Google and it's probably
+true and you know the the way I told you
+that so you get the data you search
+information so this is your your gold
+you know your treasure and you can get
+in multi-dimensional because you can
+have history there this is exactly what
+a has AHF they have a snapshot of the
+internet for the last I don't know 15
+years
+probably and this is awesome and then so
+you can have a a Time Dimension get
+history and then you can have other you
+can add other dimension try to cross
+reference stuff and there you can cross
+reference for you let's say yeah you
+could probably build the a of podcast
+you know like those kind of words are
+trending a lot and get lots of user
+quite literally what I'm building yeah
+so yeah I think this is a yeah a very
+interesting way and probably is the most
+not efficient but sure way to Value the
+data you expecting from the web I think
+that's right I think you you you kind of
+compared it to the the modern gold right
+it's like that data is the value data
+contains the value you still have to
+kind of mine it to exactly to extract it
+you have to kind of boil it down you
+have to you know melt it into its shape
+and then reform it into something maybe
+more pure but that the data the
+potential of information is in the data
+and I I think you have to understand
+that almost every single business has
+something like this right every single
+business has some kind of data that can
+be analyzed for even more value in some
+way for somebody else like even if
+you're just a B2B SAS the information is
+contained in what your customers do like
+how they aggregate their own projects
+how they structure their data what they
+pull in what they get out of the product
+there there's always something in there
+I wonder one thing because you were
+saying like ad's gigantic company Google
+gigantic company they have like millions
+billions of requests probably per hour
+how do you deal with your own clients
+with just a sheer amount of data that
+flows to the system what is your
+infrastructure like I really wonder like
+I have no idea how big like the scraping
+be back end the distributed proxies and
+all of this is how much can you divulge
+like what what what does it look like
+honestly it's not as complex as people
+would think of in terms of uh you know
+if I had to to draw a diagram of the
+screening infrastructure it prob be
+quite small what's hard definitely is to
+work on the pipe like because we have
+lots of network bent with we need to
+ensure that connectivity and speed with
+between each RS of our infrastructure uh
+works well uh we probably have custom
+conversation with engineer at all the uh
+Club provider we use to ensure that
+first there are okay with us doing a
+lots of web scrapping and second that
+they allow us to use as many bandwidth
+as we need uh let it be paid or free
+because once you start scraping at scale
+it can start triggering lots of internal
+alarm you know yes yeah so how does that
+work you you need to be careful about
+that how do you get into these
+conversations with these hosting
+providers with these Cloud providers so
+I mean at first we didn't get into those
+because creeping was too small and then
+we would start receiving some emails
+about H we started noticing some weird
+metrics about your application can you
+please uh let us know about it before we
+completely shut down your account and
+then you start explaining you know we're
+stripping B we're Incorporated in France
+we're a regular web shpping company no
+worries going scrap uh legal website and
+all and now uh we're at the size where
+when we want to work with another
+provider we go the big sales team rout
+and all and so the door I kind of open
+for us and they understand our problems
+so so much it's much iser right now than
+it was let's say one year or 18 months
+ago what did you do to gain trust like
+because to me like the world of scraping
+there's always Bad actors there's always
+good actors so how can you convince the
+people you want to work with that you
+try to only find good actors and try to
+actively combat the bad ones like how do
+you build that trust so honestly a lot
+comes down from the fact that since days
+one we put our faces on our website you
+know and it seems very um let say
+anecdotical uh right now but 10 years
+ago seven years ago you couldn't find
+any name on any web scripting company
+they were all Incorporated in uh Eastern
+Europe Russia cman Island uh things like
+that uh you would have to pay by Bitcoin
+or stuff like that you know it was not
+back per se but it has they had also flx
+and so we're like yeah and for us it
+seems like it was not logical so we're
+like you know what we're going to use St
+like any regular business we're GNA put
+our face on it we're going to publicly
+state that we're Incorporated in France
+we're going to put our uh company
+address on the website and people were
+like okay first is real humans so that's
+a start and then for people who are
+doing uh regular web scraping they don't
+really care that you a bad actor to do
+it uh the only way to know that we're
+trustworthy would be to do B thing using
+sweeping be and getting banned and so
+not a lot of factor to this you know we
+haven't had any uh regular good company
+doing best stuff to check if we were
+doing good stuff but um we still we're
+still highly incentivized to do it uh
+first regarding our relation to tripe uh
+of course weing
+legality and also what's cool with
+scripting be that scraping B is too
+expensive for very bad actor to use it
+as scale so for example if you wanted to
+launch Adidas attack using straping V it
+would be two order of magnitude uh more
+expensive than by renting a butt net on
+the dark web so basically there's two
+very two very bad factors in the webing
+space dasas and credit card tester and
+so for credit card tester what you do is
+like you're highly cautious about any
+scraping regarding end points that looks
+weird you know so for example you can
+scrape any stripe end point using
+scraping B uh with po request no and
+many other things we do that I'm
+obviously won't sure here but you know
+you were uh surprised that we monitor
+things at a request level and it's also
+one of the reason why we do this you
+know gotcha yeah makes sense makes
+absolute sense I I wonder like it
+reminds me a bit of um Stripes radar
+system right where they have this kind
+of preemptive uh checking for Bad actors
+are you implementing similar like AI
+based ristics in your system to figure
+out if people might do something bad so
+it's not asid Dan as right but we have a
+lot of ristics out there and lots of
+things that are blocked by default if we
+don't know you okay oh yeah what does
+that mean what does it mean if that that
+you don't know me like when do you know
+me what's your know your customer
+strategy like so first we're never going
+to know you if you don't want to know us
+so basically the the the way it happens
+is is you have specific web scraping
+needs you see you can do it by default
+you see you have to talk to us so for
+example if you need very big concurrency
+and then we'll start asking okay where
+are you who do you work for what's your
+use case and then we're going to check
+if what you're telling us is true with
+what you're doing because we knew
+everything you're doing uh we have lots
+of thing in place that we develop that
+scale that we can add some web scraping
+rules for every domain that are scraped
+so basically we can block every domain
+in 20 seconds no one will be able to
+scrape them and on a per account basis
+too so we can say okay no one will be
+able to SCP this domain okay this user
+let's say it's a security researcher we
+trust him uh or her they are working in
+a university and all they have the
+University email stuff we had a call
+okay we're going to wh list this domain
+for this user that that sounds so hard
+to do with just six people on a team
+it's hard definitely and this is also
+why we want to to to to expand the team
+a bit you know like you asked us how do
+you know your customer I feel we feel we
+don't know them well enough and we
+should proactively engage more with them
+so that's
+definitely uh something we're GNA invest
+in uh next year so when you mentioned
+the names of your the people you work
+with that kind of sounded like a lot of
+French people so is is that a local
+company are you are you globally
+distributed or are you mostly based in
+France how does it work uh so basically
+so yeah I confounded the company with
+Kevin uh with French uh we were actually
+in the same high school oh wow our first
+employee was aan with also French who
+was also a high school
+friend that's awesome but we're the only
+french guy in the company okay we also
+have Nar who is in Morocco uh s in India
+and Peter in uh England in London and
+then lots of uh freelance in uh yeah uh
+Spain Germany Canada probably us that's
+cool so I assume scraping be is a French
+company though right yeah it's
+Incorporated in France did you ever feel
+you might want to have like a US company
+for a business like this or you know I'm
+I'm German I know Europe and the the vat
+and the like mini One Stop Shop
+especially if you're a German I I know
+the weird tax stuff I know the the the
+Privacy stuff the legal stuff there's a
+lot of red tape and a lot of complexity
+to running a company like this so has
+that ever have you ever like thought
+about maybe you know taking it somewhere
+else
+definitely so there is two things here
+uh first when we started the company
+with skin our goal was okay we need to
+reach 10K Mr to make a living so we
+don't have to go back to work for
+someone us this was a number one goal
+and so we were young in experience and
+so you don't think about all that you
+know you're like scripting VI will never
+be big enough for us to to add those
+kind of issues and even if it's at some
+point big enough to have those kind of
+issues then good for us you know yes we
+were wrong uh should we do it again of
+course we would have done the gone the
+probably the straight atas way much
+easier uh for example I mentioned Tiny
+Seed uh they we were the first French
+company they invested in and so what was
+funny is like I think it took only three
+15 minutes call and a couple of lawyer
+email uh to to sign the agreements so
+all in all it took I don't know two days
+maybe but then all the paperwork related
+to us being French took uh I think five
+weeks like we we started the program we
+hadn't received the money yet so
+definitely it was uh very complex to be
+perfectly honest there is lots of issue
+with doing business in France but one
+good thing is like if you start a
+company you get lots of uh incentive and
+help in a way so it's like a bit of
+water in this entrepreneurial H that is
+friends and uh but when you start out
+and I say it's good and I say it's good
+and so this is also one reason we
+incorporated in friends yeah and you
+made it work right like the company yeah
+is there it is profitable you have
+employees it's all right but I I just
+wonder sometimes right it is costing a
+lot like yeah but uh but yeah we we made
+it work Europe I I remember when we when
+we sold feedback Panda back in the day
+and I looked at the the amount of taxes
+I had to pay just for selling the
+company I was like and then you learned
+that in the US like I think the first 10
+million like are taxfree and you're like
+oh my God and you start yeah right
+making the running the number in your
+head but you know uh for pan pan is in
+the US right that's that's exactly why
+because I also got funding like from the
+Comm company fund which like you know
+Tiny Seed and Comm are very similar in
+that regard and to be even to be able to
+do this quickly I was just like I'm not
+going to turn this into a Canadian
+company I'm just going to go through the
+the stripe Atlas rout or um was it first
+base in my case which is also a com
+company fund company but it was so easy
+to set up this company and the money was
+there like the next morning how how easy
+can it be it's it's crazy yeah that's
+what it is it's crazy I mean there is
+some talk here and there for uh European
+Union you know to create kind of
+European LLC with a standard way for
+foreign investor and European investor
+to invest in a company in one way it
+would be great but but yeah definitely
+not the the wisest Choice we've made but
+you know you made the decision based on
+what you know at that time yeah and our
+world at that time was very different
+from what it is now so I think that's
+that's the most important thing to
+highlight here like you were at a stage
+of your entrepreneurial Journey and you
+did the best you could then and if you
+were to do it again now obviously you
+learned a lot along the way but you had
+to learn it first right you had to First
+go through the hell that is uh French
+entrepreneurial life to understand it's
+it's fine anyway and and that's the
+thing when when I think about European
+companies like yours um you you kind of
+see that reflected in the prices too
+like things are just a bit more
+expensive because people have to deal
+with a lot of more things right so I if
+it has the benefit for you to kind of
+shoot away all these Bad actors because
+it's too expensive for them that's the
+win-win in my book yeah right exactly
+how did you get to the the pricing
+scheme like I'm I'm always interested
+when when it comes to a system like a
+pricing model like what you have which
+is credit based um I I wonder like
+because it has has multiple layers but
+you have the price per credit and the
+credit cost for each action did you just
+kind of balance them out over time like
+how much did that change over time so I
+I think we never change the the credit
+per request you know like uh so if you
+scrape using a br uh uh real BR
+instances so we call this JS rendering
+option it costs five credits instead of
+one I think it has always been that way
+we did iterate a lot on the pricing tier
+uh especially in the early day I think
+we change our pricing six to seven times
+in two years uh yeah uh so to be honest
+when we launched uh we had uh one
+competitor and so we didn't want to be
+more expensive than them uh because our
+infrastructure was much more lean we
+were actually able to divide prices by
+four on some option and so we want it to
+be you know you run the number we want
+it to be profitable enough uh for it to
+make sense and so that's how we came up
+uh with a number yeah if that's how it
+works that's perfectly fine yeah yeah I
+mean I mean no no very complicated yeah
+things here with SK we're always like
+okay let's launch it this way if too
+many people tell us we're too expensive
+okay we're gonna work again about this
+do do you expect to go up market like
+most companies do like that's kind of
+the story of SAS right the the moment
+they get to this this elephant and then
+that there's another elephant on top all
+of a sudden stuff gets more expensive
+and the product gets more expensive and
+more elaborate more Enterprise is is
+that where you want to go or do you want
+to kind of always try to stick in the
+niche like stay with the developers that
+you already serve so I think we can do
+both I mean we will never be able to uh
+attract to the lower end of the market
+so for example for we scraping for me
+it's anything no Cod web scraping tool
+this is a very lowend in the market when
+I say lowend in terms of rpu you know
+like because it's only used user who are
+non technical who probably needs only to
+scrape 10,000 Pages months Max and is
+scraping the real money is when people
+are scraping lots of pages per month so
+we still want to be able to talk to
+people scraping around you know 100
+thousands a month and definitely those
+people I churn medium rpu and so if you
+want to gain growth and growth and
+growth you need to move up Market but
+you can move up Market while keeping the
+same user page so this is why two years
+ago we scraped the $9 a month plan and
+the $29 a month plan which makes
+scraping be probably scraping be
+cheapest here is probably one of the
+most expensive is a wave repping world
+but this is what allows us to you know
+this is a good balance for us because
+otherwise we would have needed way more
+support people or no support at all
+which I don't believe in at all and you
+can also build a team to work you know
+on the Custom Contract stuff and all and
+working with with the big money yeah up
+there y that makes sense to me and I
+think there's a strong signal value in
+this too like when I look at the pricing
+page and I see like a 100 bucks that's
+like okay this is a serious business
+right this is not like bottom of the
+barrel like cheap as you can be this is
+like okay the quality is supposedly here
+and then you sign up and you you check
+out and then you actually find the
+quality so it I I think it's very well
+reflecting what you offer it's really
+cool I really like the product thank you
+thank you Al big fan well okay now we we
+talked a lot about you know uh where you
+want to go how you're going to get there
+if anybody wants to join you on this
+journey and figure out more about you
+and your business and you personally and
+your socials because you share a lot of
+good stuff where do you want people to
+go where do you want people to follow
+you and your journey so I'm currently
+only active on Twitter basically so Pi
+theil on Twitter and for scraping B just
+go on scraping b.com and you'll learn
+everything you need to know about it um
+yeah that's where I share all the stuff
+I want to share online currently yeah I
+really appreciate it I think uh I mean
+I'm a paying customer this is not a paid
+advertisement should be but isn't but I
+I love the product I I really enjoy how
+easy you make it to to scrape to get
+information I think the website is well
+done like shout out to your SEO people
+that they know what they're doing like
+they they get the the content right and
+shout out to you for building a a really
+really cool product I I really like it
+and again thank you for being so active
+on Twitter in the entrepreneurial
+Community I think that's a very very big
+thing like you from a position of having
+had this success already and and
+building continuously building a company
+that's just getting better and bigger
+and more reliable and more stable I
+think you're giving a lot back to the
+community I really really appreciate
+that so thank you for all you do and I
+hope you get to do it for as long as you
+want to do thank you Alid uh thank you
+for all those nice words uh it was
+awesome being here finally talking to
+you and U yeah that's right took a while
+after uh after reading your content for
+for so much time on Twitter gr books and
+all so yeah and I hope we can help us
+can grow as much as possible and uh I I
+really wish you the best with this new
+product thank you so much P was a
+pleasure and that's it for today thank
+you so much for listening to the bootp
+founder you can find me on Twitter at
+Abid a KL you find my books on my
+Twitter course tattoo and if you want to
+support me in this show please tell
+everybody you know about podan FM leave
+a rating and a review it makes a massive
+difference if you show up there because
+then the podcast will show up in other
+people's feeds any of this will help the
+show thank you so much for listening
+have a wonderful day and bye-bye
+[Music]

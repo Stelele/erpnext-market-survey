@@ -1,0 +1,52 @@
+{
+  "topic_id": 151905,
+  "title": "Get current Naming Series value in Webhook",
+  "slug": "get-current-naming-series-value-in-webhook",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "naming_series"
+  ],
+  "created_at": "2025-08-16T08:39:05.779Z",
+  "last_posted_at": "2025-08-16T08:39:05.885Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/get-current-naming-series-value-in-webhook/151905",
+  "views": 33,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Jarkus",
+  "posts": [
+    {
+      "id": 477678,
+      "username": "Jarkus",
+      "name": "",
+      "created_at": "2025-08-16T08:39:05.885Z",
+      "cooked": "<p>Hey, I am trying to access the current value of the counter of a naming series in a webhook. I have a webhook with doctype project and I’d like to add this value to the JSON Body.<br>\nI tried something like this:<br>\n“sales_invoice_counter”: “{{ frappe.db.get_value(‘Series’, ‘SINV.#####’, ‘current_value’) }}”<br>\nIt sadly didnt work. If you’ve got any ideas on how to accomplish this, please tell me.<br>\nThanks in Advance</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/j/2bfe46/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 15,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

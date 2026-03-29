@@ -1,0 +1,51 @@
+{
+  "topic_id": 153504,
+  "title": "Error connection to Mariadb",
+  "slug": "error-connection-to-mariadb",
+  "category_id": 6,
+  "tags": [
+    "database"
+  ],
+  "created_at": "2025-09-13T11:38:10.460Z",
+  "last_posted_at": "2025-09-13T11:38:10.595Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/error-connection-to-mariadb/153504",
+  "views": 92,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "semighoti",
+  "posts": [
+    {
+      "id": 480597,
+      "username": "semighoti",
+      "name": "",
+      "created_at": "2025-09-13T11:38:10.595Z",
+      "cooked": "<p>Hi guys, I am running Mariadb 11.8 and erpnext:v15.78.1</p>\n<p>I have a minor problem about the connection between Erpnext docker and external Mariab.</p>\n<p>Here is the context.</p>\n<p>I used this docker-compose <a href=\"https://github.com/frappe/frappe_docker/blob/main/pwd.yml\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">frappe_docker/pwd.yml at main · frappe/frappe_docker · GitHub</a> to install ERPnext. After running it for a short period of time, I decided to separate the Mariadb out of the YML file, and I am both running them successfully. I have been running and testing both Mariadb and core Erpnext for months without any problem. All the numbers are good. I am right now using accounting module mainly. I have not touched other modules yet.</p>\n<p>This is a minor problem on the Mariadb’s log. When ever I update to the latest ERPnext, external Mariadb gives me errors:</p>\n<p>[Warning] Aborted connection 11 to db: ‘_xxx5f7b’ user: ‘_xxx5f7b’ host: ‘192.168.16.8’ (Got an error reading communication packets)</p>\n<p>[Warning] Aborted connection 13 to db: ‘unconnected’ user: ‘unauthenticated’ host: ‘192.168.16.9’ (This connection closed normally without authentication)</p>\n<p>The connection 11 shows up only one time, and the other keeps showing up constantly.</p>\n<p>Is there away to get make the connect 11 work normally? I have asked chatgpt about the problem, and I got the answer, but the problem still persists.</p>\n<p>Again. Both docker container work perfectly. Nothing abnormal happens. I just want to make things run right.</p>\n<p>Thank you. Let me know if my problem is not clear.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/s/e68b1a/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 26,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

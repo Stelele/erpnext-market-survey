@@ -1,0 +1,52 @@
+{
+  "topic_id": 156742,
+  "title": "How to do setup for accounting and payable to apply morocco compliance",
+  "slug": "how-to-do-setup-for-accounting-and-payable-to-apply-morocco-compliance",
+  "category_id": 7,
+  "tags": [
+    "erpnext",
+    "accounting"
+  ],
+  "created_at": "2025-11-12T09:39:00.962Z",
+  "last_posted_at": "2025-11-12T09:39:01.138Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-to-do-setup-for-accounting-and-payable-to-apply-morocco-compliance/156742",
+  "views": 37,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "shubhamkasar210",
+  "posts": [
+    {
+      "id": 486250,
+      "username": "shubhamkasar210",
+      "name": "Shubham Kasar",
+      "created_at": "2025-11-12T09:39:01.138Z",
+      "cooked": "<p>I have frappe v15 and ERPNext v15 setup on my local machine. Since Morocco does not had app like India Compliance. So how can I do setup on my machine for accounting and payable to apply morocco compliance.<br>\nThanks in advance!</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/s/5e9695/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 6,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

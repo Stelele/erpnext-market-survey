@@ -1,0 +1,570 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+[Music]
+Let's talk about handling multiple ICPS.
+That's ideal customer profiles as a solo
+founder. This is something that I've
+been wrestling with a lot at Podscan
+over the last year and a half. And I
+know that many of you face the exact
+same challenge that I've been facing.
+You're building this product that could
+serve two or three or maybe even five
+different ideal customer profiles from
+different industries, different kinds of
+people, and you're trying to figure out
+how to keep them all balanced, how to
+learn about them, how to deal with them,
+or whether you should even try. And
+before we get to that, a word from our
+sponsor, paddle.com. Because no matter
+how many customer types I have, I charge
+them all the same way by using Paddle as
+my merchant of record. They take care of
+all the taxes, sales tax and stuff, the
+currencies. They track the client
+transactions, try to recapture them for
+me. They update credit cards when that
+needs to happen so that I can focus on
+dealing with my competitors and my
+customers and not with banks and
+financial regulators along the way. If
+you think you would rather just want to
+build your own product and focus on
+that, do check out paddle.com as your
+payment provider.
+[Music]
+I run a small software as a service
+business that has several ideal customer
+profiles just by the nature of what
+PodScan is. And as somebody with limited
+time and limited capacity to make a
+product appealing to particular groups,
+I'm doing this pretty much solo, I have
+learned how to juggle trying to sell to
+several different potential audiences at
+the same time. Or more like I had to
+learn how to do this, right? because
+that's just what the dynamics of trying
+to build this business on my own have
+kind of forced me into. And no matter
+how much we try to niche down with these
+businesses, which is something that a
+lot of founders do very intentionally,
+we often find that when it's software,
+we are building something that is by
+design quite flexible and that's so
+flexible that different kinds of people
+can use it. Just look at Peter
+Levelvel's photo AAI for example. And
+this is ostensively a B2C product. So,
+it's not necessarily the same thing that
+most India hackers built, right? They
+built these kind of B2B enterprisey or
+at least like fewer customers products,
+but even with the B2C product, this
+serves as a good example because it
+serves pretty much everybody, but some
+people more than others. It's trying to
+serve people who need passport photos,
+while he also is serving people who are
+using these AI generated photos for
+marketing purposes or for social media
+posting or to put it into their dating
+app profiles. And there's so many
+different audiences that he could
+potentially serve. But if you look on
+the photoi website, you see that he
+picked out a couple to actually serve
+well and wants to serve as many of them
+as possible. But even there in the B2C
+world where everybody could be a
+customer cuz everybody needs photos,
+Peter niches down to a couple of these
+ICPS. And this gets well I'm not sure if
+you should call it gets worse at this
+point but it it becomes more prevalent
+when you're going into the world of B2B
+into the world of bigger companies or
+even enterprise where you're trying to
+serve these larger businesses with their
+products. In an enterprise situation
+customers expect to be very clearly
+spoken to by marketing materials. It's
+not necessarily the same for B2C where
+people are like okay is this something
+for me? B2B people expect to be clearly
+told this is for you. If you're trying
+to speak from the same location to many
+different people, you are effectively
+diluting your own messaging by just
+trying to reach multiple people at the
+same time. Yet, there is a lot of value
+in trying to reach different customer
+profiles, particularly for businesses
+that are still very early. Because in
+this phase of trying to find product
+market fit, you don't want to set your
+sights on one particular customer too
+early. you still want to be able to
+experiment and see what else is out
+there and if you can reach them maybe
+better than anyone you've ever reached
+before. And that's my personal
+experience. That has been my personal
+experience with POTS 2.
+If you've been listening to past
+episodes of my podcast over the last
+year and a half or so, almost two years
+at this point really, you find that not
+only did I set out to serve multiple
+customer types at the same time, I even
+went back and forth between which one I
+prioritized at any given time. For me,
+these customer groups were the marketing
+departments, the marketers, the public
+relations agencies, founders in the
+media and podcasting world. These kind
+of two-ish, three-ish groups, depending
+on if you put the first two in a bucket
+or if they are independent from each
+other. I'm still not fully decided on
+this. This should tell you everything
+about how flexible these groups are. And
+I recently added a couple more to this.
+I found that news agencies are a
+wonderful customer type for Potscan
+because more and more of them have
+signed up and actually find value. and
+even SEO professionals now draw value
+from my automated systems. So maybe
+that's four or five different groups of
+people and all of them I try to reach in
+particular ways. I will try to share
+with you how I go about this because
+unless you're really clearly aware who
+you're going to focus all your efforts
+on, you kind of have to spread out your
+efforts for all these different groups.
+And I learned that you can't really
+target everyone, at least not at the
+same time. That's important for a
+solopreneur. That just spreads out your
+efforts too much and you really don't
+get any clear results there. If you have
+two or three different customer types
+and you run three experiments, one for
+each, and signups go up, which one
+worked? If you don't really track
+exactly where these people came from, or
+if you do track it, but you're not
+really sure which of your efforts did
+the conversion bit, then it's not that
+meaningful. you can't really learn
+anything from that process other that
+you ran three things and one two three
+potentially of them worked right so
+personally for somebody who has limited
+time and limited attention that's pretty
+much every founder out there I would
+focus very much on one effort at a time
+and that looked like improving
+particular parts of the product or
+having conversations with particular
+kinds of people kinds of customers at
+any given time for me often I would just
+really attempt to focus on the let's say
+Potscan API which is something that is
+more intensely used by my founder ICP.
+So I would make sure that all my triing
+founders get exactly what they need on
+the API. I would reach out to them and
+explicitly talk to them about what API
+stuff they would need right now because
+I saw them tentatively exploring the
+API. Well, what can I do to actually
+build this into your product? That's
+what I would ask. And I would probably
+ignore a little bit the non-founder
+trial users and what they were telling
+me or I would put it at least in the
+backlog just to make sure that I could
+serve that one particular vertical in my
+prospect base that I was focusing on.
+And then other times obviously would
+switch back and forth, right? I would
+think we've worked enough on the API.
+That's good. Now people have what they
+need and if there's anything else they
+will tell me and I need to get back to
+people who actually use the platform,
+the website and I would see what these
+PR and marketing people needed. And for
+that in particular, demos became
+incredibly valuable both for
+classification but also for what do
+these people need in particular. So, I
+have a demo button like book a demo in
+the application where people pretty much
+self- select into talking to me by how
+ambitious they were with what they were
+going to build on the product. Like the
+most ambitious people, the people who
+have felt a pain the strongest were
+often the ones booking a demo. And those
+demos were really good for me. During
+the demo like this, I could figure out
+first off which bucket of my customer
+types do they fall into. That was often
+clear before. You could just check the
+domain and see, you know, where do these
+people come from? What are they
+building? Maybe I could even check what
+alerts have they set up or what have
+they used the platform for because I
+tracked this. But sometimes it became
+extremely apparent during the demo when
+it wasn't before. And then I could ask
+really precise questions about what
+their job to be done was, which would
+help me to figure out what I could do to
+help them further. I could ask them what
+they thought they needed from me. I
+could try to figure out what they didn't
+even know they might need but were
+looking for in a product in the outcomes
+that they were interested in and what
+alternatives they were currently using.
+All of that kind of stuff was quite
+evident during those demo sessions cuz I
+could just ask them, right? That's
+something you don't really do during
+signup, but you can in an actual
+conversation with somebody who is
+already kind of pre-selected into your
+vicinity, right? They already are
+interested enough to actually go through
+the ordeal. That's what I would call it,
+of a call, of a conversation, right? To
+take time out of the day to talk to you.
+So, if you can actually offer people a
+demo of your product, no matter if your
+product is kind of self-explanatory or
+not, offer that demo because that will
+give you so many opportunities to talk
+to your customer and figure out what
+they are and what they are about and
+what they need that no other system ever
+will. But since I can't have a demo with
+every single customer, I think 50 to 100
+people sign up to Podscan every single
+day. Well, there are other things that I
+built and I'm just going to go through
+the whole funnel from where they find it
+to when they sign up and how they use
+the product. Starting with dedicated
+landing pages. I've created a landing
+page for each of my ideal customer
+profiles. Each of these ICPS has a
+landing page dedicated to them in a way
+that highlights particular values of the
+platform that are relevant for that
+particular group. You usually have these
+things in your footer or header
+navigation, a link to solutions. And in
+those solutions, either a drop-own or a
+standalone page, you have solutions for,
+in my case, media businesses, PR
+agencies, founders, podcast owners, SEO
+people, and so on. That's what my
+homepage has both in header and in the
+footer. And on those pages, I highlight
+mostly very goal oriented solutions that
+the platform offers. But if you're a
+news agency, for example, and you're
+coming to Potscan, you'll find that the
+news agency landing page says you'll get
+real-time information about breaking
+topics. You'll be able to see trends and
+how certain topics are getting more and
+more traction before they become
+mainstream. That's the kind of stuff
+that news agencies care about because
+that's their mission is to report things
+before others report them. Whereas if
+you are a PR agency, I highlight that it
+makes it very easy to find wherever one
+of their clients might have reputation
+risk. When somebody is complaining about
+them or there's a public flogging of a
+certain company, Potskin makes it easy
+to be alerted when this happens. And
+that's what I communicate on that
+particular landing page. And in that
+way, people coming there from Google or
+wherever they get this landing page
+from, they become quite aware of how our
+product is meant for them. this is
+partcan for you. This is what parts scan
+can help you with. It was built for them
+and is usable and useful to them and by
+them. And that's something that I feel I
+have to very clearly communicate because
+it can be used by so many different
+kinds of people. But each of them should
+feel like I'm speaking directly to their
+needs. And that goes on throughout this
+process because when then people choose
+to register in Podscan, they can select
+between a couple of options. I have this
+in the registration screen. and I get
+their name, their email, and I ask them
+for what they're working on, what they
+want to use Podcan for. And then I have
+a couple of options that they can self-
+select into stuff like I'm here to look
+at data. I'm here to look at
+transcripts. I'm here to look at an API.
+I'm here to search for stuff. This
+changes over time. It's kind of an
+experiment that I'm running as well to
+see how I can be more precise in
+figuring out what people need. but they
+can pretty much self- select into I'm an
+analyst, I'm a founder, I'm a podcast
+owner, or I just want to look at a
+transcript. And I don't necessarily ask
+them specifically for the industry that
+they're from, I tend to be able to track
+this through the landing page. But even
+if I didn't know this, that happens in
+the next step in the in platform
+onboarding that I do because when people
+come to Podcan for the first time, a
+wizard pops up, right? like a a screen
+that guides them through a first couple
+steps which quite literally asks them
+what they want to do. And while this is
+open, I take the email domain and maybe
+the project name and their name that
+they gave me and do a background AI
+agentic search to figure out who they
+are, how I can present data to them,
+what I can suggest for them to set up,
+how can I make the platform immediately
+useful to this person. That's one of the
+more elaborate onboarding AI automation
+systems that I've built. And I think I
+talked about this on the podcast a
+couple weeks ago, how I set this up as
+well. And with that, I very quickly
+figure out who people are, what they do,
+and what kind of customer group they
+belong to. I note this in my back end
+with my scoring system in the CRM, and I
+try to sort each of these customers into
+the brackets during onboarding. I try to
+make it as apparent as possible what
+people of their customer type find most
+useful. And this is still an ongoing
+thing. I still haven't really changed
+the UI for any particular customer type,
+but I'm working on pulling certain
+features up and putting certain features
+further down the page for people who I
+know won't be using them as much just to
+make the primary value most apparent on
+a per customer group basis. And that's
+the inproduct and onboarding. Now, the
+way I market to these particular groups
+and the way I sell to them is also
+wildly different. And that's something
+that I realized super quickly. You
+cannot expect a single process to work
+for every single kind of customer that
+you have. It just does not work. My
+founder customers are almost exclusively
+coming to me to the product through my
+founder network or through the larger
+founder communities in which I or the
+people who use my product are active.
+That means I don't reach them via cold
+email or something like this. Makes no
+sense. Founders get cold emails all the
+time. They don't really respond well to
+them. But what helps is that people
+recommend me and the product both like
+me as a person as a founder and the
+product. People who are working let's
+say with the API who've used Podscan
+before are recommending Podscan to
+somebody who they know might benefit
+from it. Which is why you will hear at
+the end of this podcast and at the end
+of every single podcast that I've had
+for the last couple of years a shout out
+asking people to recommend me and Potcan
+to their peers, which they do. this
+works and whenever somebody highlights
+POTS scan or their use of POTS scan on
+social media, I very strongly amplify it
+as well. I'm very grateful publicly
+because I actually am grateful for them
+shouting it out and I try to expose them
+to my own audience so that they will be
+benefiting from more reach and be
+further encouraged to share this stuff
+on Twitter. Now, just a couple days ago,
+my dear founder friend Rob Walling
+shared publicly on Twitter how Potscan
+finds very interesting mentions of his
+name and the brands that he's interested
+in and the conversations around them to
+his own audience of almost 40,000
+followers. On a meta level, I know that
+he'll be notified of this mention on
+this podcast by Podcan as well, and he
+will have another opportunity to talk
+about it. Right? There's value in having
+a strong network of amazing and
+successful founders that know about your
+product that use your product and then
+spread it among their founder peers or
+other people that are interested in this
+and might be interested in being a
+customer of this product. And that's my
+logic here and that's how that works for
+my ICP of founders. I have founders talk
+about it so that other founders learn
+about it. But this would never work for
+marketers or PR agencies because that's
+not my network. To reach these people, I
+have to find alternative ways. That's
+directed sales. It's cold outreach,
+social outreach, being present on
+LinkedIn, going into specific
+communities that I know that these
+people go to or at least listening to
+people's complaints and trying to figure
+out how to interact with them to
+highlight the benefit of potentially
+using POTS scan. That could be in
+specialist newsletters that they are
+subscribed to or Reddit, something like
+that. But it has to be different for
+each of my ICPS because these people
+communicate very differently between
+each of these groups. They hang out in
+wildly different locations. They deal
+with cold emails differently and they
+take peer recommendations either into
+account or they don't even give them.
+Because for some of my customer types,
+using Potcan is a massive edge that they
+will not share with their peers. Where a
+founder would immediately tell all of
+the other founders they know that they'd
+found a really cool way to increase
+their leads or reduce churn. For a
+financial analyst that has just found a
+new way to forecast a really good
+investment strategy or investment trend,
+well, they're not going to share this
+with their peers, right? That's who
+they're competing with for forecasting
+and trend analysis. They're not going to
+tell them. Having this edge is a barrier
+to word of mouth marketing here. So, I
+need to have different ways to reach
+them and I need to show them the edge
+that they might be having that somebody
+else already has, but I cannot rely on
+that person telling them. And all of the
+methods are very different between each
+of these groups. And I found that I have
+to have a different outreach, marketing,
+and sales approach and process for each
+of these ICPS. My biggest learning in
+all of this is even though I am doing
+all of this personally, I have to almost
+be a different persona for each of them
+in terms of how I approach it. But even
+how I present myself when I talk to my
+founder peers for example, I can be
+colloquial. I can use memes. I can be
+funny. I can use references from the
+founder community, but I have to be much
+more professional when I talk to PR
+agencies who themselves are often like
+representatively formal to their
+clients. You have to speak the local
+language of that community. When you're
+in there, you have to learn this or find
+somebody who knows it if you want to be
+able to build a strong base into each of
+these profile groups and between
+different onboarding systems and
+different internal feature presentations
+per customer group and process
+isolation, I would almost call it, when
+it comes to how to reach out and convert
+your customers. That's what I've so far
+learned with Potscan about having
+different ICPs. This is one of the first
+businesses that I've ever had that has
+these wildly different customer
+profiles. Before it was usually one
+customer profile very intensely served,
+but now it's different that I have to
+juggle. And while it's complex, while it
+requires me to context switch and be
+different things to different people, I
+think it's pretty valuable and pretty
+interesting to think about. It keeps me
+from getting too narrow too early and
+has kept me from like hyper zooming in
+on one audience where others could also
+benefit. And it helps me discover these
+unexpected use cases that ultimately
+bring in more experience for other
+people and they can learn from this
+transfer the knowledge into their own
+use of the product. It makes the product
+stronger for everyone. The key to me is
+not trying to be everything to everyone
+at once, but being very intentional
+about when and how I serve each group. I
+time box my experiments. I create
+dedicated experiences along the way. And
+I've learned to speak each group's
+language in a certain way. Not just in
+the marketing copy, but in how I think
+about their problems and present my
+solutions. That's the reality I think of
+building this flexible kind of software
+product in today's market. The software
+is already flexible, but the product and
+the business behind it needs to be
+flexible too. The juggle here is real,
+but I think with the right systems in
+place and an isolation approach to them,
+it's absolutely manageable even as a
+solo founder. And that's it for today.
+Thank you so much for listening to the
+Bootser founder. And I told you you can
+find me on Twitter at Avidkal. And if
+there's somebody who wants to know what
+everybody's saying about their brand on
+over 4 million podcasts at this point,
+well, Podcan tracks mentions in near
+real time with a powerful API that turns
+podcast conversations into actionable
+data. And if you yourself are hunting
+for your next business idea, get them
+delivered fresh from the podcast world
+at ideas.podscan.fm FM where an AI
+system extracts the best startup
+opportunities from hundreds of hours of
+expert conversations every day. Please
+do share this with anybody who needs to
+stay ahead of the conversation.

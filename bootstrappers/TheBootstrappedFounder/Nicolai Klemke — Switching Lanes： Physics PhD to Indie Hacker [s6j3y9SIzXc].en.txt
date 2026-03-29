@@ -1,0 +1,1737 @@
+﻿Arvid Kahl: Welcome to the
+Bootstrapped Founder. Today, I'm
+talking to Nicolai Klemke, PhD,
+PhD in indie hacking. Well,
+almost. This guy left academia
+to become an indie hacker and
+he's building an AI product for
+musicians. Pretty interesting
+journey, you'll hear all about
+it. This episode is sponsored by
+acquire.com. More about that
+later. Now, here's Nicolai.
+Nico, welcome to the show. It is
+not often that someone with a
+PhD in Physics goes into indie
+hacking or let alone being able
+to build a business to the point
+of like, mid five figure
+revenue, which is super
+impressive. What made you switch
+tracks?
+Nicolai Klemke: Well, Arvid
+first of all, thanks a lot for
+having me on. Great pleasure to
+be here. Yeah, I mean, I studied
+Physics. And I was always, I
+mean, I studied Physics in
+Berlin, right? And it was never
+really my true hundred percent
+passion, I have to say. I was
+kind of making music on the side
+and was always putting the
+priority to music a little bit.
+And then after my master's, I
+didn't really know what to do
+and applied for some jobs. That
+was on a bit boring. I thought
+maybe I should do full time
+music, but didn't have the guts
+to do it. And then did a PhD. So
+I ended up in that position. I
+kind of liked the PhD, I have to
+say. I did some cool research,
+but then fell in love with
+programming while doing so. So I
+did some measurements and then
+did some simulations for these
+measurements. And why do these
+simulations, I discovered that I
+really, really loved
+programming. And so after my
+PhD, it was clear to me that
+okay, physics, I did this long
+enough without like, without
+having my true passion there
+somehow. Although I love what I
+do but I felt like there was
+something else to do for me. And
+then there was the whole
+programming side that I really
+started to like. And
+simultaneously, there was this
+whole AI trend going on, somehow
+this was, I guess, in 2019 or
+something. There was already
+quite some movement in the back
+then it was called deep learning
+space. And now it's called AI,
+right? So I got more and more
+into this topic and tried with a
+normal job for a year. Got also
+a little bit bored by it. And
+then end of 2022, I played
+around with Stable Diffusion.
+Stable Diffusion, it just come
+out basically, three, four
+months ago. And there was a
+technique that people use Stable
+Diffusion for to generate
+animations. So basically repping
+the image to image functionality
+of Stable Diffusion into a loop
+and then you get image to image
+to image to image to image and
+then you can get animations and
+it's very trippy, weird, cool
+animations. And I just kind of
+played around with it on my
+gaming PC. And actually the
+most, I think, the best use of
+my gaming PC back then, like, I
+didn't use it for much
+afterwards. That was actually
+really cool to have the GPU at
+home. And then, I mean, I wrote
+this in a Jupyter notebook in
+Python. And I was really
+impressed by the animations that
+I was able to get with it,
+somehow. And back then there was
+no way to create these types of
+animations. And so I thought,
+would be really cool to build a
+tool for that. And so I started
+what I wanted to do since a long
+time somehow. did my own thing,
+even though I wouldn't have
+called it a business back then
+really. It was more like a
+project. And then launched in
+January last year 2023. And
+since then it's on a constant,
+yeah, it kicked off a really,
+really cool journey that is a
+lot of fun and keeps me busy.
+And
+Arvid Kahl: It sounds like you
+got super lucky in a way that
+your first project, if it is
+your first project, took that
+kind of trajectory. But it also
+sounds like you are a person
+that just constantly explores
+things that they find
+interesting. I don't think it's
+very much surprising to, you
+know, see both of these things
+happen at the same time. That is
+amazing.
+Nicolai Klemke: That's very
+true. I mean, I did a lot of
+things also before somehow.
+You're right. I do like to
+explore and I think there's a
+lot. I became obsessed with
+astrophotography for awhile. I
+became obsessed. I had a project
+where I had a camera on my
+balcony and filming the crows
+that came to visit us and then I
+uploaded videos and stuff like
+that. So like I think out of
+boredom with my job and my PhD,
+I always did things on the side.
+But now I kind of like okay,
+let's try to find something that
+people actually could use. And I
+got totally lucky.
+Arvid Kahl: That is funny. Yeah,
+honestly I very much relate to
+this. Like I got a collection of
+cameras and lenses for the exact
+same purpose. Like I was like,
+taking picture of the stars and
+the birds in our backyard.
+Nicolai Klemke: Really?
+Arvid Kahl: Yeah, I got like a
+like one of these sports photo
+lenses, these extremely like
+super long, like super, you
+know, like, you can take
+pictures of things very far just
+for the birds like for that
+thing. That was not a smart
+choice, but it was a fun one. So
+I get the excitement of new
+projects. That is really cool.
+I'm super glad to see actually
+that you stuck it through like
+that you actually stuck with the
+project to a point where it's
+making that much revenue like
+mid five figures. That is quite
+impressive. Honestly, I think a
+lot of indie hackers have
+trouble with like actually
+sticking with these projects. So
+what is keeping you with this?
+Like, what makes you want to
+continue working on this project
+instead of chasing another dream
+that you may have?
+Nicolai Klemke: Yeah, that's a
+cool question. So I mean, in the
+beginning, it was really an
+obsession with the topic. Just I
+thought, this is so cool to
+build something like that. I
+always had a lot of fun just
+building it the programming side
+of things. And then I guess so I
+had very early on the Hacker
+News post that was quite
+successful and also a Reddit
+post that was quite successful.
+And that kind of kicked things
+off. And then like, I would have
+been stupid to stop doing it
+somehow. Because there was a
+constant interest in it.
+Actually, no, actually, that's
+not true. I had a point in March
+last year where it was a bit
+slow somehow and I felt I had
+hit a bit of a dead end. But
+then I had like a revelation
+that okay, actually, the product
+needs to look different. It
+needs to be more like a I don't
+know, if you want to talk about
+what the product actually is.
+But it's like a video generation
+tool, right. And back then it
+was very, very simplistic. It
+was also my first react project
+ever. So like, I had no idea
+what I had done. But then I had
+an insight that it should
+actually look differently. It
+should look like more like, like
+Adobe Premiere or something like
+this, like a proper video
+editor. And then I took it
+offline, wrote an apologetic
+email to all the subscribers and
+rebid it basically, in seven
+weeks and  launched then. And I
+think this is also what, so back
+then I had probably a point
+where I could have switched it
+off. But I still believed very
+much in the product somehow. And
+then the redesign helped. Then I
+got some people really
+interested in the product who
+were also creating cool videos
+on it. And this is just the best
+thing, man. I wake up and look
+through the videos what that
+users create on the platform.
+It's like, wow, that's cool, you
+know and now there's an active
+Discord community and a lot of
+people like power users who love
+the product. And this is very
+rewarding to do that. Even
+though now I'm not coding so
+much anymore. So this site
+somehow goes away a little bit.
+Arvid Kahl: Yeah, there's so
+much in here like I hear you
+have communities of people. I
+hear you're trying to kind of
+delegate work a little bit more.
+You also, I mentioned the pivot
+is very interesting, the way you
+did it, like actually stopping
+the product to be able to focus
+on something new. There's so
+much interesting stuff. Let's
+try to get to all of this
+because I think like in each one
+of these choices that you made,
+there's a valuable lesson. And I
+kind of want to start with the
+one where you said this is not
+the right product for the right
+people anymore. I have to do
+something about it. Because it
+is a moment where you could just
+say no, I'm done. I wanted to
+build this. It doesn't seem to
+work as well. Let's do something
+completely different. But you
+chose to do something about the
+product, not just to throw the
+product away. The epiphany that
+you had, in that moment that it
+needs to look different. I would
+like to drill into this because
+I wonder, does it have to do
+with the kind of customer that
+you actually wanted to reach
+with this product? Like, was
+there something that, where does
+the epiphany come from? Like,
+what sourced this change of
+thinking there for you?
+Nicolai Klemke: Yeah, that's
+such a great question. I never
+really asked myself. I was
+juggling the work at the time
+with my girlfriend. We were in
+Colombia, Medellin. And I just
+actually, I paid another product
+based on the same technology
+that failed. It was kind of
+Avatar AI but with videos. I
+don't know, I thought it would
+be a nice scheme to go viral.
+But it didn't. It is based on
+indie hacking. It could have
+been.
+Arvid Kahl: Right?
+Nicolai Klemke: But that's also
+the point in indie hacking,
+right? You gotta stick like it's
+want, like with everything in
+life also in music, like if you
+do something and you just assume
+the word waited for you. This is
+not how it works, right? You
+need to like, beat the drums.
+Yeah, I'm here. Here's the
+product. This is what you can
+use it for. And this just and
+this product, I didn't yeah,
+whatever. But I did this. It
+didn't work out also because I
+wasn't so I didn't believe so
+much in it. And then I don't
+know, I thought what can I do?
+It would be cool to build Neural
+Frames in a new way somehow and
+then it just came to me. And
+long story short, I am not 100%
+sure where the idea came from to
+be honest. It just, you know,
+ideas just come and then it was
+also I didn't really know what
+else to do. I like or maybe
+that's also not true. I don't
+Arvid Kahl: Isn't that the
+thing? Like that is such an
+know, Arvid.
+indie hacker problem. Like we
+make these choices. And in
+retrospect, they make a lot of
+sense or they don't depends on
+the outcome, I guess. But you
+never really have the time to
+even reflect where these choices
+come from. Like every single
+day, this is a problem of hey, I
+gotta fix this, I guess and then
+okay, the thing that was a
+problem four days ago is back.
+Now I gotta fix it again, like
+we never really have time to
+reflect. Like, honestly, it
+would be really nice if there
+was just mandated therapy for
+indie hackers because we could
+benefit from just having
+somebody connect the dots and
+pull us out and pull us back in.
+That is something that I've
+personally been doing over the
+last couple of weeks, just
+getting into therapy for
+everything, not just for
+business but for many things
+beyond it because it's just so
+much more helpful to have
+somebody very warmly and kindly
+listen to your things that just
+give you time to reflect on
+them. Then in our community,
+where everybody's just
+motivated. Let's do it. Let's do
+it. Like the hustle, the grind,
+right? It's hard to find time to
+reflect. But I asked this
+question, in particular, because
+I kind of expected something
+like this like on your first.
+Sorry, on your first indie
+hacker journey, everything is
+new. Everything is crazy.
+Everything is lucky. Everything
+is just an experiment along the
+way. And sometimes we have good
+reasons to do things. And
+sometimes we just do things
+because that's what we could
+potentially do. And then it
+happens or it doesn't. So it's
+nice to hear that there wasn't
+much reflection, but there was a
+moment where I just thought I
+need to make a change. And that
+is enough. Right? For that, in
+particular. Did this change in
+your product actually impact not
+just how many customers you got
+or how many video frames you
+generated but also who those
+customers were?
+Nicolai Klemke: Yes, initially I
+think it was similar ones. But
+then very quickly, I niched down
+on smart people told me I should
+niche down on some. I think
+there's also something that your
+audience will appreciate, maybe
+so I really, I built the product
+with text video for everybody.
+Why do I need a use case? This
+is cool technology. But then
+smart people taught me it's
+gonna be much easier to say if
+you have a customer in mind,
+right. And there were, all kinds
+of people using this product,
+they were like people that
+wanted to visualize their
+dreams, musicians that wanted to
+make music videos, book authors
+that want to visualize stories
+and stuff like that. But then I
+pick the use case that I know
+best, which is music videos,
+right? Because I did music in
+the past which is also like
+things came together somehow.
+And that helped a lot because
+now I had a customer persona. I
+could build features for these
+customers only. And then of
+course more and more musicians
+came in and appreciate the
+product.
+Arvid Kahl: That is cool. I love
+this. I love the fact that your
+own musician history kind of
+pulled all of these things
+together. I think in a way like
+working with AI system probably
+is AI systems such as you know
+stable diffusion and the many
+different things that you have
+to put into place for this to
+work, that is a very you know
+cerebral or very intellectual
+exercise to get these things
+right very logical. That to me
+sounds like you're you know,
+physicist kind of side that the
+person that understands these
+complex things. But then you
+also had obviously the artistic
+side of you being a musician as
+well. I love this. I love this
+kind of mix of two very opposing
+forces into a product that
+combines them both. That is
+really cool. And that in
+particular is an interesting
+field like creating video for
+music. I'm thinking of Sora
+being like the big video AI
+thing that happened and even
+what is the most recent thing
+Sona that AI like? Is that the
+name of it?
+Nicolai Klemke: Suno
+Arvid Kahl: Suno, yeah. See,
+like the names of these things,
+they are so confusingly similar
+that I mixed them up already.
+Like there's a lot of
+development in the generative
+fields like beyond just the text
+medium of GPT and something. How
+do you deal with this? How do
+you deal with the speed of
+development in these fields?
+Nicolai Klemke: Yeah. Yeah, it's
+absolutely crazy. And it's also
+the hardest, I guess it's one of
+the hardest aspects somehow
+because there's so much movement
+in the space and what's true
+today is probably not true in
+six months and we don't even
+know how six months from here is
+going to look like, right? You
+had an episode about that, like
+with this fast moving and it's
+like, there's always a new shiny
+thing that one could implement.
+And it's really hard to do so.
+Or to decide against it and see
+competitors doing it. You know,
+there's a new feature for
+stability fusion, one competitor
+of mine implemented. Do I also
+implement that? Should I? Or is
+this actually not really serving
+the customer persona that they
+have, you know? So my whole idea
+with it is I tried to formulate
+a row like I tried to formulate
+a vision for what this product
+should be. It should be a nice
+tool for musicians that want to
+dig into the technology a little
+bit to create these types of
+trippy animations. And I think
+this helps a little bit because
+it puts you're like, okay, does
+this new feature actually help
+these people or not? And this is
+how I tried to deal with it. But
+of course, like, is this still
+good in one year from now? I
+have no idea.
+Arvid Kahl: Well, I hope that
+musicians are still going to be
+around one year from now, right?
+Like that's, you kind of have to
+think about your market. Is your
+market going to be completely
+replaced by AI? I certainly
+don't think so. I hope with
+artists, at least they will have
+the little always, you know, the
+resistance to technology that
+they always had and keep that.
+But it is an interesting point
+like is your ideal customer
+persona today, even gonna be
+around in a couple of years in
+this field? Very interesting.
+What do you think about this?
+Like, what is your perspective
+on the viability of being a full
+time musician over the next
+couple of years?
+Nicolai Klemke: Well, I just had
+a discussion this morning about
+this, actually. So I mean,
+there's so much so nope, there
+will always be I think I deeply
+believe there will always be
+artists and musicians and actors
+and these type of people because
+somebody said this, right? Chess
+computers are better than the
+greatest chess grandmaster. But
+anyway, still people watch chess
+people playing against this. We
+want to connect to humans. But
+of course, there's also a lot of
+occasions where you just put on
+a Spotify playlist, Lo-Fi beats
+or whatever and it runs in the
+background and they actually
+don't care if it's made by a
+human or not. So in these cases,
+I guess, yeah, there will be
+some disruption happening. I see
+it also from the other side,
+though. I've also a lot of
+people that are known musicians
+who make their own music, pursue
+no AI you know and make music
+videos for these songs.
+Arvid Kahl: Yeah, I love that.
+Nicolai Klemke: Like this is a
+completely new customer persona
+that also didn't exist before.
+But
+Arvid Kahl: That's right! Yeah.
+Yeah, you're literally enabling
+people to do things that they
+could never have done before
+this technology existed, which
+is cool about AI tools, right?
+Not only are you serving the
+existing market to do things
+better, you're also creating
+whole new markets even just in
+deploying the tools for these
+jobs. It's kind of nice, in a
+way, right? You're facilitating
+somebody's career into music in
+a way or into, I don't know,
+filmography for music, maybe
+that's the first step. And then
+they buy a camera. And then they
+try to make these things
+themselves in the real world or
+whatever, right? Like, you could
+argue that you are allowing
+people to get into an industry
+with this, that is a very
+interesting field. And it's a
+very interesting observation
+that you're serving a group of
+people that hopefully will never
+die out. And you're facilitating
+something for new artists as
+well. Are you ever going to go
+beyond artists? We talked about
+this niching because it's a nice
+way to kind of scope your
+business and scope what features
+need to be built and whatnot.
+Nicolai Klemke: Yeah, great
+question, Arvid. Certainly,
+But do you see that there might
+be a ceiling for this like, at
+there's a ceiling. I have no
+idea where it is. With every
+some point? And you need to go
+beyond that?
+day, where the revenue is the
+same as the month before, I
+always think, okay, I hit the
+ceiling, like, you know, like,
+it's this constant journey to
+obsess with the Stripe. So it
+might be here, it might be at
+four times the revenue, I don't
+know. And, of course, there's a
+lot of products around the same
+technology, one could be for a
+different type of customer. So
+that is certainly something I'm
+thinking about. But for now, I
+still have a backlog so big for
+exactly these products that I
+would like to get around to.
+Arvid Kahl: Yeah, and then
+there's another ceiling. And I
+think we should definitely talk
+not just about what the industry
+is doing, but what you are doing
+and how much capacity you have
+to do the work. You're now at a
+point, I think where hiring
+people makes a lot of sense,
+right? So how are you going
+about this? I would assume right
+now you're kind of at a
+solopreneur stage still or do
+you already have a team?
+Nicolai Klemke: I started so
+actually, in October last year
+2023, I started hiring people. I
+was kind of at the point where I
+thought okay, I can try to ride
+this wave alone as long as I
+can. And then most likely
+burnout, honestly. I mean, you
+talk about this a lot also. All
+I tried to play this game now
+and try to make this an actual
+company. And so I started doing
+that in October. I hired
+customer support first best
+decision ever and I hired also
+community and social media, but
+then also hired now front end
+developer and there's going to
+be two more developers joining
+and stuff. And yeah, so I'm
+above and beyond that point,
+trying to build a team, trying
+to scale a team, running into
+completely new problems I never
+had in my life for so long, you know.
+Arvid Kahl: Yeah, talk about that.
+Nicolai Klemke: I don't know
+it's really something that
+occupies me at the moment
+because once you hire people,
+you have people that maybe don't
+do their job properly or they do
+something else that you wanted
+or but they also do great work
+better than you could ever have
+done. But also you're in
+problems like, I'm hiring. I
+tried to hire like a cloud
+engineer or something, right?
+And I never worked in the cloud.
+I never have worked in the
+software company. So I don't
+even know. Like, partly, I don't
+even know what the jobs even
+accord. You know, I don't even
+know what I'm looking for. And
+then how do I assess the
+technical requirements? Like how
+do I assess the technical
+capability of these people,
+right? I mean, it's hard.
+Sometimes I wish I had a co
+founder for this kind of stuff
+also, but it's also cool. I'm
+learning so much. It's
+incredible.
+Arvid Kahl: Right. Yeah. And for
+somebody who loves to learn new
+things, they figure things out
+as they do it. I think that's a
+perfectly fine way to do it. But
+it is stressful. I very much I
+feel that like, from my own
+experience, particularly the
+jump from technical to non
+technical or like from technical
+to technical plus non technical,
+maybe that's the better phrase,
+right? That is like management
+is hard. Understanding human
+beings is hard. I think
+computers and maybe even physics
+in many ways, right? It's
+fundamental laws that work like
+that all the time. Right? If
+something is weird, it's
+probably quantum physics, but
+everything else is fairly stable
+and reliable. And humans are
+not. Humans are the quarks and
+the string theory things, right?
+That's what humans are, you
+never really know. But I get
+that. I get that building a
+culture in the company, building
+a culture also of communication,
+not just, you know, whatever
+ping pong tables or whatever
+culture may mean to some people,
+right? Just building a process
+among people, that is so
+complicated. And if you don't
+have anybody who did this
+before, like, you just have to
+experiment the same way. Do you
+have any kind of particular
+issues that you've run into
+maybe some that you even
+challenges that you have solved
+already that you can share with
+me?
+Nicolai Klemke: My newest bet is
+trying to get people because
+that's additionally, remote only
+company, it's even harder to do
+hiring. Right?
+Arvid Kahl: That's right.
+Nicolai Klemke: So now I'm
+trying to go for motivation
+instead of hard skills. Because
+my assumption is hard skills
+people can learn but soft
+skills, maybe not so much.
+Right? So I'm trying to get
+people who really want to work
+on this not only as a source of
+income, but who really like the
+idea of this. This is my working
+hypothesis. Now I can talk about
+one gig. But so far, I mean, I'm
+really great. I really had a few
+mishires, I would say, but
+overall I'm very, very glad. And
+these are not there anymore. But
+over with a team we are now it's
+fucking fantastic. I love it. I
+mean, you work with people that
+just do the job. We have a team
+together, we have cords
+together. You know, we met on a
+conference also last two weeks
+ago in Las Vegas. So it's really
+nice. Yeah.
+Arvid Kahl: Little team building
+conference. That's nice. So
+where did you find those people?
+One of the biggest things that I
+struggle with is like finding
+even just the locations to look
+for the right people to hire.
+How did you get about this?
+Nicolai Klemke: I mean, you have
+an advantage. You have a massive
+audience, right? So I think this
+is the best point like ask, I
+found a couple of people via
+power users of mine, like I made
+public that I'm looking for
+somebody, let's say in customer
+support and then a power user
+reached out. And I know they
+will have my best interest
+somehow because they want the
+platform to become better. And
+they offered a really cool
+customer support person, Liz,
+who does an awesome job and
+saves my life in multiple ways.
+So that's a good source, then I
+mean, I tried LinkedIn. And
+that's tough. I did, I mean, our
+front end engineer comes from
+there. So that was also luckily
+successful. But there it's much
+harder to assess because you
+don't know these people. Yeah.
+So for that, I really have to
+have an audience or to have a
+product that already has some
+users that like you.
+Arvid Kahl: Yeah. Have you ever
+considered like the fractional
+CTO or the fractional, you know,
+like a hiring director or
+something or like just hiring
+somebody out for a couple hours
+a month or week to work on these
+things? Has that ever crossed
+your mind?
+Nicolai Klemke: I mean, yeah, I
+worked with recruiters, let's
+say. So far, not really
+successfully those also very
+expensive. Fractionally no, I
+mean, yeah, it would be cool to
+have like at somebody for
+operate. What I think now is it
+would be cool to have somebody
+for operations more, you know,
+for like dealing, navigating all
+these hirings and meetings
+Arvid Kahl: Yeah, yeah. Isn't it
+funny?
+Nicolai Klemke: But for
+bootstrappers, I mean, it's also
+always like, do I hire an
+engineer or do I have somebody
+to help me hiring? Probably an
+engineer is better, right?
+Arvid Kahl: Yeah. Yeah. You have
+to make pretty tough choices
+when the budget is like not in
+the hundreds or millions of
+dollars or hundreds of 1000s or
+millions. Yeah, I mean, that's
+just the challenge of building
+something new, right? If you had
+a business that had been running
+for 10 years and you had 400
+people doesn't really matter how
+if you hired like the 400 first
+as somebody to hire the 400
+second or you hired two people
+right there in your roles, that
+would make a big difference. But
+you're at a stage now, like, it
+sounds like you have like, what
+is it? Like roughly five, four
+or five people? How many people
+are in the business right now?
+Nicolai Klemke: Yeah. So, it
+depends a bit on how you count.
+Some people are like
+freelancers, who have multiple
+clients also. We have like four
+to six, depending on how you
+count.
+Arvid Kahl: How big do you want
+it to be?
+Nicolai Klemke: As big as it
+needs to be, I would say not
+bigger.
+Arvid Kahl: Nice! I love that!
+Nicolai Klemke: I would like to
+have maybe, I don't know.
+Arvid Kahl: That's a legitimate
+answer.
+Nicolai Klemke: At the moment,
+there's nobody for backend so I
+definitely need a backend
+engineer, maybe two, but then
+maybe not five at the moment,
+you know what I mean? That would
+be a risk with also raising
+money, I thought also about
+raising money, maybe. But then
+like, I need to hire what, 20
+people suddenly and I don't even
+know. I have no problems to find
+like job positions, like to find
+the names for the roids.
+Arvid Kahl: I mean, there's no
+easy solution to any of this.
+But I mean, being surrounded by
+people who know about these
+things, but also you don't have
+to pay or that are not
+necessarily part of your
+business really helps. I'm
+thinking about about peer
+groups, like founder peer groups
+like mentors, just masterminds,
+these kinds of things. It's hard
+to find the right people for
+this because you kind of want to
+be open and vulnerable with
+them. So you kind of have to
+trust them as well. And it's
+hard to trust people that are in
+a capitalist interest group, you
+know, you get that there's
+always kind of the idea of well,
+can I use this information for
+my own? But most organized
+groups of peers, like the kind
+of mastermind groups that I
+think the MicroConf community,
+you know, they potentially they
+put people together that are in
+the same MRR brackets, for
+example, in their community and
+they have like a buy in. You pay
+like $1,000 or depending on how
+much you can make as a business
+to even be able to join this
+kind of thing to make sure that
+only people who will and want to
+afford this can be part of it.
+This is not sponsored. I'm just
+saying like there are groups of
+people that come together and
+talk about these things and help
+each other because we all start
+from very different points.
+Right?
+Nicolai Klemke: I don't know if
+this is, sorry for interrupting.
+I'm very sorry.
+Arvid Kahl: Oh, it's all right.
+Nicolai Klemke: I don't know if
+this is too personal. Are you in
+such a group?
+Arvid Kahl: No, I've been
+holding out on this for I don't
+know why, for the longest time.
+I've been with Podscan in
+particular, now that I'm
+building this business, I'm
+like, I need to find people in
+this kind of field. Like I need
+to talk to SaaS entrepreneurs,
+that would be kind of the
+business therapy side of things.
+And that's just a personal
+therapy, but the actual like is,
+are you making sane business
+choices? I don't need like a
+psychologist for that. I need a
+SaaS founder for that. So I'm
+actively going to try and find
+these people. I'm going to be at
+the probably around the time
+that this comes out in two weeks
+from now is the MicroConf US
+Conference in Atlanta. I might
+be right there right now. And
+try to find people to actually,
+you know, build this group with
+and join the group. So that is
+what I'm gonna be doing. But I
+should have done this much
+earlier. It's one of these
+things, you know, as an indie
+hacker, you have 2000 things on
+your plate and this would be
+number 2001. So you kind of have
+it somewhere in the backlog.
+That's where this is. So no, I
+don't. Other than the DMS that I
+have on Twitter, which is
+plentiful. Like I talk to a lot
+of people from my field from the
+industry all the time in DMS.
+And on this podcast, for that
+matter, that is kind of my
+public accountability group to
+get things going. But no, not
+yet.
+Nicolai Klemke: I mean, maybe
+that's already enough, right?
+Arvid Kahl: Yeah, maybe. It's
+kind of hard to talk about. And
+we talked about this leading
+into the call, it's kind of hard
+to talk about hard numbers in
+this field. Like how much money
+you make exactly, how many
+people you hired exactly for
+that role, like how much funding
+did to get exactly. A lot of
+people make assumptions from
+those numbers that are
+detrimental to your
+productivity, detrimental to the
+truth and you have to defend it
+and you have to correct them.
+And, you know, it doesn't really
+make much sense. It just steals
+time. So it would be nice to
+have a group where you can
+privately communicate this and
+have actual feedback that is not
+done through a camera lens or
+you know, not done from stage
+but actually from a couch and
+you know, of peers. That's how I
+see these groups is like you're
+hanging out with your buddies.
+It's just you don't talk sports.
+You talk SaaS. That's kind of
+what that is.
+Nicolai Klemke: Next product,
+Arvid.
+Arvid Kahl: Yeah, right. That's
+the thing, there probably is a
+lot of value in this but it's
+also something that probably
+happens more natural than it can
+be kind of forced or organized
+in a way. But I hope that I find
+a good group. I hope you find a
+good group. Maybe we're going to
+end up in the same group. Who
+knows, right? Maybe there's a
+group for Germans that I just
+trying to build like remote
+businesses and hang out. I
+wouldn't be surprised. I bet
+there's for Dutch people. So
+many Dutch people already
+organizing these groups. There
+must be a German group, too. But
+yeah, it's interesting. Isn't it
+nice to think about, like how we
+are looking for connection here,
+like both of us at this point
+that we just really want to help
+other people with the things we
+know? And we need help from
+other people with the things
+that they know? I kind of like
+this. It's nice that founders
+actually like strive for that.
+Nicolai Klemke: And that's also
+something I find interesting
+about this whole founders
+journey somehow because there's
+a lot of people that I think for
+you, it must be the same for any
+solopreneur or for every
+founder, probably for that
+matter, like early customers,
+they reach out to you. And
+actually, I reached out to them
+also in many cases and you meet
+a lot of amazing people and
+people that are very willing to
+help oftentimes also, right? So
+now I'm doing what I was
+supposed to do probably my whole
+life, somehow building a
+network. And now it's all over
+the world and with people in
+like minded people in a similar
+space or something, which is
+very powerful. Because as I
+said, you can find employees
+through that, right? You can, I
+don't know, somebody might work
+at a magazine and you get a news
+article there or something. So I
+think this is also very valuable
+to speak to as many people as
+possible because you never know,
+like, who this person is going
+to be.
+Arvid Kahl: Interesting. Do you
+still do this? Like personally
+like, do you talk to your
+customers a lot?
+Nicolai Klemke: Not as much, I
+should do it more. So in the
+beginning, I sent with every I
+think purchase, I had an
+automated email with a Calendly
+link. And that was a massive
+hack for me, honestly, I would
+recommend this to anybody.
+Because as I said, I had no idea
+of the use cases exactly. And
+then I learned of all these
+people and what they were doing,
+of what they wanted to do and
+what they were missing also and
+what they loved. And now I'm not
+doing it as much, but I'm
+actually planning to do it
+again.
+Arvid Kahl: Also something you'd
+hire for, right? Like that is
+something that somebody else
+could be doing on your part,
+particularly if you find some
+power user from your tool that
+understands what it can do. But
+also understands that there
+might be other people out there
+with other purposes. So I don't
+want to turn this into a
+consulting session. I just
+thought about this, like, you
+know, but like, if you have,
+that's the great thing about
+this network you just described
+like the kind of the networking
+opportunities. They go beyond,
+you know, job searches or
+whatever. They can be
+connectors, like people can
+connect you to the right people
+for the right reason. And that's
+really, really powerful, that
+you just have to tell somebody,
+hey, talk to these people and
+then all of a sudden, something
+cool happens. And you just
+facilitated it in a very simple
+way. I think that's what
+business is, right? Business is
+just helping people help
+themselves or helping people
+help other people. In many ways,
+that's what a service is. And if
+you understand that and lean
+into this connection part of it,
+yeah, you're right. It's a hack.
+I do the same thing. I send out
+this email whenever somebody
+signs up, Calendly link in there
+that is called I think, like
+Podscan, early adopters are the
+best, that's just the URL.
+Because I know that people know
+who they are. They know the
+context in which they use the
+product. So I got a lot of
+really interesting conversations
+from that and all over the place
+too like, from people that
+actually need to use it because
+their boss told them to do a
+thing. And they thought this
+would be a good tool, which is
+great because that's what budget
+is and from people who just have
+a cool idea and they think this
+might work with that idea. So
+there's this kind of exploration
+part too where people want to
+build a new business. And maybe
+this is something cool that they
+could use along the way. There's
+a whole spectrum. And if you
+never ask people about what they
+need it for, what their job to
+be done is, right? If you never
+ask this, you will never know
+what's out there. It is so
+crazy, like the different kinds
+of use cases for products like
+ours.
+Nicolai Klemke: I would even go
+so far like it is almost
+impossible to build a real
+business without that. So you
+really need to understand your
+customers because what you, I
+have some friends who are
+building a product and they want
+to launch and then they're
+building feature after feature
+after feature before launch.
+They don't even know who's going
+to use the product. And that's
+really what you should not do,
+right? You should launch as
+early as possible with as just
+barely enough that it somehow
+kind of works. And then speak to
+as many people as possible
+somehow and learn and move the
+product there.
+Arvid Kahl: Did you launch
+Neural Frames? Are you still
+launching it? Is it a constant
+launch? Is it gonna be launched?
+Like how was that working for
+you?
+Nicolai Klemke: I don't really
+believe in launches. Pieter
+Levels wrote this in his book
+like for us this everyday is
+like, I mean, everyday is a
+launch. I mean, now we are
+building a bigger version of the
+product somehow. Probably there
+will be something like I will
+probably try to get some like,
+oh yeah, newer friends launched
+the new whatever, version two of
+the video editor. Probably I
+will try to get something like
+that. But also, I mean, the
+launch is also very scary
+because to get the launch right
+with the running customer base
+needs to work. Like you know,
+you need to do some proper QA
+for that. So I think I will I
+think my launch is not very
+subtle. I find out who complains
+about what then fix things and
+make a tweet about it or
+whatever.
+Arvid Kahl: Micro launching all
+the time, right? That's really
+what it is. I prefer that too.
+I'm not a big fan. It depends,
+like if you build a product that
+is so hyper viral and it is
+supposed to be like, it's
+supposed to just really be there
+Nicolai Klemke: It's a
+continuous growing blob of
+for that moment and explode and
+then you move on to the next, I
+can see this. I can see that
+being good enough reason to just
+really put energy into the
+launch. It's kind of adding
+kindling to a fire before you
+started, right? Like putting the
+weird little chemical there, the
+fire ignition thing and then it
+just goes up. And then it just
+goes back down. And then you
+move on to whatever next thing
+you do. But I think the business
+that you want to build and the
+business that most people want
+to build is a consistent,
+resilient, like slowly, maybe
+growing but growing like a
+sustainable thing. And a
+sustainable thing doesn't need
+the big flame, right? It just
+needs to constant simmering,
+let's go to technical terms
+here. It just needs to keep
+going. That's the idea. A launch
+breaks that up, interesting
+point with the scalability issue
+of it, but the QA requirements
+of it. Like if you launch, it
+better be good. It better be
+done and ready. And when is our
+stuff ever done and ready, to be
+honest, right? Software never
+is. So do you think in versions,
+is that like where you are at
+the stage of your business now
+that you know this is now a new
+version? Maybe push that a bit
+more? Or do you just see
+yourself facil as a continuously
+growing blob of everything?
+everything. We, actually, so I
+mean, we push to production
+every other day with some new
+tiny features something so like
+no, I don't really think in
+versions. However, as I said, we
+are kind of revamping the whole
+video editor and that way be
+somewhat new that we call this
+internally V2. So yeah, I guess
+it's a new version.
+Arvid Kahl: It might also be an
+expectation, right? Like some of
+your customers like the bigger
+you get, the more enterprise-y
+it gets. That is their
+expectation of how software
+works, too, right? So
+Nicolai Klemke: But it's
+interesting because that's what
+I also found what a lot of users
+appreciate. And this is our
+advantages, indie solopreneur or
+like small bootstrap companies.
+Somebody says something in
+Discord that they want some that
+they're missing something or
+whatever. And I mean, I can do
+this in a day and in many cases
+I have. And I mean, this is the
+greatest thing that could ever
+happen to a customer, right? You
+request something and then later
+that day, it's there. And of
+course, for me, it's also great
+because I learned, like if
+Arvid Kahl: Did you ever say no
+to any of these requests?
+somebody requests something
+that's awesome, right? We're
+learning, we're improving. So
+for quite kind of a while, I
+would say for four years. So I
+was really trying to do these
+things in very high frequency to
+launch tiny micro features very
+quickly. And this is what people
+appreciated about Neural Frames
+also. And like big teams cannot
+do that because they have
+sprints, they have sprint
+plannings. You know, they have
+like products, things they're
+working on. So in that case,
+it's very good to stand in.
+Nicolai Klemke: Most of them. I
+mean, yeah, most of them I'm not
+failing, of course, like there's
+a yeah. But
+Arvid Kahl: How do you make the
+choice?
+Nicolai Klemke: You gotta
+prioritize heavily. And it's the
+same with a new shiny feature
+somehow, right? Like and that's
+also something I learned. It's
+like everything you built
+increases the complexity of the
+product. In the beginning, you
+don't feel it as much. But then
+you add thing after thing. You
+feel it, right? So yeah, it gets
+more complicated to build new
+things after awhile.
+Arvid Kahl: Yeah. And technical
+debt is really hard to pay back
+if you have a really small team
+and you need to hire, right?
+They already have workload of
+the things you need to build
+right now that you don't get to
+like, it's even harder to write
+tests or to make sure that the
+codebase is clean or that edge
+cases are properly dealt with. I
+know that feeling. I think
+that's the last like 15 years of
+my life is this, like
+constantly. I have no time for
+that. So it's just, you know,
+reality for us. And how lucky
+are the few of us that get to a
+point where they do have the
+financial breathing room to hire
+enough people to deal with this
+kind of stuff, right? In many
+ways that is the sign of a
+maturing business is that they
+can deal with the kind of the
+backlog of issues instead of
+having to constantly gasping for
+air and even building the things
+they need to stay afloat with.
+So that is really cool. Where's
+Neural Frames going? Like what
+are the next steps for the
+product for you?
+Nicolai Klemke: So we at the
+moment, there's all kinds of AI
+video to it. We are however
+unique in the sense that we
+offer the most control of to
+create the certain type of
+animations in an audio reactive
+fashion. So you can upload a
+song and you get like the
+different components of the song
+extracted and then can make the
+animation reactive to whatever
+the kick drum or the bass or
+whatever. And it feels a little
+bit like as we call it the
+visual synthesizer. Speaking
+about targeting musicians,
+right?
+Arvid Kahl: Yeah, very clear
+Nicolai Klemke: Visual
+synthesizer. And my goal is to
+be the best product for this
+type of very niche application,
+you know, so like, it's a bit
+for nerds that like to tinker
+synthesizers are also not for
+everybody, you know. Like, it's
+for people that like to play
+with knobs and stuff. So it
+gives the users a lot of
+control. But also, yeah, gives
+the users a lot of control,
+which means there's a certain
+learning curve connected to it.
+But also, it gives a lot of
+control so people can do
+whatever they want. And my
+vision is to just move further
+in this direction somehow and
+make it smoother. So what I
+mean, since I did this myself
+and this was not my first and
+second react project. I mean,
+the front end is a bit clunky.
+And now the front end engineer
+works on making everything nice.
+And I think this will help a
+lot. So
+Arvid Kahl: Yeah, very cool. I
+love this. I love that you have
+a vision for like, specifically
+who this is for. And there are
+so many, engineering adjacent
+musicians that love like
+synthesizers to me is a very,
+it's a field that I'm somewhat
+interested in, like, I am not a
+musician, per se, but I do enjoy
+playing around with it. So you
+know, I have a couple of
+synthesizers at home as well,
+for that reason, just to because
+of the complexity of these
+machines, it's just so funny.
+It's just fun to be able to
+impact the signal in a way like
+this is really cool. So seeing
+you going into that direction,
+that also makes it absolutely
+clear who this is for and who
+it's not for. That is so
+important. I think that is
+really, really cool to know and
+to make that choice. Too many
+people want their thing to be
+useful for everyone. And they
+end up building something that
+nobody can really use. I'm glad
+to see that you're the opposite
+of this. You're building
+something that is specific.
+Nicolai Klemke: Yeah, that's so
+interesting because now of
+course, the question is, is
+there a way to expand this?
+Because there's a lot of people
+coming to the site were
+disappointed also that it's too
+complex for them, you know?
+Yeah, I also think about how to,
+maybe there's a way to combine
+the two things somehow, right?
+To have the complex side, but
+then also have an easy side. So
+you know, which is very hard to
+do from a UX perspective, but I
+would also like to implement
+that somehow.
+Arvid Kahl: Wouldn't that be the
+best, right? The Holy Grail of
+user interface and even product
+design is to make it accessible
+and expert level. If you look at
+even even if you look at
+instruments that stick with
+this, if you get like a
+controller like a MIDI
+controller for like an Arturia
+something, right? Like one of
+these rather basic things. The
+essential package has a couple
+of knobs and a couple of sliders
+and a couple pads or whatever.
+And it's already complicated.
+It's not a keyboard, it's just a
+keyboard with keys. It's a
+keyboard with a lot of stuff and
+you don't really even know how
+Nicolai Klemke: Yeah, I have
+some ideas, but it's just one
+to operate it. And then you get
+into the mp3, the big O(1) and
+all of a sudden, you have like
+40 knobs, like 40 things to
+twist around. And you don't
+really know like, this is scary,
+like you don't even want to
+touch the instrument. Like it's
+not very accessible, it can do
+everything. But even a beginner
+will be scared to even get
+started. I think if you go back
+to software businesses, if you
+look at Adobe's product line,
+same problem. Like it's not easy
+to use Adobe Premiere Pro or
+even their audio product, right?
+Like the audition product, these
+things are expert tools and it's
+hard to use them as a beginner.
+Like, there is no easy way to
+use this. There's no easy mode
+for that. And I think that
+generally is a problem. And a
+hard to other than building two
+distinct products, I don't think
+it's an easy one to solve.
+team at the moment challenge.
+Arvid Kahl: Challenge accepted,
+I guess. Yeah, that is great,
+too. Like if you're so deep in
+your niche and you know the
+people in it and you know like
+how much you can actually throw
+at them and they won't run away.
+Right? They will still try it.
+That is valuable. That is cool.
+That is good to know. That
+allows you to build more things
+than somebody like Adobe who has
+to build for everybody at the
+same time. So being in the
+niche, probably a good idea. And
+I hope you get to build
+something that is more
+expensable over time that you
+can put into other niches as
+well. But right now, you have
+your hands full, as we say
+already with what you got.
+Right? So that's really cool.
+Nicolai Klemke: Yeah, I'm having
+a blast.
+Arvid Kahl: Yeah, I can tell. I
+can tell.
+Nicolai Klemke: It's kind of
+like a computer game. You know,
+you play and there's money
+coming in and there's money
+going out and whatever.
+Arvid Kahl: I love that. And I
+love that you're building a team
+to building a serious business,
+which you know, it's not just a
+project. It is something that
+really materially impacts the
+lives of others, which is really
+cool. I'm so glad you're talking
+to me about this. I think you
+are on a journey that a lot of
+people a lot of indie
+onetrepreneurs, indie hacker in
+the making, would like to be on.
+They are in some field that they
+are maybe a little bit
+disillusioned with, a field that
+they were supposed to be in and
+now find themselves like looking
+over on the other side of the
+fence. And you took this step.
+You taught yourself coding, you
+taught yourself the AI stuff and
+you just built something and
+people really resonated with it.
+I think that's an inspiring
+story. And I'm glad you're
+sharing it. Thank you so much.
+It's really cool.
+Nicolai Klemke: Thank you,
+Arvid.
+Arvid Kahl: Yeah, always a
+pleasure. Well, let's maybe tell
+these people that are on
+hopefully that journey where
+they can find out more about
+yourself and your work and the
+business and all of that. Where
+should they go?
+Nicolai Klemke: Sure. Yeah, I
+mean, my main platform I would
+say is Twitter @nicolaiklemke,
+just my first name, last name.
+There's of course, Neural
+Frames, neuralframes.com, Neural
+Frames YouTube channel, Neural
+Frames Twitter account, all
+these things, but I tried to
+share things of my journey on my
+Twitter account. And so I would
+encourage people to follow that
+if they're interested.
+Arvid Kahl: Yes, I would
+encourage them just the same and
+thank you so much for talking to
+me today, Nicolai. That was
+awesome.
+Nicolai Klemke: Thank you,
+Arvid! Thank you!
+Arvid Kahl: And that's it for
+today. I will now briefly thank
+my sponsor acquire.com. Imagine
+this, you're a founder who's
+built a really solid SaaS
+product, you acquired all those
+customers and everything is
+generating really consistent
+monthly recurring revenue.
+That's the dream of every SaaS
+founder, right? The problem is,
+you're not growing for whatever
+reason, maybe it's lack of skill
+or lack of focus or play in lack
+of interest, you don't know. You
+just feel stuck in your business
+with your business. What should
+you do? Well, the story that I
+would like to hear is that you
+buckled down, you reignited the
+fire and you started working on
+the business, not just in the
+business and all those things
+you did, like audience building
+and marketing and sales and
+outreach. They really helped you
+to go down this road, six months
+down the road, making all that
+money. You tripled your revenue
+and you have this hyper
+successful business. That is the
+dream. The reality,
+unfortunately, is not as simple
+as this. And the situation that
+you might find yourself in is
+looking different for every
+single founder who's facing this
+crossroad. This problem is
+common, but it looks different
+every time. But what doesn't
+look different every time is a
+story that here just ends up
+being one of inaction and
+stagnation. Because the business
+becomes less and less valuable
+over time and then eventually
+completely worthless if you
+don't do anything. So if you
+find yourself here, already at
+this point or you think your
+story is likely headed down a
+similar road, I would consider a
+third option. And that is
+selling your business on
+acquire.com. Because you
+capitalizing on the value of
+your time today is a pretty
+smart move. It's certainly
+better than not doing anything.
+And acquire.com is free to list.
+They've helped hundreds of
+founders already, just go check
+it out at try.acquire.com/arvid,
+it's me and see for yourself if
+this is the right option for
+you, your business at this time.
+You might just want to wait a
+bit and see if it works out half
+a year from now or a year from
+now. Just check it out. It's
+always good to be in the know.
+Thank you for listening to the
+Bootstrapped Founder today. I
+really appreciate that. You can
+find me on Twitter @arvidkahl.
+And you'll find my books and my
+Twitter course there too. If you
+want to support me and the show,
+please subscribe to my YouTube
+channel and get the podcast in
+your podcast player of choice,
+whatever that might be. Do let
+me know. It'd be interesting to
+see and leave a rating and a
+review by going to
+(http://ratethispodcast.com/founder).
+It really makes a big difference
+if you show up there because
+then this podcast shows up in
+other people's feeds. And
+that's, I think where we all
+would like it to be just helping
+other people learn and see and
+understand new things. Any of
+this will help the show. I
+really appreciate it. Thank you
+so much for listening. Have a
+wonderful day and bye bye.

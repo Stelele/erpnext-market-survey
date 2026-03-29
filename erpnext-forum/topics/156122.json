@@ -1,0 +1,53 @@
+{
+  "topic_id": 156122,
+  "title": "Issue with GL Entry Mismatch When Adding Subscription Plans in Sales Invoice",
+  "slug": "issue-with-gl-entry-mismatch-when-adding-subscription-plans-in-sales-invoice",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "custom_script",
+    "sales-invoice"
+  ],
+  "created_at": "2025-10-28T12:41:24.128Z",
+  "last_posted_at": "2025-10-28T12:41:24.245Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/issue-with-gl-entry-mismatch-when-adding-subscription-plans-in-sales-invoice/156122",
+  "views": 36,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "dhruv-siprtc",
+  "posts": [
+    {
+      "id": 485085,
+      "username": "dhruv-siprtc",
+      "name": "Dhruv Vadoliya",
+      "created_at": "2025-10-28T12:41:24.245Z",
+      "cooked": "<p>I’m facing an issue with <strong>Sales Invoice generation</strong> after integrating <strong>Subscription Plans</strong> into it.</p>\n<p>The Sales Invoice in ERPNext is originally designed to handle <strong>item-based billing</strong>, but in our use case, we’ve added <strong>plans</strong> to display which subscription plan the customer has selected and its respective cost.</p>\n<p>After adding a script to include the <strong>plan total</strong> along with the <strong>items total</strong> in the invoice, everything appears correct on the UI. However, during <strong>submission</strong>, the system throws an error due to a <strong>GL Entry mismatch</strong>.</p>\n<p>ERPNext’s GL generation logic only creates entries for <strong>items</strong>, and since the <strong>plan total</strong> isn’t part of the standard item entries, it results in a <strong>Total Difference error</strong> during validation.</p>\n<h3><a name=\"p-485085-what-ive-tried-1\" class=\"anchor\" href=\"#p-485085-what-ive-tried-1\" aria-label=\"Heading link\"></a><strong>What I’ve Tried:</strong></h3>\n<ul>\n<li>\n<p>Created a <strong>custom server script</strong> to adjust GL entries — didn’t work, as ERPNext performs the difference check during submission.</p>\n</li>\n<li>\n<p>Attempted to <strong>override the core GL generation logic</strong> through a custom app — became complex and unstable.</p>\n</li>\n</ul>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/c/8/c8656094196011124694a742faa4170b96cadefa.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/c8656094196011124694a742faa4170b96cadefa\" title=\"Screenshot 2025-10-28 at 5.51.29 PM\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/c/8/c8656094196011124694a742faa4170b96cadefa_2_689x258.png\" alt=\"Screenshot 2025-10-28 at 5.51.29 PM\" data-base62-sha1=\"sAMH1dZyZkzBRYSqbDe6il1Gm4a\" width=\"689\" height=\"258\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/c/8/c8656094196011124694a742faa4170b96cadefa_2_689x258.png, https://discuss.frappe.io/uploads/default/optimized/3X/c/8/c8656094196011124694a742faa4170b96cadefa_2_1033x387.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/c/8/c8656094196011124694a742faa4170b96cadefa_2_1378x516.png 2x\" data-dominant-color=\"FAFAFA\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot 2025-10-28 at 5.51.29 PM</span><span class=\"informations\">2558×960 125 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/b/8/b84d80eaa8e28a5c711d4ea603c1864b6266083a.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/b84d80eaa8e28a5c711d4ea603c1864b6266083a\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/b/8/b84d80eaa8e28a5c711d4ea603c1864b6266083a_2_690x156.png\" alt=\"image\" data-base62-sha1=\"qipU7EREmRjfed6y3s9i8JQzxBU\" width=\"690\" height=\"156\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/b/8/b84d80eaa8e28a5c711d4ea603c1864b6266083a_2_690x156.png, https://discuss.frappe.io/uploads/default/optimized/3X/b/8/b84d80eaa8e28a5c711d4ea603c1864b6266083a_2_1035x234.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/b/8/b84d80eaa8e28a5c711d4ea603c1864b6266083a.png 2x\" data-dominant-color=\"F5F5F5\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1180×268 18.2 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/dhruv-siprtc/{size}/89943_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 8,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

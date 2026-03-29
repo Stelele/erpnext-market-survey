@@ -1,0 +1,53 @@
+{
+  "topic_id": 156123,
+  "title": "Help: Custom JS/CSS to toggle Activity/Comments not applying (Frappe v15)",
+  "slug": "help-custom-js-css-to-toggle-activity-comments-not-applying-frappe-v15",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "customization",
+    "frappe"
+  ],
+  "created_at": "2025-10-28T12:58:57.647Z",
+  "last_posted_at": "2025-10-28T12:58:57.761Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/help-custom-js-css-to-toggle-activity-comments-not-applying-frappe-v15/156123",
+  "views": 34,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Daniel_Vishna",
+  "posts": [
+    {
+      "id": 485089,
+      "username": "Daniel_Vishna",
+      "name": "Daniel Vishna",
+      "created_at": "2025-10-28T12:58:57.761Z",
+      "cooked": "<p>Hi everyone,</p>\n<p>I’m trying to add a custom button to all forms (like Projects, Doctype forms, etc.) to toggle the visibility of the <strong>Activity</strong> and <strong>Comments</strong> sections. I aim to have them <strong>hidden by default</strong>, and only show them when a user clicks the button.</p>\n<p>I have a custom app called <code>*</code>, and this is what I’ve done:</p>\n<p><strong>1. In <code>aboulafia/hooks.py</code>:</strong> I’m loading my custom assets globally:</p>\n<p>Python</p>\n<pre><code class=\"lang-auto\">app_include_css = [\"/assets/*/css/custom_styles.css\"]\napp_include_js  = [\"/assets/*/js/custom_ui.js\"]\n\n</code></pre>\n<p><strong>2. My <code>*/public/css/custom_styles.css</code> file:</strong> This file is intended to hide the sections by default. It will only show them if the wrapper has the class <code>aboulafia-show-activity</code>.</p>\n<p>CSS</p>\n<pre><code class=\"lang-auto\">/* --- Global hide for Activity/Comments --- */\n.form-comments,\n.comment-box,\n.timeline,\n.timeline-wrapper,\n.frappe-timeline,\n.form-timeline,\n.document-activity,\n#timeline,\n.card-section:has(.form-comments),\n.card-section:has(.timeline),\n.frappe-card:has(.form-comments),\n.frappe-card:has(.timeline) {\n\tdisplay: none !important;\n}\n\n/* --- Show them when class is added --- */\n.aboulafia-show-activity .form-comments,\n.aboulafia-show-activity .comment-box,\n.aboulafia-show-activity .timeline,\n.aboulafia-show-activity .timeline-wrapper,\n.aboulafia-show-activity .frappe-timeline,\n.aboulafia-show-activity .form-timeline,\n.aboulafia-show-activity .document-activity,\n.aboulafia-show-activity #timeline,\n.aboulafia-show-activity .card-section:has(.form-comments),\n.aboulafia-show-activity .card-section:has(.timeline),\n.aboulafia-show-activity .frappe-card:has(.form-comments),\n.aboulafia-show-activity .frappe-card:has(.timeline) {\n\tdisplay: block !important;\n}\n\n</code></pre>\n<p><strong>3. My <code>*/public/js/custom_ui.js</code> file:</strong> This script is supposed to add a toggle button to every form.</p>\n<p>JavaScript</p>\n<pre><code class=\"lang-auto\">frappe.ui.form.on(\"*\", {\n    refresh: function(frm) {\n        const button_id = \"toggle_activity_btn\";\n        if (frm.custom_buttons[button_id]) {\n            // Update existing button text\n            const is_visible = frm.wrapper.classList.contains(\"aboulafia-show-activity\");\n            frm.custom_buttons[button_id].text(is_visible ? __(\"Hide Activity\") : __(\"Show Activity\"));\n            return;\n        }\n\n        // Add new button\n        frm.add_custom_button(__(\"Show Activity\"), function() {\n            frm.wrapper.classList.toggle(\"aboulafia-show-activity\");\n            const is_visible = frm.wrapper.classList.contains(\"aboulafia-show-activity\");\n            frm.custom_buttons[button_id].text(is_visible ? __(\"Hide Activity\") : __(\"Show Activity\"));\n        }, {\n            \"name\": button_id\n        });\n    }\n});\n\n</code></pre>\n<p><strong>The Problem:</strong></p>\n<p>After making these changes, I ran <code>bench build</code> (which completed successfully) and <code>bench restart</code>.</p>\n<p>However, the Activity section is <strong>still visible</strong> by default, and my new “Show Activity” button does <strong>not</strong> appear on the form.</p>\n<p>It seems like my new <code>custom_styles.css</code> and <code>custom_ui.js</code> Files are not being loaded or applied at all.</p>\n<p>I have already tried:</p>\n<ul>\n<li>\n<p>Running <code>bench clear-cache</code>.</p>\n</li>\n<li>\n<p>Hard refreshing the browser (Ctrl+Shift+R).</p>\n</li>\n<li>\n<p>Running <code>bench build</code> again.</p>\n</li>\n</ul>\n<p>During the build, I did see this warning: <code>WARN Cannot connect to redis_cache to update assets_json</code>. Could this be the reason my new assets aren’t loading?</p>\n<p>Does anyone know how to fix this and load my custom scripts?</p>\n<p>Many thanks for considering my request.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/daniel_vishna/{size}/90559_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 12,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

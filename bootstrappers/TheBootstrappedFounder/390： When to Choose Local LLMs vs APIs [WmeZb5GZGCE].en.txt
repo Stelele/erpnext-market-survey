@@ -1,0 +1,431 @@
+﻿Hello everyone, it's Arvid and welcome
+to the Bootstrap
+[Music]
+Founder. Today I want to talk about
+something that's been on my mind lately
+and probably yours too if you're
+building anything with AI. It's the
+age-old question and I guess a couple
+years of age at this point. Should you
+run language models locally or just use
+APIs like OpenAI or Claude? This episode
+is sponsored by paddle.com, the merchant
+of record that has been responsible for
+allowing me to reach profitability a
+month ago. Paddle truly is more. That's
+Mor, the merchant of record, because
+their product has allowed me to focus on
+building a product people actually want
+to pay money for. That money is going
+into a lot of AI tools, and I'll talk
+about that today. But Paddle is really
+doing more for me. They deal with taxes,
+reach out to customers with failed
+payments. They charge in people's local
+currency. All things that I don't need
+to focus on so I can really be present
+for my customers and their needs. It's
+amazing. Check out paddle.com to learn
+more. Now, I know what you're thinking.
+All right. Local AI versus API. That has
+been debated to death on Twitter over
+the last couple weeks. But here's the
+thing. Most of these conversations, they
+seem to happen in a vacuum, a very
+academic vacuum, full of theoretical
+scenarios, benchmark comparisons, that
+kind of stuff. What I want to talk about
+and share with you today is what I have
+actually learned from building a real
+business with AI, making real decisions
+with real constraints and sometimes
+making the wrong choices and learning
+from them. So, I'll share that. Let me
+start with a confession here. When I
+first started building Podcan, I was
+convinced I had to do everything with
+local language models. I mean, as a
+booter founder, the idea of keeping cost
+slow, maintaining control, that was
+incredibly appealing. So, I dove in
+trying to handle everything locally. And
+I tweeted a lot about this, right? I
+shared all my benchmarks talking about
+this. I shared my numbers, how much it
+costs, and all that. It was a lot of
+research that I needed to do. And I
+tried to do all of these things in
+public as much as I could. But here's
+what happened since. And this might
+sound familiar if you've been down this
+road yourself. The cost savings that
+platforms like OpenAI and Enthropic have
+achieved just through their scale very
+quickly made it pretty clear that for my
+workload and data volume, it made no
+sense to rent more and more GPU
+resources to run local language models.
+I have 50,000 podcast episodes coming in
+every day and I have really no control
+over how many there are. That's just how
+much stuff gets released every single
+day and I need to deal with this. So to
+do analysis on this I need to have
+something that works at scale and is
+efficient and local models they don't
+really work like that. At this point, it
+became much more effective for me and
+that was been like 3 months ago when I
+realized this to go API first instead of
+local LLM first and then consider local
+deployment later if APIs went down or if
+I needed specific capacity requirements.
+So, don't get me wrong. There absolutely
+are situations where a local LLM shines
+for SAS founders or just if you want to
+use it yourself. But let me break this
+down based on what I've actually
+experienced. The first sweet spot is
+when you have very small tasks that need
+really quick decisions, things that
+don't require complex reasoning or
+extensive context. And I'm talking about
+little tiny fragments of work that need
+to be done in the context of a software
+business. For example, if you need a
+reasonable choice between options that
+can't be determined by simple boolean
+logic or a basic algorithm, a small
+language model with fast inference might
+even run on CPU and can be perfect even
+if it's run on CPU or GPU, right? You
+look at a piece of text and you want to
+determine one thing about it that you
+cannot just find by looking for
+keywords, right? looking for something
+specific that is kind of in the context
+of the text but not explicitly written
+in it and L&amp;M will be able to figure
+this out and a local model if it's not
+too much text can do this extremely fast
+even if you don't have a GPU in your
+computer so instead of making a network
+call and dealing with API latency and
+cost you get your answer instantly on
+your local server if you run a really
+really small LLM and here's a concrete
+example from my own business. The first
+AI feature that I built was for
+transcribing audio clips for POTS scan.
+This doesn't necessarily require an
+inference call to a remote API. It can
+run on the local GPU or CPU of a server.
+And that's how I started, right? The
+whole thing was I didn't have too many
+parallel operations. It didn't exceed
+what my business at that stage could
+handle because I was just figuring it
+out. So, I was running all of these
+transcription things on my Mac computer.
+And even before I started Podcan I was
+running a different business that was a
+pod line and for that I did
+transcription too of really short
+messages maybe a minute or so. So that
+doesn't really require a lot of
+resources. I was running this on CPU on
+that server. It's like a $25 a month
+head server that runs the whole business
+and it might take two to five minutes to
+transcribe that minute on the CPU but it
+doesn't really matter, right? message
+comes in, you transcribe it, and then
+you take the transcript and send a
+notification. A couple minutes perfectly
+fine for such an async tool. So, I
+didn't need to build like a complicated
+pipeline there. I could just have it run
+locally, and that is perfectly okay. For
+these cases, it makes sense to keep the
+processing on your local server with
+local models that fit into RAM and avoid
+costs that would come from someone
+else's resources and your attempt at
+using them. And this experience also
+taught me something interesting about
+CPU versus GPU inference. There are
+certain ways of using these models,
+particularly very modern models where
+there's barely a difference in speed
+between CPU and GPU, specifically when
+you're dealing with low context windows
+and low token prompts. If you just need
+a yes or no answer, for example, a CPU
+and a GPU might be almost equal in terms
+of speed, provided that it's low
+context, right? It's not a lot of text.
+It's not a lot of prompt. It's just give
+me a yes or give me a no answering this
+question about this paragraph of text.
+It is really, really fast on the CPU.
+You don't need a complicated thing. But
+the moment you do multimodal work,
+things like images or audio or some deep
+analysis with a lot of data, then a GPU
+based system becomes much more effective
+and even required. The key insight here
+for me is if you have only 10 of these
+operations a day and you can wait a bit
+for the results, you don't necessarily
+need to go to a remote API or use a GPU
+to begin with. But here's where things
+get interesting and this is where I
+learned some hard lessons. Scale changes
+everything.
+My first real challenge came when I
+started working with a lot of large
+transcripts because inference like
+getting some information from a large
+transcript really scales with the size
+of the context that's provided. If you
+have a three-hour conversation, like I'm
+looking at Joe Rogan in text form and
+you want to run some kind of analytics
+on it, some kind of data extraction,
+that turns into a very very long
+computation process. If you run a local
+language model, whether on GPU or CPU,
+it just takes some time unless you have
+an H100 graphics card, which costs
+several tens of thousands of dollars to
+to own, right? So, that is not
+happening. And for any other graphics
+card that you run this on or god forbid
+a CPU, this is minutes if not hours. I
+was using llama.cpp with a llama 3 bill
+or 7 billion parameter model. And while
+this was perfectly fine at the scale of
+a couple hundred operations a day, it
+became a bottleneck immediately at a
+couple thousand. And at tens of
+thousands a day, it became completely
+unbearable. I had to scale back the
+number of things that I pushed in. I had
+to make a choice like do I even analyze
+this script or do I not? It became a
+problem. And here's the brutal truth
+about this with the unit economics of
+remote AI platforms that are offering AI
+inference. And there's way more than
+OpenAI and Anthropics Claude, right?
+There are many many Deepseek is one of
+them. And there are many that can host
+your models remotely and do that very
+efficiently. It is often much more
+reliable and much cheaper to use those
+services than to run your own
+infrastructure at scale. The economies
+of scale that companies like OpenAI and
+Enthropic achieve, they are just
+impossible to replicate when you're
+running a smaller operation. You cannot
+scale an inference cluster to the same
+level they can. Like I don't even know
+how to start an inference cluster. I'm
+just running individual machines, right?
+Like I don't have the knowledge and it's
+not my job. Potscan is not an inference
+cluster building company. It is a
+podcast data company. And if I need
+inference, either I build something kind
+of or I use somebody's system that is so
+much better at it. And there are some
+scenarios where you absolutely need
+local language models regardless of cost
+or convenience out there too. And I
+think it's important to think about
+those because if you have customers that
+require SOC2 compliance or any kind of
+privacy based compliance, privacy in the
+first place, they will very likely not
+even allow you to send their data to
+external systems outside of your
+business. The fine print of API usage
+terms for the platforms like OpenAI
+often include the fact that they can use
+your data that you send to train their
+future systems. And for customers with
+strict privacy requirements, that is a
+non-starter. It's just not going to
+happen. And that is their control of
+their data. There's another argument for
+local systems, and that's control of the
+system itself. Both data control and
+model control. You control what model
+runs on your own system, what version,
+and when it runs. Nobody can turn off
+your model because they need to update
+their hardware or because they decide to
+discontinue support or use a new model
+instead. If you have your own system,
+you can run it for as long as you have
+access to that computer. You can also
+tune your AI system to your customer's
+specific data and deploy exactly the
+right model with exactly the right
+fine-tuning on exactly the right data
+for them. You can obviously also kind of
+do that with systems that have a
+platform offering, but it becomes more
+complicated to actually retain full
+control over it and sometimes that's
+what your customers want to pay you for.
+So, how do you actually make this
+decision between local models and remote
+APIs? Well, based on everything I've
+learned, here's the framework that I
+use. Couple questions. The first one is
+scale. How many operations a day am I
+running? If it's under a few hundred,
+then local might work. If it's
+thousands, it's probably API time. The
+second question is the speed
+requirements. Can you wait a minute or
+two for results? If that's the case, use
+local. If you need instant responses or
+a lot of parallel responses, APIs will
+be your friend. The third one,
+obviously, like I just said, privacy
+constraints. Do you have customers with
+strict compliance requirements? Do you
+want to offer this? Then that might
+force your hand towards local. And
+context size is similar here too. Are
+you working with large documents, large
+transcripts, large images, video? Maybe
+the larger the context, the more those
+APIs make sense. Unless you want to
+invest a lot into hardware to be able to
+handle it. And that is kind of the last
+question, resources. Do you already have
+it? Like, do you already have a GPU? If
+not, the upfront investment might not be
+worth it. Now, mind you, Potscan ran on
+my Mac Studios GPU for a couple of weeks
+when I started the project. It was
+enough to do what was it
+like 12 seconds of audio per second. So
+I could handle a couple thousand or a
+couple hundred to a couple thousand
+podcast episodes a day and that was
+enough just to get started. So if you
+have a good GPU in one of your local
+computers, you might actually use that
+for a bit. But the APIs are way more
+reliable. And I go API first for most
+things now. And I try to kind of save
+myself from becoming too dependent on it
+because there's obviously dependency
+risk here by having a local fallback
+option. So I have GPU powered servers
+that can run these models if they need
+to. If not, they just keep transcribing
+along, right? I'm trying to always use
+the GPU 100%. But if there is an
+inference job that needs to be done,
+they can also spin up a model real
+quick, do the job, and then kind of
+removed from memory. And this gives me
+the best of both worlds because these
+servers then also talk to APIs if they
+need to to OpenAI, to cloud, whatever.
+The speed and cost effectiveness of
+these APIs happens for most normal
+operations and I have the security and
+the backup really of local processing if
+and when it's needed. There is a benefit
+to these APIs. It's just an
+implementation benefit. It's very
+underappreciated, but it's
+standardization. There are OpenAI
+specific parameter configurations that
+just work with most APIs. There's a
+standard on how you prompt a model.
+These are very easily mapped onto
+different providers because there is a
+standard and competition and companies
+like AWS Bedrock where you can host AI
+models and then talk to them as if you
+were talking to OpenAI. They help you
+not feeling locked into a single
+provider, right? The vendor lock doesn't
+really exist here. And this
+standardization makes it easier to
+switch between providers or fall back to
+local models when necessary. Although in
+my experience, the UX of writing local
+prompts for some models is much more
+finicky than the streamlined and
+welldocumented API versions out there.
+Like there are some models that need
+really weird prompt structures because
+they are not as customerfriendly, I
+would say. But you will figure that out
+either way. like the potential savings
+and costs that you might have and the
+control and particularly when it comes
+to privacy, the need for understanding
+it well will drive you to get how to
+prompt these models reliably. Look, the
+choice between local LLMs and APIs is
+not about being ideologically pure or
+following trends or whatever. It's just
+about making practical decisions for
+your business based on your specific
+constraints and requirements. So, if
+you're just starting out, my advice is
+simple. Start with APIs. You can always
+run a local model to get tested and then
+for any production system if you don't
+have much traffic it's not going to be
+very expensive anyway get your product
+working locally validate your market
+understand your scale you can always
+move to fully local later if your
+specific situation demands it but use
+APIs just to not have to deal with it to
+be able to focus on your business logic
+the key is to be honest to yourself
+about your constraints both technical
+and business constraints and make the
+choice that serves your customers best
+the purism has no hold here. You don't
+need to build this locally just because
+you can. Sometimes the best choice is
+local, sometimes it's APIs, and
+sometimes it's a hybrid approach. That
+depends on your business, not on what
+you think is cooler in terms of tech.
+And at the end of the day, the best AI
+infrastructure is the one that helps you
+build a sustainable business like from
+the start and that serves your customers
+effectively and you don't have to waste
+money on. Everything else is really just
+implementation details. And that's it
+for today. Thank you so much for
+listening to the Bootser Founder. You
+can find me on Twitter at Avidkal Av K
+Ahl. If you want to support me and this
+show, please share potscan.fm with your
+professional peers and those who you
+think will benefit from tracking
+mentions of their brands, businesses,
+and names or podcasts out there. Potscan
+is a near realtime database of podcasts
+with a really stellar API. So, please
+share the word with those who you think
+need to stay on top of the podcast
+ecosystem. Thank you so much for
+listening. Have a wonderful day and
+bye-bye.

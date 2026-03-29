@@ -1,0 +1,51 @@
+{
+  "topic_id": 156379,
+  "title": "How to automate content updates from external job-notification sites in a Frappe/ERPNext deployment?",
+  "slug": "how-to-automate-content-updates-from-external-job-notification-sites-in-a-frappe-erpnext-deployment",
+  "category_id": 6,
+  "tags": [
+    "frappe"
+  ],
+  "created_at": "2025-11-03T22:29:52.270Z",
+  "last_posted_at": "2025-11-03T22:29:52.358Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-to-automate-content-updates-from-external-job-notification-sites-in-a-frappe-erpnext-deployment/156379",
+  "views": 21,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "KARAN570",
+  "posts": [
+    {
+      "id": 485539,
+      "username": "KARAN570",
+      "name": "karan",
+      "created_at": "2025-11-03T22:29:52.358Z",
+      "cooked": "<p>Hello everyone,<br>\nI regularly notice websites that publish government exam results and job notifications (for example: rojgar–result and I’m wondering how to build or configure a system using Frappe Framework / ERPNext to handle this type of workflow.</p>\n<p>Here are some specific questions I have:</p>\n<ol>\n<li>\n<p>What’s the best approach to <em>pull in data</em> (such as exam result entries or job notifications) from external sites via API or scraping into Frappe/ERPNext?</p>\n</li>\n<li>\n<p>Once the data is in Frappe, how can one trigger <em>notifications or alerts</em> (email/web-portal) when a new result or job update is added?</p>\n</li>\n<li>\n<p>Are there performance or architectural considerations to keep in mind if the site receives <strong>lots of updates per day</strong> and many users are accessing the data?</p>\n</li>\n</ol>\n<p>Would love to hear from anyone who has done something similar, or can share best practices for this kind of content-update automation in Frappe/ERPNext.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/k/5f9b8f/{size}.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 6,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

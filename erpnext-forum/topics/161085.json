@@ -1,0 +1,53 @@
+{
+  "topic_id": 161085,
+  "title": "SyntaxError - JSON.parse - unexpected character at line 1 column 1 of the JSON data",
+  "slug": "syntaxerror-json-parse-unexpected-character-at-line-1-column-1-of-the-json-data",
+  "category_id": 7,
+  "tags": [
+    "erpnext",
+    "accounting",
+    "vat"
+  ],
+  "created_at": "2026-02-25T05:10:05.800Z",
+  "last_posted_at": "2026-02-25T05:10:05.917Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/syntaxerror-json-parse-unexpected-character-at-line-1-column-1-of-the-json-data/161085",
+  "views": 25,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "yogeshvachhani",
+  "posts": [
+    {
+      "id": 494987,
+      "username": "yogeshvachhani",
+      "name": "Yogesh Vachhani",
+      "created_at": "2026-02-25T05:10:05.917Z",
+      "cooked": "<p>Hello,</p>\n<p>I am running Frappe/ERPNext on an AWS with MySQL residing in a separate RDS. I have not linked any domain to it. I use the IP address to access it.</p>\n<p>The setup it designed to run  for development in Developer Mode.</p>\n<p>But after my instance runs for a few hours it stops showing any error messages, all that happens is it plays the error sound (Bing) and the developer console shows error messages as follows.</p>\n<pre><code class=\"lang-auto\">\nthrottled socketio_client.js:149:12\n\nUnable to handle failed response request.js:362:13\n\n\nSyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data\n    report_error http://18.142.245.129:8000/assets/frappe/dist/js/desk.bundle.AEQANDIT.js:30879\n    500 http://18.142.245.129:8000/assets/frappe/dist/js/desk.bundle.AEQANDIT.js:30634\n    call http://18.142.245.129:8000/assets/frappe/dist/js/desk.bundle.AEQANDIT.js:30748\n    fire http://18.142.245.129:8000/assets/frappe/dist/js/libs.bundle.LLRFRX7M.js:1735\n    fireWith http://18.142.245.129:8000/assets/frappe/dist/js/libs.bundle.LLRFRX7M.js:1821\n    done http://18.142.245.129:8000/assets/frappe/dist/js/libs.bundle.LLRFRX7M.js:5450\n    callback http://18.142.245.129:8000/assets/frappe/dist/js/libs.bundle.LLRFRX7M.js:5628\ndesk.bundle.AEQANDIT.js:30754:17\n\n</code></pre>\n<p>How to resolve this issue?</p>\n<p>What must be the reason for this issue?</p>\n<p>TIA</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/yogeshvachhani/{size}/13602_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 12,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

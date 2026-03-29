@@ -1,0 +1,837 @@
+﻿[Music]
+this episode of microphone air Mike
+Faber and I reflect on 500 episodes of
+part of to the recognized
+[Music]
+welcome to microphone air the pod that
+live stream that helps developers
+designers and entrepreneurs be awesome
+in building lunching and growing
+startups whether you built your fifth
+one are you just thinking about it I
+decided to do a little throwback zant
+producer Zander surprised me with the
+startups with the rest of us theme music
+and thought to be a little fun to do
+that intro of case you recognize it from
+even a few months ago every once in a
+while I still throw that in on the
+podcast but that was our intro for about
+450 episodes 9 years of starters for the
+rest of us so welcome today this micro
+conf on air I'm as always your host Rob
+walling and every Wednesday we live
+stream for about 30 minutes and we cover
+topics about startups building and
+growing bootstrapping self-funding indie
+funding all the things and you know
+really believing in a long term mindset
+and doing things for both for the world
+but also for ourselves and our family
+and our lifestyle and not being willing
+to sacrifice all of that in order to
+build a company so a couple of
+housekeeping items before I bring Mike
+on here and we start digging into
+startup for the rest of us if you have
+not checked out microphone microcon
+masterminds comm that is where we are
+doing my mastermind matching there's a
+lot of em's going on here a lot of
+alliteration we're doing mastermind
+matching I think we have another
+producer Xander concurrently but about
+another week before we're gonna do a
+match so if you want to get in you'll
+want to check that out get in there's a
+short application form to help match
+folks up and there is a nominal cost
+based on how much revenue you're doing
+on an annual basis really more to get
+skin in the game better than anything
+microcode masterminds comm it's going
+well
+we have a lot of folks who've signed up
+and I look forward to to kind of getting
+those matches out and getting people
+connected if you haven't already if
+you've been watching my core Conair and
+you haven't hit the subscribe button to
+get notified about our future live
+videos and frankly talk videos that we
+publish be sure to seek that out and
+subscribe I think we exceeded 4,000
+subscribers and you know it just feels
+pretty good we've only been on YouTube
+for a handful of months and it seems to
+be working out so far
+if you ever miss an episode of microcon
+funnier or you just can prefer to
+consume it as an audio feed just search
+for a microphone error in any pod
+catcher which is which is what I do I
+don't I don't watch the live video I
+listen to the audio asynchronously at
+one-and-a-half speed which is the best
+way to listen to Jimmy talking um maybe
+to X actually to make better use of time
+thanks as always to Basecamp and stripe
+they are our headline partners this year
+and we really appreciate their
+involvement and support of micro conf
+and microcon on air so today I am
+reflecting on 500 episodes of starters
+for the rest of us with mr. Mike Tabor
+fights welcome to the show
+hey you don't do this week yeah things
+are things are good the weather is kind
+of trippy we had a flash flood warning
+yesterday afternoon and it was 95 the
+day before so typical Midwest weather so
+for folks who don't know Mike Tabor he
+is just now in the next day or two
+returning to Twitter he's at such as
+founder and offer a year so if you want
+if you want a troll Mike go right now
+and just mention them if we get like 50
+people to add mention Mike so he has a
+huge backlog to go that'll be great but
+I'm not gonna go through the back
+backlog we already talked about this
+like I'm just like if you wait till
+tomorrow and then tweet me then I'll see
+it but otherwise I'm probably just not
+gonna look it I'll look like click the
+button just to make the icon go away
+because by OCD like I can't have that
+thing saying there's 20 plus
+notifications however many there I know
+that there's way more than 20 but yeah
+there there's gonna be 20 just after
+this conversation you know Mike we
+aren't we did already talked about it
+but through the magic of time travel
+that no one will hear that till next
+Tuesday oh really
+yeah it's trouble yeah so awesome Mike
+for those who don't know I kind of
+assume everyone does yeah is the
+co-founder of micro Kampf co-founder of
+startups for the rest of us and the
+founder of blue TKO if you have any
+questions for Mike or I you know we
+always love the live engagement please
+do feel free to post those into the
+micro comp on air slack channel in or
+the slack yeah it's a channel within the
+Microsoft Connect workspace those are
+the technical terms so I got to get it
+right
+we already have a yeah yeah we have two
+questions I'll get to them in a second I
+wanted to start with two things number
+one you have a coffee mug then I feel
+like the the viewer should see and for
+the audio listeners that says this is
+probably whiskey even though it's only 1
+p.m. your your time I have mad respect
+for Mike Tabor and his whiskey
+collection the other thing is I look
+back Mike at Episode one I've started
+for the rest of us recorded over 10
+years ago to listen to but it's the
+question that the title is what is a
+micro preneur and we micro preneur is is
+a term that we didn't like I don't even
+use anymore even though it still has
+some meaning it's like bootstrapper or
+self-funded startup or self-funded
+founder or non venture track started
+there's all these these better terms for
+it now but micro preneur was and yeah
+I'm curious to hear your take on it it
+was like a made-up word that we used we
+invented this term because bootstrapper
+didn't really fit at the time like
+bootstrap startups
+we're considered lifestyle businesses
+and there wasn't this track and this
+understanding of you know that we have
+today in the micro conf community is
+that your memory as well like do you
+yeah I'm just curious to hear your take
+on that whole topic my recollection is
+that we could get the domain name so we
+went with it and it was something that
+anybody else really had and it was
+similar enough to entrepreneur that we
+could you know kind of play off of that
+and make people understand what it was
+without having to explain it too much
+and it just like the the people who fit
+that profile it just made sense to them
+I would agree with you that it has not
+shown its age really well and it's not
+exactly a widespread term at this point
+but you know it's the it's almost like
+you know
+well Oracle isn't necessary like there
+are widespread name but it's not you
+know because people think oh the Oracle
+database or anything like that it's like
+it's a brand you know and I don't think
+we had intentionally tried to take that
+brand name and make it you know a
+widespread because it's not something we
+really did we focused more much more on
+the community and the relationships and
+everything
+and the products as opposed to like the
+name itself of like this thing that we
+were trying to you know basically make
+people understand like hey this is a new
+type of arrangement for startups yeah I
+feel like we were trying to create a new
+category and that's really really hard
+and you know what I think about is even
+the very first I think like micro
+preneur Academy launched in I would say
+2009 or 10 and micro conf launched in
+2011 we didn't the tagline of micro conf
+was never the conference for micro
+preneur it was always the conference
+first at least at the start the
+conference for self funded startups and
+single founders that was the original
+tagline because we knew that self-funded
+startups were a thing and at the time I
+remember single founder and and
+co-founder like that alone was a
+conversation topic that I feel like
+isn't even that relevant anymore you
+know because it was like single founders
+word the non venture track was kind of
+the implication whereas you know I mean
+whereas today it's like that's not a
+thing like you can have a single founder
+venture dreck single founder non that's
+not the the designation or really a
+differentiator anymore in my opinion
+even though it's a single founder still
+your your Twitter handle yep well I mean
+it's it's not easy to change that but
+unless well I could change it it's just
+to be difficult to find like a new one
+so but yeah I remember one of the
+reasons we ended up with startups the
+rest of us as the podcast name was
+because when Paul Graham had written one
+of his articles he said flat out like we
+don't fund single founder companies and
+here's why and it was like well what
+about the rest of us who are doing these
+things we are creating startup so you
+can't say that it's not a startup but
+it's it's just not venture funded or
+angel funded like you know you guys are
+doing through I see so it kind of you
+know I think I remember writing a blog
+post about it and I registered the
+domain name and then fast forward
+several years you know when you and I
+connected it was like hey I've got this
+domain name we could use it for the
+podcast and it seems like that just it
+fit it just fit really well yeah we've
+gotten questions before like do you ever
+because typically if you do something
+for you know a decade especially if you
+named it at a certain point like Dan and
+Ian named they had lifestyle business
+podcast and then they forked off and
+started tropical
+and later they decided we don't even
+like lifestyle business podcast doesn't
+even apply to us anymore and they and
+they merged it all into tropical NBA
+we've had questions like do you regret
+the name startup to the rest of us and I
+have and we talked about on the show but
+like I have no regrets I I think the
+name is as fitting if not more so today
+than it ever has been the Micra preneur
+word i after a couple years it was just
+like if this isn't you know I don't
+regret that but it was definitely
+something and I think was less relevant
+and caught on less I started for the
+rest of us built a brand around it and
+then Micro Kampf as well is the other
+thing where like I wouldn't rename that
+you know I have no I've never thought oh
+man I really don't like that then you
+know that I really don't like that name
+you know Micro confer starts the rest of
+us like I think they still hold up
+you have the same sentiment yeah I do
+and I would agree like on the microphone
+or side it's like I mean that was part
+of why we've renamed the micro preneur
+Academy online community into founder
+cafe was to help like differentiate it's
+like well it's it's not really
+Microprose and there was some confusion
+about well is this the name of the
+online community here's the name of the
+business and technically it was both and
+just renaming it's a founder cafe it
+made more sense because it was a
+community of founders right so we have a
+couple questions I wanna I want to dig
+into Rafal tomorrow who you and I both
+know pretty well he says what kept you
+going all these years what has kept you
+going cranking out podcast episodes I
+think for me it was the regular schedule
+of having to basically just show up and
+I think that because you and I had put
+it on our calendars every single week on
+I forget at this point when we recorded
+it was Tuesday's I think so it was like
+basically we would record one week in
+advance every single time and because it
+was always on the calendar we always
+showed up it was it was never something
+where I'm like oh I'm just gonna skip
+this this week and then there were
+occasions where we had to record two and
+a week because somebody was going on
+vacation or I'd have a guest on or
+something like that but we always got it
+out and we always had it recorded well
+enough in advance that it wasn't a big
+deal to continue that streak so to speak
+and it it got easy after a while I mean
+it was one of those things where it
+became a habit and through that habit
+it's just you just do it you just show
+up and record and that's
+kind of the end of it it was it never
+felt like work and I think now there's a
+lot of things that had to do with that
+like being able to create a process for
+like okay we're gonna record put it in
+Dropbox somebody edits it and then they
+put together the trend sent off for
+transcription the whole back-end process
+because all that stuff was taken care of
+and literally we just had to show up
+that made it easy yeah I think that was
+a big part of it I also think for me
+when I think back I think if we had not
+built the micro conf community like if
+we had never had micro confident met
+people in person I'm not sure how long
+that cuz that was it seeing that there
+were real people listening to the show
+and reading our blogs at the time back
+when we still talked remember that but
+like meeting people in person it was
+like oh this is a thing like there are a
+lot of people who want who are doing
+this or want to do this so anyways for
+me I I think everything you said plus I
+think if we had not started micro conv
+continued to do it I don't know that
+that the show would have lasted because
+if we would have just met you feel like
+sometimes you do feel like you're just
+talking into a void ya know you don't
+get a comment you don't get a tweet for
+five episodes and it's like has anyone
+even list and you see the downloads but
+it's like is anyone listening and like
+Micro Kampf was always a reminder of
+that that their rear end it's that
+feedback loop I mean because when you're
+in person you do get that feedback loop
+and you know you do see occasional
+comments and you know iTunes ratings and
+things like that and there's emails and
+questions and stuff to come in but I
+agree with you just like meeting people
+in person and having them say oh I
+listened to such in such episode and I
+took that and ran with it and it
+completely changed my business I mean
+that's that that was solid reinforcement
+that I really think helped us all helped
+motivate us to do keep doing those
+episodes yeah and I think that it you
+know if you've started a podcast or
+you're working on one now that doesn't
+mean you have to go start an in-person
+event what I hear from a lot of folks in
+the you know the the other self-funded
+kind of bootstraps podcast space is that
+they go to business a software or micro
+coffe and people come up to them and say
+hey your bran castle writer your Jordan
+ghoul or your you know Ben Hornstein so
+it's not that you need to start your own
+event but I think having some in-person
+interaction
+I think is super helpful there there's
+something interesting you said and I
+want we'd have another couple questions
+I think are interesting
+there is something you said is like we
+just had to show up every week you know
+and it was on our it was on our calendar
+and we had to do it the show must go on
+I also think and and that was a good
+thing but I also think there were times
+I know for me there were months at a
+time where I was kind of phoning it in
+you know I was so busy with trip and so
+much headspace given to all the other
+projects I was working on that I would I
+mean you know at different times we
+recorded for 250 episodes together at
+different times you I would show up and
+it's like Mike there's no outline here
+and you're like I know I'm working on it
+like right now as we're gonna record our
+I would do the same thing and it's like
+so I also think there you know you do
+something like this for that long and
+there are gonna be ads and flows in your
+life you know that impacted positively
+or negatively I guess right yeah but I
+think that having somebody else there
+also helped us out because we could
+cover I mean because the the idea of
+having a co-founder in your business is
+hopefully you're both not you know down
+at the same time and you're both you
+know if one person is feeling great the
+other person is not like the other you
+know somebody can help pick up the slack
+and I don't feel like we ever got into a
+position where we're both just like I
+just don't want to record and it was it
+was nice to be able to have that where
+like it you know I mean I definitely
+remember times where you're like I'm
+gonna be really super busy for the next
+month or two
+and I just like pitched in to like help
+out and you know put together some
+outlines and stuff and it just made it
+work but I showing up is like 90% of the
+battle I think yeah yeah I think so
+there's a question from YouTube that has
+a quick answer so I'll throw it in here
+it says back in the day the Apple user
+groups were called the rest of us is
+that where you got it from and the
+answer is no no I didn't even know they
+were called that so that's that's kind
+of funny I'll probably have to google
+that later I don't I don't really know
+about that alright next question is from
+Forrest he says if you could give
+yourself some advice right when you
+started the podcast based on what you
+know now what would that advice be
+I'm curious if that's I guess he's you
+think he's implying kind of podcast
+related advice I'm not sure yeah answer
+it however you choose mic should be
+either one no I mean I think that the
+when we first started I and you can
+probably hear this if you listen to the
+first couple of episodes but we started
+out by basically writing out everything
+that we were going to say and we read
+from it we didn't we weren't talking we
+were reading and it came off as wrong
+Joffe yeah we were right both of us and
+that's that's so that's how we knew hada
+we didn't know how to talk like we do
+now you know did we talk from 10 bullet
+points for a full episode but you're
+right we wrote out like full-length blog
+posts and then kind of talk through them
+almost yep and that was it was
+challenging and that's not something I
+would do again or recommend to people
+but I think that it probably helped us
+get comfortable just doing recording but
+after a while we just you know kind of
+buckle down and did it I think the other
+side for start-up advice I would say
+that people pay attention to the things
+that you're doing probably a lot less
+than you think that they are so it's
+very easy to see a comment that is you
+know borderline negative and take it
+personally and then you see ten other
+things that are positive and you don't
+you don't give them as much weight and I
+know this is a purely a psychological
+thing but everybody has it to some
+extent
+I never already sees it even in like
+customer support like it takes you know
+the I think the common threshold that's
+thrown out is like you know seven good
+interactions roots in order to overcome
+one bad interaction it's the same type
+of thing but if you sit there and get
+into your head too much and think about
+oh I got this
+you know this bad comment from Twitter
+or Facebook or you know in the show
+notes or something like that it doesn't
+mean that other people aren't you know
+thinking positive things or that you
+should overly think that I mean
+obviously if you're screwing up and
+doing you know destroying people's data
+and their businesses lives that's a
+totally different problem but I think
+generally speaking most of us are trying
+to do the right thing for ourselves and
+for our customers and Families
+everything else and just bearing in mind
+that people don't think about you nearly
+as much as you think about you is is
+helpful from a mental sanity standpoint
+yeah I would agree with that I think
+that the advice I might want to give
+myself is especially if if I knew you
+know hey you're gonna do this for many
+years is to experiment a bit more I
+think you and I as engineers we we write
+an intro we pick a couple show formats
+and we execute every week which is great
+but we really didn't you know aside from
+we had basically the teaching episodes
+we would do we had QA and we had
+interviews for the most part and then
+obviously we'd have goals and
+predictions now and again and we'd have
+like micro Kampf recaps I mean there
+were other formats but I think that what
+if anything I've I've felt over the past
+year since I've started really
+experimenting with a lot of new show
+formats is a it is it's more work but it
+is more fun you know like I'm enjoying
+it more because it's novel and the
+response from the audience has been that
+this is an improvement
+just to hear variety experimentations
+even the ones that don't necessarily
+work I get that feedback and stop doing
+them but but taking those risks and
+investing the time was something that I
+think was always hard to justify yeah
+now I know for I'll speak for myself
+like when I was writing a book
+launching micro Kampf with you work you
+know buying hit tale revamping it
+starting drip building that exiting like
+there was always something more
+important I think quote-unquote more
+important than you know focusing on
+essentially a free podcast that that
+wasn't directly you know whatever
+earning us money and I I think that is
+in my head was always the thing of like
+well I can't spend more time on it I
+can't spend more headspace I have to
+focus more on these other things you
+know that the software companies that
+I'm running but that would be something
+that I would I think prefer to you know
+have experimented with over the years
+yeah I mean I I would say that I think
+that in general although it's hard to
+justify making changes is something
+that's you think is working well
+it's it's hard to say like well let's
+completely change how we're doing things
+because if you break everything then the
+fear or concern is the you know you
+basically have to start over like you're
+taking five steps back or 20 steps back
+as opposed to making any product any
+forward progress and we were making
+forward progress we were gaining
+subscribers and you know it's it's nice
+to see that but it's a question of you
+know are we reaching a you know local
+maximum or is there a global maximum
+that's you know 15 steps in the other
+direction that we could go for and we
+don't know because we're nowhere close
+to it and we need to take these chances
+and to experiment a little bit more I
+mean we did that with Micro Kampf to
+some extent but with micro con fleurs
+not as much of an iteration it's like
+one you know one or two per year you
+can't make that many changes because
+it's a huge risk whereas with a podcast
+every week you're right we absolutely
+could have done a lot more
+experimentation and in retrospect maybe
+we should have yeah
+hard to say another question from Dovie
+willing Leyland Eiling he says why don't
+you put all the episodes in the RSS feed
+it's a pain listening of all the history
+Oh Mike this one this I wish all the
+episodes I because I like to go back and
+now and again and listen you want to
+take this one oh yeah so there's a limit
+for certain our RSS readers that you've
+hit a certain character limit and it
+bombs it will just die and it will stop
+we like publishing any updates of any
+kinds to the RSS feed so what was it we
+used to use feed burner for a while and
+that definitely had that problem
+especially since we included transcripts
+and you know in the show notes so
+because that that tended to push the
+number of characters up really high and
+it would just choke on it it just
+couldn't handle it and it's weird case
+somewhere somewhere around when we hit
+maybe I don't even know 200 episodes 250
+episodes suddenly we started getting all
+these reports I can't
+I know new episodes no new episodes of
+publishing we're like yes they are I can
+hear them but it was only in like
+certain clients it's just one of those
+edge cases there aren't that many
+podcasts you know with that many
+episodes so we've tried and we've
+actually tried workarounds I one point
+tried to hand May
+a like wrote some code to like spit out
+a manual or RSS feed which I still may
+do I feel like that should work because
+again I we can only do the trailing
+maybe it's 200 I don't know and I would
+love to be able to go further back
+because it's a pain I mean obviously you
+can download the raw mp3's but then it's
+like you can't 1.5 exome and you know
+you kind of lose the archive I wonder
+for the much older ones you could strip
+out the transcripts and just just have
+like the links to them I don't know yeah
+shorten it yeah I have an alternative
+feet or something anyways yeah so that's
+it it's just not any it is something
+we've worked on and it's not an easy
+solution if I could just change a number
+to you know to five hundred or thousand
+and have it all go we would have done
+that a long time ago good question there
+so uh Anna must a says after 500
+episodes is there any one or two that
+stand out as your favorites it's funny I
+haven't thought about this I I haven't
+either but there's two that would come
+to mind one is the the April Fool's Day
+episode where we switched where we sold
+the podcast - you know Danny and over at
+the tropical mba and even four or five
+years later i still got people
+commenting to me on occasion when they
+ran into me about like oh you got me and
+i hated you for that because they'd be
+yeah listen to the episode and they had
+a no idea that they just assumed that it
+was a real episode and we reached out to
+them and asked them if they wanted to
+switch podcasts for a week and they
+would do ours and we would do theirs and
+they acted as if they bought it and some
+of the listeners were a little upset and
+then they realized it was april 1st and
+it was just a joke
+the other one I would say is the the
+wives episode where our wives came out
+and stole the show so to speak believe
+that was episode 200 at every hundred
+mark like I think 100 we got a bunch of
+Collins from like I don't know it was
+once you started found I was like heat
+and Shaw Andrew Warner just Jason Cohen
+maybe I don't know a bunch of people
+sent stuff in and we we aired that and
+then 200 I think was the wives episode
+where we
+our wives come on and talk smack about
+us that was fun and then I remember what
+we did for the other hundreds but yeah
+those were fun I think I like I also
+like the April Fool's episode and I
+think we should do another one of those
+I don't think we ever did another one
+because we cuz we took some heat for and
+was gonna like okay but there was a you
+know the episodes where I mean this is
+weird but it's like it's the emotion of
+it right it's like when you decided to
+shut out a truck down when you know like
+selling drip that episode I think it was
+it a double episode or it was really
+long or something but like we covering
+that cuz that was super emotional for me
+I was very raw and I go back and let's
+do it now and I'm like oh man yeah that
+was a tough time for me
+I even think like they're more recently
+like for 48 where you know you and I
+really dug into bluetick and we're just
+saying like you know this is a turning
+point and you I don't know you you kind
+of took a bunch of steps right after
+that and got stuff you know more figured
+out and start blue blue - kinda took a
+turn up into the right after that so I
+think those are the ones that while
+they're hot they're hard to record
+sometimes hard to listen to I think that
+makes some of the best they tell some of
+the best stories you know and evoke a
+lot of emotion that I think resident it
+certainly resonates with me listening
+back and I think it resonates with other
+folks too yeah yeah I would definitely
+say that was one more difficult episode
+to record yeah I remember we had pre
+brief and debrief you know when you're
+gonna do something like that can't just
+do a cold episode 230 Zander producers
+and I just posted it into to slack it
+wasn't 200 I don't know why I remembered
+it being that episode 230 Allie and
+sherry take over and I think we're
+almost at time but we have one more
+question
+what do you see for the next 500
+episodes okay more practically how about
+the next hundred episodes so I'll answer
+that first and then Mike I'll kind of
+frame I'll frame the question for you I
+think like over that it's been about a
+year since you know Mike had stepped
+back to you know really focus on blue
+tick and I've been doing a ton of
+experimentation kind of because I had to
+because our old formats really wouldn't
+fit with one with one
+host and that's what I hope to continue
+doing is to continue refining and trying
+experimenting with new formats and I've
+already like I think I have a bulleted
+list of like nine different show types
+and I'm kind of rotating through them
+and figuring out if I can improve them
+just one or two of them has already
+already off the list based on feedback
+and just the experience of creating them
+and I just don't think they're I don't
+think they held up very well and I think
+they're that great but that's been
+that's been fun and I've been listening
+to I've been getting a lot of feedback
+over the past couple of months positive
+and some constructive as well and and
+really taking that into you know really
+taking that to heart and and using it to
+prove I think that I'm in a constant
+iteration loop of improvement right now
+that like we just said the podcast was
+not in for many years it was more like
+show up do it you know clock in clock
+out and it was still it was I still
+liked those episodes but there were some
+lulls along the way and I'm trying not
+to have those you know those lulls but
+who knows it's always life you know can
+potentially get in the way of that
+actually so it's going to reform that
+question for you but we have another
+question and I think it's even better
+it's from Pablo this our last question
+of the day he says Robin Mike what do
+you enjoy doing together that is not
+entrepreneurship lated what do we enjoy
+doing together like yeah oh we live you
+know whatever a thousand miles apart and
+we only see each other at micro comps
+and we really only talked to each other
+we text sometime we really really talk
+to each other when we record a podcast
+so it's that you know we don't hang out
+that much but we both are into tabletop
+gaming Dungeons and Dragons like whiskey
+alright both into whiskey drinking but I
+did we actually have more similarity
+have quite a few similarities even like
+back in the day like coding and that
+type of stuff I don't do it as much
+anymore but like we were both dying that
+developers and we would we would yuk it
+up over the you know the crazy Yahoo's
+building C sharp net whoo it was great
+great topics it makes great radio that's
+why we cut all those bits out but yeah
+anything else
+um really I mean like a lot of yeah is
+like I mean like you said like we don't
+live each live anywhere near each other
+and we only talk about once a week or so
+and I think that's something that most
+people don't actually necessarily
+recognize or realize when they're
+listening to the podcast is that we're
+you know I'm talking to each other from
+you know that far away though I think so
+several people I've talked to have said
+they made the assumption that we lived
+near each other so we saw each other all
+the time and that's just not the case
+yeah it used to be once a year at my
+kerkhof now it's you know whatever it'll
+be two or more times a year but yeah it
+it is crazy it's like we're we're
+friends but we're both introverted we're
+both introverts and so we don't actually
+reach out to one another that much
+although over the last year I've been
+more intentional about texting you and
+being like hey man what's up you know
+BlueTEC so because we don't talk because
+we don't talk as often you know Britain
+that change in the podcast so anyways
+sir we are over time thanks so much for
+taking 30 minutes today um the problem
+at Sun under add a single founder on
+Twitter to be back on tomorrow coming up
+next week on microphone on air next
+Wednesday same time same place
+April Dunford using storytelling to
+amplify your positioning so thanks for
+joining us we're out I think we're out
+[Music]

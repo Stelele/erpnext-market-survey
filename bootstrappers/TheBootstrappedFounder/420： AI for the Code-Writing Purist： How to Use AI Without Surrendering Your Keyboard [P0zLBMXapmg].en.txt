@@ -1,0 +1,632 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+[Music]
+I know you're out there, the developer
+who watches their colleagues very
+enthusiastically embrace clawed code and
+cursor codecs, whatever they're called,
+having AI write entire feature sets
+while you still proudly type every
+semicolon by hand. You're the founder
+who sees AI generated code as a ticking
+time bomb. bugs, security,
+vulnerabilities, all that kind of stuff.
+You're the software founder who believes
+that real code comes from human minds,
+not language models. This one is for
+you. A quick word from our sponsor,
+paddle.com. Before I get started, I use
+Paddle as my merchant of record for all
+my SAS businesses. They take care of all
+the taxes, currencies, tracking the
+client transactions, credit cards, all
+that stuff, so I can focus on building
+my product. They just recently released
+a new guide and I think you should check
+this one out. It's called Grow Beyond
+Black Friday and it contains very
+actionable strategies for payment
+conversion and billing tactics to
+maximize revenue and retention in the
+long term. It's all about using seasonal
+sales effectively. And if you have
+anything to sell, which most of us do,
+check out paddle.com as your payment
+provider. The link to the guide is in
+the show notes.
+[Music]
+Okay, here's the thing. Even if you're
+in the AI embracing camp right now,
+happily letting robots write your Redux
+boilerplate, your React code, whatever
+it might be, what I'm about to share
+will be equally valuable for you.
+Because today, I'm going to show you all
+the ways that you can leverage AI in
+your software projects without having it
+write a single line of production code.
+There is more than having AI write every
+single thing. The biggest breakthrough
+and likely what some of you already have
+tried but can be done in a very
+particular and intentional way is having
+AI systems as a coding companion. Not
+just somebody who's writing code, but an
+investigator, someone who can just be
+tasked with research and who reports
+back with insights that you can then
+tackle as projects in your own timeline.
+This is exactly how I actually got into
+using AI tools as coding helpers.
+Because back in late 23 and early 24
+when I was first building Podcan, AI
+systems just were not capable of
+producing reliable code. We had
+autocomplete and that kind of stuff and
+that got a little bit more magical than
+it used to be. But writing actual code,
+yeah, no, they couldn't. So what was I
+using these tools for? Well, I was
+tasking them with individual problems
+and challenges, asking them to give me
+insights that would then allow me to
+write my own code, the solution for my
+challenges myself from those insights.
+So, here's the kind of thing that I
+would ask this function and I would
+paste the code gives me the wrong result
+even though I implemented it correctly.
+You know, I thought at least it worked
+for a bit then I made a couple changes
+and now it doesn't. What could be the
+case? What am I not seeing? And this
+kind of very focused impromptu
+investigation is where AI tools really
+shine. They already did back in the day
+because they were really focused on just
+those couple dozens of lines of code.
+But now they're particularly good. And
+if you tell these tools either in a
+system prompt that you set up for all
+your requests or just in that one prompt
+that you use right now to not create any
+code but only to guide you through a
+solution, then they actually become the
+pair programming partner who never
+touches the keyboard. Like if you're
+actively forbid from writing code, then
+it's just a code reviewer who's giving
+you insights and opinions on the code
+you're writing without saying what it
+should be. It's really, really useful.
+So AI is incredibly capable of building
+this theory of your program internally
+just from reading the codebase. It's not
+executing the code when it reads the
+codebase. It just seems to parse and
+trace through it to understand where
+bugs might come from, for example. So
+here's how I also use it. I tell it,
+hey, I'm experiencing a bug when this
+happens. This is the error message. I
+think it's in this module, and I try to
+trace it down, but I can't really figure
+it out. I think this class might be
+involved. Can you investigate how when I
+call this function with this kind of
+data, erroneous output like this could
+potentially emerge? Obviously, this is
+not the exact prompt, but that's kind of
+how I phrase it, right? I say, here's a
+bug. Here's the data that goes in.
+Here's the data that comes out. Here's
+the code that I think is responsible.
+Not sure what it is. Examine this and
+all the other things that are related to
+it. You have to understand that LLM
+suffer from what could be called
+psychopantic exuberance, right? They
+want to tell you that everything is
+great and they feel really sure of this.
+So if you just ask it to find bugs, but
+you don't give it any particular thing,
+it'll just say, "No, your code is
+perfect. No bugs in there." That
+actually happens. You need to actively
+tell it to maintain a very nuanced,
+professional and detached perspective
+when investigating your codebase. Again,
+system prompt is very very important.
+You have to tell it to be a
+professional, to be maybe a little bit
+antagonistic even and not be sick at
+all. Always something that I try to put
+into my system prompts. I think I should
+probably share some at some point, but
+right now this has to go into everything
+you say. Some bugs of certain
+complexity, they won't be reproducible
+by an LLM. You'll need to give it
+precise input data, precise output data,
+and every step along the way for it to
+understand. Traditional static code
+analysis tools might be better for some
+cases where if you have a highly typed
+language and a compiled language, you
+can really have those kind of tools
+deeply investigate the a effectively
+like what the logic is, the internal
+representation of the logic of your
+code. I have the strong feeling that
+people right now are working on MCP
+systems that AI bug hunting agents where
+an AI is tasked with hunting bugs will
+soon be able to use in their own
+analysis that they can just do a little
+bit of a static analysis of a particular
+class and another class maybe even run
+an experiment run the code themselves it
+occasionally does my cloud code does
+this with PHP a lot right I use a
+Laravel project I run a pod scan as a
+Laravel project and when I build locally
+on my machine and I wanted to test
+something. I wanted to experiment with
+something. Often I see it using PHP
+artisan tinker which is kind of the
+ripple like shell where you can just do
+whatever right and it just uses code
+actual PHP code to run it inside of my
+project to see what happens. It's pretty
+cool. So that's not necessarily an MCP,
+but it is a way a kind of a function
+call, a tool call for the agent to try
+things in the codebase. And I think
+static analysis tools and test coverage
+tools, all of these things should be
+available and you should focus on making
+these things available to your AI agents
+so they can do more than just write
+code, right? They can actually
+investigate it. They can look into it.
+So think of it as your always on always
+available bug hunting colleague that can
+look at code and investigate it in ways
+that you might not because you are not a
+static analysis tool and because you do
+not have the full vast scope of all code
+written in this particular programming
+language that this AI system has been
+trained on. The system brings a
+completely different perspective and
+sometimes a fresh set of eyes that is
+exactly what's needed to find your bug.
+Obviously, talking to other people also
+helps. And most of the time, this kind
+of was it like explaining it to your
+rubber ducky where you just speak out
+loud how things work and you find the
+bug yourself. That works too. But an AI
+is an additional tool to this. And
+there's another thing where it gets
+really interesting, and this is when it
+comes to trans language or multilanguage
+code optimization. How often have you
+had like an OM query or some SQL
+embedded in your JavaScript or PHP
+that's running slow? It's not getting
+the right data or it could just be
+faster, better optimized or you know
+like just play better with your
+database. An AI agent is quite capable
+of taking an existing query both the
+actual SQL or the way that is kind of
+composed in your programming language in
+your framework and investigate how it
+could be better when it comes to SQL
+queries. And this is something that I
+constantly do with AI help. You can do
+the following steps. Highly recommended
+to optimize every single query in your
+app. Run the query like take the SQL
+query, run the query, note the execution
+time. Run an explain analyze version of
+that same query. Take that output along
+either with the full database schema or
+at least the table schema that you're
+working with. copy and paste all of this
+that the existing indices that those
+fields too and then feed that into the
+AI and let the AI look for ways to
+optimize particularly if you provide a
+full explain analyze output for a
+specific query in nine out of 10 cases
+maybe 99 out of 100 cases in my own
+experience I get an immediate
+optimization and speed improvement
+suggestion and here's the beautiful part
+that doesn't mean that my AI is writing
+my code for me Right? It just suggests
+maybe a new index to add or point out
+that my indices are in the wrong order.
+Right? The variables in there are just
+ordered wrong for the lookup. It happens
+to me all the time. I create an index
+thinking that's exactly what I need.
+Then a few queries later, turns out it
+shouldn't have been an index on the ID,
+the foreign key, and created at. It
+should have been ID created at and then
+the foreign key because that's the order
+most queries access that data and sort
+through that data. I would forget and I
+would probably not even think about
+this. But an agentic system can figure
+this out because it has access to all
+that data and it's highly scoped to this
+one particular problem. This focus on
+finding particular problems
+turns AI systems into something maybe
+even more important at this current
+stage of you know everybody vip coding
+extremely insecure applications. One of
+the latest features that I've been
+experimenting with with cloud code in
+particular is the security review. I
+just ask it to look at recent changes
+and check them for security
+implications. They even have a a
+specific command inside cloud
+code/security
+review or something, but it exists
+inside of it because it's such a
+specific thing that they wanted to like
+build this right in the tool. It looks
+at recent changes. It checks them for
+security implications. It's another
+incredibly useful behind-the-scenes use
+case that can eclipse traditional tests
+in terms of impact on code quality
+because it's again so focused and it's
+coming in with this outside perspective.
+Imagine creating a very specific
+security related prompt where you
+express all your preferences for
+application security, all the commonly
+used best practices that you want to
+establish in your own codebase. And then
+you have that as part of your system
+prompt. And then you have Claude check
+the codebase and all recent commits for
+adherence to your security preferences,
+for semantic correctness, and for
+potential vulnerabilities.
+And suddenly, if you built this into
+your project and every single one of
+your projects, you have a very capable,
+not perfect, but highly capable security
+reviewing tool that you can run every
+time you commit something or before you
+commit probably like a pre-commit hook.
+Or when you merge commits back into your
+main branch, now you can check the
+integration security. Or when you're
+experimenting with new technology, you
+want to see if it has implications in
+other parts of the codebase, you just
+run this command. Cloud is quite capable
+of understanding security requirements
+that exist in our community more than
+you might know because it was trained on
+all security related software, not just
+the vulnerabilities that you have
+personally noticed or that you worry
+about that you're aware of. I think it's
+a great tool to run before a major
+release to ensure you're not
+facilitating a massive back door into
+your system. These get caught quite
+reliably by Agentic AI systems. In fact,
+yesterday I added something to my my
+landing page, my front page of Podcan.
+It is a search button and like a search
+input field. I just want to show very
+early in people's journey to the program
+that search is super reliable. Search is
+super interesting. Like Potscan has
+access to 40ome million episodes fully
+transcribed of data and if you want to
+find something you can. So I put that on
+my homepage. But I also wanted to make
+sure well for bots and potential
+malicious actors not to be able to
+overwhelm that homepage. So when I built
+it I was already pretty careful. So I
+built in a lot of caching. I built in a
+lot of tracking usage per IP, per
+session, all that kind of stuff and
+making sure that there's not too much
+stuff happening in parallel in the
+background. Just a lot of abuse
+prevention because I knew this is going
+to be public facing. So I built this
+kind of on a branch. I experimented with
+it and then I let it sit for a couple
+weeks because I was building other
+things and then I integrated it
+yesterday. So I ran another security
+check and said check all the security
+related things, check performance
+things, check potential abuse scenarios
+and it found one. I'd forgotten to unset
+my test value for my cache because as
+the cash is quite limiting, I only want
+like people to be able to search for
+10ish 20-ish times before they have to
+sign up and I want to track that for a
+couple hours, right? So they don't abuse
+the system. that cache would very
+quickly hinder me from actually testing
+the system. So I set that cache to zero.
+It would effectively be infinite number
+of searches possible for me to test.
+That was the idea. And I had forgotten
+that I had set my cache to zero. So had
+I deployed this, I would have had an
+uncashed version of this and something
+that wouldn't even track how many times
+somebody would use the product. A single
+barrage of my landing page with these
+requests would have been able to quite
+saturate the system because I'd
+forgotten to change that back. And
+Claude Code caught this. It even put
+some, you know, alert emojis in the chat
+said, "Hey, this is really dangerous.
+You really should set this to a
+reasonable number." So, I did and then I
+deployed it. It is so valuable to do
+this and it's so easy. It's so quick.
+It's automatable, right? It's a
+pre-commit hook that you can just run.
+Highly, highly recommended. And security
+vulnerabilities, non-withstanding,
+Agentic code systems are really good at
+reviewing code. Not just for security
+reasons, for anything. This is
+particularly valuable if you're the only
+one in your company. If you're a
+soloreneur, you're building a solo
+business, there's literally no reason
+why you wouldn't want to have a capable
+Agentic system review your code. It can
+tell you when something doesn't do what
+it appears to do or what you want it to
+do. When something is unexpected,
+misconfigured, or when you're using the
+wrong version of a library. These are
+the kinds of things that a second pair
+of eyes would catch. But as a solo
+founder, you usually have two at max
+eyes. You don't have a luxury like
+having other people look into it until
+now. Because if you have a chat GPT
+subscription or like a codec
+subscription or cloud subscription for
+like 20 bucks a month, run it before you
+merge a commit. Run it before you deploy
+it. Run it when you're done with a new
+feature implementation. Create a prompt
+or look online for code reviewing
+prompts. There's so many right now.
+There are cloud code prompt libraries
+that can help you scan a codebase for
+accessibility issues, circular
+dependencies, what is it? Memory leaks,
+test coverage, validation, all that
+stuff. There are prompts for finding
+where tests are missing or where
+disambiguation and documentation would
+be useful. There's a lot that AI can do
+for you. It's this process of telling
+you where the gaps are because it has
+full access to your whole codebase and
+expectations from inside and beyond. So
+by a mere command, you can have an
+expert review your code for effectively
+free. It would be quite a waste not to
+do this. And when you're building a
+software business as a solarreneur or
+small team, there's always a chance that
+you might want to eventually sell the
+business. And an acquisition ready
+well-maintained and well doumented, well
+tested codebase is valuable. It's worth
+actual money. People look for this. Now,
+I talked about this a couple weeks ago.
+If you have AI built your codebase, you
+don't have the theory of the codebase
+anymore. So, you better have good
+documentation. People will check for who
+has the theory, the understanding of the
+codebase. Is there technical debt? Is
+there comprehension debt? And if there
+is, you have to cover it with docs and
+with tests. So if you right now have
+anywhere less than 50% test coverage in
+your codebase, well it's not too good.
+If you have more than 50%, that's great.
+But what if you could bring it to 95?
+What if you could tell your acquirer to
+be this codebase is highly tested. Any
+breaking change will be immediately
+caught by our testing system. There's
+great documentation all over the place
+and if you use AI agents to build, it's
+quite reliably capable of building
+features for you that will not break the
+system. That's money on the table for an
+acquirer because they know the value of
+that codebase and the process that comes
+with it. So you can ask an AI system,
+what kinds of tests should I implement
+that would have the highest potential
+coverage or what kind of documentation
+would I need to write to make this
+business more sellable? These are actual
+prompts you can use to get pretty good
+answers without the system writing any
+line of code. It will likely write
+testing code. So technically or
+documentation comments which you could
+say is code but it doesn't touch the
+production code. It just builds
+something beside. I have this in my own
+codebase. So I have started couple
+months ago to manually write code in a
+way that every file, every module, every
+service, everything in my Laravel
+application has a massive documentation
+block at the top that talks all about
+the purpose of this file, the hot path
+that comes in, the data that is
+expected, the performance requirements
+of this module, which are the important
+functions which should never be changed,
+which are meant to do a certain thing.
+And I started documenting this really
+well in I don't know like 10ish or so of
+these services. And then I t the AI
+system to look at these files that were
+already commented like this, get
+inspired and document every other file
+and spend like 25 minutes doing this.
+And then I went through all of these as
+I guess a code reviewer for the AI tool.
+read through the documents and fixed
+what needed to be fixed, which was
+probably like 5% of those lines that
+were created. 95 were right, 95% of that
+was great. And then I committed this and
+ever since the reliability of my agentic
+coding tools has gone through the roof
+because every single file they touch
+they have both syntactic like what is
+this named, what should things be named,
+how are things being used, how are they
+connected and semantic information.
+Things are like what is the meaning of
+this file? What is the main purpose?
+Like what should this do? What should it
+not do? This is so useful because the
+agent is just well aware of what should
+be done, what should not be done in any
+file. It's really, really useful. No
+line of code, right? Just docs. Super
+useful for AI and obviously equally
+useful for any new developer who would
+want to read up on what this means. I
+highly recommend using some kind of
+standalone AI coding agent like cloud
+code. That's the one I use. You can
+express all your preferences in some
+config file. It's the clot.md file that
+can have a system prompt that gets
+loaded whenever cloud starts. And for
+every prompt, you can specify, I don't
+want you to actually write my production
+code. I only want you to help me figure
+things out, analyze them, optimize them,
+give me suggestions in the shape of a
+markdown files in a fix me folder, or
+write tests for me at best. And that's
+it. It won't write any code, but it will
+be really helpful. And it's also useful
+to have this cloud MD file where you
+populate where claude scans your whole
+codebase, figures out your internal
+structure, and documents it. I think
+that's the claude in it command or
+something. It automatically does this.
+Review that file, rewrite parts if
+they're wrong, and add things that are
+important to you. And this helps claude
+understand the internal logic of your
+codebase every time it runs, so it
+doesn't have to fully rescan it. Let me
+be clear. Let me be very clear. Cloud
+code can be run completely without
+having it inject any line of code into
+your system. But having it there able to
+understand your system is super
+valuable. Now what I'm trying to tell
+you is to prompt for these things and
+then maybe just maybe let the thing also
+write some code might as well. But
+that's a step that only works if you
+have trust in the AI system and the
+underlying documentation in your
+prompting skills and your ability to
+review what changes might happen that
+these code generating tools have made.
+But you don't need a single line of code
+to be written by AI for it to be useful
+for your codebase. And I hope that my
+examples today give you some kind of
+idea of how you can use it in your own
+handcrafted codebase. for everybody else
+who's already embracing AI code
+generation. I think it gives you ideas
+for how you could add something beyond
+AI building just features because your
+codebase is effectively yours. You own
+it. You command it. You own every line,
+every semicolon, every clever hack. But
+that doesn't mean that you can't have
+the world's most knowledgeable coding
+companion sitting right there with you,
+right? It's always ready to investigate,
+to optimize, even to secure and review
+everything that you built. And I don't
+think that's surrendering control. I
+think it's just augmenting your own
+capabilities while maintaining your
+craft as somebody who writes really good
+code. So don't let pride keep you from
+using these tools because they can make
+your code better and they make your
+business more valuable, more sellable,
+and your life as a developer easier. AI
+really isn't replacing your coding. It's
+not here for that. It's here to make you
+a better coder by taking things off your
+plate and by giving you an alternative
+perspective. And that's something that
+even the most ardent code purists can
+get behind at this point. Thanks so much
+for listening to the boots of foundoner.
+That's it for today. You can find me on
+Twitter at avid arv khl. And if you're
+interested in the coverage of over 4
+million podcasts and being able to track
+critical conversations of your brand,
+podscan.fm monitors all these shows, has
+a really really powerful API that helps
+turn this unstructured chatter into
+competitive intelligence, opportunities
+to reach out and getting insights on
+your customers. If you're a founder
+searching for your next venture, you can
+discover really interesting problems
+right from the market at
+ideas.podscan.fm
+because we identify these startup ideas
+and opportunities from hundreds of hours
+of expert discussions on podcasts every
+day so you can build what people already
+are asking for and talking about. Share
+this with anyone who needs to turn these
+conversations into competitive
+advantages. Thanks so much for
+listening. Have a wonderful day and
+bye-bye.

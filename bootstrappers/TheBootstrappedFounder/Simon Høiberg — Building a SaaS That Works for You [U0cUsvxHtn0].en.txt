@@ -1,0 +1,1915 @@
+﻿Arvid Kahl: Welcome to The
+Bootstrapped Founder! Today, I'm
+talking to Simon Hoiberg. He
+shares his strategy for running
+two businesses and a YouTube
+channel without burning out.
+We'll talk about business
+validation, building reusable
+processes to stay sane and
+creating sustainable businesses
+while maximizing your founder
+productivity. Here's Simon.
+You're building two businesses
+and you're operating a huge
+YouTube channel at the same
+time. I think you're a writer,
+you're a teacher, you're always
+part of the conversation on
+social media, at least in my
+sphere. I see you that all the
+time. For most people doing any
+one of these things would be
+enough. And you've been doing
+this for what, five years now?
+How do you do all of this
+without burning out? How does
+that work?
+Simon HÃ¸iberg: That's a great
+question. I get this a lot. I
+think it's something that mainly
+builds up over time since I
+started. It's actually not more
+than two years ago. I started
+this whole thing on social
+media. I quickly got into an
+awareness about making my
+efforts. Can you say compound
+and I've been doing that by
+focusing on sort of using
+building blocks, that's the kind
+of like the way I'm thinking
+about it. So every time I build
+something, every time I put
+something out there, there needs
+to be something more to it than
+just the result that that thing
+can give me right there and
+right now. I always try to do
+this with anything. So in the
+beginning, my first two, three
+YouTube videos as an example, it
+took forever to build. Then I
+started getting into the habit
+of every time I finished a
+YouTube video, so strip that
+video apart and see is there
+anything in this video I can
+turn into a reusable building
+block that I can use to make the
+next video even faster? Or is
+there anything in this video I
+can turn into a process in a
+checklist I can make that will
+make the whole thing go faster?
+Once you start doing this over
+time, it's as if these building
+blocks and this whole ecosystem,
+it's sort of compounds and it
+makes you way more productive,
+then when people see me doing A
+then B then C then D. They think
+about themselves and how much
+time it will take them to do A,
+B and C and D. And it also did
+for me in the beginning. But I
+also didn't start out with A, B
+and C and D all at the same
+time. I built on top of what I
+already had. And slowly let that
+evolve. And now it's I always
+think of it as like when I'm
+working on one thing I'm working
+on it all. And that way, if
+we're putting one thing also
+reflects on another and enables
+me to do a whole lot of things
+that appears as if it's a lot
+that's getting like the output
+is really big.
+Arvid Kahl: That sounds like you
+have a process for building
+processes, you know. Like you
+approach every activity as if it
+were a process in the making. Is
+that something you just came up
+with? Or did you find
+inspiration somewhere else for
+this?
+Simon HÃ¸iberg: I think I have
+inspiration for this from the
+coding world. Being a software
+developer for many years, this
+is something that you were
+taught early on that contribute
+to open source. If you have
+something you built, turn it
+into an NPM packets or Gradle
+packets or anything that you can
+put online and let other people
+use that as well. And if not,
+use it for yourself. You have
+that piece of code. You spent
+time making that very elegantly
+and make your future self happy
+and make this easier for you.
+And even in the software world,
+I actually saw very few even
+senior developers with many
+years of experience, actually
+doing this, actually stopping up
+every time they built something
+taking that little bit of extra
+time to making it into a modular
+solution that they can use for
+their future self. And that's my
+inspiration came from there. I
+actually in the software world
+got really good at that. And it
+enabled me to produce software
+really, really fast. I've been
+working as a freelance
+consultant for many years. And
+this was obviously very
+beneficial when I had new
+clients. I would never take code
+from another project with
+another client that they'd been
+paying me for. But there are
+certain generic solutions and
+software that you can generalize
+and then use for something else.
+And it enabled me to produce
+results way faster for my
+clients. And it's the same kind
+of thinking that I took and put
+into my entrepreneur life. And
+it's funny because when it comes
+to content, especially YouTube
+and content in social media,
+there's such a level of
+creativity going into that so
+that I think a lot of people
+they don't really think about
+how operational it actually can
+be behind the scenes and how
+much you can actually streamline
+and make processes out of all of
+this. And that's basically where
+my inspiration came from.
+Arvid Kahl: Interesting!
+Interesting to see the coding
+mindset translate into something
+that is immediately useful for
+an entrepreneur or a creator. I
+very much agree. I think I have
+the same mindset. And that makes
+me approach my content creation
+that the podcast and my very,
+very, not yet mature YouTube
+channel, you know, like makes
+this more of an extra structured
+approach instead of just hoping
+for inspiration to strike,
+right? If you approach this as a
+process based thing, then you
+try to figure out what steps can
+I actually take reliably and
+meaningfully every time? And
+then that turns into a process.
+You know what you just said? I
+find that interesting because if
+you say many senior developers
+don't have that mindset, I
+think, if I remember my work
+experience for enterprise
+businesses as a salaried
+engineer, somebody who's paid to
+be there, they didn't track for
+things that are reusable, right?
+Like they didn't measure my work
+in terms of can this be used
+again? They measured it, is this
+useful now? Am I like fulfilling
+the scope? Great. And if not,
+then I did too much work on
+this. It's not immediately
+apparent in many ways that this
+could be useful at a later
+point. I think freelancers they
+have that. They have the
+opportunity to reuse these
+components where salaried
+engineers may not even
+understand that this is
+something that they might be
+reusing at a later point. Some
+might, obviously, it depends on
+the position, right? What's your
+opinion on that?
+Simon HÃ¸iberg: I totally agree.
+Now, I don't have a whole lot of
+experience as an employed in the
+software world. I've been a
+freelancer most of my career as
+a software developer, but I
+totally agree. And it also makes
+perfect sense that if you're a
+company, and if you are
+imploring, if your managers
+aren't really rewarding you for
+that effort of because it does
+take a little bit of extra
+effort like pushing something
+now that's useful now is one
+thing. But it does take a little
+bit of extra effort to actually
+polish that up and wrap it up in
+something that can be used
+later. And if you're not
+rewarded for that, I totally get
+that it's not something that the
+worst incentive. It's not
+something as a senior developer
+that you would do. As a
+freelancer, it's not like your
+client is paying you for that
+either. But it just pays off in
+the fact that you will be
+dealing with multiple clients at
+a time or from month to month or
+three month period to three
+month period. Yes, so I agree. I
+never thought about it,
+actually. But I think it makes
+perfect sense.
+Arvid Kahl: I think for
+entrepreneurs that come from a
+software background, this
+becomes very apparent that it's
+very useful to build reusable
+things like this. And
+particularly, and you're a
+serial entrepreneur too, right?
+You build one thing and then you
+build another thing. Let's say,
+maybe talk about your software
+as a service businesses because
+I find that super interesting,
+not only the kinds of businesses
+you build because they are very
+close to what I like to use
+being a Twitter creator and
+somebody who's writing uses
+links and stuff. So both
+FeedHive and LinkDrip are things
+that I find very interesting
+just as products. How did they
+come to be? Because I have this
+distinct feeling that LinkDrip
+is a consequence of something
+that you need it along the way.
+Is that right? Like how did
+these two businesses come into
+being?
+Simon HÃ¸iberg: Yes and no. And
+it's one of those, to start off
+with, back when I started
+building FeedHive, that's a
+little bit more than two years
+ago now. And this was actually
+the same with LinkDrip. I had,
+just prior to building FeedHive,
+I tried to build another tool.
+It was called Sigmetic. And it
+was a tool you could use to
+integrate with your GitHub
+account and let software
+engineers on teams track the
+performance among their team
+members. Horrible idea. I come
+from a background in sales. And
+I thought that this idea of
+having these like big monitors
+on the wall and sales
+performance and everyone wanted
+to kind of have this like
+fireworks going every time
+someone made a sale. I thought I
+could transfer that directly
+into the software world.
+Horrible idea! Software
+engineers don't work like that.
+It was me being polluted from
+having my thinking, kind of like
+very influenced from another
+industry that I had been in
+before. But the essence here was
+that back when I was doing
+Sigmetic, I was trying to
+innovate. That was my the core
+feeling I had. I'm gonna go into
+the SaaS market and I'm gonna
+really try to innovate
+something. And it went horribly,
+failed epically. My second
+attempt with FeedHive, it was
+very deliberate that I wanted to
+try to go in the complete
+opposite direction and then say,
+I'm gonna try to be going into a
+market that is as well
+established and pre validated as
+I possibly can. And there are a
+few things you can pick from
+here, email marketing, social
+media, marketing, project
+management tools and I realized
+that project management tools
+they've been here for a long
+time and yet, Monday pops up and
+then come new like click up pops
+up out of the blue. There's
+still room for having an
+alternative to some of the other
+established tools that are out
+there. And that was my approach
+with FeedHive. So it was
+actually very little about
+trying to come up with a new
+clever way to solve a pain point
+that users have, rather than to
+give users yet another
+alternative. And it's dangerous.
+It's a risky way to start. And
+it's a risky foundation of
+building a business. But my
+thinking back then was that if
+the market is truly huge enough,
+there will be a tiny portion of
+those many, many, many users out
+there that have this pain and
+need to have a solution for it,
+that will prefer it exactly your
+way with those tiny small
+differences that you were told
+to have. And that was really my
+approach with FeedHive. It was
+also the approach with LinkDrip.
+I saw some of my competitors in
+the social media management
+among social media management
+tools, also building link
+shorteners and making more
+sophisticated versions and build
+them into their tools. And
+rather than building another
+system that could give like
+build UTM parameters and add
+upload thumbnails and have
+custom audios and things like
+that. I thought I would try to
+engineer it a little bit more
+and see is there interest in
+having something that is going a
+little bit further down the
+street of Airtable and Zapier
+and these kind of like
+automation tools where you can
+start customizing the behavior a
+whole lot. And it seemed like
+there was a lot of interest in
+that. And that was the way I
+went, but nothing inherently
+neither innovative or a huge
+problem that I had to solve for
+myself. Back when I was starting
+to do social media, there was
+definitely some things that I
+wanted from a social media
+management tool that I thought
+the market was missing. But it
+wasn't quite frankly, that I
+couldn't have just picked Buffer
+or HootSuite or some of the many
+others and just went with that,
+by the end of the day.
+Arvid Kahl: Interesting. So how
+did you validate then that
+people needed it if it wasn't
+your specific need? But how did
+you look into the market and
+figure out if there was an
+audience of potential customer
+base for these products?
+Simon HÃ¸iberg: Yes. And it's a
+great, great question because
+this is crucial. When you're
+building something in a market
+that's this well established,
+it's not that you don't know
+that there's a market. It's how
+to actually fit in there and how
+to stand next to some tools
+that's been around for plus 10
+years. I did this on Twitter. I
+reached out to I had been
+building my audience for about
+six months at this time. And
+they were in some closed chat
+groups on Twitter. I reached out
+to a bunch of them and asked,
+why are you not scheduling your
+tweets today? And a bunch of
+them, they mentioned that there
+were this tool and then there
+were HootSuite and Buffer, they
+were bad to use. They didn't
+like them. They were old and
+they didn't seem very
+maintained. Then there were some
+specific tools at the time hype
+theory, which was like from a
+software perspective, really,
+really high standard. They have
+like excellent UI UX, but it
+wasn't quite what they were
+looking for. And there was some
+things that they wanted in a
+different way. I remember back
+then they mentioned they wanted
+a queue. Like many of these
+social media scheduling tools,
+they have like this list of
+queues, they wanted that in a
+calendar view instead. So I
+thought like, okay, there's like
+this tiny little thing that I
+can jump into the market. And
+now when users are going to look
+at these, like 15 social media
+management tools and pick, I'm
+going to be the one with the
+calendar queue rather than a
+list queue. And let's just let
+that be it. That's that tiny
+little preference things that's
+going to win some, like a tiny
+little portion of users over and
+I started building with these
+users that started mentioning
+this. We made a Twitter group
+chat group for just this. And in
+two months or so, I built in
+secret with these 30 so users
+and it was literally fully
+community driven. I was in there
+talking to them daily asking
+them questions daily, how should
+this be? How would you like
+this? And I was not trying to
+guess in any way. I was really
+trying to say, okay, these 30
+people, they're going to be
+representing a bigger group of
+users, yet a small customer
+segment in the bigger hole,
+that's gonna be my future fee
+type users. And that was my
+approach.
+Arvid Kahl: Yeah, that sounds
+like a very, very specific group
+of people that you like, zeroed
+in from the beginning. Also
+makes makes sense that you would
+do this kind of behind closed
+doors, like figuring out what
+these specific people need,
+instead of just pushing, you
+know, questions into your
+audience. Because I see a lot of
+building in public founders ask
+every single question about
+their product into a very
+diffuse audience and then get a
+lot of different answers back.
+So this sounds like a very
+reliable approach. How did you
+get into these groups into
+these, you know, private
+conversations? Because I guess
+that's what everybody wants to
+know. How do you get into these
+private Facebook groups or
+Twitter groups or these LinkedIn
+things? Like what was your
+approach for that?
+Simon HÃ¸iberg: Well, it
+actually, this actually started
+six months or so earlier when I
+started being active online. And
+at the time I started building
+FeedHive, I already had around
+30,000 something followers on
+Twitter. So this all started six
+months earlier from me being
+active online. And I think once
+you start appearing and showing
+up and once you start getting
+some traction on your profile,
+you're getting followers fast.
+People really resonate with your
+content. They engage with your
+content a whole lot. These small
+Twitter groups, they form
+naturally. I actually didn't
+start any of these myself until
+the FeedHive specific one. But I
+got invited into a bunch of
+these where I saw other
+influencers. I'm not sure how
+much I liked the word, but you
+know what I mean, like content
+creators with a certain amount
+of followers. They were already
+in these groups. And I was
+invited by these other people.
+They saw that let's get Simon in
+here. It seems like he's got
+like a good amount of traction.
+And he's saying some things that
+resonate with the rest of these
+people here. So it actually
+happened quite naturally. I wish
+I could say that I had to
+strategy and I did this and that
+and this and that. I actually
+didn't, it did happen quite
+naturally. So I think that what
+comes before that is really
+being active online and starting
+to build your audience.
+Arvid Kahl: I guess that that is
+the strategy, right? Like
+building this opportunity
+surface by just showing up and
+allowing people to invite you
+into these groups.
+Simon HÃ¸iberg: Absolutely
+Arvid Kahl: I think that's
+wonderful advice for anybody who
+wants to build a community
+driven or an audience driven
+product or service or whatever
+is to actually go into that
+community, surround yourself
+with those people and then give
+them the opportunity to make a
+connection with you, right? And
+then take it from there. That is
+really cool. One thing that I
+found interesting about, let's
+just talk about LinkDrip for a
+bit because I just love the idea
+of a link engagement tool. I
+have an account and I logged
+into it and it's a lot of
+opportunity. I love this no code
+approach that you're taking. I
+think that is a wonderful idea
+kind of marries the idea of just
+pure links, like the technical
+thing with the applicability of
+many, many marketing strategies
+and tools that come from the no
+code field that just plug and
+play. One thing that I saw in
+your process of building this in
+public and I generally love the
+idea that you're doing this,
+that you're not just building
+these things in secret. Now
+you're also building them in
+public and sharing the whole
+story and the journey. One thing
+that I saw is that you're doing
+early adopter lifetime access.
+That is something that you did
+with LinkDrip. Can you talk to
+me about this a bit? What
+considerations went into it? And
+if you set any limits or
+anything like that because
+lifetime access, that is a lot,
+right?
+Simon HÃ¸iberg: Yes, it is. And I
+think that the whole idea behind
+selling lifetime deals is it's a
+bit controversial. There's a lot
+of there are these sites like
+AppSumo and Dealify and these
+big marketplaces where you can
+go and sell lifetime deals. And
+to me, I think it is worth
+underlining that it is something
+you should do on a limited
+basis. I don't think that it's a
+way to build a long term
+sustainable business, especially
+if you have ongoing costs,
+ongoing support, cost, ongoing
+server costs and a lot of other
+things. But that's one thing. I
+actually think there's a bigger
+problem with lifetime deals
+right now. And that is that it
+has a certain reputation, that
+if you're selling lifetime
+deals, you're in some sort of
+financial trouble or you're just
+scraping by. And I think this is
+probably the most problematic
+part of it. Because quite
+frankly, when you look at the
+numbers, like if you spin up an
+Excel sheet and start grinding
+numbers, you will notice that
+servers and hosting, it became
+really, really affordable. You
+can engineer your server and
+your cloud solution to pay
+almost nothing. And when it
+comes to support, you can
+continue your solution in a way
+that is fully self served. You
+can do a lot of things to ensure
+that even though it sounds like
+lifetime, you're offering a
+lifetime deal lifetime users
+also churned. They also at some
+point wants something different.
+They leave your platform, they
+don't stick around for an extra
+lifetime. And it's in a lot of
+cases, I believe you can strip
+down the math of this and say
+like this is even if I was never
+selling a subscription, I was
+just going to go full on
+lifetime deal for the entirety
+of this whole business. I still
+think you would come up with a
+financial model where that was
+actually possible and doable.
+However, I actually think the
+biggest problem is the
+reputation that it has right
+now. Selling lifetime deals to
+me, first of all, my best advice
+would be make that Excel sheet
+first of all to make sure that
+your finances can actually
+support this if you have for
+some reason very high server
+cost. I've seen some lifetime
+deals do this with AI and with
+open AI access and pay. And
+that's a horrible idea because
+it can really become very
+expensive very fast. So that
+will be the first thing to kind
+of strip down the finances and
+see if you can support this. But
+I also really think that it's a
+really important part of it is
+communicating while you're
+running this lifetime deal. You
+need to somehow justify. With
+LinkDrip, I was very clear that
+this was an early access
+lifetime deal that we were
+selling and that this was a part
+of validating if there was any
+interest in the product that we
+were doing. And that we haven't
+built it yet at this point. We
+had like a quick POC to verify
+that the things that we were
+advertising on the web page
+could actually be technically
+done and carried out. I think
+that's the most important part
+of doing a lifetime deal today.
+I do think that it's a great
+option. It can really, really
+benefit you in a lot of ways.
+There's a lot of money you can
+get up front and is a great way
+to validate that there's extra
+interest. Nothing beats having
+people pick up their credit card
+and extra pay. But it does come
+with some considerations. I
+would never launch a lifetime
+deal without very, very
+carefully expressing and
+communicating that this is a
+limited time offer and that
+we're doing it for good reason.
+Otherwise, people start talking.
+That's my experience, at least.
+Arvid Kahl: Yeah. Mind you, like
+a lot of the deals that I find
+as soon as I see that there's no
+limit to this, it's like, why
+are they doing this, right?
+Because my mind as an engineer,
+I go to well, this will cost
+them something in the future. So
+do they expect me to not use the
+product after that? Or will they
+then try to convert me into
+something, you know, you have
+all these things? And I do
+wonder for you like a lifetime
+dea, that is such a hard thing
+to even define. What does
+lifetime mean to you? Because in
+my experience, lifetime can mean
+lifetime of the person using the
+product, lifetime of the
+business that is offering the
+product, lifetime of the version
+of the product in the business.
+It can mean anything, right? So
+what do you consider a lifetime
+deal to look like?
+Simon HÃ¸iberg: It's a great
+question. To me, I think it's
+simply boils down to them having
+access to the product as long as
+the product lives. I don't think
+that anyone out there hopefully
+believes that any product, any
+SaaS product on the market is
+somehow immune to fail, go
+bankrupt, go down. So I think
+most people are aligned with
+that idea that it's a lifetime
+deal that exists as long as the
+product exists and that there's
+not going to be, yeah, I don't
+even know how that would work.
+If you go bankrupt with your
+company, you're going to somehow
+make a version of that product
+still run somewhere. I think
+most people are aware that
+that's just not feasible or even
+technically possible.
+Arvid Kahl: Yeah, that is an
+interesting point, generally,
+for any SaaS business, doesn't
+even have to do with lifetime
+deals. Just like if there is an
+end of business somewhere, what
+do you do, right? And maybe
+that's something we should talk
+about because maybe with
+FeedHive, not so much that if
+that is over, if that ever were
+over for whatever reason, right?
+People would probably find an
+alternative to deal with their
+scheduling needs. But with
+LinkDrip, I find it it's very
+interesting because links are
+something that is hard to change
+in some capacity, right? If the
+moment they're printed in a
+book, you have a problem. You
+will need to make it happen. And
+you will need to be able to
+transition the data into another
+format if people need to. Is
+that something that you've
+actively put into your business
+model or your service offering
+for LinkDrip?
+Simon HÃ¸iberg: Absolutely,
+absolutely. And that's a part of
+the platform that people can
+take their links and export it
+in a format, either JSON or CSV.
+It's not something we have fully
+in place yet. But that's
+definitely something that's
+going to be available for all
+our users. It is as you say,
+it's such an essential deal a
+part of the offer that we have
+on LinkDrip besides to creating
+QR codes. And it is something
+that people do a lot than they
+print a ton of QR codes and hang
+them offline around the city and
+in different places just to
+figure out that the link is
+somehow broken. And now they
+might have printed 1000s of
+these and it's a big pain. With
+LinkDrip, you can change the
+destination of the link and it
+will in the second start
+redirecting to a new place. And
+you can even automate this to
+add AB testing capability. So it
+goes to two different places on
+a dice roll. Or you can program
+it to change after a certain
+thing has happened, certain
+amount of clicks or at a certain
+time. All of these things, I
+think, to make sure that printed
+links stay alive in any way, you
+need to offer something that is
+flexible, like the product
+itself, but you most certainly
+also need to give people the
+option to export the whole thing
+and take it to any other link
+shortening redirect service that
+can do the same.
+Simon HÃ¸iberg: Absolutely,
+absolutely. And I think that's a
+Arvid Kahl: You know what? I
+love that. I love the fact that
+crucial part. There are certain
+technical challenges to
+as founders as software founders
+now at least you and me too, I
+guess, and the things that I do,
+we actively allow our customers
+solutions like this. In certain
+cases, exporting data and moving
+to leave, which for many
+customers is something that then
+makes them decide to buy the
+product because they know
+there's a way out if I need to, right?
+it to other either competitor or
+into another service is one
+thing with LinkDrip, there are
+certain issues with the actual
+domain name of the link, it says
+are laid out to. We recommend if
+you print links in any type, you
+do it with a QR code because
+they can actually be transferred
+and moved. There are certain
+issues with offering to, as you
+say offering to the user to take
+their database with them might
+be a determining factor for some
+people actually signing up for
+the product. There is some sense
+of safety in knowing that the
+data that you produce in this
+tool belongs to you. I totally
+agree.
+Arvid Kahl: Yeah, I would assume
+that particularly if you try to
+reach out to bigger companies,
+to enterprise businesses that
+have some kind of static links
+that are printed off or put on a
+DVD, you know, those kinds of
+technologies, you need to have a
+guarantee that this will be
+usable if they change vendors.
+So that might just really be a
+service level agreement on that,
+like you provide as long as you
+can. And if you ever off board,
+there's a way out. I find these
+kinds of things, there are
+specifics. I mean, not every
+business will have to deal with
+it. But I think for people who
+are building businesses, this
+stuff is interesting to
+consider. Because it's a mindset
+on how you approach your
+customer, right? If you think
+your customer is somebody that
+you want to lock into your
+business, that's the way that
+some people do it, right? But if
+you give the customer the option
+to move away on their own
+volition, now all of a sudden,
+you have a very different
+relationship with them. And I
+think more and more as we build
+our businesses in public like
+you are doing and as you kind of
+align your business identity
+with your personal identity,
+trust is such an integral part
+of this whole thing, that you
+can't just lock people into your
+product anymore. That just
+doesn't work, right? The balance
+is off. I really liked that. I
+want to talk to you about
+building in public here because
+just kind of came to my mind.
+You're building, I guess, your
+software product in public. And
+you're creating YouTube videos
+around them. This is happening
+in a very competitive space,
+right? Both social media
+scheduling and link marketing. I
+guess they're both very
+competitive. How do you make
+sure you're not oversharing when
+you're building in public?
+Simon HÃ¸iberg: It's actually a
+great question. And I think this
+is a matter of being a little
+bit deliberate on a bunch of
+levels with what it is that you
+want to teach your audience. If
+you are the kind of building in
+public person that run one
+particular thing. And you're
+kind of like all in on one
+business, you might even own a
+brand that you're building in
+public from or doing your whole
+audience building from your
+actual brand, I would be a
+little bit more hesitant. I
+think one of the things that
+come from building a personal
+brand as I do myself and having
+a product offer of multiple
+things is that you don't
+necessarily need to worry too
+much about compromising one
+specific part of your business
+or one specific product that
+you're offering. I see
+everything that I do online a
+little bit as an ecosystem. I
+tried to go away from the kind
+of classical funnel thinking. I
+see a lot of a building in
+public people that still adopt
+this idea of I'm going to go
+online and post and everything
+is a matter of moving people one
+step down a very specific path
+that I want them to take. And
+that ends with them buying this
+one specific thing that I'm
+offering. And it's not that that
+can't work. I think the way that
+I'm doing it, I'm thinking about
+it a little bit more like an
+ecosystem. I try to invite
+people in. If people they
+discover me online, either on
+YouTube or on Twitter or
+everywhere, first of all,
+there's going to be hours of
+content that they can start
+consuming. They can go on
+YouTube and they can literally
+binge watch a bunch of things
+that I teach, the values that
+I'm trying to advocate for and a
+lot of other things that I have
+to say. But I actually rarely
+try to push people down a
+specific part or try to kind of
+think, lock people down in this
+kind of funnel sort of thinking.
+It's an ecosystem. It's a
+playground, it's sort of like a
+museum. They step into it and
+they can find various things in
+here. Like there's a bunch of it
+that's free. And then there's
+going to be some of the things
+that are paid. But they will
+stumble on my products in one
+way or another whether that be
+in FeedHive or LinkDrip or now
+we just acquired another small
+SaaS called Tiny QE. And I have
+info products that I sell as
+well. There's my YouTube
+channel, which is free for the
+consumer, but I still get paid
+for that behind the scenes. So
+there's a lot of ways that this
+can work. And this is also what
+I mean by when I work on one of
+these things, I actually work on
+this entire ecosystem. And I
+like this idea. That's why I'm
+not really that hesitant with
+sharing certain things about
+either FeedHive or LinkDrip that
+other more all in type of
+audience builders, they might be
+a little bit more hesitant with
+sharing something they find
+either business critical or that
+put them in a too vulnerable
+position. I don't really mind if
+something comes, puts FeedHive
+or whether that being revenue
+numbers with our amount of users
+put it in a disappointing light.
+Either those users aren't for me
+or they will find another
+product or something else in
+this ecosystem that I'm building
+that is more for them. And this
+is also why in a classical kind
+of marketing funnel, it's a big
+problem when people drops off
+and people will drop off. That's
+like the whole idea about a
+funnel. And people that drops
+off a funnel, they're typically
+wasted. You don't really do more
+of them. You just try to aim
+broad and then get as many
+people down to the very bottom
+of it as you possibly can. When
+people drop off in my funnel,
+there are other places they can
+go. They can stumble upon other
+products that's more for them.
+And I think about this in this
+way in everything that I do. I
+don't really worry that
+something I say will put any of
+my products in a bad light. I
+also don't try too hard to make
+everything about that particular
+thing. There will be other
+things. And yeah, I hope that
+sort of answered your questions,
+just a little bit about like
+maybe at a philosophical level
+how I roll with everything I do
+mainly.
+Arvid Kahl: I think the
+comparison between the funnel
+and what I can only kind of
+visualize as a web, right?
+That's the thing you're actually
+do. You have a web with all
+these different nodes and
+they're all interconnected. I
+think like, not only are we
+wearing almost the same color t
+shirt today, we also have the
+same approach to business
+because I feel I do the exact
+same. I have my books. I have my
+also, you know, tiny little
+YouTube channel. I have my
+podcast. I have my Twitter
+presence. I have software
+products as well and all of them
+are connected in a way where
+nothing is ever pushy. I never
+tried to push anybody anywhere.
+I want people to find my
+universe where I am in, right? I
+want them to find my solar
+system with all the different
+planets that surround me as the
+sun. And then I want them to
+trace back from wherever they
+found me to where I am right
+now. It's kind of I call this
+like leaving evidence of
+ambition and of just being
+present and allowing people to
+trace that back to where I am
+right now. And then they can
+find everything else. And I
+think you're doing a great job
+at the same thing. I found you
+in many different locations,
+right? I've seen you on YouTube,
+I've seen you on Twitter, I see
+your products and all of that
+creates this whole universe of
+Simon, Simon's universe. And I
+kind of love that. I think that
+that is an approach that as a
+maker, as a creator today is so
+much more involving and powering
+in the community that you're in
+than just trying to put people
+through the funnel. I love your
+explanation of people dropping
+off the funnel because if they
+drop off in the web, well, they
+just go on another strand of the
+web. They find you somewhere
+else, right? And they might be
+something even more useful
+there. That is a great analogy.
+I feel this. I love this. The
+words. That's cool!
+Simon HÃ¸iberg: I absolutely use
+that and I love thinking about
+Arvid Kahl: This is also why I
+consider the personal brand that
+this as a universe with planets
+and a sort of web because that's
+exactly what it is. And it also
+comes back to the fact that as I
+started talking about earlier
+that I always think about making
+things reusable, they should
+somehow be giving something else
+than the exact result that
+they're giving right now. But
+this is a way of making your
+customer segments sort of
+reusable. So you turn your
+people the audience into a form
+of building blocks as well that
+if they don't fit in, in
+specific place, they can be
+reused in something else. They
+don't just drop off the funnel
+and then they're never good for
+anything. And this is also why
+not only am I not afraid of
+being a little bit putting some
+vulnerable numbers of my
+businesses, but I also try to
+talk about some things and
+include my audience in something
+that might not actually have a
+benefit right now. It doesn't
+really fit any where in my
+ecosystem or in my universe as
+it is today. But I'm also
+thinking a little bit ahead. If
+my businesses go down tomorrow,
+there's going to be no LinkDrip
+or FeedHive. Is there any way
+that I can still include the
+audience that I have built and
+make them invite them into a new
+branch of this universe that
+then can offer them something
+some value of some sort and then
+make me wait list lkely to go
+out of business just now? It's
+at least easier to rise from a
+situation like that.
+you have as a creator, to be the
+most valuable thing that you
+have. Even though you may may
+have a business, right? That is
+making, I don't know, if you're
+lucky millions a year, right? If
+you get it to that size, that is
+valuable in a financial sense.
+But if the business falters, the
+business is gone. But your
+personal brand, that is just
+going to grow over time. If you
+break your business along the
+way, which many people do, just
+learning from that, it's gonna
+increase your personal brand,
+right? So that's a very valuable
+asset to have.
+Simon HÃ¸iberg: It is. And just
+to add on top of that, it also
+adds an element of feeling more
+safe to fail. And I know that
+there are many different schools
+of thoughts, especially in the
+Twitter verse with all some
+indie makers and builders.
+There's the kind of classical
+all in kind of like Andrew
+Gazdecki style, like go all in
+and then there's the super small
+bits, the best way to make
+something feel failed to save is
+just making it as small as
+possible. So it's not really
+that much time wasted, the
+Daniel Vassallo kind of style of
+small bets. I understand the
+idea of both. Mine is a little
+bit in the middle. Whenever I
+tried to put out a bet, my way
+of feeling safe to fail is that
+that bet even if it fails, still
+somehow contributes to the
+ecosystem. So say LinkDrip
+failed, I can still make content
+from that that's still
+contributes to my YouTube
+channel. If I do a YouTube
+video, something, it still
+contributes to the product that
+I do if I put out an info
+product. The whole thing is kind
+of intertwined. And here's where
+the whip analogy was really
+great again. Whenever I put out
+something new, my first question
+that I asked myself is, does
+this fit into a web in any way?
+Or is this just going to be
+completely independent me trying
+to shoot something out there and
+then see if it works? Because it
+needs to fit into the web. There
+needs to be an element of it
+doing some kind of cross
+pollination between that and my
+other products. That's, for me,
+is the best way to not go all in
+because I'm not that kind of
+person. But also to still feel
+safe to fail on a little bit
+more than super tiny bits. It
+allows you to bet a little more
+and still feel somewhat safe.
+Arvid Kahl: Yeah, there's always
+something meaningful that might
+come out of this even if the bet
+itself doesn't work out. I love
+this. And I think as a creator,
+as somebody who's sharing that
+journey, no matter what you do,
+if you try and find some aspect
+of it that relates to the other
+things that you've been doing,
+there's something in there,
+right? And particularly for you
+as a YouTuber, sharing the
+lessons learned, also your
+strategies and all that. I see
+you use everything for that good
+or bad because that is always
+relatable, right? People fail a
+lot. People succeed a little.
+They both relate to a failure
+and success. And you can
+incorporate that into your
+YouTube channel, which I want to
+talk about because I'm a big
+fan. I'm a subscriber, of
+course, because you teach
+various interesting things. And
+I often wonder that particularly
+as you are an active software
+engineer, as active software
+founder and a YouTuber with a
+pretty sizable YouTube channel
+and a high quality production. I
+mean, I'm looking at your and
+your fancy YouTube studio right
+now, how do you balance being a
+creator who talks about things
+and being a maker who does the
+things that the creator then
+talks about? Do you have some
+kind of balance that you
+actively seek? Or does it just
+happen as it happens?
+Simon HÃ¸iberg: At this point,
+it's fairly planned and
+scheduled. And this is a matter
+of, it's time consuming. YouTube
+in itself can quickly become a
+full time job, easily. If you go
+down a path where everything
+becomes too arbitrary, I would
+say, there's always an element
+of me trying to include
+something in my YouTube videos
+that is something first of all
+that people can't find anywhere
+else. So I try not to just take
+information read on the internet
+and give my version of that
+because that can be valuable.
+Sure. But it's super important
+for me that this is something
+that is inherently my
+experience, something that
+people just can't find anywhere
+else. So it needs to be
+experiences from my own journey
+or at least what I'm trying to
+teach should be heavily tied up
+on experiences from my own
+journey. And then I think
+there's always, for my YouTube
+channel, it is a marketing
+channel. And that's not
+something that I'm like I can
+easily admit that it serves a
+purpose of being a marketing
+channel for my products and I do
+actually create a quite
+significant amount of leads for
+both FeedHive, LinkDrip and Tiny
+QE on my YouTube channel alone,
+but by the end of the day not
+really the purpose. It is always
+when I start making content for
+YouTube, it is to empower
+entrepreneurs and people who are
+intimidated by the whole idea of
+SaaS. That's why the things that
+I'm preaching on my YouTube
+channels is so centered around.
+You don't have to take VC money.
+You don't have to go out and
+seek investors. You can actually
+roll a micro SaaS from your own
+home. You can do this alongside
+your work. You don't have to
+quit your job. And I truly
+believe that this is true, first
+of all, and that's not to
+neglect that it's still super
+hard and super challenging. But
+the purpose, the main purpose of
+my YouTube channel is mostly to
+empower people who want to try
+to build their own SaaS, but
+have no intentions or feel
+extremely intimidated by the
+idea of investors, big teams,
+the whole Silicon Valley style
+of model. It do happen to, it
+creates leads as I go along
+because my channel is growing
+really fast on this model. And I
+think compared to other channels
+I have seen, again, a little bit
+too much funneling to my tastes.
+And it does prohibit their
+growth when every single video
+they come to this channel and
+watch, somehow have this
+ulterior purpose or motive
+underlying that they need to go
+and sign up somewhere or do
+something. And when I do it like
+this, because that the path of
+doing entrepreneurship like we
+do it here, it just it will feed
+you with so many lessons
+constantly. So for me, it's not
+ever a problem coming up with
+constant ideas or things that I
+want to talk about. It basically
+produces itself. Then on top of
+that, there's the whole
+production, the actual
+production of it. And I have
+quite rigorously nailed down and
+add a pipeline inside my
+companies for for doing this as
+efficiently as I can. Otherwise,
+it becomes very time consuming.
+But I think the thing with
+YouTube that a lot of people
+struggle with is what should I
+talk about and I let this be
+listened driven 100%.
+Arvid Kahl: Yeah, that's the one
+of the biggest benefits of
+building anything, both just
+building it yourself and
+building it in public. Like
+there's always this kind of
+dynamic of, well, this is
+useful. I can teach this. I just
+learned this. Now I can teach
+it, right? That is just stuff
+happens every single day, that
+there's this never ending well
+of interesting topics. I love
+that. And I see you very
+actively take these lessons and
+immediately share them. And that
+is something that I value as
+somebody who follows your
+journey because I'm invested in
+your success. I want to see you
+succeed. And I also want to see
+how you deal with challenges
+because you have something to
+teach. So I think you're doing a
+wonderful job with that. Just
+wanna say that as a subscriber,
+good job.
+Simon HÃ¸iberg: I'm very happy to
+hear that.
+Arvid Kahl: Yeah. No, it's just
+something that I love this.
+Because you can see this in your
+videos in particular, they're
+very well edited. And they have
+a very consistent style that is
+teaching focused. It's not
+conversion focused. You don't
+want to convert people, at least
+that's not the message that I
+see, to do anything. You just
+want to teach them. And if they
+find anything that you do
+interesting, they will go there
+by themselves, right? They don't
+need to be encouraged to buy or
+anything like it. What I do
+wonder as a creator myself in
+the video space, how long do you
+plan these things ahead? Like
+how long does it take for you to
+turn your idea your learning
+into a video, particularly
+knowing that you have a process?
+So how long does it take you?
+Simon HÃ¸iberg: Good question
+because how it works right now
+is mainly in bulk. So I script
+and write for five videos at a
+time, then I spent typically a
+weekend and I shoot the whole
+thing along with maybe 10-12
+sort. So I just make a video,
+shooting weekend out of it. And
+then I shoot a lot of content.
+And then I plan ahead and
+schedule ahead almost three
+months into the future. So going
+from an idea to an actual video,
+it's hard to pinpoint exactly
+because I'm batching it like I
+do here. And sometimes I also do
+run into problems with certain
+lessons that I have been
+outdated. I have had to kill off
+videos in my schedule that I
+ended up spending a lot of time
+producing because I learned
+something new along the way. And
+I realized that this is just not
+updated knowledge. This is
+actually poor advice. I don't
+want to be the person extra
+saying this now. And this can
+happen sometimes within a three
+month period because you learn
+so rapidly. I think I spent on
+average, around 10 hours a week
+at this moment on my YouTube
+channel alone and this includes
+everything from thumbnail,
+researching topics, writing the
+scripts, filming editing, and at
+this point, I do the whole thing
+myself. I'm still a little bit
+embarrassed to say but I still
+do everything in this whole
+production pipeline. But I think
+around 10 hours a week, but
+that's given that I'm batching
+it and that I have now a huge
+library of stock videos that I
+can just drag in and they
+somewhat fit. I have filmed
+hundreds of small clips of me on
+a computer, me with a mouse. I
+have a ton of these thumbnails
+starters that I can just click
+and then it's a Photoshop
+project. And I can start
+building a thumbnail out of it,
+tons of building blocks that
+allow me to push these things
+really fast. I wouldn't expect
+someone else to only spend 10
+hours a week on building YouTube
+channel like mine, if they're
+just starting out. I certainly
+didn't. It took longer in the
+beginning for sure.
+Arvid Kahl: Yeah, you built it.
+These 10 hours, they exist on
+top of hundreds of hours of work
+that went into it.
+Simon HÃ¸iberg: Absolutely!
+Arvid Kahl: I love this and your
+stock videos, if we just do
+stuff and hold things up or
+whatever. I love these two
+because they just give the
+videos very nice character. And
+there's one particular scene
+that I really liked. I want to
+talk about you about one
+particular video you made. And
+that's called A Day in the Life
+of a Tech Entrepreneur Without
+Burning Out. That was the title
+of the video. And I really
+enjoyed it because it kind of
+intersects almost everything
+that I am about, software
+entrepreneurship,
+entrepreneurship in general and
+mental health. And these are
+important things. And I was
+very, very happy to see that one
+little stock video where you
+were holding up one of my books.
+It was just really adorable to
+see my work reflected in it. But
+it was a scene that where you
+were like, well, I wanna take in
+all this knowledge, but I don't
+have time for it, right? I have
+other things to do. And there
+was this very dramatic scene
+where as a founder, you were
+just screaming out in horror
+over error messages and business
+problems. And I remember feeling
+this myself when I ran a SaaS
+company before I sold it. And I
+wonder how you prevent these
+moments from happening in your
+own life right now because you
+look busy. So how do you deal
+with the mental challenges, the
+pressure of all of this?
+Simon HÃ¸iberg: That's a great
+question. I think for me and it
+might kind of it's often when I
+say this, it comes out a little
+bit techie or a little bit like
+the corner, you know, but the
+way I do everything is joy
+driven. And that's also really
+the message of that video that
+you're mentioning here. I make
+sure that passion and joy is on
+top of everything else. And as
+soon as you do that you have, in
+my experience at least, you will
+experience an almost unlimited
+amount of strength to handle
+these extremely difficult
+situation and where you're
+mentally being very challenged
+with a lot of things. I hear a
+lot of people talking about
+discipline, as if that's the
+key. That's what you need to
+develop. That's motivation comes
+and goes. Discipline is what
+you're gonna fall back on. And
+it's not that I'm going to sit
+here and say that no discipline.
+I agree that you should have
+some discipline. But I try
+personally to gamify my entire
+life around joy. I think joy,
+motivation, intrinsic motivation
+for the things that you do is
+the most powerful fuel that you
+can put into you and it will
+give you superpowers in terms of
+handling certain obstacles that
+are super hard. And I have
+certain tricks that I do in my
+life to enhance this sense of
+joy. First of all, as you
+mentioned right now I look busy.
+And I think a lot of people get
+this experience. And it's a long
+time since I tried to count the
+hours I work but it's up there.
+Now in this video, I say 85
+hours that's back then it's
+probably not 85 hours. Today, I
+just became a dad and we're
+doing a bunch of family stuff,
+but it's up there still.
+However, one thing that you will
+notice is that my calendar is
+empty. While I have a huge to do
+list of tasks that I need to fix
+and things constantly rolling in
+and it's never ending. If I
+wanted to spend 100 hours of
+this every week, I could. My
+calendar itself is close to
+empty. We have a podcast right
+now. That one was scheduled full
+disclosure. We didn't just kind
+of like randomly pop in here. So
+there's a few things every once
+in a while that I do have
+scheduled but one of the things
+that really intrinsically
+motivates me and brings me joy
+is the fact that I can do things
+in my own flow, pick the tasks
+that I'm excited about that day
+and do it in as I try to make my
+task as little dependent on each
+other as I possibly can. My
+entire team, we were five
+members of my team right now. We
+have an excellent culture of
+doing async written work. We
+never have meetings. I don't
+ever barge in and take a
+specific hour out of my team
+members time. And I found team
+members that really love this
+way of working as well. I hate
+that. And I know they hate that,
+it's way to interrupt the work
+and in my experience, there's
+never, I guess sometimes I never
+ever say never. But there's
+rarely things that are so
+important that it can't be
+written down and published in a
+Slack channel. And then my team
+will see it at some point of the
+day and they will address it.
+And to me, that's a way of
+gamifying my life and setting it
+up for joy and excitement. And
+it really does allow me to
+handle some really critical
+situations, like sometimes you
+do need to go into firefighting
+mode. And then I don't have
+anywhere else to be. There's
+nothing scheduled, there's
+nowhere that I have to kind of
+like, I can drop everything, I
+can put everything aside and I
+can jump right on board on
+something that's either critical
+or I can allow myself to feel
+tired and exhausted about a
+certain thing and not continue
+doing that by force but just
+shifting to something else that
+I'm more excited about at that
+point. That's one of the ways
+that I do that.
+Arvid Kahl: I really like it,
+like the empty calendar in
+particular is something that I
+very much relate to. Like our
+conversation right now is the
+only thing I have scheduled this
+week. That was always my goal,
+right? To have the calendar so
+empty, that nobody else could
+tell me what I can't do. You
+know, because it's not really
+about them telling me what they
+want. That's just how you
+interact with people, right?
+They have their needs, you try
+to help them and then you render
+them with service and they pay
+you. That's kind of how we live
+our lives, right? But to not
+have them control my time was
+the biggest thing that I ever
+wanted. And I'm fortunately at
+this point that having this
+amazing conversation with you,
+that is the only thing where two
+people are involved. So I'm
+really, really happy about this.
+And I think your mindset that I
+hear right now is A, two things.
+It's like nothing is so urgent
+and important that it needs to
+interrupt everything else. So
+you have this very clear focus
+on prioritizing things in a very
+sane way. Because if everything
+is urgent, then nothing is
+urgent, right? If everything
+needs to happen, then there is
+no priority anymore. And I see
+you having a very, very active
+priority since there. And a
+delayed communication being as
+the central mode of a team is
+also wonderful. I think now that
+most people, even solopreneurs
+that are growing their teams,
+like the first employee or first
+contractor, we mostly do this
+remotely. We mostly do this on a
+global level, right? I have two
+people that helped me. One is in
+Denmark. The other person's in
+the Philippines. Obviously, I
+won't ever be able to talk with
+them at the same time because
+I'm in Canada. So no, we're all
+over the world, right? So this
+needs to be, I've tried to
+establish myself, like a
+standard operating procedure,
+like a process based
+communication and very async,
+back and forth emails. Nothing
+is ever so urgent that I need to
+call them. That was always the
+plan. And that's how I set it
+up. I'm happy to hear you're
+handling this the same way.
+Because in many ways, you are
+somebody I look up to in terms
+of being a creator because you
+handle it in a wonderful way.
+And you talk about the things
+that I care about in a very
+aligned way as well. And yeah,
+that's kind of what I really,
+really like about your approach
+here. And this stopping whatever
+you want on the thing that is
+bothering you and going to
+somewhere else is also a great
+approach. I do wonder now that
+your businesses are growing and
+you have more and more people,
+do you see this becoming harder,
+like to kind of stop doing the
+thing that bothers you? Because
+maybe there is a dependency with
+somebody else's work. Have you
+found a way out of that?
+Simon HÃ¸iberg: Yeah, sometimes
+it does become harder. And it's
+like playing down, it isn't
+always possible. Sometimes you
+do need to kind of fold and say
+like, there's something that's
+urgent or important enough or
+there's certain I'm not gonna I
+don't wanna put my team through
+stressful situations. So
+especially we have on FeedHive,
+in particular, because it's
+running. It's a social media
+management tool. And we are
+dependent on these third party
+API's. It's our entire product
+and they fail notoriously. It's
+very annoying. And our users
+aren't always aware that this is
+just the name of the game. It
+produces a lot of support
+tickets. So we have a support
+team on board and I don't always
+want to sit to put them in a
+stressful situation handling
+some users that can be very,
+very frustrated, let's just say
+it like that and downright like
+impolite and not very nice to
+talk to. So there's some times
+where it's not always possible.
+And that's where I as the
+business owner, jump in and make
+sure that their work is nice and
+pleasant and not because I think
+as like it's not their business.
+First of all, they're also not
+entrepreneurs. They didn't sign
+up for this. That kind of crisis
+management and discomfort is
+what I signed up for. So
+sometimes of course I put my
+calendar or whatever I'm doing
+at that time aside and then I
+just kind of do and solve
+whatever problem I need right
+there even though it can be a
+little bit annoying sometimes. I
+think the essence of it is that
+I think people don't burn out
+from working a lot. I think
+people burning out from be
+feeling forced to work on
+something that is either not
+clear to them how this would
+benefit their lives or they're
+forced to do it either by their
+employer or by salary situations
+or other. I think that's what
+burning people out. And I have
+tried my very best to make sure
+that there are a minimum number
+of situations where I have to
+push myself to keep working on
+something that I really, really
+dislike. And every time these
+situations happen, I do sit
+down. I carefully reflect and I
+tried to come up with processes
+to prevent this from happening
+in the future, both for myself
+and for my employees that's
+working with me.
+Arvid Kahl: That closes the
+loop. Here's another process to
+make the life of your business,
+your employees and yourself
+better, easier and more
+manageable. I love this. And I
+love the kindness that I hear in
+your voice right now. Because
+you're talking about your
+employees and trying to protect
+them and making sure that they
+get what they sign up for. You,
+just an awesome guy. And I'm
+really, really glad that we
+Simon HÃ¸iberg: Thank you, Arvid!
+Arvid Kahl: Had this
+conversation today. That was
+really nice. If people wanna
+find out more about you and I
+bet they do wanna find out more
+about you, where do you want
+them to go?
+Simon HÃ¸iberg: I think YouTube
+is probably the best place to
+get like an in depth glimpse of
+what I'm doing. Otherwise, I'm
+very active on pretty much
+everywhere: LinkedIn, Twitter,
+Instagram, TikTok. You can find
+me around the internet on most
+social media platforms.
+Arvid Kahl: Yeah, you are
+everywhere, which is good. Well,
+thanks so much, Simon for being
+on the show today. That was
+really, really kind of you to
+share everything that you shared
+today. That was wonderful. Thank
+you.
+Simon HÃ¸iberg: Absolutely. Thank
+you for being here. It was a
+pleasure.
+Arvid Kahl: And that's it for
+today. Thank you for listening
+to The Bootstrapped Founder. You
+can find me on Twitter
+@arvidkahl. You'll find my books
+and my twitter course there as
+well. If you wanna support me
+and the show, please subscribe
+to my YouTube channel, get the
+podcast in your podcast player
+of choice and leave a rating and
+a review by going to
+(http://ratethispodcast.com/founder).
+Any of this, will truly help the
+show. So thank you so much for
+listening and have a wonderful
+day. Bye bye

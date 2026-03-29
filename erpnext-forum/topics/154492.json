@@ -1,0 +1,52 @@
+{
+  "topic_id": 154492,
+  "title": "Pick List items in table disappear after saving and submiting pick list",
+  "slug": "pick-list-items-in-table-disappear-after-saving-and-submiting-pick-list",
+  "category_id": 54,
+  "tags": [
+    "erpnext",
+    "bug"
+  ],
+  "created_at": "2025-09-25T16:40:59.407Z",
+  "last_posted_at": "2025-09-25T16:40:59.537Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/pick-list-items-in-table-disappear-after-saving-and-submiting-pick-list/154492",
+  "views": 27,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "wenybai",
+  "posts": [
+    {
+      "id": 482108,
+      "username": "wenybai",
+      "name": "Rena",
+      "created_at": "2025-09-25T16:40:59.537Z",
+      "cooked": "<p>I’ve just updated erpnext to version 15.80 and have run into a problem with Pick Lists. We usually create pick lists from Sales Orders. When the pick list is created, all the items from the sales order are transferred over along with the correct quantities. However, when I try to save and submit the pick list, the item table becomes empty. Is there a fix for this problem or do I need to create a bug report?</p>\n<div class=\"d-image-grid\">\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/8/e/8e331b322510fa597e995c483726490f65714cc2.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/8e331b322510fa597e995c483726490f65714cc2\" title=\"1\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/8/e/8e331b322510fa597e995c483726490f65714cc2_2_690x368.png\" alt=\"1\" data-base62-sha1=\"khXijxgcKdsBDA3RYoepwWntqiS\" width=\"690\" height=\"368\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/8/e/8e331b322510fa597e995c483726490f65714cc2_2_690x368.png, https://discuss.frappe.io/uploads/default/optimized/3X/8/e/8e331b322510fa597e995c483726490f65714cc2_2_1035x552.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/8/e/8e331b322510fa597e995c483726490f65714cc2_2_1380x736.png 2x\" data-dominant-color=\"FCFCFC\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">1</span><span class=\"informations\">2218×1183 143 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/9/7/976943f814e6acbc2e48c1baf15b8951540ea3e1.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/976943f814e6acbc2e48c1baf15b8951540ea3e1\" title=\"2\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/9/7/976943f814e6acbc2e48c1baf15b8951540ea3e1_2_690x376.png\" alt=\"2\" data-base62-sha1=\"lBrCXl6p8x1iKAENqbQp93tOH2p\" width=\"690\" height=\"376\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/9/7/976943f814e6acbc2e48c1baf15b8951540ea3e1_2_690x376.png, https://discuss.frappe.io/uploads/default/optimized/3X/9/7/976943f814e6acbc2e48c1baf15b8951540ea3e1_2_1035x564.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/9/7/976943f814e6acbc2e48c1baf15b8951540ea3e1_2_1380x752.png 2x\" data-dominant-color=\"FBFAFA\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">2</span><span class=\"informations\">1937×1057 108 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/9/8/98ed88e223296844953f70815ac66f9ab84879ec.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/98ed88e223296844953f70815ac66f9ab84879ec\" title=\"3\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/9/8/98ed88e223296844953f70815ac66f9ab84879ec_2_690x426.png\" alt=\"3\" data-base62-sha1=\"lORusokQjSqOmgRDPW4ymZy6dVq\" width=\"690\" height=\"426\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/9/8/98ed88e223296844953f70815ac66f9ab84879ec_2_690x426.png, https://discuss.frappe.io/uploads/default/optimized/3X/9/8/98ed88e223296844953f70815ac66f9ab84879ec_2_1035x639.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/9/8/98ed88e223296844953f70815ac66f9ab84879ec_2_1380x852.png 2x\" data-dominant-color=\"FBFAFA\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">3</span><span class=\"informations\">1844×1140 135 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/6/0/6016ae3742570649ee2adf61462107cd30acebb2.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/6016ae3742570649ee2adf61462107cd30acebb2\" title=\"4\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/6/0/6016ae3742570649ee2adf61462107cd30acebb2_2_690x419.png\" alt=\"4\" data-base62-sha1=\"dI2qEPjQ9gRtFj7coycj9hGDEFs\" width=\"690\" height=\"419\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/6/0/6016ae3742570649ee2adf61462107cd30acebb2_2_690x419.png, https://discuss.frappe.io/uploads/default/optimized/3X/6/0/6016ae3742570649ee2adf61462107cd30acebb2_2_1035x628.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/6/0/6016ae3742570649ee2adf61462107cd30acebb2_2_1380x838.png 2x\" data-dominant-color=\"FCFAFA\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">4</span><span class=\"informations\">1658×1008 65.9 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n</div>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/wenybai/{size}/90838_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 9,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,2059 @@
+﻿Arvid Kahl: Hello everyone and
+welcome to The Bootstrapped
+Founder. Today, I'm talking to
+Joe Masilotti, the founder of
+RailsDevs, a reverse job
+platform for Ruby on Rails
+developers. We talk about
+monetizing an open source
+project, building in public and
+marketing yourself and your
+business both to employers and
+developers. Here's Joe.
+What I love about your founder
+journey, your journey as an
+entrepreneur is that it starts
+with a spreadsheet, that is
+really cool. So can you take me
+back to the day when you first
+created this magical document
+and what you were doing at the
+time and why that inconspicuous
+spreadsheet ended up
+jumpstarting this amazing indie
+business of yours?
+Joe Masilotti: Yeah, I'd love
+to. So I had been a Rails
+consultant for going on three
+years now. Actually hit my three
+year anniversary in just a month
+and have been doing Rails for
+like over a decade and got to
+the point where like, I was
+pretty solid with my freelance
+business. And I had too many
+leads, like great problem to
+have and too many people that
+wanted to work with me and
+couldn't offer them anyone to
+like, anywhere to get help.
+There wasn't really this place
+where I could say, oh, yeah,
+here's, you know, some folks who
+are looking for freelance work.
+So I kind of just started asking
+my network almost entirely on
+Twitter. Do you do Rails
+freelancing? If so, when are you
+available? And just kind of
+collected those names onto a
+list with their email addresses.
+And the next person that reached
+out to me, I was like, hey,
+sorry, you know, too busy right
+now. But if anyone on this list
+looks good, I'll happily
+introduce you to them. And
+within like, two weeks, someone
+had a new freelance gig. Within
+a month, someone had a full time
+gig. It was like, all
+immediately almost, it was
+seeing success and people
+getting hired. And not just for
+freelance stuff, but for full
+time gigs as well. And I was
+like, okay, this little Google
+spreadsheet that I'm sharing
+around, like, there's something
+here that I think there might be
+a business here. And I want to
+say like three or four weeks
+after that first entry to that
+spreadsheet, I started writing
+the first line of what will
+eventually become RailsDevs.
+Arvid Kahl: That's so cool. You
+have the magic touch or you just
+know the right people. That's
+probably what it is.
+Joe Masilotti: It was a good
+combo, a good combo of the two
+because the folks that are
+recommending where he's been
+hired twice through it already,
+Jared White, who was local to
+Portland with me, creator of
+Bridgetown is working with two
+different clients that found him
+both through RailsDevs. So you
+know, he's like my big success
+story for the freelance side of
+things. And he was the first one
+and one of the more recent ones
+to get hired through it. So it's
+like, knowing all those folks
+that are getting involved and
+spreading the word on Twitter
+has been awesome.
+Arvid Kahl: Yeah, I bet it does.
+It's nothing better than having
+actual, like an impact in
+somebody else's life twice. This
+is quite intense. One thing that
+I wonder always when I see
+people building marketplaces,
+particularly bootstrapping
+marketplaces is like, do you
+ever say this? Like, do you like
+to kind of punish yourself?
+Because I always feel like
+marketplaces super hard, you
+know, to just bootstrap both
+sides at the same time. You have
+clients, you have customers, you
+kind of need to connect them.
+Was that intentional from the
+start? Like, did you know this
+has to be a marketplace? And how
+did you go about this?
+Joe Masilotti: Yeah, so this is
+my third marketplace. And the
+first one was what my full time
+job was before I went freelance.
+We were connecting folks who
+were looking for a specific type
+of beer to bars that were
+selling that type of beer. And
+obviously a very, very clear
+marketplace. You can't have one
+without the other. My second
+foray into that was a board game
+event matching system. So like
+you find your local area, what
+are the board games that are
+happening now? Needed buy in
+from the businesses, the places
+that were hosting along with the
+players that were going. It just
+started to get legs and then
+COVID hit so like that kind of
+totally fell off. But I pretty
+much every time I leave one of
+these marketplaces, I'm like,
+I'm never doing a marketplace
+again. Like, every time I leave,
+I'm like B2B all the way. Maybe
+even B2C, but like, I am not
+doing a marketplace again. And
+then relatives came about and I
+was like, no, this isn't a
+marketplace. This is just a list
+of developers and businesses
+will find them. It's not a
+marketplace. It's just
+businesses getting hired on one
+side, you know and hiring on the
+other. It's not, etc, etc, until
+I finally realized I'm, you
+know, I'm building a
+marketplace. But I think that
+the difference this time for me
+Arvid Kahl: Did you ever
+consider doing the opposite of
+was that once I recognized that
+I was actually building you
+know, a marketplace here, I
+leaned in entirely to one side
+of that business. So if you
+popped her on the website, if
+you've seen anything on Twitter,
+I very rarely talk to the
+business side of things. I'm
+always talking about the
+developer experience, getting
+hired, how it's easier to find a
+new contract jobs, how juniors
+can get their first role. I'm
+leaning 100% into the developer
+side of the marketplace. And
+this has really helped A.
+bootstrap it. Like it pretty
+much solved the chicken or the
+egg problem, like the cold start
+problem. But it also really
+helps me hone my marketing and
+my branding for the business.
+Very rarely will you hear me
+talking about, oh, this business
+hired three devs, you know,
+yeah, I'll post some screenshots
+of revenue. Sure, because it's
+exciting. But everything that I
+build and I make is all about
+these developers just having a
+better hiring experience, the
+initial problem I'm trying to
+solve. And I think that that's
+really helped in A, you know,
+like I said, the branding. But
+B. really figured out that
+marketplace problem where I'm
+flooding one side of the
+marketplace, where if you're a
+business trying to hire a Rails
+developer, it's silly to not be
+on my platform. It's like it's
+the biggest already in just a
+year, it's the biggest amount of
+developers that are looking for
+Rails jobs, specifically
+available online. Like why would
+you not use it? And I think that
+that's really helped to get like
+a good kickstart for it.
+that, like focusing almost
+exclusively on the business side
+on the clients or people looking
+for developers?
+Joe Masilotti: Yeah, so I
+considered it briefly. But I
+think that it was never really a
+starter for me because I had the
+spreadsheet to begin with. Like
+I had kind of the core of the
+business without any product,
+just the business. To begin
+with, why would I go and try and
+change that. And the more I
+thought about it, I was like, if
+I did it again, would I have
+leaned into the business side
+and maybe I'd have more
+businesses using it. And I say
+to myself, I don't think so
+because you can have this
+marketplace with 1000 developers
+and one business and still
+change someone's life. You can
+still change one or two or three
+people's lives. If you have 100
+hiring businesses and two
+developers, you're not doing
+anything. You're not solving a
+problem anymore because those
+businesses aren't gonna find who
+they want in just two developers
+or three developers. So flooding
+one side of it and having the
+opportunity for the businesses
+to have the kind of the pick of
+the litter, but still giving the
+developers that opportunity to
+sell themselves how they want to
+be sold and market themselves,
+how they want to be marketed, is
+just in my mind a way better way
+to go about it.
+Arvid Kahl: Yeah, definitely. It
+kind of speaks to the indie
+hacker spirit, you know.
+Joe Masilotti: Yeah, yeah
+Arvid Kahl: Like you're on the
+side of the little guy. You're
+trying to make this an
+experience for the individual
+person trying to build something
+in their lives because most
+people freelancing either do it
+because they want to be doing
+some something else, right?
+Either built their own business
+or just get their family through
+this weird pandemic, all these
+things or you know, they wanna
+build an agency. Like, there's
+always some other goal beyond
+freelancing for at least for
+most people. So it's nice to see
+you enabling those people.
+Whereas companies, you know,
+they have their own goals. And
+they might be rather repetitive,
+rather boring in many ways. It's
+nice to see you leaning towards
+that side. How do you monetize
+this? Or rather have you thought
+of multiple different angles of
+monetizing and then chosen one
+in particular?
+Joe Masilotti: So I went through
+a huge exercise. I think that
+the Notion doc is actually still
+public or the GitHub discussion.
+We could link to it, if I can
+dig it up, where I decided that,
+okay, there are businesses now
+that want to hire through this
+platform. And there, I think it
+was, like 150 developers
+already, like, you know, a month
+or two and what's the way to
+monetize this? So it's
+sustainable for like I can
+continue to work on it and
+continue to make it better and
+actually become a real thing.
+And my three options for
+monetization were ads and
+sponsorships, which felt really
+good because I didn't have to
+worry about hounding any
+businesses. It'd be free for
+businesses and but then I kind
+of realized that I'm always
+going to be chasing that next ad
+or that next business and I
+really didn't want to be in the
+business of ads to be like, it
+just wasn't appealing to me. The
+second was to monetize the
+developers. So this would be
+something where developers could
+pay $1 or $10 or $100 to boost
+their profile to the top of the
+results or maybe put a yellow
+border around it, you know, all
+the fancy. Yeah, exactly. Yeah,
+yellow background, maybe the
+blue background for $150. And it
+just felt so wrong, that I'm
+monetizing the folks who need
+the help, who need the help
+getting hired. And what I ended
+up deciding on was option three,
+essentially asking the people
+who have the money to pay for me
+to provide the service. These
+businesses are hiring developers
+for 100, 150, 200K, right? Like
+that's a ton of revenue being or
+money being passed around. If I
+took a just the tiny bit off the
+top of that, not the developers
+getting less, but I'm just
+getting a share of it. All of a
+sudden, I'm solving a real
+problem. I'm making enough
+money. This could become a real
+thing for me maybe even full
+time I'm in the future. And that
+developer has their life changed
+by opportunity that they would
+not have gotten elsewhere. To
+me, it's a win win win. And as
+you always say, I'm gonna
+butcher this quote, but what is
+it? A business is an idea that
+makes someone money. Rephrase
+for me.
+Arvid Kahl: That's pretty true.
+Joe Masilotti: Yeah
+Arvid Kahl: That's right. Yeah,
+it's a project, right? It's
+something that could have been a
+hobby. But someone's making
+money of it. So it's a business.
+It's kind of what it is. That is
+awesome. I love this. So it's
+this kind of a subscription
+model where people pay like a
+fixed fee? Is that what it is
+for you?
+Joe Masilotti: Yeah, it's a
+subscription model and the
+hiring fee. So businesses have
+to pay $300 a month to be part
+of the platform. And this is
+where you get full access to the
+developer database, where you're
+able to message folks on the
+platform, you get full access to
+the website, no restrictions.
+And that is a really good way
+for me to vet these businesses.
+$300 is a lot of money to just
+like, put your credit card down
+and try something you know. So
+every single person that comes
+through, I'm emailing with them.
+Sometimes I hop on the phone
+with them. I'm figuring out what
+they're looking for. Are we the
+right fit? Before they even can
+pay, I'm vetting these folks.
+And I'm not vetting them on
+terms of like is their business
+a quality business? Because I'm
+not in the position to do that.
+But I'm vetting them in terms of
+if we're right fit for each
+other. Once they pay that 300
+bucks a month, they have access
+for as long as that subscription
+is active to like I said,
+message any developer on the
+site. They have access to all
+the fancy searching tools and
+filtering algorithms and stuff
+that has been built into the app
+over the past year. And then if
+they hire someone, they have to
+pay a 10% hiring fee off from
+their salary. So if they hire a
+freelancer, that's cool, no
+extra fees. But if they hire a
+full time developer, let's say
+for 100k, they're required to
+pay RailsDevs $10,000. And
+that's significant. That's not
+only like significant in terms
+of each hire, substantially
+improves, you know, my outlook
+and my runway for this. But it's
+also way less than what a
+traditional recruiter would pay
+or would charge. Recruiters in
+the tech space charge 20, 30,
+40% sometimes, so I kind of fit
+that middle ground where it's
+great for that business that is
+willing to get their hands dirty
+and put in the little work, a
+little more work to save a ton
+of money, but doesn't want to do
+it all through like, you know,
+LinkedIn cold messaging, so to
+Arvid Kahl: Yeah, right. Yeah,
+it sounds like particularly like
+speak.
+with 300 bucks a month for a
+company that hires a lot of
+developers. You know, that's
+like a rounding error,
+comparatively, you know, to the
+salaries and then saving almost
+20% on the hiring fee too. That
+is very lucrative, sounds
+awesome. So you're doing a lot
+of vetting on that side? Do you
+do vetting on the side of the
+developers as well?
+Joe Masilotti: No, I do zero
+vetting on the side of the
+developers and I am upfront with
+that with the businesses. Like,
+I'm in charge of gathering some
+profiles of people for you. I'll
+help you narrow them down. And
+you know, maybe I'll send you a
+list of folks that are good
+potential good fits, but I'm
+assuming that what they write in
+their profiles is the truth. And
+I'm not going to go an interview
+for you. I'm not going to go and
+like read resumes for you. I'm
+not a recruiter. And that's not
+the business that I'm building.
+If these developers are
+consistently getting feedback
+that they didn't meet
+expectations, I will take action
+on that. But what I do help out
+is that any developer who is
+maybe not getting the results
+they want or expect or aren't
+getting reached out to or feel
+like they could be doing a
+little better on the platform, I
+work with them one on one to
+kind of tweak their profile. And
+it's not so much resume
+rewriting as it is self branding
+and self marketing. Like it's so
+crazy how all it comes back to
+marketing. You have your little
+title and your little
+description on who you are as
+developer. That's what someone's
+going to click. You have to
+think about your showing up in
+search results like Google, what
+is going to make a business
+click to hire you. And I work on
+that with a lot of developers
+individually and anyone who
+wants to do that definitely send
+me a DM or an email, happy to
+help anyone. I've helped a ton
+of people do that. A few of the
+folks have actually gotten their
+first job through that, which is
+super exciting. And it doesn't
+work for everyone, but it
+definitely helps. And that's
+like as much of the, not even to
+use the term but like the
+vetting process that is involved
+on the developer side.
+Arvid Kahl: Yep, sounds like a
+great opportunity for an info
+product. Like this could be like
+a 30 minute course or an e book
+or something, you know, like
+that kind of information
+probably gets stale rather
+quickly in the moving world. But
+still, right? It's information
+that people could use. I'm happy
+you're doing this because
+honestly I love this for the
+mere fact that you kind of let
+the developers run loose, do
+their thing, you know and you're
+keeping pretty close eye on the
+company's in that relationship
+from a developer's perspective.
+And I guess also from businesses
+perspective. I really like this
+because you make sure that
+people get hired by quality
+companies. But there is a very
+diverse range of people of
+developers that people can
+choose from, that companies can
+actually hire. That is nice.
+It's a great job board. And I
+think now I finally understand
+why you call it the reverse job
+board because it's very
+different from the traditional
+company centric, like hiring
+manager centric of platforms
+that I see all over the place.
+Was that a consequence of the
+spreadsheet? Or is that
+something that you thought this
+is gonna be different than
+anything else in the market?
+Joe Masilotti: I think it was
+both. It was a consequence of
+Arvid Kahl: Yeah, I was going to
+ask you about this, like, how do
+the spreadsheet. The spreadsheet
+proves some sort of product
+market fit, that having a list
+of a very small niche of
+developers, Ruby on Rails
+developers, and presenting that
+to people that are hiring Ruby
+on Rails developers, there's
+obviously something there that I
+hit on. But when I set out to
+create RailsDevs, I didn't want
+to just do a job board because
+A. it's been done, it didn't
+feel unique enough and I wasn't
+excited about it. But it also
+didn't feel like I was doing
+anything new or interesting to
+these developers that they
+couldn't get elsewhere. So the
+reverse job board came about as,
+the more I dug into it, the more
+I researched the recruiting
+process, the more I just heard
+horror stories of people going
+through three hour interviews,
+eight hour interviews, 20 hour
+take home tests. I was like,
+this is broken. This is so
+broken right now in the tech
+space. How can we flip the
+script and give more power to
+the developers themselves
+getting hired? And that's really
+the single value that I built
+all of RailsDevs off of, it's
+how can we empower the
+individual developer to have
+them find their next job on
+their own terms. And that's how
+the reverse job board was built.
+That's why you can say what type
+of role you're looking for. I
+don't ask you if you're a senior
+developer. I asked you what
+level role you're looking for.
+It completely changes the
+script. It shows what you're
+looking for next, not where
+you're currently at or what you
+consider yourself or what your
+current title is. And that's
+also why I removed compensation
+entirely from the website. I
+don't want developers to sell
+themselves short by saying they
+charged 50 bucks an hour if they
+could be getting $75 an hour or
+$150 an hour or a $10,000
+project from these companies.
+And it's all centered around
+that. And it's all centered
+around having these organic
+conversations between the
+developer and the person who's
+going to hire them with no one
+in the middle. And that's really
+where it all stemmed from. And
+that's what the features are
+that exist. And you know, that's
+how it's continued being built.
+you prioritize for which side
+you build features. But it
+sounds like you might be skewed
+quite heavily towards one of
+them, right?
+Joe Masilotti: I don't think
+I've had the problem of like,
+well, no, I take it back.
+Compensation was almost entirely
+request from the businesses. The
+businesses wanted to be able to
+sort and filter by developer
+rates. I was like, yeah, let's
+do it sounds great. And it had a
+bunch of people work on it was,
+you know, live within a week and
+almost immediately was like, oh,
+crap, this sucks. This sucks for
+developers because they're only
+going to sell themselves short.
+And it was removed within like
+two weeks after that. There's a
+whole post on GitHub discussions
+about why I removed it. And even
+if you create your profile, it
+links still to it just because I
+want to make sure people are
+aware. So I think that that's
+proven. And I've got a couple
+other small things. But if
+there's ever a disagreement
+between it is better for the
+developer or better for the
+business, I'm going to lean
+strongly towards the developer
+side. And you know, there's
+other things that will benefit
+the business that don't hurt the
+developer that I'm happy to add.
+But if there's ever that
+conflict, the developer is
+always gonna win.
+Arvid Kahl: That makes perfect
+sense. And honestly, you're
+building features that add value
+to the whole platform quite
+visibly, by the way. I watched
+you built your referral system
+in public in a live stream
+recently. I found that very
+interesting. And I have two
+questions about this. First of,
+how is building software in
+public? Do you enjoy it? Is that
+something that that is actually
+something? Yeah, not just a
+marketing thing, but something
+that you really like? And two,
+what parts of your software, of
+your system itself do you need
+to build yourself? Because
+referral systems are notoriously
+one of these things that you
+know, like authentication and
+all these kinds of things that
+developers like to build but
+probably shouldn't? So what's
+your stand on this?
+Joe Masilotti: I'll start with
+the second question first. I'm
+probably going to end up
+building the referral system out
+and then realize I need some
+crazy feature and then rip it
+all out and add a third party.
+That's why I'm not letting
+anyone else build it because I
+feel bad ripping out their code
+in the future. I'm doing it
+myself. When I get there, I'll
+know and I'll change it. But for
+now, as you watch the live
+stream, it's as simple as
+setting a cookie and adding a
+model to the database when
+someone signs up based on that
+cookie. I'm not getting crazy
+with it until I need to. To
+answer your first question, do I
+enjoy building features in
+public? Do I enjoy coding in
+public? I love it. It gives me
+so much energy and motivation. I
+got my start my real development
+start at a consultancy shop
+where I was doing pair
+programming eight hours a day,
+five days a week. Like, it was
+called Pivotal Labs at the time.
+It's now changed a bunch and
+kind of like what ThoughtSpot is
+these days or Test Double even.
+But I thrive in that environment
+of having someone to bounce
+ideas off constantly. And I
+don't really get that as a solo
+developer anymore. Yeah, I can
+pair with people every now and
+then. But I don't have any
+coworkers, right? My one and a
+half year old isn't coding with
+me yet, so. Not yet, at least.
+So the live streaming and the
+building in public, I kind of
+feel like I have that second or
+third or 100th pair of eyes
+watching me and being able to
+ask ideas and bounce stuff off
+of. If you follow the Twitter
+chat I use, you know, throw in
+air quotes, it was just the
+replies to the live stream.
+Marco was in there and Andrew
+was in there. And they were both
+debugging with me through
+Twitter chat. It was a terrible
+interface to do that. But I was
+like, they were helping me fix
+issues through Twitter, you
+know, replies to a tweet that I
+like, you know and things that
+are way more complicated than
+just syntax errors or like, oh,
+you forgot a semicolon at the
+end of that. More things like,
+oh, here are the docs for this
+method. You're actually passing
+in the wrong parameter order.
+Stuff like that, where I was
+like, holy crap, you're totally
+right. I didn't nest the
+parameters the right way. Thank
+you, Marco, like crazy stuff
+like that. And that's really
+where I get a lot of energy and
+a lot of motivation from.
+Arvid Kahl: Yeah, I bet. For a
+developer, I think building in
+public is one of the most
+literal things that you can do,
+right? Like for a writer, for a
+marketer, building in public is
+more like an abstract term where
+you can build something in
+public. But for a coder, you can
+literally build your software in
+public and have this incredible
+feedback loop like you just
+described, that is so incredibly
+tight. It's real time with other
+experts that are not even paid
+or interested in finding
+compensation. They just like
+helping. That's really cool. I
+love this. Did you ever consider
+that this might be problematic?
+And I mean, not just like
+writing code. I mean, like,
+building in public in general,
+because, you know, I'm a big fan
+of building in public. But I
+also want to be realistic about
+it that there might be certain
+drawbacks, depending on what you
+do. Did you ever encounter
+anything like this? Or do you
+protect yourself against
+something when what would that
+be?
+Joe Masilotti: Yeah, great
+question. So I think that
+building code in public from my
+opinion, with the small
+exception of leaking a API key
+or something that's like secret,
+like a credential. To me, I see
+zero risk in building code in
+public almost entirely because
+the code base that I'm
+contributing to is open source.
+RailsDevs is the whole code base
+is open source and things that
+are secret are the credentials
+that connect to you know, my
+database key and Heroku and all
+that stuff. So if I am writing
+proprietary information or a
+proprietary algorithm, it's
+going to be on GitHub in a few
+hours anyway. There's very
+little risk in me building in
+public. Again, the exception
+being leaking a credential or
+like command tabbing into my
+email client or something like
+that. But that's just poor
+behavior. But I think that
+building in public in the more
+general sense of building a
+business in public carries way
+more risks with it that I'm
+starting to realize as I slowly
+make RailsDevs into a thing that
+is becoming more and more of my
+full time income. And it's
+letting go of trade secrets when
+they are the core to your
+business. A lot of what I do on
+RailsDevs is public. I'd say
+that 90% of what I do on
+RailsDevs is public. I have the
+codebase is open source, all my
+metrics are public, my analytics
+are public through fathom. My
+business decisions are all done
+through GitHub discussions and
+people can weigh in on them and
+comment and reply and all that
+stuff. But there are definitely
+things that I don't keep on
+those that I do like to keep
+quiet following Zero To Sold. I
+have an Operations Manual,
+right? Where when a new business
+signs up, I send them an email.
+I have a copy paste template
+that I am not going to share
+with the world. When a business
+kind of ghosts me and says that
+they're not going to pay the
+hiring fee, I have a process
+that I follow. Those are the
+things that are very core to my
+business that I don't think
+people will find interesting,
+but I also that's what keeps the
+business alive. And the email
+and support that I do, those are
+the things that I'm not going to
+make public and those are the
+things that are what makes
+RailsDevs, RailsDevs. That it's
+me running this thing and it's
+my personality and you know me,
+Joe, that is not going to be
+made into a public doc or
+anything like that. So that's
+where I draw the line with it
+all.
+Arvid Kahl: You just turned this
+conversation into a build in
+public master class. And I'm
+very grateful for that. Because
+like finding that line, first
+of, understanding that there is
+a line that not everything
+should be transparent. But
+transparency doesn't mean
+complete transparency,
+particularly not in front of
+your competitors, which is
+everybody on Twitter,
+potentially. But there's more to
+gain by sharing certain things
+than not sharing them. And there
+is more to gain by not sharing
+certain things that can be
+shared, but probably shouldn't.
+So it's great that you drew this
+line. And I love the idea that
+your process, your internal
+structure, your procedures, the
+things that you set up, to keep
+the business humming, like the
+engine humming of your business,
+that these as the lifeblood of
+your business are your trade
+secret. And that's the stuff you
+don't talk about or you don't
+share in the specificity that
+would allow others to duplicate
+it. And that's what you usually
+see when businesses who used to
+be very transparent, reduce
+transparency. They just add
+another layer of, you know,
+diffusion of abstraction. They
+don't talk about the specifics
+anymore. But they do mention
+that, right? They do mention
+that they have this particular
+process or they do this or they
+don't do that, you know, that
+kind of information still gets
+out. Transistor is a good
+example. Transistor FM by Justin
+Jackson and Jon Buda, this
+business that used to share
+everything. And that was just,
+you know, talking more about
+general things, but it's still
+sharing and I love that you're
+on the same path. Good to know.
+And also good to know that you
+know because you will encounter
+moments where you might
+overshare a little and then over
+time, you know, have to reduce
+it or talk about things
+differently. But I love the fact
+that you already have this, you
+know, in your visor, you already
+see where this is heading.
+That's great. I love this. And I
+love that you take openness to a
+new level because many software
+service businesses or generally
+software enabled businesses,
+like a job board would probably
+count very much as both, I don't
+know, depends. Many of these
+businesses are not open source.
+They don't really use the source
+code for that. But you do. And I
+love that fact that there are
+forked versions of RailsDevs out
+there, making people money
+connecting people in other
+fields of technology or even
+complete other industries, with
+people that they need for making
+business things happen. How did
+that come about? How did you set
+that up? And do you monetize
+this? Like how do you approach
+this in terms of a business
+choice? Because you spend time
+on it. So you know, better give
+you something in return.
+Joe Masilotti: Yeah, I think
+there's two big questions there
+that I want to dive into. It's
+why RailsDevs is open source to
+begin with? And then how do
+these other businesses that are
+forking RailsDevs? How am I
+involved, if at all? So the
+first question is kind of a
+silly answer. Working in Rails,
+you know, day in and day out, I
+always want to contribute to
+open source. I always want to
+like cracking, open the rails
+source code and like add a new
+method. But I'm always so
+intimidated by these kind of
+lower level framework type
+things, framework type gems. So
+I did a bunch of Googling and
+there was no real products that
+were open source that I could
+find that weren't like,
+ginormous things like, you know,
+Dev.2 is, you know, open source
+both on forum and a number of
+others. There was no like, entry
+level small, medium sized
+projects that were products. So
+it's like, you know what? Let's
+make RailsDevs open source.
+What's the worst that could
+happen? I can always closed
+source it later once it takes
+off. And I'm so glad that I did
+that. Because I've gotten 80
+something people who contributed
+to the project, like a
+ridiculous amount of people in
+the year. And I think 20 of them
+if maybe 15. It's their first
+open source contribution ever.
+That's huge. That's more
+exciting, right? That's more
+exciting to me than actually
+getting people hired sometimes
+because it's like, I just
+brought someone into the world
+of open source by reviewing a
+pull request. That's all it
+took. But it actually took a
+whole year of building out a
+product that is boring and the
+technology isn't exciting on
+that is open source to get
+there. So one of my big things
+with RailsDevs is that the code
+is kind of offensively boring.
+There's nothing exciting going
+on. There's barely any like
+front end JavaScript, even
+hotwire with Rails seven. It's
+all boring rails straight out of
+the box, like convention over
+configuration stuff, which makes
+it really easy to contribute to
+because you kind of know where
+everything is and how it all
+works if you're a Rails
+developer. And even if you're
+not a Rails developer, a couple
+of Python devs have contributed
+over the year too, which is
+cool.
+Arvid Kahl: Cool
+Joe Masilotti: So I really love
+that. I really have been able to
+contribute back to the community
+by saying like, oh, how does one
+do, you know, to integrate
+devise with this other third
+party library? Here's my source
+code. Here's the code that you
+could look at. Here's the pull
+request. You can share that
+whatever who you want. It's MIT
+license, copy, paste it, do
+whatever you want with it. You
+find a bug, maybe contribute
+back. That's all I ask. So
+that's been really cool and I
+would definitely would not
+change that for anything. But to
+answer your second question,
+forks. How do I deal with forks
+and clones and copycats and
+stuff? This is where things get
+interesting, right? Copycat of
+RailsDevs are encouraged. I have
+even in there, if you want to do
+RailsDevs for your own
+technology or own sector, follow
+these instructions, you'll start
+here. And at the end, you'll
+deploy to Heroku. And you'll be
+live in production in like, a
+couple hours, depending on your
+level of skill there. And to my
+knowledge, there are about seven
+or eight forks of RailsDevs that
+are live in production right
+now. And they range. There is
+one for blockchain developers.
+There's one for JavaScript
+developers. There's one for
+private home chefs, which is
+really cool. There's one that's
+starting in the solar industry
+that's coming out pretty soon
+from another local Portland Dev.
+Really cool stuff. And most of
+these people reach out to me and
+they say, hey, we'd love to pick
+your brain on this. Want to do a
+fork of RailsDevs. Like, can you
+answer a couple of questions? So
+we do all that. We answer a
+couple questions. And I say, oh,
+by the way, if you want to do
+this more often, I offer an
+advisory style engagement,
+whatever want to call it, where
+we can chat for a few hours a
+week or a month, whatever works
+for a small revenue share. So
+this is what I'm doing with a
+lot of these businesses now. I
+help them get deployed. Some of
+them, I read a little bit of
+code. For some of them, I only
+do support. Some of them, I only
+do marketing. Some of them, I do
+only like one call a month. So
+it varies. And they share
+revenue with me. And this is
+obviously a big bet on my end
+because I'm not getting paid for
+probably about a year for any of
+these businesses. And I'm
+putting in a lot of time and
+effort in making sure that they
+can get deployed and they can
+get live and ask me all these
+questions. But in the long run,
+there's a double benefit to
+this. The first one is obvious.
+I make more money by only, by
+just helping people without
+having to write code and put in
+time and trade time for money.
+But two, there are no more code
+bases online that are built on
+rails. And that's awesome. If
+they don't open source it,
+that's fine. But they see in the
+bottom of it. It was written by,
+you know, forked from Joe and
+they can see the code base. So
+having more Rails code out there
+in the wild, in my mind, is
+better for everyone.
+Arvid Kahl: Wow! All of this is
+such an open source kind of long
+term perspective mindset that
+I'm just blown away by this, you
+know, because open source is
+notoriously hard to monetize for
+everybody. Like even MongoDB and
+all these rather sizable
+projects have trouble just
+justifying, monetizing it and
+then doing it in a way that
+doesn't kind of mess things up
+for people that are not too big
+or not too small, like somewhere
+in the middle, right? It's
+always hard to find these, like
+continuous spectrum of serving
+these kinds of people. But I
+love your approach is like,
+okay, let's just give it to
+people. Let me give people even
+more of my time to make this
+good, which I think is also a
+rationale somewhere in there,
+right? You want their platforms
+to be the best they can possibly
+be, thus increasing their chance
+to succeed. And then eventually,
+potentially, hopefully,
+monetizing. That is so cool. And
+I love of course, I'm not a
+reels dev. I come from the
+JavaScript and elixir
+background, but I do have to
+pick X in my library and I was
+there a couple must have been
+like, eight, nine years ago, in
+that community for a little bit.
+So I do understand how important
+it is to keep projects like this
+going into the world and
+allowing people to see that this
+technology is still relevant, is
+getting better, you know, with
+every year and allows people not
+just from the technology
+perspective, but also from the
+just the openness of the
+community around it to do things
+and make money of them and
+improve their lives. That is
+just awesome. And you enabling
+this with this particular method
+of allowing the fork and then
+monetizing kind of around it in
+the future.
+Joe Masilotti: Yeah, yeah
+Arvid Kahl: That is really
+smart. I would have expected
+some kind of flat licensing fee
+or you know, a revenue share
+with a minimum or something,
+right? Like where people try
+them immediately monetize
+something, but I see you playing
+the long game, the infinite
+game, really. And I can only
+applaud you for this. This is
+really cool.
+Joe Masilotti: Thanks. Yeah and
+the revenue share terms are what
+I think are pretty beneficial to
+both parties. It's a certain
+amount of time depending on the
+agreement after their second
+customer. So what that means is
+that they can spend all the time
+that they want building and
+making this thing perfect and we
+can work together. But it's not
+until they actually prove that
+they have fit that they've
+actually sold to their second
+customer. Does my like, does the
+clock start ticking on how much
+revenue I receive and it works
+out really well because it means
+that they don't feel pressure to
+launch slow, so I make less, so
+they lose less money to me. And
+they're not pressured to launch
+fast. So they feel obligated
+that I forgot my revenue share.
+They can work at their own pace.
+And when it takes off, if it
+does, it's then the clock
+starts.
+Arvid Kahl: Wow, yeah, well, you
+are very respectful with your
+fellow developers. I really,
+really appreciate that. And they
+probably appreciated much more
+than me. That's just really
+nice. You were talking about
+that this is currently still I
+wouldn't call it a side project,
+but a part time project. Is that
+right?
+Joe Masilotti: Yeah, it's a one
+of the many businesses under my
+umbrella.
+Arvid Kahl: How's that going?
+Where is this going? Do you
+intend to, you know, full time
+this eventually?
+Joe Masilotti: I don't have any,
+I don't have concrete plans to
+full time this in the next year.
+I don't know where this will go
+in two years or three years or
+four years. As you can go find
+online, it went from zero to
+150k in 12 months, like it is
+making substantial income for me
+right now. But I'm also still
+doing a lot of work in the turbo
+native space and kind of my more
+traditional consulting and
+advisory type work. And for now,
+I'm still playing both. I'm
+still working on both. I'm still
+doing workshops for turbo
+native. I'm still doing, you
+know, pair programming sessions.
+I'm still consulting. I'm still
+advising. RailsDevs is at the
+point where I can kind of, it's
+definitely not just like sitting
+there and letting it simmer. But
+I don't have to do as much
+active work to get new
+businesses anymore. I can tweet
+about it every once in a while.
+I can build a new feature every
+once in a while. I can send a
+couple cold emails and get a
+client and get a new customer
+too. It's at the ideal state
+right now where it's not
+growing, it's not shrinking, but
+it's bringing in substantial
+income every month or so. And
+that's really perfect to me
+because I feel like if I want to
+go any bigger than that right
+now, I'd have to invest way more
+time and money into it. And then
+I worry that it wouldn't become
+as fun as it is right now. Right
+now, I only deal with 10
+businesses at most at a time.
+And that's all I really need to
+be sustainable. Business comes
+for a month or two and then they
+leave because they hired
+someone, that's a winner on
+everyone's book. And if I am
+dealing with 50 businesses at a
+time for five times the revenue,
+is it worth it? I probably need
+a whole team. And I want to keep
+this solo for as long as
+possible. So for right now, I
+don't have plans to 10 exit. I
+don't have plans to make it my
+full time. I have plans to let
+it continue to grow organically
+as it's growing now. And in a
+year, we'll talk again and maybe
+my opinion will have changed.
+But maybe my forks will bring in
+more revenue, you never know.
+But that's where I think about
+it now. And it's still really
+fun and exciting even a year
+later. And I want to keep it
+that for 10 years. That's my
+goal.
+Arvid Kahl: That sounds like a
+good plan. I love this kind of
+very sustained and non
+hypergrowth approach to building
+a lifestyle business in the best
+sense of the word, right?
+Joe Masilotti: Yeah
+Arvid Kahl: A lifestyle that you
+want, that you enjoy, that
+doesn't stress you out where
+don't have the managerial
+responsibilities of managing a
+team. That's something that I'm
+currently experimenting with
+because I'm feeling it's time in
+my life to involve other people.
+And it's enjoyable, but it is
+work, right? It's not I can do
+whatever I want. I still can
+most of the time. There are
+responsibilities. And I
+understand that not wanting
+these is a perfectly valid
+approach to business. Now, since
+you're saying this is not going
+to turn into anything major, but
+it's also not like going down,
+right? It's not much up, not
+much down. It's just where it
+is. Have you ever considered
+selling the business for a
+significant multiple?
+Joe Masilotti: Yeah, I talked
+about this with my partner
+pretty often, just in general in
+terms of like, what's the magic
+number? What's like the life
+changing number that one of us
+could sell one of our things for
+that would be worth it. And that
+number is substantial, right?
+Because you think about 150k
+year, three years, even if it
+doesn't grow that's starting to
+get substantial money. That's
+full income, practically. What
+is that number? We have an idea
+in mind. And if someone were to
+come to me and say, hey, here's
+that number right here. Will you
+take it? I probably still say
+no. So I think that right now,
+I'm still so excited and
+passionate about this that I
+can't possibly think of selling
+it in the near future. There's
+always a number for these
+things. If someone came to me
+and said, hey, here's $25
+million for RailsDevs. Like I'd
+be silly not to take that. But
+that's not gonna happen because
+the business isn't worth $25
+million right now. It might be
+in five years or in 10 years,
+but it's not right now. And what
+I like and what I enjoy right
+now is growing it and being the
+face of it and talking about it
+online and continuing to build
+it and grow it in public. And if
+I sell it, I'll have other
+things to work on. But right
+now, I'm pretty passionate about
+this. And that's what I want to
+keep.
+Arvid Kahl: That's a great
+perspective. But there's nothing
+wrong with keeping your
+business. And there's nothing
+wrong with selling a business or
+anything you want to do as an
+entrepreneur. I mean, even like,
+quitting your business is an
+option, although you might just
+as well wanna sell it. But yeah,
+if you're passionate for the
+thing that you do and you have a
+wish for how you want your life
+to look like and if you love
+giving workshops, if you love
+doing consulting as well,
+because it gets you, you know,
+involved in other people's
+things that always knew always
+something challenging and it's
+not just keeping the thing
+running, well, then you don't
+need to sell. And if you ever
+get bored of something, if you
+ever get want something
+different or want to level up,
+build something even bigger and
+need the funds to do it, that's
+a good opportunity to sell your
+business.
+Arvid Kahl: If it's not, well
+then it's not. Let's talk a bit
+Joe Masilotti: Exactly!
+about the workshops and the
+Turbo Native. From what I
+understand and you can probably
+tell I'm not very active in the
+rails and people who made rails
+and now run businesses that use
+Turbo Native in their client
+space. But talk to me a bit
+about that particular technology
+and the work that you do around
+it.
+Joe Masilotti: Yeah, so Turbo
+Native is a way to take your
+Ruby on Rails website, your
+mobile website and kind of shove
+it into an iPhone app. And you
+can deploy this app to the App
+Store. You can deploy it to
+Google Play if you have it on
+Android. And what it does is it
+renders your web views, it hits
+your server, it renders your
+HTML, your CSS, your JavaScript
+inside of a native kind of like
+frame. So you can have like a
+native tab bar and native
+navigation. But you have all the
+benefits of web inside of your
+mobile app. What this enables is
+really small teams to do crazy
+productive things. So you think
+about Basecamp and Hey, the 37
+signals folks, they have really
+small, relatively dev teams for
+the number of requests and the
+number of customers that they
+have. Both of their apps are
+built on Turbo Native. Their
+mobile website is shoved into an
+iPhone app with Turbo Native and
+that's their iOS app. And it
+goes a really long way because
+you're not building this like
+transcompilation or language
+where you kind of have like,
+what's that one called? The one
+by Google, but like Dart or is
+it called Dart?
+Arvid Kahl: Transpilers, I
+guess.
+Joe Masilotti: Yeah, Dart. Yeah.
+So like, Dart's the one from
+Google or whatever it is. It's
+not a thing where you're
+writing, you know, a new
+language just to write your
+mobile app. So you're actually
+leveraging all of the existing
+logic and views and design that
+you already have on the website.
+But you're showing it on a
+native screen. And you have
+hooks into like, fully native
+screens if you wanted to. So if
+you wanted to integrate with
+like the contact book or native
+maps or push notifications, you
+have hooks into doing that, that
+drops you down into native code,
+Swift or Kotlin or depending on
+your platform. So what I do is I
+work with clients that have a
+Ruby on Rails website and they
+want to get in the app store for
+Arvid Kahl: In an ideal future,
+five years from now
+whatever reason, usually, it's
+push notifications. And they
+come to me and they say, hey,
+Joe, we have this mobile
+website. Can you put it into the
+App Store? And I say, sure,
+it'll be two months and it'll
+cost you this much money or
+it'll take three months or seven
+weeks is my record, actually and
+I do everything for them. I
+write the Rails code that's
+needed to work with Turbo
+Native. I build the iPhone app
+for them. I get all their assets
+ready. I deploy to the app
+store. I write their copy for
+the marketing. Pretty much, they
+just sign off on a bunch of
+things. And we're good to go. So
+that's what I do. That's like my
+bread and butter. What I've
+realized is that I'm very
+expensive for what I charge
+because it's so niche. I'm like
+one of the only few people that
+do it, that not everyone can
+afford that, which is fair. So
+what I'm doing now is I'm
+enabling individuals to learn
+how to do Turbo Native on their
+own, which is exactly what this
+workshop is that I'm actually
+hosting in from the recording
+three days from the recording.
+My first one of these, which is
+a three hour hands on
+interactive, like live coding
+workshop, where we go from like
+brand new X code project brand
+new Rails app to what you could,
+in theory, deploy to the App
+Store in three hours. And you're
+gonna be able to leave that
+workshop with everything you
+need to know to like get your
+hands dirty and enough to be
+dangerous with Turbo Native. So
+you won't be able to you know,
+copy and paste this thing into
+your production app, but you
+will be able to then make the
+tweaks you need to go and get
+that live.
+Joe Masilotti: Yeah
+Arvid Kahl: Would you rather be
+giving workshops or going down
+to Turbo Native style rabbit
+hole or would you want to be
+solopreneur running a fully full
+time, SaaS business or something
+like that?
+Joe Masilotti: This is a
+question that I asked myself
+every month in some shape or
+form and I give you pause
+because, I give pause because
+it's always a struggle and
+internal struggle with me. Right
+now, I can't think of doing
+anything else besides RailsDevs.
+I want to spend every waking
+minute working on RailsDevs. And
+this workshop is like, oh,
+that's Thursday? I forgot about
+that, you know. But last week,
+when I was putting the final
+touches on the workshop and
+tweaking the UI of the demo app
+we're building and adding a
+really new awesome native
+screen, I was like, RailsDevs,
+what is that? I want to be full
+time Turbo Native workshop guy,
+day in and day out. So I think
+that my answer to you is, I
+don't want to do one single
+thing for the rest of my life. I
+think that I get way too bored
+with individual things. And I
+need variety in my life. My life
+and my business more
+importantly, that if I pigeon
+holed myself into one thing, I
+would get bored of it and burnt
+out and stop caring and probably
+stop working on it. So having
+this balance of solopreneur, low
+touch SaaS along with high touch
+consultancy, along with like,
+middle touch, workshop or
+whatever, that's my sweet spot.
+And maybe those three things
+will change throughout my life
+and my career. But right now,
+that is perfect for me.
+Arvid Kahl: Yeah, who knows what
+you're going to add to this or
+subtract from it at some point
+in the future. I think Daniel
+Vassallo would be very happy
+with that approach, you know,
+because it's many small bets.
+It's the idea of having
+different things, different
+kinds of things that you do low
+touch, high touch, time for
+money, you know, just money for
+time, like all kinds of variety
+somewhere in there. It's really,
+really cool to see your
+reasoning about this because
+obviously, there is no perfect
+path. There might be a perfect
+path for you. But that is not
+for you to know until you walk
+it, right? So and it's
+definitely not for me to
+understand before either. So I'm
+just really trying to figure out
+what your thought process is
+behind this. Because I know that
+so many founders struggle with
+this, that kind of what should I
+do? Where should I go? What
+should I not do? Like, what are
+the things that are keeping me
+from reaching the other thing,
+but having a balance between
+things and splitting your
+attention, almost like kind of a
+shiny object syndrome situation
+where there's always something
+that is more exciting, I think
+that's perfectly fine. Honestly,
+that's how I work too, like
+sometimes I write for days at a
+time. And I just over the last
+couple days, I think I wrote
+three or four articles for the
+next couple of months because I
+thought I want to talk about
+these topics because I know, I'm
+gonna have interviews with these
+people around those days. So I
+want to kind of push that in
+there as well. I was super
+excited. And today's like, no,
+I'm not gonna write. I'm gonna
+deal with the video stuff
+because that is also really
+cool. And I want to do it. I
+think too often are we pushed
+into, you should only do one
+thing and do it right and do it
+forever 50 years, get your watch
+and then you go into retirement,
+right? That's the perspective
+that is still pushed onto us,
+even though it's very much
+unrealistic. So I'm glad to see
+what is going on for you. Okay,
+one question I have. Oh, please
+go ahead.
+Joe Masilotti: Yeah, one more
+thing on that. I think that you
+said it really well there, you
+kind of summarized a viewpoint
+that I have on it. That
+following your passion doesn't
+mean following one thing
+forever. But it also doesn't
+mean following a passion for
+weeks or months. That could be
+your passion of the hour or your
+passion of the day. And leaning
+into that is when you're going
+to do your best work, it's when
+I do my best work. And when I
+try to fight that when I say I
+have to write for three hours on
+Tuesday, is when I write crap or
+I don't write at all and I have
+three cups of coffee. And I'm
+you know, on my Instagram the
+rest of the day or whatever.
+Like, it's when I follow my
+passion and I say, oh, I have
+this great idea for an article
+and I wake up at 5am. And I
+write that from start to finish.
+It's published at 7am. That's
+when I do my best work.
+Arvid Kahl: Yeah, creative work
+knows no timeboxing, right? It
+happens when it happens. And
+hopefully you have a pen and
+paper or an ocean dock or
+something to yell into,
+hopefully with a recording
+function. Otherwise, you're just
+yelling into a phone. But you
+know, it's really important to
+understand that creative work
+and that is coding too. Like the
+other side of the brain level,
+that is creative work, right?
+Like if you come up with new
+algorithms, new modules or an
+extension for something that you
+think could actually be a new
+feature or whatever also
+greater, right? Just as much as
+creating a new slide for your
+course or writing a new cold
+email. And it's kind of what I
+wanted to talk to you about
+because I saw over the last
+couple days you've been talking
+about cold email and marketing
+and since you are entrenched in
+two very different spaces, like
+in the job boards world and the
+course or workshop creation
+world. Did you find any overlap
+between these in terms of
+marketing or do you have a
+completely distinct approaches
+to this? How do you market your
+self and the things that you
+sell?
+Joe Masilotti: Great question! I
+have found little overlap in the
+marketing of these two products.
+We'll call them selling
+RailsDevs to businesses and
+selling my workshop or my
+consultancy work to businesses.
+The cold emailing that I'm doing
+now is almost exclusively to
+businesses that have posted
+interest or expressed interest
+or posted a job on a job board
+and said, I'm looking for a
+Rails developer. Here's the job
+description. Those are people
+that I know are my target
+audience. I need a way to just
+get them to reply to me. If I
+get them to reply to me, there's
+a good chance I can get them on
+to try RailsDevs for at least a
+month. Those cold emails are
+where I'm really experimenting
+with sending cold is
+interesting. But the word cold
+is interesting because they're
+very customized. I'm finding the
+person's real name, the real
+email address there, the job
+description. I'm sending them
+five links to developers who
+like could be a good fit, like
+I'm putting in 15-25 minutes of
+work into each one of these
+emails. So it's still cold, but
+it's not automated. And that's
+something that I don't think
+I'll ever do. Marketing to other
+developers for the workshop and
+marketing to businesses for my
+Turbo Native work is practically
+100% content marketing. It's me
+tweeting about Tturbo Native,
+building in public and releasing
+small open source libraries.
+It's being a maintainer of the
+library itself and getting my
+name in there and commit access
+and stuff. It's blogging about
+it, it's writing tutorials on
+it. It's my newsletter that I
+talked about Turbo Native almost
+every single month. It's all of
+that stuff to generate inbound
+leads. I rarely, if ever will
+reach out to companies and be
+like, hey, do you want a Turbo
+Native app? Because odds are,
+they don't. If they do, they
+probably know who I am at this
+point. And they probably either
+don't want to work with me for
+whatever reason or I'm too
+expensive. And that's fine. So I
+let everything with that side of
+my business become inbound and
+everything with RailsDevs or
+that isn't, you know, organic is
+cold email marketing right now.
+Arvid Kahl: So that's the kind
+of business side of RailsDevs.
+But the developer side, how do
+you reach these people?
+Joe Masilotti: Yeah, that's kind
+of exactly how I reach the
+developers on the Turbo Native
+side, it's all building in
+public, it's having the open
+source library. A lot of where
+I've seen developers come from,
+is like, I'll post a question on
+Twitter and be like, hey, I
+don't know how to do this in
+Rails, like, here's some code
+and I link to the RailsDevs repo
+like a pull request or code. And
+it's like, it's very innocent
+because I'm posting to the code
+that I'm talking about. It just
+so happens to be in the repo
+that I want someone to sign up
+for. So it's this nice little
+feedback loop where I ask for
+feedback, there's genuine
+questions, I get someone to, you
+know, help me with a reply or
+telling me that I'm being silly
+and I should use other jam or
+whatever. They sometimes submit
+a pull request, which is even
+better. I close that out. They
+now are aware of RailsDevs.
+People have seen that
+conversation happen in public,
+maybe someone learned something
+from it, maybe now someone knows
+to use this gem instead of doing
+what I was trying to do. And in
+the future that's documented for
+everyone on the repo. The best
+way that I've seen this work is
+having issues on the GitHub repo
+that are open for new
+contributors. This gets new
+people into the platform. It
+gets new contributors to open
+source software. And then when
+it gets merged, I can shout them
+out on Twitter with a link to
+their pull request and say thank
+you, which has actually gotten
+someone a job before. So it's
+like this really cool full cycle
+loop where I'm able to, you
+know, amplify developer work,
+while getting quote free labor
+from them that they were totally
+willing to offer for me and free
+exposure. I mean, it just checks
+all the boxes. It really does.
+Arvid Kahl: That's so cool.
+Yeah, that is also such a clear
+brand that you're building
+around the business and
+yourself. Like you're almost
+quite literally a job creator.
+Even, you know, if you take the
+job away from this, it's still
+true. I guess it's really,
+really cool to see like all your
+efforts aiming at empowering
+software developers to find work
+or to make things that make them
+find work. That's just really
+nice. And I think it comes
+around to you too. I've seen a
+lot of very positive
+testimonials out there about
+this platform, the process how
+people got jobs, like how you
+helped. Have you been like
+actively looking for these? Like
+I'm also always looking for
+testimonials, right? As a
+creator that's the thing that
+that gives us credibility. Are
+you using any particular tools
+or particular process to capture
+these and then use it again to
+find more people?
+Joe Masilotti: Yes, I'm
+collecting all the testimonials
+through testimonial.to. You had
+Damon on just recently, right?
+Arvid Kahl: Yeah, number two.
+Interview number two.
+Joe Masilotti: Yeah, I just
+finished listening to that. So I
+use his tool, which I love. It's
+a great way to just send a link
+and someone can do a video or a
+text testimonial right there and
+it's all beautiful and like this
+wall of love that you can embed
+on your website or I copy paste
+because I'm finicky with my
+included JavaScript. I like to
+have everything the way I want
+it. But the website still works
+great in terms of collecting.
+And my approach for collecting
+it is that if I know that
+someone got a job or I am aware
+that someone may be setting
+their profile, they're no longer
+looking. Or it's been a while
+since they had contact with
+someone, I'll reach out and say,
+hey, you know, how are things
+going? Keep me updated, anything
+exciting going on. It's not a
+cold email. But it is a manually
+copy and pasted generated email
+with some tweaking going on. And
+I got a pretty good success rate
+on responses on that. If someone
+says they get hired, boom, where
+can I send you some some
+stickers, a mug, handwritten
+thank you card? And if you're up
+for it, can you write a
+testimonial for me? Like, I'm
+gonna send you all this awesome
+stuff in a really cool box. It'd
+be great if you could just write
+a sentence or two about how you
+found your experience with
+RailsDevs. And that's worked
+really well. People are really
+excited to share. I mean, what
+better achievement do you have
+than getting like your next job?
+It's a huge upgrade, usually a
+huge milestone. They want to
+spread the love, they want to
+share where they found it, they
+want to help other people. And
+those testimonials really
+reflect that. And they then
+share their testimonial on their
+own Twitter and you know, just
+like this loop keeps happening
+and happening. It's great.
+Arvid Kahl: The feedback loops
+of building in public and
+empowering people in public,
+that are just incredible. Like
+they make things happen that you
+could not imagine if you were
+just sitting there hiding from
+public, the public world and
+doing your thing. What you're
+doing is wonderful. It's
+amazing. Yeah, my mind has been
+regularly blown over the last
+hour about like how thoughtful
+you are, in how you engage with
+the community, how you focus on
+the people with the least power
+in this very complicated job
+dynamics, how you make
+absolutely sure that they get
+the best deal possible while
+still empowering also the
+companies that choose to work
+with you, how you teach people
+to do stuff, to sell to other
+companies. It's just wonderful,
+man. That is so cool. I'm just
+so happy that you're on and
+sharing all these nuggets. Where
+can people go to find out more
+about you and your wonderful
+build in public work?
+Joe Masilotti: Yes, so most of
+my content is published on
+Twitter. I'm Joe Masilotti.
+There'll be a link in the show
+notes. I blog on masilotti.com.
+That's been a little less
+frequently, but starting very
+soon, that will change. I have
+some surprises coming for the
+new year. And then I also have a
+newsletter there that you can
+subscribe that's only monthly.
+So it's pretty light rounds up a
+bunch of links about hotwire and
+what I'm working on.
+Arvid Kahl: Very cool. Thank you
+so much for sharing all your
+insights here today. That was
+really, really cool.
+Joe Masilotti: Yeah, I really
+appreciate it, Arvid. This has
+been a blast. I've been really
+looking forward to this like all
+week, especially after two
+rescheduling. So thank you for
+dealing with that. Thank you for
+having me on. And I can't wait
+to listen to this when it comes
+out.
+Arvid Kahl: Absolutely. Thanks
+so much.
+And that's it for today. Thank
+you for listening to The
+Bootstrapped Founder. You can
+find me on Twitter @arvidkahl.
+You'll find my Twitter course
+and my books there as well. And
+if you want to support me and
+the show, please subscribe to my
+YouTube channel, get the podcast
+in your podcast player of choice
+and leave a rating and a review
+by going to
+(http://ratethispodcast.com/founder).
+Any of this, will really help
+the show. So thank you very much
+for listening and have a
+wonderful day. Bye bye.

@@ -1,0 +1,726 @@
+﻿Hey, I'm Arvid and this is the bootstrap
+founder.
+[Music]
+You know that moment when you realize
+that the ground has kind of shifted
+beneath your feet? I think I had one of
+these moments recently and I was
+watching my AI agents build out a rather
+complex feature for Potcan in just
+around like 15 20 minutes and I was
+something that would have taken me days
+to code probably just a year ago and it
+hit me that the rules of the game that
+us software founders are in have
+fundamentally changed and I want to talk
+about that today. So before we get to
+that, a word from our sponsor paddle.com
+because the way you monetize software as
+a service applications and mobile apps
+and stuff has also changed a lot over
+the last couple years. Not only is there
+more competition now, but regulations
+are getting in the way in many, many
+places. And that's why I personally
+choose to charge my customers through a
+merchant of record. That was a choice I
+made. I didn't want to deal with all
+this stuff. I just wanted to use an MR
+and that was paddle for me. They take
+care of all the taxes, the currencies,
+tracking declined transactions, updated
+credit cards, so that I can just focus
+on dealing with my own competitors, not
+banks and financial regulators, which
+are way more powerful and much less
+interesting to work with. So, if you
+think you would rather just build your
+own products, check out paddle.com as
+your payment provider.
+Over the last couple months, my way of
+building my own product has changed
+quite a bit. And I've been talking about
+this on this podcast like forever and I
+will keep doing it because it's just
+such a big impact that it had. A lot of
+the skill of coding solutions
+effectively has been pretty much
+surpassed by the AI agents that I use.
+Like they're better than I am. And don't
+get me wrong, I think it has a lot to do
+with the fact that I'm still very
+capable capable of specifying extremely
+correctly what I want and having a
+system built out code that is well
+specified and well commented that makes
+it easy for an agent to implement these
+things that I wanted to implement. When
+I started podscan, I built this all by
+hand. So the initial construct, the
+foundation of that is still my doing.
+And that being a collection of smart
+choices, let's just call it that, now
+makes it easy for an AI to find its way
+and build the things that I wanted to
+build. But the speed at which this is
+being built, that removes one of the
+biggest modes for me as an indie hacker
+and as a software entrepreneur because I
+used to be really good at building
+stuff. And I think as indie founders, we
+all create code that works really
+quickly, right? That advantage does not
+exist anymore because now everybody has
+access to claude or chat GPT or whatever
+the latest model in the latest company
+is that is building software
+applications for you. So that speed
+advantage that's gone. Everybody else
+has access to this. It's really not that
+easy anymore. And on the other side of
+things on the customer side we're
+looking at some kind of subscription
+fatigue. People don't want to buy
+software as a service products anymore.
+Right? That used to be the one big thing
+that indie hackers had reliable and
+anticipatable revenue from monthly
+subscriptions. Now we have to kind of
+claw at these as well and it's much
+harder to convince people to actually
+use a product. So I was thinking well if
+those modes are kind of gone right the
+years of SAS and the years of super fast
+indie hackers what are the things that
+we still have or what are the things or
+modes that we as founders can use to
+protect ourselves from competition when
+our traditional advantages are
+disappearing and I know it's kind of
+cynical to call something that hasn't
+been around for that long traditional
+but you know for indie hackers that have
+been around for 5 10 15 years stuff is
+changing in bigger ways and with larger
+scope than it used to in the past. So I
+believe that we should probably expand
+on this a bit here that the modes we do
+have are deep expertise in the field
+that we're in and the willingness to
+collaborate with our customers where
+bigger companies just see these
+customers as a number as a potential
+transaction. We do see them as a
+relationship, relational engagement with
+customers I think is the ultimate
+opportunity builder for us software
+founders, solo founders, small teams,
+bootstrappers. We should think about
+relationships where others think about
+some row in a spreadsheet somewhere. And
+I think this creates something
+interesting. We're not looking at our
+businesses as these kind of standalone
+services anymore that just generate
+measurable value for our measurable
+customers. I think it becomes much more
+of a collaborative approach to building
+services and building value for our
+customers, right? Literally for the
+person that needs it. We build it for
+them. Think about it this way. When you
+have deep domain expertise in any field,
+you really understand the pain points,
+the workflows, the unspoken needs of the
+market that you're in. That becomes your
+first competitive advantage. It gets
+interesting when you position yourself
+as the expert who codes, not just a
+coder who happens to be working in that
+domain. Then all of a sudden things
+change for you. I think we could call
+this expertise as the service model.
+You're not just selling software. You're
+not just selling, you know, login and
+people do low touch kind of okay now I'm
+subscribing to this and then you never
+talk to them. You are selling your
+approachable understanding of the
+problem space and that is backed by an
+ability to rapidly prototype and iterate
+on solutions either through AI tools or
+you just being a really really good
+developer. Your customers are aware that
+they're not just buying access to
+software, not just a tool that they use.
+They're getting access to someone who
+understands their world and can build
+exactly what they need. I have seen this
+in my own software as a service
+experience. Now I have such strong
+relationships with a group of customers
+that are also the highest paying ones
+and the most involved ones that get
+this. It's not necessarily that they
+tell me what to build, but they tell me
+what they want and they are much more
+willing to give feedback because they
+know that with this feedback they get
+stuff that fits into the workflow that
+they're already establishing. And I
+think we're very integrationheavy and
+we're going to be even more
+integrationheavy in the future. If we're
+heavily collaborating with real humans
+with real problems, we build
+integrations into existing systems
+because these people they already have a
+business, they already have certain
+needs. So we need to build something
+that fits there, right? We maintain
+those integrations over time and we have
+to make them work better in even more
+things to integrate with even more other
+things. And all of a sudden, our mode is
+not the traditional vendor lock in that
+it used to be because it's the other way
+around. In our universe, our customers
+are kept and engaged not because they're
+locked in, but because our mode is that
+we are flexible and capable of
+interfacing with new and other systems.
+We're providing data to other systems.
+We're taking data from other systems.
+We're providing reliable, important,
+critical, relevant data that comes maybe
+from somewhere else or we created for
+Podscan. That's kind of a mix, right? We
+pull in this podcast data that is
+literally created by other people, by
+creators, but we also add something. We
+analyze it. We extract it. And we just
+make it work for the people who need
+this data. We make it attainable and we
+make it manageable and accessible to
+them. That's why they interface with us
+because we have stuff that they need and
+we can give it to them in the shape that
+they need it in. That's what I've
+started doing. Instead of just building
+integrations myself, I'm trying to
+create what I think of like this
+integration marketplace around my core
+products. I think of it as turning a
+product into a platform where customers
+or even third party devs can build their
+own integrations. You take a percentage,
+you charge some part of revenue or you
+have connection fees, whatever it is.
+Suddenly your product isn't just a tool.
+It becomes this ecosystem of both
+integrations and integrability.
+And the biggest way of doing this, the
+easiest way is just have a well-
+definfined API, right? If people can
+integrate with your core product, that
+already turns it into a platform and it
+also turns it into a potential plug-in
+for another platform if you have web
+hooks and that kind of stuff. Not going
+to go too much into detail here because
+this might be different for every single
+business. But think about integrability
+and integratedness of your product as an
+important thing not just to have as a
+byproduct but as a core tenant of the
+whole strategy of how you build this
+product itself. It's an ecosystem.
+That's the idea. The idea is to allow it
+to breathe into other products and have
+other products push their data into it.
+Like just integraables. This approach
+transforms switching costs entirely for
+your customers. Instead of having this
+technical lock in, you create
+relationship depth, right? When your
+product becomes the hub that connects to
+everything else in their workflow or is
+a thing that connects to things that are
+important to them, leaving becomes
+exponentially more undesirable. It's not
+difficult, it's undesirable. Not because
+they can't do it, but because they would
+lose all these valuable connections and
+relationships. And that's something that
+people actually still care about. And
+from that relational approach to
+customer success stems a very different
+future business model, a very different
+product design philosophy. Not one of
+locking people in, one of unlocking
+things for people. I think that's the
+mental shift that I'm doing. It's like
+not how can I keep all these customers?
+How can I retain them? Right? Like
+retention, retention, ah churn. Yeah,
+sure. Those are numbers that are
+important, but maybe they can be shifted
+towards even better looking numbers by
+just making things much much more
+accessible for the people that I want to
+want to stay with the product. Where
+this happens, where you get to know how
+this works, like what the exact thing is
+that you need to do is in these
+collaborative conversations with your
+customers. It's in the feedback that you
+get. It's in the back and forth and the
+ideas that the customers bring into our
+products like, "Hey, I would like to see
+this, which is often something that you
+probably don't want to integrate
+immediately, but it's something to think
+about. Why do they say this? What do
+they need it for?" Or people come to you
+and they say, "Hey, a competitor offers
+this. A competitor has this website.
+This literally happened to me a couple
+weeks ago. I sometimes use it, but I
+don't really like it. I want something
+like that, but better. Can you do it?"
+And those kind of things of course are
+possible and you could probably come up
+with them without your customers giving
+you this feedback. But if they tell you
+and it's something that you can do and
+you do do it, then all of a sudden you
+build a really strong relationship. You
+give somebody something that they really
+wanted to have and you made it for them.
+And those kind of things can come from
+these deep conversations with customers.
+AI doesn't have to stay on the sidelines
+here. It can be your secret weapon for
+customer discovery. I've been
+experimenting with what I call AI
+powered customer discovery loops. And I
+talked about this last week on the
+podcast and over the last couple of
+weeks before as well. So instead of
+manually sifting through my tickets and
+my feature requests, I have AI agents to
+analyze for patterns across these
+customer interactions. These agents
+identify trends that I might be missing
+manually. They look for emerging needs
+like things that are coming up more and
+more before they become widespread that
+everybody talks about it and even help
+me understand where customers are and
+which of them are most likely to churn
+based on their communication patterns
+which is usually silence. People who
+don't talk they have things going on
+inside their own minds and then reality
+that they would like and reality as it
+is start to come into conflict and then
+they churn. So having people chat with
+me is actually something I like, which
+is so different from prior experiences
+with customer service where every ding
+of a customer service would kind of
+freak me out. Now it's like, hey, I get
+to see what this person needs. And any
+ding is kind, oh yeah, here's another
+fast feedback loop. And that helps me
+stay ahead of customer needs quite a
+bit. So while your competitors are still
+kind of manually analyzing quarterly
+surveys or whatever, you are responding
+to customer needs in real time. And you
+put attention to where a relationship is
+being formed. And that customer
+development becomes your own competitive
+advantage with these customers. Like
+obviously other people won't see this,
+but these customers will always remember
+how you are there. Like you wouldn't
+believe the number of times that just me
+responding quickly to a customer, paid
+or unpaid, has turned into like a 5
+minute, 10-minute conversation. That
+person told me, "This has been the most
+in-depth conversation I ever had about
+this particular part of my business." or
+I've never had a customer service chat
+this friendly, this meaningful. And they
+remember this. And not only that, they
+will tell the people that they trust
+that you are trustworthy. Right? This is
+word of mouth, the best possible way. So
+the scripts that we had until now have
+to be rewritten. I think the whole idea
+of the software business that was
+impossible to build for anybody without
+extensive coding experience in the past,
+that is gone. The software part may not
+even be relevant anymore. Right? The
+important part, if you're a software
+entrepreneur, is not the software, funny
+enough. It's the wetwware. It's the
+communication between human minds. It's
+this flow. I don't know what else to
+call it. There's something that is
+outside of all the automations that are
+ever easier and easier to build at this
+point. AI just, you know, build my
+automations. But the automation becomes
+a consequence of a conversation rather
+than the actual product. The product in
+many ways is now our capacity and
+willingness to engage and build
+solutions for the people that we are
+actually already serving. It's not to
+build a solution then sell it to people
+but to sell our capacity to build the
+thing that they want. And this is
+leading me toward the kind of solution
+concierge business model for indie
+founders. Instead of traditional
+subscriptions, I think we could just
+offer solution packages where customers
+pay for outcomes rather than just access
+to it. And you can use AI to rapidly
+prototype and iterate these solutions
+with customers and charge per problem
+solved or per integration implemented
+rather than relying solely on monthly
+recurring revenue from a central SAS
+product. So last week I talked about how
+we can onboard people using AI where we
+don't even know what people need but AI
+will figure it out with them and for
+them or we figure out who our customers
+are by having AI sift through the system
+then write the perfect follow-up email
+for us knowing what the capacities of
+our system are and what this user should
+be doing with all the things that
+they've already tried or not tried on
+the platform. But there's another layer
+here that I've been experimenting with
+and that is building async collaboration
+tooling directly in the product. Since
+human communication is becoming the
+differentiator, why not make that
+communication part of the platform?
+Think of shared workspaces or comment
+systems or updation.
+People can share how they approach a
+thing that keeps customers engaged with
+the platform daily and they see how
+others do it. That's not new, but it
+becomes something meaningful if you look
+at it through the lens of relationary
+interaction, right? You want people to
+interact with the platform, not in a
+transactional way exclusively. That's
+great if they do it, wonderful, and they
+pay for it. But if you can put a
+relational layer on top of it, now all
+of a sudden it becomes something
+meaningful. So instead of trying to
+increase engagement through
+notifications or gamification, I think
+you can increase it through genuine
+collaboration. Your customers aren't
+just using your tool. They're working
+with you inside your tool and switching
+cost becomes the loss again of that
+collaborative relationship with you and
+with others, not just the technical
+difficulty of moving data. AI systems
+have to be in there. They are
+facilitators because they do stuff in a
+way that no handcoded thing could ever
+do. They're kind of the agentic organic
+compounds in the sweatwear that we're
+building that connects things. So the
+more I see people struggle with the fact
+that AI is or is not replacing them as
+software engineers just yet, the more I
+think that these people are looking at
+that particular use case of AI from the
+wrong perspective cuz it's not really
+about the quality of code that an AI
+agent writes for you. That's not what it
+is. It's the expectable increase in
+quality that agentic AI coding systems
+are going to bring to the business in
+the next 5 or 10 years. That's what you
+have to think about, right? Just like
+email became a thing that first was only
+used by universities and technical
+businesses or whatever. Now every
+business is using it because it's just a
+commodity. The idea of custom software
+to solve your problem or software that
+is highly customizable to the point that
+it will really adequately solve your
+particular problem. That's the magic
+that is coming. That's the commodity
+that we are going to be expecting in the
+future. When AI handles the
+implementation details, your job becomes
+solution architecture and customer
+relationship management much more than
+typing things into a keyboard so that a
+machine then can read the recipe and
+make you the cake. Right? That's what
+coding is. You create a code recipe and
+then some kind of interpreter makes it
+into an application. You become a
+translator not between your model of the
+solution and the machine but between
+customer needs and technical
+feasibility. You become a curator of
+solutions, not the person who actually
+implements them. And this is where the
+relationship advantage really shines. I
+think a big company might have better
+and more exhaustive AI agents, but they
+can't have the same depth of actual
+relationship with each customer. They
+can't have the same willingness to
+customize, to iterate, to build
+something that's exactly right for one
+specific use case for that one person
+because they're already serving hundreds
+of thousands of people. So what does
+this mean practically for bootstrap
+founders? Well, you have to start
+positioning yourself as the domain
+expert who codes, not just someone who
+codes in a domain. That's an important
+shift. I know it sounds very similar,
+but it's very different. Expert first.
+Write about your industry. Speak at
+conferences. Go to conferences if you
+don't want to speak, but talk to people
+there. Become known for understanding
+the problem space deeply, not just for
+your technical skills. Honestly, the
+people in our tech community that I look
+up to the most are not the ones that are
+the best developers or the best founders
+for that matter. They're the ones that
+have chosen to share their knowledge.
+They have started a podcast. They have
+started a blog. They've started a
+newsletter. They relentlessly talk about
+the things that they care about and that
+they know. And those people I trust
+because they share. They are experts and
+they're positioning themselves as such.
+They're not just experts by the outcome
+of their work. their experts by the
+output of the knowledge that they
+receive and that they built. It's not
+just technical output, it's people
+output. Second, make integration a
+strategy, not just a feature. Look for
+ways to turn your product into this hub
+that connects or connector to hubs to
+everything else that your customers use.
+Consider building marketplace models
+around those integrations or be on
+marketplaces at the very least with your
+tool. Podscan is on Zapier. It has a
+make.com integration. All these big
+places, why would I not want to be
+there? Why would I not want to have a
+web hook ready for this if somebody else
+wants that data funnel somewhere else?
+Third would be using AI for customer
+discovery, right? Not just product
+development. It's not just an agent that
+creates code for you. It's an agent that
+can look at the people that are using
+your product, the people who come and
+try it out, the people who may or may
+not take a couple steps in the product.
+Set up systems that help you understand
+these customers better and faster than
+anybody else in your space because these
+agents can work the moment something
+happens. Collaboration needs to be built
+into your product from the ground up.
+That's number four. Make something that
+is about working with you and the team.
+Part of the value prop that you offer,
+not just using a software. It's not just
+a login and then a dashboard. It's an
+interaction with the founder. I know it
+doesn't scale, doesn't have to, right?
+You will figure out ways to scale these
+things at some other point. As hard as
+it is to tell people to talk to you if
+you don't want to be talked to, you have
+to at this point we are beyond building
+software, putting it out there and
+hoping that people will come. That's not
+happening anymore.
+Finally, you have to experiment with
+outcome based pricing models instead of
+traditional subscriptions. Doesn't have
+to happen for every SAS business or
+every software business out there, but I
+think we're moving towards this kind of
+we need a custom thing. Can you build it
+for us for every software? So you have
+to start selling your capacity to solve
+problems, not just access to software.
+And the businesses that will thrive in
+this new landscape are the ones that
+understand that software is becoming a
+commodity and solutions are becoming
+more valuable than ever. The
+relationship becomes the product, right?
+The expertise becomes the service. The
+willingness to collaborate becomes the
+mode. It's not about building defensive
+modes the way we used to think about
+them. It's more generative modes like
+advantages that actually create more
+value for everybody involved including
+your customers that even your
+competitors can be right in some ways
+like if you interact with them if you
+integrate with them. So when you're
+integrationheavy and collaboration
+focused you're not trying to lock anyone
+in like vendor lock in is a thing that I
+don't think this is going to be around
+for much longer. People are still going
+to try and do it, right? They're trying
+to make us say, but you're trying to
+unlock value for your customers. And
+when you do that consistently with like
+expertise and genuine care for their
+success, not just your own, it creates a
+kind of loyalty that is much stronger
+than any technical switching cost and
+people will talk about it. So future
+belongs to founders who I think
+understand that in a world where code is
+commoditized, creating code is
+commoditized, relationships become
+premium, where solutions matter way more
+than software, where being able to
+rapidly prototype and iterate is just
+the default and it beats having the most
+polished initial product. That stuff
+doesn't fly anymore. The AI handles all
+the implementation details and that
+frees you up to focus on understanding
+problems deeply and building
+relationships authentically. And in a
+way that also creates more expertise,
+right? If the thing that you used to do
+was like coding all day long, didn't
+really have that much time to understand
+like the deep nuance of the industry
+that you were in. But since much of what
+you do now is prompting, you need to
+know exactly what to prompt. So you have
+to spend more time reading up and
+checking things out. And then you give
+the task of actually writing the code to
+something that is much faster than you
+could ever be. And that frees up even
+more time for you to dive into your
+industry. The entrepreneurs struggling
+right now are the ones trying to compete
+on technical implementation quality or
+trying to build traditional SAS
+businesses in the market suffering from
+subscription fatigue. The ones who are
+thriving are embracing shift towards
+collaboration expertise and
+relationshipdriven business models. You
+will see this on Twitter. The people who
+are just building SAS, they're not
+talking about it not as much anymore and
+they're struggling much more. And the
+people who are just like experimenting,
+they're the loud ones because it works
+for them. Now, your coding skills are
+not obsolete at this point. Like if
+you're a developer and you're like, "Ah,
+where's my opportunity going?" We're
+just moving up the stack. Instead of
+writing functions, we are architecting
+solutions. And I know this sounds like
+business speech, but it's really you're
+becoming this person that keeps the
+model going, not the actual
+implementation. Instead of debugging
+code, you're just debugging problems and
+you're trying to figure out, well, how
+can I solve this problem? Build me a
+solution. Doesn't look right. Build me
+another solution. Okay, this is good
+enough. That's kind of how it works now.
+So, we're not optimizing algorithms.
+We're optimizing relationships with
+customers, feedback cycles, right? You
+built this, customer likes it. Good. You
+built this, customer doesn't like it,
+build another version. And I think it's
+much more interesting and kind of a more
+sustainable way to build a business
+anyway. It's more agile to use a term
+from the software development
+methodology. Right? The question is not
+whether AI replaces software
+entrepreneurs. The question is whether
+software entrepreneurs will evolve fast
+enough to stay relevant in this new
+landscape. And the tools are here.
+Opportunities are here. The only
+question is whether we're willing to
+change our approach to match this new
+reality. That's what I've been thinking
+about lately as I watch this industry
+transform around us. Podcasting is
+changing. Obviously that's my industry
+but even the whole software
+entrepreneurship field is changing quite
+a bit. Are you seeing this in your own
+business? I would really like to know.
+Are you adapting to this shift? Have you
+already adapted maybe or are you
+fearful? Like do you know where to go,
+where not to go? I would love to hear
+your thoughts. This conversation I think
+is just getting started. Technology is
+kind of pushing us towards it. That's it
+for today. Thank you so much for
+listening to the boots of founder. You
+can find me on Twitter at avidar a rv k
+ahl. If you want to know what
+everybody's saying about your brand on
+now over 4 million podcasts, parts scan
+out of mrax mentions of anything you
+want in near real time with a powerful
+API that turns podcast conversations
+into actionable data. And if you're
+hunting for your next business idea, get
+them delivered fresh from the podcast
+world at ideas.podscan.fm FM where we
+have a system that extracts the best
+startup opportunities from hundreds of
+hours of expert conversations every day.
+Share this with anybody who needs to
+stay on top of the conversation. Thanks
+so much for the

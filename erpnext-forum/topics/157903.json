@@ -1,0 +1,52 @@
+{
+  "topic_id": 157903,
+  "title": "Scheduler not processing Email Queue automatically (manual flush works)",
+  "slug": "scheduler-not-processing-email-queue-automatically-manual-flush-works",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "email"
+  ],
+  "created_at": "2025-12-11T14:22:22.909Z",
+  "last_posted_at": "2025-12-11T14:22:23.078Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/scheduler-not-processing-email-queue-automatically-manual-flush-works/157903",
+  "views": 59,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 1,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "MikesCo",
+  "posts": [
+    {
+      "id": 488668,
+      "username": "MikesCo",
+      "name": null,
+      "created_at": "2025-12-11T14:22:23.078Z",
+      "cooked": "<p>Hi everyone,</p>\n<p>I have an issue with the scheduler not processing the Email Queue automatically in ERPNext / Frappe.</p>\n<p><strong>What works:</strong></p>\n<ul>\n<li>\n<p>Manual sending from Email Queue → emails are sent successfully</p>\n</li>\n<li>\n<p>Manual command on the server works:</p>\n<pre><code class=\"lang-auto\">bench --site backoffice.mikes-hospitality.com execute frappe.email.queue.flush\n\n</code></pre>\n</li>\n<li>\n<p>SMTP (Brevo) is configured correctly – emails arrive instantly when manually flushed</p>\n</li>\n<li>\n<p>All supervisor processes are running:</p>\n<ul>\n<li>\n<p><code>frappe-schedule</code></p>\n</li>\n<li>\n<p><code>frappe-short-worker</code></p>\n</li>\n<li>\n<p><code>frappe-long-worker</code></p>\n</li>\n<li>\n<p>Redis / web / socketio all RUNNING</p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>What I already tried:</strong></p>\n<ul>\n<li>\n<p>Added <code>\"scheduler_tick_interval\": 60</code> to <code>site_config.json</code></p>\n</li>\n<li>\n<p>Restarted bench + supervisor</p>\n</li>\n<li>\n<p>Scheduler is enabled in System Settings</p>\n</li>\n<li>\n<p>No errors when flushing manually</p>\n</li>\n<li>\n<p>Emails remain in Email Queue with status <strong>Not Sent (0 attempts)</strong><br>\n→ They do <strong>not</strong> get picked up automatically after 1–10 minutes</p>\n</li>\n</ul>\n<p><strong>What does NOT work:</strong></p>\n<ul>\n<li>\n<p>Automatic scheduled processing of the email queue</p>\n</li>\n<li>\n<p>The scheduler does NOT trigger <code>frappe.email.queue.flush</code></p>\n</li>\n<li>\n<p>No errors in logs, no attempts visible in Email Queue unless flushed manually</p>\n</li>\n</ul>\n<p><strong>Question:</strong><br>\nWhat could prevent the scheduler from running the email queue job, even though:</p>\n<ul>\n<li>\n<p>the scheduler is enabled</p>\n</li>\n<li>\n<p>supervisor shows schedule + workers running</p>\n</li>\n<li>\n<p>manual flushing works perfectly</p>\n</li>\n<li>\n<p>tick interval is set to 60 seconds</p>\n</li>\n<li>\n<p>and the site_config.json is valid?</p>\n</li>\n</ul>\n<p>Is there anything else I should check, like <code>scheduler_events</code>, cron definitions, job registrations, or site freeze state?</p>\n<p>Any help is appreciated!</p>\n<p>Thanks <img src=\"https://discuss.frappe.io/images/emoji/twitter/folded_hands.png?v=14\" title=\":folded_hands:\" class=\"emoji\" alt=\":folded_hands:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/2acd7d/{size}.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 14,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,1089 @@
+﻿we
+are live welcome thanks for joining me
+for the 2021
+state of independent sas live stream and
+presentation of our report
+as always i'm your host rob walling and
+on behalf of
+me and my team at microconf i just want
+to welcome you
+and thank you for hanging out with us
+for the next 30 35 minutes as we
+as we dive into these these findings
+this is our second annual
+state of independent sas report and the
+cool part this year is not only do we
+get
+a um you know kind of a balance sheet
+like a
+state in time a frozen in time look at
+this year but we now have two years of
+data
+and i'll be making some connections as
+we go through about uh the trends that
+we're seeing
+um things like are more people moving to
+freemium or more founders moving to
+asking credit card upfront that kind of
+stuff so
+thanks so much for showing up here you
+will notice if you saw last year's live
+stream
+we had a crew and and a whole space
+rented out
+producer xander flew out and this year
+it is a covid friendly presentation
+of of this live stream um i'm sitting
+here basically alone
+in this house with uh you know it's kind
+of lonely behind me but it's me
+and my cup of tea and producer xander is
+at a safe
+socially distanced i think he's about a
+thousand miles away from here
+um producing this so i really look
+forward to uh to running through this
+with you
+and um you know once again thanks for
+thanks for joining us
+if you're unfamiliar with microconf or
+all of the things that we offer
+um i want to just take a minute to walk
+through
+how we evolved and you know maybe why
+the state of independent sas
+comes out of microconf each year why we
+decided to put this report together
+so microconf itself started as an
+in-person event about a decade ago
+and since then we've run more than 20
+events we actually had seven
+in-person events scheduled for last year
+that we had to unfortunately postpone
+due to kovid um but in addition to the
+in-person events about two years ago we
+started
+making a big push to the the virtual
+world this was even before
+um you know before covid had happened
+and so we have
+a great video vault on youtube that is
+completely free it's about 200 different
+microconf talks
+those are all free at youtube.com
+microconf i encourage you to check that
+out if you haven't
+we have some great playlists on there
+like the top five rated talks of all
+time
+and uh the top 10 talks needed for for
+bootstrapping and starting your first
+sas app in addition we have things of
+course like the state of independent sas
+um you know we have a large reach into
+that community folks who are
+bootstrapping
+or mostly bootstrapping their sas apps
+and want to build ambitious
+ambitious startups you know and
+sometimes it's for lifestyle and
+sometimes it's
+because they want to achieve something
+great but it's not going down that
+venture track
+in addition another offering we have is
+microconf
+connect which is our always-on
+year-round
+slack community we have more than 1700
+founders
+and actually that's where the action's
+happening today if you're watching
+this live stream um if you head to
+microsoftconnect.com you can
+sign up and if you're already in
+microconf.com
+it's totally free by the way you just
+head to the state of independent sas
+channel and that's where you can ask
+questions and be involved in
+the conversation around uh what we're up
+to
+it's a bunch of other stuff microconf
+does if you're not on our list i would
+head to microsoft.com and
+check us out lastly from microconf
+about two years ago we launched the
+first startup accelerator designed for
+sas bootstrappers and that's at
+tinyseed.com
+we offer a bit of funding and a heck of
+a lot of mentorship
+and and guidance through a year-long um
+accelerator program it was the first of
+its kind and it was the first remote
+accelerator that i had heard of
+of course we looked like geniuses when
+covent hit but it was it was just the
+way we wanted to do it because we know
+how spread out the indie sass and
+bootstrap sass founders are
+tinyc.com if you're curious here about
+that
+and lastly before we dig into the report
+i want to thank our headline partners
+both for 2020
+and 2021 this is hay and
+stripe we've been a long time fan of
+base camp who puts out hay
+and and stripe and they've been longtime
+supporters of microconf
+the founders of these companies have
+attended microcomps
+they've done onstage q and a's and
+they've just really been supporting this
+bootstrap
+and indie you know independently funded
+sas movement so
+one thing i would ask is if you haven't
+uh if you yeah i would ask you
+go to twitter and reach out to them it's
+hey hey
+and at stripe so hey hey and strike and
+just thank them for supporting microconf
+and supporting you know independent sas
+or supporting bootstrap sas founders
+because
+they put their money where their mouth
+is to support this community and and we
+like to recognize that and we definitely
+thank them for their support
+it allows us to do things like the state
+of independent sas survey
+that took hundreds of person hours and
+several thousand dollars to put together
+over the past
+several months and with that let's dive
+in
+so i'm looking down at my clicker if
+you're wondering why i'm doing that um
+one thing i wanted to note as we get
+into it is if you're on twitter hashtag
+i mean if you have questions or comments
+or thoughts on the report
+that's great to put put them on twitter
+or obviously in the microcomp connect
+chat
+so the 2021 state of independent sas
+report wound up being about 72 pages
+this year
+for the full report and i think there's
+a slightly shorter version
+for folks who didn't complete the report
+we shrunk it down from about 85 to 90
+last year because we felt like some of
+the
+and we got some feedback that some of
+the pages just weren't you know the
+reports
+uh graphs weren't that helpful but today
+we're gonna dig through
+seven uh there's seven topics and about
+two to three pages from
+each section and we'll run for i don't
+know i'll talk for about another 15 to
+20 minutes
+and then we're going to do q a and so if
+you have any questions about the report
+or about data or about something i say
+you know my findings
+please do feel free to weigh in in slack
+so we're going to go through the
+founders couple slides about the
+companies
+that are in the state of independence
+sas report pricing
+sas metrics marketing growth and of
+course the bonus marketing insights and
+that's the section that's only available
+to folks
+who completed who actually completed the
+survey
+so first we're going to dig into the
+founders and again i think there's
+six or eight you know pages or graphs in
+the report itself and i think we look at
+two to three here just in the interest
+of time didn't want to do a full one
+hour live stream want to make good use
+of your time so
+trying to pull out the most uh perhaps
+high level or oppression
+facts about it so first uh
+question how many founders started your
+company and
+of the respondents about 56 percent had
+our single founders and
+36 percent double uh two you know two
+founders which puts us over 92 percent
+for one and two founder teams which very
+much in line
+with our experience in the micro conf
+community and you know i think the
+bootstrap sas community in general
+obviously occasionally we'll see uh
+three and four founder teams
+but this definitely uh lines up and it's
+about equal to what it was
+last year which i think i would expect i
+wouldn't expect this to be a trend
+that changes and i'd like to call out
+that you know in silicon valley
+where they do um or anywhere they write
+venture checks usually there's a bias
+towards two or more founder teams
+because the journey is long and hard
+we actually i've kind of had a bias
+towards smaller teams one and two
+founder teams because
+we're scrappy we're cash efficient
+bootstrappers and
+um i don't know i just seen a lot of
+examples of people get to 5 or 10
+million in arr
+as a single founder or a two person team
+and you know not have the need for a big
+founding team
+our next slide is our next question is
+before founding your current company
+did you start a prior company 60 of
+folks
+have started a prior one so they're on
+their second or third forty percent
+it's their first effort and on the on
+the right there you can see that um
+about what is that about fifty percent
+never made it to 10k
+with with their previous effort um and
+then some folks are obviously you know
+if you get to a million or more a month
+and you probably had an exit or you have
+a ceo looking after your business
+and uh you're on to your next adventure
+as a serial founder
+demographics uh we look at age racial
+categories gender categories um
+this year some similarities although
+some transitions uh i think
+in a good way so i like to think of
+maybe applying to y combinator or a lot
+of
+say silicon valley startup founders are
+the 20 20 somethings and maybe if you
+get into your
+30s you're starting to be you know in
+the older the older uh
+decade with microconf it has tended to
+be and with
+not just microcosm but the whole you
+know independent sas movement i think
+tends to be a little older skew a little
+older where the peak is in that 30
+decade and it's 30 to 40 really makes up
+the vast majority what is that almost 80
+percent
+of of the folks so it is like a bell
+curve and then as you go under the you
+know the 20s and 50s um
+which i'll be joining in a few years
+actually we uh not the 20s the 50s
+we you know we have kind of a bell curve
+uh going there which is which is fun
+um racial categories you'll you'll
+notice that with racial and gender we
+add up to more than 100 percent
+um and that's because we asked the
+question as uh do you have
+or which categories are represented in
+your startup so if you have multiple
+founders
+you might have uh mo you know multiple
+racial categories or in an individual
+you might have multiple
+uh multiple categories so symbol very
+similar to last year
+racially um you know in terms of
+categories uh white i believe is about
+last year and it's 87 this year the
+uh in terms of the racial categories
+last year i believe it was 88
+white and then a real broad mix of the
+rest this year it's it's 87 with a
+little bit more of a broader
+um you know swath through you know the
+rest as you can see there i won't go
+through them all
+in gender categories there's actually
+been a bit of progress
+um it's still you know founders of sas
+companies 96
+have at least one male founder and
+last year it was either 10 or 11 percent
+had a female founder and um looks like
+we're up to 12 percent now
+and this is actually in line with the
+trends that we've seen at in-person
+microconf events back in 2011
+it was about three percent women
+attendees and
+the last time we were able to run them
+which was 2019 we were between 10 and 15
+percent
+of women attendees and always looking to
+push that forward of course um
+but it is something that's slowly
+changing perhaps you know
+i think too slow for a lot of our tastes
+but um over time i think we're gonna see
+you know the expansion of of these
+demographics you know
+becoming more diverse hopefully all
+right
+let's dig into some company metrics
+in addition to you how many full-time or
+contract employees currently work at
+your company
+so we
+there's a lot of single founders as we
+would expect with no employees so that's
+about 38
+and then between no employees and up to
+four
+employees were at almost uh what about
+and that reflects on a lot of the cash
+efficiency
+uh of sas companies as well as
+uh they're more early stage nature you
+know of a lot of these but look there's
+almost 20
+with five to 19 employees so um there
+are definitely some
+more advanced companies as you'll see
+with mrr later that that are
+applying have you raised funding for
+this company
+so we have 14 who raised some type of
+funding the vast majority was between
+000 and 500 000. this was up from it was
+either 10 or 11
+last year so it's up you know that's
+that's a
+not inconsequential uh uptick in that
+and
+i subscribe that or ascribe that to
+i think there i mean i predicted this a
+couple years ago in a microsoft talk
+that it used to be bootstrapped and
+venture and you either in full control
+or you know you
+kind of the meme like you had to sell
+your soul to the venture capitalist
+but there's there's these things that
+are in between now there's these
+the bootstrap funding for bootstrappers
+like tinyseed like indie.bc these are
+these are funding that doesn't come with
+the typical strings attached and allow
+you to
+you know to run an llc and run a
+profitable company and not need to exit
+in the next three five years or have an
+ipo and i think we're going to see this
+trend continue
+where funding is not only available
+without the strings but it also is maybe
+destigmatized
+um to where it's not a kind of you know
+religious debate or buying everything if
+i've raised funding or i didn't and so
+i'm in this club but it's like
+i'm i'm bootstrapped or i'm mostly
+bootstrapped you know raising 100 000
+you're mostly bootstrapped still it's
+not like you suddenly have millions in
+your bank
+so there's some more a lot more
+information about funding in the report
+this one i think is fun i like that
+which of the categories below best
+describes how you develop the idea for
+this product
+or company and the cool part is last
+year i think we only had two or three
+selections and a bunch in
+other but we expanded it this year such
+that we could um
+have much more detail so 45 was a
+problem
+that i was experiencing so that i'm
+eating my own dog food
+i am uh scratching my own itch as the
+you know as the kind of meme says
+what's interesting is i would have
+expected that number to be higher
+the there's a bunch of other problems
+that exist that don't necessarily have
+to be your problem if you're an aspiring
+founder who doesn't have an idea
+think about these other areas to look it
+may not just be a problem you have
+maybe it's the 22 percent who saw a
+problem their customers or their clients
+were facing
+maybe it's 12 or 13 almost who
+experienced a problem at their day job
+and wanted to fix it
+eleven percent a problem a friend or
+relative was experiencing and only eight
+percent
+was research so keep that in mind like
+seeing problems in everyday life all
+around you
+are this this is the way you keep that
+idea notebook you keep that list
+and and you start looking at how you
+could potentially solve them and have
+people pay you money for them
+i think it might be time for a break
+just a little quick joke uh
+if if you uh haven't been part of a
+microsoft in the past
+microconf is about some bad jokes people
+it really is
+so here's one why don't
+cats make good chairs
+because they keep dropping the tools
+that one's rough i'm sorry about that we
+need to laugh track next time because
+that was that was awful so we're gonna
+dive into pricing
+and we talked about last year we had
+more of a narrow view
+of of pricing we asked about monthly
+annual and
+monthly and annual together this year we
+realized when we looked through the
+others from last year there were people
+doing metered
+pay as you go revenue share is pretty
+fascinating so uh people could check
+more than one right because if you have
+monthly and annual you check both so 47
+of people said they charge monthly which
+i would expect to be more to be honest
+since you can check multiple because
+monthly and annual you know i don't know
+i would think that number would be 70 or
+but 47 36
+annual and then 7 metered and and the
+rest
+these next four i find especially the
+next three i find really interesting
+these are all about free trial credit
+card before free trial and freemium
+and these all shifted from last year to
+this year in a
+way that i i've been talking about on
+the podcast and i had
+predicted in my microconf europe talk in
+do you offer a free trial for your
+product so 71
+said yes last year that number was 64
+percent so
+we need to see this trend over many
+years and maybe it's a blip this year
+but
+i'm curious to see three four five years
+does that free trial just continue is it
+73 74 next year is it 78 the year after
+it's going to be really interesting to
+see so again it was 64 free trial
+last year and we're at 71 this year
+and then this one is when a customer
+registers for a free trial
+does the company uh record do you
+require a credit card upfront in order
+to in order to get the trial
+and the yes this year was 21
+and last year the yes was i think it was
+25 it was in the 25 to 27
+range so moving the free line not even
+the free line moving the ease of getting
+into your or your application
+line right uh fewer credit cards is
+going to result in more leads
+you then own the lead and you need to
+figure out how to convert them so i'm
+not saying everyone should do this
+especially early on
+in your um i think in your app's
+lifetime it can be
+easy to try to just have freemium and
+let everyone in and not take feedback
+from the right people
+but once you've kind of nailed it and
+you start to scale it i do think that
+moving the free line is really an
+interesting idea for those who kind of
+have a hold on their numbers
+similarly with a forever free plan 27
+said yes this year last year it was 21
+so six percent more but i mean if six
+percent
+compared to 21 is almost a third right
+it's like
+yeah almost a third more people more
+companies are offering forever free
+plans
+forever free plans can be dangerous if
+you don't know what you're doing it's
+easy to like a samurai sword easy to cut
+your arm off it but if you're a master
+with it you can do some amazing things
+and forever
+free plans can work uh it's not
+something i would necessarily recommend
+for everyone lastly we didn't ask this
+one last year
+so i'm curious to see the trend i was
+surprised that almost 26
+of of the sas companies that were you
+know respond to this survey
+said that they charge some kind of setup
+fee and so we'll keep tracking that over
+over the years but obviously
+ideas you know if you're not charging
+one and you feel like it might be
+something you want to think about
+there we go section 4 sas metrics
+monthly recurring revenue and you'll see
+in the graph the yellow is
+this year's and the blue is last year's
+and we have definitely edged a little
+more towards
+uh the later stage there are fewer early
+stage folks
+but the graph is very similar to last
+year where it's it's not a bell curve
+but it's just a sliding curve of
+it's like a funnel more people make it
+to higher revenue marks
+pretty much almost without exception and
+that's the way you think about it
+you know if there's if i'm making up
+numbers a million people with an idea or
+who want to have an idea and
+the 200 000 come up with the idea and
+then 40 000 actually build and launch
+something
+and then 10 000 actually get to you know
+less than 1 000 i mean this is the
+pattern that we see i think in
+communities like like
+the microcosms the indie hackers and and
+so on
+over the past three months what was your
+average revenue churn
+uh what's really interesting i would
+actually think this would be higher but
+i guess since we're dealing with later
+stage companies they've they figured a
+lot of this out
+net negative churn almost 13 of
+companies that's
+awesome that's like the golden ticket of
+sas less than one percent churn
+almost a fifth of companies and less
+than
+you know from net negative all the way
+to uh less than three percent
+is it's what about sixty fifty sixty
+percent
+of companies so it's a lot of companies
+are down in that really nice tight low
+churn range i also find it interesting
+that what about eighteen percent of
+companies don't know their churn
+my hope is that's because they
+are so early stage that the churn is
+bouncing all over the place because if
+you are at
+5k 10k or up and you don't know your
+current that's that's a problem so
+that's something
+you're going to want to know about so
+look at some growth this is perhaps the
+most interesting section of
+of the report at both years this is
+where we look at the growth
+of each individual company how many
+thousands of mrr
+per month that grew in every month of
+its lifetime since first paying customer
+until the time of the survey then we
+correlate that
+with different factors like number of
+founders
+so does more founders correlate to you
+know faster growth
+uh what are some other things we look at
+churn and ltv and nps all these things i
+want to remind you that correlation does
+not equal causation so we can't say
+well having three founders implies that
+you'll have faster growth
+it just says that those two things have
+moved in lockstep uh for these companies
+so first one is founder count versus
+growth and what's interesting here is
+last year
+this just went up and to the right and
+so two was better than one
+better two correlated with with faster
+growth three faster growth and two and
+four was faster growth than three i
+found that puzzling
+because i at a certain point i feel like
+there's a lot of cooks in the kitchen
+and you know does the app really benefit
+or does your company really benefit from
+having that many founders
+this one is more in line with i think
+maybe a personal kind of sense that i
+have
+um but where once you have four or more
+there's perhaps
+uh you know decreasing uh you know i
+guess like decreasing returns on it
+but who knows we'll see when we get to
+year three the 2022 state of
+independence has to see if this pattern
+holds or not the other thing to think
+about is if you're trying to get to
+default alive or just trying to get to
+where you can quit your day job
+realistically if you have one founder
+versus two you probably need you
+probably want to go twice as fast in
+order to
+get to the same quit your day job date
+and if you have three versus one it
+should be three times as fast and that's
+not quite true with this graph but
+anyways it's interesting to look at
+nonetheless founder hours versus growth
+and while
+it basically says the more hours the
+founders work uh the
+it's correlated with faster growth well
+i wish that wasn't the case because i
+wish that i could work 10 or 20 hours a
+week and still have faster growth
+i think you can look at this two ways
+one yes probably investing
+more time i think within reason i mean
+once you get to above 40 50 hours
+it's decreasing returns but within
+reason
+um more time is gonna probably get you
+more progress especially in the early
+days where you're just kind of grinding
+it out
+the other thing to think about is
+perhaps the apps that are growing
+faster that are growing faster
+are the ones
+yeah there is um sorry i got distracted
+there but the
+it's growing faster but
+an app that's growing faster might
+make uh motivate the founder to focus
+more on their company
+right so if the app starts doubling
+doubling doubling well then i'm gonna
+quit my day job now i can work 40 hours
+that type of thing
+all right ideal customer this definitely
+falls in line i think with
+traditional i think that the wisdom
+traditional traditional wisdom you would
+hear from the microcom stage
+and things that you know i've been
+talking about for years on the podcast
+bigger customers tend to pay you more
+money and therefore your company does
+grow faster now there's a headache
+factor of dealing with them
+obviously you know dealing with a
+company that's 250
+employees versus one that's five there's
+a lot more decision makers
+probably need soc2 compliance or a
+google audit in order to uh to do that
+but
+in general consumers churn more it's you
+know it's harder to
+they have lower lifetime value as a
+targeted market there is that anomaly
+you'll see with the um
+uh kind of aspiring entrepreneurs and
+there's a lot of influencers in that
+space and if you
+get traction with them like you know
+they say leadpages did and you do a lot
+of marketing you can get
+really fast growth early on even if
+there's high churn uh but so
+that's what i'm seeing in this graph
+forever free
+versus growth and actually there's free
+trial versus no
+versus no free trial and then forever
+free versus no free trial
+and so free trial only let's see if you
+don't have a free trial
+which i i'm guessing is more of like a
+demo flow which probably means you have
+a higher price
+then there is you know look it's up
+about 13.50 versus let's say around
+1000 or eleven hundred so maybe a twenty
+percent faster growth
+correlated with not having a free trial
+and again that's not to say i should go
+out and remove my free trial today
+but you know perhaps it's the business
+models that that attack that have have
+demos and then forever free plan yes or
+no
+pretty close looks like it's about 10
+difference to me it's it's not worth
+um that's you know that's so close that
+it almost doesn't matter
+credit card up front uh before a free
+trial
+and you'll see that um asking for credit
+card is just over twelve hundred
+and not is around a thousand so about
+twenty percent faster if you have a free
+trial asking for
+uh credit card and i feel like maybe
+some more mature
+businesses move towards that that could
+imply that
+this one right in line with exactly what
+i would think right
+lifetime value is a it's inspired a lot
+by your price point
+higher price point typically higher
+lifetime value and also
+churn the lower your turn the higher
+your lifetime value so if you have a low
+turn
+high you know monthly fee or annual fee
+i would expect your company to be
+growing faster and that is essentially
+what this graph says those two
+correlate okay we're in the home stretch
+the marketing extras
+and i need to i need to tell you joke
+before we do it so
+um do you know why html
+developers don't like restaurants
+because they hate the table layout
+thank you yeah we got some sound effects
+html developers did i just say that
+front end developers is what i meant
+sorry hello 2009 called it wants its
+verbage back
+all right advertising versus growth um
+this is a good one so again we're
+correlating growth with different ad
+channels and one thing you'll know if
+you look all the way to the right of
+this graph there's an other with
+quite a few uh with a lot of growth and
+so we're going to dig into the other
+results and
+probably break them out next year so
+that we can you know dissect that a
+little further
+i'm actually surprised and pleasantly
+surprised as someone who runs events
+through microconf that event
+sponsorships
+folks who use event sponsorships as um
+as
+advertising and as lead gen are actually
+growing
+quite quickly and then you'll see
+actually i can't see in the graph it's
+interesting it's covered by a
+little piece of something on my screen
+oh it's twitter and linkedin ads
+so linkedin i'm not actually surprised
+by because if you're going b2b or beta
+enterprise
+i think you'd be growing twitter i am
+surprised by so that's
+i don't know have you looked into
+twitter ads kind of an interesting thing
+and then of course uh you know google
+and facebook
+down a little lower but i think i wonder
+if our are fewer people using them and
+so they're
+less expensive roll it into the home
+stretch i think we just have a couple a
+couple left
+which marketing activities have had the
+most impact on your revenue
+this year word of mouth obviously number
+one the strong
+um kind of lavender color over there 22
+percent
+seo and then you'll see like the next
+three are seo
+and or next to i guess our seo and
+content marketing which kind of
+go hand in hand uh and then email uh i
+don't know i guess it's partnerships and
+email marketing after that so
+those are the big five right those
+that's what a lot of people talk about
+and uh i think if you're not leveraging
+three
+three of those five you're probably
+probably missing out
+last lee before we get to questions if
+you have your questions please post them
+in and producer xander we'll be
+sending them my way as soon as we wrap
+um in-person and digital event
+attendance
+versus growth it's kind of we kind of
+asked it tongue-in-cheek the very first
+year of like well i wonder if it'll show
+that the more events you attend
+the faster your growth and it kind i
+mean it kind of does although the the
+decreasing returns is after 13
+after 13 events so don't go to 13 or
+more events
+again this is correlation not causation
+but thank you so much for joining
+i would love it if you would tweet with
+hashtag
+microconf and link to
+stateofindysass.com to spread the word
+about this report the report is free
+people can download it they just have to
+enter their email and again we've put
+hundreds of hours thousands of dollars
+into developing this and the more
+founders that can get this in their
+hands uh we would love it we've also
+posted to
+hacker news and indie hackers if you're
+on there and could
+look for our post about the state of
+independence sas
+that would be great and i'd love to have
+you love to have you
+participate next year if you didn't this
+year get on our microphone mailing list
+we don't email that frequently and we'll
+let you know when the next
+survey opens and with that
+we're going to roll into questions
+flip in here to my handy dandy question
+doc
+okay yeah yeah yeah okay this is a good
+question from somori
+he's a frequent microcomp attendee he
+says are you a founder if you bought the
+sas business from a previous team and
+you plan on moving in a different
+direction
+i mean yes for the state of independent
+sas we do consider and for microconf i
+mean you're running a business you're
+the owner of the business
+i think we get tired of it's like we
+could say the ceo but some founders
+aren't the ceo we could say the business
+owner but that's cumbersome
+we do use the term founder i know
+technically that means i found it i
+started the business
+but in the state of uh you know in this
+survey we actually do have a spot of you
+know how did you come up with the
+business idea
+and you'll see there was i purchased the
+the company that was one
+option so i would say yes does the data
+about accepting funding include
+non-dilutive funding you know
+we didn't specific non-diluted funding
+are things like grants
+um i suppose a loan you know like a
+revenue-based financing
+we didn't ask specifically about that
+but producer sander if we could make a
+note of that
+for next year because that would be
+interesting to to
+sift that out you know i
+actually now that i'm thinking about it
+i remember the slide that says the
+funding types which obviously wasn't in
+this
+talk for for time purposes but in the
+actual deck itself or in the pdf
+i do believe we broke it down and rbf is
+one of them i don't know if we have
+grants in there though so that's
+that's uh good all right why do you
+think the trend is moving
+towards freemium okay yeah so this is a
+good question i think the
+the trend has been moving that way for a
+while i think in the 2005 to 2010
+time frame i remember a lot of people
+doing freemium it was the big kind of i
+raised venture funding and i want to get
+as many users
+as many free users as i can so that i
+can go public type thing
+then that kind of died off and it
+switched and as we started bootstrapping
+and
+building real businesses charging real
+money to real customers
+it became we kind of wanted to to prove
+it up front that a customer is willing
+to pay us before we spent the time
+to pay for costly servers and and costly
+development time and all that
+things have gotten cheaper they've also
+gotten more with aws
+and and heroku and all that things have
+also gotten more competitive
+and i think that's where the freemium
+and removing the
+credit card comes in is if you're in a
+space with 10 competitors and one
+competitor goes freemium or one
+competitor removes that credit card
+requirement
+they are now owning more of the leads
+and over time they will eat
+in to you know they'll eat into the
+market
+um so that's that's the trend i would
+expect it
+you know to continue for better or worse
+and i i think again in the early days
+you're having conversations you're
+getting early customers in who are
+willing to pay
+but at a certain point it's something to
+consider i'm still really
+you know i won't say on the fence yeah i
+guess on the fence about when and
+exactly
+uh how you should do it i've actually
+had ruben gomez on
+startups for the rest of us if you
+haven't checked that out it's podcast to
+record every week
+and we talked specifically about some
+instances when you should consider
+freemium
+and when you should not so if you search
+his name uh we talked through three or
+four things that if you
+these are in place you really shouldn't
+do freemium because every space
+doesn't support it very well and with
+that
+all right i know we have another
+question maybe the lab well yeah
+last question unless another one comes
+in soon interesting
+that you focus on mrr dollar growth per
+month wouldn't percentage be more
+relevant after
+a certain mrr level
+you know perhaps but the problem with
+percentages
+is if we say i'm making a thousand
+dollars an mrr
+and i grew and i grow by a hundred
+percent this month
+then i'm at two thousand dollars mrr but
+if i'm at
+a hundred k and i grow by a hundred
+percent i have to grow
+another 100k to go to 200k so
+percentages b they change over time it's
+a sliding scale
+and so that's that's why we do absolute
+dollar amount
+um because frankly if you have an engine
+that is driving
+x amount of visitors per month that can
+x amount convert to trial and ex of
+those
+convert to paid that engine will give
+you
+not linear percentage growth but it will
+give you linear dollar growth
+right 100 to ten
+to five through the funnel will give you
+five new paying customers every month
+and if you're charging fifty dollars a
+month that's 250
+every month every month that's great so
+that's a linear growth curve but if you
+look at the percentages it will decrease
+over time as your mrr goes up
+which makes percentages i'll say a
+non-ideal
+metric or way to look at this kind of
+growth
+and with that we're going to wrap up
+thanks again for
+for joining for sticking around for the
+questions if you have any additional
+questions
+you can feel free to ask them in the
+slack we'll be paying attention there
+obviously you can always tweet at us i'm
+at rob walling
+and at microcomp great to have you
+joining us today
+and we'll be running this survey again
+in probably august or september and have
+another report the third annual
+state of indy sas for 2022 coming out
+again to you next year
+thanks to the rest of the microcof team
+and producer xander
+for uh helping me fight through all my
+technical issues today
+i hope you had a great time and we'll
+see you next time
+[Music]
+you

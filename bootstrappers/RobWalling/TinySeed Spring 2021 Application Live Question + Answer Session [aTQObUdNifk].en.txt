@@ -1,0 +1,2031 @@
+﻿yes oh it's gonna i hope people show up
+quick
+otherwise i'm gonna keep going why do
+front end developers always eat lunch
+alone
+because they don't know how to join
+tables
+because i know yeah no it gets really
+bad dude
+as a friend developer
+[Laughter]
+you know how to join tables yeah did you
+write much sql back in the day tracy
+actually no i just know i know the
+theory behind it but i
+use the frameworks that just abstracted
+all that away yeah
+actually it does it does make sense for
+me i take it back
+yeah um let's see what else we have uh
+oh yeah yeah this is a good one this is
+one i always i don't think i tell from
+the microcup stage because it's just a
+little too complicated for me to
+memorize the whole thing but a
+programmer walks into a bar
+and orders 1.000019 root beers
+the bartender says i'm going to have to
+charge you extra that's a root beer
+float
+and the programmer says well in that
+case make it a double
+i mean come on there's two punch lines
+in there yes
+hello everyone welcome in case you
+missed it
+there it's bad joke time right now as we
+let people uh people show up
+ooh xander's old boss is here xander our
+producer
+so producer xander's in the background
+folks see him
+in the chat thanks everybody for showing
+up
+we're going to talk about everything you
+always want to know about
+tinyseed and weren't afraid to ask today
+i don't know we could uh i can tell this
+chat is going to be very distracting
+this is great i know
+i know this is my first time on a
+webinar
+that's it's just discreet
+xander has more pressure now his old
+boss is here
+that's not that's not good oh
+oh someone's telling joke dan lane says
+how about what the agnostic dyslexic
+insomniac did you have to follow up with
+that
+dan all right
+why did i run away from freezing
+minnesota matt kramer uh i just you know
+well this is the first time we could do
+it because kids are always in school and
+it's coveted and the kids are remote so
+we uh decided to head to california
+dan lane's follow-up to the dyslexic
+what was it insomniac he stayed up all
+night pondering the existence of
+dog so the insomnia was staying up all
+night that
+okay all right oh my god let's stop this
+i get it
+i think i think we'll stop it then hey
+let's let's kick it off with this
+someone asked uh
+a question why is it called tiny seed oh
+i like that one
+actually i am actually curious about
+that myself because i joined probably
+about six months after you guys
+started chinese i never thought to ask
+yeah and remember a r we threw around i
+think i still have a doc somewhere of
+all these ideas we're coming up with and
+you i think the one you liked most was
+super critical do you remember this you
+said super critical is assignment
+you did you did we were trying to come
+up right here
+i told i told sherry i was like he wants
+to call it super critical and she's like
+i'm not a fan yeah and i was like well
+it's like a mathematical construct or
+something like that right isn't it a
+computer science construct
+uh yeah i can see myself making a joke
+about it but i doubt i really appreciate
+it
+i think i don't remember when we ended
+up with tiny there was a bunch of seed
+stuff uh
+small we want it small like you know
+start small stay small micro
+conf i mean it just micro seed i think
+was in there
+yeah i think tiny seed is in part like
+if we could get the domain for
+not too much money is what i think yeah
+that was another like that was part of
+it that seems to be the part of every
+naming decision now is like what's the
+dot com
+huh yeah right just like startups
+yeah can you get the.com yeah i didn't
+want to be like no no it's dot co
+or dot io or dot u s or whatever yep
+or tinyseedfund.com which is what we had
+for a couple weeks remember that
+cool well we have uh we got 125 people
+in attendance it looks like it's
+starting to level out we're four minutes
+in so i think we're gonna
+um dive in thanks thanks to everyone for
+joining us today we are going to talk
+about
+um tinyc to answer your questions give
+you a you know a refresher
+on who we all are if you haven't seen us
+at microcomps or
+maybe heard us on startups to the rest
+of us in the past because all three of
+us have been on
+several times um so i'd love to pass it
+to a nr
+you want to give yourself a little
+introduction and are the co-founder of
+tinyseed
+general partner and uh what else do you
+do man
+that that was pretty much it like that
+was my intro that's the deal that
+all right you know i'll leave it at that
+i think
+compute former computer science
+professor at cornell university
+and probably a better job than he is
+yeah you lasted a year there right
+wasn't that
+you know i was more like three but yeah
+great okay
+so you know my wife also was a professor
+and it just got old for her
+the the meetings and the politics and is
+that why you
+i i i quit because i wasn't happy there
+and then i looked at all the tenure
+professors and i'm like half of you guys
+aren't happy either even though yeah
+yeah yep yep
+cool and then tracy osborne the program
+manager of tiny siege keeps that we like
+to say she keeps the train
+running on time i want to say anything
+to the folks tracy before divan
+yeah i i basically run the the
+day-to-day operations of tennessee
+accelerated program i help coordinate
+the
+interactions to the mentors the calls
+that we do
+weekly all the miscellaneous questions
+people have essentially my
+my job comes down to just making sure
+that the founders get what they need as
+fast as possible
+and in my previous life i was a startup
+founder
+um i shut down before i joined tinyseed
+before that
+was in well my background is in design
+in front of development but i kind of
+moved into doing a little bit of
+everything
+like programming and marketing and sales
+and whatnot during my startup job
+so it's kind of it's fun being here at
+tennessee it's really great that you
+know
+the job is literally just to help
+founders do more faster
+better and without you know a lot of
+like anxiety or
+anything like that just making their
+life better yep
+awesome that's what i should have said
+that's what i meant to say actually
+that's what yeah
+ditto we'll come back helping founders
+since 2018. yeah um cool so
+uh quick overview of tinyseed um
+and you know i mean i'm gonna assume
+everyone has like read the website so i
+don't think we need to
+to really uh go back through that but
+tracy you want to just talk
+briefly it's like we're one year remote
+accelerator focused on sas
+you know what what else what else can
+you offer folks
+well yeah yeah one year remote
+accelerator um which is really awesome
+we were
+remote before covet hit so as a lot of
+sellers are moving remote because you
+have to
+our program was designed so that people
+can do the program wherever they want in
+the world and so we have was it
+one fourth of our founders are non-us
+which is really awesome as well
+um and we'll get to some that's one of
+our most asked questions is whether
+we're back
+on us founders we'll get to that in a
+second um but essentially the program
+is designed so people can join the
+program from wherever they want they can
+travel they can be remote
+um it's always been like that normally
+we have
+in-person retreats and that's like the
+one thing that we had to change with
+covid uh so we had to move those online
+because of
+for safety reasons and you know
+hopefully for the third batch
+we'll have some opportunities to do
+things in person again cross our fingers
+we'll see how things go
+um we run weekly calls uh
+everything is optional one thing i try
+to emphasize for the program is that
+we want it's not like a school there's
+nothing required there's no homework
+there's nothing like that because we
+know that founders are really busy
+heads down working under things and we
+don't want to get in the way of that
+when founders are you know in a flow
+state
+but we're there when founders need help
+and we help them get those answers
+faster
+so you know say you're working on your
+marketing you're moving out to sales we
+have a
+bunch of resources to help you get
+started sales faster than say if you're
+starting from scratch
+so a lot of it we a lot of the program
+is just designed to help founders
+you know get those answers they need
+like i said in my introduction as fast
+as possible so they can go back
+and do awesome work on their startup as
+fast as possible
+very good we have questions pouring in
+if you want to ask a question we'll
+obviously be getting to those in just a
+minute
+there's a q a button at the bottom
+that's the best place to ask them you
+can ask them in the chat but we may we
+may not get those we're really looking
+in the in the q
+a section so thanks everyone for
+weighing in uh from italy we got india
+we have uh
+all number of places um on this call
+today
+yeah there you go yep um
+so in our vulset you want to talk uh
+briefly about
+tiny seeds basic investment terms and
+then we'll do
+yeah so our investment terms are for the
+fundamental level what we do is we
+invest about 120 000
+uh for the first founder and about 60
+000 per additional founder
+um and for that we take standard
+somewhere between
+around about 10 equity usually we're
+we're a price round
+so we're not a note or a save or
+anything like that um
+basically the one thing that's a little
+different from us is that we
+um because the kind of companies that we
+back so b2b sas companies they
+once they get past like a million or two
+or three and in a r
+they can inflict being very cashflow
+positive um and so
+what we basically ask the founders to do
+is to
+to um to sort of align investors and
+and and founders is to say you sign sign
+a site letter that says
+you know once you hit a specific salary
+cap then
+any any other sort of renovation that
+you're taking out of the company
+uh goes out as dividend and then we
+participate or our investors participate
+in
+in those uh in those dividends pro rata
+and
+um we're not particularly stingy about
+the salary camp like we don't feel like
+there's
+any point in trying to squeeze founders
+for you know the
+every dollar that comes through um so i
+think you know
+usually our or actually just decided our
+uh our salary cap going forward will be
+um 250 000 us dollars per
+per year um and it it sort of
+and and some people say that's super
+high or whatever but really what we're
+trying to
+we're trying to say is to say these are
+the kind of companies that can get to 5
+or 10 million
+a year and in that case they can be
+taking out you know
+two three four five million dollars in
+profit every year
+and in that case it's important that uh
+investors also get to participate a
+little bit in
+you know to compensate for the risk that
+they took earlier um
+so that's really the main things um
+there's some stuff around like we have
+probably rights we basically try to
+there's two things we're trying to do
+one is to
+sort of align founders and investors and
+also
+sort of preserve optionality for the
+founders so
+we think a lot of the successful
+companies will end up never
+never raising money again and and that's
+totally fine that's
+sort of what we expect but we also think
+that you know one or two
+uh sort of 10 to 20 of the companies
+will decide that actually
+you know they want to step on the
+venture train and and maybe try to raise
+a lot more money and then sort of shoot
+for the moon in that case
+like we we sort of preserve that
+optionality for founders and we will
+um you know we will defend our pro-rata
+rights in those companies and and
+help you guys fundraise on the other end
+of that too if that's what you want to
+do
+verratta rights means that if we own 12
+of your company now and you raise
+another round
+that we have the option to put in more
+money in essence and
+and defend our stake rather than to be
+diluted in case folks haven't heard of
+that
+that's true so i just picked up one
+question in the comments there's a
+specific formula or structure you'd like
+to see
+with dividends to keep investors
+founders underlined and it's pretty just
+straightforward it's like okay for the
+first 250 000
+you take it out of salary and then but
+if you have five million dollars in
+profit then
+everything above that 250 we get the you
+know it gets kicked out as dividends and
+you know we own 10 if we own 10
+of your company then we get 10 of the
+dividends that's just that's how it goes
+pretty simple that's where equity is so
+simple i mean we looked at six or eight
+different models
+when when i were first trying to come up
+with how are we going to
+invest in companies that are not on the
+vet may not be on the venture track
+may never sell and but but dude in a way
+that
+that helps the founder it's pro founder
+but it provides enough of a return that
+we can raise money because we have to
+raise money and provide a return to
+investors otherwise there is no tiny
+seed right so it's this careful balance
+much like when you're launching your sas
+you want to charge ten thousand dollars
+a month but no one will buy it so you
+have to lower your price you know
+it's this real balancing act um and
+that's why we
+landed on equity is because we didn't
+want the terms to be super complicated
+and the further we got into
+oh it's it's you know maybe a payback or
+a profit sharing or this and that if
+there were just
+tons of if thens in the in the bullets
+as anna and i were getting confused
+about our own terms that we were writing
+and finally we said equity has been
+around
+for hundreds and hundreds of years right
+since what is it the dutch india company
+i think that was like the first
+company that sold equity to other people
+and it's a proven thing
+it's not something that kind of we made
+up and had a lawyer draft it's like it
+it just all makes sense and people know
+how to think about it
+like some of the moral sort of revenue
+based financing debt products you end up
+in a situation where as investors you
+have to go and audit
+your portfolio companies which that
+sounds terrible to me
+yeah so we like to keep it simple and uh
+pretty
+pretty chill so we are gonna get into
+some other questions if you have
+questions obviously it looks like
+there's a lot coming through
+um post them down in the q a section
+we're going to zip through
+a few frequently asked questions that i
+think we've already received as well
+today
+um we'll start with tracy do we invest
+in non-us companies
+yeah so non-u.s companies founders can
+live everywhere like i mentioned
+before but in terms of where your
+company is incorporated
+first off if you are a us if your
+company is incorporating the us either
+as a
+corporation i think c corp not s corp
+that's correct right rob
+llc yeah llc that is the easiest way for
+us to invest in you
+if you are incorporated elsewhere we are
+working on it so we made our first
+non-us
+investment last year in scraping b which
+is a french corporation
+we want to uh invest in more areas it
+kind of comes down to
+lawyer effort and legal fees and all
+that kind of stuff and so if you're a
+non-if you're a non-us founder and your
+company is incorporated other than us
+and what we recommend is to apply
+anyways because
+then we can have a discussion with you
+if you get onto the next round and
+whether it makes sense
+for us to look into investing in your
+company
+uh and excuse me in your company's uh
+country
+there we go or if we want to help you
+reincorporate the us which is what a lot
+of the founders do because sometimes
+that has advantages as well if you're
+wanting to raise money again after tiny
+seed
+it might make sense for you to
+reincorporate the u.s anyways and so we
+have a stripe atlas deal
+that will help you go through that
+process um but long story short
+essentially
+uh we recommend you apply anyways so if
+you're a good fit
+we can have a discussion with you um in
+our interviews any
+the interview part of the process
+yeah and it all comes down to cost i
+think i saw anarch commenting someone
+asked maybe on twitter
+you know it was almost like well it'd be
+great if you could just invest in any
+company
+anywhere no matter where they're
+incorporated and you're like yeah but
+it's like if it's like 50 grand in legal
+to close in you know i mean some of
+these especially like in europe there
+are some pretty
+complex tax implications right of of us
+owning
+um a german company or whatever i don't
+know i don't know which countries are
+complex but
+it can get complicated so we're just
+trying to balance that
+all right do you and or do you invest do
+we invest in non-b2b
+sas companies mostly not
+um basically like there's if there's
+some
+services piece to it you know that's
+fine like we often see
+quite mature you know b2b sas companies
+that have some services component and
+that's okay
+if you're pure services probably not um
+if you're pure b2c
+also probably not like um mostly because
+those kind of b2c markets tend to be
+winner take all and
+quite often requires a lot of capital in
+order to in order to succeed or do a
+land grab
+the the sort of where it gets sort of a
+gray area and where we quite often are
+interested is sort of the more
+be to sort of prosumer rather than
+consumer so in that case we probably
+would
+yep and my pat answer
+with these questions tends to be if
+you're in doubt apply
+because it take it's not going to take
+you more than i don't know 10 20 minutes
+to fill out the application
+and and we'll look at it and it depends
+on a lot of things it's like we don't
+say
+oh b2c in my head i don't say my
+criteria or not oh if it's b2c then i
+don't look at it but i do
+i do get concerned when i look at a at a
+company with a nine dollar average
+revenue per customer per month it's like
+oof that's going to be tough to grow so
+instantly i have a question of
+how are you going to increase that do
+you have plans you know and or
+if churns 12 then suddenly it's like
+okay so we have a little bit of an issue
+there what are you doing for that so
+it's it's not so much for me that it's
+b2c it's b2c businesses tend to have
+you know numbers and unit economics that
+make it uh
+a challenge to grow to a seven figure
+business which really is
+the goal right it's a million and up and
+that's if if your aspirations are to
+grow a half million dollar lifestyle
+business that's awesome but
+tiny seeds pri it's probably not a fit
+for us but if you say hey i want to get
+to a million bucks in
+annual revenue or more then that's
+that's really uh
+where that's our sweet spot all right
+tracy
+um do we invest in idea
+or pre-revenue companies and or do we
+have a minimum
+excuse me a minimum arr and someone
+asked i bel or mrr i'm sorry minimum mrr
+i had a question on indie hackers
+yesterday where it's like is there a
+requirement in order for me to apply
+you know is there a minimum i was mrna
+no there's no require there's no
+requirement anyone can apply like that's
+the thing again it doesn't take you a
+ton of time
+and we're okay to look through it but
+what we've found
+is that you know the patterns we're
+seeing uh you know kind of
+you know lean us in a direction you want
+to talk a little bit about that tracy
+yeah i mean it's kind of like a lot of
+people know y combinator as well and
+even
+you know the process of playing or
+applying to y combo or tiny seed when
+you're going through the application
+process it's actually going to teach you
+a little bit about your company
+in terms of the ways that you can talk
+about what your company does and kind of
+share those thoughts and
+save those answers for future
+applications or future resources
+down the road and we keep the
+application fairly short so
+we do say that the chances of you
+getting into tiny seed
+um if are the highest or sweet spot is
+between 500
+to 20 000 in mrr mrr
+monthly um so that means that if you are
+below 500
+it calls into question whether you
+have hit have you proven your product
+your market need essentially so and that
+also applies for pre-revenue startups
+because what we want to see and what our
+program is kind of designed for is for
+people who have kind of proven their
+market need and they're trying to scale
+to the next
+next level i think rob calls it escape
+of velocity
+so if you're below 500 you might be
+still working on that like figuring out
+your market figuring out where you need
+to go
+and the program of tennessee won't
+really fit for that
+category that you're in same thing it
+goes if you're super successful and
+we've been really honored but there's
+been some people who have been over 20
+000 they're like hey can we join chinese
+because the mentorship and some other
+things we have
+and that also is actually not the best
+best fit for a program because that also
+means that means that you're in a
+different stage
+so we kind of recommend between 520 000
+because that means you'll get the most
+out of the program the most out of the
+education and the 101s and everything
+you do
+people you'll be closer to what other
+people in the batch are going through
+and
+kind of you know for the full year
+you'll be working with
+the other people other founders and the
+cohort kind of going to the same
+problems together
+so like rob says definitely feel free to
+send in an application
+we'll review it yet gets you on our
+radar if you're
+um say pre-revenue or just starting out
+but your chances of getting a tennis
+seat are greatly increased
+if you're over 500 in mrr does that make
+sense rob
+yep yep and i'll add a i think an
+adjustment or maybe perhaps a a
+difference in mental model for me i
+think of it as 500
+and up so i don't think there's a cap at
+20. i think in both of our batches that
+we've done so far we've had folks get in
+who are
+higher than 20k mrr so while that is i
+think where a lot of people
+say yeah sweet spot actually i think
+yeah yeah yeah sweet spot but
+they're we are absolutely open to folks
+doing
+30 40 50k mrr because and we do get
+people applying with that who say
+that you know i don't need the cash
+right now that's not going to make a
+huge difference but it's it's the
+mentorship it's the network it's the
+being in the batch it's it's all that
+stuff so yeah i i like to think of it as
+no max
+um on the on the mrr yeah
+i was just going to say yeah it's it's
+awesome to see these applications roll
+in no matter where you are because again
+the application is short
+and it gets you on our radar and allows
+us to gives us a way that we can start
+chatting with you about what you're
+doing the company and what we can do to
+help you out
+right and we've had multiple people
+apply to two of the batches or sometimes
+three and it we just continue to have
+conversations with them you know and
+get updates over time and figure out if
+they're fit for it longer term
+all right uh next question what is your
+policy regarding repeat investments in
+the same space
+so basically a product with a high level
+of overlap with an existing portfolio
+company
+so a nr if a company applied that is
+essentially
+competes you know i don't know head to
+head or even has overlap
+in a market what do you think we're
+we're doing with tiny seat here
+i mean i think if they came in and they
+were exactly the same position and
+exactly the same revenue and exactly
+like competitive then we might
+have second thoughts but the way that i
+think about it is like our goal is to
+invest in hundreds
+and hundreds of companies over the next
+few years and so
+even if we had a very strict policy
+where it was you know we're going to do
+nothing competitive then
+people are going to pivot after we
+invest and eventually something will be
+competitive so
+so yeah we don't have a policy against
+uh against
+competitive products um i do think it
+makes it slightly harder
+uh just because you know we already have
+some existing
+you know relationships with the
+portfolio companies but i don't think
+it's a disqualifier now
+all right we have a question from
+twitter how many months would you
+average the churn rate over
+for a small business that for a small
+business that could impact the result
+or ltv quite a bit i may have had 33
+percent churn last april
+but i guess that's too far back to draw
+meaningful conclusions about the current
+state of the business i'm going to take
+this one
+and either you can chime in if you feel
+like you want to add more i mean yes it
+is volatile
+but when your pre-product market fit
+it's all over the place if you have 33
+churn
+and that is a consistent thing then you
+basically lose all your customers every
+three months
+that's not a that's just not a viable
+business at all so uh
+personally i would look back at the last
+couple months i you could just give
+if the most recent if it's six seven and
+eight percent churn or your last three
+months
+just say the most recent month you know
+and if it's if you want to average those
+three that's fine
+but i wouldn't even look back over six
+months um in my book
+typically churn if you start to hit that
+product market fit spot
+um churn does become a consistent
+number relatively right it might bounce
+before between three and four percent or
+three and five percent but
+none of those have such a dramatic
+impact on this on this question
+so do the best you can and you know you
+can always say
+i believe it's a text field right i
+think you can say it's six percent this
+month but the past few months have been
+this right or i mean
+we read through these it's not like
+we're computers interpreting these
+things so
+if you just want to say hey churn really
+is bouncing around but this is my best
+guess then that that's cool too
+you know and and we'll start the
+conversation
+uh next question we've grown really well
+in the past year
+doubling revenue now our arr
+is around six hundred thousand dollars
+so they had applied
+previously and the question is i feel
+our valuation now
+may be a bit above the standard
+investment terms for tiny seed since
+you're doing so much revenue is there
+any flexibility
+whether it be higher funding or lower
+equity for later stage companies
+who may want a tiny seed investment in
+our goal set what do you think about
+this
+yeah i think so i mean um
+certainly i mean we're reasonably
+flexible i think i mean most of our
+investments will be in that sort of
+sweet spot where we're doing
+you know 120 yeah 10 12
+but yeah we've in the past we've given
+higher valuation slightly lower
+equity but we're never going to be in a
+position where we just take an advisory
+type share like two or three percent
+that's just not interesting for us
+all right question about what industries
+and companies did you see thriving due
+to covid this year
+that may hit a plateau in a post-covered
+world i think all chime in certainly
+podcasting took off like a shot and but
+i don't necessarily see it plateauing
+and i feel like the zooms and the remote
+meeting tech
+certainly took off and but again i just
+i don't see that necessarily going
+going back i still think people are um
+are going to be using them
+moving forward i think some of the stuff
+was just like it was an accelerant and
+people are like oh this works out
+like i think like remote healthcare is a
+good example of that like certainly that
+exploded since
+covert started but now people are like
+actually i much prefer to take getting
+my doctor to answer on a video call
+instead of
+being in a waiting room full of uh you
+know smiley kids yep
+yep all right question from garrett
+lancaster
+we just started providing annual
+payments or annual
+yeah annual payments where people can
+pay in advance for a year should we
+amortize those when calculating
+mrr in the application a r yes
+that's the right answer that's how you
+got to do it that's if
+you go to raise funding if you go to
+sell like you know sell your company or
+anything
+that's how sas metrics are done so yes
+if you accept a payment for
+if you have if you're charging 100 a
+month you accept a payment usually you
+give what
+fifteen percent or two months free so
+you accept the payment for a thousand
+dollars for the next 12 months of
+uh of service to a customer then you
+have to take that thousand you divide it
+by 12
+and you spread it over the next 12
+months
+all right tony chan oh
+uh where is oh i i think you retweet
+yeah sorry there's a that was not a
+question
+um marcel foley my sas isn't launched
+yet
+but it's already making a thousand
+dollars or more in
+mrr or more than a thousand in mrr
+because the first customer couldn't wait
+and was happy already with the mvp am i
+right for the program
+say yes please call us these are the
+ones again
+if you're in doubt apply like we're not
+you're not going to get in trouble
+it doesn't we're not going to be mad at
+you um
+it's uh you know what i mean it's like
+if you're in doubt at least we can then
+because
+oftentimes for me it's like well it
+depends i'd love to see your numbers i'd
+love to hear more about your business it
+depends on what space you're in you know
+it just depends and if you fill out the
+application then we have that and it's
+you know 15 or 20 questions you can fill
+it out and
+and we can take take a peek at it okay
+we do have a question from tony chain i
+believe we had to miss
+some a miss mispaste misfire
+xander had pasted in a tweet he was
+about to tweet into tony's question so
+tony says i believe you're looking to
+fund 20 to 25
+companies which is two times more
+than previous batches how we maintain
+all the intimacy camaraderie
+with a bigger batch so batch one was 10
+and batch two
+was 13 and he's correct i believe we'll
+be or in the neighborhood of 20 this
+time
+it won't be 25. i think it'll be about
+20. i do too yeah
+tracy how do you uh intimidating for
+this
+yeah it's funny we went from 10 to 13
+but the second batch has actually more
+double
+like two founder companies and so the
+number of founders
+doubled around that that is a lot more
+this time around yeah so we already had
+like
+some some thought process put into the
+second year to kind of keep this like
+intimacy that we were able to capture in
+the first year
+uh so we try to mix events
+like have us like good online
+it sucks we have to do everything online
+again because of cova because the easy
+answer is hey we'll be doing like live
+excuse me um in person retreats and
+that's really awesome for us with uh
+camaraderie but we can't do that now
+with kovid
+so we've been doing online retreats
+which is unfortunate it's over zoo but
+it's more safe
+we have we have to do online retreats
+throughout the year with all the the
+founders together we kind of
+combine it a business plus fun
+so like presentations and showing what
+people are up to and then playing games
+together we played among us
+we've done trivia we've done these other
+things to kind of you know keep up the
+fun even though everyone is you know all
+over the world
+and in terms of the day to day program
+we have a mix between
+calls that involve everybody in the
+batch
+but also we split people into smaller
+masterminds because
+when it's everyone in the batch when you
+have 20 plus people in a call it's
+really hard to like keep up the
+camaraderie it gets very overwhelming
+you don't want to listen to that many
+updates
+so we do split people into smaller
+masterminds so they can have like a
+small group that kind of is
+you know in their their company like
+their companies kind of fit together
+so that people can share their updates
+in a smaller group and
+the tennessee team joins these
+masterminds as well um
+and so they get kind of that like more
+intimate one-on-one
+uh aspect with the other companies in
+the batch that way so basically i want
+to say is we kind of split the
+difference we have like some
+large events that involves everybody
+together and we have some small events
+to kind of keep it less over make it so
+it's less overwhelming
+yeah and the bottom line is even with
+batch one
+when we had ten companies and i believe
+we had maybe had 12 founders
+it was already that all batch calls were
+kind of big and we knew that
+unless we were going to fund eight
+companies a batch we had to get from
+that
+you know that it's the issue of hey we
+have one web server
+going to two is hard but going to three
+four five
+is easy because you figured it out and
+at the moment we did batch two we were
+like
+we need to have smaller groups we need
+to do masterminds just what tracy has
+described
+and that worked really well and we found
+it work perhaps bet you know better than
+the
+the all group uh approach so us now
+scaling
+from 13 to 20 i think is going to be
+easier than even when we went from 10 to
+13 you know and had to do that split
+so it's good next question we have good
+numbers on market size for the united
+states and there is most definitely a
+large global market but we haven't been
+able to find great
+data should we take a stab for the
+application or just use the solid
+numbers
+we do have in our
+sorry i was looking at all the other
+questions oh man all right so
+i would say i keep looking at the
+questions i would say just use the
+market size that you have just say hey
+in the us that we think the market is
+this big and i mean we're not
+you know again we don't you know the
+market doesn't need to be a billion
+dollars to be a tiny seed company you
+know if you can grow to 5 10 20 million
+like that's a win for everyone
+so use what you have and and again you
+can you can clarify
+and you can say we've looked and the
+data on the world is is unclear
+maybe it's estimated at this from these
+sources but the u.s data is this and and
+computers we're looking for is like have
+you thought about it you know like
+you really thought about is there this
+is a big enough market for it to be a
+reasonably meaningful business yeah all
+right jason knox asks i'm filling out
+the application i have a question about
+customers inputs customers in quotes i
+have because i think we say how many
+customers do you have
+i have a b2b sas system where we have 15
+000 active free users
+but only 25 paying advertiser customers
+obviously 15 000 looks better than 25
+which should i use for customers
+so a user is someone who isn't paying
+you and using your app a customer
+someone who is paying you money
+so that's my interpretation and we've
+never had this question internally but
+i would not want to see 15 000 because
+then if you're if your
+mrr is a thousand dollars then you're
+going to divide that by 15 000 and your
+average revenue
+per per customer is going to look crazy
+small so
+i would say if people are paying you
+they are a customer otherwise they are
+just a user
+any thoughts from the other tiny seed
+panelists on that
+no i think that makes sense all right a
+question from cyprian amarillo he says
+is edu slash research tech
+under your domains of interest yes
+i don't do we have a domain a b2b domain
+that isn't in our interest like we don't
+i haven't seen one that i've i don't
+think we've had an applicant where i'm
+like oh
+we don't invest in podcasts or you know
+i mean
+that's not how we think about it we
+think about sas that serves a need
+usually for a business or at least
+someone who's not super super price
+sensitive
+and it's paid on a subscription you know
+it has the mechanics and kind of the
+metrics of a
+of a subscription uh software company
+do you have a preferred formula for ltv
+my preferred formula i use use what
+you're comfortable with my preferred
+formula is to take your
+um your average revenue per
+user and you divide it by your churn so
+if your average revenue per customer
+is 100 a month and your churn is 5
+you divide it by .05 that gives you two
+thousand dollars that's a lifetime
+that's the simplest one there are
+use use what you want if you're pulling
+out of bare meta don't use anything you
+want use one that's reasonable but
+if you're pulling out of barometrics
+profit well chart mogul stripe
+and it's giving you mrr that's fine you
+know and or if you're in summit
+and you know those they they do they
+don't all calculate them exactly the
+same
+but they are close enough for our
+purposes and if it shows at
+1850 versus nineteen hundred and fifty
+dollars for a lifetime value
+those are approximately the same in you
+know for all intents
+uh for our purposes george horn asked
+knowing what you look for
+in startup knowing that you look for
+startups that are already generating
+revenue here's our situation
+we are uh we're off the gates we are
+yeah i'm trying to think we we've gotten
+off the starting line generated around
+000 euros in 2020. last year however
+also included a pivot and we did not
+launch our new product yet so the 50
+50k comes from an api solution which we
+no longer focus on
+while the new sas is essentially
+pre-launched how does that make
+how does that make us as a candidate or
+not for your third batch
+i think this is another one of those
+like apply and then we'll see
+um you know because we need to know a
+little bit more than that like it's it's
+like why did you pivot and
+what are you people getting into and
+like you know you know all that stuff so
+do you already have traffic right do you
+have traffic channels that were using
+the api that now would use the new app
+or is it cold start you know it's all
+that stuff right we would need to
+so i would say the same i would say
+apply we'll have a look and
+you know have a conversation if uh i
+think it could be a fit
+can salary caps be adjusted over time
+with inflation or
+market changes a r so prior to today
+just so folks know if you missed it
+our salary caps were based on a software
+engineer's salary and the closest major
+city
+and when we did that it was adjusted
+over time
+as of today we've just announced and
+we'll we need to announce this a little
+more
+a little more broadly later in the week
+but we have made a flat salary cap for
+everyone
+in tiny seed that is a quarter million
+dollars u.s
+so it's 250 000 that you can pull out of
+your company before you have to um you
+know before you
+can before you need to take dividends
+right so the question then in our can
+salary caps be adjusted now that we've
+raised it to 250k i think it'll be a
+while for now
+yeah it feels like this i mean like 10
+years from now if 250 if inflation goes
+completely out of control and
+250 is the dollar is worthless yeah we
+can we'll definitely talk about it like
+our goal with the salary cap really is
+not to like
+like the return from investors doesn't
+come from like squeezing the most amount
+you know
+whether the salary cap is xyz the return
+really comes from
+companies doing really really well and
+like all we're trying to say is if
+you're taking out
+10 million dollars in cash every year
+it's fair that our investors get to
+participate
+right is the investor dividend based on
+the equity
+yes it is so if we own 12 of your
+company
+and you you pull out dividends then tiny
+that's how tennessee gets paid
+like tiny seed gets 12 of the dividends
+if there are multiple founders do you
+require all founders to be full-time
+so one clarification i'll throw out is
+to be to qualify as a founder for our
+funding
+you um you know because we pay 120 or we
+we fund 120k for the first and
+60k for each additional to qualify as a
+founder the individual needs to own
+15 or more of the company
+and to qualify for the funding that
+extra 60k
+that person would need to go full time
+on the company if they decide not to
+that's
+fine we will you know if we want to fund
+you we'll still fund you but you would
+get the funding for one founder
+correct that make sense all right
+okay neil cocker okay so he says just to
+be clear
+it's not a non-dilute clause you just
+get a preferential shared deal in order
+to maintain your stake on the cap table
+this is the question about the side
+letter i um so
+so really what the side letter is is
+mostly around
+uh the salary cap and sort of says okay
+you're i'm the founder if i'm taking
+once i get to 250
+000 in salary above that i will kick it
+out of dividends
+everything else is in the sort of
+standard equity terms like
+if we own 10 percent we have a prior to
+right in the subsequent rounds
+to defend our 10 stake that's the
+non-diluted part of it the side letters
+is simply to do with the dividends in
+the salary cap
+very good uh
+unanswered okay uh what are some of the
+factors you look at before onboarding a
+company i understand that tinyseed
+prefers b2b sas and a company
+in the revenue stage what factors other
+than
+those we have a big list huh
+there's a lot of times as fast as
+possible so i've answered a lot of
+questions okay um so we're getting we're
+doing pretty good but yeah that we
+should answer this one live
+okay yeah i mean i the the bottom line
+is we have a we have a dock that's like
+42 different points and it's like
+traction and the you know the the team
+do they have this
+experience what's the product like you
+know all the things you would think
+about if you were trying to evaluate a
+company
+when i mess this on a podcast or in a
+situation like this i say
+there's three p's that i look at it's
+the people
+it's product market fit do you have it
+or not and it's price sensitivity
+so the people is obvious it's like are
+the founders uh either experienced in
+this space so they have a unique
+advantage or are they just
+folks who are shipping and getting
+things done and have they made progress
+you know probably probably doing it on
+the side have they shown us that they
+can ship and get traction
+product market fit do you have it or not
+that that's where we look at the revenue
+stuff if you have zero revenue
+you don't have product market fit no
+one's paying you uh there's you know a
+point
+product market fit is obviously not a
+binary thing it's a continuum so
+how what what's your turn like the lower
+your churn in general
+um the lower you know the more product
+market fit you have
+um and there's a bunch of stuff we could
+talk about there about do you have
+channels of customers coming in and
+signing up and onboarding and not
+churning well then
+you know you have have a little more
+product market fit there and the third
+one is price sensitivity if the most you
+can charge your customers is nine
+dollars a month or fourteen dollars a
+month
+it's not impossible to build a
+multi-million dollar business on that
+it's really really really hard you have
+to be in a massive space with massive
+uh lead flow so those are like three
+high-level
+things that that we look at um your
+existing traction certainly is one
+um traction can be a lot of a lot of
+users it can be a lot of customers it
+can be a lot of revenue
+uh anything else to add either the other
+panelists
+no i think that makes sense i mean like
+we often look at like yeah industry
+experience is a big thing
+like if you're if you're doing a b2b sas
+in the construction industry and like
+you've
+been selling sas software or dealt with
+it in the construction industry that's
+obviously a huge plus but i think you
+sum it up pretty well
+excellent um question i'll pass to anar
+is there an
+option to buy your equity out in the
+future so to buy
+tiny seed out uh
+the short answer is no um and really the
+the answer for that
+just boils down to um the kinds of
+outcomes that we think will happen
+in certain cases like we think there'll
+be some companies that
+you know uh will get to the we'll just
+take off like a rocket and sell for 500
+million dollars
+um in which case uh you know we
+it doesn't make any sense from an
+investor perspective for
+for us to just have some sort of an
+agreed upon uh agreed-upon price that
+where you can
+reba repay the um the equity that in
+that case it becomes much more of a debt
+type product um and when you have more
+of a type product
+then you need to be a lot more
+aggressive as an investor
+to to get capital back quicker so we
+don't really want to do that we think of
+ourselves as like long-term investors
+aligned with the founders we don't
+really want any money coming our way
+unless you're also putting money in your
+pocket basically
+yeah from the start we decided we don't
+want to be
+alone we don't want to be alone that you
+pay back
+and we want to be in your corner for the
+long term
+that's exactly how i think about it and
+if you can pay us back
+a multiple and oh you know now we don't
+know anything that's like why i'm
+what's our incentive to like help you in
+the long term and help you get there
+right so
+i have always liked if i was going to
+raise money for for any of my companies
+for drip especially it was going to be
+equity because i wanted people who were
+in it
+and it's just the most there's a reason
+our terms are the way they are
+you know we we take equity it's simple
+we um
+uh you know we have the salary cap and
+it's pretty much
+and then we go and then we're and then
+essentially we're business partners and
+we're a super minority partner right we
+don't have all this control that that
+some other investors may
+uh look at but that's that's it and that
+we don't take
+net profit we don't take top line
+revenue which many
+um you know independent kind of
+financing or these alt funding
+aspects do and then the reason they need
+to do that is like inner said they need
+to get that revenue back so fast because
+they do
+allow you to buy you know to buy some
+equity back although
+i would say that the the terms uh you
+see online for some of them are maybe
+not
+not the ones that are being submitted to
+uh everyone so so be
+be careful with that um these these
+if-then-else clauses can be uh pretty
+complicated
+all right do you invest in s corpse we
+cannot legally invest in s-corps yeah an
+s-corp cannot take it's purely a law
+thing but they cannot take investment
+from a
+fund so we can invest in c-corps and
+llcs
+you can you can you can reasonably
+easily give up your
+s corp designation and become there are
+some
+pretty enormous benefits to that
+actually particularly if you're looking
+to sell so
+if particularly in the us if you're a
+c-corp
+and there's some qualifier stuff but
+pretty much broadly
+if you're a c corp and you have hold
+that equity or owned that company for
+five or more years
+and then you sell then there's something
+called qsps which is
+qualified small business stock which is
+an exemption that means that
+when you sell for the first 10 million
+that comes your way or your investors
+way
+uh you don't pay any tax at all
+including at least in the federal level
+so there's no
+not even any long-term capital gains so
+there is actually a pretty big benefit
+to switching to a c
+corp um that's that's probably worth
+exploring but yeah no we can't we're not
+legally allowed to invest in an escort
+and we have had a few yeah if you want
+to have a path through entity that's
+really important to you then an llc is
+the way to go
+and we have had a few companies apply
+with scorpion convert i believe
+yeah we've had a couple of portfolio
+companies who've been llcs who've
+decided that you know what a c corp is
+better for me
+and then convert what is the process and
+timeline once the application is
+submitted
+tracy osborne i can see you looking at
+other questions did you hear me
+i'm typing really fast for all these
+things i heard you got a question yeah
+um so this is actually repeated after if
+you submit an application
+an email that gets sent from me to you
+to the applicant
+that kind of runs through the process
+and essentially we're spending the next
+so the applications are for two weeks
+and
+uh we'll start reviewing applications
+probably starting next week but it takes
+us a while depending on the number of
+applications we get
+um our first round of updates
+uh maybe we're trying to tell people if
+they're not a good fit for tennessee
+we're trying to tell people as fast as
+possible
+hopefully that'll be coming at the end
+of the month um but if you don't hear
+from us that means that we're still
+reviewing your application
+so reviews are probably going through
+february uh hopefully in february we'll
+start
+sending out acceptances but that's where
+we have our calls and our interviews
+starting with me moving on to robin
+aynar
+um and then after that process is due
+diligence for people who have gotten a
+initial acceptance into tennessee which
+is also a part of the process that i
+didn't really have a good appreciation
+for until i was in this position
+i never really realized that it doesn't
+end even after um
+you know a investment firm says that
+they want to fund you then there's a
+whole
+like month plus process of talking to
+lawyers and reviewing docs
+that's essentially the process for a um
+accepted company
+for people who are not good fit like i
+said we'll get back to everyone
+eventually um and we try to be very
+upfront and clear about that
+yeah one one thing to point out there is
+that although like if we present a term
+sheet
+and even though after the term sheet
+there is a bunch of diligence that looks
+at your corporate structure and the
+legal stuff
+like we won't change our terms um after
+issuing a term sheet unless we find
+something really really bad
+so like it'll take a while but if we say
+okay we've decided to invest in you then
+that's
+you know sort of our words are bond in
+that regard yeah and that's part of the
+reason why it's the applications are now
+but the next cohort is starting in may
+it just gives us time to go through that
+whole process
+yep and we fund in what march or april
+depending
+and depending on how long due diligence
+takes and then may 1 is essentially the
+start of batch three and it runs for a
+year
+from there jason weibert asks how do you
+approach
+applications where the person has
+previously acquired a sas
+anything in particular you would look
+for in that situation
+so if you've previou is he
+anyone is he asking he bought yeah if
+you previously acquired one and you're
+working on a new one
+then all our criteria would would apply
+it's just a new sas but
+if you have bought a sas and you're
+trying to grow it
+i would say apply with it and just point
+out hey i bought this sas
+x months ago and you know again it's a
+conversation but we are not opposed
+um it we're probably not going to fund
+you know
+50 of our batch of acquired sas but it's
+certainly not
+a deal breaker or anything that would
+disqualify you we would just love to
+know that and have a conversation about
+that to know you know your history with
+with the app that work yeah
+what hap tracy what happens after the
+one-year accelerator
+yeah that's a great question um tennyson
+is not officially in like once you're
+part of tennessee you're actually a part
+of tiny seed forever so you still have
+access to
+um mentors and one-on-one time with the
+time you see
+team the only thing that really stops is
+the call schedule and the mentor calls
+we have
+um it's just like essentially your day
+to day or week to week
+activities end people usually can you
+continue the masterminds that they had
+set up
+during the tiny seed year and then they
+can continue paying me for help and
+ask for mentor help and be a part of our
+slack community or receive uh they get
+notifications of whenever we get a new
+perk from a partner
+so essentially it's like you you pretty
+much stay into tiny seed but you don't
+have any other obligations for calls
+yeah and i mean to give people an idea
+there's only you know we have ten alums
+right from batch one because batch two
+is still going on
+and i still talk to you know a good
+chunk of those alums i mean i believe i
+had
+two calls last week probably in the past
+when the holidays messed up
+but in a given month i probably have
+like four calls with alums because
+either i reach out and just like hey
+miss talking i'm curious to hear
+or you know they reach out to one of us
+and
+they either need an intro they want uh
+you know talk to a mentor they want to
+talk to me and get an opinion i reviewed
+someone's deck last week you know
+there's
+like tracy said it doesn't end it's just
+the curriculum and kind of the hardcore
+program uh
+you know uh uh transitions but
+you're always always a tiny seat founder
+and again when we have in-person events
+because time is a microcon fund
+there will be things around microcom so
+whenever we have like in-person events
+as well
+yep if you were evaluating two similar
+companies i'll send this one to a r if
+you're evaluating two similar companies
+and could only invest in one what would
+be the most important criteria for you
+in your
+decision making and i would i would just
+say there is no one
+criteria it really depends and it sort
+of ties into the question coming down
+down at the bottom there too like is
+there any month-to-month growth
+percentage that we consider favorable
+i feel like it really depends on where
+the company is like
+you know like you know if you're very
+early and we're probably a little bit
+more understanding on like variable
+churn and things because you're kind of
+early
+uh you know but but we'd probably like
+to see a bit more growth then
+to be honest with you and if you're
+later and more established then
+you know if you then also have quite
+high churn that would probably be a
+concern for us
+so if i pick something like churn is
+probably the main thing like
+if i have two very very similar
+companies and i have one company that
+has
+a two three percent churn a month
+something like that and another one that
+has
+20 then i'm gonna go with the low churn
+pretty much all the time because it sort
+of suggests that
+people are happy they're sticking around
+they keep paying they're just doing
+their thing versus
+if you're churning it those kind of
+numbers suggest you haven't really found
+product market fit
+even though maybe you're very good at
+selling for convincing people to buy but
+then when they get in and use it it
+doesn't fit their need or they don't
+want to use it anymore
+next question is you said you have two
+batches a year
+which yes it's a that's a new thing
+starting in 2021 because we were able to
+raise
+our second fund so this next batch which
+is three it starts in may on may first
+when is the next next application
+process and when does the next batch
+start
+so i'm going to throw out i mean we've
+like loosely thrown this around but i
+believe
+next applications will open in july
+that's six months from now
+and then the next batch would start
+november one
+and if we you know we'd have a meet up
+in october or something if we could do
+that is that
+because we have micrograph that's why i
+was anticipating yeah yeah so that's our
+it's not set in stone this year is it's
+you know
+going to be just another interesting
+year we think so we have to play by ear
+but that that'd be the loose timeline
+for that and we got to get through these
+applications first
+every time we go through an application
+process it kind of informs how the
+application process ago
+should go next time so i hesitate to put
+out any dates or
+deter like good and solid information
+until we've gone through
+this month yep well there's a good
+question about that yes
+will there be a second application later
+in the year yes if so and applying in
+january feels a little premature for my
+company
+but later in the year will be better
+would you advise waiting to apply later
+or applying now to get
+on the radar
+interesting question i don't know i
+would think apply now
+it doesn't hurt it's just that's the
+thing i keep thinking is it doesn't hurt
+it doesn't we're not offended or we're
+not
+it doesn't give us a bunch of extra work
+it doesn't bother me to read through an
+application
+and it it again if it takes you 15 20 30
+minutes
+yeah if you replied and you were at like
+80 mrr
+and you know all right and then just
+like starts just a little too early and
+then six months later you came in and
+says hey i was
+i was at 80 now i'm at xyz right then
+you have solid data points that you're
+not just making that stuff up so
+yeah that's cool yeah and i do i don't
+have a
+uh it's not like an automated system but
+i do manually we'll track some people
+and
+note in their application the future
+applications that they reapplied and
+those numbers in
+so it's nice to have that data available
+too um it's definitely not
+like a huge factor i think in reviewing
+it just it can help and if you don't
+think it's like gonna take you like our
+application is pretty short
+so if you don't think it's going to take
+you like a huge amount of time then you
+could do it and there could be an
+additional benefit
+um later on the road but if you're if
+you are
+swamped you're working on some big
+things you're pretty sure that that
+you'd wrap
+you think you'd be better fit this
+summer and you don't have the time to do
+an application
+it's not going to hurt your your summer
+application if you don't do one now
+all right if there's some i'm going
+through some questions that are
+duplicates and cutting them out because
+we only we have about seven minutes left
+and questions continue to pour in
+thanks so much everybody for for uh
+hanging around man we're still at 115
+people that's great
+um okay in the application form you ask
+what is the total what is your total
+team size full time plus part time
+is this the number of founders as as
+defined by rob earlier or does does
+include contractors
+so this is this is total team test
+because earlier on we ask you
+who are your founders and you list them
+out so we can just look there and say oh
+you have two founders but this includes
+yeah your team size if you have two
+full-time employees and three or four
+contractors that are working a
+reasonable amount you know
+then include all that in the number if
+you have a contractor who you hired this
+month to do a one-off report and they
+did 20 hours of work like
+i wouldn't include them on your team but
+it's people you're doing recurring work
+with
+again take your best guess if you need
+to qualify it that's fine
+it doesn't you know there's no writer
+there's no right or wrong answer to
+these it's just for us to get our head
+around what what your business looks
+like
+okay there may be other expenses apart
+from salary would all of that be
+deducted
+before calculating the dividend
+absolutely nr you want to you want to
+talk about that
+yeah i mean dividend dividends is
+literally like what is the leftover
+profit
+that you know once you once you've done
+everything you want to do with the
+company
+if you if you have you know a bunch of
+money coming in a bunch of revenue
+coming in and you decide to
+reinvest all that into your company
+there is no money left over for
+dividends so
+you know by definition uh expenses are
+are taken away first
+yeah and that's the thing we are not we
+don't take net profit we don't take top
+line revenue so none of that matters
+it's
+if you as the founder we want the
+founder to be in control so if you want
+to leave
+uh you know half a million or a million
+dollars in your business bank account
+and not pull it out as a dividend
+it's not like that passes through to us
+or that we automatically get that it's
+the moment that you take out
+a distribution to the founders that's
+above your salaries
+then you take cash out and we get our
+pro rata share of that that's that's all
+it is so there's no fail
+there's one asterisk to that if you are
+an llc corporation
+and you decide you have a million
+dollars in profit that's true
+then because you're an llc and we own
+part of the llc
+that gets passed through and so you have
+to distribute enough to cover
+our taxes at least and probably it makes
+sense for you to do so to cover your own
+taxes
+yes thanks for thanks for pointing that
+out that's that one exception basically
+no one leaves a million dollars in cash
+in a sas business so
+it was it was an outrageous example but
+um
+all right how do you compute monthly
+churn if only yearly packages
+are being sold
+i haven't even thought about that i
+would to be honest just google it
+and see what people are doing i mean if
+i were to think off the cuff
+um then you should well assuming you've
+been around for a year you should see
+how much people are churning each month
+yeah i don't know i might need to take
+that one offline and kind of think about
+how i would handle that
+i don't know if ain't r yeah you're in
+the same boat as me we just haven't seen
+we haven't seen that game
+there's like a monthly equivalent that
+adds up to an annual but it starts to
+get really complicated and i would just
+put there's it again is a text field i
+think
+so just i put like this is the annual
+whatever whatever makes sense for you
+for your business
+right right all right how much does burn
+play a role in your decision
+i mean and burn for those who aren't
+familiar is that if you're losing money
+each month right if you
+are paying out more than you're bringing
+in do
+does tiny c prefer early stage
+profitable businesses or is growth
+more important than profitability in
+these early days
+let me make another i'm not super
+bothered
+i think there's a yeah sorry i i asked
+you and then i started talking over you
+but
+what do you think that's okay uh no no i
+i think like
+being profitable like if you're if
+you're at
+five million or ten million are sure
+being profitable is interesting
+if you're doing eight thousand mrr do
+you get bonus points for
+having a 500 a month a profit no i would
+probably say
+you can't too early to optimize for that
+so you know you know it
+it almost be a little bit of a red flag
+like don't you have some money to spend
+500 something to spend 500 bucks on
+so yeah i think earlier on probably
+probably growth
+that being said like burn like if you're
+like
+so there's like there's a difference
+between break even and and and you know
+profitable
+if you're burning a lot of money if it's
+like you've already taken some cash or
+you're taking your own savings and
+you have a team of 15 and like you're
+you need to
+be shoveling cash into the business that
+probably is
+is a bit of a concern for us and we
+would question what's so special about
+this b2b sas business or whatever that
+needs to burn that much money
+right yeah that's great that's what i
+was going to say uh we're running short
+on time but i want to get to
+these next one um apart from the 125
+apart from the investment
+what else do we get from tinyseed um
+you were mentioning marketing blah blah
+so we don't actually like tinyce doesn't
+actually do marketing for you that's up
+to the founders and
+and you know the folks you hire we offer
+funding we offer the community of the
+batch which is super if you see all the
+the kind of quotes and the testimonials
+and when when our batch founders talk
+about stuff they will often say hey
+you know the money was great and i
+thought the mentorship would be you know
+like the number one thing but the
+community and actually being in it with
+other founders has tends to be
+the big draw um the mentorship both from
+tracy aynar and myself all startup
+founders who've been there
+as well as the mentor list tinyc.com
+people including you know the it's like
+a who's who of mpp of sas
+founders and subject matter experts and
+then there's our network
+very very extensive um in terms of oh
+i'm gonna
+anybody know how to do this in stripe or
+how to do a
+appsumo deal and it's like yeah i know
+three people who did one last year let
+me hook you up
+right it's just intros and intros it's
+just knowing people so
+um how should you represent monthly
+revenue when it consists of mrr
+plus one-time payments
+i would say if the one-time pay you just
+specify it in the application so we can
+read it you know say hey it was 5k mrr
+plus 1k and one time payments but the
+but pretty much every month there's
+about 1k in one time payment so that's
+really what we're looking for if it was
+a one-off thing where oh
+just this month we got 1k and we don't
+get that every month i would just leave
+it out altogether
+but if it's a fairly consistent you know
+overage fees that content
+to get paid or fairly consistent setup
+fees and it's usually around 1k
+i would include it and just just specify
+regarding salary draw
+what if you have an existing company say
+a consulting business
+and you're using it to fund the sas
+under the same legal entity does that
+salary draw restriction apply to the
+corporate entity as a whole or could it
+be only based on what you pull from the
+sas
+you would before we invested you would
+probably need to spin up a separate
+entity for the sas
+and we would invest in that yep
+all right it's 10 it was 10 a.m pacific
+here
+um we got through 91 questions
+oh my goodness gosh yeah i think i'm
+just going to stop there's the orb voice
+feel free to email us if you have
+questions or reach out on twitter or
+anything yeah you'll reach me yeah
+dms are open on twitter you can send an
+email to hello timeysa.com come straight
+to me i can refer
+i could bring it up to robin andr if
+needed so definitely reach out if we
+didn't answer your question and you need
+more help
+awesome thanks everyone who showed up
+it's been a great hour
+and uh we will see you on the twitters
+and
+certainly reach out if you need to bye

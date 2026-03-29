@@ -1,0 +1,888 @@
+﻿[Music]
+so real quick before we get started how
+many people in here use stripe a lot so
+that's your context for this
+conversation so it's great to have you
+here
+I think we're gonna dive into a couple
+of different questions that Rob and I
+have talked about and wanted to ask John
+from the stage and then after that we're
+gonna take some listener questions or
+you know it's questions from the
+audience I said listener questions
+because the podcast but we'll take some
+questions from you guys and we will go
+from there obviously there may be a few
+things that he can't answer just because
+of legal reasons or anything like that
+but he'll try his best to answer
+whatever he can so the first question I
+have for you is what was the biggest
+initial challenge you ran into when you
+were building stripe and developing it
+hmm well that kind of the the first
+issue we ran into was that we really had
+no idea how to build stripe and what I
+mean by that is I think it was I
+sometimes talk about stripe as a fairly
+obvious idea in that any of us who you
+know I was among them or any of us who
+had actually had to use one of the
+existing merchant account providers were
+kind of tearing your hair out and this
+was it was fairly obviously the need for
+us and so Patrick and I we were actually
+in in college at the time and we decided
+to build something better you know we
+said how hard can it be and actually
+pretty hard it turns out and but with us
+a kind of aspect that only I think you
+can have when you're when you're 19
+where nothing seems difficult and we set
+out to build us so we stubbed out the
+API and what to do you know it's like
+okay except a credit card here and then
+like the money arrives in your bank
+account and then we're like okay what
+comes next and and so we did spent a
+long time kind of searching and casting
+about for the right partners in the
+financial industry and learning how to
+speak their language that was one of the
+hardest things trying to gain some
+measure of credibility and you know one
+of the ways we got our very first
+partnerships with Wells Fargo was an
+investor you know an early investor put
+us in touch and so we're gonna have to
+have
+that credibility in that connection in
+that regard so that was kind of issue
+number one was we spent a good two years
+prelaunch working on us because we were
+navigating the financial industry and
+then the second issue with us the I
+think ever in this community gets that
+one of the best things you can do is to
+shorten feedback loops so that you can
+iterate on the product quicker and so
+that's why it's so useful to actually
+sit down and talk to customers and
+that's why it's so useful to come to
+things like this you want a really tight
+feedback loop on your on your product
+development process that was really hard
+by four stripes product by its nature
+because people you know would only use
+stripe when they're actually ready to go
+and charge for what they were building
+and even then it would take them a while
+to integrate and stuff like this so we'd
+fairly quickly give people access to
+stripe and you know six months later
+they might sit up and running so I
+actually went back in in advance of this
+I was curious to look at what the the
+shape of the signup curve looked like
+and we you know the first commit was
+October 11th 2009 and it was only two
+years later that we got a hundred
+businesses on stripe and so you know it
+was a really slow ramp initially and
+that was pretty hard because just from a
+product management point of view it's
+it's hard to know what your customers
+want when you have no customers so how
+long did it take you before you got your
+first customer so you said you started
+in 2008 timeframe you spend a couple
+years and then it took you two years to
+get set that hundreds of customers yep
+what was the time between the zero
+customer you know customers in one
+custom no customers to one customer is
+actually pretty clear what I think of is
+pretty quick in that it was three months
+but we were working on the part time and
+so by January 2010 we had our very first
+customer and it was a guy called Ross
+Boucher who was working on at the time
+I'd know if any you guys have used the
+cappuccino web framework which is
+implement in cocoa in in JavaScript but
+they were charging for the development
+kit and actually now kind of full circle
+he's working on one case which is part
+of stripe um and and they worked at
+stripe for a while so it's very much
+within the family but so we got that
+first customers in three months I think
+it was actually pretty helpful because
+stripe is not you know a one-shot
+product you integrate stripe and then
+your honor's and so kind of three months
+in when we're still working on the part
+time we kind of couldn't stop because
+you know now we have paying on customers
+who are not just relying on us in some
+incidental way
+for a minor task you know their business
+was running on stripe and so we kind of
+had no option from there so you're first
+the first customer that you had paying
+you for stripe you eventually went on
+and acquired them or is that so that's I
+mean that's a different customer
+acquisition and I think we're both this
+is kind of much later in life in that
+you know else works at stripe for a
+while and then then ended up leaving the
+stars in one kiss and then kind of came
+back in you know so I guess in the the
+early days look how much of your time
+was spent working on the the technical
+stack versus going out and talking to
+people and trying to get the feedback
+and doing actual marketing for it
+because it seems to me that whenever I
+hear people talk about stripe it's
+almost never from an advertisement they
+never heard of it from you know they
+never saw an ad for example they always
+heard about it from somebody else so it
+seems like word-of-mouth is really that
+primary primary channel but you know
+like what things did you do in the early
+days to try and help drive interest in
+those conversations yeah so one I'll say
+you know and I'm talking about this
+stuff I'm not sure how generalizable any
+of stripes experience is because I'm
+pretty sure we were just like a weird
+special case and so for example to this
+day if you go and actually google stripe
+payments right now you'd expect to find
+like a branded keyword for a stripe but
+we still haven't gotten around to doing
+that and so you'll find an ad for Amazon
+Payments if you do that and but what we
+did obviously a lot very active customer
+development in the in the early days I
+think did a few things we did that ended
+up proving really valuable one is
+messaging and actually telling the story
+clearly I think people talk about word
+of mouth as if it's some fundamental
+constant of the universe that you know
+you know news about your product will
+spread as x-rays and obviously that's
+not true in that one kind of the better
+you tell your story to kind of how much
+you tell your story and how much content
+marketing you do and things like this
+and thirds
+how differentiated your story actually
+is those are all fairly fundamental
+inputs into the equation of word of math
+and honestly kind of - at Ryan's point
+of you know this feeling of sass being
+full or you know feeling like there are
+too many sass apps and you know there
+aren't opportunities left I think one of
+the ciao
+people sometimes run into is you know
+we've all used or at least a decent
+number of us have probably used HR
+systems and you know we use workday at
+stripe and you know there's other
+options and it feels like they're all
+horrendous to use or at least my
+experience with with with workday has
+been that from kind of a UX point of
+view and the obvious conclusion is like
+oh we should go so you know start a an
+HR app there's kind of other challenges
+with that marker but I think one of the
+challenges is just from a from a
+differentiation point of view standing
+out from the crowd is really really
+challenging because it's like a hundred
+HR apps out there and so having
+something that will actually spread via
+word-of-mouth you need to make it kind
+of tangible and and interesting and so
+for us the space we were competing in it
+was basically all it was PayPal who were
+kind of their own thing and and as far
+as I can tell have a negative NPS and
+then you know we went to look these
+numbers recently and then you had a
+bunch of banks and kind of people who
+are not used to speaking to the internet
+business community to the developer
+community everything like this and so we
+made a huge effort early on to show that
+we were speaking the right language we
+understood subscriptions we understood
+SAS we understood internet business
+models it was instant sign up the reason
+we put code on the homepage was not
+that's not the logical place in the you
+know product cycle to put it and that
+you want to have the homepage was a
+broad overview and then get the API
+Doc's the reason we put code on the
+homepage that actually worked and you
+know to this day you can copy that a lot
+of people who could in the homepage but
+no one actually does search where you
+can copy and paste like the actual code
+snippet Ranas in a terminal and it will
+run a valid response that was our way of
+showing but like we get us you know the
+API is important and we're trying to
+communicate this and to people same with
+the tag line payments for developers you
+know I think there are lots of less
+crisp tag lines you could have used so
+that's my main thing onward Amathus I
+think people tend to it's like well why
+aren't people talking about my thing
+whereas the the messaging was probably
+the the most I can talk about other
+things but I think that's the most
+valuable thing we did yeah and I think
+it's interested in how you specifically
+do that piece of it in that if you're
+logged in it automatically injects the
+API tokens and stuff so that the
+developer hasn't it doesn't have to do
+an extra step on top of that was that
+was that something that came up kind of
+in retrospect you just did it to see how
+it would work or was it like an
+intentional deliberate choice early on
+like hey if we do this people won't have
+to do these other things it'll just work
+for yeah I think we it became yeah we
+have since retrofitted a strategy on us
+and so that way we can sound smart for
+it's like what you do is but I was
+getting exactly yeah yeah but it's very
+accidental at the time the way it
+happened and then we can learn from it
+where in the beginning I think you just
+do things that that feel right and then
+you notice the things that are working
+particularly well and you pour gas in
+them and so in our case what we found
+was that things like you know the fact
+that you all the API documentation was
+prefilled with your API key or we'd have
+just kind of some interesting and very
+detailed error messages and things like
+that we did them just because it seemed
+like the helpful useful thing to do at
+the time what we found was that they
+actually drove word of mouth in that you
+can get api meta you can get api error
+messages that are helpful enough that
+people will tweet hey look at how
+helpful this api our messages that's not
+a thing we expected going in and so now
+we actually do you think about it in
+terms of when it comes to a launcher
+when it comes to functionality in the
+product what is the the thing that will
+be tweets worthy what is the thing that
+is kind of surprising and good enough
+and that people will actually go ahead
+and talk about it yeah i mean part of
+that kind of leads into the the just
+falling into things accidentally and
+likely as i said you look back at it
+retrospectively and say oh wow this
+really worked and there's like a base
+level for some of those things works
+just they suck so bad that when you
+provide even a you know bare minimum
+experience for them isn't that bad that
+it reflects very very positively on you
+now when you were going through these
+processes like do you have do you have a
+process in place for putting those
+things together whether it's the
+documentation now or i guess how early
+did you start that to be more
+intentional about those things versus
+looking back at them and saying oh this
+worked that worked because there's it be
+very easy to go through the history of
+stripe and say well was this a
+deliberate choice or was this just kind
+of accidental and lucky and i think most
+businesses successful ones come across
+that way
+and so and when you say those things
+what do you mean so i mean with like
+putting the api key and
+and providing fantastic error messages
+that people will tweet out it seems like
+the strike gets a lot of little things
+right and the collection of all of those
+things makes it like stripe like an
+exceptionally fantastic story to follow
+and to look back on I'm curious how
+early it was that you guys started to
+recognize that these are the little
+things that add to the greater story and
+how can we be deliberate about those
+moving forward yeah I think it's hard to
+go back and retroactively lis act and
+add them in I think it just has to be
+somehow part of the the product design
+process and I'm kind of what you decide
+is the way that you you design products
+it actually gets a little different once
+you're you know as stripe now has order
+of I'd say 200 engineers and you know
+most of those people either directly or
+indirectly end up working on and shaping
+the product and then there's lots of
+people who are not in engineering who
+end up working on the product in various
+capacities and so it ends up being
+pretty different once you have you know
+people whose names you don't even know
+working on this stuff and you want to
+inculcate it from a cultural point of
+view but in the early stages there's a
+lot of stuff that is not measurable I
+mean usually because the the the the
+data are too small you just have to you
+know you can't measure you know will do
+these things in the product and see
+which leads to the you know the largest
+number you know social engagement or
+something because again you just you
+don't versus a statistically significant
+data set and so you kind of have to go
+on instinct for that stuff right so it's
+more or less just guessing at what you
+think is the best thing to do and then
+once you've accumulated enough data it's
+really kind of looking back on that and
+saying oh what pictures can we draw from
+this yeah you know and we've had a lot
+of time to go back and kind of see what
+we think worked well and then you know
+pour gas on those particular activities
+and call the call the things that didn't
+and that I think people tend to perceive
+stripe is this like overnight success
+you know Patrick I are coming with this
+tradition of stripe where we someone
+imported from Microsoft where people
+bring in n pounds of chocolate on there
+and and anniversary and so you know in
+your fifth anniversary at stripe you'll
+bring in five pounds of chocolate and
+obviously if you do the math this leads
+to a really bad place because you know
+you have people getting more ten years
+and a growing number of employees and so
+you you wonder does
+per employee go up over time and it does
+in kind of scary fashion but anyway
+Patrick and I are coming up on our
+eighth anniversary working on stripe
+soon to where we'll have to I guess
+bring in 16 pounds of chocolates
+I would rather a last and but anyway
+we've been given that we've been working
+on it for this long just year after year
+you continue to go through this process
+of you know what's working well what
+isn't what should we kind of continue to
+invent so if you kind of look back at
+what the history of stripe has been if
+you were to look point out maybe two
+things that you would do differently
+based on what you know now versus what
+you did then whether they were mistakes
+or just you know market position or
+something along those lines what what
+two things kind of stick out in your
+mind is things that you would do just
+completely differently now we are we're
+fortunate in the position of our there's
+probably no big giant kind of you know
+thing of cratering impact that happens
+during stripes history so I would like
+well we definitely wouldn't you know do
+that part you know all got arrested and
+but but but it's a bit of selection bias
+there right and that I probably wouldn't
+be here talking to you if if there was
+when those moments you have to find the
+company this you know ever for an
+interesting answer to that question you
+have to find the companies that had
+somewhat more ignominiously ends and
+that said I mean that the minor stuff is
+there are issues that we spent years
+beating our head against the wall where
+I think that the answer was pretty
+obvious in retrospect and it's always
+pretty faint painful when you you know
+you measure something and you know on a
+chart you know if down is good like
+latency or whatever you make some tiny
+change and like the church art just
+falls off a cliff that's really painful
+because like we could have made that
+change two years earlier and so you know
+just something else have my mind that I
+was thinking about recently I think we
+are not particularly happy yet with the
+usefulness of one stripe subscriptions
+logic or I think and we could just do a
+much better job fish and to just the
+usefulness of the stripe dashboard and
+so those are things that you know if I
+was to go back and do it again I would
+probably invest much more four years ago
+versus kind of now what we're doing I
+actually I'll use this as a quick plug
+for
+I brought Adam who is where's Adam gone
+that corner
+oh yeah he's waving at the back there
+he's a back there wood patio 11 Adam
+runs the stripe dashboard and so we
+would be very eager to hear any if all
+your bug reports to Adam please are and
+any feedback you have and but that's
+probably something I would have changed
+a little earlier okay um I guess on that
+note you because you recently overhauled
+your dashboard how difficult was it
+given the size of the stripe customer
+base and how many people are using it
+how difficult was it to kind of retrofit
+that dashboard or development in
+parallel with what you've got now and
+then kind of toggle things over I mean
+one of the things that strikes me is
+that within stripe when you sign up for
+an account you can go for an extremely
+long time without ever upgrading to like
+a new version and I've talked to people
+and so like that's that's unheard of
+that's amazing that you're still able to
+use something from 2011 and I know
+people who are using that person oh we
+know them too it's like that like that
+CI a deck of cards there's like five of
+them and you know their names
+yeah so how is it that you were able to
+to do that like what sort of challenges
+were were there associated that because
+there's impacts on your feature
+development and new like new feature
+development and making sure that
+everything's still going to work when
+you go over managing customer
+expectations along with making sure that
+there's a base level of functionality
+etcetera yeah that forum that for me is
+maybe a good example of kind of the
+product feedback and customer I'm three
+point and that's you know one thing is
+when we talk to people who are using
+PayPal and using the PayPal API is just
+you know you have integrated it and then
+it would randomly break at some point
+and then you have a fire drill and you
+go fix it and it seems like you know a
+property of relying on the API should be
+this is behaves the same over time like
+that's a pretty useful fundamental
+construct and and and that's not what
+they were getting and so from a
+technical point of view what we designed
+is it's actually and of cool is
+basically when you make an API request
+to stripe it says they're using the old
+API you know we are running the newest
+API and then there's kind of a series of
+translation layers like an onion that go
+and kind of roll forward the old API
+request to the new API requests and
+reformative such that everything is is
+backwards compatible so that's
+internally we can roll out stuff at a
+fairly fast rage but people can use old
+versions of the API actually maybe
+that's another good example to your
+question of what I might change in
+retrospect and we didn't set any kind of
+a cut-off period and so we do have
+people from like I don't have anyone
+from we probably do the people from 2010
+who still you know their API
+integrations are working and I think
+probably good at some points to roll
+people forward to the newest version of
+the API this is just like it makes
+changes to scary right or if you want to
+use one new feature then you have to
+redo everything
+um but yeah that for us was a pretty
+obvious one okay looking back on your
+history a little bit just as a last
+question what kind of then we'll take
+some things from the audience when you
+look at the things that have happened is
+there a low point that you can kind of
+point to that sticks out in your mind is
+you know you weren't really sure that
+you were going to be able to pull things
+off or even get through the other side
+because you know whether it was funding
+or just technical issues or you know
+scaling the business or making different
+partnerships anything that jumps out of
+you is potentially like very very scary
+at the time yeah this is um this is one
+actually thing there's actually very
+useful about you know Patrick and I know
+a bunch of other people running
+technology companies or whatever and I
+think having a pure group of people who
+are in a similar position is is really
+useful because the PR story never tells
+the whole thing right you want to have
+that you know everything is perfect and
+all this has been and we've always been
+kind of known everything about the
+business and you know you have this very
+pristine image and underneath you're
+kind of furiously trying to keep things
+together I'm actually I think one thing
+that's being useful for me and Patrick
+is the fact that there are two of us and
+always have been in that you you maybe
+your mood is that the average of the two
+moods and so the amplitude of the swings
+is is lessened by that kind of dampening
+effect and that actually once you start
+having employees I think is a really
+important role of the founder is again
+dampening the swings that tend to come
+with both kind of the highs being too
+high and the lows being too low for us
+one you know during the early days we
+had a handful of pretty bad outages and
+to begin with it
+kind of scaring the abscess you know in
+the very early days we would have an
+outage and then um I'm known cared no
+one called and that was bad because like
+oh we have no customers and and then
+then as you started picking up you know
+I remember at one point when there are a
+lot of people using stripe we had an
+hour's outage or best part of an hour
+during the month of December on a
+weekday and I really would not recommend
+that as a life experience also there was
+one you know during the early stages of
+a company an employee leaving or kind of
+multiple employees leaving is that at
+least for us like are we I mean
+will stripe ever amount to anything are
+we going to pull through this you know
+adds an early engineer's leaving that
+was was hard we're gonna take a couple
+of questions from the audience Rob's
+gonna go around so we've got about 10
+minutes or so left first question I'm
+what I'm wondering what's your big focus
+and to focus in terms of acquisition now
+like are you really focused on acquiring
+new users and how are you doing that now
+we wouldn't we know about word of mouth
+but what's what's kind of the new
+strategy or is it still just word of
+mouth word of mouth is definitely a big
+part of it for us and again I think it's
+helpful of us you know we're in a
+well-defined space where people need to
+actually buy get something in this space
+you know you can't not accept money and
+and it's it's kind of interesting to
+people but again I do want to stress the
+word of mouth not being a fundamental
+concept of the universe and we have
+always worked on PR fairly actively and
+that is something that's you know you
+can actually use to help drive
+word-of-mouth again it's part of the
+cycle of her you know people are
+tweeting an article or stuff like this
+and so you know this week there were
+three separate events that there were
+articles written about there was you
+know we had the acquisition of indie
+hackers we had a increment magazine that
+launched today and then we relaunched
+Atlas and and added some functionality
+earlier this week but in all of those
+you know part of what we wanted to do
+was just ensure that the story was told
+in a fairly high fidelity
+and actually in some detail and to their
+stories about all of those so that is a
+a large one for us and if you can get
+that right if you have something
+interesting to actually talk about or if
+you can make it interesting and that is
+you know when we launched Atlas this
+blew us away but when we launched the
+Atlas it was on the front page of the
+International New York Times and you
+know if you'd asked us five years ago I
+mean we wouldn't have believed you and
+but that's the kind of mind sure that I
+mean really you can't I mean look it's
+you literally can pay for because you
+can buy ad space there but it's it's
+certainly pretty expensive so that's one
+and two is we are always thinking about
+the the funnel and and we are actually
+Adam and I were just chatting on the
+flight over about some funnel
+optimization stuff that we want to go
+work on to improve that and you know
+thinking about is getting further out
+the funnel and kind of bring people in
+we have all the Sun I feel like once you
+once you say content marketing and kind
+of gets kind of it's like you you know
+if you're scuba diving you shouldn't
+touch the coral because it dies
+instantly and I feel like there's a bit
+of that with the term content marketing
+first loose it's interesting this abyss
+or it's like haha some fresh content and
+grist for the mill and but we have
+always done content marketing on on a
+bit of an ad-hoc basis and so one of our
+earliest efforts was capture the flag I
+know if any you guys played that contest
+and where we did three of them but that
+was massive in terms of just having
+people hear about stripe and you know
+established some technical credibility
+and so I think we're gonna do more stuff
+like that it is very hard to at scale do
+creative and interesting things in that
+I think there are lots of companies that
+manage to you know figure out the
+content organ-grinder where you're just
+churning out the the ad scale stuff I
+don't think we have figured I was an at
+scale way to to produce interesting
+content stuff and so it's still a little
+ad hoc right now but hopefully scale
+that up excellent John right here first
+thank you to you and your brother for
+supporting Michael confer so it's great
+to see you guys here year after year my
+question to you would be where do you
+see the mobile checkout experience going
+over the next few years yeah this is a
+super interesting
+basically we think Apple pay and Android
+pay are gonna win in that both are very
+good at being that kind of large company
+phenomenon of being patient and so even
+if the first version of the product
+isn't quite right they're gonna keep on
+iterating until they get it right and
+then we just have the data and we look
+at it and they're they're growing like
+weeds and the conversion rates are way
+higher and so I'll be really surprised
+if that's not what everyone is using I
+mean aside there's some kind of
+exceptions to that where if you are
+Amazon you now have enough stored
+customer credentials that you don't need
+that but and if you look as if we want
+to look at on the on the consumer side
+is wish they are conversion optimization
+machines they are just really really
+down the details on this stuff and their
+funnels are kind of scary fast because
+you guys probably seen their ads on
+Facebook but it just like Hoover people
+in from Facebook at scale and it's it's
+really in their interest to have a
+highly converting funnel and I think
+those are they're gonna be big what I'm
+excited by is on the mobile side and new
+products actually being possible because
+the mobile checkouts will get easier
+enough and so you know occasionally
+people will treat a link from The Wall
+Street Journal or the Financial Times
+and I'll click into it like hey well
+never mind and you know just the bounce
+rate is 100%
+in my personal experience or as if you
+could actually quickly buy a day pass or
+something I think it probably would and
+so there are similar you know you can't
+today buy an issue of The Wall Street
+Journal online just because the amount
+of work required is is not worth it for
+that experience I think that will
+probably change as the checkout to get
+better now it's interesting to think are
+what are what the second-order effects
+will be higher conversion rates is one
+but at this probably a bunch of new
+products that are possible that weren't
+previously next question you know one
+more of a year high um so it seems from
+what you're at the way you talk you and
+your partner on a very much a unified
+front I was actually wondering what is
+the decision-making process between you
+and Patrick behind the scenes if you
+don't mind me answer yes and so I I
+think for a good decision-making process
+like the one Patrick
+has for that to work you need a few
+things one you need to be in in terms of
+the long-term vision of where things are
+going and kind of the values and how you
+look at the world you actually have to
+be pretty aligned there and that's
+surprisingly hard at times and that
+solves a lot of things so Pat and I are
+pretty aligned on you know what stripe
+is broadly what we should be doing over
+the next you know two or three years
+over over the long term what we wanted
+to become and that's pretty useful to
+begin with second I think you need to be
+able to distinguish between the the
+things that matter and the things that
+don't basically and that sounds again
+really obvious and then sort of
+tautological but it ends up being pretty
+important so there'll be many things
+that Patrick and I on a day-to-day basis
+kind of disagree with the others
+decision but that's kind of I'm happy to
+go with it and then Patrick and I
+probably more than most co-founders have
+have a fairly overlapping set of areas
+of interest and so I think the you know
+one of the traditional things you see a
+lot at least and you know the Bay Area
+where I am is you know if the technical
+co-founder in the business co-founder
+and they're the delineation of
+responsibilities is is very very clear
+and crisp with Patrick and I it's it's
+it's more overlapping but you still have
+kind of this is my area and this is your
+area and so basically high trust when
+people are operating within their own
+areas and kind of overturning when it
+matters for those who don't who aren't
+aware of John and Patrick or brothers as
+well yeah we've been resolving conflict
+cipher for quite a while I can imagine
+that's difficult yeah next over here
+I thinks in any thoughts or plans for
+stripe regardless or on crypto
+currencies or bitcoins or stuff like
+that and is have any you guys asked
+Patrick McKenzie about that
+I was annoyed that but um for me I think
+so strategically the way we look at
+stripe is it should be you know the the
+way a business accepts money from its
+customers and that's obviously fairly
+broad and deliberately so and so if
+you're a SAS business we should have a
+very good support for all the SAS
+primitives and the things that a SAS
+company cares about when it comes to
+payment methods we're kind of like
+whatever we need to support whatever
+these businesses will will need and so
+we launched support for you know ACH a
+while back we're a beta testing a bunch
+of the local European a payment method
+said matter to people there and we'll
+kind of continue adding all this stuff
+and so with cryptocurrencies from a from
+a pure pragmatic point of view if if if
+and when any of the cryptocurrencies
+gets a significant consumer mind chair
+and consumer scale then we will support
+them because the businesses will want
+them but uh we're kind of not dogmatic
+about it and that I don't think we want
+cryptocurrencies to happen for the the
+sake of the cryptocurrencies happening
+and even if we wanted that I don't think
+would help really advance the cause of
+cryptocurrencies anymore and so we we
+added Bitcoin supports because we wanted
+it to be you know some of our the
+businesses on stripe cared about it and
+we want to stripe to be the place where
+they good regardless of the payment
+method accept money from their customers
+and you know obviously Bitcoin is still
+not in wide usage today or or even you
+know cuz it's you know fairly small and
+meesh today that there are a bunch of
+you know we can spend time talking about
+the interesting computer science
+properties and some of the interesting
+stuff that's happening with some of the
+newer cryptocurrencies but I would say
+it's not you know top of our 2018
+strategic planning list if I could take
+tack onto that a little bit do you think
+of it in terms of like the innovators
+dilemma as well because I mean that's
+kind of an up-and-coming thing but you
+you know it doesn't have any material
+impact on your business right now but is
+it something that you're
+not us not afraid of but concerned about
+or at least keeping it on your radar
+specifically because of that yeah I mean
+we do worry about kind of innovators
+dilemma dilemma phenomena in general
+where you're always trying to look out
+for what is the good enough solution
+that you know you will right off but
+actually satisfies customers quite a bit
+I don't think for a business selling
+online I don't think Bitcoin is good
+enough yet and so it that's not how we
+think about it yet but who knows well I
+think yeah thanks again John thanks
+you
+[Applause]

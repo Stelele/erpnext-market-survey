@@ -1,0 +1,52 @@
+{
+  "topic_id": 158281,
+  "title": "Generate some custom fields on Delivery note While Filling Items from Get Items",
+  "slug": "generate-some-custom-fields-on-delivery-note-while-filling-items-from-get-items",
+  "category_id": 6,
+  "tags": [
+    "custom_script",
+    "delivery-note"
+  ],
+  "created_at": "2025-12-24T06:35:20.094Z",
+  "last_posted_at": "2025-12-24T06:35:20.371Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/generate-some-custom-fields-on-delivery-note-while-filling-items-from-get-items/158281",
+  "views": 15,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "mohi-khan",
+  "posts": [
+    {
+      "id": 489459,
+      "username": "mohi-khan",
+      "name": "Mohiuddin Hyder Khan",
+      "created_at": "2025-12-24T06:35:20.371Z",
+      "cooked": "<p>Hi,</p>\n<p>I have a scenerio where I created two master field on sales order named style and brand.</p>\n<p>Now, I need to pull this style and brand on delivery notes item level while I pull the data from Sales Order.</p>\n<p>I have write down a script to puopulate this feilds as below:</p>\n<p>function populate_so_related_fields(frm) {</p>\n<pre><code class=\"lang-auto\">if (!frm.doc.items || !frm.doc.items.length) return;\n\nfrm.doc.items.forEach(row =&gt; {\n\n    // Must be mapped from Sales Order\n    if (!row.sales_order) return;\n\n    if (!row.custom_po_no) {\n        frappe.call({\n        method: \"getPOandStyle\",\n    args: {\n        sales_order: row.sales_order\n    },\n      callback: function (r) {\n                if (r) {\n                    frappe.model.set_value(row.doctype, row.name, \"custom_po_no\", r.message.po_no);\n                    frappe.model.set_value(row.doctype, row.name, \"custom_style\", r.message.custom_style);\n                     frappe.model.set_value(row.doctype, row.name, \"custom_brand\", r.message.custom_brand);\n                }\n            }\n       \n    })\n</code></pre>\n<p>}<br>\n})<br>\n}</p>\n<p>Now I am wondering on which event I will call this function.</p>\n<p>any idea?</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/mohi-khan/{size}/91163_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 10,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

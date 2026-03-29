@@ -1,0 +1,536 @@
+﻿[Music]
+hey it's Arvid and this is the bootst
+[Music]
+founder earlier this week I read a blog
+post by Bethany Crystal and it was
+really really interesting it was about
+how chat PT saved her life she had
+developed some kind of symptoms that she
+didn't really know she couldn't place
+and had blood work done couple days
+before the results were available to her
+but her physician hadn't looked into
+them yet and she could spot that on the
+website apparently where she got those
+results so she brainstormed with Chad
+GPT about what the outstanding and
+non-regular values on the data might
+mean she took photos of the bruises that
+she developed out of nowhere and the
+little red spots and whatever and then
+the AI diagnosed her to the point where
+it recommended that she go to an
+emergency room right away she first
+thought should I really but then it
+actually became Bolder it wrote in bold
+text and when she went to the AR and she
+got there medical staff told her that
+she was there just in time they took the
+same measurements again and he was like
+wow this is really crazy we've never
+seen it this bad before she's now on the
+path to recovery but chachu P made her
+go and there's something amazing about
+this story on so many many levels it
+illustrates to me how everybody now has
+access to this Healthcare adviser or
+Healthcare consultant that is constantly
+available with knowledge of pretty much
+every illness out there and how to
+potentially diagnose it and these AI
+systems have read countless accounts of
+illnesses in so many variations and they
+likely encountered way more variants
+than any individual physician could
+possibly see in their career so when I
+go to my doctor they've seen maybe 50
+100 cases AV verions of a certain thing
+AI systems have ingested papers and
+abstracts and data from millions of such
+cases right they're programmed with
+guard rails though and that's a benefit
+I think at this point because instead of
+trying to overdiagnose like Bethany's
+problem chip just told her to go to the
+ER right now so they prevent
+overdiagnosing and then quickly defer to
+actual experts in the field to Emergency
+Room Physicians and First Responders
+however you might need and that's
+amazing I I just really enjoyed this
+story for how crazy it is that half a
+decade ago this was Unthinkable that you
+had this advisor to any potential
+problem in your hand or in your pocket
+and at the same time we're using these
+exact same AI systems that help people
+survive to write code for our software
+products or to draft cheeky marketing
+emails or conduct research for us it's
+crazy to think I'm just amazed by this
+whenever I read an account like that to
+think that all of this is possible made
+with the same technology by the same
+thing it's incredible and with the
+reasoning models that are now available
+the most recent 03 model by open aai and
+Claws very very recent like two days ago
+recent Claude Sonet
+3.7 these things can now pull
+information from a vast vast context of
+documents that you give them and
+documents that they found somewhere else
+and make use of the fact that they can
+remember almost anything they consume
+obviously don't really talk about
+hallucinations at this point and
+illegally obtained materials that's a
+topic for a different day but these
+systems have the data available and it
+also works for not so critical things I
+Rec had my own interesting AI experience
+here and this might come off as a little
+bit nerdy but bear with me it's kind of
+cool so I took a photo of my collection
+of unpainted Warhammer Miniatures I have
+plenty of those the boxes in which the
+Miniatures still unassembled like on the
+plastic sprew are just waiting to be
+built and painted and it was sitting on
+the shelf and I thought hm I have all of
+these things what can I make of it so I
+asked the AI to set up a list of the
+order and configuration in which I
+should build these little models so I
+could use them to actually play games
+Warhammer has a very extensive rule set
+so you need to really figure this out
+and I didn't want to do that so I just
+took a photo of the boxes and gave it to
+Claude and just from this photo of
+merchandise containing Miniatures that
+the AI had never seen the inside of
+right they didn't know what was on the
+sprew it accurately created a veritable
+and very indepth list for my little
+miniature Army that I can now built
+paint and know exactly how to use in a
+game and just a couple minutes after I
+did this and was Amazed by how this
+system that is just built in a computer
+somewhere knows so much about Warhammer
+I gave the same AI a significant portion
+of my code base and asked it to refactor
+a certain part so that the outcome
+format that file format would be a
+better Fit For A customer that had
+certain needs and this same exact AI
+that just then diagnosed somebody's
+urgent need for emergency care and built
+an army list for my War hobby was then
+able to build a component that fits
+seamlessly into my existing software
+product it's just mind-blowing that
+there so much Variety in this one system
+and then there's variety between systems
+you could ask the same question of
+different AIS and they would maybe come
+to a consensus but they would give you
+slightly different perspectives and to a
+smaller extent but still very similarly
+that variety exists in locally
+installable large language models as
+well if you were to install llama 3.1
+locally the 8 billion parameter version
+or maybe a 3.2 version with a smaller
+Tech space model that's still is good
+they could still create those results
+maybe not as extensively or reasoned as
+the modern gp03 or the very recently
+released CLA Center 3.7 but these
+versions all just get better every newer
+version is just a little better than the
+old one but the old ones are still
+pretty good and even the small language
+models are extremely good compared to
+what we had before which was nothing
+which was having to do it ourselves so
+again another thing that blows my mind
+is just the massive availability of this
+technology both locally installable and
+on the API I occasionally take
+screenshots of my interface too and the
+source code that kind of goes with it
+that creates that interface and I ask
+what's wrong with this because something
+just doesn't work like what is wrong
+with the code I want it to look
+differently and then I explain it then
+magically the image detection figures
+out how the visual components pictured
+in the image map onto the code that I
+provided and then fixes that code so
+that the image looks more like what I
+want it to look like all within
+milliseconds and you can do this locally
+too if you use o Lama o l l m a and
+install a sizable or small model it all
+works it's incredible I believe that if
+you don't yet use AI as a founder or as
+a hobbyist or just as a human being on
+any level you're actually missing out on
+something very meaningful and I don't
+want to do fomo stuff here but you have
+access to an expert in all things all
+the time by using AI systems that is
+novel and to make this more about the
+entrepreneurial side of things as we are
+in the bootst founder podcast the
+mindset of being able to prompt any AI
+system to fulfill almost any task and to
+go AI first in brainstorming and
+figuring things out and planning and
+thinking that is something that we can
+map onto our business ventures and I
+believe we must map this mindset shift
+onto our business ventures so instead of
+collecting information like going out
+there and doing the research or coming
+up with strategies from what we already
+know I have found it to be way more
+effective and the results of it be way
+more impactful if I approach a
+conversation with AI first and I act as
+if that AI were more experienced than I
+was in the field as an expert I use AI
+systems like this to figure out if my
+theories about what the next strategy
+should be or which tactic I can now use
+right now for any given purpose are
+valid or invalid I trust that the
+collective knowledge that is instilled
+in any AI response because the system
+knows so much because that's what it
+draws from is whyer than whatever
+individual knowledge I might have to
+this point I know that I know nothing or
+very little that's really what this is
+and I open up the realm of possibility
+to have conversations with somebody who
+may not be real but knows way more than
+I do so when I have a challenging
+problem in marketing or I want to reach
+a particular customer segment because I
+see a new an improved benefit for them
+using my product instead of trying to
+figure it out on my own I open up a
+conversation with an AI system and I
+used different eyes for this purpose
+just to see how responses vary but with
+Claud in particular cuz that's what I've
+been using and will keep using
+particularly now with a new reasoning
+model very interesting I go into
+conversation mode and here's exactly how
+I do this I often record just a solo
+brainstorm that I do all by myself into
+a microphone just like this and I talk
+about something for 5 to 10 minutes
+anything and I put everything I know
+everything I assume about the thing
+about what the consequences might be
+what the underlying reasons are and
+everything that I'm not quite sure about
+and what I wonder about and where I have
+conflicting views into just this
+conversation with myself and then I take
+the full transcript and I prompt Claude
+to start a back and forth exchange with
+me a conversation about this topic and
+then brainstorming strategies trying to
+invalidate any theories I might have I
+put the full transcript of this SoDo
+brainstorming in there and that's when I
+hit enter and that's when the
+conversation starts and usually
+particularly if I instruct Claude to
+respond in a more structured way but
+giving examples for ideas or giving me
+blog post URLs to do more research with
+or sharing narrative examples that it
+remembers from having likely illegally
+scoured the whole internet for these
+kind of things for companies that have
+used the strategy to create effect or
+companies that struggled with it I get a
+conversation out of that that I feel I
+could not have had with any other human
+being for two reasons first it would
+have been very expensive to find expert
+in all these things and pay them for
+their time whereas Claude is effectively
+free it might cost me 20 some bucks a
+month but that's just nominal for a
+subscription that wouldn't even get me a
+minute with the expert that I would need
+to talk to to get the same results and
+second more importantly and more on
+topic here it would have taken me weeks
+to set up would have me taken days to
+find out an expert and find a date and
+then figuring out how to reach that
+person and navigate their availability
+but with an AI system it's immediately
+available within milliseconds to start
+this conversation and it remembers
+everything forever it's all on my own
+terms nobody else is involved in making
+it a priority I get to do this when and
+how I want and that's very alluring and
+for a solo founder it's really need it
+previously I would have had to find the
+expert and do all the research myself
+while still running building operating
+my business and that just takes hours
+for the initial research to just figure
+out what a potential strategy might be
+to be interested in for the next
+marketing
+push take a recent example here we
+introduced the ability for podcasters to
+claim their own podcast on pocan just
+this week and this feature came out of
+exactly such a conversation with an AI
+system I've been telling it about my
+last couple months of marketing
+activities opening up pods scans data
+more to the public more SEO available
+and the several feature requests where
+people talk to me about wanting to
+update information about their podcast
+and how they found it through Google and
+want to kind of fix something I would
+get messages like hey this isn't fully
+correct the publisher year should have
+this letter in the name or I recently
+changed this and your system hasn't
+picked it up yet or my podcast does not
+accept guests why does it say it does
+that kind of stuff right so I quickly
+update the data whenever this happens
+and that's just maybe once or twice a
+day because it is pretty accurate but
+when it happens I do this but in the
+conversation with my marketing project
+on Claud my kind of virtual Chief
+marketing officer it came up that maybe
+we should allow these people to just do
+it themselves we could let them prove
+that they actually do own the podcast
+and then give them limited but impactful
+management control over all of this data
+like editing the name if there's a weird
+letter and coding issue or updating the
+description formats publishing
+frequencies and they could also update
+the size of Their audience was a
+suggestion which would be very
+beneficial and the moment clad mentioned
+this I was like yeah this is amazing
+this is not just good because it helps
+people be more accurate it but it would
+really help the system the platform
+because by now our machine Learning
+System that figures out audience sizes
+from all kinds of data on a podcast
+that's been very good and reliable but
+it's not perfect sometimes people would
+say hey I have way more people in my
+audience than this or I have much fear
+than this don't say this is accurate
+because people will hold me accountable
+so now they can call in the podcast put
+in the real number and show proof that
+they have it to me so we can actually
+verify it so they are happy because
+accurate information is properly
+reflected on the podt scan platform
+which other people get to see and I am
+happy because now I have customer
+verified audience numbers something that
+is extremely hard to get in this
+industry that I can then use to train my
+machine learning model to be even more
+accurate so as customers stream in
+claiming their podcasts and they do I
+get more accurate data which makes it
+easier for people to see pod scan as an
+interesting and reliable product and
+data source so all of those benefits
+which is kind of mind-blowing again I'm
+sorry using this inflationary but it is
+are consequence of a conversation about
+what the next step should be in making
+the product more visible to its target
+audience with Claude isn't that crazy
+like that conversation maybe cost me
+effectively $ 1.5 to
+$2 and it was a conversation with an
+expert that knows everything about
+marketing about product development
+software product adoption podcasting and
+that same expert helped me build my
+Warhammer Army list and help Bethany
+Crystal get to the ER in time to deal
+with an illness that her doctor hadn't
+even looked at the blood results
+for that is incredible if you take
+anything away from this it's the concept
+that at this point it is much cheaper
+and then aggregate more effective to
+think with AI and do the work with
+people than to do the work with AI and
+think with people that's something that
+I've kind of realized this brainstorming
+this planning and back and forth between
+me and AI that's really just limited to
+how fast I can type because AI responds
+so quickly that I'll never be able to
+absorb it at the speed that it's
+responding if I have a thought and I
+express it AI instantly responds the
+moment I send it in it already starts
+responding because that's how these
+large language models work they respond
+one token at a time and they respond
+very quickly and the speed of that
+conversation is really just kept by my
+capacity to keep it up the work the
+actual implementation that is still very
+complicated and it's context dependent
+which is something that AI systems
+struggle with people struggle with less
+particularly when it comes to code
+implementations in larger code bases AIS
+are still suboptimal they're great they
+do a lot of work faster than people do
+and they might do it more reliably than
+some developers but that still often
+needs handholding correction and
+investigation particularly in large code
+bases smaller ones usually fine but the
+moment there's complex interdependency
+it becomes problematic so the work part
+here is still better done by humans who
+use AI as a tool not by AI agents
+working completely independently we'll
+get there and I feel we might even get
+there this year still which is going to
+be weird but for now the thinking part
+the brainstorming idea generation
+verification validation invalidation
+that stuff anything that has to do with
+getting an outside perspective I will
+always go AI first because it's cheaper
+faster gives me the whole perspective or
+gives me many different perspectives if
+I instruct the AI accordingly and after
+that I talk to my team and that's how
+the claim your podcast feature actually
+happened I talked to the AI set it up
+built prototypes experiments and then I
+had a conversation with my ux designer
+Nick who wears many other hats too and
+after the whole thing was strategized we
+discussed how to monetize it do we
+monetize it at all do we allow access to
+podcast claims for free in perpetuity as
+a premium part of the business we had
+like a people conversation around things
+that we need to be fine with and that
+operational conversation involving
+multiple moving Parts was one I had to
+have with a human but the first level
+was all between me and the AI and the
+result is that podcast claiming is now a
+premium part of the product of pod scan
+it makes so much sense from a business
+perspective to allow anybody who has a
+podcast to maintain its data for more
+data Fidelity and accuracy on the
+platform without having to pay for
+anything it's their data they will only
+have access to their podcast obviously
+if they start a trial they get access to
+everything every feature within pod scan
+but when the trial runs out all the can
+do is edit their podcast and if they
+want to do more they can subscribe if
+they want alerts for their podcast I
+think that would be an interesting way
+to upsell the product we can remind them
+that it's a possibility we could even
+track alerts for them so they could see
+what they're missing by not subscribing
+all of these potentials exist outside of
+the Premium plan because we now have
+podcasters on the platform we can also
+present them with information about
+competing podcasts or potential guests
+that they might want to invite there's
+value in having podcasters on the
+platform not just Market and researchers
+and journalists which are my main
+audience and have been so far or
+Builders who need podcast data for their
+own products so it's a premium part of
+the product and if you have a podcast
+it's likely already listed on podan
+because we are at like 3.2 million
+podcasts which is every single one so
+feel free to claim it and check it out
+the feature came up because of AI and
+was implemented through AI I was clawed
+with the results of the brainstorming
+and the existing data models around the
+podcasts and users and tasks to build
+the backend logic and frontend for
+claiming podcasts by checking RSS Fates
+for tokens and having a background
+checking system all of this was clawed
+so everything about this feature from
+inception to implementation I mean
+implementation was still me pulling it
+all together hence the think with AI
+built with people but everything around
+it was Ai conceptualized and then with
+the assistance of an AI system
+implemented by me pocan is an AI
+business on many sides it uses AI
+heavily in its internal operations to
+extract data figure things out summarize
+but it's also built on through and with
+AI so any business that doesn't look to
+AI first at this point is wasting money
+and time because AI is going to be there
+immediately for you and be good enough
+for the first steps maybe even good
+enough for the whole thing if you don't
+use this you're actually hamstringing
+your own operations and that's it for
+today thank you so much for listening to
+the Boer founder you can find me on
+Twitter avidar a Kahl if you want to
+support me on this show please share
+pods scan. FM with your professional
+peers and those who you think will
+benefit from tracking mentions of their
+brands businesses and names on podcasts
+out there pods scan is a near realtime
+podcast database with a stellar API so
+please share the word with those who
+need to stay on top of the podcast
+ecosystem thank you so much for
+listening have a wonderful day and
+bye-bye
+[Music]

@@ -1,0 +1,52 @@
+{
+  "topic_id": 158020,
+  "title": "Error while saving NEW ITEM with linked fields",
+  "slug": "error-while-saving-new-item-with-linked-fields",
+  "category_id": 57,
+  "tags": [
+    "customization",
+    "item"
+  ],
+  "created_at": "2025-12-15T17:49:30.123Z",
+  "last_posted_at": "2025-12-15T17:49:30.234Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/error-while-saving-new-item-with-linked-fields/158020",
+  "views": 32,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Hussain",
+  "posts": [
+    {
+      "id": 488927,
+      "username": "Hussain",
+      "name": "Hussain Shabbir",
+      "created_at": "2025-12-15T17:49:30.234Z",
+      "cooked": "<p>I wanted to add a text field for each <strong>item group,</strong> so that when I select any item group in NEW ITEM the text field shows respectively.</p>\n<p>Here is what I did</p>\n<ol>\n<li>I went to Item group</li>\n<li>click Customize, and added a <strong>Small Text</strong> field named as <strong>Category Attributes</strong>.</li>\n<li>Then I wen to <strong>ITEM</strong> and added a <strong>link</strong> field to <strong>category attributes</strong> from <strong>Item group</strong>.</li>\n<li>Everything is working fine and desired data is fetched but when I save the item, an error shows.<br>\n”Could not find Category Attributes: Brand - Ply - Size - PO+Ratio Details - Quality - Separator Citi Trends - 7 PLY Corrugated - 62x33x30 - 159807 - Ratio - Corrugated - Separator - White Paper Pasting”<br>\n**how can I fix this?<br>\n**<br>\nI have attached pictures for visual aid</li>\n</ol>\n<ol>\n<li></li>\n</ol>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/4/d/4db140449477fbfaf44506891c6ee1f29a7c34d7.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/4db140449477fbfaf44506891c6ee1f29a7c34d7\" title=\"Screenshot 2025-12-15 130843\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/4/d/4db140449477fbfaf44506891c6ee1f29a7c34d7_2_690x349.png\" alt=\"Screenshot 2025-12-15 130843\" data-base62-sha1=\"b5iwtDMf7VcZqQKk2N30YNkolJZ\" width=\"690\" height=\"349\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/4/d/4db140449477fbfaf44506891c6ee1f29a7c34d7_2_690x349.png, https://discuss.frappe.io/uploads/default/optimized/3X/4/d/4db140449477fbfaf44506891c6ee1f29a7c34d7_2_1035x523.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/4/d/4db140449477fbfaf44506891c6ee1f29a7c34d7_2_1380x698.png 2x\" data-dominant-color=\"F8F8F7\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot 2025-12-15 130843</span><span class=\"informations\">1608×814 62.3 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<ol start=\"2\">\n<li></li>\n</ol>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/7/e/7e626fa4205f46fd9441c3117cd2ae47d6f77c53.jpeg\" data-download-href=\"https://discuss.frappe.io/uploads/default/7e626fa4205f46fd9441c3117cd2ae47d6f77c53\" title=\"WhatsApp Image 2025-12-15 at 13.16.47_5af9f11a\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/e/7e626fa4205f46fd9441c3117cd2ae47d6f77c53_2_690x366.jpeg\" alt=\"WhatsApp Image 2025-12-15 at 13.16.47_5af9f11a\" data-base62-sha1=\"i233HgS1PhfbtYPq23qFOY5iPhF\" width=\"690\" height=\"366\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/e/7e626fa4205f46fd9441c3117cd2ae47d6f77c53_2_690x366.jpeg, https://discuss.frappe.io/uploads/default/optimized/3X/7/e/7e626fa4205f46fd9441c3117cd2ae47d6f77c53_2_1035x549.jpeg 1.5x, https://discuss.frappe.io/uploads/default/original/3X/7/e/7e626fa4205f46fd9441c3117cd2ae47d6f77c53.jpeg 2x\" data-dominant-color=\"F9F9F9\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">WhatsApp Image 2025-12-15 at 13.16.47_5af9f11a</span><span class=\"informations\">1280×680 80.8 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div>3</p>\n<ol start=\"3\">\n<li></li>\n</ol>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/3/1/31cb47ac9c83ce443f9bb91ce653cd42c0906fde.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/31cb47ac9c83ce443f9bb91ce653cd42c0906fde\" title=\"Screenshot 2025-12-15 131658\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/3/1/31cb47ac9c83ce443f9bb91ce653cd42c0906fde_2_690x369.png\" alt=\"Screenshot 2025-12-15 131658\" data-base62-sha1=\"76uV7QjA520kMcuRfS8XLV4ZUqW\" width=\"690\" height=\"369\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/3/1/31cb47ac9c83ce443f9bb91ce653cd42c0906fde_2_690x369.png, https://discuss.frappe.io/uploads/default/optimized/3X/3/1/31cb47ac9c83ce443f9bb91ce653cd42c0906fde_2_1035x553.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/3/1/31cb47ac9c83ce443f9bb91ce653cd42c0906fde_2_1380x738.png 2x\" data-dominant-color=\"6F6F6F\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot 2025-12-15 131658</span><span class=\"informations\">1616×866 70.8 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/h/f17d59/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 17,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

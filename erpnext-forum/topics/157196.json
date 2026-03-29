@@ -1,0 +1,51 @@
+{
+  "topic_id": 157196,
+  "title": "ERPNext Production v16 OVA Download",
+  "slug": "erpnext-production-v16-ova-download",
+  "category_id": 6,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-11-23T14:58:09.566Z",
+  "last_posted_at": "2025-11-23T14:58:09.645Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/erpnext-production-v16-ova-download/157196",
+  "views": 565,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 8,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "greendigitize",
+  "posts": [
+    {
+      "id": 487275,
+      "username": "greendigitize",
+      "name": "Abu Musa",
+      "created_at": "2025-11-23T14:58:09.645Z",
+      "cooked": "<p>Here is download link for <strong><a href=\"https://drive.google.com/drive/folders/11l0lg3SbofcSLwv7RmQxTI1wfLwyts97?usp=drive_link\" rel=\"noopener nofollow ugc\">ERPNext Production V16</a></strong> OVA</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/9/8/9852674f09fd964d3a8e8d68c58ab7a53b15418c.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/9852674f09fd964d3a8e8d68c58ab7a53b15418c\" title=\"erpnextv16-ui\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/9/8/9852674f09fd964d3a8e8d68c58ab7a53b15418c_2_640x500.png\" alt=\"erpnextv16-ui\" data-base62-sha1=\"lJv7HO2nSFAPW5g7B3WGY4VRbFa\" width=\"640\" height=\"500\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/9/8/9852674f09fd964d3a8e8d68c58ab7a53b15418c_2_640x500.png, https://discuss.frappe.io/uploads/default/optimized/3X/9/8/9852674f09fd964d3a8e8d68c58ab7a53b15418c_2_960x750.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/9/8/9852674f09fd964d3a8e8d68c58ab7a53b15418c.png 2x\" data-dominant-color=\"F6F9FA\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">erpnextv16-ui</span><span class=\"informations\">1095×855 44.3 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/d/6/d65e9f5bbec3fde8de899ee906fa2d2232c88e51.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/d65e9f5bbec3fde8de899ee906fa2d2232c88e51\" title=\"erpnextv16-app\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/d/6/d65e9f5bbec3fde8de899ee906fa2d2232c88e51_2_485x499.png\" alt=\"erpnextv16-app\" data-base62-sha1=\"uAoUckyCuI7SjULaxuYvQ3Io3FT\" width=\"485\" height=\"499\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/d/6/d65e9f5bbec3fde8de899ee906fa2d2232c88e51_2_485x499.png, https://discuss.frappe.io/uploads/default/optimized/3X/d/6/d65e9f5bbec3fde8de899ee906fa2d2232c88e51_2_727x748.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/d/6/d65e9f5bbec3fde8de899ee906fa2d2232c88e51.png 2x\" data-dominant-color=\"F2F2F2\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">erpnextv16-app</span><span class=\"informations\">805×829 51.9 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Import in <strong><a href=\"https://download.virtualbox.org/virtualbox/7.2.4/VirtualBox-7.2.4-170995-Win.exe\" rel=\"noopener nofollow ugc\">Open VirtualBox</a></strong> and enjoy. <img src=\"https://discuss.frappe.io/images/emoji/twitter/blush.png?v=14\" title=\":blush:\" class=\"emoji\" alt=\":blush:\" loading=\"lazy\" width=\"20\" height=\"20\"><br>\nUbuntu Login : <strong>frappe</strong><br>\nPassword : <strong>frappe</strong><br>\nmySQL : <strong>frappe</strong></p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/greendigitize/{size}/92147_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 84,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 2,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

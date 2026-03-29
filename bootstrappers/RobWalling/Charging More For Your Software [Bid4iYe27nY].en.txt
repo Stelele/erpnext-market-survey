@@ -1,0 +1,780 @@
+﻿Welcome back to MicroConf on Air. I'm
+the host, Rob Halling. And every other
+Wednesday at 1 p.m. Eastern, 10 a.m.
+Pacific, we live stream for about 30
+minutes. And we cover topics related to
+building and growing ambitious SAS
+startups that bring us freedom and
+purpose and healthy relationships. We do
+not ask for permission to start
+companies. We build and ship real
+products that sell to real customers who
+pay us real money instead of using
+excuses like, "I need to go build a
+slide deck." Instead of actually
+shipping features, getting people to pay
+me. I'm excited today for our guest.
+We're going to talk about how to charge
+more for your software. And I love these
+these uh stories because you know micro
+comp startups for the rest of us have
+really had a message for the past 10 11
+years and it's usually we're not
+charging enough. Either we're not
+charging enough to a particular customer
+segment or we're not charging enough to
+all of our customers. And if you're not
+re-evaluating your pricing about every
+year, it depends on your space. If it's
+a fastmoving competitive space about
+every 6 months and if it's maybe it's a
+little slower moving, fewer competitors
+12 to 18 months um you should be
+reevaluating. If you're not doing that,
+you're falling behind. And so today I'm
+going to in a moment going to be
+welcoming Iran Galperin to the show. And
+we're going to be talking about not only
+a a uh rebrand that they recently did,
+but talking about how he planned and
+rolled out a pricing update just over
+the last it was last month, I believe.
+um because he and I were chatting about
+it. He's in Tiny Seed the fall batch of
+Tiny Seed and so um we were strategizing
+and and he went on and did it and so
+that's that's the kind of stuff we're
+going to talk about today and it's a
+rare micro uh on air because we already
+have an audience question and uh we'll
+get to that in a few minutes. If you
+have questions uh for Iran or myself as
+we move forward just go ahead and type
+them into Microcom connect in the
+Microcom on air channel or you can type
+them into the uh the YouTube chat. So
+with that, I'm going to welcome Iran
+Galprin to the show. He's the founder of
+Jim at gymdesk.com. It's online
+management software for gyms. He's been
+building tech companies since 2003,
+about as long as I have, and has over 20
+years of experience in software
+development and leading product teams.
+Welcome to the show, man.
+Hi, Rob.
+It's great to have you.
+Glad to be here.
+Yeah. So, I want to talk I want to dig
+into this pricing change because I think
+people are going to be really interested
+to hear about it because they they hear
+a lot of theory around oh you should
+charge more but the reality of that is
+can be stressful and it can be more
+complicated than just well how much more
+do I charge who do I charge more to how
+do I think about this so do you want to
+like talk us through a you know what
+made you reevaluate and think I'm gonna
+you know I am going to raise prices and
+then b how you went about trying to do
+the nuts and bolts of it.
+Yeah for sure. So I think it's a very
+common story. Uh when we just launched
+um literally six six years ago, January
+2016,
+um we had a very basic version of the
+product that we have today and we were
+going up against very powerful uh
+competitors in our space, established
+brands. Um and we priced oursel in a way
+that we would compete on price.
+Um and over the years as uh the product
+evolved based on user feedback
+um it was becoming obvious that we did
+not price oursel correctly to what we
+have today. I think the pricing that we
+had worked for us when we launched six
+years ago but we were way underpriced uh
+coming into 2022.
+Um, and it's something we thought a lot
+about before we joined uh the Tiny City
+Accelerator.
+Um, we had some conversations with
+investors
+um that mentioned that potentially we're
+uh underpriced, but it it's really hard
+to find the right timing to do a pricing
+update. Um, first of all, there's a lot
+of anxiety around changing your pricing.
+A lot of the customers that did join us
+while we had a lesser version of our
+product, they they did so because the
+pricing was right for them and we were
+um justifiably afraid to lose a lot of
+those customers um that were to rely on
+us to manage their business. Um so just
+for the audience a little bit about what
+Gym is. Uh we provide online management
+software for gyms, uh martial arts
+schools, uh yoga studios and any kind of
+membership type business. Um and they
+basically use it to run their entire
+business. So um we also built a personal
+relationship with a lot of those
+businesses. Um so it's kind of hard to
+tell them when they rely on you to
+manage their business. It's like, okay,
+now it's going to cost a lot more
+because we did uh um raise prices
+significantly.
+Um but the point came where it was time
+to update our pricing and we were in the
+tiny city accelerator. That's one of the
+u main talking points that you guys
+make. Um and I decided it was time. We
+were also updating our brand which we
+will talk about in a little bit. and I
+felt like together um that was the time
+to do it.
+Right. That makes sense. And I I like
+that you brought up the anxiety around
+it because that is something that it's
+easy to say you should raise your
+prices. It is hard to raise your prices
+and every time I've done it, it has
+really stressed me out. So I think nuts
+and bolts wise then how did you arrive
+at new at the new pricing tiers and can
+you give us an idea of what kind you
+know what the increase was like? And
+then we could then we'll get into
+grandfathering like you know because
+that's a whole other topic that right
+now we're just talking when you say
+raise prices in a SAS app it's like well
+I'm going to update my pricing page so
+new customers pay more but then you have
+to go think do I also raise on existing
+right so when we picked our original
+pricing I did do a lot of price
+comparison with our competitors and I
+priced oursel a little bit below
+everything they offer. Now over the
+years they also updated their pricing
+and we didn't follow suit. So um to
+prepare for this I went over everything
+that they do with pricing because
+there's a lot of different approaches.
+Uh some people do it um based on feature
+based on usage uh some combination
+um and there's some interesting uh
+pricing uh plans that I saw some of our
+competitors do. Um I wanted to keep it
+simple. I believe simplicity is um
+especially for uh products that appeal
+to very small businesses, simplicity is
+very important to um stay uh
+simple for them to understand. I don't
+know how else to put it. Um because they
+they have so much to worry about as a
+small business owner. I am one, you are
+one. There's just so much we do. Um if
+it's an enterprise type SAS completely
+different sales process you know you
+talk to somebody whose whole um job is
+to decide whether to purchase you or
+not. Um it's not the same. So um we
+shopped around. We looked at everybody's
+prices and we said we don't want to be
+the budget option anymore. So this time
+I'm not going to price myself under my
+competitors. I'm going to price myself
+around or even over what they charge.
+Um, so I went from being uh a value uh
+option to being uh middle of the pack
+and in practice most of our plans uh
+were raised by over 50%.
+Which is a major increase.
+Mhm. Um, so for our current customers, I
+came up with a plan to kind of um break
+it down easy for them and also to uh
+kind of reward them for being with us uh
+when we were a much lesser product. Um,
+so I gave them uh a grandfathered option
+for three months. So, we launched the
+pricing update January 1st and they're
+going to stay with their previous
+pricing until April 1st and then they're
+going to move to a discounted plan
+compared to uh our new pricing. Um about
+25% less than what the new pricing is.
+So,
+they get their original pricing for 3
+months and then a discounted plan
+forever until
+um they upgrade to a higher tier or we
+update our pricing again. That's
+basically how we went about it. And I
+wrote down an email that we kind of
+crafted together
+um explaining the rationale for the
+price increase. Our product has evolved.
+It's basically unrecognizable from what
+we had six years ago. Um, inflation
+alone increased by about 16%.
+Over those six years
+and um most of our customers responded
+very positively to that. Uh some of some
+of them even wrote back and said uh
+congrats you deserve a raise. M um which
+I found uh very nice because like you
+said I did have some anxiety and concern
+about raising prices. Not everybody was
+happy obviously nobody likes their
+prices being raised but nobody um took
+it too far to say you know uh we're
+leaving. We're going to trash you on
+social media which was my main concerns
+like a lot of angry customers. It's
+like, oh, um, we depend on you to run
+our business and you go and raise our
+prices and now we can't afford you. Um,
+so none of that happened. Very happy
+with that.
+Yeah. Yeah. Because that happens. I
+mean, I've seen it happen to Intercom
+has like they quadrupled their price a
+few years ago and then they backed away
+from it because people were so angry.
+When Netflix raises their price by a
+dollar or two, people, you know, they're
+very price sensitive. And I'd imagine
+gyms and yoga studios and fitness
+studios are are pretty price sensitive
+compared to whatever a funded tech
+startup, right? It's like they because
+they're kind of I mean it's a small
+business with with relatively tight
+margins. Is that right?
+Well, it it's also an interesting part
+of the equation. So, a lot of our
+customers were really in the very tiny
+um kind of business um because that's
+how we price oursel.
+uh the the larger studios and gyms,
+they're not as price sensitive.
+It's not a big concern to them whether
+it costs 90 bucks or 150. Uh it's a
+small expense compared to their um
+volume, but the small ones, they're very
+price sensitive. Um and in my
+experience, I also found those types of
+businesses uh to be the most demanding
+customer service-wise. Mhm.
+So, part of the plan with this pricing
+update was even though um you know I
+didn't want to lose those customers
+there there's some
+that
+um I'm fine with losing if
+you don't mind losing them. Yeah.
+Yeah. Made a rockus around raising their
+prices,
+right?
+Yeah.
+Someone paying you $15, $20 a month and
+Yeah. When you have people paying you
+hundreds and they have need five, you
+know, five times more handh holding or
+whatever. Definitely. that that was also
+part of so we do get a lot of inquiries
+over the years. We got a lot of
+inquiries where people come in and
+they're like, "I'm so small. I want a
+discount over your smallest package."
+And sometimes I did concede. It's like,
+"Yeah, they they are very small and they
+need a solution." And I and I put them
+on discounted plans that ended up
+costing us more than they were worth
+because those people uh once once
+they're in they're like they want you to
+do everything for them because the their
+mindset is that we're already paying
+you. It's like you should be able to do
+everything.
+Um and I'm fine with not getting that
+type of customer going forward. uh we we
+don't want to beat the budget and then
+it's like okay we have a bunch of
+demands. I want to be mid tier and it's
+like this is a pricing and this is a
+product and we're proud of what we have.
+Um not to saying we stopped accepting
+user feedback because that's always been
+a major growth engine for us but um I'm
+fine with not having the people who
+think their dollar should go way more
+than anything else. Um, so yeah, um,
+that that's another consideration there.
+Yeah, we have a comment uh from
+Christopher in YouTube. He's agreeing
+with you. He says, "If your business is
+staying afloat from said software and
+you value your tools and business
+growth, why wouldn't you pay more if
+it's really helping, right?" He's
+communicating that
+that you know, and some people see it
+that way and some people don't. And and
+that's the thing.
+Yeah. It's it's a different mindset.
+Yeah. You you definitely
+you you you're communicating a
+confidence. You have to have a
+confidence in your product to do what
+you did, which is to go from the lowest
+to a mid tier. And to basically say
+price was potentially an advantage. You
+may have won deals in the past based on
+price. Probably did. Um and to say, you
+know what, that's not our value anymore.
+Like we're still a good we're still a
+good value, but we are not the value
+option, the cheap option. that actually
+our product stands up you know to the
+rest of the space.
+Um did you have to build up to that
+confidence or when you were changing
+pricing were you thinking nah this this
+is where we are?
+Um so I already had that confidence uh
+for the last year or so. Um our company
+really took off in 2020 and 2021
+even with co um because our industry has
+been heavily impacted by it. 2020
+started off with a bang. We just
+completed a redesign of our entire user
+interface. Um, and we've seen conversion
+rates that we haven't seen ever. Uh,
+coupled with our organic leads growing
+over time. We've seen uh MR growth
+months that showed an amazing trajectory
+until March
+um when COVID hit.
+Yep. and everybody started shutting down
+their gyms, their studios. Uh we got a
+bunch of emails like, "I'm gonna need to
+freeze my plan."
+April, May, first months ever with
+negative MR.
+Wow.
+Um and then it kind of uh fizzled out.
+Um
+and by winter, we were back on the
+horse. I think without COVID, uh 2020
+would have been amazing for us. Still
+ended up being very strong. in 2021 um I
+guess because many of our customers are
+US-based has been just gang busters.
+It's like we basically
+more than doubled our
+MR in 2021
+um where it was already pretty
+substantial in 2020.
+Um
+yeah,
+so at this point Yeah.
+Do do you want to give people an idea of
+um like where you are at in terms of
+size? is you don't have to say your
+revenue, but a number of employees, um,
+how many customers approximately, even
+if you're vague.
+Um, yeah, I'm completely fine with
+sharing our numbers. So, we hit uh 45K
+MR last month.
+Good for you, man.
+Um, plus we get now significant revenue
+from uh revenue share with payment
+processors. Um, so I'm still not
+comfortable including that in in the MR,
+but that's an additional five, six
+pay a month. We have around 600
+customers now. Um, each one of those is
+a business with hundreds of members.
+Some of those have multiple locations.
+Um,
+and uh, what what was the last metric
+that you used?
+Um, I was saying how big your team size.
+Oh, the team size, right? So, we now
+have five full-time employees. We
+started the the year with just me.
+Wow. You really hired this year. I
+didn't realize that. I didn't realize
+you went from one to five. Yeah.
+Yeah. It it was gradual. I added um my
+first full-time hire in August,
+marketing guy that has worked with us uh
+uh on a contract basis in the past.
+Excellent fit. Then I added our first
+customer service person. Best decision
+of 2021.
+It took so much stress off of me.
+Yeah, I bet.
+Yeah, I I've been doing customer service
+myself for almost six years and as we
+got to this size, it it was becoming an
+a daily interruption. I wasn't spending
+so much time as I was spending mental
+energy on it.
+Yeah.
+Was really bringing me down. So
+now we have two customer service people.
+Uh we service two different time zones.
+also added a QA person that helps with
+other aspects of the business. Uh, and
+myself, five full-time employees.
+Awesome. That's cool. Yeah. Founders
+listening to this, don't do your own
+support for six years. This is not a
+thing. When I the last SAS company I
+started, I did it for about we we
+launched and I did it for about three or
+four months and I was like, I c I just
+can't do this anymore. And so, I hired
+somebody and I still was I was I still
+had my finger on the pulse. I still
+would skim through him because I wanted
+we were still so early. I wanted to know
+the feedback. He would escalate a lot of
+things to me still, but it was I wasn't
+that frontline. Ding, I have to stop
+writing code. Ding, I have to stop
+writing this blog post. Ding. You know
+what I mean? And that's the that was the
+stress that I think you're referring to
+where it isn't that many hours, but it's
+the interruption that kills you. You
+know,
+it's not it's not just that. So, that
+interesting you brought it up because
+that was also part of our previous
+pricing consideration.
+I was very against um like doing sales
+calls and taking customer service calls
+in general. People would like I want to
+speak to you on the phone. I'm like
+sorry online only and kind of filtering
+out the people that are not comfortable
+with that. Uh we built our service to be
+very self-service
+oriented. So, we don't get a lot of
+volume, but now we do accept people want
+to have a a phone or a video chat um
+with someone to go over the software. We
+do um live demos. My customer service
+people, they kind of function both as
+actual customer service, but also as
+basic salespeople. Uh because the
+product is so good, all they have to do
+is walk the customer through it, and
+usually that closes the deal right
+there. Um, so yeah.
+Yeah, that is that is nice. So, we have
+a question from the audience. It's from
+Dan in Microsoft Connect, and it's an
+interesting one. It's one I've never
+heard I've never heard asked before. He
+says, "Are there ways to ask certain
+satisfied customers that are getting a
+ton of value to pay more?" And if you
+have questions and you're in the
+audience, please ask them. We'll be
+taking them for the next few minutes as
+we talk about this one and and then
+hopefully we have time to talk about the
+rebrand.
+I will weigh in on this first. So, I've
+never heard of anyone doing that.
+Although, I personally would think about
+a way of like if they're getting a ton
+of value, how can you measure that value
+and then structure restructure your
+pricing such that that is just your
+pricing now? That it's not like they're
+not like edgecase individuals. It's like
+they have 10,000 subscribers and
+everyone else only has 1,000. I'm just
+going to charge based on subscribers.
+That's a very simple way to do it. But I
+would try to think is there a way to
+measure the value they're getting. Is it
+number of locations, number of seats,
+number of whatever? Because it I won't
+say it feels unfair, but maybe it does,
+right? If you literally single out three
+companies and you're like, you're
+getting a lot of value. I'm going to
+double your pricing. They're going to I
+I think there could be friction there.
+What do What do you think, Aron?
+Yeah, it's an interesting question. I
+think it really depends on the product
+that you offer. Uh for us, we we are
+able to track uh multiple metrics in
+which the business is using us. Um, and
+we can tell there's definitely customers
+that get more out of the product. That
+doesn't mean that they're necessarily um
+m willing to pay more,
+right? Some of them might be budget
+conscious because they're smaller. Um,
+but I also have their full business
+metrics, so I can tell who can afford to
+pay more,
+right?
+But still, I didn't want to go about it
+like that. I didn't want people to feel
+they're getting singled out because they
+make more money. I know personally that
+that's something a lot of our
+competitors, they don't offer um a free
+trial like we do where you just sign up
+and you can try the product. You have to
+go through a sales call and usually that
+sales calls uh is also a qualifying call
+where they kind of determine how much
+you're going to be able to pay and they
+price you accordingly. I hate when
+people do that to me and I don't do that
+to my for my customers. So everybody can
+see our pricing is transparent and um
+they pay according to that. Um so uh I
+personally wouldn't do that but maybe
+with a different product it would make
+sense.
+Yeah I could the exception I can think
+of I was just trying to think as you
+were talking is I think if you are
+mostly enterprise sales that's kind of
+how it's done. It's usually
+Yep. And you usually need these big
+contracts because they are kind of a
+pain. And if you signed a contract with
+someone
+and
+yeah, let's say they were getting a ton
+more value. You typically have annual
+contracts that renew and then that next
+renewal you could you could approach
+them and say, you know, we're going to
+double your price, but you need some
+justification for it and then see what
+happens. And they'll either flip out and
+say they're going to cancel and they
+say, well, we won't double it. What if
+it go up 50%. You know, it becomes a
+negotiation at that point. But it's
+different because you are mostly mostly
+or solely self-s serve, you know, at
+this point. And that's a different it's
+a different business.
+It's true. Even though we started
+crossing the line into enterprise sales
+um near the end of last year, right
+after this uh um event, I have a call
+with a customer that has 50 locations.
+At that at that point, it's going to be
+enterprise pricing. Mhm.
+Like our pricing ends at about five
+locations and then it's like call us to
+talk about it. We do have a formula. We
+don't invented for each customer but
+yeah uh we started doing that that kind
+of pricing. Uh we just onboarded our
+first kind of enterprise customer which
+is going to be paying double what our
+largest paying customer previously uh
+ever paid which is very exciting for us.
+And in addition they're going to bring
+significant uh revenue share with their
+payment volume. Um they're that that
+customer alone is worth a month a full
+month of MR growth from last year.
+That's awesome. Yeah,
+that's great. So, we have about five
+minutes left. I want to ask you about
+this rebrand. So, you used to be the I
+mean, as of two months ago, you weren't
+gym, you were martial arts on Rails. And
+so, not only did you rename, you have a
+new logo, you have a new domain, and did
+you also you redesigned this site as
+well?
+Um, no, the site design stayed basically
+the same
+because you had already redone that.
+Yeah.
+Like last year. Okay. So, yeah. What's
+the, you know, why did you consider a
+rebrand and then how did it go?
+Yeah. So, when we just launched, we were
+very focused on martial arts schools.
+That's my background. I've been training
+in Brazilian jiu-jitsu for now almost 15
+years. At the time, nine years. Um, so
+that's that's what I knew how those kind
+of uh gyms operate. Mhm.
+Um we branded ourself that way and the
+naming also was determined by available
+domain,
+right?
+Um always a a problem for online
+businesses. It's really hard to find
+good domains.
+Um but as time went on, we started
+acquiring uh customers from other types
+of membership businesses. Obviously,
+fitness gyms, yoga studios are obvious
+ones, but we even had uh a car wash
+chain join. It kind of opened my eyes to
+what is possible with the right
+branding. Um because it was very obvious
+that a lot of businesses are avoiding us
+because our brand is very martial arts
+oriented.
+It literally it was literally in our
+name.
+Um so I knew a rebrand was necessary.
+Again, timing is always difficult. I'm
+always head down in the product. Um, but
+I I decided that with the pricing
+update, that was a good time to do that
+as well.
+Um, finding a good name and a good
+domain was a huge pain.
+I bet
+we we settled on it literally
+five days or four days before the
+rebrand. We kept like I bought a bunch
+of domains.
+Oh man. And I'm like, none of these is
+like it. And then I came up with gym.
+You know, it it already conveys what
+we're doing.
+Um
+seven.com too. It's a It's a really good
+name. Everyone who has heard it and
+everyone who I've told it to has said
+that's a good name for that. Did you Did
+you pay it? Was it nine bucks for that
+domain or did you Yeah. Cool.
+I saw it's available as a premium
+domain. Never purchased a premium
+domain. That was a whole story by
+itself.
+For a couple weeks, I was in limbo after
+I purchased it. Um I I went through
+GoDaddy because they supposedly had it.
+They didn't have it.
+They had to go and get it from the
+owner,
+right?
+Um but eventually we got it just in time
+for the new year to roll in. I planned
+uh I planned the domain migration, which
+is another huge um undertaking. Mhm.
+Um, very scary because our main
+acquisition channel was organic,
+but it it went well. Um, we did take a
+hit on SEO, but uh, surprisingly, two
+weeks later, we're already picking back
+up. Um, and yeah, everybody
+um, gave us feedback of how much they
+love the new name and branding,
+especially our fitness um, and boutique
+gym uh, businesses. They're like,
+"You're gonna crush it
+with new name."
+Um, we avoided you for a long time
+because of the name
+and now it's like
+no reason. This is it.
+Every gym uh wouldn't want to use you.
+Yeah.
+That's awesome, man. That's got to feel
+good. How do you have any was there any
+fallout, any negative stuff from from
+the rebrand? Any either feedback or like
+SEO, you know, just anything that
+Yeah, the domain change itself um
+brought up a bunch of issues that we had
+to tackle. Um, for a while some of our
+customers were not able to access our
+website
+for weird reasons.
+Somehow the domain we bought, which
+sounds very um naive, but it it was
+flagged as 18 plus in some countries.
+Wow.
+And people people that had a content
+filter on their phones Sunday couldn't
+access it. And it took us a while to
+figure that out.
+Yeah. one of our customers kind of they
+they called their mobile provider and
+they're like, "Oh yeah, we're not
+serving that website because it's marked
+as 18 plus." Um, so once they disabled
+their content filter, I reached out to
+those networks and asked to be delisted.
+They have a channel for that. But weird
+stuff like that came up. Um, but we're
+pretty much over the bulk of it now.
+Yeah, that's cool. We got a comment from
+Christopher Leslie. He says, "Just
+pulled up Jim Desk and honestly you guys
+are worth the cost." I'm sure that
+Christopher appreciate it.
+Iron likes hearing that. Well, we are at
+about time, sir. Thanks so much for
+joining me today. Folks want to keep up
+with you on Twitter. It's your first and
+last name, Iran Galperin. And of course,
+gymdesk.com if they want to see what
+you're up to. Thanks for taking much.
+Absolutely. Great chatting with you.
+All right. And thanks to you for coming
+back every other week um as we roll out.
+I want to let you know tiny seed batch
+five the spring batch. It's actually
+there's going to be an America's batch
+and uh Europe, Middle East, and Africa
+and AMIA batch. So those applications
+open on Monday. Head to tiny seed.com.
+Uh that's Monday the what is that the
+21st? No, that's not true. 24th
+of January. Um, if you're interested in
+learning about how B2B SAS and Noode
+intersect, head over to microcomote.com
+and it's $30 for six recordings of six
+talks at MicroCom Remote that we held
+just a month or two ago. We also have an
+information session um that we're doing
+next Tuesday for the Tiny Seed Batch.
+It's like a one-hour Q&amp;A live, so sign
+up for that um tiny seed.com if you're
+interested. And as always, thank you to
+Hey and Stripe for being our headline
+partners for 2022. If you're interested
+in sponsoring any of the Microcom events
+or offerings, don't hesitate to reach
+out support at microcom.com. And I'll
+see you back again here, same time, same
+place in two weeks. Thanks for joining
+me.
+[Music]

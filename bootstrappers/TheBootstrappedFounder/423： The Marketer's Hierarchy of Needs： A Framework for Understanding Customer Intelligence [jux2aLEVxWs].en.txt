@@ -1,0 +1,503 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+[music]
+So, one of Potscan's main customer
+profiles that I've recognized over the
+last couple years building this business
+is marketers. People who think in
+marketing terms with marketing jobs or
+marketing goals. And in a way, even my
+other customer profiles, the founders,
+the builders, the public relations
+experts, the researchers, all of them
+have a similar process to how they use
+the data that Podscan provides. Whether
+it's through the alerting system that we
+have or the deep full text search
+capabilities that we have into millions
+of podcast transcriptions, everybody has
+certain interests, a couple of things
+that they really want to get out of this
+data. And the more I run the business,
+the more I realize that there's this
+kind of hierarchy, a mass loss hierarchy
+of needs that marketers have in terms of
+how they look at data. So that's what
+we're going to be looking at today. A
+quick word from our sponsor paddle.com.
+I use Paddle as my merchant of record
+for all my software projects. They take
+care of all taxes, the currencies, the
+tracking of declined transactions, and
+then updating credit cards when the
+numbers change and all that. so I can
+focus on dealing with my customers, my
+competitors, and not with banks and
+financial regulators. If you think you
+would rather just build your product,
+well then go and check out paddle.com as
+your payment provider and merchant of
+record. [music]
+Now, in a recent conversation with my
+brother-in-law who runs his own branding
+agency and is a deep expert in brands
+and markets and audience perceptions, I
+realized that even without understanding
+that there is this hierarchy of needs,
+I've actively used it in my product
+onboarding process. And I think I've
+shared this a couple times over the last
+10ish or so episodes that I have this
+kind of AI assisted process that helps
+people set up alerts and all that, but I
+haven't really shared how I thought
+about which alerts to set up, but I
+probably made the right choices here and
+that has caused several pretty sticky
+customers to stay on the platform. So,
+let me share how this came about and
+what it's all about. I think it's
+probably very interesting to look at the
+data that people you serve actually need
+like people who have a job to be done
+and what they need for that job and
+understand what exactly the data is and
+how important different kinds of data
+are to them in which specific order.
+Like I said, what I found is kind of
+this massive hierarchy of needs, which
+if you've never heard of it before, is
+this theory of motivation that describes
+how humans need to fulfill one kind of
+need before they can go on to another,
+right? They have physiological needs
+first, actual physical needs like food,
+water, air, shelter, clothing, that kind
+of stuff. And once those are satisfied,
+they move on to safety needs, personal
+security, ownership, property, health.
+And once that's satisfied, it gets more
+cerebral. It becomes about love and
+belonging, partnership, friendship,
+connection. And once those things are
+established meaningfully, people can
+develop something akin to esteem,
+self-esteem, motivation, respect with
+each other. And then ultimately when
+that is present, self-actualization,
+like making a dent in the world that
+becomes a possibility. But each of these
+layers needs to be there before people
+are able to go onto the next layer. And
+I think I found something similar to
+exist for marketers. Of course, not as
+deep as this human need thing, but
+anybody who is seeking somebody else's
+attention has the specific lens through
+which they look at what they need to
+make smart choices. What people who are
+trying to convince others need to get
+them to use their service, to join their
+organization, maybe sell them something
+or get them to pay attention in any way.
+And they need to know something and they
+need to know something in order. So
+that's kind of where my hierarchy came
+in. A couple months ago, I decided that
+we're all using AI in really strange
+ways on the internet. So how about just
+making it useful and start using AI in
+interesting and user helping ways like
+bringing actual customer needs forward
+and make AI functionally fulfill these
+instead of just making AI do jobs that
+nobody needs them to do. So I tried to
+figure out how I could use AI in my
+onboarding process. And what I found was
+that people often struggled with
+creating good initial alerts for their
+businesses or for the jobs they have
+because they didn't know what to look
+for or at least they didn't know how to
+phrase it. And since I've had a lot of
+customers and a lot of insights into
+what they ultimately ended up searching
+for and what was effective as alerts, I
+built this list of 10 things that I
+believe people should look into in a
+certain order. I built an AI system, an
+agentic system around it that asks
+people a couple of questions and then
+builds those 10 alerts perfectly for
+that particular user. If it's a medical
+company, it asks them what branch of
+medicine they're in, and what they're
+trying to accomplish in the podcasting
+space, what they do, what they do best,
+what they're known for, what maybe
+they're not known for, and then it
+starts tracking all kinds of different
+things about them. And if they're a
+different company, obviously the
+questions would be different, but the
+outcome would be the same. You would set
+up these different things. And I built
+this so that people would have a very
+broad overall net to fish in the podcast
+conversation space with. And here are
+the things in order of relevance that I
+came up with. The biggest one is a
+mention of the service or the product
+that these people work for. Somebody who
+works for notion will look for mentions
+of notion the product or notion AI, a
+product of the notion company. Somebody
+who works for a soccer club or football
+club will look for the names of their
+players, the name of the club, maybe the
+mascots. the kind of attract why people
+mention those things. It's very
+specific, but it's always been the very
+first thing that people want. It's about
+who we are. It's some kind of identity
+thing. The thing that they care about
+most, the thing that they're paid by,
+the thing that they need to market, the
+thing that they need to facilitate is
+their own organization. So, the first
+thing that people always search for is
+the name of their product, the name of
+their business, or even their own name.
+And that happens quite a lot as well
+because people want to know where they
+are mentioned so they can react to it.
+So the first level is self-awareness.
+What are people saying about me or my
+thing, my product, my business? The
+second biggest thing is always reliably
+after this, what are my competitors
+doing? Like people don't really care
+about anything else but their immediate
+competitors. It's the moment you know
+when you're mentioned, you become
+increasingly interested in people around
+you, the people who compete with, the
+people who are in the same market. What
+are their interests? What are they
+talking about? What are the
+conversations that they're participating
+in? Where are they mentioned? What are
+they not just saying, but what is said
+about them? This reliably is the biggest
+thing that I find being tracked on the
+platform. There's nuance here,
+obviously, because it's kind of a self-
+selection. People often only know a few
+of their actual competitors by name.
+There's always this unknown unknown in
+there as well. Sometimes you just don't
+know who's building the business that's
+coming to replace you, and sometimes
+you're just not aware of the competitors
+that are up and coming. But in a sense,
+that doesn't really matter. I've seen
+people track not just competitors but
+emerging trends in the industry. I'll
+get to that so they can spot new names
+along the way. But the biggest second
+thing after their own brand is always
+what are my direct competitors doing?
+It's competitive awareness. That's the
+second level and it goes from what are
+people saying about me to what are
+people saying about my competitors to
+the next layer and that is what are
+people saying about developments in the
+industry? What am I missing out on by
+having this almost myopic lens just on
+myself and the immediate threats around
+me? It becomes a widening of the
+conversational landscape that people
+become interested in. Once these two
+basic needs are dealt with, what is it
+that I am going to eat today? What am I
+about is somebody going to steal my
+food? That's the competitors. And once
+that's dealt with, people are asking,
+well, what food is out there? What are
+new places to hunt? What are new places
+to harvest? That's kind of the
+development, the metaphor that I see.
+People care about themselves, their
+immediate surroundings, and then they
+look further out towards the horizon.
+And it's also at that point that things
+shift very quickly with that comes what
+I would call the sentiment-based
+interests. People very quickly turn
+their attention not just to the factual
+conversations in the field around them
+once they have that covered, but also to
+the emotional sentiment around it, the
+feelings that people have. I've seen
+very positive sentiments around people
+who really solve other people's problems
+in a delightful way. People get great
+shoutouts, their products get mentioned
+and highlighted and reviewed positively
+and people track that, right? Because
+they want to see well what's happening
+in the world of feelings around my
+product. And then I've seen social media
+tracking for airlines or internet
+providers or other companies that tend
+to get a lot of flack because of the
+intensity with which a problem when it
+happens affects people's lives. a SAS
+business if that's down for five
+minutes, well that's not a problem. An
+airplane that doesn't go where you need
+to go because you have something
+important to attend now that is a
+problem. So clearly things have a
+different impact on people's lives and
+the shoutouts or the criticism is
+particularly loud around this. It's been
+quite interesting to see the tracking
+that happens both around the shoutouts,
+the customer success stories, the very
+positive signals and the reputation
+management which is kind of what a lot
+of PR companies do as a job. The whole
+point of them existing is to track
+public relationship disasters and answer
+them before they get picked up by news
+media or something. Get a spin on the
+conversation, get the narrative
+adjusted. So you will find a lot of
+people out there looking for sentiment.
+They look for other people's opinions.
+The opinion landscape. It goes from fact
+to opinion. First me, then my threats,
+then the larger landscape, and then how
+do people feel? And beyond that, that's
+the fifth and last level that I've
+realized. There is strategic projection.
+What comes next? Because once the
+sentiment landscape is covered, people
+look into signals in the market, but not
+just about consumer behavior, not about
+what do people want to buy, but about
+things like investor behavior or
+regulator behavior. I see a lot of
+people that use POSCAN for tracking
+acquisition and investment signals. Who
+gets acquired by whom in my industry?
+What's the big move that my future
+competitor might make right now? They're
+really small, but they're going to get
+acquired or they acquire somebody else,
+right? Are they being acquired by
+somebody that I should know of? Do they
+look for investments, new companies
+springing up around them? And at the
+same time, people look a lot into
+regulatory and compliance signals. Is a
+government or some government podcast
+somewhere debating how they could
+potentially curtail our capacity to
+function in the way we do? Are they
+going to make things harder for us? Are
+they going to make things easier for us?
+or is some podcast that is effectively
+just a live stream of a committee
+meeting giving me insight right now into
+something that I should tackle and very
+quickly solve? Is there data on this?
+Because all of this can be tracked. The
+information is out there and people do
+track it after everything else is set
+up. They look into these further out
+projection signals and they track market
+expansion too. I think that's in the
+same line of projecting or guessing
+future outcomes. I guess where's the
+market going? What are the forces? Not
+just in a sense of what's currently
+happening in my industry or what's the
+technological trend but what happens
+between industries? Are there movements
+that I should be aware of? Is there kind
+of seismic shift happening here? Do
+customer expectations change? Is the
+chasm moving around? Like is this
+becoming mainstream or is something
+expected to happen in the future here?
+How can we get ahead of it? That's why
+people track this. How can we be there
+before this happens? So a lot of that is
+projection tracking, but it's
+understanding dynamics that's really the
+point of this. So if I were to give this
+a little bit more structure from a
+marketer's perspective, if they look at
+information that can be gleaned from
+public opinion and public reaction,
+public notions, values, perspectives on
+products or services, they always look
+at themselves first. Are they mentioned?
+Where are they mentioned? Just to know
+what's happening around them. Then they
+look at what's happening with others
+directly around them. What are my direct
+competitors doing? Then they broaden
+this to the industry just to see what's
+the wider angle, what's coming a couple
+miles ahead of me instead of just
+immediately around me. And then they go
+from factual developments into emotional
+states of people. What are they talking
+about? What are they celebrating? What
+are they complaining about? From that
+they go into this purely speculative
+world of thought leadership, investment,
+acquisition or regulatory compliance and
+the industry at large. It's a hierarchy
+of market proximity. You think about
+yourself first and then your immediate
+threats around you. And once the facts
+are dealt with, you look into feelings
+and how that will impact the future and
+how that future is seen by others. And I
+think this is a very interesting
+hypothesis because it helps you speak to
+your customers because depending on
+where they are on their journey in their
+business, you might need to address
+different needs differently. If they're
+currently doing pretty well as a
+company, right, they're enterprise,
+highly monetized, highly profitable,
+while they probably don't care as much
+about what's said about them or their
+immediate threats. It's quite likely
+that the more important stuff exists in
+the sentiment of the industry and
+identifying thought leaders. Who might
+they need to hire in the future? Who
+might they need to look out for? Who
+could be discussed for board positions
+that they might be offering? Who might
+be able to integrate into another
+company? That's what big enterprise
+business would look at. And that's what
+people who are looking at these
+opportunities might resonate with in
+your marketing and outreach materials.
+Now, if you're a solarpreneur business,
+somebody who's running their own
+business, they're much more likely
+completely overwhelmed to begin with,
+trying to do everything. I certainly do
+this all the time, right? Try to market,
+try to sell, try to build, try to do
+everything. So, for people like me, you
+would need to fulfill this hierarchy of
+needs right from the bottom. You would
+have to facilitate tracking what's going
+on with them or what's going on with
+their direct competitors. maybe help
+them discover who these competitors even
+are and give them access to maybe at
+most what the industry is doing so they
+don't get overwhelmed with all the
+signals from it. It's going to a
+positioning thing positioning for your
+marketing on what points you speak about
+where those people using your product
+might be. The way we reach out to our
+prospects when we're doing sales is very
+much informed by this. So, I'm not sure
+if something like this exists, like the
+concept of this hierarchy I just
+introduced as an actual hierarchy of
+needs in the marketing literature, but I
+found it just very interesting in how I
+communicate with my prospects and what
+my paying users might need to hear from
+me to get what they need. What is the
+next thing they can use my product for?
+Well, depends where are they. So when
+they ask me to help them set up these
+functional alerts, more often than not,
+I find it works well to get a glimpse of
+where they currently are in this
+particular journey, which needs already
+met and what the next unmet need is that
+I can focus my attention on. This helps
+me share with them what they could be
+doing and what they should be doing in
+the short term, what their strategy for
+the long term should be. So think about
+your own customers, your prospective
+customers, and the data that they might
+need from you and the data that they
+might generally need at the point that
+they're at. What's their hierarchy of
+needs? Where are they? What do they need
+to know first before they can care about
+the next level? And understanding this
+progression isn't just about better
+onboarding or sales. I think it's about
+truly understand the journey that your
+customers are on and meeting them
+exactly where they are. Because just
+like Maslov's hierarchy, you can't skip
+levels, right? You can't ask somebody to
+care about industry thought leadership
+when they don't even know if people are
+talking about their product. You can't
+get them excited about sentiment
+analysis when they haven't figured out
+who their competitors are. So build your
+product, your onboarding and your sales
+process with this in mind. Start at the
+bottom of the hierarchy and work your
+way up. Your customers will really thank
+you for it and probably more
+importantly, they'll stick around
+because you're giving them exactly what
+they need, exactly when they need it.
+They're feeling understood. And that's
+what I've learned building pot and the
+many processes behind it. I just hope it
+helps you build something meaningful for
+yourself as well. And that's it for
+today. Thank you so much for listening
+to the boot founder. You can find me on
+Twitter at avidar avid khl. And if
+you're interested in the critical
+conversations about your brand while
+podscanfm monitors over 4 million
+podcasts in real time. They will alert
+you when influencers, customers,
+competitors mention you. Like turn your
+unstructured [music]
+podcast chatter into competitive
+intelligence. That is what POSCAN is
+here for. And if you're a founder that
+is searching for an next venture,
+discover validated problems straight
+[music] from the market. You can go to
+ideas.podscanfm
+and you will find identified startup
+opportunities from hundreds of hours of
+expert discussions daily. So you can
+build what people are already asking
+[music] for. Share this with anyone who
+you think needs to turn conversations
+into competitive advantage. I really
+appreciate that. Thank you so much for
+listening. Have a wonderful day and
+bye-bye.
+[music]

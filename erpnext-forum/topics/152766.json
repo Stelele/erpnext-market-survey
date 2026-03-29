@@ -1,0 +1,52 @@
+{
+  "topic_id": 152766,
+  "title": "How to align text input in small text field to be printed after:",
+  "slug": "how-to-align-text-input-in-small-text-field-to-be-printed-after",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "print_format"
+  ],
+  "created_at": "2025-08-27T06:16:20.217Z",
+  "last_posted_at": "2025-08-27T06:16:20.364Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-to-align-text-input-in-small-text-field-to-be-printed-after/152766",
+  "views": 10,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "hl328",
+  "posts": [
+    {
+      "id": 479118,
+      "username": "hl328",
+      "name": null,
+      "created_at": "2025-08-27T06:16:20.364Z",
+      "cooked": "<p>Hi,</p>\n<p>I used the print format builder to set the print format for a document.</p>\n<p>In the form “Perihal:” is a field set for “small text”. (This means “Title:” in english)</p>\n<p>When printing the document, the text in the tile does not come after the colon “:” but has a weird spacing. How do I make it such that it comes right after the colon? T my understanding this needs to be coded but I havse tried several code suggested by chatgpt to no avail.</p>\n<p>I already set it to align to the left.</p>\n<p>Uploaded the screenshot of my error. The way it want it to appear is  “Perihal: matching warna”</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/3/c/3c4a10f766e29dfe1076f28b75a50aa7844375f2.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/3c4a10f766e29dfe1076f28b75a50aa7844375f2\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/3/c/3c4a10f766e29dfe1076f28b75a50aa7844375f2_2_689x264.png\" alt=\"image\" data-base62-sha1=\"8BlkJMbDK1v9I1A9bkzwP80fVrY\" width=\"689\" height=\"264\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/3/c/3c4a10f766e29dfe1076f28b75a50aa7844375f2_2_689x264.png, https://discuss.frappe.io/uploads/default/optimized/3X/3/c/3c4a10f766e29dfe1076f28b75a50aa7844375f2_2_1033x396.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/3/c/3c4a10f766e29dfe1076f28b75a50aa7844375f2.png 2x\" data-dominant-color=\"FCFCFC\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1283×492 17.3 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/h/258eb7/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 7,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

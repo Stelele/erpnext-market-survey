@@ -1,0 +1,418 @@
+﻿[Music]
+hey it's arvit you're listening to the
+boot
+[Music]
+founder this episode is sponsored by
+paddle if you're looking for payment
+provider that allows you to focus on
+business stuff instead of having to read
+up on tax law check out paddle.com I
+highly recommend it because I'm a paddle
+customer myself and customers are the
+theme of today's podcast Let's Talk
+customer acquisition strategy a few
+months ago I started thinking about
+preparing data on pods scan for people
+who would be ideal customers for what
+the product currently is a social
+listening tool the easiest approach here
+seemed quite straightforward to me just
+get the names of Brands and influential
+people that I would want as customers
+and start tracking their mentions on the
+platform for them and over the last
+couple weeks I've turned this idea into
+a systematic customer acquisition
+strategy the infrastructure for all of
+this has been here from the start any
+tracking of mentions any brand any name
+requires an alert in the podcast system
+that powers podt scan so I created these
+alerts privately under my own account
+because the people that I would want to
+use the platform while they hadn't
+created their accounts just yet so I
+would do it for them internally and I've
+been waiting for results to trickle in
+to see how many people would get how
+many mentions and meanwhile thinking
+about how to eventually expose this data
+to potential customers I'm not just
+throwing darts in the dark here when it
+comes to the Eugene Schwarz hierarchy of
+product awareness which goes from people
+being completely unaware that they even
+have a problem all the way to them being
+fully knowledgeable about all products
+in the market I am targeting people who
+are at least solution aware if not
+product aware so I want people who are
+not unaware or just problem aware these
+people who already know that social
+listening is valuable and can benefit
+them that's my Target customer here I'm
+specifically focusing on influential
+people in entrepreneurship business and
+software because that's where I have the
+strongest connections right now to make
+these initial conversations easier I'm
+also branching out occasionally but
+that's the kind of part of the market
+that I'm really focusing on right now
+and I have tracked the names and brands
+of several 100 people in these
+industries the system collects podcast
+mentions and brand references and name
+jobs conversations about them or with
+these potential customers and this data
+collection has been running in the
+background for months and recently I
+decided it was time to transform this
+passive monitoring this passive data
+acquisition into an active sales
+Outreach process for this approach to
+work there are three critical components
+that I really need to come together here
+the first one is to make it possible for
+people to import these existing mentions
+into new accounts automatically like
+from my internal data into their own
+data make a copy pull it over the second
+one is to be able to present this
+information outside of a locked in
+account because people want to probably
+see all these things before they choose
+to sign up so I need a designated
+landing pages for these specific
+collections of mentions and then finally
+the most scary one happy Halloween I
+guess you tell these people that this
+valuable information exists about them
+you reach out you do cold emails or pre
+warmed emails or you tell them in a DM
+you talk to your customers that's the
+scary part and with my designer and my
+engineer hat on I spent the last week
+building exactly this system and when I
+say designer hat on it's mostly that I
+have Nick who helps me with his design
+skills and I just implement it that's
+really what it is this landing page now
+pulls in 8 to 15 recent mentions for any
+given alert for this track person or
+brand whatever I choose to track and
+then it displays full mentions and
+several highlighted ones showing the
+data's depth I want to show what podan
+has to offer and most importantly it
+also presents podcast covers in a
+visually appealing way which
+demonstrates to this potential customer
+where people are talking about them that
+there are actual people who show their
+face on the visual part of their podcast
+and they are talking about their brands
+that's the idea right on this landing
+page on this kind of Outreach system I
+want to show people that there are
+actual human beings talking about them
+in conversations that I found their name
+in that's the idea that's the the basic
+principle of this whole dream customer
+Outreach strategy that I have and the
+technical parts are interesting too the
+system uses a specific hash code for
+each alert a kind of a a slug or a
+specific like ID I guess which prevents
+random Imports of other people's
+mentions right you can't really just
+guess somebody's name and import all
+Dimensions I might do this eventually so
+you can import mentions of certain
+people that you find interesting like
+after the fact if you come up today with
+let's say you want to track Peter teal
+and all the the conversations that he's
+been mentioned in why not make available
+all the past mentions of Peter teal as
+well but that's a maybe feature that
+nobody has requested yet so I'm not even
+thinking about this but when somebody
+imports their own data I want to be able
+to see this and I track this action and
+then can begin building this
+relationship with these accounts hence
+the IDs so I can figure out who this
+belongs to but the most challenging part
+for an introverted software engineer
+like myself that was the Outreach part
+of all of this right the actual making
+contact with the person and because I do
+love AI but I hate when AI talks to me
+or when I use AI to talk to people I did
+not generate any AI driven messaging I
+created a human written template I wrote
+it myself for code emails and direct
+messages and I'm customizing each one
+with the pre-warm data from my system
+the Outreach that I'm approaching here
+includes screenshots of actual mentions
+which I used HTML 2 canvas for so if
+you're a developer and you work in front
+and this is really cool it allows you to
+take any part of the website and turn
+that into a canvas a rendered
+representation of itself which you can
+then turn into an image or an SVG or
+like some kind of blob whatever you want
+to have it as and use that in any other
+way so I'm taking a screenshot of a
+mention component that I have
+with the cover of the podcast the name
+of the podcast how many stars it has how
+many episodes it has what the topics are
+the highlighting the word that was
+mentioned all of this and I put that in
+the email so that people can immediately
+see oh wow there's a lot of data here
+right this screenshot has Dimension the
+podcast information time stamp ratings I
+automated all of this rendering this
+particular part of the web page directly
+into an inline image which can then be
+easily pasted into emails so there's
+still a manual component but I think
+that's kind of what I want I don't want
+it to be so cold that it's completely
+automatically dispatched uh these are my
+dream customers I want to talk to them
+right that's kind of what it is
+initially I had a text version of those
+mentions of the conversation in the
+emails but I thought a screenshot would
+have more of an oomph like it would
+highlight the conversation much better
+and the contextual information of what
+this screenshot contains makes Dimension
+more valuable and actionable because
+people see okay this is a rather popular
+podcast that was mentioned on I should
+really reach out to these people and I
+put the contact information for that
+podcast into this email as well to make
+it absolutely clear to people who might
+want to use pod scan that there is a
+benefit in being able to immediately
+reach out to a podcast host or a
+production company right from the
+platform that was one of the main points
+here too and what's so fascinating is
+how my own database became a gold mind
+for this contact information not just
+the contact information for those
+podcasts that I would show to my
+prospects but when people are mentioned
+in podcast their social media links or
+their websites they often appear in show
+notes and from there finding their email
+address becomes surprisingly
+straightforward right if people have a
+domain you can pretty much figure out
+where the contact email is and this
+pre-warmed information makes my cold
+emails much more effective because they
+include visual examples of mentions that
+prospects would get if they tried pod
+scan and the data is sourced through the
+platform as well and I'm reaching out as
+this kind of intermediary the response
+has been overwhelmingly positive even
+when people aren't interested they're
+grateful for the valuable information
+that I've shared and I know that some of
+them might actually come back at some
+point and this approach has opened up an
+interesting recursive opportunity for me
+here too every time one of my users
+triggers a mention of their brand that
+podcast itself becomes a new Target for
+my Outreach but because I can just reach
+out to the host because I have all their
+information and they're often
+influential people themselves who might
+want to track their mentions on other
+podcasts and I can say hey somebody just
+found a mention of their brand on your
+podcast you might find it interesting to
+track your own name and podcast mentions
+too and all of this is kind of
+pre-warmed with the data that I have
+about this interaction right there's
+always something that happened before
+that triggered this that has a kind of
+contextual value that I can communicate
+and it's not as cold and Outreach as if
+I were just saying hey you should really
+use my tool I can say hey somebody using
+my tool did this and you might find this
+beneficial too and I've set up a weekly
+Cadence for adding more interesting
+people from my community from events
+that happen from blog posts books and
+tweets to my dream customer alert funnel
+I have a script that notifies me once 10
+mentions accumulate for any given person
+any brand and that prompts me to then
+either reach out immediately with the
+link and the image and the email saying
+hey this has just happened you already
+have 10 mentions why I can adjust the
+alert parameters to maybe filter out a
+couple of false positives or add more
+terms if it took too long to get to 10
+that's the idea and the podcasting world
+is full of experts who would benefit
+from knowing when they're mentioned like
+there are so many people that I could
+add even just within our little
+solopreneur bootstrap Zas community that
+I find myself like right in the middle
+of the moment you reach out into other
+tiny adjacent Industries there's all of
+a sudden thousands of people who might
+benefit every podcast guest that is on
+any podcast anywhere is a potential
+customer for me because they might want
+to track Dimensions to find new show
+opportunities or connect with similar
+podcasters and do collaboration with
+them this creates a natural expansion of
+the potential customer base for podan
+every podcast episode introduces new
+experts to me who could benefit from
+using the tool and what I've learned is
+that my impact strongest when sales and
+marketing decision are not just data
+driven which they are but data enabled
+instead of convincing prospects with
+arguments I can show them actual data
+about their online presence and this
+approach aligns perfectly with my style
+and provides this continuous level of
+insight into improving pod scan as well
+because I now know what else I need to
+give people more insight into their
+presence right that the things that I
+need to build the things that I need to
+focus on are clearly the things that and
+more context to the data that I can
+present and recent additions like
+sentiment analysis and entity extraction
+have added this valuable context to my
+mentions people can now see not just
+where they're mentioned but in what
+context and what the sentiment was with
+the feeding was when they were mentioned
+were they mentioned in a positive way in
+a analytical way in a negative way where
+people shitalking them that kind of
+stuff I can now present with the
+information immediately and since psan
+extracts key words from these full
+transcripts to provide context for the
+episode I can now show my users exactly
+what conversations they're part of is
+there's a conversation about the
+election or some kind of War somewhere
+or a potential business deal that
+happens or a a very important expert
+conversation all of this is now there at
+the gland it's really cool and this
+contextual information often proves to
+be as valuable maybe more even than the
+mention itself because it helps users
+decide whether and how to act on each
+mention the strategy success that is
+already quite apparent to me lies in
+providing immediate value at every step
+when I sent this cold email the
+recipient gets an actual useful piece of
+data about their Brand's presence in
+podcasts for free they get the whole
+thing right they get where you were
+mentioned all the data all this
+actionable stuff then they go maybe to
+the landing page and that gives them
+free access to several mentions without
+requiring sign up now they can kind of
+browse through and see is this good am I
+in interested in this information or do
+I not care some people just don't care
+about their online presence they might
+not want to be notified that's fine they
+can kind of fall off that funnel at that
+point and during the trial period they
+immediately have the opportunity to
+import these hundreds of mentions
+already and that allows them to
+experience the full power of the
+platform while evaluating it from the
+first moment they use it so this
+approach creates a natural progression
+you get a tiny bit of valuable
+information and email you explore more
+data on this landing page that was
+personalized for you and then you import
+the full historical mentions during a
+trial the first step the onboarding of
+the trial at each step they're getting
+more tangible value before making any
+commitment and as a developer by trade
+sales and marketing are not my most
+confident areas but I think using data
+from within my own database to create a
+customer Outreach funnel it connects to
+whatever I do later CRM or something
+like this feels like the right approach
+for a data driven business the system
+keeps improving as I discover new ways
+to present and contextualize the data
+and I feel confident in operating on
+that data and I keep finding new nuances
+to improve like showing extracted
+keywords from episode transcripts that
+gives prospects immediate insights into
+the context of Dimensions every time I
+analyze these mentions for potential
+customers I discover new ways to make
+the platform more valuable and the key
+is inviting value up front whether
+through the initial email the landing
+page with this free access to more
+mentions or this data import that is
+immediate once they start their trial by
+focusing on data and impact rather than
+pure persuasion I have found a customer
+acquisition strategy that feels
+authentic to both me and the people that
+I'm offering this to my prospects think
+it's a system that grows naturally with
+the platform because the more data comes
+in the more I have to act on and it's
+getting better with each new feature and
+data point that we add and that's it for
+today thank you so much for listening to
+the boot founder you can find me on
+Twitter at aitv Kahl and you'll find my
+books and my Twitter course that too if
+you want to support me in this show
+please tell everyone you know about poan
+FM and leave a rating and a review by
+going to rate thisp podcast.com founder
+makes a massive difference if you show
+up there because then the podcast will
+show up in other people's feeds and any
+of this will help the show thank you so
+much for listening have a wonderful day
+and bye-bye
+[Music]

@@ -1,0 +1,892 @@
+﻿[Music]
+we are live
+welcome to this week's episode of
+microconf on air as always i'm your host
+rob walling every other wednesday at 1
+pm eastern
+10 a.m pacific my clock is
+my laptop is still on pacific i looked
+up because i'm in minneapolis i'm so
+confused
+every every wednesday at 1 pm eastern 10
+a.m pacific we live stream for 30
+minutes we cover topics
+related to building and growing
+ambitious sas startups bring us freedom
+and purpose and allow us to valid value
+and maintain healthy relationships
+we don't ask for permission to start
+companies we build and ship real
+products that sell
+to real customers who pay us real money
+welcome back
+thanks for uh for joining us this week
+hopefully i saw you last week or perhaps
+you saw me
+at microconf remote had a great time
+putting that together and went off
+pretty successfully
+to be honest you know throwing our
+second virtual event i think we took a
+lot of learnings from
+microcontroller 1.0 back last september
+and the reviews are coming in quite
+positive about microconf remote 2.0
+if you head to microcomp remote.com and
+uh if you
+didn't buy a ticket and didn't get the
+videos you can head to microcomformo.com
+and pick up a video pack and i think in
+the next few weeks we will
+be releasing those i'm excited about
+today's guest we're going to be talking
+about building communities that enhance
+user satisfaction my guest is
+rosie sherry she's at rosie sherry on
+twitter she is the former community
+manager for indie hackers
+she is currently building rosie land
+which is a newsletter community and
+course for community man for community
+builders
+and she is the community lead for orbit
+which is software at sas that
+they had their h1 is build relationships
+not spreadsheets grow
+your community and provide roi with
+orbit the community experience platform
+that puts members
+first so it looks across the internet at
+a bunch of different community sources
+and they can pull data in and show you
+engagement and talk about what
+what they're up to so today we're going
+to talk about a pretty
+tricky topic in my experience building
+growing
+communities and keeping people happy and
+with that i'd love to welcome
+rosie sherry to the show how's it going
+hey rob thanks it's good thanks for
+having me
+it's great to great to have you here on
+the show so
+i think i want to start oh if you're
+watching this live please
+submit uh questions in the microconf
+on-air channel and connect
+and producer xander will feed those to
+me the best part of doing a live stream
+of course is that we can take questions
+from the audience
+so i think i want to start rosie with um
+one qu it's a question
+it's around building community for sas
+companies because it's one thing to
+think about
+indie hackers which is a community and
+that's the point of the entire site
+it's another thing to think i'm running
+a sas app let's say i run a
+you know an email service provider or i
+run a web page builder for sas
+companies is is there a need
+for for me to build a community around
+an app like that is there a reason for
+me to build a community of my users
+and my customers in that case
+uh i would say it depends but you know
+there's
+there's good reason to if i guess you
+have enough people
+and enough interest and
+i guess i would also say it's like it
+depends like
+what you want to get out of the whole
+situation
+and what your members can get out of it
+um
+and i guess if i think about like
+where i am right now like orbit where
+i'm at at the moment they have a
+discord community that they started
+recently
+and so that's like definitely a
+community and
+they're using it very much to engage
+with their early
+um users and early customers
+and and there's a lot a lot going on
+there and a lot of feedback a lot of
+bugs
+uh discussions going on as well um
+so you know i guess you know a lot of it
+comes down to like what value
+can you bring to the conversation or to
+the people
+and rather than thinking about let's
+start a community
+i think there has to be a good reason to
+like pull people in
+yeah well that and that's what i was
+going to ask is so let's say that i
+do decide because i've built multiple
+communities now i've built a few that
+are online and i've built the
+you know in person community uh and now
+microconf which is in person and and
+virtual
+so i'm familiar with there's a lot of
+challenges to it and there's a lot to
+manage
+um but there's a lot of pluses a lot of
+pros that come along with doing it i
+think you touched on a few there
+is that because if i just want feedback
+from users
+i can ask for um
+support i could ask people to email
+right give us feedback here's a form
+here's an email
+but how is getting feedback
+in a community setting how is it better
+than just direct one-on-one
+connections you might do in in an
+intercom widget or
+or via you know a response to an email
+yeah i mean i guess it you know depends
+on the situation but um
+i guess when things are open when other
+people can
+see what's going on i think it's like
+really useful
+to have that like people come together
+and they share ideas
+for example they share problems and um
+hopefully um it can also like reduce
+like
+um support type queries as well if other
+people are seeing that
+others are having challenges or it
+doesn't even have to be round challenges
+it you know it can be
+around successes or sharing tips
+i think is another another good one with
+sas
+is like if you can use a tool in various
+different ways
+it's um really useful to be able to see
+what other people are doing
+and how how they're doing it and and to
+be able to encourage people to do that
+i think can really kind of feed back
+into the whole loop of
+building a sass and
+often i think features can can arise
+from it problems can arise from it so um
+i know like at orbit you know they're
+really good at just you know
+jumping on feedback requests and bug
+reports and just like
+fixing things really quickly and that
+builds a real sense of um trust
+in the in the company in the product
+got it and you know if i'm a let's say
+i'm a single bootstrapped founder
+and i'm trying to build an app launch
+you know market it
+do sales have you seen anyone in that
+situation be able to
+kind of launch and manage a community or
+have you been more familiar where it's a
+small team and there's at least someone
+who can maybe be half dedicated
+to to helping you know nurture and
+encourage and moderate that community
+off the top of my head i don't know um i
+would think so
+um i would like to think so um
+but i've definitely seen like a lot of
+communities fail like that as well um
+yeah so
+you know i think that's the challenge is
+like how when do you start and you know
+like how do you start and what tool do
+you use and
+how how do you make it as as least
+frictional as possible or how do you
+make it so that there's
+like motivation for people to to show up
+and that's like i think the biggest
+challenge for any any kind of community
+and i think most people probably start
+it too soon
+and you probably want to start thinking
+about
+community when people are emailing you
+too much and you can't you can't handle
+all the emails and
+at a point like that that's probably
+when you want to start um
+thinking about you know building a
+community around the product
+because then it will be easier to kind
+of have that initial
+traction and and not have the deadness
+of it all yeah yeah once you have a
+little bit of critical mass because a
+community with five people interacting
+this
+just looks like it's completely dead we
+have a couple questions coming in from
+audience members pablo
+asks i want to build a community but i
+feel there are already so many
+communities
+out there targeting the same audience it
+feels saturated
+do you have any thoughts on that
+yeah it's definitely a problem at the
+moment um since covid like
+communities has just like exploded as
+you know communities that exist and
+community software is just like
+it's just crazy um i remember just like
+looking back
+a couple of years ago when i started at
+indie hackers it was a completely
+different
+different world then sure um
+so you know there's i think there's a
+lot of people
+jumping on the bandwagon of communities
+um
+and these days i kind of look at it as
+um just like you wouldn't build a sas
+product
+because you want to um you shouldn't
+build a community because you want to
+you should do like the research you
+should you know go out there
+have conversations with people and kind
+of validate whether there's an actual
+need
+for a community and that process doesn't
+necessarily
+happen overnight it takes time to to
+research it takes time to kind of
+build trust in relationships and but the
+more you do that the more answers
+and information you get to validate and
+give you confidence on whether or not
+it's
+the right decision um but i would also
+add that you know you can
+create really small communities as well
+and i think that there's so much power
+in small communities
+um that people don't really give enough
+credit for
+um yeah that's i was going to chime in
+with that of like the thought of niching
+down
+niching or niching down a little bit
+certainly every niche possible is not
+saturated and
+if i were to say i'm going to start a
+community for aspiring entrepreneurs
+it's like good god that's massive and
+there's already a bazillion of them but
+how do you say maybe aspiring
+entrepreneurs who want to put their
+stuff on
+etsy or aspiring entrepreneurs who are
+into
+specifically using you know knitting
+crocheting yarn type stuff
+um you can tell i'm a real expert in
+that topic but who want to do that and
+put it on you know etsy ebay amazon or
+whatever like there's there's ways to
+think about that and and targeting let's
+say sas founders
+is probably too broad these days because
+it's you know there's microconf there's
+uh saster
+there's who you know whoever else is
+doing it i think there's you know
+you may have to start with a niche angle
+you know to to piggyback on your point
+of
+even a small community a vibrant
+community of
+100 people who are participating um you
+know can still work
+yeah and i've actually done that
+recently with indie woman
+um so i
+kind of i guess like a side project
+thing but i also did it kind of
+for the benefit of indie hackers and
+and i felt there was a need and i saw
+like over the time that i was at uh
+indie hackers that like that there
+should be a space
+separate for for indie women and so
+after like a bit of nagging and people
+like kind of requesting it and hosting a
+few kind of small scale events
+we ended up creating a community around
+that and it's
+you know it's small it's like 150 people
+um but we meet up like every couple
+weeks for accountability sessions
+and we have a slack we have an email
+list
+that's on indie hackers and
+and it's great you know i've you know
+probably made
+better friendships from that in the past
+four months and i have actually on indie
+hackers so
+you know it's um there's different
+definite value there and i think
+um something like that that's been going
+about six months
+if you just like keep at it it can grow
+and it can turn into
+into other things yeah and that's i
+would
+add to um the answer to pablo's question
+you know of of niching down and and
+targeting same
+uh the same group of people the other
+thing i would say is
+build an audience first then a community
+right audience and community are not the
+same thing because if you
+example i'll give you an example of how
+there's a different if i start a podcast
+or if i start a blog
+and i have 10 000 readers or 10 000
+listeners but
+none of them talk to or know each other
+it's not a community it's an audience
+right and that is exactly how microcomp
+started and that is how
+you know uh frankly microconf connect
+started like
+i built an audience first by writing
+essays and then writing a book
+and then doing a podcast none of those
+people really interacted
+until that moment of hey let's all get
+together online
+you know in the what was the predecessor
+essentially to microcom connect and
+and let's get together in person in in
+at the first in person event
+without the audience the community would
+never have had the um
+what do you call it it's like the
+critical mass it's just you know we
+would have sold five tickets to an event
+you know or we would have had 20 people
+in in some dead forums you know to your
+point
+there's another question it's about the
+decision to use
+discord what went into the decision of
+using discord pros
+and cons i'm actually really curious to
+hear this because
+i don't use discord and my my son does
+he's 14.
+and so i'm thinking about you know
+signing up for an account and
+and starting to use it but um i haven't
+heard
+many it's it you know it started as a
+gamer uh a tool in the gaming space
+and i haven't heard many b2b apps use it
+as
+a community um and so i'm curious i'm
+really curious to hear your thought
+process there
+yeah so it wasn't my decision so um
+i'm very new to discord i'm very similar
+to you
+as well with discord um i until
+i was on a couple of discords but i
+never really
+discord communities but i never really
+checked them because
+um i only use discord to chat to my
+teenage
+sons and so you know very very similar
+situation
+um but you know i've been i've been
+forced over
+with with all of it um but yeah it's
+growing on me
+i have to say i think you know it's got
+it's got more community
+focused um features
+it's got a lot more flexibility it's
+it's got things like moderation
+um it's got like the the drop in
+voice channel which is interesting um
+and we're actually gonna soon uh start a
+podcast
+on discord we'll record it separately
+probably um
+but you know the idea of like using
+discord as
+as a way to engage the community and
+have people come in and ask questions
+and we can do that on discord but record
+it like separately
+with zencaster or something like that
+and so we have plans to do that
+um and yeah generally it's just like i
+think it has a lot more flexibility
+but um i didn't set it up so i'm just
+i'm still like learning all the the
+quirks from it
+but so far um i'm enjoying it there's
+there's a blog post they actually wrote
+about it i can
+link to it um afterwards they kind of
+wrote about the whole um they weren't
+slack before and they migrated to
+discord to discord what are there any
+cons
+and any negatives that you've
+experienced with it
+uh i think that
+for me at the moment the only con is
+just like getting used to it
+but um and threading is a bit weird yeah
+it's a learning curve and
+thread's a bit weird i still love slack
+i'll be honest i still love slack
+so it's just that um that mindset change
+of
+of switching over um
+yeah i'd imagine in b2b context everyone
+i know
+uses slack and they all know how to use
+it and they all have it on their phone i
+say all
+99 of the founders i know have it and i
+don't know what you know just because i
+don't use discord i don't want to paint
+the broad brush of like none of it the
+founders use it because i know that some
+of them do in fact justin jackson just
+chimed in and said discord is the only
+way i can chat with my 15 year old
+and and that's probably going to be true
+for me within 12 months but
+um i would guess that a lot fewer
+you know b2b sas founders have ever used
+it have an account you know it's just a
+little bit of friction right when i see
+a slack group i
+think i i think i already have seven
+slack logins or ten slack lockets you
+know two different
+channels it's not you know if i want to
+be part of it it's not such a big deal
+but discord would be would be perhaps a
+bit
+like you said alerting curve maybe a
+little barrier spencer chimed in he said
+discord is great it's definitely
+expanding out of the gamer niche
+yeah absolutely it already has been for
+years i think it's still
+um like if you go to the home page it
+still looks pretty you know pretty
+gamery uh he says i'm in various
+communities for developers on discord
+which i could totally see right there's
+huge overlap with developers and
+gamers so so that's really interesting
+so then i wanna
+you know obviously if you're still in um
+or if you're in in microcom connect
+please do ask questions
+but i wanna ask when you're moderating
+or you're participating in these
+communities
+i think of two functions of someone
+running a community like this
+one is moderation it's to keep people on
+track
+on topic not arguing in the right you
+know
+channel for the right to con for the
+right conversation
+threading in slack you know there's all
+these things that um you know producer
+xander and and tracy help
+um with moderation in microconf there's
+that bucket of it moderation and then
+the second bucket i think is um
+is getting people to engage you know
+it's it's
+in microconf it might be the friday fun
+question or it's just a question like
+hey what are you working on this week or
+you know i see that as different perhaps
+than than moderation
+do you do you hold a similar mental
+model am i me you know am i missing
+pieces
+yeah i guess you know those would be the
+two main buckets
+um i guess maybe that the other angle
+would be
+i guess a bit more leadership kind of
+stuff is like
+setting the tone for where the community
+is heading
+and what what you want out of it um
+but you know that could come into the
+engagement side as well
+sure yeah how do you how do you do that
+how do you
+set the tone you know you personally
+you've obviously done this at
+multiple companies now i mean how do you
+think about setting the tone
+um yeah it's tough
+i think i think the tone has to be very
+much aligned with
+where you want to see the company
+heading and
+so i guess like my three three
+experiences that i've
+had as like ministry of testing indie
+hackers and now orbit
+um and they all have uh their own
+quirks their own goals their own on uh
+missions that they want to head towards
+and when i was doing ministry of testing
+i was very much focused
+on changing the testing industry so
+everything
+i did i wanted it to be aligned with
+that to help me like every day
+kind of nudge me towards that goal
+somehow
+and and that resulted in kind of
+trying to be fun but trying to focus on
+um new things
+um kind of trends um and
+trying to as much as possible like um
+ditch all the old school kind of stuff
+so i did my best not to kind of bring up
+topics
+that that were kind of cooperative and
+old school
+so um and that naturally kind of
+drove everything i did not just in the
+in the forum but
+like the conferences we organized and
+i wanted to ensure that all the topics
+were were relevant
+and and you know that that kind of stuff
+um i guess the same the same with indie
+hackers
+you know indie hackers was all about
+trying to create more indie hackers and
+help educate indie hackers
+and that's it's kind of evolved like i
+guess over the couple of years
+i was there but it's very much focused
+on how can we share stories that
+indie hackers of indie hackers
+doing india hacking and you know trying
+to get to the to the root of it
+um and i guess sharing trends and news
+alongside of that
+was very much the goal that makes sense
+and i mean something that that obviously
+you know doesn't come up all the time
+but certainly um
+from time to time is that is the the
+problem
+user you know um maybe they're a troll
+or maybe they're just a negative person
+or maybe they just
+don't uh necessarily interact with
+others in the way that that
+you know you would deem respectful and
+such what i don't mean one-off arguments
+right because i'll see conversations get
+heated
+and i'll know two of the participants
+and be like these are these are
+people that are not normally like this
+and you know
+let's let's assume that if it's a
+one-off that that's not what we're
+talking about but
+how have you dealt with folks who come
+in and and just feel like they're kind
+of trying to stir up
+trouble um you know on a regular basis
+how do you
+how do you deal with them because it's
+not always black and white right that's
+the problem
+is is if they just come in and start
+spouting you know really
+hateful stuff you just ban them but but
+there's often often these folks are
+pretty sk
+skilled at walking this tightrope line
+such that that
+you know you can't just ban them
+outright but they're they're saying
+maybe negative things a lot
+what's been your experience at dealing
+with those types of folks
+interesting i've had a few uh
+interesting experiences
+overall i haven't had i haven't like had
+too many bad experiences um
+i know that like when i when i took on
+the role of indie hackers i was kind of
+worried
+about about those kind of things but
+actually you rarely have
+those issues and the types of problems
+we get are like are more like pure spam
+kind of stuff that
+can just like hit hit delete um
+[Music]
+but you know there's definitely people
+over time that just take up so much
+energy
+in the room and i think sometimes you
+just have to
+you know i personally my preference now
+just to like
+cut cut cut ties early it's so much less
+stressful for
+for people for the team especially
+um and i've seen i've seen situations
+where
+people try to like you know go through
+like
+the process of one band two bands three
+bands in the out and kind of stuff and
+it's just like
+you know it's it's tedious it's
+stressful and it's
+just like not my style so and
+the longer these people hang around the
+longer it impacts your community
+so yeah yeah toxic get them out
+yeah yeah yeah that's the thing is like
+there's not it's not employment law
+where like
+they can come back i mean they could but
+they're not gonna i don't wanna say not
+it's unlikely they're gonna come back
+and sue you for wrongful termination
+they've wrongfully blocked my account
+it's like if someone's a jerk
+your end user license agreement your
+terms of service probably says you can
+do this and they have no repercussion
+right
+and and i agree with the one two three
+bands it can
+drag out for weeks and not only take
+your and your team's energy but
+drag the community down as well there's
+a term that i came
+across recently that i kind of like um
+and it's called we don't do that here
+so i try to use that as as as much as
+possible
+and it's it's kind of saying like you're
+welcome to do what you like just don't
+do it here
+go somewhere else and do it right um
+we're not
+we're not telling you how to live your
+life but that's just not how how we live
+here
+or how we how we behave um and there's a
+other
+analogy perhaps of thinking of it like
+your own home it's like this is your
+home
+that you're inviting people into and
+it's not right that people come in to
+your home and do what they like
+right we have another question from the
+audience saying are you worried about
+what's going on with facebook and
+section 230 could it kill
+the small online communities are you
+familiar with what's going on there
+i'm familiar but i've lost track of
+how to share um dislike
+for rules and regulations yeah i do too
+yeah i kind of yeah
+yeah i won't comment on that one because
+i'm i don't feel like i'm
+well versed on that
+and i know we faced this with my within
+microconf and i can imagine
+if i was running a sas community or a
+community of my users if i was a sas app
+you're going to have users who are at
+the early stages they're just getting on
+board
+they don't really know much about what
+they're doing yet and they have
+questions and they have needs
+and then there's going to be folks who
+are veteran users right and there's
+people in between and so with microconf
+you might think of it as like the
+starter audience versus the growth
+audience and then the people in between
+how can you cater in a community to
+both or all of those kind of segments
+different people different expectations
+at different learning stages different
+knowledge stages
+yeah it's tough it's definitely one of
+the challenges we had in the hackers
+it's like people come in and they would
+hang around for a while and then once
+they
+kind of felt confident enough it was
+really hard to like keep them engaged
+and keep them coming back
+um i used to like to think of the
+podcast as something that would keep
+keep the more experienced people coming
+back and
+and i think that's probably what it's
+more about it's like when people first
+join
+they're new they're excited they're keen
+to learn
+but then as people kind of rise up in
+the community become more experienced
+you have to create different experiences
+for them
+and cater to to what they need
+so it could be like speaking gigs or
+podcast invites or
+uh creating something together um
+and and that's tough i think as a
+community because that's like
+that takes a lot of effort it's you know
+it's more effort than
+in my opinion running a forum it becomes
+a lot of
+content production and and that's not
+not easy
+to keep that you know that that flywheel
+flowing
+right yeah that's i don't usually think
+i mean i think
+one of the things people when they when
+they evaluate communities or think about
+starting a community it's
+i don't think it's on the radar of like
+i'm gonna start a community and i'm
+gonna moderate it nurture it and i'm
+gonna create a bunch of content like
+those two things
+are kind of separate you know separate
+in most people's minds but
+um i can imagine that at scale
+that becomes you know becomes more of an
+issue probably
+um
+yeah what types as we wrap up because i
+think we have
+yeah we just have one or two minutes
+left is there you know
+when you as you're building up this
+orbit community
+what's your mental model of how do i
+engage people and get them to engage
+because that's often
+even if i had 50 people in a community
+or 100 people if they're not engaging
+then that's a problem right so how
+can you encourage people on a regular
+basis to participate
+and give back such you're not as the
+moderator the only person who's
+answering all the questions right the
+only person who's
+who's getting people to engage
+yeah um bearing in mind that i've only
+been there three days um
+but the the general loo's plan is
+to follow the lead of of what the
+uh founders want so i'm very much taking
+a lead
+in things that they want to do at the
+moment um but alongside that it's kind
+of
+what i call is like studying your people
+it's like
+you want to you don't want to jump in
+straight away thinking you know what
+you're doing
+and you want to like start dipping your
+toes in kind of figuring out what what
+they're talking about and
+and then hopefully creating like
+experiences or content or conversations
+that really
+kind of relate to them um so at the
+moment
+i'm very cautious about kind of jumping
+in too quickly
+doing stuff and but i'm definitely
+looking towards
+pulling people in um in
+in the way that the founders want me to
+yeah
+indeed well rosie sherry we
+are at time for today thank you so much
+for
+joining me if folks want to keep up with
+you they can head to rosie
+sherry on twitter or rosie.land
+to see the community you're building
+which is a newsletter community
+and course for community builders thanks
+again for joining me on microcomponent
+thank you rov all right as we roll out
+thank you again to rosie um i already
+talked about microconf remote at the top
+get access to video recordings at
+microcomppromote.com
+thank you as always to our headline
+partners
+in 2021 hey and stripe
+please thank them on twitter hey hey and
+at stripe
+and if you haven't already head to
+youtube.com microconf and hit the
+subscribe button
+to get notified of all of our videos
+i'll see you back here in
+two weeks same time same place
+[Music]

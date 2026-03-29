@@ -1,0 +1,679 @@
+﻿hey I'm Arvid and you're listening to
+the bootst step
+[Music]
+founder this episode is sponsored by
+paddle.com so if you're looking for
+payment provider that does all the heavy
+lifting for you so that you can actually
+focus on your business go check out
+paddle I use them for all my SAS
+properties I really recommend checking
+them out at paddle.com they got a great
+API it got a really really good insight
+into your customer data kind of
+dashboard it's spectacular
+now brainstorming time today I want to
+explore something that's been on my mind
+a lot lately and that's the massive set
+of opportunities that I'm seeing in the
+podcasting space particularly for
+software entrepreneurs let's talk
+business ideas in podcasting you know
+that I've spent the last year building
+pods scan. FM talking about this
+non-stop on the podcast and being deep
+in the podcasting ecosystem I've gotten
+really really unique perspective on
+where things are heading where things
+are coming from and where they're going
+and let me tell you I think this Market
+is absolutely massive and it's growing
+we're looking at around 500 million
+listeners by
+20125 and here's what's really
+interesting these aren't just casual
+listeners who tune in ones and disappear
+when people find a podcast that they
+like they stick around for hundreds of
+episodes not maybe on average right
+average likely is in the 30 or 40
+episodes but that's still a lot right
+there are people who stick with podcast
+for thousands of episodes at this point
+it's incredibly sticky content and it
+makes the industry interesting because
+once you have a listener they're hooked
+you can keep doing stuff with them and
+for them and I think I am in this well
+quite unique position here to spot
+opportunities because I'm wearing Three
+Hats different hats at once I'm a
+podcaster myself as you can probably
+attest by just listening right now so I
+know all the production headaches
+firsthand I'm an avid listener I listen
+to podcasts all the time so I get how
+hard it is to find the right stuff to
+listen to and as the founder of a
+podcast data and analytics company I get
+to see all these gaps in the market that
+entrepreneurs could potentially fill
+it's like having a bir's eye view of the
+whole ecosystem from three different
+perspectives so let me start with
+something that I think is really
+fascinating about podcasting to begin
+with whenever people ask me what the
+most effective way to reach an audience
+is I always tell them now that I have
+some experience with this that it's
+audio particularly podcasting and here's
+why just imagine how people cons
+podcasts compared to other media when
+someone puts on their headphones you are
+literally speaking directly into their
+mind it is quite likely that I'm talking
+to you from inside your head at this
+very moment think about this for a
+second TV that's external you're looking
+at a screen somewhere else books you
+hold this in your hands you can feel
+that it's not inside you you take it in
+but it's still external websites
+everything is on screens everything is
+an external experience but podcasting
+you're right there in people's head and
+and it's the most intimate medium we
+have and it builds trust it builds
+understanding it builds connection like
+nothing else now here's where this gets
+interesting the industry is seeing this
+massive growth just look not only at the
+numbers of listeners but also what's
+happening in the entrepreneurial world
+right Spotify with their Acquisitions
+but at the same time anyone can start a
+podcast with basically minimal equipment
+it's this weird Paradox you have this
+massive VC funded business side of
+things and then this almost
+democratizing content creation part on
+the other side and that's amazing but it
+makes it really hard to convince people
+to pay for premium tools and services
+like why should I pay for this when I
+can just use my phone's microphone to
+record or why should I pay for yet
+another service when Spotify is like 15
+bucks a month and I have access to every
+podcast out there is a problem but it's
+not unsolvable let me break down where I
+see the biggest opportunities in
+podcasting right now I think I'm going
+to focus on three main areas which is
+kind of a production consumption and
+things that happen after people have
+released and consumed the podcast and
+I'll tell you exactly why each of one of
+these matters based on what I've seen
+both in building pod scan and in running
+my own podcast the first I want to start
+with is Discovery Community consumption
+like the almost the b2c angle here right
+like everything that has to do with
+people consuming podcasts you know what
+we really need I think we need something
+like Shazam but for podcasts I want to
+be uh I want to be clear it's weird that
+just the idea of this because it's
+spoken word and I know it sounds a bit
+out there but hear me out in this one
+we'd need some kind of serious audio
+fingerprinting technology and that's
+probably not the same technology that
+Shazam has been using for the last
+decade or so it's probably going to be
+AI embedding space that you could
+identify not just what people are saying
+but how they're saying it because I want
+to be able to take my phone and tell it
+hey somebody just told me about this
+podcast where like this one sign
+scientific guy talks about sleeping
+patterns and the other guy just
+mentioned that particular thing what
+show was this it's kind of a search but
+it's semantic and it's has more to do
+with mood and Vibe right because think
+about it summaries and transcripts don't
+really capture the actual experience of
+an audio show and if you reduce it to
+text which is the way it's currently
+searchable and that's what podan does as
+well right transcribe all these podcasts
+it still loses this kind of the The
+Voice the tone so what we need is
+something that can analyze the audio and
+say okay these hosts have great
+chemistry they use a lot of cultural
+references from the '90s they explain
+technical Concepts and an accessible way
+for people from this particular
+background that kind of thing it would
+probably need to synthesize all this
+information into something comparable
+like the audio fingerprint so you could
+find shows or even episodes or even
+segments of episodes that match the vibe
+that you're looking for that is
+generally the discovery problem of
+podcasting because the medium of audio
+is so hard to access that people come up
+with with all these abstractions
+summaries show notes all of this but
+that loses a lot of data and that data
+itself is interesting and here's what
+makes this technically challenging you
+would need to be able to peek inside of
+all of these different platforms that
+house the audio data somehow because
+right now if a podcast is only on
+Spotify or only on the website or hidden
+behind some other kind of Walt Garden
+it's really hard to get access to that
+audio content for searching Google can
+only see what's publicly available on
+websites and we need to bridge these
+gaps somehow now technically all
+podcasts are supposed to be built on top
+of the RSS platform right the the files
+are on some host and there's an RSS feed
+that tells every consuming audio player
+every website that integrates podcasts
+where new episodes are coming from but
+if you only host your podcast on a big
+portal you really can't get to the audio
+data and that is a problem and then
+beyond that there's the community aspect
+which I still would see as a b2c
+opportunity that's something I'm really
+excited about podcast audiences are
+incredibly loyal I talked about the
+stickiness and I see this in my own
+analytics at all times for every episode
+but here's what's interesting different
+podcast communities need completely
+different tools like if you're running a
+fantasy football podcast your community
+needs totally different features than
+let's say a Harry Potter fan podcast
+community right you talk about different
+things clearly but it's also different
+in how people interact with each other
+like do they give each other tips that's
+probably more fantasy football and do
+they just talk about the things that
+they love about some story that they
+found somewhere that's probably more the
+the Harry Potter thing
+so with more shows doing live episodes
+on top of this I think there's a whole
+new layer of community interaction
+tooling that we need to think about so
+don't just see a podcast as this audio
+artifact that gets deployed into a store
+and then people listen to it the podcast
+itself is this whole living breathing
+being that is very much based on the
+community of its listeners and you'll
+find this for almost every podcast that
+is very popular out there there are a
+lot of communities like inofficial ones
+and often very official communities
+discords chat rooms forums like there's
+slacks sometimes that exists because the
+podcast needs the listenership and the
+other way around obviously too and that
+is where tooling can happen and should
+happen and often this is also where
+budget exists because those podcasts
+that already have this large audience
+often have ways to get some money right
+patreon is a big thing in the podcasting
+Community but sponsorships are also very
+big and often just subscribers they have
+paying subscribers for bonus feeds and
+that kind of stuff so that's budget in
+this b2c world let me move on to the
+production side of things mostly because
+I care more about this like being a
+podcast producing person myself and
+there are also clearer indication of
+budget in this side of things this is
+something I deal with every week on my
+own show I can really talk about this I
+run an audio only podcast as you can
+probably tell and let me tell you why
+cuz video something that I used to do is
+just way too much work and here's the
+thing though I actually record video for
+all of my interviews with the people
+that I talk to I just don't use it so I
+have it but I don't use it why because
+editing video is incredibly timec
+consuming and expensive because if you
+want it done right you have to pay
+somebody and it takes a long time to do
+video and cuts and Transitions and all
+that with audio still a lot of work but
+it's not as let's let's call it artistic
+in a sense right video there are certain
+expectations that people have and that
+takes a lot of time we're talking about
+a full day of editing for just one hour
+of footage when it comes to video that
+often includes to work on audio as well
+or may not include it and that's
+additional work it's just a lot of work
+and when it comes to automating video
+production here's what I'm thinking
+could be done because if your final
+edited audio file might be from any kind
+of tool could be Pro Tools or descript
+or Premier Pro audacity whatever you
+added in doesn't matter you have some
+kind of commonly understood file format
+that shows the edit compared to the
+original original audio files so the
+tool that I would like to see in the
+market that I haven't yet found would be
+able to take that audio file plus the
+raw video recordings and the edit file
+like the file that describes how the
+edit happened and then automatically
+sync them up into a video format such as
+matching Tim stamps it needs to make
+smart decisions when to switch between
+shots so there's probably some kind of
+diarization detecting who's speaking how
+to handle transitions how to handle cuts
+when like parts of the audio were
+removed maybe even identifying engaging
+moments where you want to zoom in on
+someone's reaction all of this stuff
+sounds like AI work that can be done
+it's also complicated but I feel that
+would be a massive thing that I would
+personally pay for immediately if all I
+had to do was upload my source files and
+my Protools file then yeah I'll take the
+video for this and for the audio
+cleaning side I think we should also be
+thinking about what tools we can offer
+to make podcast audio better and I know
+there are things out there like adobe's
+podcast stuff and descript Studio mode
+and they're good but they general
+purpose I would like to see AI model
+specifically trained on conversational
+audio podcast style what if you had
+something that really understood podcast
+conversations really understood not just
+how the cleanliness of the audio is
+supposed to be but also how it's
+supposed to fit together as a
+conversation like it could distinguish
+between a thoughtful pause and dead air
+these are two different things or know
+the difference between background
+Ambience that adds atmosphere and
+genuine noise that needs to be
+removed yeah there's a lot of stuff in
+production and I I have so many ideas
+that's just the audio side of things
+let's even look at the tracking who is
+listening like for something that seems
+to be solved but really isn't solved yet
+is tracking who is listening to a show
+like they do this with RSS prefixing
+like it's pretty much like a link
+forwarding for the RSS feed that a
+podcast has for better analytics so that
+anybody who wants to download an episode
+kind of clicks on a link that is
+registered on one website that then
+forwards that click to the next website
+that forwards that to the next and next
+and next and ultimately it ends up at
+the original audio file but it's gone
+through like three or four different
+forwarding agents Each of which
+registered that as an analytics as a
+click or something that's how podcasting
+works right now you should see uh where
+popular podcasts where those audio files
+are hosted there is often 8 to 12
+prefixes to the URL that all go through
+these different server hops just to
+register clicks or you attribute who is
+listening and that kind of stuff it is
+crazy but it's not been solved really
+well because you don't really get this
+information still like it's still super
+hard to get analytics about podcast that
+is reliable and that is something that
+should be looked into I don't really
+know what exactly to do here cuz that's
+kind of out of my death particularly
+attribution of who person is and who
+they're not and I think it's still a
+privacy issue but you still can't tell
+who's listening when they stop listening
+what parts they skip none of this
+because RSS is just like a download
+that's it and there's a huge opportunity
+here for someone to crack the problem
+while still respecting news of privacy I
+think that's still very important
+because that's something that podcasting
+does really well if you don't want to
+say who you are as a consumer you don't
+have to well unless you're logged into
+apple or Spotify but there are
+alternatives out there and you know what
+also would be amazing some kind of AI
+power tool that could help me and don't
+forget producing podcasts right during
+interviews now I talk to people a lot
+and I think I'm okay at asking questions
+but I don't know about you when I'm
+interviewing someone I'm trying to
+listen to what they're saying and think
+about my next question at the same time
+remember what we talked about earlier
+and keep track of time all at once it's
+not easy it's quite stressful and I
+consider myself introverted in many ways
+probably extroverted when I talk about
+things that I like like like what I'm
+doing right now but it's not the easiest
+or energy conserving thing to me that
+just talking to somebody is really
+really tough so I would love to have an
+AI assistant that's listening to the
+conversation with me in real time and
+then constantly suggests interesting
+questions or follow-ups for the next 30
+seconds something I could do over the
+next minute or so I could even set
+different goals for it like if I wanted
+to make the conversation more
+educational then I could press that
+button I don't know on my stream deck or
+something and it would come up with more
+you know chatty questions if I wanted to
+be more in-depth I could press a button
+and it would come up with more like
+Precision questions it would be really
+cool I can tell you how many times I
+finished an interview and thought Oh I
+should have asked about that this would
+be like having a really smart producer
+in your ear helping you create better
+content and being highly flexible during
+the process and being effectively free
+right don't forget about that like if
+you're an AI agent running right next to
+you for an hour a week that doesn't
+really cost you as much as an actual
+producer and this could make podcasts so
+much better right you if you're
+listening to people who are starting out
+interviewing and you just need to listen
+to my first couple episodes where I do
+this it's really hard you make a lot of
+mistakes and you leave a lot on the
+table having an AI that can constantly
+help you increase the quality of your
+content it's a good idea okay another
+example from the production side that's
+something more on the sharing and
+marketing side of things see there's so
+many angles to produ right um do you
+know these audiograms that everybody
+shares on Twitter and social media the
+ones that have the waveform and the
+captions and then they kind of just take
+a segment of a podcast and you share it
+as a video of the wave for but you know
+it's just really text being shown and
+audio being played I think we need
+better tools for this I'm thinking
+something that could take the audio the
+full audio of a show transcribe it then
+automatically pick the best highlights
+and generate brandable customizable
+audiograms that you could just share
+right away and I know that tools like to
+script have this built in but it's not
+their main focus there's room for
+someone to come in and just nail the
+specific problem for podcast producers
+of a certain category or of a certain
+size maybe even just solo shows or just
+interview shows stuff like this there's
+still specialization potential in this
+Niche okay so we talked about
+consumption we talked about production
+let's talk about the thing that happens
+after a podcast is being released the
+data and monetization too like turning
+the podcast into a business because that
+is where podan my business operates we
+help people monitor mentions of their
+keywords their names their brands and
+manage sponsorship opportunities or
+guest bookings but there's so much more
+potential in this space think about all
+the knowledge trapped in podcast
+archives in untranscribed podcast
+archives I'm working on this trying to
+transcribe all of them but there's still
+a lot out there what if you could turn
+that into an interactive experience now
+I've seen people experiment with this so
+I'm just going to share like the rough
+outline here's what I mean imagine
+taking everything that someone like Tim
+Ferris or Rob Walling from our community
+has ever said in their podcasts and for
+Rob that's now over what 500 episodes or
+thousands like there's a lot of stuff
+that Rob has shared over the last couple
+decades and then you feed this into an
+AI agent and the AI learns everything
+that Rob Walling or temper have ever
+said and then you're able to have a
+conversation with that version the
+podcast version of them when whenever
+you want you could ask them about their
+expertise you could ask them to critique
+what you're doing you could have them
+share their experiences because they
+have shared all these stories it's all
+in there and you get answers based on
+everything they have ever publicly
+shared and this isn't just for the big
+names think about every podcast out
+there where an expert has something to
+say all the cooking podcast all the
+chefs the crafts people from The
+Woodworking podcasts experts in their
+fields who've shared their knowledge
+through podcasts it's crazy there's so
+much going on I've seen people use this
+ad medicine in real estate it's bizarre
+you can take every single Niche take all
+the experts and condense these millions
+of words into AI models that you can
+talk to that you can have look at your
+documents look at your screenshots look
+at your photos of whatever you're
+building and then have them critique it
+it's crazy but that is possible so I see
+a lot of opportunity in this field and
+here's another thing podcasts are
+incredibly current and compared to other
+media right compared to websites that
+can often be like years old podcasts
+usually are super current at least the
+last episode is the latest one unlike
+YouTube videos it might cover topics
+spending years of history and just be
+very old podcasts are often about what's
+happening right now this week what's
+coming up next and there's a huge
+opportunity here in Trend tracking and
+forecasting based on podcast content
+that nobody's really tapped into just
+yet I see Google Trends that kind of
+stuff but podcasting still seems to not
+really factor into this so that might be
+something to build I might be working
+working on this who knows so let's go
+into the the final thing here
+monetization uh for this part because I
+think that's still really underserved
+too most podcasts are really stuck in
+the sponsorship and ads model and what
+if there was something well like patreon
+or only fans but just for podcast
+content better ways to get direct
+listener payments and direct listener
+interaction the Loyalty of podcast
+audiences is incredible and I think we
+deserve better tools to help creators
+capitalize on on that and I think we can
+build specific tools that integrate into
+the audio experience more than these
+tools that are trying to integrate into
+any kind of fandom that we have and
+there's something that nobody else has
+cracked yet to that would be voice
+training and coaching for podcast hosts
+I think this is all over the place cuz
+this technically is a production thing
+but you know how singers have voice
+coaches I think podcasters need that too
+I certainly need somebody to help me
+speak better this probably might be
+evidenced on this very podcast
+and I think most people don't realize
+how crucial good vocal delivery is I
+mean listen to my early episodes
+sometimes and you will just cringe not
+just the audio quality but also just how
+how I'm speaking uh you know it's just
+hard it's hard to learn so what if we
+had an AI system or a real person a
+service business that could analyze your
+speaking patterns help you improve like
+it could tell you when you're Meandering
+too much or help you be more precise in
+how you phrase things give you tips on
+pronunciation because let's be honest
+nobody wants to listen to someone drone
+on forever about a topic that could have
+been explained in half the time the
+nature of the podcast is that it's audio
+and audio can take a long time you can't
+really condense it you can't really skim
+it so you want to be able to deliver
+just right there's also opportunity I
+think in other languages that that's
+something we really need to talk about
+that translation and dubbing it's a huge
+opportunity and you can already see
+YouTube working on this right YouTube
+has been automatically dubbing certain
+shows which is really cool but I think
+it's way more complex than people
+realize because if you dub a German
+podcast into English it's not just about
+converting the words you need to
+understand the German Market context the
+industry specific terminology certain
+cultural things references that might
+not translate directly and you need an
+AI model that's not just language aware
+but also context aware industry aware
+industry specific models for different
+types of content think there's
+opportunity here and same for show notes
+this is really technically interesting
+you could use an AI to not just trans
+describe the conversation and pick out
+the most important things but to
+actually understand the structure the
+flow of the conversation it could
+identify when you introduce a new topic
+time stamp that when you're making a key
+Point time stamp that and when you're
+giving an example pull them together
+time stamp that right you could
+automatically format all that into show
+notes that are optimized for both human
+readers and for search engines and it
+could also filter out all the URLs and
+product mentions and find links to those
+to put into your your show notes giving
+all these things a boost as well from an
+SEO perspective maybe you could even
+generate different versions of show
+notes for different platforms because
+what works on Apple podcast might be
+different from what works on YouTube and
+Spotify let me wrap this up with what I
+think is the biggest opportunity of all
+and that is finding that sweet spot
+between what podcasters need and what
+listeners want becoming the kind of the
+transition between these two audiences
+that's where the next generation of
+successful podcasting tools will emerge
+between between production and
+consumption and with how fast Ai and
+audio processing Tech is developing I
+honestly can think of a better time to
+build in this space like right now is a
+good time so before I go I guess I would
+love to hear your thoughts on this have
+you spotted any opportunities that I may
+have missed because I I mean I see a lot
+but I don't see everything are you
+working on something in the space I
+would really love to hear so drop a
+comment or let's discuss it on Twitter
+I'm always open to this and if you found
+this helpful don't forget to subscribe
+to this fine podcast because I've got
+more episodes like this coming where I
+break down different markets and
+opportunities that I'm seeing not just
+in podcasting but in the wild world of
+SAS in general that's it for today thank
+you so much for listening to the booster
+founder you can find me on Twitter at
+aidad KHL and you'll find my books from
+my Twitter cor set too if you want to
+support me on this show please go to
+rate thisp podcast.com founder and leave
+a rating and a review and tell everyone
+you know about pods scan. FM it makes a
+massive difference if you show up there
+there because then the podcast will show
+up in other people's feeds and pods scan
+will find new customers I would love
+that any of this way up to show thank
+you so much for listening have a
+wonderful day and bye-bye

@@ -1,0 +1,51 @@
+{
+  "topic_id": 158947,
+  "title": "Accounting Issue",
+  "slug": "accounting-issue",
+  "category_id": 7,
+  "tags": [
+    "credit-note"
+  ],
+  "created_at": "2026-01-09T18:05:46.853Z",
+  "last_posted_at": "2026-01-09T18:05:46.999Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/accounting-issue/158947",
+  "views": 43,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Kunal4",
+  "posts": [
+    {
+      "id": 490779,
+      "username": "Kunal4",
+      "name": "",
+      "created_at": "2026-01-09T18:05:46.999Z",
+      "cooked": "<p>Can anyone help me understand how to solve this problem of applying tax template where i donot want to apply</p>\n<p>I have created sales invoice with multiple items and two of those does not able to apply gst with tax template i have selected and i had already make it e invoice and now after making wrong bill i want to create credit note and make fresh corrected bill but when creating that credit note i am getting gst from tax template and even after selecting exempted tax template still getting tax template and applying tax<br>\nhow could i solve this problem and make it same credit note as invoice ??</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/kunal4/{size}/90330_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 26,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

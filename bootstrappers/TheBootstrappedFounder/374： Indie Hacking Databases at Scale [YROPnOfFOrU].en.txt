@@ -1,0 +1,640 @@
+﻿[Music]
+hey it's Arvid and you're listening to
+the bootst
+[Music]
+founder as Indie hackers we often start
+our journey with these simple dreams and
+these manageable data sets just a couple
+things couple customers couple projects
+right but what happens when success hits
+at some point and your modest database
+transforms into this data Behemoth let
+me share my experience scaling potan
+from the simple database of a couple
+items to a system handling Mill millions
+of podcasts dozens of millions of
+episodes and over a million new tracking
+rows daily when you dealing with a few
+hundred thousand rows and maybe 50
+tables in your database Max life is good
+databases remain manageable cres run
+smoothly and everything feels under
+control it's easy to build against that
+but success brings scale hopefully and
+scale brings a lot of challenges in
+Pan's case it wasn't just about storing
+podcast data and metadata we're talking
+about millions of podcasts and their
+episodes and transcripts and tracking
+charts and topic analysis there's a lot
+of stuff what started as a
+straightforward database with a couple
+relationships quickly evolved into this
+intricate web of Highly interconnected
+data that needed to be instantly
+accessible the real challenge here isn't
+just a technical side it's juggling both
+database architecture and maintenance
+while also wearing all these other head
+as a solo founder I need to take care of
+marketing I need to build product so
+when you're handling Marketing sales
+customer support and product development
+the last thing you want is your database
+becoming a full-time job it just can't
+happen otherwise your business is going
+to fail yet that's exactly what can
+happen if you don't plan ahead the first
+reality check for me building databases
+for pod scan came when simple queres
+like give me the latest item in this
+table started taking minutes and
+sometimes hours and that was bad that's
+when I learned the critical importance
+of database indices and I knew about
+this stuff and I usually put them in but
+there are sometimes surprises in there
+so for any database at scale an index on
+the relevant data is non-negotiable
+that's your kind of fast access Lifeline
+to frequently create data like creation
+dates or podcast IDs in my case that
+needs to have an index but here's the
+catch while setting up indices during
+table creation is pretty painless and
+just part of like building a schema
+adding them to existing tables with
+millions of rows now that's a different
+Beast entirely combined indices are even
+worse when there's like several items
+right when you have your your ID you
+created it and some other thing and you
+combine them into an index because you
+have a query that needs these three
+things wow to set that up often requires
+a full table scan and that can freeze
+your production system for extended
+periods let's just call that could be
+seconds could be minutes could be hours
+and you certainly don't want that and
+adding columns usually is a quick thing
+but if you have default values that's a
+similar challenge because you're
+essentially rewriting millions of rows
+in a database if you put a default into
+every single row and you have millions
+already I learned to Less in the hard
+way when trying to add a new index to
+track podcast episode publishing
+patterns what I thought would be a quick
+database update and thankfully I tested
+locally where it was already fairly slow
+and I just had a couple tens of
+thousands of items in the database well
+it turned into a potential like 20 so
+minute downtime situation and that was
+completely unacceptable for a service
+providing API access to customers who
+rely on this so I had to find the way
+out and initially I resigned myself to
+schedule downtime for maintenance that
+was before I had API customers but as
+podan grew and started offering an API
+downtime became unacceptable you can't
+have an API with opening hours I mean
+the European Union used to have that for
+their value added Text data but that's
+not the point like any SAS business has
+an API that needs to be there all the
+time if they want to offer it as part of
+the service so at that point I
+discovered AWS rds's blue green
+deployments that's a game Cher for
+database maintenance so in case you
+didn't infer this I run my database on
+AWS and I use their database hosted
+managed service RDS to keep this mySQL
+database running all the time and keep
+it upgraded keep it updated keep it
+backed up and I'll get to these things
+but that's where I run all my data and
+for each database in the system AWS
+offers these blue green deployments
+which is something I didn't know until a
+couple months ago when I had to figure
+it out and the concept is brilliant you
+create a copy of your existing database
+and add it as a follower to your
+original one and you then have two
+synchronized databases on the new
+database you perform your time intensive
+operations and this is the Green version
+that's what they call it the blue is the
+original that keeps serving requests in
+the background and update the green one
+and then you switch over when you're
+ready and awsrds handles this elegantly
+through dns-based switching which is
+really really cool that results in
+minimal disruptions because in a way you
+don't even have to change your
+configuration to change your database
+they just switch it internally right
+there two servers and they flip a switch
+and then the old server gets a new IP
+and the new server gets the old IP and
+all of a sudden your connection just has
+a little hiccup for a second or two and
+then things start working again with pod
+scan currently being hit by 10 to 20
+requests per second from all the
+internal and external API requests I
+typically see fewer than 25 to 50 errors
+during switch over which is not that
+much like it's really really fast for
+something that I don't even have to
+redeploy it's really cool it's a
+testament to its reliability I've done
+this many times so far and has worked
+every single time very quickly so
+there's something else I found during
+all of these operations if there's
+something particularly challenging you
+can use a toolkit by the company called
+procona they have a really really cool
+SQL and just database based toolkit they
+have a thing called pt- online D schema
+Das change which is a tool that saved me
+countless hours a couple months ago
+which allows structural change changes
+without blocking reads and rights and
+without having to redo the whole thing
+in the existing table so it creates a
+copy of a table that's the idea it
+modifies the not the data just the
+structure of that table and then it
+modifies that structure to I don't know
+add an index or add a particular New
+Field right that you want with the
+default then it synchronously copies
+data from the old one to the new table
+while maintaining operations on the old
+table in the background it's
+the same thing as a blue green
+deployment but it's inside an existing
+database and this approach has been
+particularly useful for the creation of
+a full text index cuz Man full text
+indices adding one to an existing table
+with millions of rows that can take
+weeks like I tried it it was impossible
+to add it particularly because I have so
+much Text data right imagine that in my
+podcast episodes database it's not just
+the name of the episode or maybe a
+description which can be quite lengthy
+but I have the full transcript like
+hours worth of text in each of these
+items and now imagine a million 2
+million 20 million of these items of
+these rows and trying to create a full
+text index that indexes every single
+word man no that that took way too long
+so PT online schema change that really
+helped me do this at that point even on
+the green deployment like that was the
+thing I created a blue green deployment
+and then inside the green deployment I
+used this tool to make it possible
+yeah uh data at this scale is a lot I
+think the database is currently roughly
+over two terabytes in size and that is
+already a reduced version of what it
+used to be it used to be four terabytes
+four to five and I'm going to get to
+that but it's already shrunk and it's
+still massive so anything on this will
+take a long time so why did I shrink it
+well recently I faced an interesting
+challenge that perfectly illustrates the
+maintenance complexities at scale that
+you will undoubtedly encounter once you
+run into Data like this so I had built a
+system to move old transcripts from
+shows that are a couple months or years
+old into Amazon S3 as a Json document
+and keeping only frequently accessed
+content in my database to just keep it
+lean logic was simple here if an episode
+is older than I don't know a couple
+months and rarely accessed well maybe
+once a week or a month why keep its
+transcript in our primary database right
+it doesn't really make sense however I
+discovered that deleting this data did
+not reclaim any space inside my database
+even though I thought it would and then
+I figured out my AWS RDS storage still
+showed 5 terabytes when the actual data
+was only 2 terabytes now I have a
+solution for this I'm going to tell you
+but here's the reason why by default
+awsrds if you use a mySQL database in
+there keeps each table in one file you
+can do it so that it keeps every row in
+a file I think and that probably would
+have Shrunk the database size but if
+it's in a file it just keeps appending
+to the file and Mark Parts as deleted
+and those parts will still contribute to
+the size of the file the only way to do
+this is to run an optimized table
+command on a blue green deployment which
+I did right I created a copy of the blue
+database making it green and then ran
+optimize table on my podcast episode
+table and this operation took over 3
+days to complete it was crazy long and
+day two I was thinking should I stop
+this this just ever going to end but I
+was committed to seeing it through but
+it successfully compressed the storage
+needs by 3 terabytes from five down to
+two and this significantly reduced the
+monthly AWS bill I have to pay so of
+course this means paying for double the
+storage and double the compute during
+this period of optimiz ization but the
+long-term savings make it absolutely
+worthwhile and you couldn't do this on a
+production system just could not work
+you could not block a table for a copy
+operation for three days right just you
+can't do this you need to have a replica
+or a Blu green deployment for this I
+don't know how I would do this like all
+by myself if I were to manage to host my
+database myself I have no idea I would
+not be able to run these operations
+which is why I highly recommend going
+with manag solutions from the start it
+might not be the cheapest thing but it
+turns out to be quite cheap in the end
+because I don't have to deal with things
+like replication and deployments it's
+all built it's all working right so that
+that's my personal perspective of course
+if you're not going to have massive data
+amounts you might not need this and you
+might still be able to transfer your
+data over into a managed database at
+some point but you know you never know
+and I like to make these decisions early
+so that I don't have to migrate data
+when it's like just becoming complicated
+and here's another thing I talked about
+fex indices already and that is
+complicated because full text search is
+another scaling challenge for any
+business with data because MySQL offers
+full text indexing it's really useful
+and it works but it doesn't work well on
+millions of text Heavy rows particularly
+post you know and when it takes weeks to
+do it but even if you had build it in
+from the start search is very slow if
+there's so much of an index to go
+through so I opted for Miley search as
+an external search solution and I self
+Host this on a headstar server for cost
+efficiency that's a couple hundred bucks
+a month but it introduced a new
+complexity to the whole system and that
+is synchronization because with up to
+60,000 new transcripts arriving every
+day each potentially containing hours of
+transcribed text which is still a lot of
+text so keeping the search engine in
+sync with the main database became a
+significant engineering challenge you
+can send data over and it has to be
+absorbed into that database you need to
+make sure you don't send the wrong data
+and you need to make sure you only send
+the data that it can handle it does just
+a lot there and add multiple indices for
+different content types to that database
+like podcast topics descriptions
+episodes and you're looking at a
+substantial data pipeline that needs
+careful management and the
+synchronization process revealed its own
+bottleneck bottlenecks I guess myyour
+ingestion can only handle so much data
+at once again because there's just so
+much text in podcasts and when you're
+dealing with hours of transcribed text
+per episode you need to carefully manage
+your indexing strategy so I had to build
+this sophisticated queuing and waiting
+system batching system in there too just
+to keep everything in sync without
+overwhelming either system right I don't
+want to keep all these things in memory
+and now my main server is like memory
+overload that's just so much when it
+comes to data 50 60,000 episodes a day I
+don't know why I did this I don't know
+why I started this business man has just
+so much going on but it works because
+you just need to make solid choices
+along the way and one of the lessons
+that I've learned repeatedly is that
+even high performance databases can
+sometimes make surprisingly poor
+decisions you need to tell your system
+what it's supposed to use my sql's query
+Optimizer is generally quite reliable
+you you can send a query and it tries to
+find the right indices but it doesn't
+always pick the optimal index for a
+query and I have situations still have
+them every couple days where a simple
+cray would run for minutes until I start
+hinting at which index to use because
+the index is there the system just
+doesn't use it and then I hint at it in
+an actual index hint within the query
+and after which the whole thing executes
+in milliseconds using the index that is
+something that you really have to be on
+top of you have to have an APM system
+like an application performance
+monitoring system that shows you which
+things are getting slower so you can
+figure out are they optimally using what
+they could be using and for me recently
+this was particularly visible while I
+was dealing with my podcast chart
+tracking data pocan has a month or so
+ago introduced charts where you can see
+the top 20 podcasts in any country in
+any category which is uh something that
+I took a long time to build because it's
+hard to build but with over a million
+new rows being added daily because the
+combination of countries and categories
+and for each of these there already
+10,000 combinations there for each of
+these you need to add 200 items to a
+database that's a lot of data even
+simple queries can become problematic
+without proper optimization and proper
+index use so I've learned to regularly
+audit query performance by looking at
+the metrics the apms that I have in
+Sentry and not shy away from using index
+hints when the optimizer consistently
+makes some optimal choices one thing
+that's important like if you building an
+application where you add an index like
+after the fact because you see H this
+might need it and this might need a
+better index or a different index make
+sure that if you use migrations to
+change the database schema you add your
+index that you manually added to your
+database into a migration at some point
+or at the very least you do a dataless
+export a dataless dump of your schema so
+you know exactly which indices to
+recreate when you need to redeploy your
+database or you create a staging
+environment or a secondary production
+system whatever it might be right make
+sure those index choices you make along
+the way are cataloged and documented
+somewhere because if you don't put them
+in the next time you deploy this all of
+a sudden things will get super slow and
+you will have no idea what the reason is
+for that so make sure you stay on top of
+that and finally I guess when it comes
+to protecting my data from catastrophic
+disaster which has yet to happen but you
+have never know I use a multi-prong
+approach I'm talking about backups here
+really first off I leverage AWS rdss
+snapshot feature where they just
+regularly create backups of the full
+database on an hourly basis I think
+ready to be restored at any point I've
+tried this with a couple test databases
+it does work but it's a backup on the
+platform that it's made for you know
+like it's a AWS based backup for AWS
+data so if AWS has a problem then I have
+a problem so relying on this alone is a
+form of platform risk which I would like
+to avoid that's why on a regular basis I
+do a full data dump like the whole thing
+I download it and I store it off
+platform and on platform S3 or whatever
+and since the database is now terabytes
+in size even when compressed it's still
+multiple terabytes or one terabyte plus
+this takes a while and it costs a bit to
+store but it's absolutely worth just
+having the data right with me on a local
+disc in my house and on several Cloud
+block storages like het now recently
+introduced an S3 compatible storage and
+AWS clearly has one I think digital
+ocean may have one too it would take me
+probably a day or so to recover from
+just the data dump just to send it into
+a new database but honestly it beats not
+having offsite backups at all because if
+AWS ever explodes which I don't think it
+will clearly cuz then everybody else is
+going to have problems but if my data
+gets corrupted or if the backups don't
+work or whatever it's still a way to be
+able to recover all this really really
+valuable data and put it back into a
+database and also it's just good to have
+the data to play with if I ever wanted
+to have a local system to import all
+this data it's good to have a local copy
+so for fellow Indie hackers starting
+their database Journey here's my advice
+start with a hosted managed database
+service that's cost effective but
+reliable stick to the basics you can
+really only choose between a local
+database if you want use SQ light which
+is just a file based database really
+fast really cool it just doesn't really
+scale well into replication I think I
+would just go with a hosted thing where
+other people make sure your data sticks
+around that's my personal perspective
+and for that you either use MySQL or
+posr poql and while poql offers really
+attractive features like vector storage
+which is great for AI applications like
+you can actually have your embeddings in
+there and native location data support I
+think that is called post Gus where you
+you can create maps and stuff MySQL has
+served me and pod scan well over the
+last couple years though it means
+finding alternative solutions for
+certain features I think posers is also
+pretty good at full text search I think
+I still likely would only use melee sech
+for full text even if I had a poest
+database just because of the size of it
+but just saying some databases have
+stuff like this built in others do not
+you need to find the solution that
+includes as much as possible for you but
+also the solution that you can work with
+best it costs me a couple thousand
+dollars like two to three a month to run
+this database on AWS and a few hundred
+to run my own melee search search server
+under 3K altogether when optimized for
+size it was more expensive when it was 5
+terabyte now it's two and that's
+definitely not as expensive another tip
+keep your implementation database
+agnostic initially avoid special plugins
+or vendor specific features until you
+found the Revenue to commit long term
+which is why I go with my SQL because
+it's just very basic if I were to use
+posr I may already have used the vector
+thing and that means that now I could
+only ever use poest there probably okay
+but it's also a choice you need to make
+in the beginning just ensure always that
+you can quickly deploy read replicas
+should you need to like a read replica
+is pretty much what a green blue
+deployment is but it's not meant to be
+switched over right a read replica is a
+copy of your database that is read only
+that is constantly fed new data from
+your master or your main database and
+gets uh just readed from and it's so
+much faster because it doesn't have to
+wait for writes right you can read read
+read qu qu qu so if you have a lot of
+traffic spikes or if you have a lot of
+reading people reading data you have a I
+don't know you viral all of a sudden and
+everybody wants to look at your homepage
+whatever it's good to be able to deploy
+a read replica and have your system just
+do queries on that I found kind of being
+able to quickly spin up a read reper
+during high traffic periods has saved me
+multiple times in the past when it was
+still not very optimized and
+particularly when search engines
+suddenly start crawling our content more
+aggressively or even worse AI companies
+like they don't really stop at the
+robots txt they just crawl crawl crawl
+it's good to have a read replica that
+could just you know serve them even
+though it's a cost for you it's better
+than have this kind of read heavy
+approach bring your system to its knees
+if I were to start podan today with all
+the learnings that I had along the
+journey I might choose pisl for its
+built-in features like vector and
+location but the key lesson isn't about
+which database to choose it's about
+understanding that your needs will
+evolve as you scale and you can't really
+know precisely what you need from the
+beginning the database that serves you
+well at launch might need to be
+complemented with some additional
+Services as you grow like search engine
+did for me just remember to start with a
+simple database today and think about
+the fact that it might need to handle
+millions of Records tomorrow or maybe in
+a month right plan for scale just don't
+over engineer consider just good
+practices in building queries in
+building an index in building the schema
+and focus on building something that
+works now while keeping the door open
+for future optimization use good systems
+that's kind of what it is like you could
+probably write your SQL by hand you
+might want to have like a database
+object wrapper around something that
+takes care of this for laral that's
+really really cool it's called eloquent
+it is the kind of CR Builder it's highly
+highly effective and gives me all the
+required things that I need without me
+having to write actual SQL so that is
+something obviously that most developers
+do I just highly recommend it for you if
+you don't know about it look into these
+systems and use them reliably you can be
+pretty sure that things are as optimized
+as they can be because all these things
+that I talked about all these challenges
+and finding these Solutions that's what
+Indie hacking is all about right it's
+growing and adapting as our success
+demands it that's why we're Indie
+hackers the most important thing I've
+learned through this journey is that
+database management at scale is not just
+about Technical Solutions it's a balance
+between the performance and maintenance
+effort and cost because I could just buy
+a much bigger database and the queries
+would run faster right you can do a lot
+of vertical scaling just by getting more
+cores and more RAM things just happen
+much much faster
+but it's also super expensive and as a
+solo founder you need solutions that not
+only work well but don't require
+constant attention so sometimes that
+means paying a bit more maybe not too
+much but a bit more for managed services
+and other times it means investing time
+in automation the key is knowing which
+battles to fight and which ones to defer
+until they truly matter for your
+business and you can actually afford to
+fight them and that's it for today thank
+you so much for listening to the Boer
+founder you can find me on Twitter at
+aital rvad k
+if you want to support me in this show
+please share podan FM with your
+professional peers and those who you
+think will benefit from tracking
+mentions of their brands businesses and
+names on podcasts out there we have
+charts now topics are coming we have
+collections lists there's a lot of good
+stuff and podan check it out podan is a
+near realtime podcast database with a
+really really good API uh so my
+customers tell me so please share the
+word with those who need to stay on top
+of the podcast ecosystem thank you so
+much for listen

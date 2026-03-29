@@ -1,0 +1,52 @@
+{
+  "topic_id": 154300,
+  "title": "custom list display",
+  "slug": "custom-list-display",
+  "category_id": 6,
+  "tags": [
+    "doctype",
+    "list-view"
+  ],
+  "created_at": "2025-09-24T05:40:51.100Z",
+  "last_posted_at": "2025-09-24T05:40:51.219Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/custom-list-display/154300",
+  "views": 38,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "mahdi14420114",
+  "posts": [
+    {
+      "id": 481843,
+      "username": "mahdi14420114",
+      "name": "mahdi landolsi",
+      "created_at": "2025-09-24T05:40:51.219Z",
+      "cooked": "<p>so i have 2 roles, agent and supervisor, complaint is my doctype which contains two users field, reporter and assigned_to,my goal is that the agent sees complaints where he is the reporter(it’s not always created by him it can be created by a guest),and supervisors get a list of complaints where active user=assigned_to, and a list of all complaints, any guidance on how to do it ? thanks in advance</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/mahdi14420114/{size}/90711_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 9,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

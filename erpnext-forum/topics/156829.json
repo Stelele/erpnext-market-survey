@@ -1,0 +1,52 @@
+{
+  "topic_id": 156829,
+  "title": "Issue with Custom Stock Balance Report – Incorrect Qty After Stock Reconciliation",
+  "slug": "issue-with-custom-stock-balance-report-incorrect-qty-after-stock-reconciliation",
+  "category_id": 9,
+  "tags": [
+    "customization",
+    "stock"
+  ],
+  "created_at": "2025-11-14T04:55:08.790Z",
+  "last_posted_at": "2025-11-14T04:55:08.885Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/issue-with-custom-stock-balance-report-incorrect-qty-after-stock-reconciliation/156829",
+  "views": 26,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Malashri",
+  "posts": [
+    {
+      "id": 486428,
+      "username": "Malashri",
+      "name": "Malashri Subha",
+      "created_at": "2025-11-14T04:55:08.885Z",
+      "cooked": "<p>Hi everyone,</p>\n<p>I’m trying to create a custom version of the Stock Balance report that shows only quantities (no values) and includes minimal filters.</p>\n<p>I’ve set it up as a Query Report, but I’m running into an issue — the Opening Qty and Closing Qty are not calculated correctly whenever there’s a Stock Reconciliation entry.</p>\n<p>Has anyone implemented a similar report or figured out the correct way to handle stock reconciliation adjustments in custom stock reports?Any pointers on which backend logic or functions (from stock_ledger.py or elsewhere) should be referenced to get accurate quantities would be really helpful.</p>\n<p>Thanks!</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/b77776/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 9,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

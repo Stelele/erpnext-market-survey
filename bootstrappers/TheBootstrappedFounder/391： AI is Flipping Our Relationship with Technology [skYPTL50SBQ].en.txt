@@ -1,0 +1,740 @@
+﻿Hey, it's Arvid and welcome to the
+Bootstrap Founder. This episode is
+sponsored by paddle.com, my
+merchantofrecord payment provider of
+choice. They're taking care of all the
+things related to money so founders like
+you and I can focus on building the
+things that only we can build. And
+Paddle handles the rest, payments,
+recovering money, all that kind of
+stuff. I highly recommend it. So, please
+check out paddle.com.
+Last week I read a tweet by Channing
+Allen and he's one of the co-founders of
+Indie Hackers. The tweet was about the
+term second brain. He was saying how it
+was kind of crazy that just a couple
+years ago folks were publishing
+best-selling books on the brilliance of
+spending hours a day doing manual data
+entry into spreadsheet apps like notion
+and then calling these brains. Over the
+last couple years, I think we've
+developed completely new technology for
+this with the whole large language model
+system. And people like Channing know I
+repeat and people like Channing now log
+no fewer than 1,000 autobiographical
+words every day into an LLM with
+long-term memory. And then that combined
+with access to the whole internet
+becomes a thing that knows him much
+better than he knows himself. It's not
+just a second brain, not just a better
+second brain. He says it's on the way to
+becoming a better firstb brain. And
+that's a fascinating idea and quite the
+development over a very short time span.
+And I want to explore what it means or
+what it might mean for us as creators,
+founders, developers, and humans. I
+think I'm looking at this from the
+perspective of a technologist. That's
+always who I've been. But also as
+someone who's seen their own work
+transformed by these tools just in the
+past year. Like things have changed so
+much. I hardly recognize how I approach
+writing and coding and all of this, but
+I'll get to this. Maybe let's have a
+little excursion into philosophy here.
+In transhumanism, which explores where
+humanity is headed and how technology
+shapes our future and our past, I guess,
+there's something called the body
+extension theory. Humans are the first
+animals who really embrace extending
+their bodies through technology. Like
+there are animals like crows or whatever
+that can use tools but like truly
+extending what the body can do. I don't
+necessarily mean hardware tech like the
+things that even as software people we
+we use the term for. I mean any tool
+that extends and strengthens part of the
+human body. The example that is always
+given to explain this is that the hammer
+is a version of the fist and it's so
+much more resilient and stronger than a
+fist could ever be. and a saw is a
+stronger version of human teeth or claws
+and a microscope extends our eyes.
+That's that's the kind of stuff I'm
+talking about, right? We build tools and
+then extend our body through it. So when
+I got my first phone with internet
+access, it felt like all of a sudden my
+brain was also extended. It was extended
+to a point where I didn't have to rely
+on rote memory anymore and I could look
+things up and use my phone as this ever
+connected data source. It's kind of an
+outsourced brain. And I think this is
+what Channing is describing with the
+evolution of the second brain concept.
+The second brain was the attempt to
+outsource knowledge and make it
+parsible, linkable, and interpretable by
+other tools. People did a lot of manual
+work to give it shape and structure. Put
+it into notion, put it into obsidian.
+Yet that was all it was. It was an
+outsourced version of what you already
+knew. And if we really want to go there,
+books, the idea of a book and the
+physical thing, they were the original
+second brain, right? They're a fragment
+of the brain, a slice of what we know
+about a certain thing and what we care
+about at a certain point in time. And
+books made brain-to-brain communication
+possible for the first time without
+requiring people to be in the same place
+and tell each other's stories. We could
+put all our thoughts in a book
+and repeat or take somebody else's
+thoughts from their book and import that
+into ours. It's an unwieldy process. It
+takes a while and it's super boring to
+some, but it's a kind of an external
+hard drive that takes a long time to
+copy files to our own internal hard
+drive, but it is an externalized brain.
+And then second brains or idea gardens
+happened and came along long after
+books, like when the internet happened
+and tools existed to put these things
+into place. because of notion obsidian
+these things made it easier to sort and
+connect information right you had ways
+to show visualize information maybe in a
+table maybe in a list maybe in some kind
+of may so I'll repeat that maybe in some
+kind of canban diagram or whatever you
+you had a way to store information that
+made it interesting and search became
+fast and reliable you could trust that
+the knowledge you put in there would be
+retrievable and then came AI this weird
+thing that is almost a brain in itself.
+You could argue that it is, but you
+don't really know. It's still a very
+opaque situation. Properly prompted and
+continuously triggered though using
+things like agentic systems, an AI keeps
+thinking for you as long as it's
+instructed to think, as long as it's
+speaking. This is interesting thing. I
+read that recently on Twitter, too,
+where an AI is dead once you read the
+full answer, but it lives as it speaks.
+I find this disturbingly romantic. The
+idea that this thing is only alive as it
+is speaking. It says a lot about our
+attention economy and the idea that you
+only heard as long as you speak, which
+is kind of a regression from this
+artifact style that books were, right?
+Externalized brains, you had to actively
+read them, but they were always there.
+AIS, they're only in memory for when
+they're actually working. So as long as
+it keeps thinking or as long as you tell
+it to think, much like our own brain is
+kept alive by the rest of our body, it
+is creating stuff for you. So maybe it's
+a good opportunity to share how I've
+experienced this firsthand and the
+change the impact that it had,
+particularly as I use AI as an extension
+of my own cognitive function for coding.
+Initially AI was pretty bad at coding.
+Um, I tried it at not necessarily the
+earliest stage, but when it was still
+like very very young and the large
+language models were really really new,
+it would come up with the wrong stuff.
+It wouldn't understand context well. It
+just didn't have a context window to
+even get a lot of stuff in there and it
+would often create functions or code
+that didn't do what I wanted. So I
+initially dismissed it quite early but
+then the models got
+better and eventually I found myself
+actually using the code that was
+provided mostly in line by something
+like GitHub copilot at the time and I
+still had to correct stuff right you
+still there were errors here and there
+but it was it was something like you
+could actually write a comment and tell
+the thing what you wanted and it would
+kind of create this maybe not perfectly
+but it would do like 80%. And I noticed
+that I could now have code assistants
+that if I named my functions correctly
+and commented well was capable of
+creating the function body. Particularly
+in JavaScript, these systems were very
+good. I think they were just trained on
+a an massive existing corpus of
+JavaScript applications out there like
+all of GitHub, every JavaScript thing
+that people wrote. So if I have a
+function like format date as relative
+with the parameter date, it would
+understand that I want to have something
+an output like 5 days ago and then it
+would use whatever date formatting
+library is maybe already in the project
+if it has context or use the standard
+libraries version of this and you know
+write its own little code but it would
+get what I want. So it was very useful
+for clearly scoped smaller functions
+from the start and it got better as the
+le
+And it got better at the less clearly
+scoped and more complex functions over
+time as the context windows grew. Now we
+have aentic systems like uh windsurf or
+cursor or recently even intelligjs juni
+which I've started using and I've
+started it using because it's part of
+the latest update and comes with my IDE
+subscription. So it's kind of a free
+agent. Why would I not use it? And it
+works really really well to the point
+where I'm now becoming a manager of
+agent software developers or juni in
+particularly as that developer who will
+do all the software development for me.
+My own job now is to specify as clearly
+as I can what I want done and then to
+kind of code review and test the results
+of these agents and see if they have
+like my code smell that I want or if
+they don't do too little or too much.
+But most of the work now is done. Let me
+give you a concrete example. So I have a
+background task in Podscan that
+generates a massive list of all the
+podcasts in our system. That's like 3.7
+million including their IDs, the RSS
+feed URL, and when they last posted an
+episode. I use that list to tell my
+other API systems where they should be
+checking servers to regularly pull RSS
+feeds and check for new episodes. Right?
+That's the kind of checking system.
+There are other ways to check for
+updated podcast episodes. There is
+something called the podping network and
+um other things, other ways, but I have
+this list kind of as a backup to still
+manually check every couple hours if a
+feed was updated or not. And I do this
+millions of times a day. Now, recently I
+noticed that the function hit a memory
+ceiling as this list was assembled and
+occasionally failed because it was it
+would load gigabytes of podcast data
+into memory. So I went to Juny and I
+tked it with this prompt and I'm just
+going to give it to you verbatim so you
+know how I prompt if you're interested
+in that. The prompt was in the podcast
+file where we generate the podcast feed
+function. Uh I repeat the whole thing in
+the podcast file where the generate
+podcast feed list function happens. I
+want you to implement a locking
+mechanism that prevents this function
+from running more than once at a time.
+The log should really just cover 15
+minutes of time but be immediate to
+prevent dual execution. Also, I want you
+to severely reduce the memory
+requirement of that function. Right now,
+all data is loaded into RAM. How about
+writing the target JSON file one chunk
+at a time? Finally, add more logging to
+this process. I need to have more
+insight into memory pressure and
+execution progress. That was my prompt.
+And from that prompt that had several
+things, right? I tell it where the
+function is. I tell it that it should
+implement locking, how long locking
+should work, that we have a memory
+problem, how to kind of fix it. Maybe
+maybe see about that and then add more
+logging. I want to see what's happening.
+From that prompt, Juny created an
+execution plan. Examine the current
+implementation. And it wrote it all
+down. That's so cool, right? You can
+see, okay, this is my plan. I'm have
+going to have all these steps. Then I'm
+going to go through them and do them.
+First one was examine the current
+implementation. Second was research
+locking mechanisms in Laravel, which is
+awesome because it started googling
+stuff behind the scenes. Then modify the
+function to implement the lock, refactor
+the function to write JSON data in
+chunks, add logging, test the changes,
+and it executed flawlessly. It created
+all the required things in about what
+must have been like 40 seconds or
+something. It was wild. My coding work
+was to very clearly formulate what I
+needed. Not to write any code, but to
+write the spec, wait a couple seconds
+for it to be implemented, and then go
+through the code to make sure that what
+I needed was actually
+happening. And what I find fascinating
+about this use of AI and what Channing
+is saying and what I'm experiencing all
+the time is that the flow of benefit
+here is changing. When you think about
+like externalizing things and the second
+brain and using AI to do work for you,
+well, the second brain was a more
+tangible, more searchable or more
+reliable external copy of a fragment of
+your own brain, right? That's kind of
+what that was at that point. But now
+we're taking our knowledge and our
+requirements and we're injecting it into
+large language models that already have
+a vast knowledge and insight into stuff.
+Like a notion database is shapeless and
+inert. It's empty until you fill it with
+your knowledge. But a large language
+model used with like rag retrieval
+augmented generation becomes something
+else entirely. In a way, it's not that
+the AI is part of us. But by giving it
+instructions, letting it work, and then
+telling it if it was right or not. We
+are part of the AI. All my ideas of what
+the future would look like and all the
+sci-fi stories that strongly featured
+cyborgs and a AI augmented humans, AI
+was always the thing that was propped on
+top of the human condition. It started
+looking like particularly with our usage
+of AI as this weird amorphous cluster of
+graphics cards somewhere interfacing
+with us through chat windows. Well, that
+our knowledge is now imparted on the
+system on the AI itself. We still got
+the benefit from using these tools. Like
+I said, don't get me wrong, I love using
+Juny for this. Just giving it something
+to do and then looking at what it did
+and telling it if it was good or not and
+therefore training the next iteration of
+the model to be even better. But I think
+Channing is right. We are creating a
+non-human brain here that is
+synthesizing all the human experiences
+from our interactions with it and from
+the training data that it has already
+absorbed like our forum posts, our
+books, our social media posts which are
+effectively reports of our human
+condition, right? These are things like
+artifacts of
+humanity. I don't know. We're constantly
+training this bigger and more
+experienced first brain out there. Maybe
+the zeroth brain like the brain of all
+brains. a kind of amalgamation that
+might be what people call the
+singularity. That's kind of where this
+starts intersecting. It makes me wonder
+like when will the point be where we
+might stop benefiting from this? Is that
+even going to happen? Is there going to
+be a point where the thing doesn't need
+us anymore and we will lose access to it
+or will we just continuously benefit
+from a better and better brain that
+exists between us? And when we think
+about Star Trek here, because there are
+episodes of Star Trek, which you know,
+it's it's a sci-fi show where the human
+condition and the future is explored.
+And there are episodes where there is
+this super benevolent brain, the the
+benevolent AI that helps people create a
+better life that is constantly feeding
+um novelty into their lives, like giving
+them everything they need, but also
+making their lives interesting. Those
+episodes exist. And then, you know, Star
+Trek explores what that might look like.
+And then obviously there's the the
+malevolent version of this where a a big
+old AI has taken over everything and
+starts enslaving humanity. Don't need to
+go to Star Trek, just watch the Matrix
+movies, right? That's where that is too.
+So where will we be? The AI knows you
+better than you know yourself. That's
+what Chenn said because it does. It has
+perfect recall and it has a lot of
+external perspective. It has the
+capacity to constantly fact check
+everything that you're saying because it
+can find references outside of you that
+are more troubling for you to find
+because you always have your own
+internal perspective. It has the
+capacity to contextualize things that to
+you are one way but to an outside
+perspective could be interpreted in very
+different ways. It is a brain outside of
+our brains. Not a second brain but a
+bigger one. And this shift from doing
+the work, from building up the mental
+model, from implementing it as code,
+like in our work at least, or
+implementing it as something you write
+or you draw or you paint and then
+testing that reflection of the mental
+model. That's kind of what we used to
+do, right? We would try to build
+something in our mind and then we would
+try to do it in reality. Particularly if
+you have ever drawn or painted, you know
+how hard it is to get this internal
+representation of you want to do onto
+the paper or onto the canvas. And that
+used to teach us something about the
+process. So setting up, building the
+mental model, describing it adequately,
+having it done for you and then testing
+what the AI has done. This shift removes
+the act of creation or rather shifts the
+act of creation from writing the code to
+writing the spec or from painting the
+image to describing the image. You know,
+that's very different a very different
+act. And I think this is kind of a
+natural progression that we have in all
+careers. Like we tend to go into more
+management positions over time and even
+very capable software developers if they
+want to end up being team leads or CTOs.
+They get promoted like away from
+creating code and more from doing
+architecture work anything like this. It
+is wild that this particular part of
+software development is not necessarily
+done by humans anymore. Uh, one of the
+things that I very quickly get
+confronted with when it comes to AI use
+and coding is skill atrophy. Like, am I
+losing a valued skill by not coding
+anymore by just watching a thing write
+code for me? You might argue that the
+valued skill on all of this is knowing
+what you want and being able to
+explicitly express it in a specification
+somewhere instead of knowing how to type
+things into a computer in a language
+that a computer can understand. Like
+coding was always the in between form,
+right? writing code has been around for
+what like 40 50 60 years maybe it's a
+rather new kind of work in the human
+world like people haven't coded 200
+years ago they certainly have farmed
+they certainly have painted but we had a
+phase where we were writing machine code
+that was kind of the first thing or I
+mean there were punch cards too like
+people were not even writing code they
+were punching cards and then a phase
+where we writing code into text editors
+to be compiled into machine code and
+then came idees where a lot of even the
+writing was done for us code was already
+being written for us in many ways.
+Intelligent code completion existed long
+before AI and compiling the process of
+that does transform our highle
+abstraction code into machine language.
+So there always has been this okay let
+me do it for you part. So it is now
+though that all code is written for us.
+We don't need to know how to write it
+even. We don't even need to know the
+language. We just need to know how to
+read it to test it and check it. And
+when I say we don't need to know the
+language, we still need to know it
+enough to understand what it does, but
+we don't need to have it
+memorized. And this might be risky for
+people who have built careers in coding,
+particularly in one specific part of
+coding, but it might also deter people
+from learning how to code, which makes
+it harder for them to understand how to
+specify and test code and to understand
+its implications and limitations. So a
+disconnect from the act of
+production means there is a disconnect
+from the work from the result because
+it's great not to have to write code or
+to draw or to paint. It does weaken our
+understanding both of the intricacies of
+creation of the thing and of the value
+of it. Because to me at least there is a
+value in spending an hour trying to
+figure something out and then having
+that figured out makes me understand
+that somebody else probably also will
+take an hour to get this particularly
+for a founder that means okay there is a
+kind of mode a kind of barrier here but
+handing all of this over to
+machines. Well, now we just call it tool
+use. But I think it also might dampen
+our creative capacities and our
+capacities to judge particularly when
+it's like from 100 to zero in just a few
+years. Like three years ago, I would
+have never thought that this would be
+how I write code. But here we are,
+right? This is what it is and everybody
+else is doing it. There are so few
+people now that are still kind of on the
+fence. They just haven't tried it yet.
+Even people who never coded are now
+coding. Like even as a developer, you
+kind of have to catch up with this or
+you're not a developer anymore. And
+programming will move up one level. I
+think that happens outside of AI
+assisted coding as well. Research is
+moving up one level. Now it's just about
+diving or actually reading the articles
+or books and finding the data yourself.
+You're now instructing agentic systems
+to find the right works, the right data,
+and put it into shape that's then usable
+for your continued research. Our
+interaction with this first brain means
+that our own brains need to learn a new
+way to interact with this kind of
+information as a source. The way we work
+still has the same needs and
+requirements, the same inputs and
+outputs. But how the work is done,
+that's changing. Who exactly loads the
+data into memory. It's not us anymore.
+It's now the machines. We instruct these
+machines then to extract the most
+meaningful parts that help us get to
+where we want. But we are not doing that
+work. Hundreds of years ago, people
+didn't have this capacity. People had to
+memorize poems and books and facts as
+much as they could because books were
+scarce, expensive. So memorization was
+highly important. And even through my
+own history as a student, as a as a kid
+in school, we were still forced to
+memorize a lot of things because you
+couldn't just build a clear
+understanding of how things worked
+without having these things memorized or
+easily accessible. And because nobody
+would carry books with them at all
+times, we didn't have Kindles. We
+certainly didn't have the internet.
+These things had to be memorized. Well,
+not anymore, though. At this point, the
+memorization is done for us. In fact,
+that's the crazy thing about AI. If you
+have a large language model that has
+been explicitly trained on historical
+information or any information, then the
+accessibility of that information and
+the potential examinations of it,
+everything you could potentially do with
+the info is already within the model.
+The model has already memorized
+everything for you. The interface we
+have to this model is just asking it
+questions or giving it tasks and
+prompting it. What reading and writing
+were back in the day, capacity to
+interface with books and other people's
+thoughts will shift into being able to
+correctly understand the capacities of
+these AI systems. How to prompt them
+well to get the information you need and
+how to judge the quality, the
+correctness and authenticity of that
+information. That input output thinking
+will be the new reading and writing in
+this world where we are training the
+biggest brain of it all that then does
+all the work for us. Our capacity to
+judge quality and the results plus the
+capacity to instruct just the right
+thing on the right data with the right
+sources and right reasoning. That'll be
+the challenge for the next couple
+decades. It will be humanity's next
+milestone behavioral change. I believe
+in this because I see so much of this
+not just in our little entrepreneurial
+and software developer community but in
+my family and when I see people who are
+not like me do things that I think are
+kind of cutting edge then something is
+going through society or at least I
+believe that. Let me be a little bit
+more humble here. What do I know? But I
+believe at least being a technologist
+that seeing like my family members using
+chat GPT for all kinds of things and
+starting to learn how to interact with
+this that is a shift that is not going
+to go back. So when nobody could read
+like a thousand years ago or barely
+anybody could. Um now barely anybody can
+prompt and judge AI outcomes
+effectively. People like I was watching
+a YouTube video recently. It was in my
+kind of miniature painting Warhammer
+universe and somebody was trying to get
+CHPT to come up with uh backgrounds for
+new like army factions in this wargaming
+scenario and also had it create models.
+And the person was like, "Yeah, the
+background stories it came up with was
+pretty great, but the photorealistically
+generated images of painted miniatures
+were not up to scratch." Like a couple
+years ago, this would have been
+impossible. And now people look at it
+and they're like, "Nah, this this looks
+kind of boring. This is not as edgy as
+somebody who spent 20 years like
+building and painting miniatures would
+expect a high quality result." People
+have wild expectations for what these
+things can do and they don't see how
+crazy it is that they can already use at
+this point. So there will have to be
+this kind of naturalization process
+where people have to learn what to be
+able to expect, what to want, what to
+think of correct, authentic, and how to
+instruct correctly to get there. This
+will be an important part of dealing
+with this new technology. It will have a
+sizable place, if not an overwhelming
+place in the human experience over the
+next couple years, definitely decades,
+maybe hundreds of years to come. And I
+know that Claude, a humanly named AI
+system that I work a lot with, is not a
+real being. Like there's one Claude.
+It's a massive scale operation of data
+centers and computers with graphics
+cards that have all loaded the same or
+sim similar language models. Like it's
+not a being. It's not a human. Claude is
+not a thing. Claude is an idea. But you
+could argue that a human being is
+nothing but a collection of cells and
+organs that comprise all the different
+function of the body as well. So what do
+I know? Clot is just as much one entity
+and not one entity as a human is an
+entity or collection of different kinds
+of cells. If it keeps growing both in
+size and capacity, at what point would
+we argue that we're dealing with a new
+form of life here or at least a form of
+thought? It's very easy to lose these
+big questions and not to care about them
+because in the short term, these tools
+are just so powerful and we're all going
+to jump on them at some point. I believe
+so. Just even from the pressure that we
+feel looking at the our peers in in our
+communities, these things are incredibly
+empowering to most people who don't know
+how to code, how to write, how to cook,
+how to do their taxes. They can already
+help massively here. They can teach
+anything and everything. And with
+agentic systems, they can now do almost
+anything and everything. But we're
+constantly feeding our data, our
+corrections, our interactions into a
+system that is building its own brain.
+And maybe that's not the wisest choice.
+As founders and creators, we need to be
+thoughtful about how we use these tools.
+To what end? And the question isn't
+whether to use them or not. The question
+is how to use them in a way that
+enhances rather than diminishes our
+human capacities like doesn't atrophy
+our skills but add to them makes our
+work more meaningful rather than less.
+So how do we build a future where the
+first brain and our own brains work
+together rather than just simply
+replacing one other? Sorry, rather than
+one simply replacing the other. I don't
+have the answers here, but I think it's
+a conversation that we need to have both
+as technologists, as founders, and as
+people. The future that we're building
+depends on it. And that's it for today.
+Thank you so much for listening to the
+Woodsto founder. You can find me on
+Twitter at
+avidkl. And if you want to support me on
+this show, please share podscan.fm with
+your professional peers and those who
+you think will benefit from tracking
+mentions of brands, businesses, maybe
+their names, anything on podcasts out
+there. Potscan is a near real-time
+podcast database with a stellar API.
+It's really good. Like there's so much
+good data on this. Just added
+demographics this week. Right there on
+the API, you get age groups and all that
+kind of stuff. It's really cool. Please
+share the word with those who need to
+stay on top of the podcast ecosystem.
+Thanks so much for listening. Have a
+wonderful day and bye-bye.

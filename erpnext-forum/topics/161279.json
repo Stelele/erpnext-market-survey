@@ -1,0 +1,52 @@
+{
+  "topic_id": 161279,
+  "title": "Fix: Subscription list view columns not showing",
+  "slug": "fix-subscription-list-view-columns-not-showing",
+  "category_id": 6,
+  "tags": [
+    "list-view",
+    "subscription"
+  ],
+  "created_at": "2026-03-04T11:13:07.425Z",
+  "last_posted_at": "2026-03-04T11:13:07.616Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/fix-subscription-list-view-columns-not-showing/161279",
+  "views": 17,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 1,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Erithiel",
+  "posts": [
+    {
+      "id": 495423,
+      "username": "Erithiel",
+      "name": "Rati Gigauri",
+      "created_at": "2026-03-04T11:13:07.616Z",
+      "cooked": "<p><strong>hey guys, so i was stuck on this for a while and finally figured it out</strong></p>\n<p>basically i was trying to add columns to the subscription list view, checked “in list view” in customize form, added them in list settings, nothing worked. only party column was showing up.</p>\n<p>checked the db and the fields were actually saved in tabList View Settings so they were being saved just not rendering.</p>\n<p>what fixed it - go to client script, create new one for Subscription doctype, set apply on to List and add this:</p>\n<p>javascript</p>\n<pre><code class=\"lang-auto\">frappe.listview_settings['Subscription'] = {\n    add_fields: [\n        'current_invoice_start',\n        'current_invoice_end',\n        'start_date',\n        'end_date',\n        'status'\n    ]\n};\n</code></pre>\n<p>save and hard refresh. after that list settings started working normally too so you probably wont even need to update the script manually for new fields</p>\n<p>hope it helps someone</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/erithiel/{size}/93965_2.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 12,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

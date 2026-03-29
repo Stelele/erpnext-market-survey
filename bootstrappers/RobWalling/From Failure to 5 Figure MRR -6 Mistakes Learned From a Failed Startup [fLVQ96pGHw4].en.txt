@@ -1,0 +1,980 @@
+﻿hi I'm Rob Walling co-founder of
+microcomp you're about to watch a pretty
+incredible talk from a pretty incredible
+founder this talk is titled from failure
+to five figure mrr the six mistakes we
+learned from our failed startup it's by
+Pierre de Wolfe he's the co-founder of
+scrapingbee and if you've been following
+their Journey on their blog and on
+Twitter you know that they bootstrapped
+and then raised a very small round from
+Tiny Seed and it dramatically
+accelerated their growth and I believe
+the last time they were public about
+their AR they were crossing 1.5 million
+ARR and they did that relatively quickly
+these are experienced smart
+entrepreneurs and Pierre shares a lot of
+what he's learned building his business
+it's a very good talk and I hope you
+enjoy it as much as I did but before we
+dive into that we have the next micro
+comp Europe that's going to be in Malta
+and you should head to microconf.com
+upcoming Dash events if you want to
+check it out or you can look in the
+description of this video for a link to
+the site I'd love to see you at a future
+input person event and let's dive in to
+this talk from Pierre de wolf I'm really
+excited to be here today at microcomp
+and I'm going to talk to you a bit about
+my journey
+so
+from failure to five figure mrr the six
+mistakes we learned from our first
+thrilled startup
+so oh sorry
+yeah
+so my name is spear I'm French and five
+years ago with my lifelong friend Kevin
+we've decided to go the whole
+bootstrapping in the Acker Road So yeah
+thank you
+we started this
+whole thing by building a few products
+three in the last five years
+and two wheel SAS and the first class
+we've built was a complete failure so we
+probably did every mistake we could have
+made
+but we learn a lot from it
+and today what I want to share with you
+is basically everything I wish I knew
+before we began
+so yeah okay
+so a bit of context here so the first
+product we've ever made was shop to list
+it was a simple
+Chrome extension which allows you to add
+product from lots of e-commerce and get
+notified as soon as a price drop
+so like pocket but for e-commerce you
+know
+it didn't work out at all we got a small
+traction but we were not able to make
+money
+at all from it
+but we notice this one thing interesting
+like people who use shop to list were
+e-commerce owners who were actually
+adding their competitors product on the
+tool to receive personality price drop
+notification email such as oh your
+competitors product is now 10 less
+expensive than it was before we and we
+thought okay
+there's maybe a product to build here
+so we quit our job at that time shop to
+list was a
+a site project we quit our job and went
+full time on pricingbot which was a
+price monitoring SAS
+we managed to get a bit of traffic but
+we never really managed to get lots of
+customers which was the initial goal you
+know and after a year we were hovering
+at 450
+mrr so we gave up
+and this idea to work on scraping me
+which is a web scraping API we got the
+ID because we did a lot of web scraping
+while working on pricing but and with
+scraping the finally we managed to to
+have something working and we think a
+lot of the good choice we've made with
+scraping we came from all the mistakes
+we've made with pricing but so let's
+begin with a failure that that is so
+much
+so the first one was to think that a
+user is the same as a customer
+so
+when you build something especially for
+the first time
+it's really easy to focus on the wrong
+metrics
+and it's really easy to see every kind
+of growing metrics as some kind of
+validation
+so one good example is like product end
+so you launch on product and then you
+get 200 of adverts you get some press
+coverage you get maybe featured as
+product of the day and you're like oh
+maybe I'm on to something
+and you're gonna spend a lot of time
+trying to gather feedback from all those
+new trials and all
+but the thing is
+it's not validation at all and until you
+can find one two or three people who
+actually use your product and eventually
+pay for it
+you haven't validated anything and that
+was a big mistake we've made with
+pricingbot early on
+we were really happy in the early days
+because we broadcasted we send the
+landing page to many many groups user we
+did a nice predicted launch we had lots
+of sign ups we gathered lots of feedback
+and we thought okay we're into something
+it's going to work
+but we were actually lost
+inside a lot of noises
+because we haven't managed to get the
+first single customer
+as soon as possible like
+actually our product was
+useless
+on scraping me we try to
+do things a bit differently
+we try to narrowed our audience a bit in
+the early days we didn't care about
+having
+500 trials or 100 produced and what or
+lots of coverage instead we try to focus
+and to
+show the product on
+and much more targeted audience what it
+meant that we went to small growth
+hacker forum for example or wet draping
+Community or developer community
+and of course we had
+less and less trials or traffic than we
+expressing but
+we managed to get the first few customer
+much more easily and much more earlier
+which was something
+that changed everything for the rest of
+the journey
+the second mistake we've made was that
+believing knowing your industry is the
+same as knowing your customer so
+we got the idea of building pricing but
+when we noticed that people somehow some
+e-commerce owners wanted to
+monitor their competitors prices right
+so we thought that it was a bulletproof
+ID that okay they want to do it
+they will pay to do it
+and we were completely wrong
+so the way it works so with Kevin we
+knew nothing about e-commerce at all
+before working on racing but
+so we learned a lot we built this big
+knowledge map about e-commerce about
+Amazon FBA Shopify which was Raising at
+the time drop shipping and all
+and we learn a lot but
+we ended up knowing a lot about the
+industry and not its player
+and that was a key issue
+because
+I think nothing replaced
+talking with a real stakeholder real
+actors of the industry and so we ended
+up having a lot of assumption
+about e-commerce that proved to be
+completely wrong so basically what I'm
+trying to say here is that we should
+have had talked way more to user
+and when we build scraping B we add this
+in mind from day one
+so one small thing we did with scraping
+B to talk to way more users from day one
+was to actually let them come to us so
+when you launch your product it can be
+hard to convince people to talk to you
+you will reach out to them by email but
+most of them won't even read the email
+so instead what we did was okay you know
+what you subscribe you created a trail
+account
+so if you agreed to talk 15 minutes with
+us we'll give you 10 000 Pre-K credits
+to give you an ID the basic free plan
+was 103k credit so it was kind of a nice
+incentive while not
+I'm not seeing our company's banking
+account and um it allowed us to have
+hundreds and hundreds
+not hundreds and hundreds
+150 customer conversation very early
+with people who actually wanted to use
+our product more
+of course when you do that you'll have
+some kind of abuse people will be yeah
+yeah yeah yeah okay give me the free
+credit yeah yeah bye okay bye
+those are the game
+feedback is easy to discard when that
+happens
+but then you're on the phone or on Zoom
+what do you ask so basically here is
+just a very quick recap of the month
+test by Rob Fitzpatrick
+but the main idea is
+don't talk about you when you talk to
+customers
+and never ever give them the opportunity
+to hurt your feelings because if you do
+they won't and they won't give honest
+feedback so instead of asking questions
+such as what do you think about this
+idea or do you think I'm on to something
+ask things such as
+how do you solve this or what do you
+think about this problem
+and actually the most
+important question here is what else
+have you tried
+for pricing but I remember
+when we ask that question to some
+e-commerce honors we heard things such
+as
+well you know I've never really managed
+to do price monitoring so I'm really
+looking forward to use your product or
+things such as
+well it's too complicated we don't do it
+and we thought it was an opportunity
+here because we thought well we have a
+solution
+actually we had a solution to a problem
+they didn't care about
+because of course when you start
+something or be the company you'll have
+hundreds of problem and there will be
+problems you want to solve and other you
+want to discard and pricingbot was
+probably
+solving a problem
+nice to solve
+not a really important one
+with scraping B on the other hand we
+heard things such as
+well we've built some in-house tools
+it's how to maintain
+or
+while we're currently spending five
+thousand dollars on web scraping and we
+could really
+get some cheaper alternative and here we
+are an opportunity to offer a solution
+to a problem those people were already
+solving and were already spending a lot
+of resources to solve
+next problem was again in the early days
+you don't have that many feedback
+and you try to know what to build next
+so
+what feature what your user would like
+to to get into the product so there is
+easy mode where you talk to people and
+they precisely want
+precisely know what they want
+but
+again because we didn't manage to talk
+to that many people in the early days
+instead we're scraping me what we
+decided to do was to let them give us
+some clue
+so what we did for example on our
+documentation page we installed our jar
+we later switch to Microsoft colority
+for those who don't know it's a small
+SAS tool who can give you lots of
+insights on our user precisely interact
+with your page
+we created a clear table of content on
+our documentation and for each feature
+we were considering adding
+we added a section on the table of
+content
+if people clicked on a section they
+would get redirected to a coming soon
+paragraph for example we were
+considering adding a scription feature
+to our API and we wonder well do users
+really need it
+it would have been slow and hard to get
+that answer directly especially in the
+early days so we did just that that is a
+screenshot section on the table of
+content and then we waited a bit
+and we just had to see if people
+were interested in it by working on the
+Red Dot so that's a heat map of the
+documentation so each Red Dot I mean
+that people clicked a lot on that button
+that's not a bulletproof method of
+course because maybe people clicked on
+screenshot because they simply didn't
+know what screenshot were
+or maybe they are they had something
+completely different in mind when
+clicking on this
+but we found that it was a good proxy to
+kind of gouging interest of feature or
+Direction your product can take
+especially again in the early days
+the first failure the third one was to
+think that if you need 30 emails to sell
+your product problem is your email
+so this one obviously applies mostly to
+low touch SAS the one where you're
+trying to get people to organically go
+on your landing page create a trial user
+product and then
+upgrade to a bait plan
+but what happened with pricing both was
+the we thought as technical founder that
+sells it had to be tedious and it had to
+be hard and slow
+and so when we
+did some consumer or sales call we ended
+up in month-long month-long exchange
+with people who would just never ever
+sign up but they gave us hope every time
+telling us things like
+yeah impressive you know what I'll talk
+about it with Michael funder and we'll
+probably sign up in a few weeks and then
+a week later uh you know what it was
+Thanksgiving so yeah let's talk again in
+a few weeks and weeks later
+actually that time it's a very bad time
+for us to sign up so maybe we should
+wait a bit more
+and actually here
+those people they simply didn't want to
+hurt our feelings telling us you know
+what your product is crap I'm never
+going to sign up
+they didn't want to tell that but we
+didn't know that
+and so
+we just waited more and more and thought
+okay
+if we improve our emails eventually it's
+going to work out
+it never did
+and instead we scraping B we thought
+okay we can't afford to spend that many
+times selling our product so
+if we really solve a problem that people
+are having now
+and want to be solved quickly they
+should sign up quickly
+and we're scraping the winner test that
+in 10 minutes on the phone or by chat we
+were able to sell several hundreds per
+month subscription
+and it shows that
+really is a state of things you want to
+reach a point where
+you don't have to fight for every sale
+you need to make
+Forest failure was to try every single
+acquisition Channel out there
+so again we were technical co-founder we
+didn't know much about marketing
+and when you try to search about
+marketing you'll quickly find
+almost an infinite way of doing it and
+so it's really easy to get lost amongst
+all those acquisition channels out there
+and what's hard is that
+at the beginning when you're in the
+experimental phase
+it's really hard to know
+if it's working or not
+and usually what happened is that at the
+beginning the
+acquisition is not working that well
+but
+you can get small results
+and then you start to get good at it
+after a few months like you start to
+master the channel and then finally
+you get this whole company interest
+thing and you start to have exponential
+results
+well problem with pricing battery is was
+that we get stuck in the experimental
+phase and what we thought was bad
+results
+were actually completely natural and so
+instead of staying focused on that
+channel we just change every time we go
+to board or every time we thought it
+didn't work so
+we trade SEO
+published a few blog posts
+and it worked a bit but we thought well
+it's not working well enough so let's
+try affiliation instead
+was not working either at least
+not as well as we hoped so we tried
+called Outreach and social marketing and
+ready to add and Google ads and
+basically almost everything
+and instead with scraping B we try to
+focus day one and SEO and we only did
+just that so same as before in the early
+days
+we got only maybe a few hundreds views
+on our articles which converted to just
+a few trails and to eventually want
+customers
+but we thought okay let's do it again
+and again and again
+our luck here was that Kevin had some
+experience with it because before
+working on pricing but he had a web
+scraping blog about Java so that helped
+a lot and we thought okay we should just
+play on our strength and focus on SEO
+all in and even though we won't ever be
+the best at SEO at least it will always
+be better
+to just keep improving on it and just
+stop switching around
+on every possible acquisition strategy
+out there
+the fifth fail was to believe in several
+bullet
+so what happened with pricing bot
+was we often we often thought that for
+complex solution there was one simple
+problem one simple tool one simple
+growth hack that could fix everything
+foreign
+example of conversation I had with Kevin
+it went like this okay up here I think
+we have an acquisition problem
+yeah we do
+so
+you know what there's lots of blogger
+and YouTubers about e-commerce
+I think I found it we just have to do
+affiliation it's going to be very easy
+we find partner they sell pricing God
+for us and we're rich
+and after a few weeks
+we had two acquisition problems
+because first we had to still find
+customers
+and second we had to find partner
+and still we didn't even know how to
+solve pricing but and yet we thought we
+could find people and teach them how to
+Celebration but to others
+so the idea behind this is that
+behind every
+if you think there's a silver bullet who
+can think fix
+something complex it's probably because
+you're trying to avoid the big important
+question
+I see that what we did was Breaking Bad
+last question
+for pressing but for example where what
+we should have asked ourselves was
+instead is my product useful do we get
+some usage
+and of course the answer was no like we
+would get some trial but people wouldn't
+choose it at all
+and then do users pay or enough money
+again they didn't pay at all so of
+course not enough money anyway
+and can I get more user can I find a
+sustainable and scalable way to increase
+my user base and again here problem was
+now and how do we took a stack back and
+ask ourselves those questions we
+probably would have wasted
+way less time trying all those tweaks
+and acts and Silver Bullet things
+the
+sixth one was thinking consistency was
+enough
+so
+you'll hear a lot things such as
+success is just showing up
+or
+consistency will make you win no matter
+what
+but the truth was and I know how obvious
+it's done right now but at that time for
+us at least it was not that if you're
+consistent at doing the wrong thing
+we're just going to do the wrong thing
+all your life
+and I think what makes it hard to
+get away from this consistency I told
+her thing is that in the early days it's
+really hard to make the difference
+between something that's not working and
+something that's working just a bit
+something that's worth fighting for and
+something you should really just give up
+and
+move move on to something else and so of
+course
+if you zoom out and think in months of
+years well
+results or no results
+would show
+and that happened with spacing but
+a lot so
+we thought okay
+things are aren't great but if we keep
+doing some manual onboarding if we keep
+talking to users if we keep doing some
+content and spending some time
+we'll reach some success because we're
+being consistent what's going on
+one example of it was
+Amit came to us one day he subscribed to
+pricingbot
+Amit was selling adults
+lots of them and if I'm telling you this
+he was because he was selling 700 and
+needed to monitor
+six competitors
+and the way pressing but work was you
+had to manually match your product with
+your competitors to get the kind of
+notification that said okay your
+competitors product is not 10 percent
+less expensive than yours and we offer
+to admit to do the manual matching
+ourselves so for one full new week 10
+hours a day with Kevin we ended up
+matching at your dolls on our full
+screen all day long that was not the
+best week of my life
+and what happened is that he actually
+paid
+six hundred dollars for one month but
+actually he paid out of pt4s because he
+was like oh gosh it should have been
+her hell to do this so okay I'm going to
+pay but it stopped right here because
+two weeks later he told us
+yeah it's not that useful sorry guys any
+console
+and here where we should have just
+stopped take a stack back and ask
+ourselves what was going on we just
+continued to do it so we did it with dog
+food mattresses
+light bulbs and all those kind of
+exciting stuff
+and it never worked
+which led me to my
+last point
+which was better quit too soon than too
+late so
+it's actually very personal here only
+coming from our Panic wall to our three
+company
+but what we noticed was that
+with pricing but we quit after nine
+months
+but we also saw many people getting
+stuck at doing the wrong thing for years
+and years and years and we think it's
+easy to get stuck because
+there is always
+an infinite
+quantity of stuff you can try to make
+things work
+there will always be some acquisition
+channel to try some feature to develop
+or
+I don't know some
+yeah some stuff to do and instead
+what we should have known at least was
+to
+ask ourselves always those three
+questions when building pricing bot
+which were
+do I know what I need to do to make it
+work
+like you
+do you like honestly do you think you
+you know what you need to do
+and we're spacing about to answer from
+day one
+at least stage day five let's say
+was no we didn't know like we were just
+constantly flowing in a dangerous stream
+of experiment
+and we're getting nowhere
+second question was am I able to do it
+so for example we spray him but
+we didn't know what we needed to do but
+we knew that some price monitoring tool
+were actually quite successful
+but those tools they were targeted at
+very big e-commerce monitoring thousands
+of skus
+and we didn't know we didn't know how to
+do it because it meant really developing
+and
+all different products managing like
+technique Kelly much more complex than
+what we were doing and we were not able
+to do it but more importantly we didn't
+want to do it because it meant building
+a company around the product
+we didn't want to build it probably
+would have meant
+raising some money and hiring more
+engineers
+and this is something we didn't want to
+do so as we asked ourselves those three
+questions early on we probably would
+have
+win and I save a couple of months
+so
+if I had to
+to just keep to listen from this whole
+pricing bot mess and then scraping me
+was to
+never forget that the only true
+validation is a paid customer everything
+else is just left
+product and
+complement from external user or
+it just really doesn't matter
+and to never forget to take a step back
+and ask yourselves the right questions
+when you're building your product so if
+you feel something is wrong there's
+probably something wrong
+and dig a Little Deeper do not get
+distracted by this new shiny acquisition
+technique out there
+so that's it so thank you everyone for
+your attention thank you rob Alexander
+for the opportunity Braden for setting
+these all things up
+and yeah if you have any question you
+can reach me Twitter email
+or right here and it's not working
+anymore but yeah thank you
+thank you
+hello thanks for the talk
+um it was really interesting because you
+mentioned a couple of times that your
+customers didn't find the product useful
+and I wondered what the what the leap
+was between having a product which maybe
+they didn't find useful and actually
+being really successful now was
+I'm sorry what was that well it sounds
+obviously successful now but when you're
+giving your talk you were describing
+that your customers didn't find the
+product useful so what was the leap
+between not being useful and being
+useful now yeah so actually the problem
+was with the previous company pricing
+bot so here is the thing
+user we're not finding it useful at all
+and with scraping me because we early on
+really focused on getting that for
+customer as soon as possible we didn't
+care about getting traffic or ready to
+vote or predictant of what we just
+monitor usage a lot like
+the first few days after launch I was
+just on data dog reading every single
+API call trying to understand how people
+would use the product
+and it's the kind of things like
+when it happens you know it like when
+people sign up and spend
+one hour train your product and then
+send you emails to understand why is it
+not working then you run to something
+because you've built something people
+will fight
+to use to to get value out of it
+hi I'd love your slide of the two graphs
+of the strategies of working and not
+working that in the early stage it looks
+the same yeah uh it's only until later
+that it works this is a problem that I
+have all the time of like how how long
+do I stick with something to to see if
+it's working uh so I'm I'm curious
+I don't think I don't think I quite
+understood how you tell the difference
+how long do you stick with something
+before you realize it's a good strategy
+or that you just didn't give it enough
+time
+I think it's very personal here so for
+example we spray think about we know we
+were at the time with no matter what we
+did we never managed to move the needle
+even a bit so with pricing but it was
+actually a complete flat line
+so I think
+if you at least manage to create a slope
+and if you do some math and if you think
+you can increase the slope in a few
+months then you should probably keep
+going
+and if you like it also because it's not
+only about numbers like if you're doing
+something you ate but which is not also
+very effective you should probably quit
+but we can maybe talk
+about it later if you want like because
+it really depends if it's an acquisition
+issue or usage issue or onboarding issue
+so yeah happy to to talk more about it
+later
+you on your dashboard you use this promo
+10K API keys for a phone call with you
+yeah are you still doing that and is it
+still worth your time no not at all
+because after a few months you just
+ended up getting the same feedback and
+the same feeds back and you're here
+always the same thing and because
+thankfully we managed to get some
+traction
+like Kevin was fed up getting maybe
+something 30 calls in a week which would
+go nowhere so we stopped doing it at
+least what we do now is like when people
+sign up
+they get to fill a small form and we ask
+them
+questions such as how many API calls do
+you plan to make
+and if they want to make a lot of APA
+call and if their domain name is legit
+so not Gmail not whatever we give them
+the opportunity to schedule a call with
+us
+hey Pierre hi hi thanks for your talk
+great thank you
+um I was wondering about uh for pricing
+what you said okay uh if we would have
+built a tool which would monitor uh
+thousands of skus then it might be
+useful for those people but we didn't
+want to do that
+um but for scraping B with these amounts
+of customers and these amounts of pages
+being script I guess your products is
+also becoming quite complex or at least
+the infrastructure what was the
+difference between those two so
+actually that's interesting interesting
+because so is pricing but we are to
+scrape thousands of website and also for
+each product page extract the correct
+information such as price name
+and it can be easily quite complex so
+there's easy use case so I don't know
+some video game on Amazon but then
+there's uh let's if you want to buy a
+mattress and then you go on the page and
+then you have like 20 different sizes
+and for if you want the price for each
+sizes you have to click on the button
+and all so
+actually scraping me is a much easier
+product to build than pricing but in
+that sense because we just we're a data
+provider and then our customer extract
+information from our data and with
+pricing what we were an information
+provider so
+yeah that's why all right thanks for the
+talk um you can put a really good slide
+on about how you sort of gauged feedback
+from users about what to build next with
+your hop jar dots yeah in the early days
+in terms of is your sort of success Guru
+and your number of customers grew did
+you still keep that tactic going or did
+it change to something more
+sophisticated no honestly we keep doing
+it so now what we often do of course is
+like we're thinking about building a
+feature and then we ask people about it
+because now we have enough user and for
+every image email we send we managed to
+get 20 30 answer but I'm still doing it
+because what I like is that I can test
+all the craziest ID here for zero cost
+and usually Kevin don't even see it so
+he's not mad about it when I write some
+really weird stuff on the documentation
+and sometimes it's a failure like no one
+click on it and sometimes it works and
+ajar and a Microsoft Clarity are really
+well made tool which allows you to like
+discard for example on the documentation
+you can discard data from people who
+just spent five seconds on the
+documentation for example
+so what was useful for example was to
+only grab the information for people who
+spend two minutes on the documentation
+people who really wanted to get in or
+people who already add an account so
+yeah we're still doing it
+hi beer a really cool story thank you um
+my question is about you about the
+future so if you look forward the year
+from now will you keep doing the same
+strategy uh product wise marketing wise
+sticking with SEO or you will start
+adding on top of that something else
+so
+it has a lot to do
+with how are we going to grow the team
+so obviously right now not obviously
+right now it's only Kevin and I with
+Etienne doing some development and Kevin
+wouldn't have time to trade something
+else so either we hire someone to do for
+example called Outreach or we work with
+a cold Outreach agency
+but for now at least in SEO there's so
+many other opportunity out there I'm
+just talking in terms of you know
+keywords and search traffic that we feel
+we
+have at least six months one year of SEO
+we can do right now work on SEO for six
+months and still uh get great results
+and uh yeah
+that's that answer okay cool
+response to a year left
+so basically we have a list of Articles
+we want to write
+and um
+we know that we can write good articles
+at a rate of four to six a month and
+that's how we did you know with a very
+complex math equation
+we managed to get to two six months
+okay so your double down on SEO and
+you're writing a ton of Articles how do
+you figure out what's the good thing to
+write about are you
+basically thinking of what you think
+will make sense for the customers what's
+valuable or you go for example into age
+reps and look at the keyword support and
+what people are searching for and have
+like more data data driven approach so
+in the early days we didn't even use
+ahref
+um
+in the early days we just learned about
+this technique called the skyscraper SEO
+technique so basically the idea is like
+you write the best possible content
+usually educational content about your
+industry not
+it doesn't have to be about the problem
+you're solving so for example for us it
+was about swept scraping so we wrote
+very detailed with web scraping guide in
+Python for example
+and then what happened is that if the
+content is good you're going to get some
+a traffic and then backlinks more
+backlinks mean are your domain rate and
+more and a higher domain rate mean that
+then you can write those specific
+articles and rank on Google quicker and
+faster
+but after a few months so we did that
+for three or four language and after a
+few months what we actually I forgot to
+mention it on the call on the talk but
+we followed the ahref course blogging
+for business which used to be 700 but
+which is not free since last year and
+thus helped tremendously and from that
+point we started to
+to do more serious stuff using href
+training to know
+uh volume and more importantly
+keywords difficulty because then we
+noticed okay these articles
+we let's not write about it because like
+the first one the the website ranking
+first on it is like pie charm or
+something like that so we can we can't
+even fight
+so yeah
+great talk thank you thanks
+um
+I have a question about the building
+public thing which you were doing yeah
+how has that helped you if anything or
+is this just for fun and all your
+customers are coming from SEO or has
+Twitter helped at all in terms of
+customer it hasn't helped at all so we
+currently have five four four hundred
+500 customers maybe one came out of
+Twitter
+but what it did help with was you know
+like
+talking here for example so I know
+Alexander and Rob got the ID from my
+Twitter thread and then
+last time also I tweet about using
+Microsoft clarity
+you know and you know and in a week
+there is going to be a
+uh use not a use case a case study
+published on microsoft.com website with
+a link to scraping me so you know it's a
+lot of small seed that
+somehow sometimes flourish but yeah
+using this to get customer I wouldn't
+advise it at least if there is not a big
+match between your audience
+and your products so as I built a
+Twitter tool for example it would have
+meant make much more sense to building
+public as an acquisition strategy so
+it brings a lot of good I really like it
+it makes me meet lots of very
+interesting people but it did not help
+grow scraping bee business at all
+right that's our last question everyone
+give PR another round of applause thank
+you so much here thank you everyone
+thank you
+[Music]

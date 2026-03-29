@@ -1,0 +1,51 @@
+{
+  "topic_id": 157851,
+  "title": "Automatic Depreciation Entry Does Not Inherit Branch from Asset",
+  "slug": "automatic-depreciation-entry-does-not-inherit-branch-from-asset",
+  "category_id": 7,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-12-10T11:14:26.209Z",
+  "last_posted_at": "2025-12-10T11:14:26.294Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/automatic-depreciation-entry-does-not-inherit-branch-from-asset/157851",
+  "views": 22,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Ibyabes",
+  "posts": [
+    {
+      "id": 488544,
+      "username": "Ibyabes",
+      "name": "Ibrahim ",
+      "created_at": "2025-12-10T11:14:26.294Z",
+      "cooked": "<p>We are facing an issue in ERPNext 15 related to automatic depreciation entries. When adding a new asset and enabling the depreciation schedule, the system successfully creates the depreciation journal entry, but it does <strong>not</strong> assign the <strong>Branch</strong> to the entry, even though the asset itself is linked to a specific branch.</p>\n<p>How can we resolve this issue?</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/8/d/8dd72886c02a500fae69fa53173f3eb6d2e639e6.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/8dd72886c02a500fae69fa53173f3eb6d2e639e6\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/8/d/8dd72886c02a500fae69fa53173f3eb6d2e639e6_2_689x401.png\" alt=\"image\" data-base62-sha1=\"keMit2IxKSLvIdMMQ8mVy3DP9dA\" width=\"689\" height=\"401\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/8/d/8dd72886c02a500fae69fa53173f3eb6d2e639e6_2_689x401.png, https://discuss.frappe.io/uploads/default/optimized/3X/8/d/8dd72886c02a500fae69fa53173f3eb6d2e639e6_2_1033x601.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/8/d/8dd72886c02a500fae69fa53173f3eb6d2e639e6.png 2x\" data-dominant-color=\"FCFCFC\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1308×762 47.6 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/7/f/7f1b7610fcf6d2c40f764bb0a4f6e6901ae24a80.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/7f1b7610fcf6d2c40f764bb0a4f6e6901ae24a80\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/original/3X/7/f/7f1b7610fcf6d2c40f764bb0a4f6e6901ae24a80.png\" alt=\"image\" data-base62-sha1=\"i8rtooQ0Jg5wjbQlGtKHNqpQyze\" width=\"502\" height=\"500\" data-dominant-color=\"FAFAFA\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">692×688 18.4 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/ibyabes/{size}/92524_2.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 10,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

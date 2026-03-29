@@ -1,0 +1,51 @@
+{
+  "topic_id": 153432,
+  "title": "Web list filter does not work for custom doctype erpnext",
+  "slug": "web-list-filter-does-not-work-for-custom-doctype-erpnext",
+  "category_id": 6,
+  "tags": [
+    "customization"
+  ],
+  "created_at": "2025-09-12T02:27:47.355Z",
+  "last_posted_at": "2025-09-12T02:27:47.432Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/web-list-filter-does-not-work-for-custom-doctype-erpnext/153432",
+  "views": 18,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Tamakhank",
+  "posts": [
+    {
+      "id": 480468,
+      "username": "Tamakhank",
+      "name": null,
+      "created_at": "2025-09-12T02:27:47.432Z",
+      "cooked": "<p>I just created a doctype called Customer task. I added a status filter for that doctype in the web list. But when I use the filter, it doesn’t work.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/b/d/bd215f65f41d54819d1901c997bfb52efdaa8f00.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/bd215f65f41d54819d1901c997bfb52efdaa8f00\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/b/d/bd215f65f41d54819d1901c997bfb52efdaa8f00_2_690x316.png\" alt=\"image\" data-base62-sha1=\"qZ7K27kvY2O2YaHQuNUOQ7GgbHG\" width=\"690\" height=\"316\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/b/d/bd215f65f41d54819d1901c997bfb52efdaa8f00_2_690x316.png, https://discuss.frappe.io/uploads/default/optimized/3X/b/d/bd215f65f41d54819d1901c997bfb52efdaa8f00_2_1035x474.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/b/d/bd215f65f41d54819d1901c997bfb52efdaa8f00_2_1380x632.png 2x\" data-dominant-color=\"B9B3B3\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1910×875 103 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/t/e274bd/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 9,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

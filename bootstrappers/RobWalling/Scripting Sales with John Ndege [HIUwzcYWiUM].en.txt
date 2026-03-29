@@ -1,0 +1,965 @@
+﻿we
+are live welcome to today's episode of
+microconf on air
+i'm your host rob wallen it's pleasure
+to be here again with this week i really
+dug the uh that
+updated visuals producer xander brought
+in during that intro i hadn't seen those
+so every other wednesday at 1 p.m
+eastern 10 a.m pacific we live stream
+for 30 minutes
+and we cover topics related to building
+and growing ambitious sas startups that
+bring us freedom and purpose
+and allow us to value and maintain
+healthy relationships
+we don't ask for permission to start
+companies we build and sell real
+products to real customers who pay us
+real money it's the startups for the
+rest of us ethos the microconf ethos
+microconf on air it's good to have you
+back today
+we're going to be diving in to a topic
+that is
+it's interesting it's near and dear to
+my heart even though i don't like doing
+it but it's sales
+and what i love about both sales and
+marketing is that
+a lot of people when you're on the
+outside of this if you've never you know
+been a
+salesperson never tried to sell anything
+you've never tried to market anything
+especially if you're a developer a
+technical person you think that these
+things
+are um i don't know that there's some
+type of
+of someone waves a magic wand and
+convinces someone to buy someone or you
+think of the the used car salesman you
+know you just think of it as being this
+kind of skeezy thing
+but once you get into it and you realize
+oh it's
+it's not about forcing someone or
+persuading something someone to do
+something they don't want to do
+sales especially is about being uh as in
+our vulset tells me it's like
+you're an unpaid but like highly
+valuable
+in highly valuable consultant in essence
+and you're trying to
+help someone find the right solution for
+them and that was a big nice mental
+switch for me several years back
+as we were you know starting to do
+higher touch sales stuff
+with drip that it was never me
+convincing someone to use it it was
+always what are your needs and are we
+the best
+platform for this or should i just refer
+you out which we would do as well and so
+i
+i just think the the importance of sales
+is
+you know often forgotten i don't think
+it's talked about enough i
+want to have more people in our space
+who are thinking about it
+talking about it and you know bring
+expertise in sales
+and marketing to the table so today i
+have the pleasure
+of welcoming john endegay to the show
+john currently works in sales at amazon
+web services
+but he and i got to know each other when
+he was running
+he founded and launched a sas app called
+pocket risk he ran that from
+2012 to 2017 when he
+sold it and he and i of course you know
+he was a single founder
+small sas niche sas app and uh he and i
+got to know each other through
+microconfig and he went up speaking at
+microcom europe in 2015
+um and yeah it's really good to have
+john back he was
+he was running a digital marketing
+consultancy for the past few years in
+the crypto space
+but he's back talking to us small
+startup founders and hanging out and he
+is john n
+luna wait a minute yeah okay john
+n-d-e-g-e
+john endeague on twitter john welcome to
+microconfig air
+thank you very much it's great to be
+here yeah man it's great to have you so
+i want to kick us off today i didn't
+prep you for this but
+the first question is a tough one star
+wars or star trek
+star trek hands down all right which uh
+the origin
+the original series the next generation
+the movies what's your what's your bag
+this is controversial for some people
+but i think my favorite was
+deep space nine actually okay yeah
+that's not the usual fan favorite that i
+hear
+so i i watched star trek the original
+series i never did watch the next
+generation but i feel like i need to dig
+into that at some point
+um cool so we you know you have a lot of
+experience with sales
+uh both on on your sas app pocket risk
+you were doing a lot of one-on-one
+conversations high-touch sales working
+with financial planners and advisors if
+i recall
+obviously i'm sure you did a ton of
+sales at your digital marketing
+consultancy renowned and co
+and now you know you're continuing that
+thread um
+at aws so the
+i think the title of this session is
+scripting sales
+and i would love to hear what you mean
+by that like why should you do you mean
+creating a script for your sales calls
+and and why should someone think about
+doing that
+sure so when people think about starting
+a sas
+app or some kind of software it's
+natural to create
+a product or a feature and test it over
+time so you want to put it out there in
+the marketplace
+see what customers think about it and
+iterate over time
+but often people don't have the same
+mindset when it comes to sales so you
+can actually have
+a script or a playbook or like a demo
+that you go through of customers
+and iterate on that over time and
+actually improve the way you communicate
+the value that your app creates
+and i think if people had more of that
+mindset they'll get better at cell that
+they thought of it as an iterative
+process
+where you actually test it and eb test
+it effectively against customers or
+prospects
+then they'll come up with a way to
+communicate the value of their app
+which really resonates with customers
+and they'll see their their sales
+actually
+uh improve they'll also get to hear
+about of course the objections and the
+challenges customers have with the app
+in a way which they wouldn't otherwise
+hear so that's why i believe in having
+this
+sales script and how tightly is it
+scripted
+it it it seems to me if it was just a
+monologue that i'm reading it's going to
+feel stilted is it more like bullet
+points
+it's bullet points um i mean the basic
+sales script is uh
+in an introduction where you say to
+someone hello how's your day you know
+usually humans like to start off with
+something personal you don't go
+launch straight into the sales script
+you know you talk about the customer's
+problems there's a reason why they're
+why they're taking the time to speak to
+you
+and then you start to talk about you
+know how they solve the problem today
+any kind of challenges they have
+you starting about asking them what's
+their ideal solution and then you see if
+there's a bridge between what you have
+and their problem and can the solution
+that you've created
+can it solve their problem so yes this
+is kind of like bullet points what
+happens is that
+after maybe doing 30 or so calls it
+stops being
+almost scripted at all or there's
+there's no bullet points because it
+becomes natural
+um but usually just the first like 30 or
+so calls when you've got a new app or
+new product
+and you're unsure what the market thinks
+about it it's good to actually have
+a script and you'll find with each call
+you you deviate from the script more and
+more as you get feedback from the market
+and learn as you go and you start
+imagining you start adjusting the script
+and editing it such that if you were to
+hire other salespeople you can pass it
+along to them
+exactly cool do you have an example of
+this
+you know whether on on your blog or just
+on the interwebs that you you know we
+could potentially refer people to
+i actually don't have one well actually
+you know what i actually created
+a um a short video on youtube if you if
+you
+search my name on youtube where i talk
+about um if you have a problem
+selling software this is kind of the
+solution and it talks a little bit about
+sales groups so that could help
+um okay i'll also recommend a book uh by
+neil rachman called spin selling
+which is a very good book on sales um
+and that gives you the general kind of
+format for how to think about creating a
+script it's a fairly long book i think
+it's like three or four hundred pages
+but
+actually if you just google the summary
+on um you'll find some summaries online
+and that'll give you a lot of the
+information but actually it's probably
+good to read the book just to
+fully digest what you're what you're
+trying to learn
+very good yeah i often google the
+summaries before i read a business book
+because it's not like there's spoilers
+in it right
+and a lot of business books i find
+really should just have been the summary
+there should have been an article
+instead of 300 but
+if you i've read it's been selling
+probably 15 20 years ago i don't
+remember it very well but um you know
+it's one of those that's
+that's recommended uh i forgot to do a
+call
+for questions at the top of our
+conversation so you know most folks know
+the drill by now
+um that obviously we're recording this
+live it's a live stream and one of the
+huge benefits of that is that you know
+the audience is able to
+uh ask questions so actually it looks
+like we do thank you pablo
+we have a question already even uh you
+know i had announced it
+so pablo asks how long are these
+scripts generally
+yes so typically they can take as long
+as
+30 minutes to go through maybe 45
+but the key thing with sales is the best
+calls usually
+is when the customer is speaking more
+than you are
+and you are leading the conversation so
+really you want the customer the
+prospect to speak
+uh much more than you do so they're more
+like prompts but it's very hard to
+i see to communicate the value of a
+piece of software
+in less than 30 minutes because there's
+the preamble there's understanding their
+problems it can take a long time
+most sas apps will have at least three
+or four main features that you have to
+go through and connect to their problems
+you know the person might turn up a few
+minutes late to the call and then you
+need to have time to wrap up so
+that always takes at least 30 minutes
+that makes sense and then in terms of
+i'm not sure if he's asking about length
+of
+uh you know duration which 30 minutes is
+is good to hear that you think that's
+standard
+um or if he's asking how long are the
+physical scripts you know is it
+we talked about it being bullet points
+is it eight bullet points
+ten bullet points have you i mean a half
+a page what what do you normally see
+two pages oh one pages of bullet points
+yeah okay so it's a lot so you really
+are it's i mean
+if you think about a page of bullet
+points might be what 20 or 30 bullets
+maybe more and so if you think about a
+30 minute call i mean you're you have a
+bullet for every
+you know 15 wait 30 seconds give or take
+exactly because the challenges will
+happen is that you'll have a question
+and then you'll see common responses so
+then you need to write down the response
+for the common response so then you end
+up getting longer and longer
+yes so to choose your own adventure a
+bit because you don't go through it line
+by line you say if they ask this
+question if they have this objection
+got it very interesting you know it's a
+trip and all the years
+of hearing sales you know
+leaders talk like steli fd and um you
+know damian thompson
+they've both been on on uh startups
+arrest fest and
+um you know steli spoken at micrograph
+many many times i haven't heard much
+about scripting sales calls so i'm
+actually pretty fascinated by this
+this it makes a lot of sense why you
+would do that and i can imagine
+especially early on you hire a new sales
+person you don't want them to sit down
+you know with a blank page and having
+some type of script for them to
+write i've heard of like truly like um
+outbound telemarketing
+scripts where they are literally reading
+from it but this that's not really what
+you're saying you know you're saying
+it's like an
+outline it's like the sales call outline
+with right and
+i'm i'm intrigued by this idea so
+there's one important point to make is
+that sometimes on the court it can be
+difficult to ask
+difficult questions and when you have it
+written down in front of your system
+you want to ask the customer a difficult
+question it could be a simple thing like
+um how much are you paying for your you
+know existing software some people might
+feel uncomfortable asking that
+to a customer but you have it written
+down it forces you to
+ask the questions the uncomfortable
+question is you don't ask
+but you sometimes you have to ask those
+questions to the customer for them to
+realize
+okay this is the value i'm going to get
+from what you're producing
+right asking questions what's your
+budget what's your timeline
+what how many people what other people
+need to make a decision you know these
+are
+questions that can feel to some like
+you're prying or something but you kind
+of need that information and so having
+those written down
+i agree would be helpful so okay so
+let's say i'm a i'm a
+founder of a small b2b sas bootstrapped
+or mostly bootstrapped
+i don't have a sales team and i'm
+running my own sales calls
+in terms of structuring that it does it
+come back to what you are what you said
+at the top i mean the first question i
+asked was what's the script like and you
+kind of ran through the high level
+bullets of
+you know it's it's it's a welcome and
+then it's a finding out their problem
+and then it's time
+is that your structure yeah that's
+exactly the structure and just to repeat
+for those who have missed that yes it's
+you know an introduction an introduction
+so you know hello how are you how's your
+day
+keep it short and sweet you don't need
+to ask lots of information about that
+but just some general pleasantries
+um and then you go into asking you know
+what's their problem like why are they
+there on the on the call you know
+there's a reason why someone has taken
+time to sit down with you
+to do a phone call or video call
+whatever um so
+find out what they what that issue is
+find out how they solve the problem
+today that's the third point so
+usually there's some kind of hack
+they're putting together to solve the
+problem today
+if they're not looking for any other
+kind of solution and they're just living
+without a
+without a solution today then you have
+to wonder is this really a problem for
+them
+maybe it's not a very big problem if
+they can just live without a solution
+so that can be insight for that part um
+then it's uh it can be useful to hear
+what their ideal solution is customers
+are usually quite bad at knowing what
+this
+the solution they want but at least they
+can say general topics like
+they want it to be fast or they want it
+to
+integrate with some other software you
+know general high level stuff which is
+useful for you
+because that lets you know what other
+parts of your application uh
+can really add value to them and so if
+you if you don't if you skip that part
+you might end up talking about one part
+of
+your application that has nothing to do
+with that problem so it's useful to
+figure out what's the ideal solution
+then you present your solution
+one by one this is dangerous though you
+can go into monologue for 15 minutes
+just talking about your features
+you don't want to do that you always
+have to type back to their problem oh
+you said integrating was important
+here's our api feature can you see how
+it works on the screen for example
+does this look like it will solve the
+problem you mentioned five minutes ago
+they say yes or no
+at the end if they said yes to you know
+your five future solves their five
+problems
+then they've said yes five times about
+your solution working for them
+and then you can go into the close and
+ask for the sale or
+so on and so forth yeah that makes sense
+and if are you blogging these days
+are you publishing essays not much
+as i tweet a little bit but not much
+yeah the reason i ask is because
+what you just said there that two-minute
+uh you know monologue with the outline
+would just make an amazing
+blog post you know an amazing or even a
+youtube video if you put it you know
+directly just walk through that and then
+put the
+the bullets in the um you know the
+description for the youtube video below
+i know you're doing some stuff on
+youtube these days do you have a short
+ur
+url for your youtube channel that people
+can can find you or what's the easiest
+way
+just search for my name johnny dega will
+come up first on youtube there's not
+many of us in the world i think like
+yep um and yeah i'll do i'll do a video
+on that no problem
+okay sounds good um looks like we have
+another
+question from the uh the listeners i
+usually say from the audience
+every sales call i receive let's see
+every sales call
+i receive introduced their product first
+i see every sales call i've been on as a
+potential customer
+introduced their product first they
+didn't ask me about my problem
+are they all doing it wrong
+if the person receiving the call has
+opted into something and it's very
+clear this is something you want then i
+think it's okay to
+get to the products quickly but i think
+that's the wrong way to go about even if
+you say
+um give me a call about insurance still
+when the person calls you they need to
+confirm okay
+what type of insurance home insurance
+car insurance and then their car
+insurance what is your car
+you know so there's still information
+that will never be communicated fully
+through a form or
+even a even um a pre-call so yes i think
+that is a mistake to start with the
+product you should always start with
+customers problems
+next question what is the best way to
+prepare for
+a sales call and when i think about this
+question
+i think about you know if i have a
+prospect do i should i research them
+should i go to the company
+website do i look them up on crunchbase
+do i look the
+individual up on linkedin i don't know
+what what else how else would you
+prepare for this
+yeah so usually up to 30 minutes before
+the call
+as you get better maybe 15 or even 10
+minutes before the call yeah i look up
+the person see if we've got anything in
+common see there's anything interesting
+usually linkedin is sufficient just
+google searches
+you might find some interesting things
+they're from the same town as you
+or they went to the same college or you
+know little things like that that
+might come up or you might realize um
+that they previously worked with a
+competitor or some kind of
+little tidbit of information that might
+help so you're not going in blind you
+should definitely research the company
+just have a general idea of
+who is this person what is their role
+how big is the company
+you know you can even assess things like
+do they have the budget just from
+looking at their website and that gives
+you
+the ability to frame um the questions
+you're about to ask
+yeah and i have a question for you are
+you living in a bomb shelter because you
+have a lot of boxes behind you
+i just moved into a new house and we
+hired this uh crazy interior designer
+who
+convinced us to get these leopards on
+the wall here so um
+yeah pretty much a bomb shelter with
+leopards on the wall
+for now yeah until that's put it away i
+just wanted i wanted to call it out in
+case people are watching and thinking
+why is john surrounded by all these
+boxes filled with random stuff
+so you touched a little bit on spin
+selling earlier
+as a resource and of course your youtube
+channel
+a question that we get a lot is i'm a
+solo founder
+or i'm on a small team of three or four
+people and we want to learn more about
+selling and it seems like the tactics of
+today are you know pretty
+different than even what we learned a
+few years ago so
+are there any other in addition to spin
+selling are there any courses any other
+books
+you know people like yourself uh you
+know other kind of online mentors or
+whatever that you would recommend people
+follow or check out um
+unfortunately this at this juncture i
+just have to be honest and say the best
+way to lend sales is to do sales calls
+learning and reading books around will
+you know give you a little bit of
+information
+but you just need to do it that's how
+you're going to learn and within
+10 calls you'll have the confidence to
+speak to people pretty consistently
+uh within 20 calls you'll know your
+scripts and be comfortable that within
+30 calls you'll be able to sell your
+product hands down no issues it usually
+just takes 30 calls
+so you just need to set yourself that
+goal let me just get through 30 calls
+it's like
+when you haven't been working out for a
+while and you want to get back in shape
+you know you just need to go and work
+out whatever six or seven times and then
+you get your
+momentum and your flow it's just that's
+just the hump
+and that's the best way to um to prepare
+and to learn and to get good is just to
+do it
+yeah yeah i would definitely agree i
+always found it
+really hard it just isn't in my
+personality
+i think to do a lot of sales calls um or
+not to do a lot of them but just
+sales is not something that comes
+naturally to me but i did have to do it
+on a
+few different products frankly um and
+i've definitely found the more i did it
+the more comfortable i felt and the more
+the less
+i guess on the spot i felt that was my
+problem originally is it was like i need
+all the answers and i i'm
+i feel like i'm you know messing up the
+call if i don't
+uh basically have all the answers to
+have all the recommendations or
+you know if we don't have all the
+features they want then somehow i have
+failed it and i think that once i did
+10 calls 15 calls and started being able
+to just answer like oh well here you
+know think about this do you really need
+that or maybe we're not a fit for you or
+you know we actually do have all of it
+it just you know gave me a comfort level
+that i didn't have early on and of
+course getting a customer
+is great once you get one two three
+customers then you know you have
+something and then you just keep going
+right yeah it builds confidence another
+question from
+the viewers for sales calls do you have
+an opinion on whether to do
+video or audio only is this changing
+that's a really good question actually
+that's a very good question so i always
+used to do audio only because i believe
+that people get distracted by
+visual cues what speak in people's
+backgrounds or you know different things
+so i've always been audio only
+but now with kovid people don't have the
+um there's more of an expectation to
+have video on now because it's become a
+trust builder
+and you know if someone just does audio
+you start to wonder can i
+trust this person you know who you know
+is just the sound coming through the
+computer science so i think
+i would now do video calls reluctantly
+but i would make sure that i have a
+clean background nothing crazy you know
+going on around me and just trying to
+focus
+the conversation on the topics also
+people don't like
+answering difficult questions when they
+can see people's faces like you know
+um if you ask hard questions you know
+people squirm and they feel
+uncomfortable in there so
+i would always try and go to audio if
+you can
+yeah audio is my default i'm not doing
+sales calls but like just my default
+communication
+i much more enjoy audio um i like that
+like you said there's no distraction
+when i record podcasts you know we use
+squadcast and
+they have video on by default and before
+i hit record i
+i turn mine off and i ask the guest to
+turn those off we do pure audio only
+because that's the medium everyone will
+hear
+you know and there's something about it
+being more relaxed and to your point
+if i if i do have to ask i don't ask
+like really awkward questions but
+sometimes i have to ask tough questions
+about something you know decision
+someone made or
+um there there can be you know a moment
+of pushback of like well what you know i
+dig deeper and everything and i feel
+like with audio it is uh there's just a
+deeper comfort level
+all right any other questions from the
+audience if not i am going
+to um i want to dig in a little more
+i mean i feel like we've covered scripts
+pretty well if there's anything else you
+feel like we haven't dug into
+specifically with scripts please
+please chime in um but i
+i'm good yeah one thing i would mention
+that you mentioned this earlier but
+one thing that's helped me a lot in
+cells which is nothing to do with
+scripts
+is um it's kind of
+getting your body in shape now this
+sounds a bit weird to talk about
+health and well-being so to speak but if
+i start the morning with a run maybe
+listen to some upbeat music and then i
+start my work day i find i have much
+more productive days
+than when you know i've gone to bed hey
+i clay i'm a little bit lethargic
+it sounds silly but just the rhythm of
+your body can have a huge
+impact on how your sales calls go so i
+recommend starting with
+maybe a little bit of music in the
+shower before you start your day maybe
+doing some exercise
+you'll get better results hands down
+awesome yeah i like that oh we got a
+question
+uh what's the threshold for sas in terms
+of pricing
+that at what point do sales calls make
+sense
+for example 500 a month and up
+so i would just couch this john before
+you answer i think i don't think of it
+as
+as monthly pricing i think of it as
+lifetime value
+you know or at least what you get maybe
+out of the first year
+but usually if your lifetime value um
+is well let's let's answer it in terms
+of that i'm curious to hear your
+thoughts
+and then i'll i'll check in yeah sure so
+i've heard lots of
+there's lots of information about this
+on the on the internet but
+generally speaking i'm happy to do sales
+calls i think up to 50 customers because
+the first customers you just need to
+learn what the hell is going on what do
+people think
+so i'll just speak to as many people as
+i can in the early days
+um if you read online they'll say it's
+very difficult to have a inside sales
+team if you're charging less than 250
+a month um simply because you
+you know you need to pay people at least
+80 000 a year and if they're living in a
+western country they need a certain
+salary
+they'll have a certain close rate and so
+forth that has been my experience
+actually that it's quite hard to have
+a sas business with a sales team not
+just the founders doing the odd call but
+an actual sales team
+with uh less than you know 250 dollars a
+month so if you're selling for less than
+a month then you need to do inbound
+marketing pretty much to acquire
+uh the bulk of your customers which is
+possible you just have to have a
+remarkable product that's the hard part
+yep exactly yeah that was something
+so you know in the early days of drip
+we especially in the early days we
+talked to anyone who would pay us
+a hundred dollars a month or more and
+it's to your point of we just wanted to
+have a bunch of conversations
+you know we were trying to to do that
+and i did it at first and then i handed
+it to our customer success person
+um but pretty quickly we realized it was
+we moved that up to 200
+and then it it became 250 and then i
+believe we actually
+raised that later i don't remember i
+think if they would pay annually
+we would do 250 and if they um were
+going to be monthly it was like
+somewhere between three and 500 a month
+where and for us it was a subscriber
+count right once they're at
+xd 000 subscribers per month
+that's when it made sense and in my mind
+again in the early days if you're
+scratching and clawing
+and the you know your lifetime value is
+is three thousand
+uh you know so that's the total number
+they would months they would stick
+around times the monthly price they
+would pay you
+um that feels kind of reasonable but
+that makes no sense later on
+you know it that's just not enough money
+to as you know like you're saying to
+compensate sales people and build a full
+team out
+at that point you got to be thinking
+about you know 10 10 000
+25 000 lifetime values at a minimum to
+you know to really build this stuff out
+and i've also had a metric that i like
+is uh
+founders should be involved in selling
+at least until you're doing like a
+million dollars a year in sales or
+eighty thousand dollars a month for
+recurring revenue
+and which i i met kind of kind of
+resonates well with me that
+because until then you're still learning
+even the way up to a million dollars
+this is still so much learning even
+beyond that of course but
+really need to be in it for the for a
+while
+yeah how do you feel do you have any
+thoughts on sales compensation because
+that's often
+you know a question that i get it's like
+i'm hiring my first sales person
+and even if i take the advice and i hire
+two you know
+when i you know let's say i run a sas
+app and it's 250 a month for the bottom
+plan and then it's 500 and it's a
+thousand and there's no setup fee
+like how how do you how would you think
+about a v1
+um of that as as we wrap up we have
+maybe just a couple couple more minutes
+left
+sure so the plans for early that well
+the early stage i've seen
+work uh 50 50 split so like a 50
+kind of it's just a base monthly salary
+like a normal employer get and then 50
+commission um i've seen that work
+relatively well as a company gets more
+mature you might want to change that
+commission percentage to like
+30 or something like that uh the
+commission i've seen it vary but it
+might be as much
+as you know
+a third man not a third probably 20 of
+their lifetime value or
+something like that or 20 or they can do
+20 of the monthly recurring just paid
+on a rolling basis as long as the
+customer is with the business also that
+provides incentive for customer success
+and kind of you know the long-term
+health of the customer as well
+so that's the just the general the
+general numbers i've seen work well
+when you say 50 50 you mean if i was
+gonna if i wanted to pay a
+person a total of 72 000 a year
+that they would their base salary would
+be 36 000 and then they would have the
+opportunity to make up to 36
+000 in sales commission exactly yeah
+but in reality if there's no cap which
+you probably shouldn't do in the early
+stage to incentivize then they could get
+more than that yeah
+right but it's kind of it's real it's
+pretty realistic
+that they can make um i'm just trying to
+do well it's 36.
+yeah it's pretty realistic they can make
+3 dollars a month in commission
+they should hit that more often than not
+type thing okay
+well sir it's been great having you
+we're at the uh
+half hour mark as well i really
+appreciate everyone's participation and
+the questions coming in
+um folks can find you at
+john endegay on twitter
+and obviously youtube.com searching for
+your name
+anywhere else you want to plug no
+that's it good luck all right thanks
+john
+thanks for coming on today all right
+and as we head out i want to let you
+know microcomp remote that we did
+last month you can get access to the
+video recordings at microconf
+remote dot com if you have a ticket
+uh if you had a ticket to remote those
+are included if you did not there is a
+small fee
+save the date for microconf europe
+october 3rd
+through 5th in dubrovnik croatia fingers
+crossed that we'll be able to do that i
+actually am about to have my second
+shot here in the next few weeks so
+thanks
+to so hopefully other folks you know
+will have shots by then and
+you know you can read on our
+microconf.com site
+all about um you know
+the precautions and such where we're
+taking around that event
+and we will uh adjust as we go thanks as
+always to hey
+and stripe that make everything we do
+just a little easier
+thanks so much for joining us today i'll
+see you
+in two weeks same time same place
+you

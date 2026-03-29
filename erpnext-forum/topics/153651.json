@@ -1,0 +1,51 @@
+{
+  "topic_id": 153651,
+  "title": "**Actions button in list view does not follow workflow**",
+  "slug": "actions-button-in-list-view-does-not-follow-workflow",
+  "category_id": 57,
+  "tags": [
+    "frappe"
+  ],
+  "created_at": "2025-09-16T19:18:34.821Z",
+  "last_posted_at": "2025-09-16T19:18:34.917Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/actions-button-in-list-view-does-not-follow-workflow/153651",
+  "views": 21,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Migueltrezzuri",
+  "posts": [
+    {
+      "id": 480884,
+      "username": "Migueltrezzuri",
+      "name": "Migueltrezzuri",
+      "created_at": "2025-09-16T19:18:34.917Z",
+      "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/5/0/503013f693b323aeb3bfb81354eff8495912300e.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/503013f693b323aeb3bfb81354eff8495912300e\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/5/0/503013f693b323aeb3bfb81354eff8495912300e_2_343x500.png\" alt=\"image\" data-base62-sha1=\"brncF546Gj50ZD2IIoe1iWNBVPE\" width=\"343\" height=\"500\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/5/0/503013f693b323aeb3bfb81354eff8495912300e_2_343x500.png, https://discuss.frappe.io/uploads/default/original/3X/5/0/503013f693b323aeb3bfb81354eff8495912300e.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/5/0/503013f693b323aeb3bfb81354eff8495912300e.png 2x\" data-dominant-color=\"F7F9FA\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">368×536 24.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>In the form view, the <strong>Actions</strong> button shows only the valid workflow actions, with the correct confirmations and error messages.<br>\nIn the list view, however, extra actions appear (including invisible buttons), some don’t work until the page is refreshed, and there are no confirmation messages.</p>\n<p>I’ve tried modifying <code>list.js</code>, but it doesn’t fix the issue.<br>\n<strong>Question:</strong> Is there a recommended way to make the list view <strong>Actions</strong> button follow the same behavior as in the form view?</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/migueltrezzuri/{size}/90337_2.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 11,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

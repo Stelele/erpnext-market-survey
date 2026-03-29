@@ -1,0 +1,53 @@
+{
+  "topic_id": 155573,
+  "title": "ZIP code auto complete script error",
+  "slug": "zip-code-auto-complete-script-error",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "custom_script",
+    "script"
+  ],
+  "created_at": "2025-10-15T19:13:55.716Z",
+  "last_posted_at": "2025-10-15T19:13:55.784Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/zip-code-auto-complete-script-error/155573",
+  "views": 27,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "TyNS",
+  "posts": [
+    {
+      "id": 484087,
+      "username": "TyNS",
+      "name": "Ty",
+      "created_at": "2025-10-15T19:13:55.784Z",
+      "cooked": "<h4><a name=\"p-484087-h-1\" class=\"anchor\" href=\"#p-484087-h-1\" aria-label=\"Heading link\"></a></h4>\n<p>Message</p>\n<p>Failed to get method for command frappe.client.run_server_script with module ‘frappe.client’ has no attribute ‘run_server_script’</p>\n<p>Getting this error on my script. I looked at the repo and saw run_server_script isn’t in client.py but all of my research says it should be.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/t/ba9def/{size}.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 12,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

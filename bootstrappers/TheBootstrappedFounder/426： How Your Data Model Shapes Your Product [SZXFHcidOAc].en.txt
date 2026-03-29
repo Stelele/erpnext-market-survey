@@ -1,0 +1,639 @@
+﻿Hey, it's Arvid and this is the
+bootstrap founder.
+My dear friend Jack Alice is this
+unending source of founder inspiration
+for me because not only has he recently
+started embracing AI agentic coding
+which is really cool and it's something
+that he's been holding back on for quite
+a bit. I think I've mentioned several
+times on this podcast alone how he and I
+seem to have quite opposing views on
+embracing this technology. But something
+has clicked for him and he's been diving
+headlong into it. So I'm just excited
+over the next couple months. I hope
+he'll explore it more and after that
+I've been trying to get him to come on
+this podcast and talk about his
+experiences. So let's give him a chance
+and some time to explore it fully and
+then we'll talk to him about that
+particular thing. But Jack said
+something else recently which I found
+equally interesting and maybe even more
+generally applicable for all of us
+software developers building these
+digital businesses. It's just a quote
+from a tweet of his. He said, "The
+biggest mistake I ever made was storing
+our page views and custom events in
+different database tables. They're now
+on their way to a single table." And
+obviously, Jack refers to this wonderful
+product of his, Fathom Analytics,
+something that I highly recommend using
+for your own software products because
+Fathom Analytics is privacy forward and
+very easy to use. I've been a big fan of
+their work for a long while. And what
+he's talking about here is how the data
+model that they had in the past has been
+holding them back. And that's what we're
+going to be talking about today. A quick
+word from our sponsor paddle.com. I use
+Paddle as my merchant of record for all
+my software projects. They take care of
+all the taxes, currencies, they track
+the client transactions, and we capture
+them and update credit cards in the
+background so that I can focus on
+dealing with my competitors and my
+customers instead of banks and financial
+regulators. If you think you'd rather
+just build your product instead of doing
+all these other things, check out
+paddle.com as your payment provider and
+merchant of record for your SAS.
+Now, Jack is no stranger to massive
+migrations, and if he sees something
+that needs to be migrated to something
+better, well, I think he just goes for
+it at this point and writes a really
+cool blog post about it. And I find that
+admirable and instructive particularly
+because I've been running into some of
+the same issues and it's really been
+helpful to see another perspective. I've
+been building Potcan for almost 2 years
+now and obviously the choices that I
+made on day one weren't necessarily the
+most forwardthinking ones because as we
+all know in this world of
+entrepreneurship we're just all trying
+to figure it out as we go along. Right?
+The meme that is often mentioned here is
+that we're all trying to build our
+airplane on the way down, plummeting
+towards the ground and trying to lift
+off before we hit the surface. Runway is
+another term from the aeronautics that
+is used for startups a lot. So, I've
+been dealing with a lot of different
+choices that I made in the beginning. A
+couple smart ones and a couple really
+unreflected choices in terms of how the
+data in my database and my application
+is represented. And those choices have
+consequences.
+Particularly for Potcan where I have
+these millions of podcasts to track and
+all the extra data that comes with that.
+For each podcast, there's just so much
+metadata for the show alone. Not even
+thinking about the episodes, just the
+show in itself. Things like chart
+rankings and reviews and social media
+profiles that are kind of linked to it
+maybe. And all this stuff needs to have
+a place. how you store it, what you
+store, and how accessible it is really
+makes an impact on how you can present
+the data to your customers and how you
+can use it to help them solve their
+problems. And then at this point, we're
+also over 45 million episodes in. So
+that's how much I've transcribed so far
+over the last 2 years at this point
+almost. That's 45 million transcripts.
+So, not only do we have to store all
+that text data, but each episode has
+hosts and guests that need to be
+extracted and linked. And then there are
+summaries and topics for that particular
+show. There's just a lot of data and
+some of that I structured smartly and
+some I didn't. And having a data model
+that is welld designed from the start,
+well, now in retrospect, it feels like a
+really important thing and it's a smart
+and important part of having a
+successful product. But here's the thing
+that I want to point out today.
+Something that we don't usually talk
+about because obviously scaling and all
+these things, they just happen and you
+figure things out over time. But how you
+structure your data, how you keep your
+data around informs how you think about
+your product as a builder. And if you
+only have certain ways of dealing with
+it, then features and ideas that would
+need different ways of using this data
+might be discarded and dismissed from
+the start. And this limits the whole
+scope of how you think about certain
+things that people who have similar
+products with similar data models might
+have as well or may not yet have. It
+might limit you to certain things that a
+different data model or a different way
+of representing the data might
+facilitate but you just couldn't even
+fathom it. Let me give you an example
+here. The most basic thing that we
+probably all can relate to, every
+software as a service business has this
+is user authentication. People come to
+your website, they're interested, and
+then they go sign up. Now, what do you
+ask them? You ask them maybe for an
+email, a name, and a password.
+Hopefully, a password, some way of
+authenticating them. And then you
+persist that. So now in your database,
+you have a users table, and you have a
+list of users. And that is how you think
+about your users. There's a list of
+things and everybody has a row in there.
+And all of a sudden, your business right
+from the start without doing much more
+than just persisting your user data is a
+one user per account business. And this
+might be very useful for most people who
+use your product because they're
+individual people using it in their own
+ways. But then all of a sudden, somebody
+comes along and wants to invite somebody
+from their team in their business,
+right? They work in a marketing
+department or something and they have
+three to four people that they want to
+look at the data as well. Now, what are
+you going to do? Do you make the team
+member that wants to join create a new
+account as well? Because you don't
+really have a team representation yet.
+You only have accounts, right? You only
+have this users table. Maybe you have a
+permission structure that allows you to
+invite other accounts to individual
+projects or documents in your product.
+Or you have an overarching organization
+structure that whenever a new account is
+created, this organization gets created
+as well like a team. and then the team
+exists and the account is the owner and
+then can invite any number of members
+and make them administrators or editors
+or just users. There are many ways to
+deal with this and depending on how you
+think about that. Even that simple data
+representation that most software
+businesses initially have to make a
+choice about how to put your users in
+your database. It depends on who you
+think your product is for. If it's just
+a B2C product where you have individual
+users, let's say you have a video game
+or a fantasy sports tracker where you
+just want to track your own results, it
+makes perfect sense not to even think
+about teams as a data representation.
+But the moment you plan on starting to
+sell to bigger companies, the moment you
+start selling to people who are part of
+a workflow, part of a team, if you don't
+think about teams and organizational
+structures here in your data model, your
+product will be aimed at people who
+might not be able to use it because they
+need to involve their co-workers. And
+maybe more importantly, they just expect
+things to have a team structure at this
+point. All the other tools they use have
+that. So that's one of the reasons why
+you really have to think about this in
+the beginning and also why I really like
+the Laravel ecosystem. There are several
+really highquality plug-and-play systems
+for user authentication that come with
+the framework and the one that I've been
+using in all my products is called
+Laravel Jetstream which has a teams
+option. You can immediately take teams
+and make that part of your application
+by just using the d- teams flag when you
+install the plugin. And then every
+single new account either creates a team
+or can join a team. like every account
+has a personal team and then can be part
+of somebody else's team as well and that
+just comes right out of the box. It's
+quite useful to have this as a default
+for software service businesses because
+at some point some people will expect
+this kind of functionality for any
+significant product and those people
+tend to be the ones with the money. So
+prepare for this. The moment you charge
+more than a couple hundred bucks a
+month, it is quite likely that somebody
+will want to invite somebody from their
+team. That's kind of what I've
+experienced with the tools that I've
+been building in the past. As you can
+tell, this conversation about
+authentication and users and teams has
+nothing to do with the actual internal
+data that your business handles. You
+could be rendering videos or generating
+emails or tracking where vehicles go or
+whatever in your SAS. Doesn't matter
+what that data is structured like. Just
+the authentication data, just
+representing who is a user of your
+product that already impacts what your
+product can and cannot do. Think about
+billing too. Do you bill on an account
+level, on a user level, on the team
+level? Do you bill per project or per
+organization? Do you have seats? Do you
+even have projects or is all data in the
+team or in a user account and how do
+they share it? All these choices truly
+matter. And once you make those
+functional choices in the beginning,
+then future infrastructure changes or
+even customer representation that you
+have in your mind, if that changes, that
+has repercussions because if you change
+infrastructure like this, even just if
+it's mental infrastructure, you also
+change all the features that touch it.
+Existing features that may need some
+kind of connection to an account because
+they need to be bound to an account, but
+now all of a sudden you have teams that
+can be accessed by multiple accounts.
+Well, can people just read all the data
+in there? Or is there like a permission
+system? What are you going to do? Assign
+an account, assign the team. The data
+model that you have in mind might not be
+the data model that you actually need.
+So, you need to build some kind of
+flexibility for this as a founder from
+the start, right? You have to make
+strong assumptions to build any
+business, any software product, but you
+have to be willing to let them go more
+easily because you learn along the way
+that things that you thought are cool
+might actually not work out well because
+at scale things can get quite
+problematic. If you think about Podcan
+as a database of all the podcasts in the
+world, which is over 4 million shows at
+this point, and all that they release,
+which is around 50,000 new podcast
+episodes a day, obviously those database
+tables grow massively every single day
+and have been growing massively from day
+one, pretty linearly because the world
+doesn't just double in size when it
+comes to podcast adoption, but they do
+quite significantly every single day.
+And what I experienced quite early on a
+couple of hundred thousand items in was
+that my database, how I would structure
+my data and how I would make my data
+easily searchable and accessible really
+mattered. I was trying to add indices to
+my MySQL database tables because I was
+building new features on top of my
+existing data model that I thought was
+perfect, but obviously it wasn't fully
+complete just yet. or I was trying to
+change fields in this database with
+millions of rows because there was
+something that just needed to be changed
+a tiny little bit and all of a sudden
+all of my queries to the database would
+stall for a couple minutes because
+adding an index sometimes can lock up
+the database and adding a new field or
+updating a field over millions of items
+certainly will lock a database and that
+was when I didn't really know much about
+how to deal with this stuff at scale
+things like blue green deployments the
+idea a of running a full new copy of the
+database as a follower on the primary
+database, then doing all the index and
+the changing work on that follower and
+then switching it over. That's something
+that I've now been doing quite a lot
+whenever it's required because that is
+the way this can be done without having
+downtime. I was not aware of this back
+when I started. Just never had to use it
+and I wasn't aware of how complicated it
+can be to add certain things to a
+massive database in MySQL. And it's
+something that now kind of needs an
+infrastructure event. I have to run this
+new deployment. I need to add a new
+index at some point probably. And then I
+have to make an extra deployment to run
+the index on that kind of passive
+deployment switch over. Otherwise, I
+would have downtime which I cannot have
+because I have an API that needs to be
+reliable for my paying customers. And
+those are choices that I never really
+thought about in the beginning. I never
+thought about the fact that once my
+podcast episode table has over 10
+million items, adding an index on a text
+field might take two days to complete.
+This stuff just doesn't come up when
+you're just starting out. And
+particularly when you don't have
+experience with that massive data
+collection and at a certain point, data
+just doesn't have to do only with how
+data is represented, but also how it's
+accessed. Particularly when it's a lot
+of data like in my case when you're
+pulling a lot of data from certain APIs
+or other kind of sources the way and the
+speed at which it can be accessed really
+makes a difference and even if you know
+a lot about databases and a lot about
+your customer access patterns that will
+always be something that you will miss.
+So from the beginning I would recommend
+thinking about how you can play with
+this data at production scale to see how
+things behave without actually running
+that particular change that you might
+want to make in production. Blue green
+deployments have been really helpful.
+This approach is something that I felt
+is a godsend here because otherwise I
+would have a lot of downtime would have
+had a lot of downtime and the stress
+associated with that in the past. Let me
+maybe share another story from Pskin
+here. I mean, you're listening to this
+podcast. I talk about potskin all the
+time, but this one is interesting
+because it is about full text search in
+all of my episodes. And full text search
+is something in regular SQL databases
+like MySQL or PostrSQL, it's actually
+pretty good up until a certain point.
+And that certain point was reached
+within a couple days or weeks for me
+because if the text that you're
+searching through is significantly
+large, then full text search starts
+becoming problematic. For me, with
+Potscan's transcription features, I have
+full episodes transcribed now for
+millions of shows and like 50,000 a day.
+The full text search capability of
+MySQL, no matter how good that system is
+internally, just was not working with
+this. Not even with a couple million or
+even a couple hundred thousand. If I
+were to run a full text index on all of
+this now today on all this data, it
+would probably take me a couple of weeks
+just for the index to be built. It's
+wild. And second, queries on that index
+then, if it would even fit into RAM,
+which I don't think it would even on the
+strongest machines, would take several
+hours to complete. Each episode in the
+system sometimes has up to a megabyte of
+raw text data. You can't scan 50
+gigabytes per day for months and years
+worth of data that cannot be scanned
+quickly with traditional database
+approaches. So I was limited. I wanted
+full text search, but I couldn't do it
+on my database. I needed to split off
+that data into a secondary system built
+for this kind of thing. Initially I was
+using Miley search and they were pretty
+good up until a certain point as well
+because Miley search is a very fast
+searching system. It's kind of used for
+instant search type ahead search in
+e-commerce systems or specific database
+of very similar data and it worked
+really well. But after a certain size I
+think it was around 100 gigabytes worth
+of data it became limited. Still very
+fast on the search side. They have this
+inverted index. It's really fast and
+it's all in memory. It's great, but much
+much slower on the ingestion side. So I
+had to find an alternative solution
+which ultimately became open search for
+me and that's Amazon's version of the
+good old Elastic Search. Now at this
+point in my pot scan journey, I'm
+splitting off every single episode that
+I receive a transcript for or that I
+create a transcript for. I persist its
+full transcript in the database so it
+can be quickly accessed in full and then
+I send it over as an item to my open
+search cluster which takes care of all
+the ingestion and optimization and
+searching. That cluster has its own
+indexed version of all the data and
+whenever we want full text search we
+just send a request there and then
+populate the results that we get with
+data from our database and then we show
+it to our customers. It was impossible
+to do this inside our own database
+system. And even if we had spun up a new
+MySQL cluster somewhere and tried to run
+full text search there, it would not be
+as performant. So we had to use an
+alternative system. Had I said I wanted
+everything to be done in my own
+database. I probably would have found a
+way to do it if that were like dispatch
+a search, get a result half an hour
+later, compile a report. But obviously
+that's not the feature goal. I still
+wanted it to be snappy. Product needs to
+be searchable. So I had to split it off
+which means that now there's significant
+complexity in my data model right I
+still have my mySQL database as my main
+database my main source of truth but I
+have these additional sources of let's
+call it temporary truth which are the
+search systems for example the text is
+still the same that I get from my API
+backend servers and then send it over to
+the open search but the way we interface
+with the data and the way we have to
+synchronize it might be different. It's
+important to understand that now for me
+there's an additional control flow. If I
+were to retranscribe an episode because
+there was a mistake in it or they
+updated the audio or something. Well,
+now I needed to make sure that the
+version stored in the open search
+cluster that people search on is also
+updated with this new data. And that
+synchronizing, checking and testing that
+is complexity that I didn't even think
+about at all from the beginning. But now
+I have to deal with that because of the
+requirement of having search and even
+with my SQL's data that's now several
+terabytes in size. There's more to think
+about. The database just grows and
+grows.
+But it costs me that database can grow
+forever. I mean it will be growing a
+little bit but it can grow massively
+forever. Most people only really look at
+the transcripts of more recent podcast
+episodes anyway. So that is a choice
+that I made in the beginning. keeping it
+all in the same database all equally
+accessible. But was it a smart business
+choice? Probably not. It's probably
+fiscally irresponsible to store
+everything in a database you pay for
+when you don't even use most of it or
+people don't even interface with the
+data more than maybe once a month or so.
+So I had to make a choice here too after
+the fact. And I think this happened
+within the first 6 months or so of
+running POTS scan. I started taking
+older data from my database and putting
+it into much much cheaper object storage
+but still making it available by linking
+it into the database. So what I'm doing
+now is a way for my podcast episodes to
+check is the transcript fully available
+in the database and if not do we see a
+link to a storage file in there that
+might contain this transcript? If so,
+let's load it, write it into like a
+cache for a hot minute so we can serve
+it quickly without having to pull it
+over and over from object storage for
+like couple minutes. And I also make
+sure that once the podcast episodes in
+my database reach a certain age, they
+automatically get shoveled over,
+transferred into object storage, kind of
+a colder storage if you think about it,
+instead of staying in my hot and always
+accessible database. And this once
+implemented works super reliably because
+like S3 and AWS RDS where the database
+lives, they're all very reliable
+systems. It saves me a lot of money on
+these millions of podcast episode
+transcripts that are now just sitting in
+JSON files somewhere. Not only do I save
+the transcript, I also have like perword
+second level timestamps for every single
+thing I transcribe. So, not only is
+there like a megabyte of transcription
+with human readable text, but there's a
+big old JSON object that has timestamps
+for every single word that is uttered in
+that thing, which is often up to 8 or 9
+megabytes in size just because of the
+verbosity of JSON. I compress that and
+automatically write it into cold storage
+as well and make it available if people
+ever want to download it. So you have to
+think about all these kind of things all
+the time. None of this was part of the
+initial data model. I didn't think I
+would ever have to think about that kind
+of optimization or shoveling data
+around, but that's what I wanted to
+bring up today. The way you represent
+your data either enables you or it
+limits you and probably does both at the
+same time. And if you find yourself
+struggling, think about how you can bend
+not just your application to fit the
+data model, but how you can open up and
+make more flexible your data model to
+fit what your application actually needs
+to become. Don't limit your thinking to
+what you chose as a data representation
+at some point. In fact, change the
+representation, add to it, make it maybe
+a little bit more complex, but don't let
+it limit what the thing you're building
+can be. Know that it can be done. just
+requires patience. Sometimes
+infrastructure events like a blue green
+deployment. Sometimes you have to bite
+the bullet and do a little bit of
+downtime or have a big anxietyinducing
+migration. But having a data model that
+is flexible enough to be changed even at
+scale and under load becomes very
+relevant as a tax stack decision. It's
+not just about what framework you use,
+what database you use, but also how your
+data stays flexible when changes come
+along. Cuz change always comes in a SAS
+business. you're never going to be done
+with it. Customers always have something
+that they need. You always have that new
+feature that totally needs you to be
+able to store that one more thing in
+relation to your data. Just build that
+internal flexibility as a founder to
+say, "Okay, this month I'm going to do
+that migration. It will be worth it."
+And that's it for today. Thank you so
+much for listening to the Booster
+Founder. If you're a founder, a PR
+expert on a marketing team, you might be
+missing critical conversations about
+your brand right now. And I think
+Podscan will help you with this. It
+monitors over 4 million podcasts in real
+time and it alerts you when anybody,
+influencers, customers, competitors,
+mentions you. It takes this unstructured
+podcast chatter and it puts it into
+interestingly hosted competitive
+intelligence and PR opportunities,
+customer insights, all with a really
+cool API that is very responsive and
+flexible because I built it. And if
+you're a founder searching for your next
+venture, check out ideas.padscan.fm FM
+where we take startup opportunities
+directly from hundreds of hours of
+expert discussions every day so you can
+build what people are already asking
+for. If you know anybody who could use
+this, please share it with them. You can
+find me on Twitter at Avika Avid K Ahl.
+Thank you so much for listening. Have a
+wonderful day and bye-bye.

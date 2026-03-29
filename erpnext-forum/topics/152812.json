@@ -1,0 +1,51 @@
+{
+  "topic_id": 152812,
+  "title": "Help Needed For Implementing Push Notifications",
+  "slug": "help-needed-for-implementing-push-notifications",
+  "category_id": 6,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-08-27T22:19:37.776Z",
+  "last_posted_at": "2025-08-27T22:19:37.914Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/help-needed-for-implementing-push-notifications/152812",
+  "views": 32,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "ebrahimHakimuddin",
+  "posts": [
+    {
+      "id": 479213,
+      "username": "ebrahimHakimuddin",
+      "name": "Ebrahim Tayabali",
+      "created_at": "2025-08-27T22:19:37.914Z",
+      "cooked": "<p>Hi… I want to implement push notifications in erpnext 15 desk using one signal I have managed to make the notifications appear for a user now how should I implement multi-user and multi device when user logs in or logs out.</p>\n<p>Any help would be appreciated</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/ebrahimhakimuddin/{size}/89854_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 13,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "topic_id": 161444,
+  "title": " Issue with Send Email Alert in ERPNext Workflow",
+  "slug": "issue-with-send-email-alert-in-erpnext-workflow",
+  "category_id": 6,
+  "tags": [
+    "email",
+    "workflow"
+  ],
+  "created_at": "2026-03-13T05:01:14.427Z",
+  "last_posted_at": "2026-03-13T05:01:14.555Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/issue-with-send-email-alert-in-erpnext-workflow/161444",
+  "views": 17,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Mimi-trn",
+  "posts": [
+    {
+      "id": 495851,
+      "username": "Mimi-trn",
+      "name": "Mimi Trn",
+      "created_at": "2026-03-13T05:01:14.555Z",
+      "cooked": "<p>I want to configure an email alert in the <strong>Workflow</strong> doctype.<br>\nI <strong>have set up</strong> the email domain and email account, and I <strong>did not tick</strong> the <strong>Only If Creator</strong> or <strong>Is Optional State</strong> checkboxes.</p>\n<p>However, the email <strong>is still not sent automatically</strong> when the document <strong>moves</strong> to the next workflow state.</p>\n<p>When I <strong>set it up</strong> using a <strong>Notification</strong> and <strong>manually send</strong> the email from the <strong>Email Queue</strong>, it <strong>works well</strong>.</p>\n<p>Could you please advise <strong>how I can configure automatic email sending in the Workflow</strong>?</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/mimi-trn/{size}/94261_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 13,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

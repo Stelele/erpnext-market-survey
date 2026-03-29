@@ -1,0 +1,238 @@
+﻿Should you build an indie business on top of OpenAI?
+Absolutely.
+It's not in OpenAI's interest to build niche solutions that compete with indie hacker startups.
+It's in their interest to enable them.
+Welcome to the Bootstrapped Founder.
+Today, we dispel a myth about building AI startups.
+This episode is sponsored by acquire.com.
+That's a place where you can actually sell your AI startup.
+More on that later.
+Now, let's get into the topic of the day.
+The community is caught up currently in a strange back and forth between "look at all
+these amazing opportunities that OpenAI offers" and "don't build, OpenAI is just going to
+make your startup evaporate".
+Those are the two extremes.
+And if you're an indie hacker and you wonder which of these is actually helpful and actionable
+for your journey, well, I'll try to help clear things up here today.
+Let's start with the elephant in the room.
+The wrapper.
+Someone is talking about just how short-sighted it was to build a business on wrapping OpenAI
+interfaces into a standalone ZASP app or something.
+And I think they're right.
+If your business success is predicated on making it slightly cheaper to access what
+OpenAI offers or slightly easier, you're in trouble.
+They can and do change pricing in their UI and access restrictions and interfaces at
+any point.
+That lack of control?
+That's a severe business risk.
+And you should know that when you build only a wrapper.
+And with OpenAI's recent release of features that threaten some businesses, such as "chat
+with this PDF" kind of services, well, it does raise the question of whether it is a
+good idea to build a business on top of OpenAI, a wrapper or anything at all.
+Right?
+Well, how do we learn about this?
+Well, let's look at what people like Damon Chen, the founder of PDF.ai has to say about
+this because his business should be massively impacted by that change.
+If the developer community is to be believed.
+So he seems to be doing just fine though.
+He says OpenAI's updates excite developers, PDFAI's updates excite customers.
+We are not the same.
+And I think he's right.
+This is why the whole debate is so problematic.
+It focuses on the technical details, but completely ignores the idea of customer inertia.
+When customers find a product that reliably solves their specific problem in itself a
+very specific way, well, they don't jump ship towards a more generic implementation easily.
+Particularly when your customers are not technical people.
+If for a few dollars a month I get an up-to-date version of something that I would have to
+build, maintain and budget for myself, well, why would I then even look at that platform
+and not just pay the money and take the thing?
+And even technical customers don't just churn from a tool that was built specifically for
+their purposes.
+Look at how many specialist hosting providers exist for web apps.
+If it was just about saving the most money, every single person would host on AWS.
+But in reality, people have different preferences.
+They want more than a generic platform.
+It's like saying that AWS is destroying startups because they make it so easy to host things
+there yourself.
+It comes with a lot of extra work.
+And some people do not want to do that platform work they want to buy off the shelf.
+And that's the core aspect that I'm missing from this whole "open AI kills startups"
+conversation.
+It is not in OpenAI's interest to do this.
+Particularly as these, I guess, imaginarily dead startups wouldn't even exist without
+OpenAI in the first place.
+As more capabilities and capacities are being added to the platforms, more businesses spring
+up around them.
+And sure, some of them fail, but it's probably more competition and product market fit related
+than anything else.
+OpenAI just can't handle the complexity of building a specific solution.
+Sure, they have PDF introspection now, but will they also be building bulk PDF imports,
+or white-label PDF embeds, or an externalised API to chat with a particular kind of PDF
+through a REST interface?
+Of course they won't.
+Their core business is training and selling access to large language models.
+And that's what they'll keep doing.
+This is where focused solutions come into play.
+These solutions take the generic API of the platform and they use it to construct something
+tailored to the well-understood needs of professionals.
+These aren't wrappers.
+These are the businesses that actually survive changes in OpenAI.
+Not only that.
+Every time OpenAI makes things easier, these businesses start to flourish even more.
+Banu Teja of SiteGPT said it best.
+He said, "No more spending time trying to manage embeddings and providing context from
+these embeddings.
+We spend a ton of time building this in-house.
+Now everything is about to become a simple parameter in an API call.
+We can delete a lot of our custom code now."
+That's awesome.
+That's a great business result.
+Founders like him, with a reasonable grasp on AI, have understood that if you build a
+business on top of such a powerful dependency, you don't just get chat GPT, you get leverage
+and you get data.
+Think about it.
+If you're helping people write, let's say, bridesmaid speeches, starting with a few notes
+and stories and ending with a customer approved speech, what do you have?
+You have assets.
+You have captured a magical transformation from idea to tangible speech.
+And for every customer who makes such a speech, you can add a new record into your database.
+Over time, you can then use more AI internally to learn what good speeches are made of, what
+this process looks like.
+And you also have all the bad speeches that your customers didn't like.
+You have insights into styles and topics that resonate negatively.
+And this is also valuable information.
+And nobody has this but you.
+And you may not control the means of production.
+You don't have the AI.
+It's not yours.
+But you own the ingredients, the recipe and the finished product.
+And meanwhile, with every new customer for your AI business, you're building an audience
+around your expertise as a problem solver, both personally and as a business person.
+These relationships persist through any ups and downs that your particular business might
+have with people who sign up for your business.
+You control the means of communication.
+Every new customer adds to your reach, even if you just pass through their API calls to
+OpenAI.
+And if your product works, they will talk to their equally AI curious peers.
+It's not just chat GPT.
+Even the rappers are powerful leverage generators.
+So how about we all calm down a little in this conversation.
+Of course, there's no guarantee that your business won't be impacted by any future changes
+within OpenAI.
+The platform risk is clear and the speed of development that happens in this company in
+particular can make your product potentially irrelevant in a few months.
+If you don't offer more than just slightly easier access to OpenAI.
+But if you're quick at building features and getting feedback from your users, you will
+use these innovative new AI tools to build special interest startups that people have
+never seen before because they weren't possible.
+Just look at features like this GPT-4 Turbo with its increased token limits.
+There are so many things that are now possible that were once difficult, expensive or just
+impossible.
+You can ingest hours worth of podcast transcripts for example.
+And from there, you can build products for podcasters, for listeners, for publishers,
+for audio professionals, you name it.
+There's a lot that can be done now.
+And none of these people that I just mentioned, they want to log into the OpenAI console and
+manually write a prompt.
+They all want well integrated tools.
+And for those founders with a low risk tolerance, well consider generative AI tooling as a feature.
+Maybe not the core of your product.
+Use OpenAI as an additional component to your offering.
+Many startups are using OpenAI without solely relying on it.
+Which I guess is pretty smart.
+Because this way, your business strategy won't be derailed by quick changes in the AI platform.
+You can also diversify.
+OpenAI isn't the only platform and the only language model out there.
+If you abstract this in building your product, you can have other and different kinds of
+models that you even might be able to host yourself.
+There is a lot of potential variety.
+And if you have a high appetite for risk as a business owner, you can build products using
+OpenAI tools and then try to monetize them very quickly.
+Tony Dean did this with Typing Mind.
+He built a model agnostic interface that interacts with many different platforms and offers several
+convenience features.
+Will it last?
+Maybe.
+It's just a UI for GPT and the likes.
+And that's all it was ever meant to be.
+But it's a buy once use forever product.
+And that is by design.
+He doesn't want to run this for 20 years.
+But there is a need in the market.
+He found it.
+He solved it with the product.
+Can it evaporate?
+Sure.
+He monetized it.
+And these specialized and well-scoped tools can and will cater to particular needs that
+general purpose tools that OpenAI puts out there just cannot address.
+So if you build a tool that solves a specific problem for a certain type of user, your business
+still has a chance to compete with the platform itself because they would need to support
+every kind of user anyway.
+They can't look at just that one user that you support.
+So should you build with, on, and around OpenAI?
+As an indie hacker, I'm excited by the technology.
+It's a great enabler.
+So I would say yes.
+But we need to create tools that use AI to make our lives more interesting and easier
+and improve how we learn from each other.
+So if you want to build a tool today, consider OpenAI.
+Again, if you risk averse, don't build on top of it exclusively.
+See it as a service that you can use to add value, add features for your customers in
+ways that you've already been doing without AI but now do it much better.
+And if you enjoy the wild ride of cutting-edge tech, make OpenAI your core dependency but
+quickly build features that the platform will never have the incentive to create.
+Things like industry-specific data transformations or workflow integrations that are really nitty-gritty.
+That's not what OpenAI cares about, but you can do this and your customers will thank
+you for it.
+In either case, show that you want to solve a very specific problem for specific people.
+Make them care about your product beyond just the magic of GPT.
+Because that's how your business stays alive when OpenAI announces the next big thing.
+And that's it for today.
+I want to briefly thank my sponsor, Aquire.com.
+Imagine this.
+You're a founder who's built a really solid SaaS product.
+Maybe with some AI stuff in there.
+You acquired customers and it's generating all this really consistent monthly recurring
+revenue.
+That's the SaaS indie hacker's dream.
+The problem is, you're not growing for whatever reason.
+Maybe it's a lack of focus or a lack of skill or just a plain lack of interest.
+You don't really care that much about the tool anymore.
+You feel stuck in the business.
+Well, what should you do?
+The story that everybody wants to hear is that you really got back into it.
+You buckled down, reignited the fire, started working on the business, not just in the business.
+And then you do these things that you never really wanted to do.
+Marketing, sales, outreach.
+But they work.
+And six months down the road, you made all that money.
+You've tripled your revenue and everything is super successful.
+A lot of applause is happening.
+Well, reality is unfortunately not that simple.
+And the situation that you might find yourself in here is different for every founder who's
+facing this particular crossroad.
+But too many times, the story here ends up being one of inaction and stagnation until
+the business itself becomes less and less valuable or at worst, completely worthless.
+And nobody really wants that for their business.
+So if you find yourself here already or you think your story is likely headed down a similar
+road, I would consider a third option.
+And that is selling your business on acquire.com.
+Because capitalizing on the value of your time today as a founder, as a maker, somebody
+who can make stuff is a pretty smart move.
+And you can do that through acquire.
+It's free to list.
+They've helped hundreds of founders already.
+Go to try.acquire.com/arvid and see for yourself if this is the right option for you.
+Thank you for listening to the Bootstrapped Founder today.
+You can find me on Twitter at @arvidkahl, A-R-V-I-D-K-A-H-L.
+You find my books and my Twitter course there too.
+If you want to support me in this show, and I would really appreciate that because I like
+getting supported and this show should also be viewed and listened to by more people,
+please subscribe to my YouTube channel, get the podcast in your podcast player of choice,
+and leave a rating and a review by going to ratethispodcast.com/founder.
+It makes a massive difference if you show up there, because then the podcast will show
+up in other people's feeds, and that's where they can learn from it.
+Any of this will help the show.
+Thank you so much for listening.
+Have a wonderful day and bye bye.

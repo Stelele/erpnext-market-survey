@@ -1,0 +1,51 @@
+{
+  "topic_id": 157080,
+  "title": "How to Export Selected Columns from Custom Script Report in ERPNext?",
+  "slug": "how-to-export-selected-columns-from-custom-script-report-in-erpnext",
+  "category_id": 57,
+  "tags": [
+    "customization"
+  ],
+  "created_at": "2025-11-20T10:26:49.034Z",
+  "last_posted_at": "2025-11-20T10:26:49.151Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-to-export-selected-columns-from-custom-script-report-in-erpnext/157080",
+  "views": 56,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Stark",
+  "posts": [
+    {
+      "id": 487010,
+      "username": "Stark",
+      "name": "Stark",
+      "created_at": "2025-11-20T10:26:49.151Z",
+      "cooked": "<p>I have created a custom Script Report in ERPNext that shows employee check-in/check-out status. The report works fine and displays all columns properly. However, when I click the export button, I don’t get the option to select specific columns for export.</p>\n<p>Report Type: Script Report</p>\n<p>I want column selector to appear during export, where I can:</p>\n<ol>\n<li>Select/deselect specific columns</li>\n<li>Choose only required columns for export</li>\n</ol>\n<p>How can I enable the native column selector for export in my custom Script Report? Is there a specific method or configuration I’m missing?</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/stark/{size}/84959_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 13,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 2,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

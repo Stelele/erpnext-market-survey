@@ -1,0 +1,53 @@
+{
+  "topic_id": 161284,
+  "title": "ISD Configuration in ERPNext",
+  "slug": "isd-configuration-in-erpnext",
+  "category_id": 65,
+  "tags": [
+    "erpnext",
+    "gst-india",
+    "gst"
+  ],
+  "created_at": "2026-03-04T15:57:36.624Z",
+  "last_posted_at": "2026-03-04T15:57:36.768Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/isd-configuration-in-erpnext/161284",
+  "views": 40,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Yo_fun",
+  "posts": [
+    {
+      "id": 495455,
+      "username": "Yo_fun",
+      "name": "Suneet Sharma ",
+      "created_at": "2026-03-04T15:57:36.768Z",
+      "cooked": "<h3><a name=\"p-495455-isd-configuration-in-erpnext-1\" class=\"anchor\" href=\"#p-495455-isd-configuration-in-erpnext-1\" aria-label=\"Heading link\"></a>ISD Configuration in ERPNext</h3>\n<ol>\n<li>\n<p>Is the <strong>Input Service Distributor (ISD)</strong> concept supported in standard ERPNext?</p>\n</li>\n<li>\n<p>How is ISD registration configured in ERPNext (separate GSTIN, company, or branch setup)?</p>\n</li>\n<li>\n<p>Can we define a dedicated ISD GSTIN under the same company?</p>\n</li>\n<li>\n<p>What is the standard workflow for distributing input tax credit (ITC) through ISD in ERPNext?</p>\n</li>\n<li>\n<p>Are there specific DocTypes or settings required to activate ISD functionality?</p>\n</li>\n</ol>\n<hr>\n<h3><a name=\"p-495455-isd-data-gst-portal-integration-2\" class=\"anchor\" href=\"#p-495455-isd-data-gst-portal-integration-2\" aria-label=\"Heading link\"></a>ISD Data &amp; GST Portal Integration</h3>\n<ol start=\"6\">\n<li>\n<p>Can ISD-related data from ERPNext be directly linked or synchronized with the Goods and Services Tax Networkportal?</p>\n</li>\n<li>\n<p>Does ERPNext provide a direct API integration with the GST Portal for ISD reconciliation?</p>\n</li>\n<li>\n<p>If direct integration is not available, what is the standard method (JSON upload, offline tool, third-party integration)?</p>\n</li>\n<li>\n<p>Can ERPNext reconcile ISD inward invoices with GST Portal data automatically?</p>\n</li>\n<li>\n<p>Is there support for automated mismatch reporting between ERPNext and GST portal data?</p>\n</li>\n</ol>\n<hr>\n<h3><a name=\"p-495455-gstr-6-filing-reporting-3\" class=\"anchor\" href=\"#p-495455-gstr-6-filing-reporting-3\" aria-label=\"Heading link\"></a>GSTR-6 Filing &amp; Reporting</h3>\n<ol start=\"11\">\n<li>\n<p>Does ERPNext support generation of <strong>GSTR-6</strong> return in the prescribed GST format?</p>\n</li>\n<li>\n<p>Can GSTR-6 JSON file be exported directly from ERPNext for portal upload?</p>\n</li>\n<li>\n<p>Does ERPNext auto-populate GSTR-6 data from Purchase Invoices marked under ISD?</p>\n</li>\n<li>\n<p>Is amendment handling (GSTR-6A vs GSTR-6 reconciliation) supported in ERPNext?</p>\n</li>\n<li>\n<p>Are credit distribution records automatically reflected in GSTR-6 reports?</p>\n</li>\n</ol>\n<hr>\n<h3><a name=\"p-495455-compliance-reconciliation-controls-4\" class=\"anchor\" href=\"#p-495455-compliance-reconciliation-controls-4\" aria-label=\"Heading link\"></a>Compliance &amp; Reconciliation Controls</h3>\n<ol start=\"16\">\n<li>\n<p>How does ERPNext handle ITC distribution ratios across branches?</p>\n</li>\n<li>\n<p>Is there validation to ensure CGST/SGST/IGST distribution compliance as per GST rules?</p>\n</li>\n<li>\n<p>Can audit logs be maintained for ISD credit distribution?</p>\n</li>\n<li>\n<p>Are there built-in reconciliation reports between books and GST returns?</p>\n</li>\n<li>\n<p>What are the limitations of standard ERPNext regarding ISD and GSTR-6 compliance?</p>\n</li>\n</ol>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/yo_fun/{size}/92777_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 23,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 2,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

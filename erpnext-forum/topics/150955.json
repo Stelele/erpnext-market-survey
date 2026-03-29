@@ -1,0 +1,51 @@
+{
+  "topic_id": 150955,
+  "title": "Printing out Filters applied in Report Builder Reprots",
+  "slug": "printing-out-filters-applied-in-report-builder-reprots",
+  "category_id": 26,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-07-31T09:42:53.830Z",
+  "last_posted_at": "2025-07-31T09:42:53.978Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/printing-out-filters-applied-in-report-builder-reprots/150955",
+  "views": 21,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "hl328",
+  "posts": [
+    {
+      "id": 475887,
+      "username": "hl328",
+      "name": null,
+      "created_at": "2025-07-31T09:42:53.978Z",
+      "cooked": "<p>Hi,</p>\n<p>I need to print out the filters I applied to my report builder reports such as date / period applied, or item status applied.</p>\n<p>Not printing out these information is causing a lot of misinformation.</p>\n<p>Any one has succedded in this?</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/h/258eb7/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 8,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

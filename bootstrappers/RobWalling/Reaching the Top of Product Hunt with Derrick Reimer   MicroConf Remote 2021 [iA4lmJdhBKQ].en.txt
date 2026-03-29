@@ -1,0 +1,1641 @@
+﻿[Music]
+my friend derek reimer
+co-founder of drip founder of savvycal
+savvycal.com he's going to be talking
+next
+and he's gonna be diving in to his
+product hunt launch he has prepared some
+slides for us with
+intricate detailed numbers and um
+i'm really looking forward to it and
+it's you know we're gonna have a little
+conversation don't be surprised if i i
+interrupt him now and again with some
+questions and if you have questions
+we will be answering them he'll he's
+going to talk for about 15 or 20 minutes
+and then we're gonna have uh five to ten
+minutes of q a
+at the end if you want to find out uh
+you know if you have anything that you
+feel like wasn't covered
+in the talk so with that let's give a
+warm micro cuff remote welcome to mr
+derek grimer
+how's it going hello thanks for having
+me absolutely
+it's great to uh you know you've you've
+been on the microcomp stage with me
+you've been on startups for the rest of
+us microconf on air
+and i feel like you're you're rounding
+the bases you you got that what's it
+called hitting the cycle
+where you hit a first second wait a
+single
+i'd basketball is not my not my
+yeah no it's great to have you on here
+man so um if uh
+producer xander aaron if you can pull up
+derek's slides derek you have your slide
+advancer already
+i do i think it will work let's see cool
+so
+i'm gonna let you yeah i'll let you take
+it from here and obviously i'll
+interject
+uh as i said as i have questions sounds
+good feel free
+yeah so yeah i'm excited to be here um
+thanks everyone for
+for coming out and um i'm excited to be
+talking to you about
+kind of our journey with savvycal to
+reaching
+kind of the top of product hunt this
+last january some of the lessons we
+learned from
+um from that whole process and how we
+thought about
+kind of orchestrating the launch the
+timing of it and so on
+so excited to be here talking about this
+um
+just real quick a little bit about me
+we've touched on most of this already
+but
+i'm a full stack product creator i've
+been kind of doing the bootstrapped
+sas thing for about 10 years now um
+co-founded drip alongside the one and
+only rob walling and now i'm working on
+savvycal
+and you can hear me weekly on the art of
+product podcast
+where ben and i kind of talk about
+what's happened in the last week in our
+businesses
+and kind of working in public and i've
+also i think i've been to every single
+us-based microconf except for the first
+one so
+um always always love interacting with
+folks at microconf and
+can't wait to see you all in person when
+uh in-person events are
+are a thing again so the record doesn't
+think you were like 12 years old
+when the first microphone somewhere yeah
+that's
+that's that's not not too far off i
+think i was fresh out of college and
+very fresh in many ways
+all right so we'll kick this off with
+kind of just
+talking through some numbers from the
+savvy cow launch and then we'll kind of
+dig into
+to some of the details about um about
+how we got there so
+january 7th the product went live
+and in the time since then we've
+accumulated close to 2
+000 upvotes about 256 comments on the
+common thread
+we got number one product of the week
+and number two for the month of january
+and this ended up driving about 10
+000 unique visitors to the site around
+registrations for the product and that's
+that's free signups without a credit
+card
+and then you know certain percentage of
+those have converted into trial and then
+customer
+and that has resulted in about a four
+thousand dollar bump in mrr
+um and so suffice to say i was extremely
+blown away by this
+i mean um first of all you never know
+what to expect
+with uh with a launch like this you know
+it's where
+a website that's effectively a
+popularity contest of sorts
+um you know obviously there are things
+you can do to to help increase your
+chances for success but
+uh definitely didn't expect this and so
+um
+you know just goes to show how you got
+to kind of
+take on some of these uh some of these
+things and and not everyone's going to
+work out but some of them might
+and so you know kind of got to put some
+gas in the serendipity engine and
+and um and see what you can make happen
+yeah i think there's there is a lot of
+probably warranted skepticism around the
+hacker news or the product hunt launch
+because of the fact that it is it's it's
+i like to do repeatable things that work
+every time or most times you know and
+and these don't however they're
+repeatable enough you know because if
+you get one out of ten two out of ten
+like this is
+i mean 4 000 mrr for a lot of folks i
+mean frankly if you're living
+anywhere that's you know not that
+expensive that that can be wrong with
+profitability plus plus
+right away so yep i'm uh super excited
+to hear
+hear more about it yeah totally and i
+mean
+along those lines like this is the big
+caveat anytime i talk to anyone about
+product hunt you know it's um
+so much of what happens on there is
+beyond your control so you never know
+you know who else is happening to launch
+that day and going to kind of take
+um you know take take most of the
+attention um
+you don't know what's you know maybe it
+maybe your product doesn't end up
+resonating totally with the product on
+audience and that's
+that doesn't necessarily mean that uh
+that you're not building the right thing
+it just means
+maybe it's not a great fit for the
+audience or um you know maybe it's
+maybe it's a little too niche and that
+niche just doesn't really have a
+presence there so there's a lot of
+things
+um kind of kind of what you alluded to
+robin you're in your opening you know so
+many different
+variables and product hunt is no
+different and so
+it's important to to manage your
+expectations and think of this as just
+as just one kind of marketing experiment
+and
+it may have great results may not but
+still
+still a worthwhile thing to to do yeah
+and to give folks an idea i have
+personally posted 14 projects to product
+on i'm just looking at my dashboard
+right now
+and one of yeah one of the lowest
+upvotes let's see tiny seed when we
+launched got 11 up votes
+um start small stay small got 19 upvotes
+that was
+that was you know years later after it
+was published yeah but i think one of
+the the highest
+upvotes are it looks like i posted
+startups within the last couple years
+and i got about 430
+and then when we launched the video
+vault we got 330. so i know you got way
+more than that but that gives you an
+idea like of 14
+um even you know for for someone with
+with reach like myself i think it's
+it looks like about a 30 success rate
+that i would you know that got in the
+triple digits of upvotes and probably
+drove uh substantial traffic for us
+yeah and i i should say like be you know
+i've done a couple not that many
+launches but a couple
+other products um code tree was the
+other main one that i did back
+in i think it was 2015 2016
+and um and that one if i recall it got
+like 130
+up votes and it felt i mean it was for
+the scale
+of the community at the time and and um
+you know the scope of the the project it
+felt like a
+good success but it was also felt a
+little bit like different different
+times back then where
+other people would hunt other people's
+products more and it was kind of this
+this more organic thing and now i mean
+like like most of these types of
+platforms it has become
+much more um you know curated i guess
+and like there's people are put a lot
+more attention generally into
+you know carefully orchestrating their
+launches which is not a bad thing and
+that's
+that's what we're here to talk about
+today but yeah it is interesting how the
+the the platform has evolved um uh
+pretty much over the last 10 years i
+think it's been around so yeah quite a
+while so yeah
+hey i do want to i do want to pop in
+with one question i think if a bunch
+come through i won't keep derailing you
+but
+i think it's it's uh warranted to ask
+now because you just talked about that
+mri 4000
+mrr bump the question is from justin
+histoner justin kistner in the microcomp
+remote channel of
+our connect slack and he says how long
+did the mrr continue to flow
+in after the launch are you still
+getting customers from it
+yeah there's definitely been an effect
+of
+um so we got
+obviously a big big bump the day of and
+then i'll kind of touch on this a little
+bit
+uh later in the talk but like an even
+bigger bump when i got
+mentioned in the newsletter and so that
+the bulk of the traffic came
+in that time and it sort of gradually
+tapered off over time but we sustained
+close to 100 trials in the pipeline for
+a couple of weeks
+after that and most of those were kind
+of driven from product tons so there
+definitely is kind
+of a a reverberating effect and it has
+gradually kind of tapered down and
+of course attribution's really hard so
+it's hard to know um
+you know whether it's now a result of
+product hunters just sort of like
+um you know other people have heard
+about the product and are starting to
+use it and spreading it
+um it's kind of a tricky story to to
+pick apart but i think
+yes definitely like um we've had kind of
+continued growth off of the you know the
+momentum
+from product the last couple of months
+um awesome yeah so yeah so so kind of
+just a loose road up what we're going to
+talk about
+uh first thinking about like timing when
+to actually put your product on product
+hunt
+some things you can do to build a little
+bit of momentum leading up to it
+um what you can think about in crafting
+your post um
+some of the bits of bits of data you're
+gonna want to have there
+um what to what to expect on launch day
+and then some things you can do post
+launch to kind of
+to leverage any momentum you've built
+there
+all right so yeah first of all timing um
+so i think a mistake that a lot of
+products make is
+putting your putting your product up on
+product on a little bit too
+early um because you know
+there's there's some things you want to
+have in place ahead of that to really
+give yourself the best chance for
+success so
+you know if you're if you're a brand new
+product and you haven't launched yet to
+the world hopefully you're building a
+pre-launch email list
+and that's important for many reasons
+but in this context you know that's a
+list that you will want to definitely
+reach out to
+um ahead of your launch and on your
+launch day to say hey come you know
+people are discussing our product and
+come share your thoughts about it and
+and show your support um and so that's
+that's an asset you'll want to have
+um you'll want to have real customers
+using
+the product so you know we we thought it
+was savvy cal we thought about it as
+like
+um you know let some early access
+customers in in the summertime couple
+months later do a gradual launch to
+opening up public access in september
+and then we decided to put it on product
+hunt in january so we kind of spaced it
+out
+over you know four to six months and by
+the time we landed on product hunt
+we had a nice solid base of customers
+who
+were you know have become fans of the
+product and we're very happy to come and
+drop reviews on there and um and really
+genuinely say nice things not just
+you know not just your friends who will
+say nice things about your product
+as a favor but but real customers um and
+that's that's an important thing to have
+um and then the third thing is is doing
+some work on your positioning
+uh this is always a work in progress for
+any
+any company really but i think um
+you can really do yourself a service if
+you have a clear
+clear statement about who the product is
+for
+who's going to really care about and why
+they should care
+i shout out to april dunford's book
+obviously awesome she has a great
+framework in there for kind of mapping
+out
+you know different customer segments
+that could be using your product and
+ways to craft your positioning and
+messaging around that
+and if you have a really clear story
+there then it has a better chance of
+resonating with people otherwise things
+can get a little bit mired in the
+comment threads i've had this
+i've seen this happen before where
+people are confused or like what
+how is this different than major
+competitor x
+and for us that was because savvy cow's
+in a competitive market that was a big
+thing we made sure to have
+um competitor comparison pages ready to
+go
+so if those questions came up we could
+just share it and kind of have a once
+and for all answer
+and uh and so once you have those things
+then it's a good time to think about
+posting a product on i have a question
+on this slide from tony from
+cloudforecast he says how big was your
+customer base
+that helped you launch on on product
+hunt so you know i'm i'm guessing how
+many
+paid and or free users did you have at
+that time and then how big was your
+pre-launch
+email list um yeah so i think the
+pre-launch email list was
+around a thousand people and
+i believe i had i should have this
+number written down but i think it was
+around
+200 customers um using the product so
+a couple couple thousand in mrr and um
+and about a thousand people on the
+on the pre-launch list and so i had
+already marketed to that list
+obviously to when i opened it up in in
+september
+um but you know so only some of those
+had converted
+so um yeah that kind of gives you a
+sense
+all right
+so building momentum so you know it's
+it's
+pretty simple um the the the road map
+that we followed for this but basically
+about a week ahead we mentioned it on
+social media
+um i kind of do the build and public
+thing on twitter a bit and that's
+that is where my a lot of my customers
+right now you know founders and
+and um people in the startup space are
+hanging out all the time so
+it happens to align pretty well with um
+with the savvy cal business
+so you know posted posted about it there
+to to let people know in advance
+and um sent an email to customers and
+the launch list letting them know
+and also um like rob was mentioning
+before you know the concentric circles
+reached out privately to people in my
+network to also give them a heads up
+um because that's that's kind of a group
+that you really will want to
+to deliberately recruit on launch day to
+uh to help you out
+and make sure that you're getting the
+initial the initial lift to get your
+to get your post uh going uh with some
+traction on product hunt
+and so really the goal here is just to
+just to let people know and let them
+know that you'll
+appreciate their support um of course
+you're not soliciting up votes
+because something you should need to be
+careful about we'll talk a little bit
+more about that but
+um but yeah just giving people a heads
+up
+all right so next we'll talk a little
+bit about crafting your posts
+and this is some um some actual text
+that i used
+in in mind to give you a sentence so
+i'll say the name of your product and a
+tagline that
+something that could basically fit well
+as an as an h1
+on your marketing site uh the
+description a little bit more
+uh but not too long uh for the website
+we created a specific landing page
+um just savvy telecom slash product hunt
+and i think i got a screenshot of that a
+little bit later but
+basically a copy of our home page with a
+banner on it that said you know welcome
+product hunter just something a little
+bit personalized and that helped out
+with uh with kind of just tracking you
+know keep looking in
+analytics and seeing how many people had
+landed there first
+uh kind of it's just an easy way to get
+a sense for
+for how the listing is doing some people
+also like to give a
+a special discount or promotion you
+could obviously throw that on
+on that page as well we decided not to
+but
+i think that's certainly something you
+could consider
+i did record a brief video demo and
+um so basically you have to upload it to
+youtube and then product hunt allows you
+to
+paste in a youtube link and they feature
+that kind of as the first
+um the first thing that people see when
+they look at your post
+and it auto plays and so the kind of the
+approach we took was
+you know 60 to 60 to 90 seconds of
+you know a very personalized video for
+product hunt so like started out with me
+my sunscreen product on um
+thanks for checking out savvycal here
+are some of my favorite features of the
+product that i think you're really going
+to love
+and i just kind of highlighted some of
+the most um
+the most compelling features that i
+thought you know this this kind of
+community of people who are early
+adopter
+types would really appreciate and um
+and i think that really that really
+helped us get lift and then
+um that was pretty highly produced sorry
+yeah was that
+highly produced uh with music it was
+just kind of
+it was not yeah so i just
+you know turned on screen turned on
+screen flow and uh had my little face in
+the corner
+and intentionally kept it like kind of
+low fidelity you know wanted it to feel
+um feel pretty personal i think that
+that tends to
+that was a piece of advice that i was
+given like doesn't have to be highly
+polished
+um in this case and so even you know you
+could even do a loom video
+um i happen to need a screencasting
+software but you know either one
+either one would work um
+yeah and then and then a handful of
+product screenshots that i sort of
+stylized a little bit
+but mostly just kind of demonstrating um
+some key parts of the product
+um you'll wanna pay attention to the
+to the sizing of i think it's 1270 by
+760 pixels and that way they won't
+truncate
+or like clip off the edges of your of
+your images
+okay and then you also want to write
+kind of your first comment
+um from you as the maker and you want to
+post that
+um on launch day as soon as your post
+goes live you want to
+make sure to put that out there and
+ideally it kind of
+it'll get the most up votes just as
+being the the first comment from the
+maker
+and so that's sort of your message
+to see the discussion thread and it'll
+kind of be pinned there at the top
+and sort of the structure we followed
+was you know hey i'm derek founder
+savvycal
+you may know me from you know drip or
+whatever just a little personal anecdote
+there
+and then kind of stating the problem and
+you want this to be kind of really tight
+copywriting so we used bullet points and
+and
+you know make it pretty skimmable um
+and then and then you know stating the
+solution and the call to action is let
+me know what you think
+and so you're just trying to be you know
+very
+um very open to people
+you know discussing and that's kind of
+the posture you want to have um
+on this to to encourage people to uh to
+drop a comment
+quick question derek from pablo
+fernandez i believe the answer is no but
+he said did you use
+product hunt ship and i had to google
+that because i didn't even know what it
+was
+it's like a yeah i don't know is it
+something you pay for i mean i was
+it's like you can enter your email and
+they'll it's it's widgets
+and stuff to help you get more traction
+with your a toolkit for makers to ship
+awesome products but i don't exactly
+understand what it is
+oh yeah i guess it is it's a monthly
+subscription so did you use that at all
+yeah i we did not so um so you see i
+think
+part of the ship thing is like those
+upcoming pages that people will post
+like as kind of a
+replacement for a pre-launch landing
+page or something um
+so one thing that i considered doing
+and um actually corey corey haynes who i
+work with on
+marketing stuff basically told me i
+didn't need to worry about this too much
+um
+but i was a little concerned that that
+my posting would get scooped you know
+that someone would
+would uh would post it before the day
+that i
+officially plan to launch on product
+hunt which is always a risk because
+anybody can
+can just post any product that they want
+on there um
+and and i think that ship has something
+in it where you can technically like
+like lock it in and prevent someone from
+doing that
+um but corey's take on it was that you
+know the product on team is actually
+very
+um willing to work with people on this
+so like if someone does that and you
+were planning a launch coming up you
+could just kind of message them and say
+hey
+we're planning to launch it on this day
+can we can we take this post down for
+now
+and i think they're willing to work with
+you on that because ultimately they want
+they want you know you to have a big
+splash too it only
+benefits them to to have these really
+well executed launches on their platform
+and not
+you know catching makers um flat-footed
+so so yes we decided not to not to use
+any of that
+um ship stuff
+sounds good what's next
+all right so just a quick uh big little
+screeny shot
+of uh of our listing uh so you can see
+that the
+demo video this is what shows and it's
+auto plays right when you see it
+so that'll be right there and then your
+product screenshots
+i have just kind of a little array of
+them here
+i just put little captions at the bottom
+seem to work
+pretty well
+and this is what our uh landing page
+looked like a little banner at the top
+um kind of tweak the call to action a
+little bit to say you know claim your
+username to
+imply a little bit of just a little bit
+of fomo perhaps
+all right so leading up to um leading up
+to your launch is kind of a pro tip
+um it's not absolutely necessary but
+it potentially is beneficial to recruit
+someone who has high reputation on
+product hunt to hunt your
+product for you and i think this used to
+be an even bigger factor in the past and
+you know this is one of those things
+where like
+the product on algorithm no one really
+knows on the outside what's going on
+entirely in there um but sometimes
+people do have
+have issues you know some like the
+product will be
+on there for a while and then just kind
+of get pulled off the main page for some
+weird reason and just
+weird things can happen sometimes so um
+so this is one of those things like it's
+it's not guaranteed to help but it
+definitely can't hurt
+um if you you know you ask someone like
+a like a heat and shaw he's very um
+he's a very helpful guy um and uh he
+agreed to post ours
+for us and um he's hunted probably
+thousands of products
+a point um and the nice thing is it can
+hunters can schedule i think a few hours
+in advance
+so they don't have to be too
+inconvenienced to like
+click the button right at midnight um
+for you
+did he have to post all of your assets
+did you have to send the video
+and all the images and everything to
+them in order to get that to work yep
+yep oh wow okay so there is some work on
+the hunter's part
+there is yeah there's a little bit of
+work so make make their job easy you
+know that that stuff i outlined like all
+those
+um all those pieces of metadata you want
+to make sure to have it you know very
+easily copy and pasteable for your
+hunter um
+and so i think we maybe had like a
+little dropbox folder or
+like a google drive folder or something
+that had a dock with all that
+information
+and you know all of the images named one
+two three four five so they you know
+what order to post them in and
+uh yeah make their make their job easy
+for them but they do have to do a little
+bit of legwork on that
+another question from an audience member
+is did you already have a relationship
+with your hunter
+or did you reach out to him just for
+this launch
+yeah so i um i kind of heaton shah
+is in the tiny seed mentor network and
+actually corey had a relationship with
+him as well
+um and corey did the did the outreach
+for me so
+um you know i'm i'm not gonna
+say that i'll volunteer he to uh to
+launch anyone's
+product but i think he's he's a
+particularly helpful guy and i think a
+lot of the the kind of
+people who do a lot of posting on
+product hunt are um
+generally speaking uh very willing to
+help um if a
+if a founder kind of cold reaches out to
+them and and uh
+you know makes a good first impression
+yeah and microconf itself
+is a connector right because i know when
+folks reach out to patrick mckenzie or
+hayden shaw
+or steli efti or jason cohen or i mean
+the list is on and on you look at pretty
+much any microconf speaker
+if you say i attended microconf i've
+seen your talks um
+and and can you give me advice or can
+you hunt my product or can you know can
+you do whatever yeah
+they are usually quite willing to do it
+because the the community is
+is so strong so i would use that as a um
+just as a point of connection is all it
+is right it's like oh i you know i
+i'm in the community and so are you so
+awesome
+yep what's next cool so let's talk a
+little about launch day
+so a couple hours before and and so
+launch day officially starts by the way
+at
+midnight pacific time that's when
+product deems it's the next day
+and so to increase your chances of
+accumulating the most up votes you want
+to post
+you know right at midnight um and so
+a couple hours before that that midnight
+time you want to
+make sure to to announce it on social
+channels hey this is
+this is coming and uh give people a
+little bit of anticipation there
+and then you know right at midnight some
+it's product hunt and like i said you
+the hunter can whether it's you hunting
+or someone else on your behalf you can
+should be able to schedule that in the
+product interface a couple hours in
+advance
+i kind of was on the fence on whether i
+was going to stay up in the middle of
+night because this is
+2 2 a.m central time
+and i think my internal clock naturally
+woke me up
+i was asleep for a few hours before that
+and um
+[Music]
+and so yeah it's it's an exciting time
+you know when it goes live and
+usually i saw a little bump in um
+in comments and upvotes and um
+definitely
+spent spend about an hour so um tending
+to that thread before catching a few
+more hours of sleep
+um but yeah so submit submit to product
+hunt
+um schedule an email announcement to
+to your customers launch list post i
+think indie hackers
+has a specific like product hunt
+category so you can you can announce to
+the community there
+uh microcom connect is a great place
+right any any slack communities that
+you're in
+like that we
+kind of just tried to make it anywhere
+where you could find me
+um all all roads pointed to that post
+for the day so i changed all my social
+bios
+um and just tried to try to drive
+everyone straight to that post out of
+linking directly to the savvy cal
+website
+you know driving everyone there and um
+yeah so i can show you this is the this
+is the tweet that we sent
+oops
+i think i double advanced let's see oh
+that's weird slides not in there
+that's okay so i have a couple
+screenshots
+yeah a couple screenshots of the the
+tweet and the email that went out
+and i'll um i can post this uh this deck
+in the in the slack channel or wherever
+it's best to put it so you can
+you can kind of see that uh that content
+all right so um you know early morning
+so as
+a couple hours into your launch um it's
+good to
+work your concentric circles a bit and
+uh privately message your friends
+and this is where things can be a little
+more you know as long as it's in private
+you can be a little more direct about
+your ask
+so of course you're you're asking for an
+upvote
+um it's good to have people
+you know write leave comments there and
+leave reviews so especially if they're a
+customer
+and and outline some pros and cons
+people
+can get a little skeptical if everything
+is positive all the time so it's kind of
+good to get a nice balance of like
+i love this tool because of this and
+maybe the tools not so good for you if
+you're
+if you're this then you know to to help
+people um
+get a sense for for why they should care
+about this product make their job easy
+um leaving comments up voting comments
+and marking things is helpful
+um is just it just helps helps the whole
+post get lift
+and um and of course reshares uh we
+shares throughout the day
+and so you know you as the yeah go ahead
+i was gonna say um upvote you can of
+course ask for uploads it depends on how
+you want to
+uh how you want to tackle it i know
+product says please don't ask for
+upvotes in public
+ask for support and that's there yep
+exactly
+you can text you know if you're just
+asking for updates and technically maybe
+you're gaming the system so
+you have to use your own internal
+judgment of hey if i'm going to if i'm
+going to be in a private slot channel
+and i'm going to message 10 of my people
+do you do you say hey
+you'd use your support here do you
+specifically say i could use upvotes
+it's
+you know you just again you have to go
+with what you feel comfortable with
+yep yep and i don't i kind of doubt
+anyone at
+that product hunt would would know or
+fault you for
+for doing you know a small limited
+outreach to your own friends i mean
+that's kind of a
+that's a given that that's going to
+happen but you definitely don't want to
+go to
+go too crazy with it um you know keep
+keep that height
+people know people know how to show you
+support so you can be
+you don't have to be too specific to to
+violate uh you know
+any any terms or anything like that um
+so yeah and then the biggest thing you
+can do is just you know throughout the
+day plan to not really get anything else
+done that day
+you know you stay engaged in the comment
+thread um
+you know people may people may have
+random questions that technically are
+already answered other places but just
+you know be uh be very kind and helpful
+and and show that you're not just you're
+not just dropping this over here and
+expecting people to to show you support
+without you
+engaging with them so just just be
+present
+so yes just a couple of do's and don'ts
+do make noise about your post
+on throughout the day so i we kind of
+had a loose
+plan of of you know at a couple points
+throughout the day i was going to
+post some tweet threads about you know
+hey here's
+we're on product you know just kind of
+mentioning that and then you know let's
+let's here's a little comparison between
+us and our major competitor
+or here's kind of the story the launch
+timeline of how we got to this place so
+just kind of
+you know um trying to keep it in front
+of people's radar
+not in a spammy way but just just you
+know
+um so that you're kind of having your
+day in in the spotlight
+on on any social channels where where
+people might be following you
+as well and yes
+don't uh again don't publicly solicit up
+votes
+and definitely don't buy up votes uh i
+think there's
+there was some interesting uh activity
+on some posts
+uh that that were on the same day uh as
+mine
+and uh where they were adding something
+like 100 votes
+an hour or something like that and it
+was i think something sketchy was going
+on but
+what actually interesting anecdote about
+that um
+later on um about a week later i think
+product hunt
+goes through and kind of calls any votes
+that were
+from bots or or potentially purchased
+and um and so you will see sometimes
+your vote counts get readjusted as
+as they do uh do kind of their cleanup
+in the background
+so
+all right all right so
+post launch um obviously thank your
+supporters for helping out
+um you can add your nice slick little
+product hunt badge
+um if you're if it's achieved the kind
+of success that you want to
+um that you feel like would be helpful
+to
+to show to people um so we threw this in
+our footer a little featured on product
+hunt badge with our
+account um and then we decided to add
+this little ps line to an onboarding
+email
+that goes out when someone signs up for
+the product first
+and because we we end up with 200 and
+something
+comments there it actually became a nice
+repository of social proof
+and people kind of um sharing their
+experiences using the product
+and and so similar to like you know
+those review sites
+um you know your product tent post can
+be a nice kind of
+repository of that and the nice thing is
+people will continue to upvote over time
+and that helps with with some of these
+distinctions like uh you know number one
+of the week number one of the month
+or or number whatever you know but it
+helps you helps you continue to rise in
+the ranks even past your
+your day in the spotlight
+two thousand votes man that's impressive
+that's a lot
+yeah yeah i i like i said
+totally blown away by that awesome
+we have a lot of questions coming in i
+think i have probably three or four more
+but i do want to hold off are you you
+just have a couple more slides
+just a couple more yep cool why don't we
+finish these out and then i'll start
+digging in i mean i think there's at
+least
+maybe somewhere between three and five
+questions that we can kind of start
+cranking through and other folks feel
+free to uh
+to adam i know you know we're going a
+little long we obviously started late
+um but in addition uh the you know one
+of the beauties of doing this live is
+that the questions are coming in and i'd
+love to be able to uh to go through
+those so
+keep going with this and then and i'll
+pop back in a couple minutes
+cool sounds good yeah so another thing
+that happened
+um to us is you know we
+we did really well on our day of we
+achieved the number two spot
+and what that meant was um we were
+selected to be featured in the
+newsletter
+um and so you know this is again one of
+those things completely beyond your
+control
+it's it's kind of the editorial staff at
+product hunt that makes these decisions
+um but we basically got notified like
+hey we're gonna we're gonna put you as
+the feature in
+in the newsletter and this ended up
+driving
+uh two times the amount of traffic as
+the initial launch day
+so that was that turned out to be you
+know kind of the real prize of the
+product hunt launch was
+was the newsletter feature because i
+think their list is i don't know three
+hundred thousand
+four hundred thousand like that um and
+so
+that goes to show the power of email um
+unfortunately is one of those things
+that you have very little control over
+but
+um but do be prepared um so
+that was the other thing you know tons
+of uh
+tons of support emails came in
+i kind of had a question a few questions
+in the initial onboarding email that
+goes out like hey how'd you hear about
+us and
+and why did you sign up and um
+definitely a lot of people took me up on
+that so i think i fielded
+uh somewhere around a thousand
+emails in the month of january just um
+as a result of
+the product on launch that shows you the
+here the traffic
+um on the seventh was launch day and
+then the eighth was newsletter day
+that's uniques versus page views there
+and so
+advanced one more time
+oh it's going to double it's going to
+double advance yeah back to the first
+slide
+can i wrap around let's see if i can do
+this yeah
+show must go on this is the best about
+live i can't wait
+i'm waiting for the dog to bark at the
+ups person i'm waiting for
+another kid to crawl in army style under
+the camera
+so you just want your last slide
+basically yeah
+yeah it's okay it's not it's not a big
+deal basically
+the last site is a thank you slide and
+before that are my two parting thoughts
+which are
+enjoy your time in the spotlight but
+also make sure to manage your
+expectations and
+and if it doesn't if it doesn't pop off
+like the savikow launch did
+it's not necessarily your fault and uh
+you know
+just uh all you can do is is your best
+at
+trying to set yourself up for success
+and um and just treat it like an
+experiment
+awesome and obviously this is one of
+those things i was talking about earlier
+that
+they don't scale but to to get 4k mrr
+right off the bat it's pretty pretty
+sweet
+all right so i i know we're running
+along i want to answer all these
+questions so
+um obviously if you have to to
+if you have a prior engagement you have
+to leave um this will
+be your video will be available to you
+as a microcomp remote ticket holder
+but let's dive into these questions
+circus that's a great it's a great story
+and i love how you set expectations of
+like hey this isn't gonna happen for
+everyone
+but this is what happens when things go
+really right i mean i think that's what
+i'll say is like you did a lot of things
+right yeah and you got a little lucky
+right there was there was both aspects
+to it because you can do everything
+right and get
+50 votes you can get a little lucky and
+get you know 2 000 but you you did both
+um question from uh chris engelhart
+he said what do you know your churn for
+the product hunt
+cohort compared to your average turin
+rate do you know how many dropped off
+after the first month
+even even at the ballpark that's a great
+question actually and
+and it's something that um
+i didn't have a great sense before even
+though we had launched and we had
+you know several hundred customers like
+i mentioned um the churn
+pre-product hunt was effectively zero
+like it was very very small
+and that's that's one of those artifacts
+of of
+early stage sas where you have mostly
+people who are a super great fit or from
+your kind of personal network and
+they're just very unlikely to churn
+and uh you know that doesn't last
+forever right so
+so i didn't have a good sense of what my
+actual churn rate was gonna be
+for the particular market segment that i
+was
+targeting but um you know that was sort
+of anxiously awaiting for the month
+following
+product hunt and churn was decently high
+i think we
+i think we had around 12 um
+for that initial month and things have
+started to taper off a bit we're below
+right now but it definitely is still
+higher than i would want it to be
+and so i'm kind of i'm keeping an eye on
+it and thinking about
+uh you know potentially tackling that
+weighing that against adding more
+features that a bunch of people are
+requesting you know
+wearing many hats but i am i'm curious
+to see how long this
+um you know if churn is going to drop
+off as kind of we get further away from
+the product hunt
+reverberation um from launch but uh time
+will tell
+very nice and santiago asks do you
+would you consider uh launching but i
+think it means you know submitting to
+product hunt
+again after a major integration or a
+major feature like let's say you
+integrate with zapier or you add just a
+huge
+you know member drip workflows right
+where it's like this really changes the
+app
+would you uh consider submitting to
+product 10 again at that point
+i definitely would yeah i think i think
+there is such thing as as too much
+um and corey had some experience with
+this actually
+um because he's formerly at bear metrics
+and i think for a while they were
+they were really kind of pushing hard on
+this every major feature they would do
+kind of a product on launch
+and you do end up kind of you can end up
+over taxing
+that channel a little bit and
+and i think product hunt doesn't want to
+see
+too many small features being being like
+promoted there you know but i think if
+it's something really big and meaningful
+like
+i'm building an outlet integration right
+now savvy cal which is gonna
+really open up you know at least 2x the
+addressable market that we have
+uh because this is another calendar
+integration i think that potentially
+could be a good one to um
+to try to craft a launch around so yeah
+i'm definitely planning to experiment
+um more and probably not more than a
+couple times a year at most um
+for this kind of thing so i'm thinking
+about it yeah give it and given how much
+effort it is i do think it's something
+that you want to use
+use sparingly next question would you
+say product hunt a product hunt launch
+is better suited for software products
+built for wide
+audiences do you think it would work for
+software serving a niche
+market yeah i mean my sense is that
+it definitely because it's just a very
+um undifferentiated set of
+people like it's a it's a very broad
+group so the more broadly appealing your
+product is
+the better chance it's going to resonate
+with with more people just that just
+logically makes sense you know so i
+think if you're building a
+uh software for construction contractors
+countertop installers whatever like how
+many of those people are going to be on
+product hunt very few compared to
+you know the the people who are in the
+market for a more general purpose
+scheduling tool for example
+so yeah i think i think your mileage
+will definitely
+vary a ton based on how niche niche your
+product is
+question from daniel he says have you
+ever tried launching to product hunt
+and thereby focusing the attention of
+your existing network there ie
+linking from your twitter or similar so
+that
+uh to get let me finish the question
+then i'll clarify i think to get more
+attention on product hunt by people who
+don't know you when you hopefully get up
+to up votes from your network
+i think what he's saying is actually
+launching your product on product hunt
+we're launching a feature on product
+time and instead of when you email
+saying hey come to
+savvycal.com and tweeting that out you
+actually send them to product
+instead now i know you did a product
+launch because you launched savvycal a
+few months earlier and then you did
+product
+launch decoupled from that in essence
+right right
+and that's how i would recommend it i've
+seen people try to do both
+and when you do both if you go all in on
+product hunt
+and it doesn't get the traction no one
+you get no visits to your website
+you get no conversions it's pretty risky
+to do that would you be in sync with
+that
+yeah definitely i think so and and you
+know the other advantage of
+of launching a bit in advance is having
+those real customer testimonials that
+people can actually leave you know your
+if your app's been kind of open to the
+public for a few months at least
+um that's that's super valuable um i
+think
+you know if it's the further away from
+vaporware that you are the better
+um right and yeah so like we we
+definitely drove
+like day of as the launch was going on
+you know pointed all links
+away from from you know the home page
+and straight to the product hunt page so
+i think for a limited period of time it
+makes total sense to do that
+i think for even maybe for like about a
+week or so after the launch we kept
+you know on the savvy cal twitter
+profile and on my twitter profile the
+the url was pointing to product hunt
+um but i would only do that for a pretty
+you know narrow scope of time
+yeah so again to reiterate if i would
+and i think derek and i are on the same
+page with this if i was launching a
+brand new product
+i would build my launch list i'd build a
+twitter following whatever and then
+i would launch to my own audience i
+would not involve product time at all
+and do the email do the tweet do
+whatever get everybody in
+like you said get the the testimonials
+and probably about a month later maybe
+two
+i would then do a product launch
+decoupled from the initial launch
+next question is product hunt
+recommended when your product is a tool
+or service that may
+include people who are familiar with
+product hunt
+but most of your customers might not be
+familiar with it
+or is everyone aware of product time i
+would say not everyone's aware of
+product
+especially especially depending on your
+niche i mean it's definitely it's a
+small subset
+of of our spaces but
+again the question is would you
+recommend product hunt when your product
+is a tool or service that may include
+people who are
+familiar with product time but most of
+your customers
+might not be familiar with product hunt
+i'm not sure yeah i mean i guess i guess
+the risk
+maybe saying like the um
+if it's if it's like a dramatically
+different
+market like i think i would i would
+suspect that a lot of
+people who are actively engaged with
+product hunt are more of the early
+adopter types
+and if you're building a product that
+is predominantly for people who are who
+don't spend a lot of time online and are
+not particularly early adopter types
+then you might be
+potentially opening yourself up to an
+influx of people who
+don't real aren't really a good fit
+anyways um
+and that's always the risk with with
+kind of dropping your
+dropping your product in a place where
+like um you know people aren't
+aren't necessarily the right type of
+customer um
+but i also think that when you're early
+on it's like it's hard to know exactly
+exactly how many potential good
+customers are in that audience
+who's to say you know you can't really
+know that for sure anyways so
+the risk is that you clog up your your
+support cues a little bit with people
+who are like
+expecting something different than what
+you're actually offering that's always a
+risk that you run
+but i think the benefits probably
+outweigh the risks in most cases
+excellent we just we're gonna wrap up
+here in the next couple of minutes we do
+have a couple more questions
+do you think a product hunt launch would
+be worth the effort for a b2c
+product business to consumer
+specifically
+a more niche to c product it's my answer
+to the first one is b to c
+yes probably um niche
+you know i don't know there's always a
+play with there what do you think about
+those
+yeah i mean i think a lot of b2c
+like apps seem to do pretty well i mean
+it's
+it's um just from
+from watching listings over time like
+the more
+um the more consumer grade a product is
+the the better shot it has
+at at kind of popping off on a on a site
+like this so if if you've really focused
+on
+you know simple mechanics and good
+design and something that
+that that a consumer would like those
+have a probably a better chance
+of of succeeding that's sort of that's
+sort of the
+the product approach that we've taken
+with savvycal is trying to really really
+um really nail a simple
+highly polished user experience um i
+think like the flip side is like some
+very specific line of business
+application where it doesn't actually
+it's like complex and doesn't look
+appealing but solves a very specific
+problem for for a niche like i think
+that's that's probably less likely to
+resonate with kind of a drive-by
+audience of people
+who are looking for hot cool new
+products if that makes sense
+indeed it does another question from
+tony at cloud forecast
+he says i know this is hard to attribute
+but do you know which of the channels
+helped with your product hunt launch
+the most
+it is okay i think yeah yeah
+i don't know i don't know because i do i
+mean i do quite a bit of the building in
+public stuff
+um because it it seems to be re seems to
+resonate with
+my potential customers when i share
+openly about stuff so i've been doing
+that for a while
+and you can't just you can't just start
+this overnight right it's something you
+kind of gotta
+you have to invest in that as a as a
+channel for getting people interested in
+your product but
+so i've been doing that kind of the
+whole the whole time so when i posted
+this on twitter
+it got a lot of lift it drove a bunch of
+traffic there i don't know how much
+traffic
+actually drove to the to the product on
+post um
+but i think i'm still very um
+very bullish on email as like uh
+probably the best
+the best way to communicate to somebody
+that hey i would like support we're on
+product hunt
+and sending that via email i have um
+probably i probably appreciate that
+channel a bit more than social which is
+more like
+is the algorithm going to surface my
+tweet to people or not who knows but
+at least with the with email you can
+land in someone's inbox so
+yeah yeah there it is all right two more
+questions
+uh one is from matt nuganawa and he says
+on balance it sounds like
+the product launch was a success for you
+relative to other things that don't
+scale where do you think it rates
+that's a tough one huh because i mean
+you know you compared to appsumo and
+it's like well
+hapsumo is certain to you know if you
+get accepted
+you're certain to get something out of
+it but there's also a risk there that
+you could cannibalize you know there's
+there's just risks there product hunt
+the risk is that it's just you spend a
+bunch of time and it doesn't work it's
+more of like an seo or a viral play
+where you're going to try to do you know
+a click bait thing around
+you know some news item and if you
+invest the time to write the ebook or
+write the
+um the blog post or whatever and then
+nobody picks it up
+you know then then you've wasted time
+yeah i guess like yeah and think of in
+terms of like
+time investment versus potential return
+um we probably spent i don't know
+between me and corey maybe like
+eight hours or so kind of writing
+writing the copy
+creating the screenshots recording the
+video
+um talking to heaton recruiting our
+hunter you know
+um and just kind of outlining the launch
+process and coordinating that
+so it was you know it was a decent time
+investment but not like
+it's not like we were spending weeks on
+this trying and it was
+that was intentional too because i was
+like this could this could go absolutely
+nowhere so we want to
+want to not over invest in it too much
+and
+so it's it's probably more investment
+than like trying to write a
+a catchy manifesto that you try to get
+you know lift on hacker news or
+something
+right a little bit more than that but
+but certainly like
+an appsumo launch for example like that
+um
+that could potentially create an
+enormous support burden then you have to
+kind of
+increase you know staffing for that and
+um
+yeah there's a lot that i consider
+something like an afsuma launch is
+is um potentially a lot more disruptive
+or
+takes more time investment than than
+product
+as an experiment very nice and our final
+question
+for your keynote session for matt gale
+he says what made you decide
+to not include a promotion or launch
+deal with your product hunt launch
+yeah that was just sort of a call that
+we made
+i think because because it's already a
+decently low priced
+product and really i was trying to
+optimize for getting revenue in the door
+so
+i mean you know something it's always in
+the works than in
+in the plans to potentially experiment
+with freemium or experiment with
+you know deeper discounts or affiliates
+and that kind of stuff but
+um early on i especially my mindset
+you know end of last year as i just was
+having my first couple hundred customers
+was that
+no i want to just i want to propose this
+to this
+to this community and i want only people
+who really
+are interested in value the product and
+to pay the price tag that i'm charging
+everyone else
+um that's those are the people that i
+want in the door and so i was a little
+worried about
+um overly incentivizing people by making
+it really cheap
+um and potentially just seeing a bunch
+of churn or a bunch of
+kind of poorly fitting customers i guess
+um
+that's sort of how i was thinking about
+it
+derek reimer sir thank you so much for
+joining me today folks can
+find you on twitter at derek reimer and
+of course savvycal.com
+if they want to see the magic you're
+building thanks for sharing your
+knowledge yeah and
+i have a special discount for microconf
+um attendees so you go to savvycal.com
+microconf it's a coupon code there 20
+off your first year
+oh i'm going to go sign up for that
+right now i'm already a second cal user
+derek's like don't do that yeah awesome
+new customers only of course awesome
+well thanks
+thanks for that man thank you
+you

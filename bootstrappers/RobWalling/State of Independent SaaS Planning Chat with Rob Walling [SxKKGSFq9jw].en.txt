@@ -1,0 +1,949 @@
+﻿[Music]
+welcome to today's episode of microconf
+on air i'm your host rob walling usually
+every other wednesday at 1 pm eastern 10
+a.m pacific we live stream for about 30
+minutes we haven't been
+live streaming for about the past five
+weeks i think because of microconfs we
+had four in-person events in four
+different cities which is pretty pretty
+amazing but on the show we cover topics
+related to building and growing
+ambitious sas startups that bring us
+freedom and purpose and allow us to
+maintain healthy relationships so
+welcome back i'm excited to be here it's
+uh it's fun to be
+back on the microphone today i'm going
+to be talking about a state of
+independence
+the state of independent sas we're going
+to
+talk about how we're planning um
+for it and frankly
+ask for thoughts from you the the live
+stream listeners slash audience
+um about what we should do differently
+and
+you know maybe things that we've done
+well and things that we could improve or
+just questions that you have that you'd
+like to see answered
+in the state of independent sas because
+we created this
+two years ago well three years ago now
+so we've done two of these state of
+independence sas surveys and reports
+if you go to state of indie sas.com
+you can view the full report
+and download it and see i mean i think
+it's 75 80 pages it's several hundred
+person hours to do this um and we don't
+charge for it we don't charge to
+download it i believe maybe there's an
+email gate on it but we don't charge
+people who take it we don't charge for
+the data this truly is
+something that we wanted to put together
+for the bootstrap and mostly bootstrap
+sas community that we we put all of that
+that cumbersome phrase bootstrapped
+mostly bootstrap under independent right
+so independent task companies are those
+that um either are fully bootstrapped
+maybe have raised a small amount of
+funding but really
+haven't gone on the venture track where
+suddenly um you usually find yourself
+not being as in control of your of your
+company or your trajectory or your
+destination right
+so
+we have had a great response to this um
+i believe we've had
+more than across the two reports we've
+had more than 2000 sas companies
+respond and give data our data analysts
+have told us that by the time you get up
+even to i think it was like 500 to 800
+like you have really statistically
+significant um information and
+so that's why we put it together and we
+put it together really to help because
+there's a ton of these for
+venture-backed startups and i frankly
+and me and the rest of the microcof team
+kind of got tired of opening a report
+and then saying yeah this doesn't apply
+to me though like this doesn't apply to
+independent sas companies bootstrap sas
+companies um the numbers are all
+different when you have 10 million in
+the bank the market sizes are different
+you know the the head counts just all
+that stuff it's it's it's so different
+um you know they're 70 the same maybe 80
+but like this covers
+all of it and gives you an idea of of
+um
+of that so
+we the the survey itself if you haven't
+taken it um we're going to be you know
+launching it here in the next couple
+weeks we really appreciate if you have a
+sas company doing at least one dollar in
+mrr we'd love for you to take the survey
+and um that helps us get good data that
+we can then distribute and help all of
+us understand this space a little better
+so
+if you are interested certainly if you
+have questions post them in the slack
+producer xander is is in there taking
+notes um if you want to come on the show
+right now the live stream and you know
+come on as a video with your video and
+just ask me a quick question or we can
+talk for a minute or two about it um
+well i'd like to keep it on topic you
+know of the state of independence as
+report uh please feel free to if you
+post in slack i think xander can
+dm you a link to get into uh stream yard
+here which is what we're using for this
+um
+i have some good comments coming in from
+youtube
+so
+we have let's see we've had a couple
+comments from the slack already and then
+i'll keep talking about why we do it and
+what's what's in the report and such but
+um
+tony asked who is using code versus no
+code
+that would be an interesting question to
+ask i'm
+i'll think about that i'm concerned that
+you know it's like one percent no code
+and because that's probably gonna be a
+really small number um of sas companies
+but i i am curious and so if we can fit
+it in it's always about we always wind
+up cutting i don't know 10 to 15
+questions right at the end things that
+we do want to know but we just don't we
+don't want to have everyone spend 20
+minutes filling out a survey right most
+people get it done in about eight
+minutes if you know your numbers five
+five to eight minutes um and if you have
+to look some stuff up maybe it's 10 to
+12 but we like to keep it under that 10
+minute mark so
+i like that it's it's a topical thing
+and that's something producer sandra and
+i've been talking about
+is
+what are the things that have changed in
+the last year or two
+that wouldn't have been on the surveys
+and no code is one right because that's
+like a new
+it's a newer it's been around for a long
+time but it's a newer named movement
+that people are getting behind and so i
+could see that being pretty helpful to
+know
+uh spencer asked or he indicated i'd
+like to see where founders are located
+on a map view i agree
+i would love to do this so we tried to
+do it the first year and there were 342
+different cities
+and so
+it got really muddy and complicated um
+it's not like that's one thing like with
+venture capital
+i think it's like 80 of venture capital
+in the united states is in like four
+four cities or five cities or something
+and that's not how independent sas is
+we're distributed all around the world
+and the you know there's 340 something
+cities where people are located and the
+number one city
+had less than had like four percent of
+the company so it isn't even like it's a
+it's truly a long tail and there's no
+fat head is the expression there's no
+it's not like the top one has 80 and
+then it's it's distributed it's like top
+one at four percent i mean it's just all
+over the place so it makes it a bit
+challenging to have a map view but
+we did
+then
+i think we did the top 30 or something
+and we plotted them on a map and that
+was manageable um but it's kind of weird
+to cut it off so anyways all that said i
+want to see that too and i'm hoping that
+this year uh that we can make that
+happen in some form or fashion
+i also wanted to call out producer
+xander just reminded me we hit 10 000
+subscribers on our youtube channel
+youtube.com
+microconf if you are not subscribed you
+should hit that bell
+and we are putting out live streams
+couple times a month we're putting out
+uh you know new talk videos um i'm going
+to be recording some short tutorial
+videos it's all kinds of cool stuff that
+we're putting there so youtube.com
+congratulations uh to us on hitting 10
+000 subscribers we launched it in
+february of 2020.
+right before
+covet hit so it was kind of fortuitous
+anyways because then people had a bunch
+of time to be able to watch videos and
+that was um in 18 months to get there
+i feel pretty good about that
+all right
+do you have other questions
+feel free to post them otherwise i'm
+going to be talking about state of
+independence as report because this is
+something that i had wanted to do for
+probably six or seven years but it i
+wanted to do it well right it's it's
+like i said hundreds of person hours and
+so we needed budget to be able to
+uh construct the the survey itself um
+we needed a good enough distribution we
+did a big enough list which microcof now
+has but it really didn't have five years
+ago um to be able to to get enough
+founders to make it
+significant because if you get if you
+get 70 founders to respond it's it's
+just kind of weak data you know i think
+uh
+probably well i don't know what the
+number is maybe 3 400 is probably the
+you know the smallest i would want to um
+to have
+um statistically significant
+uh information
+so some of the things that we ask about
+that i think are pretty interesting if
+you're a
+um sas founder it's questions like
+people ask you know should i have a
+credit card up front um should i have a
+free trial should i have a freemium
+model
+how long should i
+expect for my
+adwords or my pay-per-click to pay back
+right how many months
+and those are the kinds of things that
+we're asking and so you can go in and
+you can see how what percentage of sas
+companies independent sas companies have
+a free trial have a freemium plan um
+uh you know ask for credit card upfront
+and what we've seen actually it's cool
+to have two years now and we're gonna
+have a third year is we're starting to
+see
+changes over that time where
+more companies are having they're moving
+the free line more companies went
+freebie
+fewer companies were asking for credit
+card than the year before more companies
+have a free trial and so you know i
+think as things become more and more
+competitive
+you want to own the lead earlier right
+you want to own the lead sooner um that
+winds up i think that's what's driving
+that but i'm curious to see we only have
+two data points now and
+as you know
+uh you know through the more the more
+years that we can watch this um
+you know we can figure out if this lines
+up kind of with
+my intuition or rule of thumb because
+there were there was a bunch of stuff i
+remember
+people used to say how many people at
+microconf have raised some type of
+funding even if it's 50 grand or a
+couple hundred grand
+and i would always say i think it's like
+10 or 15 percent well it turns out that
+number was happened to be correct it was
+just a gut feel for me but we were able
+to validate that in independent sas um
+you know obviously which a large portion
+of that is captured here uh with
+microconf that in independent sas
+there's it's about 10 or 15 percent um
+that that have raised funding if you
+wanna see the full
+findings from last year's report we have
+a a youtube live stream where i present
+well isn't the full findings but it is
+the majority uh it's a lot of the kind
+of notable things that we pulled out i
+did a 30-minute live stream
+back in january obviously you can
+download the report and look through it
+it has our commentary and thoughts on
+notable surprises you know both
+surprises
+well it surprises both good and bad
+right things that we thought would be
+higher or lower um and then things that
+we expected
+to happen right the way we had the rule
+of thumb of oh i thought it would be
+that 10 or 15 and it wound up you know
+being
+that so um i won't go through a bunch of
+the the pages here but
+um
+i think xander is post yeah there he
+goes there's a link to 2021 so that live
+stream was was actually kind of fun
+to uh
+to um send i was going to say to record
+but of course we didn't record it
+um yeah you should watch back at that if
+you want to find out more just get a
+high level overview or look through the
+report itself
+all
+right no one has any questions huh
+yeah
+call for questions
+if you have a question post it in the
+slack or you can obviously come on and
+do a video question i think i want to
+circle back to the
+kind of why of why we do this um
+obviously you know there's a lot of
+reports for the venture capital crowd
+and that's what the majority i mean we
+are essentially a subculture of startups
+right startups is this huge umbrella
+that includes
+you know biotech
+and
+physical you know making drones and
+making physical products and all that
+stuff and then if you go down to say
+software
+is a subset of that
+and even that includes
+software that you know that run the
+facebook games they used to have um
+remember when farmville was a big deal
+mobile apps and there's all types of
+software so then a subset of that is sas
+subscription software b2b sas and then
+within b2b sas the prevailing narrative
+is venture capital right it's that to do
+it
+you um
+you know that you need to
+raise venture capital in order to do it
+and then we are itself are as you know a
+subset of that but what i've noticed
+actually i almost sent this tweet out
+which was a it's a graph of the number
+of
+i believe it's the number of funded
+startups in crunchbase
+is decreasing and it might even be the
+number funded sas startups i forget but
+the graph is
+dropping every year since like 2014
+and what we've seen with microconf is
+the number of bootstrap or independent
+sas companies
+is growing every year
+and
+i don't think that's a coincidence i
+think people are tired of the narrative
+and wanted like the reason that everyone
+was raising venture capital to do b2b
+sass because that was the only way they
+knew how right and that's what the big
+narrative is um
+and
+we have been trying to
+to change that right to shift the
+narrative to be like no this is another
+option and for most people for most
+companies it's actually a better
+approach to basically bootstrap or
+mostly bootstrap your company
+venture capital has its place and
+venture capital is
+obviously it's successful monetarily
+and
+it is needed for certain types of
+companies and in certain situations and
+i would never tell someone to not raise
+venture capital i would just say know
+what you're getting into and 99 of
+companies don't need it right one
+percent of maybe of tech startups or of
+sas startups
+maybe need vc and we're
+we're the other 99 right
+that's what microcom's been about that's
+what tiny seeds about is funding and
+education
+and and community for the other
+all right
+i am going to talk about some
+bootstrapper news because we don't have
+any questions i guess the uh the state
+of independence sas report
+is so amazing already xander and i will
+be making changes too by the way we'll
+we'll i appreciate your suggestion so
+far and uh we've been looking through
+um
+looking through it to figure out what
+changes you want to make i'm look i have
+a couple topics and i wanted to dang it
+where are those looking through my
+trello board here
+oh no i know i put it in the outline
+all right well see i already talked
+about the microconf sale a microcom cell
+the mailchimp sale sorry i had an
+abbreviation that confused me um oh i
+did want to let folks know if you
+haven't heard
+um you know tiny seed is
+a fund you've probably heard of it but
+it's a fund that we started out of
+microconf when we saw the need that
+folks wanted to not go on the venture
+track but they wanted to raise just
+enough funding and have just enough
+mentorship and advice to basically grow
+faster and so tiny seed writes checks
+between you know 120k for the first
+founder and then uh you know
+180 for two and 220 for three
+and we provide a year-long remote
+accelerator
+and
+we've raised two funds in the u.s
+totaling north of 31 million and we've
+funded we're going to about to write our
+i think our 60th check
+with our fourth batch
+but we have struggled um
+i'll say this it's very hard to support
+companies that are located around the
+world because the laws are so cumbersome
+every country is different
+finding legal representation everywhere
+is expensive and even just figuring out
+what the tax implications are very
+expensive so
+um what we've done is we have our u.s
+funds and then we are just starting to
+raise our europe fund and it's going to
+be the europe time zone so not only is
+it you know from the uk all the way um
+east through europe but it goes south
+through uh middle east and africa and
+such so
+i'm pretty excited about this we are
+we've got a lot of interest from
+investors um so our tiny seed europe
+fund is doing well obviously if you're
+interested if you're accredited and
+interested investing in um b2b sas
+companies in europe
+that you should get in touch head to
+tinyce.com invest or if you're a founder
+in europe we're gonna be able to support
+at least one hopefully two you know that
+we don't know the number yet but
+um european entities right so there's
+each country unfortunate i wish there
+was an eu or a european entity but it's
+not right germany has their own and uk
+has their own luxembourg and this and
+that and so
+um
+we're going to be looking at which one
+or two that we will be able to support
+such that people don't have to convert
+to a u.s entity we've wanted to do this
+since the start
+and it's you know it's just something
+that takes time right you can't do
+everything all at once so
+i am excited about that um
+we are oh there's some questions coming
+in i'll jump to in just a second but let
+me wrap this up so we are also
+talking uh uh we're hiring a program
+manager who is gonna
+work with tracy who you've probably
+heard
+on um
+on startups to the rest of us and may
+have seen her at microkoff but she's our
+program director for tinyseed and you'd
+work with her to basically run
+the european accelerator so if you want
+to work with
+awesome ambitious mostly bootstrap sass
+founders and work with me and anar and
+tracy you should head to
+tinycea.com and there's a jobs link at
+the bottom if you want to see what a
+program manager does
+all right
+a question do you guys have plans to
+have an awards and certification in the
+future just like michelin did for their
+restaurant michelin stars from eli
+odrilag
+um
+you know
+we have we haven't talked about that we
+did an awards thing for podcast right
+the sas podcast awards
+and i believe you can head to
+sasspodcastawards.com to find a list of
+the 50 50 that were nominated and then
+we had a winner in a few categories and
+that was great fun last december
+um
+we have discussed potentially having
+company awards but it's almost like what
+would that be like
+you know i i guess we could have
+different categories you'd have to think
+about it we could have a top 100 list
+based on people that have to disclose
+revenue you know there's like the inc
+500 right you have to qualify for it
+based on growth so we could do something
+like that the microconf 100.
+um i'm not sure i understand this
+certification piece um eli maybe you can
+post that back and zander can relay that
+but
+what would you be getting certified in
+you know would we say that stamp of
+approval like this is a founder who
+knows what they're doing or would we say
+you're certified in that you know
+marketing or would we say your company
+is somehow certified and that uh your
+metrics are good or something like that
+so i'm not sure what what we do there
+um
+question from spencer he said how did
+the microconf yeah let's just make this
+an ama at this point right we have 10
+more minutes just ask about anything
+doesn't he doesn't need to be on topic
+um he's asking how did the microconf
+in-person events go did the one day
+local event model work well that's a
+great question actually so the events
+were super fun we have not done an event
+in two years and um
+sorry
+two years and we did four events in four
+weeks we had i believe north of 300
+people at those events
+social distance uh you know
+everyone was vaccinated um hand
+sanitizer all over the place masked and
+most of them it wound up being really
+fun even in spite of like the coveted
+fears
+the numbers were smaller than we would
+have had without covid um like i said we
+had about 300 people across those events
+and i think at capacity
+if it was non-coveted i think there
+would have been 450 or 500 people across
+them so um but it was still totally
+worth doing
+and
+the interesting part was that to your
+question of the one day locals like did
+the format work format absolutely worked
+it was great we started at like 10 or 10
+30. there was a a talk and then a short
+session and then lunch
+and then we did some stuff in the
+afternoon then there was a happy hour
+tons of time and there was an hour
+morning for people to connect and that
+was a big piece of it is we we of course
+had the education but the education and
+the the talks from folks like myself and
+and asia arangio and jordan gall um
+those are an excuse for us all to get
+together in a room and then you're
+sitting in boston or portland or oregon
+or croatia and you're saying
+you know who around i guess the one day
+formats who around me lives in this city
+right and who should why don't we start
+hanging out once a month um because
+you're other micro conference and to be
+honest we thought it would be a lot of
+early stage folks we were gearing it
+towards early stage turns out that
+wasn't that wasn't what happened there
+were definitely some early stage folks
+but there were a lot of folks who were
+further along there were six and seven
+figure businesses um and they just
+wanted to come for the community and
+because it was easy it's in their town
+right and you can drive 30 minutes or
+whatever and pay
+you know 100 200 bucks to go to an event
+so i thought the format worked very well
+um
+and
+i think people got a lot of value out of
+it then you know our
+surveys at the end um show a very high
+nps right which means a lot of people
+would recommend it to a friend
+and so i think overall it was a lot of
+logistics producer xander did a great
+job of pulling all that together and it
+was a lot of travel i think the doing of
+four weeks in a row was not ideal um we
+wanted to do a road show and it sounded
+like fun but
+by the time we were at our third or
+fourth event we were pretty tired so i
+think next year
+uh in 2022 we will wind up spacing them
+out you know having whether we do one a
+month or whatever
+we want some space between them so that
+we're not constantly on the road is how
+it felt
+but i think we'll make some minor tweaks
+but um
+to locals
+but i think uh overall
+the experiment worked you know it
+succeeded and yeah just so you know like
+the next we now have a nice break which
+is good to let kovitz settle down our
+next event is in minneapolis it's micro
+cup growth in april and so if you
+haven't gotten a ticket to that it's
+gonna be gonna be amazing i mean
+assuming you know knock on wood assuming
+kovid's gone it'll be a nice 250 270
+person event you know like back and back
+in the before times and those are our
+that's our flagship uh event
+all right
+in addition i was trying to think of any
+i had the microcup in person yeah and
+you know at a certain point like i was
+wondering was this worth the
+you know i always ask myself is this the
+best thing we can be spending our time
+on right because we we can only do we
+only have so much bandwidth um and i
+feel like getting people together in a
+room
+was super valuable you know i think that
+there was a lot of a lot of value both
+between the attendees and um
+and for us to be in front it reminded me
+just how real this is right how
+there are so many amazing founders boots
+trapping around the world who are
+ambitious and want to get it done and it
+was fun to to see folks and
+and fist bump
+i don't because of covet right so fist
+bumping
+trying to think of what else to say
+about that
+xander was producer xander was reminding
+me that we are gearing up for our next
+remote event we call it microcomp remote
+it's a virtual event and we did one back
+in march
+and we do it it's about 90 minutes a day
+over three days
+and
+with last theme was early stage
+marketing approaches
+so we covered product hunt and um we had
+you know case studies of people who did
+derek reimer did a product hunt launch
+we had someone who did like a bunch of
+stuff on quora and had gotten you know
+talked through exactly how they did it
+we are working on the theme
+for our
+december
+microconf remote
+and pretty sure we're going to do no
+code so that actually is relevant to
+tony's question earlier
+there's a lot around it right and it's
+not just no code for building mvps which
+i think is what a lot of people think
+about but you can use no code to
+you know cobble together a support
+process you can use no code for
+marketing you can build a no code tool
+as lead gen you can build a no code tool
+to do seo you can build uh no code tools
+to do a lot of things i mean i will say
+even
+microconf tinyseed is not a software
+company right but we use a bunch of no
+code type stuff we call you know cobble
+together reform um and and savvycal was
+zappier to do automations uh i believe
+producers andrew uses airtable for um
+you know some the mastermind matching
+which is going on right now that's
+another thing i should mention but um
+and we use notion which you know for
+both the podcast and and a bunch of
+internal tiny sea stuff so there
+there's just a place for it and i think
+that the founders these days should be
+aware of it so we'll be um
+looking for some awesome speakers for
+that if you happen to be you know if you
+if you've done something super
+interesting kind of in this bootstrap
+sas world with no code whether you built
+your mvp with it whether you've used it
+you know any of the examples i've said
+um or order something else you think
+might be interesting
+uh you should apply to speak and we will
+uh
+we'll be getting that going soon
+obviously head to microcomp.com if you
+want to be on the list to uh
+to learn about when that happens
+last thing and then i think i'll sign
+off well there's two things i do want to
+thank hay and stripe there are headline
+partners
+um
+you know in 2020 they were in 2020 they
+were in 2021 and
+and onward to 2022 and and they've just
+been big supporters of everything we're
+doing uh
+with microconf and the long-time
+supporters and the founders have been
+um so micro have attended microconf and
+they've just seen the value of the
+community and and really the quality of
+the the folks who attend so i want to
+thank them
+oh two more questions all right any
+opinions on blockchain app startups i
+like the blockchain i like crypto we
+have yet to see a b2b
+sas
+um
+offering that uh i would say from the
+tiny seed perspective we have not funded
+one yet but just because no one's
+applied that has fit you know has made
+sense but
+it's a it's a quickly expanding place um
+the blockchain nfts crypto um i if i
+were starting one a startup today i
+would at least consider it
+my big concern with it though would be
+am i going to make something b2c
+and am i
+you don't you don't want to build a
+solution in search of a problem right
+it's like just because there's new
+technology doesn't necessarily mean you
+should go build on it it's like what
+problem you're gonna solve i would start
+there and then i would think how can i
+go backwards and how can i how much can
+you validate this right
+so
+i like it though
+let's see another question wondering if
+i should use drip user
+or convertkit for my pre-sale product
+fit survey landing page
+um i would you could use mailchimp too
+which is free
+i don't i would say
+you know send fox is pretty good and
+inexpensive um
+mailer light
+l-i-t-e
+if you just want something super simple
+those are the two that i hear people
+using these days that are just a lot
+simpler than what you said now you am a
+fan of of user list absolutely drip as
+well um i have not used convertkit but
+uh i think for your pre-sell product
+market fit landing page drip is drip and
+convertkit are both too heavy um heavy
+duty
+and user list certainly is something
+that i that i would recommend someone
+wants to come join me for a minute all
+right
+let's get him on
+get him on
+the camera someone asked me about see
+well he's getting hooked up any secrets
+you want to share about 2022
+i don't know i think i'm trying to think
+if we have any secrets
+oh that's xander's question that's funny
+i don't
+it's like we're still planning it and so
+i don't really have any big reveals
+we're still working on like where is
+microcomp europe going to be how many
+locals are we going to host is there
+anything new you know we'll do the state
+of independence ask because we do that
+every year
+but i can't think offhand of any big
+big secrets that'll be coming
+me see if there are any other questions
+concierge or landing page mvp
+question mark i don't think that's a
+full question
+all right
+i gotta tell you it was fun to be in a
+room with
+startup founders again to be honest ah
+there we go
+all right question would you recommend
+offering a service that caters to where
+your crowd segment is in their life
+career now or build for they where they
+will be in the future
+it's an interesting question it feels
+like i need more context i'm going to be
+honest um
+because i just there's new there it's
+kind of like it depends on what exactly
+you're talking about
+i would tend to build something someone
+needs to use today not that they're
+going to need in a year but if i'm
+building courses to educate i'm going to
+be trying to build those
+to get people where they want to be in
+the future if that makes sense but most
+sas apps are
+you know it's a need someone has today
+that would be my loose rule of thumb
+all right
+producer xander you know i'm gonna wrap
+it up
+microconf local london yeah yeah
+microsoft local london is in may of next
+year may 18th keep that on your radar uh
+microconf.com obviously if you want to
+be on the list and you can indicate
+you're in london then then we'll or
+you're in you know in the uk and then we
+can
+hit you up
+um when that happens because i do
+believe we're going to
+once covet's done we're going to sell
+these locals out because it's just not a
+ton of capacity we're trying to keep
+them small intentionally and we have a
+you know pretty big audience in these
+uh local cities lastly microconf
+mastermind matching
+is open had to mac microconf
+masterminds.com
+and that's something that we do a few
+times a year and we've matched
+i love these numbers xander pulled it's
+like we've matched more than six more
+than 600 successful matches more than
+150 million in mrr or an aor
+and um
+i don't remember the other thing oh it's
+like
+50 countries i mean it's just a real
+you know real pretty amazing effort and
+we've only been doing it we've been
+doing it for like a year
+um but you head to microsoft
+masterminds.com you enter your
+you answer a quick survey basically and
+you pay a fee based on your arr and then
+you get matched up with other you know i
+say microconf quality
+bootstrapped and mostly bootstrap
+founders so it's a great place for
+longest time we had folks saying i want
+a mastermind how do i get matched up and
+it was always like well go post in the
+slack or whatever but like this is the
+way to really
+get matched up and you know with with
+folks who are you know at your stage
+maybe a little ahead who are within your
+time zone you know i forget all the all
+the criteria we use but it's stuff that
+we have from years of experience seeing
+successful masterminds run so
+with that i guess uh we had someone who
+was going to come on but looks like
+we're having some technical difficulties
+so we are at time
+and i think we're gonna i'm gonna take
+us out so thanks for joining us again
+today um we'll be back again in two
+weeks with our regularly scheduled live
+stream and i hope you have a good rest
+of your week
+[Music]
+you

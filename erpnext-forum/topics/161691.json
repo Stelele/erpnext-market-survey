@@ -1,0 +1,51 @@
+{
+  "topic_id": 161691,
+  "title": "How Allow a user to create Quality Inspection only from Purchase Receipt",
+  "slug": "how-allow-a-user-to-create-quality-inspection-only-from-purchase-receipt",
+  "category_id": 9,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2026-03-26T06:01:05.474Z",
+  "last_posted_at": "2026-03-26T06:01:05.744Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-allow-a-user-to-create-quality-inspection-only-from-purchase-receipt/161691",
+  "views": 10,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "magedbjn",
+  "posts": [
+    {
+      "id": 496401,
+      "username": "magedbjn",
+      "name": "magedona",
+      "created_at": "2026-03-26T06:01:05.744Z",
+      "cooked": "<p>I have a requirement in ERPNext and I would like to know the best standard approach for it.</p>\n<p>We have a user in the <strong>Stock / Purchase</strong> department. I want this user to be able to <strong>create a Quality Inspection only from a Purchase Receipt</strong>, but not have full Quality control permissions.</p>\n<p>The process I need is:</p>\n<ol>\n<li>\n<p>Stock / Purchase user creates the <strong>Purchase Receipt</strong></p>\n</li>\n<li>\n<p>The same user can create the related <strong>Quality Inspection</strong> from that Purchase Receipt only</p>\n</li>\n<li>\n<p>After that, the <strong>Quality team</strong> completes the inspection and submits/finalizes it</p>\n</li>\n</ol>\n<p>What I want to prevent is:</p>\n<ul>\n<li>\n<p>the Stock / Purchase user creating Quality Inspection manually from anywhere else</p>\n</li>\n<li>\n<p>the Stock / Purchase user completing or submitting the inspection</p>\n</li>\n<li>\n<p>giving this user broad Quality permissions</p>\n</li>\n</ul>\n<p>So my question is:</p>\n<p><strong>Is there a standard way in ERPNext/Frappe to allow Quality Inspection creation only from Purchase Receipt, while restricting completion/submission to the Quality department?</strong></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/c/5/c51c6e2ba6c32ee03ce7f42498a6ff0c0c11ee71.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/c51c6e2ba6c32ee03ce7f42498a6ff0c0c11ee71\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/c/5/c51c6e2ba6c32ee03ce7f42498a6ff0c0c11ee71_2_690x146.png\" alt=\"image\" data-base62-sha1=\"s7IYlRDDUXJFmYjQwd8gpwbRXGh\" width=\"690\" height=\"146\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/c/5/c51c6e2ba6c32ee03ce7f42498a6ff0c0c11ee71_2_690x146.png, https://discuss.frappe.io/uploads/default/optimized/3X/c/5/c51c6e2ba6c32ee03ce7f42498a6ff0c0c11ee71_2_1035x219.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/c/5/c51c6e2ba6c32ee03ce7f42498a6ff0c0c11ee71.png 2x\" data-dominant-color=\"F5F7F8\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1040×221 22.3 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/magedbjn/{size}/86707_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 6,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 2,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

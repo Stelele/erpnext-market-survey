@@ -1,0 +1,52 @@
+{
+  "topic_id": 159470,
+  "title": "ERPNext v16 contact or address cannot be linked to Supplier",
+  "slug": "erpnext-v16-contact-or-address-cannot-be-linked-to-supplier",
+  "category_id": 6,
+  "tags": [
+    "frappe",
+    "bug"
+  ],
+  "created_at": "2026-01-19T17:01:28.462Z",
+  "last_posted_at": "2026-01-19T17:01:28.576Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/erpnext-v16-contact-or-address-cannot-be-linked-to-supplier/159470",
+  "views": 31,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "xzuse",
+  "posts": [
+    {
+      "id": 491815,
+      "username": "xzuse",
+      "name": "Xzuse",
+      "created_at": "2026-01-19T17:01:28.576Z",
+      "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/2/e/2e25c064555320f939d860bb82146ac4c73b145f.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/2e25c064555320f939d860bb82146ac4c73b145f\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/2/e/2e25c064555320f939d860bb82146ac4c73b145f_2_690x303.png\" alt=\"image\" width=\"690\" height=\"303\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/2/e/2e25c064555320f939d860bb82146ac4c73b145f_2_690x303.png, https://discuss.frappe.io/uploads/default/optimized/3X/2/e/2e25c064555320f939d860bb82146ac4c73b145f_2_1035x454.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/2/e/2e25c064555320f939d860bb82146ac4c73b145f_2_1380x606.png 2x\" data-dominant-color=\"F8F9FB\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">2559×1124 224 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/0/9/092f2b5aadcee4bcc20dfeeb696c1111cee65160.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/092f2b5aadcee4bcc20dfeeb696c1111cee65160\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/original/3X/0/9/092f2b5aadcee4bcc20dfeeb696c1111cee65160.png\" alt=\"image\" width=\"690\" height=\"258\" data-dominant-color=\"F6F6F7\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1141×427 25.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>api/method/frappe.desk.search.search_link ：this api canbe used to query Doctype list</p>\n<p>api/method/frappe.client.validate_link_and_fetch: this api cannot return result.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/xzuse/{size}/89967_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 12,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

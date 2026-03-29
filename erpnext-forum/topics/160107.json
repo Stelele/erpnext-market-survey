@@ -1,0 +1,51 @@
+{
+  "topic_id": 160107,
+  "title": "Use of sluggable URL in Contacts, Projects, CRM",
+  "slug": "use-of-sluggable-url-in-contacts-projects-crm",
+  "category_id": 8,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2026-02-01T05:27:43.969Z",
+  "last_posted_at": "2026-02-01T05:27:44.102Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/use-of-sluggable-url-in-contacts-projects-crm/160107",
+  "views": 17,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "HelloSMEBoard",
+  "posts": [
+    {
+      "id": 493047,
+      "username": "HelloSMEBoard",
+      "name": "",
+      "created_at": "2026-02-01T05:27:44.102Z",
+      "cooked": "<p>ERPNext: v16.X</p>\n<p>I am adding contact and its generate urls like: {URL}<code>/desk/contact/John%20Doe-2</code>which you can understand poses limitations for data quality and integrity. Suggest to add/pass slugs/ auto-generate slugs to avoid these kind or URLs across contacts, CRM, Projects and possibly other modules.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/h/c0e974/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 8,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

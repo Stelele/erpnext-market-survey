@@ -1,0 +1,2164 @@
+﻿Arvid Kahl: Today, I have the
+incredible privilege of talking
+to Rob Walling, a pioneer in the
+SaaS universe. We're diving into
+the ins and outs of scaling SaaS
+businesses, the shifting
+landscape of software businesses
+in general and how to run one of
+them, and the role of AI in SaaS
+projects in the present and the
+future. You will gain firsthand
+insights into Rob's famous Stair
+Stepping Approach and so many
+challenges owners' face. We'll
+talk about competition, customer
+service requests, white
+labeling, and the essential role
+of networking and support
+systems for entrepreneurs. We
+even talk hiring, oh, and we do
+talk about exits as well, which
+is great because this episode is
+sponsored by acquire.com. And
+that's a place where SaaS
+founders can eventually sell
+their businesses for life
+changing amounts of money. I
+will be talking more about that
+later. Now, get ready to harness
+the magical power of someone who
+not only listens to podcasts at
+2x speed, but also seems to
+think and speak that fast.
+Here's my friend, Rob Walling.
+One of the most impactful things
+that you teach is the Stair Step
+Approach. And it starts with
+small bets on someone else's
+platform, then you establish
+reliable revenue stream from all
+these offers. And then in step
+three, you build a standalone
+SaaS business. Now is your
+podcast or conference organizer,
+writer and investor life, the
+secret step four of the Stair
+Step Approach?
+Rob Walling: You know it's my
+step four. I find that to each
+their own. Some people, their
+step four is launching another
+SaaS app. You know, you look at
+David Cancel. He's had, I
+believe, five exits. So I think
+his step four is just rinse and
+repeat. Other folks become
+investors. And for me, it's the
+whole ecosystem you just
+mentioned.
+Arvid Kahl: Yeah, you seem to
+diversify a little bit. That's
+what that is. So you're saying
+diversification is not the next
+step? Because I always feel like
+when I look at successful
+founders in the space, a lot of
+them, significant amount of them
+and maybe that's just
+confirmation bias. They put
+themselves out there and they
+talk about stuff. They bring
+people together. But as you set
+this just now, I'm like, yeah,
+okay, obviously, these are the
+only people I get to see in this
+space because everybody else is
+just doing their own thing. But
+let's talk about diversification
+a little bit, right? Like, it
+feels like something that too
+many people is the reason they
+exit because they need to
+financially diversify. And for
+some people after an exit, they
+just want to do multiple things.
+So how long should you stay
+laser focused as a SaaS founder?
+Rob Walling: I mean, who? That's
+an interesting question. For me,
+I wanted to be as focused as
+possible until I had enough
+money in the bank that I never
+had to work again, till I had a
+few money in the bank. I don't
+know that I would say everyone
+should do that. But kind of, if
+that's your life goal, like the
+moment you become not focused
+like I am, for example, I do
+think you're less effective at
+each individual thing. And if
+you're driving SaaS is so
+draining, right? You and I both
+know this, like the amount of
+focus and time and energy it
+takes to grow, it is a grind,
+like even the best founders I
+know. Even if they raise funding
+and even if they're on their
+second, third, fourth, they
+still. I talked to them and
+they're like, I forgot how hard
+this is. I forgot, it is so much
+harder. It is harder than
+podcasting. It is harder than
+for me running MicroConf. It's
+harder than writing a book. It's
+harder than running accelerator,
+period.
+Arvid Kahl: Yeah, for sure.
+Yeah, I've experienced the same
+thing with my little SaaS
+experiments that I do on the
+side, just to even stay in the
+developer space. Because it's so
+easy not to do this, right? It's
+so easy to talk and go in shows
+and communicate, which is still
+fun and has impact just not the
+same thing. So it sounds like,
+yeah, it's the harder choice,
+but it's probably also a very
+rewarding choice still, right?
+Rob Walling: Yeah
+Arvid Kahl: Running SaaS
+Rob Walling: Yeah, it's harder
+and it can be, it can get
+boring, it can become a grind,
+where it's like, oh, I need to
+do this for five years in order
+to sell for 10 million. You
+know, I'm kind of making stuff
+up. But like, if that is your
+goal, it's like you get two
+years in and you're like, boy,
+it really would be fun to start
+a new thing because that's fun.
+Isn't launching on Product Hunt,
+on Hacker News really fun? It
+is. It's the dopamine. It'll be
+way more fun than slogging day
+to day, but the slogging day to
+day seemingly making progress
+actually can get you to that,
+you know, the goal. Again, I'm
+assuming your goal is
+multimillion dollar SaaS company
+with a multimillion dollar exit.
+Arvid Kahl: Yeah, and maybe it
+is not, maybe it's just like
+being a reputable person in your
+community to get all kinds of
+opportunities beyond that, you
+know, the SaaS exit. We'll get
+to that, we'll get to audience
+building because I've read your
+book and I know you're not the
+biggest fan of that or not
+necessarily the of the opinion
+that it needs to be a thing but
+I still want to stick with stair
+stepping for a while because we
+looked into this just a couple
+of weeks ago as of this
+recording, I think and we looked
+into the history of your blog
+post around this. Right? And
+this has been around for now 10
+years like you wrote this in
+2013. The article that is very
+famous, I guess in our community
+explaining the steps towards
+building a SaaS. Is it still the
+same? Is it still a way to build
+a SaaS or has the environment
+changed?
+Rob Walling: Oh, that's a good
+question. So I will admit, the
+original incarnation of the
+article and the original talk
+that I gave at the Dynamite
+Circle at DCBKK event was not
+SaaS focused, per se. I had to
+generalize it to like step one
+was like, launch a small
+product. Maybe if it's software,
+then you do it, you know, with a
+single marketing approach
+usually in an ecosystem. But I
+also included like, a small
+ecommerce store, an info
+product, a course. And I think
+those are totally viable. Like,
+if you're not a software person,
+maybe don't try to build
+software in the early days, you
+know. So I did go back maybe
+five, six years ago. And I
+actually changed. I updated the
+blog posts. And that's the
+beauty of it being a blog post
+was that I realized I wanted it
+really to be more focused on
+SaaS. But given your question,
+which is have things changed,
+they've changed but not in a way
+that I believe makes the Stair
+Step not work. Meaning I still
+see people doing it today. We
+have TinySeed founders, who are
+in the process of doing that.
+And then I talked to folks all
+the time, I'm going to be
+honest, who are on that step
+one. I mean, someone just wrote
+into the podcast. The rest of us
+and I was reading their question
+and they basically said, I have
+stairstepped over the last like,
+two, three years. He now has two
+products. One is doing like,
+5200 a month and one's doing
+3000 a month. And he's like, I'm
+just like, he's on step two.
+He's just about to buy out his
+own time. And so do I still see
+it working? Yes.
+Arvid Kahl: Yeah, good to know.
+It's also good. It must be so
+Rob Walling: It's what keeps me
+going, man, honestly. I have a
+much fun for you to be like the
+end of the funnel, where
+people's journeys all leads
+where people tell you about
+this, still work.
+label in Gmail, it's called
+thanks. And it's all the thanks
+that I get. And it means so
+much. I'm you know what this
+feels like when people say you
+impacted their life. I mean, my
+mission, like the mission of my
+life and of MicroConf and
+TinySeed is to multiply the
+number of independent self
+sustaining startups in the
+world. And you could replace
+SaaS or whatever, you know, you
+can focus on SaaS because that's
+really what I'm doing. But I'm
+just, I just want people to find
+their freedom, their purpose in
+there, you know, and have
+healthy relationships.
+Arvid Kahl: I love that.
+Independent self sustaining, I
+Rob Walling: Yup
+Arvid Kahl: The idea of stair
+stepping is still a thing that's
+like this phrase because it kind
+of brings me to my next point,
+platform risk, you know, the
+opposite of independence and
+probably not very sustainable.
+around. A lot of people start
+with building like a Shopify app
+or plugins for like WordPress or
+you know, something. You build
+on somebody else's platform,
+which is extremely beneficial in
+terms of, you know, how the
+marketing and distribution
+works, but you are inviting a
+lot of risk into your business.
+Is that something that is harder
+now than it used to be? Like,
+there's also this kind of
+predatory thing that platforms
+occasionally do, where it's
+something that works really
+well, all of a sudden ends up as
+a platform feature and there's
+not a plug in anymore that kind
+of cannibalize their developer
+base. Is that risk that is still
+something that people should
+just take?
+Rob Walling: Yeah, I think so.
+And that's why well there's a
+couple things. Number one some
+platforms are really bad at you
+know, at cannibalizing their own
+apps so Shopify is terrible and
+Twitter is terrible and Meta
+really doesn't give a crap.
+They're not as bad as Twitter,
+but so know that going in if
+you're gonna build on any of
+those. Most of the other ones
+are better at it, right?
+Salesforce, HubSpot, you know,
+what? Zoho, Zendesk, Freshdesk,
+Intercom like, it's pretty rare
+you hear about someone one of
+those ecosystems smoking someone
+you know who's on them. And the
+other thing is, I view the steps
+of the Stair Step as temporary
+stages. Right? I was in step one
+and two for like, a few years.
+That's it. And so am I willing,
+its risk tolerance, right? Am I
+willing to have some modicum of
+risk for those few years? Yes.
+Because by the time I get to
+standalone SaaS, I've, you know
+then I'm starting to diversify.
+Now, we then get into the
+conversation isn't every app or
+platform is to some extent, yes.
+But to me the risk of being
+uneasy to or the risk of sending
+through SendGrid or Twilio, of
+course, you have some platforms,
+but it's a lot less than if
+you're building an actual app in
+a Heroku or Shopify app store.
+Arvid Kahl: Yeah, if it's
+infrastructure, there are these
+other platforms. It's this kind
+of Lindy effect. They've been
+around for a while, they
+probably will be around for a
+long time. And their business
+model is depending on retaining
+you as a customer, so that's
+fine. But that's also a platform
+risk that I personally see a lot
+of people ignoring. Like they
+jump at new technologies, new
+frameworks, new whatever, right?
+Implemented into their business
+and all of a sudden that
+purchase falls away implodes and
+poof, they're standing there
+with a business that is just not
+sustainable because an integral
+part of dismissing. Open AI like
+that was, I was just reading on
+Twitter. Josh Pigford was
+talking about like his
+experience with Baremetrics when
+Stripe implemented their own
+analytics back in the day and
+how it hits Baremetrics, even
+though people came back and
+figured out oh, yeah, actually
+Baremetrics is the much more in
+depth analytics tool. And Open
+AI has done this with PDF
+introspection at this point,
+right? Lots of PDF startups are
+now in the balance and it feels
+this stuff just happens much
+more quickly now. Like you're
+around for like a month and all
+of a sudden, all your feature
+set is copied by the platform.
+Is that just a perception thing?
+Or is it just a reality of
+building SaaS?
+Rob Walling: I think it's the
+edge cases that we hear about
+because we're on Twitter. And
+because open AI specifically is
+moving very, very fast like AI.
+When was the big reveal? Was it
+less than a year ago? Like it's
+Arvid Kahl: Like a couple of
+months ago
+Rob Walling: It's moving way
+fast. So AI I could I mean, I've
+been saying like ChatGPT
+wrappers for the last nine
+months. You're gonna get mowed
+over get the money while you can
+because anything you do is going
+to be steamrolled by a bigger
+player. That's been pretty
+obvious, versus, you know,
+again, if we start running
+through Heroku, Atlassian, Cloud
+Arvid Kahl: Right
+Flare, AWS, Google Cloud,
+Microsoft Azure, you know, these
+all have app stores, like, are
+they steam rolling their apps
+that's fast? No, they're not.
+And the Josh, I mean, Josh
+Pigford with Baremetrics. I
+mean, that was something that he
+knew that was coming, like I had
+talked to him within six months
+of him building Baremetrics. And
+when was it 2012, maybe 2013.
+And we were at a MicroConf. And
+I was like, dude, you know,
+Stripe is gonna build this
+eventually. You know, it took
+Stripe a lot longer to build it
+than I thought. I figured they'd
+Rob Walling: But then I have
+some stocks and some metals and
+build it the next year or two
+and it took ages, you know, but
+yeah, it's a risk we all have
+for sure. I think the more the
+further I got along in my
+entrepreneurial journey, the
+more I wanted to have fewer of
+those risks. And that's what
+Stair Stepping attempts to do.
+And at a certain point, my de
+risking was much like yours. I
+was running drip, I was not
+diversified. I had millions upon
+millions of dollars tied up in
+this asset and my de risking was
+to turn it into cash. And now
+that's derisk
+some cryptos to theirs, you
+know, that's its own platform
+risk in a way.
+Arvid Kahl: Yeah. And the
+Beatles record, don't forget
+that
+Rob Walling: And the gold
+record. Abbey Road, baby.
+Arvid Kahl: Yeah, I get that.
+And I think derisking is
+genuinely the thing that most
+people want, like in economic
+times such as this in
+particular, right? Like, you
+want to make sure that there's a
+fallback or like an alternative
+and I think AI is the topic
+where this is extremely hard,
+building business on top of AI.
+Right? I would like to hear like
+how nuanced you think about
+building on top of AI like
+building on top of open AI as a
+platform and using AI as a
+feature in your existing non AI
+based startup? Like, what's the
+difference there in terms of
+risk and reward, I guess?
+Rob Walling: Yeah, I like that.
+And there's a third actually,
+right? It's to use open AI or
+chat GPT to just to make your
+internal processes better. Like
+I'm doing cold outreach. I'm
+gonna personalize. So there's
+actually three different things.
+The third one that I just
+mentioned, is pretty low risk, I
+think, because let's say I'm
+doing cold outreach and I'm
+using Chat GPT. I mean, what's
+the worst? They've raised the
+price, they kicked me off. And
+now I have to go back to the, I
+mean, the risk, it's not
+existential, it's just like,
+well, that kind of sucks.
+Obviously, building a Chat GPT
+wrapper or building on Chat GPT
+yes, there's platform risk. The
+big thing that I think a lot of
+people, I think misunderstand,
+is if you build a wrapper and
+you do the obvious things, which
+is like chat with a PDF chat
+with a CSV, you know, import a
+CSV and have clean up the data
+or whatever, these are obvious
+and they are going to get built
+by Chat GPT or by just a bigger
+player, like by a Salesforce or
+buy a Google, you know, Google
+Docs or something is going to
+build a CSV importer. Any of
+these things is gonna get done.
+And so don't be shocked when
+that happens. If you can make a
+bunch of money in the meantime,
+it's opportunistic. And if you
+can make 20 grand a month for 50
+grand a month for a year until
+they build it, just be like,
+hey, don't count on that being
+valuable, count on a cash in
+hand, right? That's what I think
+about building on top. Now,
+there are some exceptions. I
+think, in general, people who
+build on top of open AI, you're
+either gonna have a tiny little
+niche product that no one
+notices and you're away in a
+corner, much like the Start
+Small, Stay Small approach,
+where you just don't get
+noticed. Or it's going to be the
+big funded competitors that are
+going to come in and just stomp
+on you, you know, like the
+again, like a Google Sheets or
+just some big player that does
+it. I feel so that's, I guess
+what I'm saying is, yes, there
+is risk there building on top of
+AI because it is changing so
+quickly. Think about remember
+when Facebook apps and games
+were all the rage? And there was
+Farmville and I forget what the
+company was, but they had a
+bunch. And man, the valuations
+and everything went up and it
+was obvious this was not going
+to last. But they went in and
+you know, and they made a I
+think they made a ton of money.
+They raised a bunch of money,
+but it wasn't going to last.
+This is the same thing with
+these AI kind of AI wrappers.
+Look, let's just let's be
+honest, it's not gonna last.
+That doesn't mean you shouldn't
+do it. Just know that this is
+not a tenure business.
+Arvid Kahl: Yeah. That's a funny
+one like the farm wall
+situation. I think it was Zynga.
+There's a company, I remember
+back in like 2012 I was in San
+Francisco. And the Zynga
+building was this massive
+building, like towering over the
+Adobe building right next to it.
+And then a couple of years
+later, right? Everything just
+imploded, tells you to not over
+index.
+Rob Walling: Same thing happened
+three years, four years earlier
+with iOS apps. And where the App
+Store started, same exact thing
+happened. There's huge gold
+rush. Yeah. So Facebook apps,
+there was a time when it was
+Twitter apps, although it was
+never that big a bunch of
+Twitter clients. A crypto web3
+was one of those, AI is another.
+And so look, these are all
+waves. And if you catch them and
+you hit them at the right time
+and you exit or you make a bunch
+of cash on it, great. But if it
+is, again, this is not a five or
+10 year business in the way
+we're talking about it, you need
+to be a different. The durable
+competitive advantages of just
+having a SaaS still apply, AI
+can augment that, but AI is not
+itself an advantage because any
+of us can use it.
+Arvid Kahl: That's a good point.
+And if you have an AI based
+business where you know that
+like your days are numbered,
+right? Does it make that less or
+more sellable? Because I could
+imagine that somebody a bigger
+player that wants to integrate
+that functionality into a much
+bigger suite of products would
+find that interesting, like as a
+strategic acquisition, kind of
+not a financial one. So what do
+you think about like the
+solubility of these short term,
+intentionally short term
+businesses?
+Rob Walling: I think that
+revenue buyers, whether it's
+micro PE or just people buying
+through Quiet Light and
+acquire.com, they will discount
+it heavily. They know the risk
+involved. So if you're truly
+selling on a multiple of net
+profit or whatever, you're not
+going to get great multiples
+because the risk is huge. If you
+get lucky, extremely lucky and
+you find a strategic or
+strategic finds you. Yes, you're
+right. You could probably get
+aqua hired. I mean, I'm thinking
+of someone doing 20 grand, 50
+grand a month, you know, this is
+not a $10 million exit, but will
+someone give you, you know, half
+a million or a million bucks and
+then some stock and this and
+that? I totally think that's
+feasible. I just think it's
+going to be the one in 100 or
+you know, one in 500.
+Arvid Kahl: Funny, it's kind of
+VC odds for bootstrap businesses
+once again.
+Rob Walling: It feels a bit like
+it, yeah.
+Arvid Kahl: Oh, that's funny.
+Yeah, I guess. I've seen a trend
+in these AI centric startups. A
+lot of them, they kind of stop
+using the subscription revenue
+model. And they go a lot of,
+they front load a lot of their
+payments, like one time payments
+or like yearly things, knowing
+that there will be around for
+less than a year. Maybe it's a
+bit creepier that way. But
+that's how it works. Is there is
+that just because these things
+are time limited? Or is there
+also this overall subscription
+fatigue that exists? Or
+purportedly exist somewhere in
+the world?
+Rob Walling: Yeah, huh. I think
+that there are certain tools and
+tasks that really shouldn't be
+subscription. You know, just
+because SaaS is the best
+business model ever doesn't mean
+everything should be SaaS? And,
+you know, I don't know if you
+saw, was it BMW? Yeah, they have
+the hardware in your car, but
+you had to pay a subscription in
+order for them to enable it. And
+people were so mad that they
+just stopped because it
+shouldn't be that. It feels like
+you're ripping them off. And
+same thing like to chat with a
+PDF, for example, I know I can
+come back to that. But like,
+that's an example. Or let's say
+I want to convert dirty data to
+clean data, right? Or I want to
+convert an mp3 to a wave or I
+want to, these are like one time
+things unless I'm an editor and
+I'm doing this on a weekly
+basis. Like, it really should
+just be a one time charge,
+right. And so when you try to
+force one time into
+subscription, that's when you
+see this really high churn. And
+so I don't know, I think people
+say subscription fatigue. And
+when I look at, you know, the
+Tiny Seed dashboard with almost
+150 companies in it now, I'm not
+seeing subscription fatigue in
+those areas because
+Arvid Kahl: That's interesting.
+Rob Walling: You know what I
+mean? I mean, it's like, I'm
+just up into the right as a
+general rule, it's not everybody
+but I mean, SaaS is still very
+much alive.
+Arvid Kahl: Is that like B2B
+SaaS that you're looking at
+almost exclusively? Okay.
+Arvid Kahl: This has nothing to
+do with SaaS, but do you think
+Rob Walling: Pretty much. Yeah.
+B2C, there's fatigue. Dude, I
+cannot believe. I think it's
+like Hulu Plus, with no ads is
+like $18. I'm like, No, I mean,
+I'm not like one of the least
+that's going to be a
+consolidation alongside the
+price sensitive people you'll
+meet with because I just want
+streaming stuff? Like we had it
+in the beginning then it kind of
+stuff to just go. And when I was
+like 18, I don't watch enough on
+Hulu. So I actually cancelled
+that subscription. So yes, on
+the B2C side, which is something
+I don't like to plan for exactly
+this reason. I definitely think
+there's subscription fatigue. I
+hear people talking about it all
+the time.
+split up now? Will it be
+consolidated?
+Rob Walling: Yeah, I think
+because now so yeah, in the
+beginning it was land grab as
+many subscribers as possible and
+then we saw in the last six
+months, price increases.
+Everybody's doing increases and
+all this coz I'm on Netflix and
+Amazon Prime and Hulu and HBO
+and Disney Plus and I'm on
+Peacock right now because I like
+Poker Face, you know, there's
+like two shows that I like. And
+yeah, then the next phase will
+be consolidation. This happened
+with TV networks. You know there
+were like three in the US, you
+known as ABC, NBC, CBS, but at
+one point, there were a
+kajillion of them and they
+consolidated. Same thing with
+radio networks. Same thing with
+car makers, like how many
+American car manufacturers are
+there now? Let's put Tesla aside
+but it's basically Ford and GM
+has been for years. Now Chrysler
+at one point and then Tesla came
+up. But there were like 100 or
+200 in the 1920s and 30s. And
+then they consolidated. So they
+will do the same thing with
+streaming.
+Arvid Kahl: Hopefully, because I
+cannot handle more. I mean, I
+can handle the subscription. I
+just think there's still
+logistical overhead of even
+understanding where I show is
+because that also changes over
+time. Right? The one that I dive
+too much into TV, but I'm a Star
+Trek nerd. I want to watch Star
+Trek, where is it now? Paramount
+plus, is it on Netflix? Like
+where do I go?
+Rob Walling: I have this app on
+my phone, I this app on my iPad,
+it's just watch.com. You ever
+gone there? Just watch, type in
+a series, it'll tell you where
+it is. And it'll tell you, you
+can stream it for free. Or you
+can buy it or rent it. I'm in
+that twice a day or not twice a
+day, twice a week trying to find
+shows
+Arvid Kahl: Is that a bootstrap
+business? That sounds like
+Rob Walling: I have no idea. I
+don't know. It was one of those
+B2C things that kind of where it
+would be fun to own that. But I
+bet it's a nightmare keeping up
+with all the changing stuff.
+Arvid Kahl: Yeah, you need a lot
+of people like really at the
+pulse of what's going to happen
+in these broadcasting services
+and stuff. That's fun. Yeah, but
+let's maybe get back to SaaS,
+let's get back to product market
+fit, which is one of the most
+central things that you talk
+about in your book. And I like
+that this is the first thing you
+talk about, like in terms of
+chapters, there's teams later
+and there's pricing later and
+all that stuff. But product
+market fit is one of the biggest
+things. And as I read the book,
+I agreed with a lot of stuff
+obviously from my own
+experience. But I found one
+thing that I really want you to
+dive in a little bit more. You
+talked about competing on three
+different potential levels. You
+say competing on price is a
+thing you can do, competing on
+sales model and competing on
+product. Now, price and product,
+I understand. I can be cheaper.
+I can build a better different
+more diversified product. But
+sales model was something that I
+found really interesting. And we
+already kind of touched upon it
+just now. So which is why I want
+to bring it back in. How can you
+compete on sales model with
+bigger, different, richer, more
+capitalized players in the
+market?
+Rob Walling: Yeah, yeah, that's
+a good question. So what you
+have to find is a company or
+companies where the standard
+sales model is a pain in the ass
+for customers and they don't
+like it. But they've been forced
+to do it because there's a
+monopoly or an oligopoly, right?
+So Salesforce, have you ever
+tried to buy a Salesforce
+subscription? It is terrible.
+Never, never do that. And
+because you have to you just
+they will not even talk to you
+unless you jump on a call with
+them. And they do this demo. I
+remember, I was just like, how
+much is it? How much is it? And
+they wouldn't tell me. How much
+is it? They just wouldn't tell
+me. They were gonna force me to
+do a frickin zoom call. That
+sucks, man. So isn't there
+opportunity to disrupt that?
+Anytime there is friction or
+there is something that
+customers don't like, sometimes
+it's like price, oh my gosh,
+there's way to expect. The
+cheapest version of this thing.
+Marketing automation is the one
+that comes to mind. Of course,
+because I compete in that space.
+The cheapest version of
+marketing automation was like
+$400 a month when we started
+drip. And it was obvious, it
+didn't need to be $400 a month.
+It was that much because the
+margins were huge. And their
+sales model was very time
+intensive. And we were like if
+we build self serve, I know we
+can charge less. And make it
+self serve. No one else was self
+serve. Infusionsoft, Marketo,
+Pardot, Silverpop, like they all
+wanted you to do a demo and do
+the big sales grind. And look,
+that's great. You can make a lot
+of money doing that. I'm not
+disparaging that. But I am
+saying where there is
+dissatisfaction where you're
+making folks jump through hoops
+and there is friction, there is
+opportunity to compete. And
+that's really what I mean by
+sales model.
+Arvid Kahl: Okay, would you say
+this kind of switching up the
+sales model is a moat for you at
+that point?
+Rob Walling: I don't think so. I
+think moats are durable. You
+know, like moat is like once you
+have a brand where you are one
+of the two or three in a
+conversation where it's like oh,
+what are the like the really
+good marketing automation
+providers? Oh, it's like the
+most popular ActiveCampaign,
+Infusionsoft and Drip like at
+certain point that became the
+conversation. Once we have that,
+that's kind of a moat unless we
+Arvid Kahl: Yeah, of course!
+screw it up by having the
+founder leave and then raising
+your prices so much that you
+piss everybody off. But you
+know, that's just a hypothetical.
+Rob Walling: But you know, so
+sales model someone else can
+just do the same thing and it's
+kind of like competing on
+features that it's like false
+moat you know, it's a temporary
+moat. False may not be the right
+word but like a temporary moat
+because they can just build the
+features or they can just change
+the sales model.
+Arvid Kahl: Yeah. That's
+something that I really liked
+when you said about translating
+the interface, that kind of
+stuff. That's also something
+that doesn't really, it's not
+durable. I like the phrase of
+durable moats. I think white
+labeling was the thing that
+surprised me because I mentor a
+couple software businesses and
+one of them has been thinking
+about white labeling their
+product. So they are in the SEO
+space and you know, they think
+of how I'm using their product,
+giving it to other agencies and
+having them use it or offer it
+to even their customers and
+clients. And you say that's not
+a good idea. Why is that not a
+good idea?
+Rob Walling: Yeah, just for
+listeners. We've switched for
+moats, two common mistakes that
+I see people make, right? Like
+translating your app too early.
+I'm at five camera, I've typed
+up my market. Now I'm going to
+translate to Spanish, German,
+French. And it's like don't do
+that. It's a waste of time. So
+to your point, white labeling,
+here's the thing, it's white
+labeling too early. Oftentimes,
+you will launch and you'll get
+to 5 to 10K MRR and you're just
+starting to build a good
+business. And this happened to
+us where I got five requests in
+the first few months of people
+saying, I really want to like,
+take drip and white label it and
+then sell it to realtors or I
+want to sell it to mortgage
+brokers or I want to sell it to,
+you know, insert another
+vertical here. And it's super
+appealing to be like, well, this
+person will do the sales and
+like we'll get customers without
+even try, you know, it's all
+that stuff. But the problem is
+most people, they're wasting
+your time, like unless it's a
+big company and you know that
+they are bringing the thunder,
+meaning they have a lot of
+customers that they can sell it
+to. You're going to spend too
+much time hashing out legalese,
+signing docs for someone who's
+going to sell two copies of it.
+You know, it's like that's
+usually the issue. Now, if I was
+doing seven figures ARR and I
+saw it as an actual channel to
+where it was using agencies
+could, you know, could reuse it
+and white label it. I've seen
+some folks do that. I don't
+think it's the end of the world.
+But it's not, it wouldn't be my
+first choice of marketing
+approaches. It's one of many.
+And I think the siren song of it
+is dangerous, especially when
+you're early because you just
+don't have. The amount of code
+you have to write any amount of
+legal contracts, you have to go
+through and sign, it is
+significant to enable white
+labeling. So make sure that if
+someone is going to do it, they
+pony up upfront, like I want a
+minimum commit of, you know, 50
+grand upfront or 100 grand a
+year. There's some numbers. If
+they can't or won't do that,
+then they aren't committed to
+it. Why would you commit all
+this time and money to it?
+Arvid Kahl: That makes sense.
+Somebody should build this white
+labeling as a service. Wouldn't
+it be cool, another little meta
+layer on top of that, but yeah,
+I think like sharing development
+cost, great idea. And I think
+generally a good idea for
+sizeable customer feature
+requests, right?
+Rob Walling: Yup, it's pretty
+common. Yeah, I see folks do it
+more common than folks might
+think.
+Arvid Kahl: So let's keep in
+this wheelhouse here with the
+customer feature request because
+that's also something that you
+have very strong opinions on,
+right? Like when to say no
+pretty much to them. So how do
+we deal with all these things
+that constantly flood us? A lot
+of small SaaS businesses have
+this, I don't know if it's a
+user voice or some widget where
+people can put up their ideas
+and they are just inundated with
+all these requests that people
+want. Why should we listen? What
+should we listen to? And when
+should we just say no?
+Rob Walling: Yeah, I mean, you
+know this. It's hard. And it's
+harder in the early days because
+the more mature your product
+gets and the more revenue you
+have, the more kind of your
+vision of what your product is
+solidifies. And eventually,
+you're kind of like making
+tweaks, you know. By the time
+your software is a teenager,
+meaning let's say, 50k, 100k a
+month, you know, it's like, oh,
+I kind of know what this is.
+Now, we might make a strategic
+decision to add an entirely new
+aspect to it. But unless we do
+that, we kind of know that if
+we're an email service provider,
+I'm not going to add affiliate
+management. That's a whole other
+categories. You know what I
+mean? You just gotta get there.
+But in the early days, man, it
+is so hard, especially if you're
+still trying to build something
+people want. You know, you
+haven't done that yet. And so
+every feature request that comes
+in, you think to yourself, oh,
+if I build this, will this get
+me closer to product market fit?
+Like, that's the real kind of
+crux of it. And so I feel like
+there's some feature requests
+that come in that are just
+obvious knows. And then there's
+some that are obvious yes. It's
+like hell yes. Why didn't I
+think of that? Or it's already
+on the roadmap, right?
+Unfortunately, yeses and noes
+are maybe, I don't know, what do
+you say? 20, 30%? It's the
+minority 40%. You know, some
+number, that's not the majority.
+The majority are ones that you
+kind of have to agonize over.
+And usually what I would do is
+ask myself, alright, what's my
+vision for the product today?
+And do I feel good about that
+vision? Or do I need to alter
+that vision? Because if I
+implement this, it means it's a
+different thing, right? So I've
+kind of run it through my
+founder gut. I would also, I
+know some people, I never did
+this, but they have like
+customer advisory boards, where
+you have depends on how far
+along you are. But it's like,
+who are my best customers? Who
+are the customers who stick
+around for a long time, give us
+a lot of good feedback,
+whatever. And I used to just
+kind of email. I would email
+like Brennan Dunn, right? Or
+Ruben Gamez or Jeff Epstein,
+founder of Ambassador, you know.
+There were a handful of people
+who were like, my friends and I
+was like, what do you think
+about building this? What do
+you, you know, would you use
+this? And have you seen this
+another tool, you know, kind of
+get a sanity check on it. But
+the bottom line is, you have to
+say no to the vast majority,
+right? But by the time I left
+Drip in 2018, I believe we were
+getting 175 feature requests a
+month. And that 150, 175, that
+was from sales support success
+and directly from customers. And
+you have to say no to 90 plus
+percent of those. And so
+figuring out a way to filter
+those is kind of what I tried to
+talk through in the book. It's
+hard, right? There's no direct
+to say I can't tell you yes or
+no but it's like, here's the
+mental framework of how would I
+think through it.
+Arvid Kahl: And that's also kind
+of like an identity thing for a
+lot of founders, right? They
+want everything to appeal to
+their customers. They want the
+prospects that are out there
+that don't yet use the product
+to every single one of them to
+feel like this is for them,
+which is obviously folly in so
+many ways. But on another level,
+there's also a problem, like,
+once you have this advisory
+board of customers that you talk
+to, how do you avoid this
+typical, you know, Rob
+Fitzpatrick Mom Test problem of
+people just wanting to encourage
+you because they really like
+you. They really liked that
+you're building this for them?
+And they say yes to everything.
+How do you get out of that?
+Rob Walling: I never had that. I
+don't know because I never,
+usually I would say, here's our
+current roadmap, here then it
+is, again, a private
+conversation. So like, here's
+the next five things we're
+building. We got a request for
+this. Do you think I should bump
+into these? Because then there
+is it's not just yes. They can't
+just say yes, they have to bump
+something else, right? So they
+have some loss. Now, you can
+also I mean, there's dangers to
+this. You can get in an echo
+chamber. If you only have three
+in your customer advisory board.
+And they're all the same use
+case and you have other use
+cases you need to support, you
+know, you need to get some more
+diverse thought in your advisory
+board. But you get the idea.
+It's helpful. I mean, to me, the
+Advisory Board or any of these
+are all just signals. I have my
+founder gut. I have the category
+that we're currently in that I
+define a SaaS. I have my vision
+for the product. I have an
+advisory board. These are all
+just signals. None of them makes
+the decision. You have to put it
+in a stew. And being founder is
+making hard decisions with
+incomplete information. This is
+a great example of that. You
+will never at best, you'll be
+like 50% certain you need to
+build something, you know.
+Arvid Kahl: Yup, sure sounds
+like the regular founder life,
+quite anxiety inducing. Maybe
+that's also one thing from my
+own personal experience having
+like a couple of mental health
+issues along the way. Do you
+think just being a founder just
+has to be stressful?
+Rob Walling: You know? Yes and
+no. So it depends. So these
+days, I'm a founder of MicroConf
+and Tiny Seed. I'm not a SaaS
+founder these days, but I do run
+companies. They are startups
+with teams of people. And we are
+doing big stakes, high stakes,
+things that impacts a lot of
+people and you know, all that
+stuff. And I'm not stressed. And
+I used to be stressed all the
+time. And so I think that's
+where I say yes and no. I think
+in the early days, most of us
+are not equipped to deal with
+the uncertainty. And that's a
+huge part of being a founder, as
+you know, hard decisions,
+incomplete information.
+Everything is uncertain,
+especially in the early days. I
+think certain people are either
+naturally or perhaps there's
+nature or nurture, like did
+their parents teach them better
+coping skills? Because I didn't
+have any. I'm like a high
+anxiety person. And I have no
+coping skills to deal with
+uncertainly. So for folks like
+us, it's just stress, stress,
+stress, stress, burnout. I do
+know some folks who are better
+equipped at dealing with it and
+who actually take a grain of
+salt, like I'm launching the
+startup. And realistically, this
+is not that bad. Like, I'm not
+digging a ditch somewhere. And
+if it goes under, I can go get a
+job. You know, for me, I was
+like if it fails, the end of the
+world as we know it, so I'm a
+catastrophizer, right? So I
+think so much of it is mindset,
+like the actual risk to us as
+founders pretty is not a lot.
+The actual risk is usually
+minimal unless you make dumb
+decisions, like putting money on
+credit cards and such, which is
+something I never did.
+Arvid Kahl: Do you ever do fear
+setting as like a conscious
+exercise with where could this
+go wrong? And would I still be
+fine?
+Rob Walling: Yeah. What's the
+worst that could happen, is the
+phrase that I use. What is the
+worst that could happen? When we
+were starting Tiny Seed, we were
+struggling to figure out what
+the terms should be right?
+Because it's like, well, we're
+not VC but we don't want to do
+the revenue based financing. How
+do we be in your, you know, in
+your court for the long term and
+have terms that are both
+investors agree to invest in and
+that will give a return such
+that the fund can continue and
+not implode. And the founders
+will agree to it and that was a
+very, very difficult. It's kind
+of like setting pricing. It's
+just hard, right? Because you
+don't know what the answer is.
+And there were some major
+setbacks where we were screwed,
+right? We had like six different
+versions of our terms. And I was
+running them by founders. And
+someone told me yeah, I just
+wouldn't take that money. And
+here's why. And it was
+devastating to me. And I
+remember I was like, oh, this is
+never gonna work. We just can't
+do this. You know, I got super
+catastrophizing. And Einar was
+like, dude, we're smart. We'll
+figure this out, you know.
+That's my co founder and that
+helped me level set of like and
+then he said, what is the worst
+can happen if we don't figure
+this out? We just don't do it.
+And so you go back to being
+retired, right? I came out of
+retirement to do this. So I go
+back to playing my guitar. I
+guess that is the worst case,
+that's not a bad worst case. You
+know?
+Arvid Kahl: Yeah, that's why I
+said like step four of the Stair
+Stepping approach because you
+already had all these other
+things figured out, right? You
+were in this kind of post
+economic situation already. You
+didn't have to think about where
+the next like mortgage check is
+gonna come from.
+Rob Walling: It helps. It helps
+a lot.
+Arvid Kahl: For sure. Well, most
+founders are unfortunately not
+in that position. Right? And a
+lot of founders too. You said we
+a lot, which is something I
+really notice here because my
+experience in many things before
+I co-founded Feedback Panda with
+Danielle was, it was just I. It
+was just me all the time. And I
+kind of in retrospect, I was
+almost in a constant solo
+founder of funk kind of felt
+like it, like a lot of looping
+thoughts, a lot of just
+spiraling all the time. And I
+was talking to a Dickie Bush on
+this podcast a couple of weeks
+ago, about how writers have the
+exact same problem, right?
+There's a surprising similarity
+between writers whose product is
+good writing to appeal to people
+and impact their lives and SaaS
+founders, solo developers whose
+product also is writing just,
+you know, code for machines, not
+for people. And they also don't
+know is it going to work? Is
+this whole thing going to work?
+How do you get out of this kind
+of solo founder funk? Do you
+have any ideas?
+Rob Walling: Yeah, I do. So
+there's a few opportunities or a
+few options. One is obviously to
+get a co founder. But that's a
+big decision. Masterminds,
+mastermind groups were hugely
+impactful for me and have been.
+I mean, I've been talking, I
+started this mastermind in 2010,
+I believe and it's gone through
+a bunch of iterations. And it
+was four of us then three then
+now, it's just two of us. And
+it's been two of us once a month
+since 2010 now, 13 years. I
+mean, it's just with this one
+other guy. And we talk once a
+month. Now we do it in VR
+fishing. We don't even get into.
+We literally get in VR, we fish.
+And we talk about you know,
+startup stuff. Masterminds are
+huge. I used to be in two
+masterminds because I wanted,
+you know, and they were every
+other week. So I pretty much
+every weekend, someone to talk
+to. That was such a big deal. I
+think that's the best way. The
+other thing, of course, is to
+join a community, get little
+less than that. But you know, a
+MicroConf Connect or if you wind
+up getting into Tiny Seed or
+whatever, the Dynamite Circle,
+you know, there's all these
+indie hackers. Right? There's
+online communities. It's less
+interpersonal, I think, you
+know, than masterminds. That's
+probably my number one, to be
+honest. And then of course, I
+mean, the other one, too, is
+going to in person events, like
+I wound up going to a lot of
+MicroConf, of course, because I
+host many of them. And I'm fired
+up when I come back, you know,
+and I think that that can be
+motivational for folks as well.
+Arvid Kahl: Yeah, that was a big
+learning for me as well, like
+the in person events in
+particular. That was something
+oh, okay. I'm doing all right.
+Everybody else is constantly
+just knowing the nails over
+their own businesses and that
+kind of stuff, it's perfectly
+fine. And in commiseration,
+there's a lot of elation, right?
+You find a way through
+masterminds. That's the thing
+that for most of my life, I had
+no idea about. So it is very
+important to understand that
+this is a feasible way to
+connect with people on your
+level, on your journey too,
+right? And you facilitate them,
+right? In the community?
+Rob Walling: Yeah, we do
+matching with MicroConf. That
+was something I resisted for a
+long time because we would get
+people say, how do I join a
+mastermind? And I'm like, go to
+MicroConf and find somebody you
+know and it's just like,
+eventually producers Anders was
+like, I think we just start
+matching people. And I'm like,
+but what if we get it wrong? But
+what if, but what do you know
+that was and it's like, let's
+just try it. Let's try it with
+get 50 people to apply, match
+them up and see how it goes.
+It's been one of our most aside
+from in person events, it is the
+most successful offering we've
+ever offered at MicroConf. And
+so we match, it depends. There's
+like $250 up to 2000. It's a one
+time fee right now, although
+we're talking about going
+subscription and actually
+facilitating. Right now, it's
+just a one time match and
+depends on your revenue level.
+And then I think we guarantee it
+for a year, like if it just
+falls apart, you know, you can
+get rematch but wildly
+successful. We've matched to
+close to 1000. I think that's
+the number 800 or 1000, you
+know, founders with one another
+collective MRR or ARR of you
+know, 150 million or something
+huge number across 30 or 40
+countries. So, that's a big
+deal. Yeah.
+Arvid Kahl: What's the churn and
+retention metrics on that stuff?
+Rob Walling: It's not
+subscription. Right? It's one
+time.
+Arvid Kahl: So I mean, like, on
+the community or like the little
+groups of people themselves,
+like, do they?
+Rob Walling: Stick around? Yeah,
+surprisingly high number. I
+don't know that I know the exact
+numbers, but it's like the vast
+majority. I'd say that at a
+minimum, the majority, which is
+only 51%. I think, like the
+super majority wind up, I guess,
+depends on what timeframe we're
+looking at. Right? Exactly six
+months or six years. You know,
+there's only a handful, it's
+going to be kind of a, I think a
+bell curve or, you know, kind of
+degrading curve over time if
+people stop.
+Arvid Kahl: Yeah, because people
+probably also graduate from
+certain groups of people into
+new ones, right? As their
+business improves, as well.
+Well, I certainly love the fact
+that you're facilitating like
+actual relationships between
+people. And that kind of brings
+me to the point that I said I
+want to get back to ,which is
+audience building and you know,
+the building in public, doing
+stuff like in front of people.
+In your book, you say and I
+think you're right, that for
+many foreigners, it's not a
+necessity for many SaaS
+businesses building in public or
+building an audience. It's a
+nice to have, but you don't need
+that necessarily to build a
+business that serves people and
+solves that problem. But it
+could and I think where you
+mentioned that building an
+audience is actually useful
+isn't hiring. I found that
+really interesting too. So are
+you still like pro or are you
+like against building an
+audience? What's the nuance
+there? I want to know.
+Rob Walling: So I'm glad you
+asked because there is nuance.
+I'm not pro or against. I am
+opinionated about it because
+almost every week, I see a tweet
+of like, steps to build a
+business, build an audience,
+then ask them what they want,
+and then build the product. And
+it's like, great and I always
+chime in. Great for info
+products, not for SaaS
+Rob Walling: Not for B2B SaaS,
+specifically, right? If you are
+Arvid Kahl: Yeah
+marketing, if your audience, if
+you are marketing to other indie
+hackers, guess where indie
+hackers are? They're on Twitter.
+So yeah, go hashtag build in
+public and sell them your chat
+with PDF thing or whatever it
+is. That's great. But the vast,
+vast, vast majority of
+companies, in fact, Tiny Seed we
+funded 131 companies actually,
+almost 150. A couple weeks from
+now, it'll be over 150. But like
+I did, I ran the numbers and it
+was like 4% or 4 and a half
+percent had any kind of
+audience, I mean, any type of
+social podcast, YouTube,
+anything before they built their
+businesses and similar numbers
+even now. Like where we have a
+lot of companies doing seven
+figures and we've had exits and
+they just don't need it, right?
+Because SEO, content, cold
+outreach, integrations, in
+person events, affiliate
+programs, you know, all this
+other stuff can be done without
+an audience. So my thing is, you
+and I both built audiences. I've
+been building audience since
+2005 when I started blogging,
+2010 when I started the podcast,
+you know, 20 whatever, when we
+started the YouTube channel.
+It's a fuck ton of work. It's
+way more work, way more work for
+the reward than SEO or called
+average or you know, these other
+like, staple B2B marketing.
+That's what I see. If you're
+gifted at it or if it's what you
+need to do. Arvid people like
+you and I, I had to do that. I
+was blogging to no one for like
+a year. I was podcasting to no
+one for like a year. Right? You
+and I do it because we have to.
+It's part of like Stephen King.
+At one point, he said, he told
+the reporter. He said, yeah, I'm
+gonna retire from publishing.
+And this was years ago. And he
+said, oh, you're gonna stop
+writing? And he said, no, I'm
+retiring from public, like the
+dude has to write.
+Arvid Kahl: Yeah
+Rob Walling: I have to, like, I
+have this curse that I need to
+talk in front of, I need people
+to hear my every thought, right?
+And so most people aren't that
+way, though. And so I'm doing a
+disservice to entrepreneurs, if
+I'm telling people where it's
+not their natural gifting nor
+their desire to go do something
+where pound for pound, hour for
+hour, it is not as effective as
+the 20 B2B SaaS marketing
+purchases, you know, that I put
+in this book. That's where I
+fall down. It's the common
+narrative and same reason I
+strike out against. There is no
+always, you should always
+bootstrap, you should never
+bootstrap, you should always
+raise funding, you should never
+there is, none of that. So I get
+annoyed with that. You should
+always build an audience like
+no, you shouldn't. You should
+really know what you're getting
+into. An audience is a tool,
+know what it takes when you
+should use it.
+Arvid Kahl: Yeah. And there is
+also a pretty notable difference
+between like building a massive
+audience and just having a
+presence as a founder.
+Rob Walling: Yes.
+Arvid Kahl: Right? Because that
+is something that I would
+recommend to everybody just
+having a presence for people to
+know there's a person.
+Rob Walling: I don't disagree
+with that. Yep, and
+Arvid Kahl: Good
+Rob Walling: So look at people
+who are tweeting. I mean, I
+didn't, let's say Twitter, for
+example. I didn't build a
+Twitter audience until the last
+five years, maybe like before
+that I had people who followed
+me, but I never pushed them
+there. I wasn't tweeting
+anything that interesting. And I
+see a lot of folks on Twitter
+who are not like Ruben Gamez or
+earthling works. You see him on
+Twitter. He's not building an
+audience. Yeah, but he is on
+Twitter and being around and
+he's learning and interjecting.
+So I like that distinction that
+you're saying just being being
+in public or you know, building
+in public can be even like these
+days. Derek Rhymer is a good
+example of this. He used to. He
+was building an audience when he
+had to order product podcast.
+And he was building in public to
+the point where he was
+publishing screencasts and
+publishing stuff to get people
+on YouTube and on Twitter. And
+then he hit a point where it
+just didn't move the needle for
+him anymore. And it was more
+time than it was worth. And he's
+not, I would say, as far as I
+know, from the outside, he's not
+building an audience anymore,
+you know.
+Arvid Kahl: But it's certainly,
+it can be an intentional thing.
+Or it could just be a
+consequence of you just being
+yourself, which is I think, the
+most authentic thing, right?
+Like you, you mentioned, Derek,
+I think like Jason Cohen, also
+an example here. And he's just
+blogging, talking about stuff
+he's interested in, that is
+building an audience without
+being like, here are the 10
+browser extensions for whatever,
+right? You don't need that kind
+of stuff just to attract people
+that are genuinely attracted to
+what you have to offer, what you
+do because you have insights
+into something. That's the best
+kind of building in public is
+the one that is not forced.
+Rob Walling: That's right. And
+to your point earlier, you
+mentioned in the book that I say
+building an audience just to
+find customers for SaaS is just
+really an uphill battle. But
+when you go to hire or when you
+need to build when you need to
+find people who can promote you,
+like let's say, sorry an
+affiliate program and I need
+affiliates who are influencers
+in this space. Or I need
+investors like that's when an
+audience suddenly comes in. Like
+when we started Tiny Seed, the
+fact that I had an audience was
+a huge advantage.
+Arvid Kahl: Yeah, yeah, for
+sure. It really depends on what
+you want to do. Right? And there
+might be a point in the future
+where it just becomes a
+necessity because you're adding
+some new component to your
+business that requires that. But
+it's not a starting point for
+everybody. I know a lot of
+founders and a lot of SAS
+developers really like just
+coders who really don't want to
+do this. They just want to go.
+They're technical people and
+they end up being solo founders.
+That's one thing I wanted to ask
+you too, like, do you fund solo
+founders? Or do you focus on
+teams? Like, what's your
+position with that?
+Rob Walling: The majority of
+companies that we have funded
+are solo founders. And I think,
+so state of independent SaaS
+survey is and report is a
+MicroConf thing we put out every
+other year right now. And I
+believe the numbers are one
+person. Teams are like, what is
+it 60 or 70% of our kind of
+ecosystem. It's somewhere in
+there. And then one and two
+person teams combined, I think
+is like 90. So whatever the you
+know, if it's like 70 and 20,
+you know, one and two, something
+like that. It's like 65, 25, 70
+and 20. That's about how the
+Tiny Seed founders work done.
+Arvid Kahl: Wow
+Rob Walling: You can, yeah, it's
+very similar and just a sliver
+of three person and four person
+teams. I find that there's, it's
+actually a little bit of an anti
+pattern for me to be
+bootstrapping up for founder
+company like that's, yeah, yeah,
+it's a little weird. So yeah,
+that's where venture capital
+says no, you know, Paul Graham
+came out and said, I want two
+person, three person teams. We
+have found, I mean, how many
+examples do you and I know of
+single founders who've built
+incredible multimillion dollar?
+Arvid Kahl: Thousands at this
+point?
+Rob Walling: Tons and tons
+Arvid Kahl: Yeah
+Rob Walling: So we have no bias.
+If anything, I have no bias. I
+think one and I'm biased towards
+one and two person teams, to be
+honest.
+Arvid Kahl: Yeah, I guess for
+like a laser focused business
+that is solving one particular
+problem really well, like it's
+the whole thing about cooks, you
+know, too many cooks. And that
+makes perfect sense. So can you
+hire too early then? Is that
+something that exists?
+Rob Walling: Hire too early?
+Arvid Kahl: As a sort of founder
+Rob Walling: If, yeah, it
+depends on, yeah, you can. I
+mean, let's say you have $20,000
+in the bank and I hire my first
+out and I go through all my 20
+grand. You hired too early,
+right? To be honest, when you're
+building, finding, I say finding
+product market fit like it's
+some destination, it's not. You
+and I both know, it's a
+continuum. It's not a binary.
+So, you know, as you're finding,
+as you're strengthening product
+market fit. If you're too early
+and you hire a salesperson to go
+sell it and you don't have a
+product market fit, you just
+churn everybody. Either no one
+signs up or you just churn
+everybody out. So yeah, you can
+hire that too early. But I don't
+think, I think if you have
+budget, these days, like I would
+hire for almost from day one.
+But it depends on which role you
+hire, right? It's like, oh,
+well, I hired enough. I will
+hire another developer to
+accelerate or usually need more
+features to get to product
+market fit in the early days.
+And then at a certain point, you
+kind of hit it and or you know,
+get enough of it that then you
+need more marketing and sales.
+And so that's kind of it kind of
+switches over time. I actually
+have a matrix of this of like
+the most common first, second
+and third hires of depending on
+your founding teams make up.
+Arvid Kahl: That, among all the
+other wonderful things in the
+book, is probably one of the
+most impactful things you could
+have put in there. Because that
+is something that I as a solo
+ish founder, never really
+understood. Who's going to be
+the next person or the first
+person to hire. Right? Should
+they replace me? Or should they
+augment what I do? It's really
+nice that you looked into this.
+And I think you draw this data.
+Well, you drew this data from
+like real companies and their
+hires as well. Right?
+Rob Walling: That's right. Yep.
+And I asked, again, this is
+where Tiny Seed is an asset for
+me because I have access to
+these 130 to 150 companies. And
+I was able to do my mental
+model, you know, you're like an
+archaeologist where you're like,
+alright, here's been the
+experience I've had and the
+experience of memory from all
+these founders. And then I went
+into Slack and actually posted I
+said, this is a matrix. Who here
+followed this? Who here didn't?
+And do you disagree with, you
+know, it wasn't good or bad for
+you? And do you disagree with
+any of these? And it was like,
+so if you're a single founder
+and you're a developer and
+you're in low touch sales,
+usually your first hire is
+support because it's low touch
+and there's high but you know,
+it's that kind of stuff, right?
+So people were saying, yes, I
+did it. And in general, I call
+it like, maybe 90% accurate,
+it's not 100%. But it's at least
+something because before you
+have this matrix, you're like, I
+don't know who you know, I don't
+know what I should do, to your
+point. Just guidance, you know.
+Arvid Kahl: And if you don't
+have a mastermind or like a
+group of people like Tiny Seed
+that have this knowledge that
+just have the experiential
+insights, then you just kind of
+struggling. You're doing random
+experiments that can cost you
+and can, you know, derail you
+quite substantially, too.
+Rob Walling: Yeah, hiring is a
+big one, right? It's so
+expensive and time consuming.
+Arvid Kahl: Hiring is also
+something personally that nobody
+taught me. I get a lot of
+technical skills, you know,
+people teach you how to code and
+all that stuff. But hiring is
+like, yeah, okay, just hire
+people. But what does it mean?
+Rob Walling: It is hard. This is
+actually where I've talked about
+this on my podcast before
+working a day job and being like
+being a developer on a team
+where you're involved in a
+hiring process or if you become
+manager a team lead and you're
+actually making hiring
+decisions, invaluable. Like I
+did that for many years, as much
+as I hated every single one of
+my day jobs. You can learn
+skills that your day jobs that
+will help you as a founder.
+Arvid Kahl: Yeah. And that's the
+thing, if you know that you will
+need it eventually, you probably
+will look out for these kinds of
+insights. And you will ask
+people questions. Something I
+didn't do because when I was a
+dev, I was like, I'm just gonna
+be a developer forever, right?
+Not for me. I'll learn that
+later. Well, I should ask
+questions back in the day.
+Rob Walling: Absolutely. And,
+you know, I used to go talk to
+our marketing. I worked at, it
+was a credit card company and I
+would go talk to the marketing
+people and just be like, how do
+we? Do we add for? Like, I don't
+know what marketing was, almost
+20 years ago. Do we add for
+time? They're like, yeah, we do.
+And well tell me about that. And
+I was just trying to learn
+something like at every company,
+you can learn there's hiring,
+there is managing, there is
+getting better at, you know, at
+technical side, there's business
+just operations like what is it
+like to run payroll and do your
+books and marketing and sales
+and all this stuff is you have
+to, you know, you have to do it
+all when you're the founder.
+Arvid Kahl: The earlier you
+understand as a founder that
+you're an active generalist and
+you cannot just be a specialist
+in the thing that you already
+do. The earlier you will build
+this into your routine, right?
+Rob Walling: Yeah, yeah, you
+really, if you want to be a
+specialist, there are rare
+exceptions. You just have to,
+you have to limit your growth of
+your company to do that. And
+it's possible and that maybe
+it's bootstrapping. You're a
+lifestyle bootstrapper. You can
+do what you want. But if I'm a
+developer and I want to keep
+developing, great, but I am
+going to hamper the growth of my
+company, you know? That's just a
+decision you get to and have to
+make at a certain point.
+Arvid Kahl: We all got to learn
+these things. And we got to
+learn from amazing people like
+you. So, let me pivot. If people
+want to follow you on social
+media and want to see what
+you're doing, the conferences
+you run, the podcast you host,
+the books you write and I could
+list more stuff for a couple
+hours. Always super impressive.
+Where do you want people to go?
+Rob Walling: I think @robwalling
+on Twitter, might be the number
+one, podcast The Startups for
+the Rest of Us and if they're
+listening to this podcast, they
+may want to hop over and
+subscribe to that in any
+podcatcher that exists.
+Arvid Kahl: You're gonna hit 700
+episodes with that in a couple
+of weeks
+Rob Walling: I know. What should
+I do? I've already done all
+this, you know, at 100 we like
+had people send in audio clips
+and at 200, we reflected on at
+three like we've already done
+it. What at 600, I did almost
+nothing. I didn't even say it
+until the end of the episode. I
+was like, hey, by the way that
+was 600. Here, it just happens
+to have two zeros at the end.
+I'll see in 601. You know, is
+there anything I could do at
+700?
+Arvid Kahl: Oh, man, you could
+do a live show like with a live
+audience somewhere. Like
+Rob Walling: Done that a couple
+times.
+Arvid Kahl: Yeah
+Rob Walling: It's fine. Those
+shows don't turn out as good.
+Like, have you listened to
+podcasts where you listen to the
+live one? And you're like, the
+show sucks? It's not as good. So
+I think we've done two or three.
+We did them at Microconf's and
+we recorded them with a live
+audience. So I'm going to ixnay
+that idea.
+Arvid Kahl: Well, I guess that's
+up to the listeners of this
+episode to send you, to follow
+you on Twitter, give you some
+kind of idea. I think that would
+be nice because that's kind of
+where your podcast impacts. It's
+the community, right? It's the
+people in the community that
+learn from it. And I bet they
+want to give back. So hey, cool
+idea. Send it to Rob. Thanks so
+much for being on the show and
+sharing these 1000s of insights
+and nuggets today. That was
+really, really nice. Thank you
+so much.
+Rob Walling: Amazing, man. Thank
+you for having me.
+Arvid Kahl: Absolute pleasure.
+And that's it for today. I want
+to briefly thank my sponsor,
+acquire.com. Now, Rob sold Drip
+and a few other SaaS businesses
+which massively impacted his
+life. First of, few people ever
+sell a business. I mean, few
+people ever build a business to
+begin with. So if you're
+starting one or are already
+running a profitable SaaS, I
+think it's important to think
+about the next step to use Rob's
+Stair Stepping terminology here.
+Selling my own SaaS certainly
+changed my life. I wouldn't be
+sitting here. I wouldn't even be
+talking to amazing founders and
+teachers like Rob if I hadn't
+built a sellable business and
+then sold it at some point. No
+matter where you are on your
+founder journey, I recommend
+always thinking at least about
+your eventual sale of the
+business. You don't have to sell
+it, obviously. But you can. And
+acquire.com is the platform to
+do that on. They've helped
+hundreds of founders list,
+negotiate and sell their
+businesses from 1000s to
+millions of dollars in sales
+prices. They've seen it all and
+they can help you sell your SaaS
+business. Go to
+try.acquire.com/arvid and see if
+selling your business is the
+right thing for you right now.
+It doesn't hurt to be prepared.
+It doesn't hurt to dream either
+because a well run business is
+always a more sellable business.
+So setting it up, getting it
+right, that is what you want to
+do and acquire.com will help you
+get to the point where selling
+is a great choice.
+Thank you for listening to The
+Boostrapped Founder today. You
+can find me on Twitter
+@arvidkahl. You'll find my books
+and my twitter course there too.
+And if you want to support me
+and this show, which I would
+really appreciate, please
+subscribe to my YouTube channel,
+get the podcast in your podcast
+player of choice and leave a
+rating and a review by going to
+(http://ratethispodcast.com/founder).
+That will make a massive
+difference because if you show
+up there, then the podcast will
+show up in other people's feeds.
+That's where I would like it to
+be. That's how we can help each
+other learn from people like
+Rob. Any of this will help the
+show so thanks so much for
+listening. Have a wonderful day
+and bye bye.

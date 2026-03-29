@@ -1,0 +1,52 @@
+{
+  "topic_id": 154917,
+  "title": "I have to repeat my custom header on my custom print format, how do i do that?",
+  "slug": "i-have-to-repeat-my-custom-header-on-my-custom-print-format-how-do-i-do-that",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "customization"
+  ],
+  "created_at": "2025-10-01T07:48:56.956Z",
+  "last_posted_at": "2025-10-01T07:48:57.055Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/i-have-to-repeat-my-custom-header-on-my-custom-print-format-how-do-i-do-that/154917",
+  "views": 38,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "ico09",
+  "posts": [
+    {
+      "id": 482751,
+      "username": "ico09",
+      "name": null,
+      "created_at": "2025-10-01T07:48:57.055Z",
+      "cooked": "<p>I have made on custom print format, and now i want to add my custom header to it, on every page of my pdf, but i am not able to do that.<br>\nI have tried various techniques like custom css on top of the custom print format, but it didnt repeated my header on every page, it just showed up on the first page only,<br>\nthen i tried making custom letter header and putting my code in that custom letter header, and also making sure that in print setting, repeat header and footer is checked marked, but still it doesnt works too.</p>\n<p>Help!</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/i/3da27b/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 12,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

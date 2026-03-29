@@ -1,0 +1,1212 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap Founder podcast.
+[Music]
+Today I'm talking to Taylor Otwwell, the
+creator of the Larable Framework for PHP
+and an outstanding entrepreneur who
+figured out how to turn open-source
+software into Lamborghinis. Seriously,
+Taylor's approach to building not just a
+framework, but a whole ecosystem of
+businesses on top of that framework is
+one of the most impressive open-source
+monetization stories I've ever seen.
+It's quite fitting that Laravel has
+therefore also embraced the sponsor of
+this episode, paddle.com. Pedal is a
+merchant of record payment provider and
+they are deeply integrated into both the
+open- source library cashier which is
+free and the fourpay payment portal
+Laravel spark one of the many ways that
+Taylor is monetizing his work. So it's
+open source and for pay it's a very
+interesting story. So if you want to
+monetize your own software work without
+having to deal with stuff like sales tax
+and expired credit cards give paddle a
+shot at paddle.com. They're supremely
+good at making your founder life easier
+so you can build your business on solid
+foundations. So let's talk foundational
+frameworks. Here's Taylor Artwell, the
+creator of Laravel.
+Congrats, Taylor, on half a million
+deployments on Laravel Cloud. That is
+amazing. How how does it feel to see
+people building on your own platform at
+that scale already a couple months after
+you released the thing? Yeah. Wow. Um,
+it's pretty surreal and it's especially
+surreal thinking back to like how it all
+started, which was basically like a
+casual conversation in Amsterdam by a
+few of us at Laravel. There was not many
+of us at Laravel at the time. There was
+probably only nine or 10 of us and now
+there's like 70. So just thinking back
+to that conversation where Laravel cloud
+was just an idea and we hoped we could
+build it you know we hoped we could
+figure it out and crack it to now where
+it's live and you know thousands of
+people are using it and there's you know
+so many people deploying on it is really
+it's pretty mind-blowing but I'm super
+happy with where we're at and honestly I
+think we're just kind of getting started
+with it so I'm even more excited about
+where we're heading with it. Yeah, I
+bet. That is such an accomplishment. I
+think like just seeing you develop both
+the idea and then teasing it a little
+bit at the Laracons and all of that. It
+felt like a it was a concerted effort,
+but it also felt very natural in in the
+way that it was built. That was really
+cool. And looking at the Laravel
+ecosystem in particular, like the
+products that existed prior to cloud, I
+can't help but feel like you worked your
+way, you iterated your way to cloud
+through forge and voyer where the like
+hosting and deployment. Did this make it
+easier to actually build a full cloud
+system? Mhm. Yeah, that is kind of
+interesting. Like Laravel cloud and
+fully managed Laravel deployment and
+hosting is something I've danced around
+for like the last 10 years. It feels
+like and when I first built Forge in
+2014,
+I really would have built it more like
+cloud as like a fully managed platform
+if I was able to. It was just me, you
+know, like hacking on this idea in my
+free time and I didn't want the risk of
+managing all of this infrastructure as
+like a solo bootstrapped founder. So I
+built Laravel Ford where people could
+bring their own cloud account. Hey, if
+there's something happens with the
+servers that they're running the apps
+on, that's sort of like Digital Ocean's
+problem, you know, not or AWS's problem.
+But yeah, we have been kind of working
+our way towards this with things like
+Forge and Envore and Vapor for a long
+time.
+And you know, building something like
+cloud just takes a much bigger team and
+much bigger uh risk honestly. you know,
+you're you're just taking on you're
+biting off a lot more um when you take
+on a problem like this. So, we finally
+got here, you know, in uh 2025, all
+these years later, and you know, it's an
+exciting time. It it sounds like you
+unlocked something inside your founder
+brain for this, right? Like, how did
+that happen? Like, what what did you do?
+Cuz honestly, I would be so scared to
+lead a team of 70 people, let alone
+seven people. Like, how did you like
+massage that into your mind? I mean, as
+you may know, like I I bootstrapped
+Laravel from 2011 until 2024.
+And in that time, I launched, you know,
+five commercial products, um, Forge,
+Envoyer, Vapor, Nova, Spark, and
+something like 27 or 28 open-source
+packages in addition to the framework
+itself, which is like the core of the
+whole thing. And in 2024
+or really I guess 2023 I felt like I was
+sort of like at this crossroads with
+Laravel of like man I've really built
+almost everything I wanted to build.
+Every idea I had the whole idea for
+Laravel was only to create a tool to
+help me build startups faster and then
+that became like the meta business that
+ended up becoming my career. And so it
+was almost like I can either coast and
+be like okay that was a solid run you
+know like an open source few people are
+able to enjoy that level of open source
+success or there's like sort of a next
+level that we could go to which is
+building something much more ambitious
+also much more risky but maybe much
+higher reward with things like Laravel
+cloud and and Laravel Nightw watch which
+is coming out soon as well and you know
+that was just kind of what I wrestled
+with for a long time and obviously
+decided to sort of swing for the fences
+with Laravel cloud and try building a
+business with investment money you know
+u to build these much bigger more
+ambitious things that I couldn't build
+on my own without great personal risk
+and liability
+um so and I basically I felt like I owed
+it to the community is what it boiled
+down to I felt like if I just sort of
+coasted and it was like okay guys that's
+sort of the peak you know that's that's
+where it sort of tops out. I feel like
+that would be just such a bummer for
+like the tens or hundreds of thousands
+of Laravel developers in the world that
+have been along for the whole thing. And
+so that's ultimately what led to uh
+deciding to pursue cloud. Interesting.
+Yeah, there's this this concept of the
+benevolent dictator for life, right?
+That always exists in the open source
+world. And that can go either way,
+right? Either you can just do whatever
+you want as a dictator or you can try to
+be the benevolent part and and serve
+your community. That's an interesting
+one. I I do wonder like how do you
+balance this? Because particularly with
+cloud being a a very much for-profit
+enterprise and having investment having
+funding and on the other side you have
+this open source community of people who
+often have the expectation that things
+should be free and things should be you
+know like designed by like open source
+contributor committee. How do you
+balance expectations between these kind
+of groups of people? We really just try
+to let I think our behavior do the
+talking. You know I think that's really
+the best way to do it. So like we have
+full-time staff working on open source
+and we release open source every week
+and honestly at greater frequency than
+we did before uh just because we have
+more resources behind it. I think
+Laravel is also in this really unique
+position with cloud and forge to where
+we almost have like both sides of the
+coin you know like we have this fully
+managed platform for people that um just
+want to kind of deploy and they never
+want to think about servers and if they
+pay a little bit of a premium for that
+at the end of the day that's fine. And
+then we also have Forge which is like
+this kind of semi-managed uh server
+management platform which we're
+rebuilding entirely for Laracon uh this
+summer which is going to be cool and
+people can bring their own cloud
+provider or whatever they want and you
+know throw 50 sites on a single server
+and really like get a lot of juice out
+of that server for the amount of spend
+they're putting into it. And you know I
+think Laravel is unique to like offer
+both like whatever is better for you.
+We're just trying to help you deploy
+your application and enjoy using this
+framework and you can kind of take
+either path. So open source like we know
+and I know and I think the company knows
+if we don't have Laravel and we're not
+committed to open source in the
+community like no one's going to be
+using this stuff. So we have to be more
+committed to that than ever basically.
+Yeah. I've always admired like the
+strategy that you have just laid out,
+right? You build products that help
+people use the tool that you also build
+and then you use the tool to build the
+products like that there's a lot of
+synergistic effects between these that
+makes sense and that to me is something
+that is well not completely unique like
+other open source communities try to
+emulate this but it is very efficient in
+the Larwell world like you just
+mentioned five products I use four out
+of these for my my my software stack so
+you said you built five products you had
+like a a five for five success with
+these products like were there any along
+the way that you kind of tried to build
+and they didn't work or is it all like
+vapor forge and voyer and you know like
+the other things like did that all work
+like from the beginning like that that
+is such a such a rare thing in the
+serial founder world for that to
+actually happen yeah it is pretty crazy
+um there was one product that I built
+all the way through that I never
+actually launched so I don't know if it
+would have succeeded or failed and it
+was actually called Laravel cloud at the
+time but it was more like a Laravel
+Forge
+reimagining that helped you deploy like
+load balanced VPS's and you had like a
+YAML config file. It was just a little
+bit different, but I got it all the way
+to completion. It had a UI built by
+Steve Shoger, I believe, from Tailwind
+cuz he worked for Laravel at the time.
+And um at the end of the day, I was
+like, this just isn't different enough
+from Forge to actually be compelling.
+It's actually like sort of confusing.
+There's no clear difference between the
+two products besides a few like minor
+things and I just like didn't even
+launch it. I I just tabled it which is
+crazy because the whole thing was built
+the back end the front end everything
+but you know I just think it would have
+kind of confused things. So other than
+that you know everything kind of worked
+but the whole way though I was just
+solving my own problems. I wasn't really
+trying to like in many ways I wasn't
+even trying to build products. I was
+just like, especially with something
+like Vapor, I was just personally
+interested in AWS Lambda and could I get
+Laravel running on it and could I like
+build a deployment platform on it and I
+just I I went down that road for like 6
+months or whatever and I was like, well,
+I guess I'll ship this thing and you
+know, it just kind of worked out. So,
+lot a lot of kind of happy accidents,
+some pre-planning and masterful
+thinking, but a lot of happy accidents
+as well. Yeah, that's that sounds like
+coding to me. Yeah, that's for sure. And
+and software entrepreneurship for that
+matter, right? like trying to figure
+things out as you go. I I do wonder now
+that you have cloud, now that you have
+these massive numbers of deployments and
+probably also other kinds of products
+that people are trying to deploy than
+you may have seen before on Forge or
+whatever. How does that impact the
+actual framework? Like how does your
+experience with this at scale impact
+your plans for the framework in the
+future? Yeah, there's been a few things.
+I wouldn't say they're major things, but
+like when we start thinking about the
+scaling systems in cloud, we need maybe
+more insights into what's happening in
+the queue. For example, like how long
+are jobs sitting on the queue, how long
+are they running on the queue, what's
+the oldest job on the queue, like that
+kind of info that we haven't exposed
+before. Maybe unless you're using
+something like Laravel Horizon, but for
+all Q drivers, we need that information
+to like intelligently autoscale. Um
+there was a few other minor things we
+added to the framework to make like you
+know file storage easier with cloud or
+something like that but honestly we
+didn't we didn't change any major pieces
+of the framework. I think what's
+interesting for me on cloud though that
+I didn't expect in terms of like the
+types of applications we're seeing or
+maybe customers is when we first built
+cloud I kind of wondered like or at
+least one of the fears I had was
+everyone's already kind of deployed
+their Laravel apps on forge you know and
+so so why why come to cloud but I think
+what we're discovering is there actually
+was this like contingent of a little bit
+larger applications that maybe were
+rolling their own Kubernetes at at some
+company and they're having headaches
+with it all the time because it's
+complicated and they would love to run
+something fully managed, but they felt
+like Forge was not quite enough for them
+and cloud kind of hits that sweet spot.
+So, we are seeing customers like that
+that I didn't expect, which is really
+cool to hear their stories and to talk
+to them and to try to get them on cloud
+and help them be successful. Yeah, that
+that sounds like u you're getting into a
+new segment of customers here. Yeah.
+Right. A little bit. That's just really
+fun and probably like highly promising
+for the success of the platform. Yeah.
+Yeah. I'm excited about it. It's fun.
+Has people using Laravel on the cloud
+surface something about Laravel that you
+didn't expect to see? Like is there is
+there any surprise in there or has there
+been? Oh gosh. You know, we see all
+sorts of things both on cloud and forge,
+you know. Um we see things look at mine
+please.
+We see things like the the typical stuff
+you might expect with a web framework
+like a a web request that's firing off
+500 database queries and the page is
+slow and depending on what database or
+cache setup they're using that adds up
+to a lot of latency or whatever. So we
+we see things like that maybe more so
+than we expected honestly. So you know
+there's a temptation to want to be like
+okay well you should fix your
+application that's not our problem but
+that's going to continue to happen. we
+have to we have to make it fast even if
+the app is not ideal you know um so
+that's one thing we're focusing on right
+now is like how do we make it as fast as
+possible even if the app's running 400
+500 database queries in a single request
+uh that's that's interesting yeah I
+guess that is also a problem that you
+will never be able to get rid of right
+you always have beginners you always
+will have like AI written code that is
+super weird and pretty and
+non-performant that that will be
+deployed probably automatically because
+there's some weird auto PR merger or
+whatever. Interesting. I guess that you
+have to solve on the hardware level or
+on the optimization level, but I wonder
+because now with with Nightw Watch in
+particular, you get more introspection
+into like how this works. So, is this
+going to be something that you're going
+to try, don't want to say to push, but
+to suggest heavily to users to to kind
+of use by default just to see their
+performance and be able to optimize it.
+Yeah, I I think you should. Um, we've
+discovered so much honestly about our
+own apps. We've been running Nightw
+Watch on Forge and to give context,
+Nightw Watch is like a application
+observability tool for Laravel that
+shows you all your performance metrics
+for requests, queries, all that. We've
+been running it on Forge and we
+immediately saw things we didn't know
+about. um whether it was like these
+outlier requests that are super long for
+certain customers and many times those
+are your most important customers
+because they have the most servers and
+data and all of that or pages that were
+doing more queries than we expected. We
+actually had a situation the other day
+on cloud where we were having trouble
+debugging a problem I believe and so we
+actually put them on nightw watch early
+to help figure this out and were able to
+like immediately see what was going on
+which was super cool. Nightw watch
+should be coming out in early June. It
+is going to have a free plan actually, a
+totally free plan where you can kind of
+kick the tires and see the entire
+product without really any feature
+gaining or anything. So, everyone will
+be able to kind of get a taste of it and
+see like if it works for them or if it's
+helpful. I think it's it's pretty crazy
+helpful in my opinion. Um, so I'm
+excited to get it out there. Yeah. Like
+and some some kind of observability
+tool, APM, whatever you want to call it,
+is to for me at least something that I
+try to get in as soon as possible just
+to avoid these kind of scale issues
+because it tends to be a scaling issue,
+right? like things are slow that's fine
+in the beginning but they get slow and
+aggregate well that's a problem right so
+that's that's really cool to see um and
+also been something that I've been
+personally having trouble with in the
+past like just even to get accentry or
+whatever integrated into a P ph PHP
+application well that's hard like
+there's a lot of work that needs to be
+done that has very little to do with the
+actual application and a lot to do with
+the server management side of things and
+that's what you guys probably do much
+better than I right so for that reason
+yeah I'm looking forward to it I can't
+wait to get my invite
+at some point. Yeah, I'm really looking
+forward to not having to deal with this
+and also knowing that the people who
+deal with this actually know what
+they're doing. That to me is that's the
+great thing about the laral ecosystem to
+begin with. Like you you mentioned Spark
+earlier, I I process all my my payments
+through Spark, right? Through the the
+billing system and Nova is is also my
+back end that I use for administrative
+stuff because that is just the best way
+to integrate into a laral application. I
+think you you've been doing a really
+good job at finding the next thing that
+people use something else for right now
+because there isn't anything but
+actually want something done by you. Do
+you think this is going to change like
+with cloud in terms of that you're not
+going to have like standalone products
+anymore and it's all going to be part of
+cloud? Because that's I think a fear
+that a lot of open source people might
+have that it's all going to be bundled
+into this and then not be able to
+extract it into a standalone deployment
+anymore. Like what's the strategy for
+you there for future products? I mean, I
+don't think we would try to force
+anything like that. Um, I think we'll
+honestly have our hands full with just
+the core feature set of cloud for a long
+time. Um, so to be honest, we haven't
+thought a lot about like future products
+that might be standalone or built into
+cloud. It's just sort of too far out
+there on the timeline. Um but even
+nightw watch is a good example of like
+we could have sort of built the
+observability stuff into cloud um and
+said if you want all of this good
+observability stuff you need to run on
+Laravel cloud because that's most
+commercially advantageous to us. Uh but
+we didn't do that obviously it's it's a
+whole separate product that you can use
+whether you're on forge or cloud or even
+just rolling your own AWS deployment. um
+you just run the nightw watch agent
+wherever you are and we start pulling in
+the data. So you know I've already been
+conscious of that and it's something I
+want to avoid is sort of like I think
+it's very obvious when companies like
+artificially force you into certain
+things that are only that way so that
+they can get the maximum amount of money
+from you instead of like what's actually
+good for the user or the most users or
+you know what's going to be good for us
+long term. Yeah, I think we'll have our
+hands full with these two new products
+for a while anyway. Oh, for sure. And I
+think they are probably Yeah. the most
+ambitious and most like nuanced products
+that you've built like ever ever since
+you started with all of this. I I love
+this like when I when I heard uh the the
+Nightw Watch announcement at Laracon
+like I was watching it through the
+stream cuz you know you busy at another
+conference but I I love just the idea of
+you finally tackling this because it
+always has been something I want this. I
+hope they're going to make it and and
+then it's just gonna naturally happen
+because you you also have the the other
+system that needs the observability to
+be performant, right? Yeah, me too. Like
+even um even just like one screen of
+Nightw Watch like for me like the log
+screen of Nightw Watch, anytime I'm
+starting up a new Laravel project, I
+would always just almost kick the can
+down the road of setting up proper
+logging because I knew it was just going
+to be a pain and I didn't want to mess
+with it. But just even if I only had
+logs in Nightw Watch, I'd be happy with
+that. Like that's just so much better
+and a level up of the experience for me.
+Yeah, you should see what I'm using. I I
+use uh like an SSH connection that uh
+has a tail on the laral logs file in the
+storage directory. That's my logging
+like that's running right here
+somewhere. That's nicer looking than a
+lot of solutions I've seen, right? But
+that's not how it should be, right? Like
+there should be like from the start a
+way for you to opt into something that
+that works for you, has data retention
+and searchability, that kind of stuff.
+That that matters a lot to me. Um and
+I'm I'm glad you're building this. I do
+wonder uh and this is probably something
+that is is a very recent thing. how much
+AI in in terms of like in all kinds of
+ways Laravel will have in the future.
+Like right now AI and Laravel to me is
+really just I ask my chat and my claws
+to build me Laravel stuff and it is good
+enough to build this and understand like
+what Eloquent is, what the Laravel like
+directory structure and and what jobs
+are cues are and that like AI can build
+Laravel apps pretty well. But I wonder
+what your perspective is on both using
+AI to code with and AI as a part of the
+larger level ecosystem. What are the
+thoughts there at the moment? Yeah. Um,
+so I'll start with like my view on AI
+coding in general, which I'm really
+bullish on. I think that probably all
+programmers will use AI assistance in
+the future. I think that's pretty
+inevitable at this point and it's it
+feels like we're almost already there
+basically. And I think it's great
+honestly. Like I think it's awesome. I
+wish I had those kind of tools when I
+was first learning to program. I think
+it's awesome for writing the language
+you know, but I think it's also awesome
+for learning new languages and spiking
+out something in something you're not
+familiar with. So very bullish on that
+and think that will continue to get
+better and more pervasive in the future.
+As far as AI and Laravel, I mean, I
+think about it in a couple different
+ways. One thing we're kind of kicking
+around now is I think you're right that
+like the current tools actually write
+Laravel pretty adequately and it's
+totally pretty much fine every time I
+use it. This kind of stuff is changing
+every day. Like even just yesterday I
+saw like the cloud code SDK and the new
+GitHub action stuff. So it's just like a
+constantly changing thing. I think I'm
+interested in like seeing how we can
+teach the AI sort of like that final
+level of polish that you know you might
+put on a Laravel app. Uh, Laravel's been
+around a long time, which is great for
+the AI stuff because it's there's lots
+of stuff out there for it to be trained
+on and code and all of that and
+material, but um, like how can we get it
+to write Laravel, how maybe we would
+write Laravel as a company or be a
+little bit more opinionated with the
+latest sort of like best practices and
+and how we would write things cleanly.
+So, we're interested in that. I'm also
+interested from like a tooling
+perspective.
+I think it's going to be really
+important for Laravel to be the easiest
+fullstack framework to integrate AI with
+whether that's like an AI SDK. Um, so in
+PHP, the most popular one right now is
+probably Prism PHP which is like a
+backend agnostic AI SDK very similar to
+Verscell's AI SDK where you can use
+OpenAI or Enthropic or all these other
+providers. So that another thing we're
+kind of working on right now is the
+fastest way to build MCP servers with
+Laravel. So many people are writing
+those these days and we'll see if that
+continues. It's hard to it's hard to say
+um because things change so fast, but
+that's something we're actively working
+on right now trying to get to 1.0 is
+basically an MCP server framework for
+Laravel that feels very easy to get
+started with and quick to spin up these
+ideas and deploy them as well. So I mean
+overall, yeah, I think there's going to
+be more AI related stuff in dev and
+Laravel. I think it's overall a good
+thing. I I think it's really cool and
+really helpful. And um I want Laravel to
+be the best way and and fastest way,
+most productive way to build AI powered
+apps. And I think Laravel's always been
+an opinionated full stack framework and
+it makes sense for us to have an opinion
+and a clean way to integrate this stuff
+into your apps. I think we'd be kind of
+like burying our head in the sand if we
+didn't do that. Yeah, it would be like
+missing the the just the the point of
+conversation that is happening right now
+in the community, right? Like
+everybody's trying to figure it out.
+Like people have opinions obviously they
+always have opinions and and you know in
+all different kinds of ways but yeah I
+like what you're saying because you're
+not saying we need AI in our product
+because so many people do. You say we we
+should facilitate people using AI to
+build products. That is a very different
+thing and I love it. I love the fact
+that it's not about you know like hyping
+or using the the hype train but actually
+building reasonably useful things with a
+new technology. I I that that is most
+appreciated and I agree like uh making
+it easy to build things with AI and
+through AI that should be the angle for
+a framework right now. My my big dream
+is that a framework and Laravel should
+could maybe the first um ships the
+Laravel installer ships with a really
+really small language model that is
+purposely and you know intentionally
+trained just on writing extremely good
+laral code and you can run it locally.
+It it runs in the IDE. I mean, I look at
+my my PHP storm and they have some weird
+internal little code completion things.
+Now, I don't know what it is, but I
+assume it's it's a really small language
+model. If that would be something a
+framework can provide and then all
+frameworks could provide something like
+this for their code bases, that would be
+so cool and so helpful. I think we're
+like not far from that, honestly. you
+know, with like this isn't local, but
+like with things like the cloud code SDK
+that I that I was talking about that I
+saw yesterday, the ability to interact
+with it non-interactively like they
+announced and feed it prompts and
+context and things gets us close to
+having like these artisan commands or
+local things that I actually know how to
+write good Laravel code which is I think
+super cool. Me too. Like obviously like
+I yesterday was a moment for me too
+where I used Juny. I think that's the
+internal agent that PHP Storm um offers
+now. And and I use it for the first time
+and it was bizarre. Like I'm I'm not
+much into agentic coding cuz I still
+want to do my own coding which is
+probably a traditionalist's perspective
+at this point. But I I gave it a task. I
+I wrote a spec. I took 20 minutes to
+write the spec and then I just walked
+upstairs to get a coffee. I came back
+down and the thing was implemented. And
+I was like, this is crazy in the best
+and worst way at the same time because
+like now the thing is doing my job. All
+I'm doing is instruct. Interesting to
+say the least. Like how how much AI
+coding do you use like for developing
+Laral features at this point? Like how
+how does that work for you and the team
+I guess? So a lot of the work I do on
+Laravel is reviewing PRs
+and a lot of the changes I have to make
+are relatively minor and don't require
+assistance, but some of them end up
+being pretty big. And what I'm really
+interested in and what I what I thought
+about yesterday when I read about this
+new GitHub actions integration with
+Claude and stuff is like a lot of times
+if I get a PR that's sort of non-trivial
+and I have some feedback to give to the
+author and then I just kind of have to
+sit around and wait for that to be
+implemented if it ever is right like if
+if they come back if we're able to
+unlock that in like PRs as a open source
+maintainer if I could just at the agent
+Hey, this PR is 90% good. Here's the
+things I don't like and kind of want to
+change about it. Can you implement that?
+And it I can go downstairs and get a
+snack and come back and it's kind of
+done. That's like insane, you know,
+unlock. Um, so yeah, I'm curious to see
+I'm curious to see how that develops.
+Yeah, I see the same thing for um
+security testing or even for just trying
+to do background improvements like when
+you were just saying that the thing
+about how people on cloud uh built these
+weird apps that have 500 database
+queries. Well, what if you could spin up
+a complete clone of the repo, like have
+an agent try to fix it and suggest it to
+them automatically because you're linked
+to that GitHub account anyway, right?
+That to me is smart AI usage inside a
+product. Yeah. And I think we're super
+interested in that for Nightw Watch. And
+so some of the ways we're using AI on
+Nightw Watch right now are pretty basic,
+like summarizing exceptions or issues or
+things like that. But you could imagine
+where we could do something like what
+you're saying. We know pretty much
+exactly why the request was slow either
+which middleware it was, which query it
+is. We can see if there was an index on
+the query, all of that stuff. If we're
+integrated with cloud, then we can just
+we know what repo it is. We can send you
+a PR, we can deploy it for you on cloud.
+So, it's kind of the whole story could
+be covered, which I'm very interested in
+exploring. Yeah, for sure. Yeah, that's
+that's going to be a really fun time.
+It's already fun, right? It's already
+fun to have these things do things for
+you, but to have that done in the
+background and have problems be fixed
+before you even notice them. I that that
+is a it's going to be a weird future for
+people who are traditionally trained
+software engineers. That's how I feel.
+Yeah, I it's different, but I think it's
+exciting. I I don't feel threatened by
+it uh at all, you know, like some people
+um seem to. I think it's really an
+exciting unlock in productivity for
+developers and just gives you so much
+more power. Honestly, as a single
+founder as well, like if you're
+bootstrapping a company and it's just
+you working on something, you can just
+be so much more productive, especially
+on maybe the boilerplate work that is
+pretty boring, that often is where a
+product kind of gets stuck. You know,
+like if you've done a lot of side
+projects, you know, it's basically a
+joke at this point how many unfinished
+side projects people everyone has,
+right? And you they usually fizzle out
+because you lose excitement during the
+non- boring parts of the development
+cycle. And being able to kind of push
+through that with AI is pretty exciting.
+Yeah, I I heard a lot of people are now
+doing VIPE coding on the side on their
+old projects just by throwing them into
+cursor or wind surf or whatever and like
+finish this. That's really how that
+works. And I love this. I love that code
+gets like reactivated, resurrected even
+and then some agent takes maybe takes
+care of it. Maybe it goes nowhere, but
+maybe it goes to a point where people
+can actually deploy it and then
+something is built that wouldn't have
+been built before. That's really cool.
+Do you think you're ever going to hire
+like a full-time AI employee? I could
+see that happening. I wouldn't be I
+wouldn't be surprised, honestly. I'd
+almost be more surprised if we didn't
+eventually. Yeah. Right. Like it's going
+to be a cyborg team at some point. Yeah.
+Pretty wild. That's bizarre. Well, I'm
+glad you have a very sensitive approach
+uh to AI. One thing that when I think
+about like a AI existing AI systems like
+platforms that help you build code, I
+want to mention one thing. I asked my my
+Twitter feed a question recently uh
+about what the number one thing is that
+stops them from using Laravel for the
+next indie business because my my
+audience is a lot of entrepreneurs and a
+lot of software people at the
+intersection and I would just wanted to
+see what's what's the vibe around
+Laravel and why do people not use it
+because the people who do use it there's
+a lot of them they they are very happy
+with it and they understand that the
+ecosystem is really cool the
+integrations are easy if I want payment
+I just do one com composer require and
+I'm kind of done like that kind of stuff
+is just extremely powerful so I wanted
+to see the other side and besides all
+the people saying well PHP sucks what
+you you will find those people still
+like that that are kind of left in the
+the PHP 4.0
+world of 2005 or whatever and people who
+still use JavaScript or they use
+JavaScript for everything because that's
+also like from the server to the front
+end to mobile you can use it on every
+platform fine with them the interesting
+ones were and I'm going to quote this
+verbatim because I want to see what you
+think about this I don't use Laravel
+because the fact that neither cursor nor
+replet ever suggests Laravel as an
+option I found that interesting like
+what are you going to do about that like
+how can you actually get your your
+framework into these tools I mean I
+think that's something we are working on
+that internally even with the AI
+providers you know trying to improve
+this I think it's like a valid point
+right it's and it goes for all all all
+new frameworks that will ever be created
+right like it it has created this weird
+situation where if I were to write
+Laravel today it would like the AI would
+have no idea how to write it it's it
+feels like almost so much harder to
+launch an open-source web framework work
+today than it was 10 years ago because
+of this very problem. And I'm very
+interested to like solve it. Uh because
+I think Laravel is uniquely suited to
+I think it's the most like expansive and
+cohesive full stack ecosystem you can
+write a web application in in the sense
+that there's a solution for pretty much
+every problem you're going to have more
+or less. And so for AI just to be able
+to write all of that and you can deploy
+it and you don't have to go sign up for
+eight different SAS services to sort of
+build your your full stack app is really
+cool. Um so yeah, we're aware of this
+and like very interested in trying to
+solve this as best we can. Um but
+because I think it's totally valid like
+it's like the new it's the new SEO
+basically, you know. It really is a a
+AIO or or something, right? Like that's
+that's where we are. Yeah, I think
+Stripe has been doing something really
+interesting with her with with their
+dogs like they it's almost like now
+native markdown and a copy to markdown
+button is everywhere and even like open
+this in chat GPT is a is a button like a
+button that's bigger than other buttons
+in the documentation. I think they've
+understood that they need to feed these
+things into the systems either by usage
+or by asking CHBT to crawl it so that it
+gets ingested into the the next batch of
+training data for the model. Like that's
+the AI optimization stuff that we are
+still all just trying to figure out.
+Like llm.txt describer full website
+somewhere and then all documentation
+with code examples to just ingest. It's
+it's a bizarre world we're in cuz I
+didn't have this on my menu for 2025
+that I have to export all my docs as
+markdown file for some computer to eat,
+right? No, I know it's crazy. I never
+would have expected it. Honestly, it's
+it's been a wild couple years, but I can
+already feel like personally how my
+software development experience is
+completely alien to what it would have
+been like 2 or 3 years ago. And that's
+not even with agentic stuff. Just even
+being able to take a piece of code,
+throwing it into some window, and
+telling it, "Hey, fix this." And it does
+fix it. That is magical. I I laugh
+sometimes because over the years, you
+know, six or seven years ago, I would
+routinely ask like on Twitter, what
+should we build next for Laravel, you
+know, just to get feedback? And there
+was always these like joking responses
+of like, can it build my app for me? Can
+it like code for me? And now that is
+like 100% reality, which is so
+mind-blowing. And at the time it just
+felt like a joke, you know, and that was
+not that long ago. Yep. I'm I'm not
+surprised that people are afraid for
+their jobs or just even for for
+stability. I hear it from investors,
+too. people who are investing in SAS
+businesses, they don't know like where's
+this going to go? Are we investing in
+something that somebody could build in
+20 minutes a couple years from now or is
+there a mode? What is the mode? Right?
+Like that that is that is problematic. I
+I think what you're doing in building
+the the whole system like from the
+framework to the tools used to deploy it
+to the place where it's deployed and the
+service like the customer success teams
+that help you deploy this. I think
+that's the mode is to have control over
+the whole like channel from start to
+finish. But I could see how other people
+don't have that luxury, right? Like
+that's a real problem to them. Yeah. And
+for many people, the ideas were the hard
+part in my opinion. Like you can you can
+build apps that have no product market
+fit faster than you could before. You
+know what I mean? Yeah, that's right.
+That's the one thing that that never
+changes, right? Like there's a there's a
+lot of bad ideas that are now just
+executed faster. That's Yeah, that's
+pretty much Yeah. Which is fine. Better
+to like fail fast, you know, than to
+waste a lot of time and fail after years
+of develop hand coding onto the next
+idea. Yeah, I I wonder where the balance
+is. I I do wonder where the balance is
+here because sometimes failing fast is
+like what two days of no customers and
+the idea is bad, right? like is should I
+take a month to to see if I can actually
+do some marketing that that it might be
+too fast and a lot of people have like
+AI FOMO and they just feel like they
+need to add AI features and whatnot and
+they fail to see like what the actual
+value is. Yeah, maybe it's screwing up
+our entire like business founder
+attention span of like uh I didn't hit
+100k, you know, a week in the first 24
+hours. This is done. You know, honestly,
+if if you look at Twitter, that's
+exactly what's happening because the
+algorithms then also amplify these
+totally outlandish messages of people
+who had a fluke success or just like
+random chance. Yeah, that's that's going
+to be a problem, but I guess that's a
+problem for another day. Um, I think we
+we talk about the the stuff that's
+happening right now here, right? And I
+think Laravel is happening right now. To
+to anybody who thinks PHP is uh outdated
+in in 2025, what is your perspective as
+somebody who's built an empire on top of
+that language? You know, I think PHP has
+such an interesting history from being
+created in a very similar way to how
+Laravel was of just like a guy's
+personal collection of tools to build
+his own ideas faster to powering
+facebook.com
+and many other, you know, very notable
+startups. I think PHP is like
+it's one of the few languages that was
+built specifically for the web and only
+for web programming in its in its
+original inception. And it's honestly
+just still such a fast, productive,
+nononsense kind of language that anyone
+can learn. It's very quick to learn even
+in just like a week, you know,
+especially with AI assistance. It's not
+a very complicated language. Uh, but yet
+it's fast and there's tons of
+documentation. There's tons of
+educational material about PHP, about
+Laravel. And I still think it's really
+like the most productive way to build a
+web app, especially paired with tools
+like LiveWire or Inertia where you can
+pair like a modern React or Vue front
+end with your Laravel backend in a way
+that just doesn't make you want to pull
+your hair out. I I think it's a great
+way to build applications. And so that's
+why I still like if I was starting a new
+business today, it's I'm not even
+thinking about anything else. And
+obviously I I built Laravel, but I just
+think it's just the fastest, most
+productive way to build things. And I
+hear so many times of like I'll hear
+developers venture into other
+ecosystems, whether it's like full stack
+JavaScript or something else, and then
+come back and be like, "Oh my gosh, like
+I'm so much more productive on this
+stack. Uh my team is more productive."
+uh because we're not, you know, it's
+nice just to have a structure and a set
+of opinions on how to build things and
+not have to like reinvent the wheel for
+every possible thing you need to build.
+Uh which I think is one area that
+Laravel excels. Yeah. And and I think
+our our community, I'm just saying our
+because I feel like I'm part of the
+Laravel community, is is not as
+fragmented and doesn't have as much
+infighting, right? There's there's not
+this kind of framework versus framework
+stuff. Like you literally have Vue.js
+and and React and whatever you want to
+put there. Swell, sure, why not, right?
+think you you can find a way with
+inertia to to get all of these things
+working together. I think Laravel is is
+a is an integrated framework and and not
+like a an excluding kind of framework. I
+I think it's very integrated and very
+cohesive. And I think what separates
+Laravel from maybe other let's say more
+traditional full stack frameworks is
+we're also I think an open-minded
+community in terms of as developer
+tastes and practices change we adopt
+them in a way that is not like
+reactionary but like considered and I
+think inertia is like a great example of
+that of like look it's just unrealistic
+to expect people to write their
+frontends using PHP echo tags forever
+react in a in a large way as kind of one
+let's say front-end mind share among
+developers and we would be silly to
+ignore that similar we would be silly to
+ignore AI and say oh that's for the kids
+that's stupid we only handw write
+artisan code over here you know so I've
+always been one to not reject where
+things are heading or not like blind
+myself to it and we've tried to just
+kind of embrace you know as the web
+development landscape evolves we evolve
+with it as best we can and continue to
+try to build the most productive way to
+build apps. Yeah, I'm not surprised. I
+think that's that's what PHP was too,
+right? PHP was this collection of things
+and then it got better and better with
+every version and integrated
+object-oriented stuff and it moved away
+from these weird like arbitrarily named
+things to a better internal structure.
+Right? The first time I I built PHP was
+4.0 somewhere in 2002 or 2003. like it
+was I was doing typo3 backend extensions
+and it was a horrible thing to do but it
+worked and that's the last time I used
+PHP prior to getting into Laravel like a
+couple years ago. So I had all this this
+stuff still in my mind about how
+unusable it was but I find myself not
+even using any of the the functions that
+I used back in the day. That's how much
+the language has changed. Yeah, it's
+pretty crazy and it's easy to like I
+mean you can download like a reactor
+view or livewire starter kit and just
+kind of look at the code and it it is
+pretty different you know it's very
+different than how PHP used to be
+written. Yeah, for sure. And and I think
+that's the great part like you you it's
+a it's a thing that adapts to the
+reality in which it operates. That is
+the opposite of having this kind of very
+agendadriven uh framework development. I
+don't want to hate on anybody like do
+whatever you want. I just love that this
+is uh the choice that I can now make and
+build my own monetized applications
+faster and more reliable than I ever
+could before. So, I really appreciate
+you spending like your whole life
+building this. So, thank you so much.
+It's really cool. And I I also
+appreciate all the um the products you
+built along the way because not only are
+they helpful to me as a developer, they
+are inspirational to me as a founder.
+That that is something and and to a lot
+of people out there, right? like the the
+way you approach business and the way
+the decisions that you make along the
+way, what you've just voiced over the
+last uh half hour or so, that is why
+this is successful. So, thanks so much
+for for sharing all these uh very
+amazing insights. I I can't wait to see
+what the future holds for Laravel. Where
+can people follow you and uh the
+businesses that you run and the journey
+that you're on if they want to see more?
+Yeah, so they can follow me personally
+on xx.com/taylorwell.
+Um, you can follow Laravel at
+x.com/laravelphp
+or just at laravel.com and
+cloud.laravel.com is where you can check
+out, you know, our latest uh cloud
+platform and nightwatch.l.com will be
+coming soon so you can get on the
+waiting list for that. That is amazing.
+Well, thanks so much Teddar for being on
+that. That was great insight into a
+framework that I love. So, thanks for
+everything, man. Yeah, thanks for having
+me. And that's it for today. Thank you
+so much for listening to the Bootstrap
+Founder. You can find me on Twitter at
+avidkal vid k ahl. And if you want to
+support me in this show, please share
+potscan.fm my SAS business with your
+professional peers and those who you
+think will benefit from tracking
+mentions of their brands, their
+businesses and names on podcasts out
+there. Potscan is a near realtime
+podcast database with a stellar API. We
+have 32 million podcast episodes in the
+back now. The database is humongous.
+Please share the word with those who
+need to stay on top of the

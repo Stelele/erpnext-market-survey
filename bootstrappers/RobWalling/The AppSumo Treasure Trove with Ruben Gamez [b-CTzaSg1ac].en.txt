@@ -1,0 +1,894 @@
+﻿[Music]
+so we're going to kick the day off
+with a talk from ruben gomez's
+conversation between he and i
+about his app sumo deal reuben is such a
+he's such a good um framework thinker
+he's so deliberate with his decisions
+that
+uh you know i really really wanted him
+to be part of microcomp remote
+and to talk about how um really how he
+decided
+to do an absolute deal we talked about
+maybe when to think about not doing an
+absolute deal and then he goes through
+all the numbers the revenue the number
+of signups number support requests
+it really wound up being good i think we
+will dive in
+so let me welcome ruben gomez from both
+bidsketch and now these days he's
+focused on
+doc sketch his electronic signature app
+and let's roll
+ruben gamez thank you so much for
+joining me here today
+at microconf remote happy to be here
+thanks
+so for folks who don't know you are a
+multi-time
+sas founder you still have bid sketch
+which is
+proposal software and then doc sketch is
+what you're working on
+these days and that is electronic
+signature app
+so folks you know who have used docusign
+or hello sign
+will have a pretty good idea of what
+docs catch obviously you have some
+differentiators from from those tools
+but that's that's the gist
+yep exactly right and you ran an appsumo
+deal
+when was it so i was looking at
+that it was uh may 2019
+so almost two okay a couple years ago
+yep
+and um what's been cool is you've been
+super
+transparent with um a lot of the stuff
+around that up sumo deal
+and probably most importantly rather
+than i mean we're going to cover all the
+numbers in the ins and outs
+but you've been transparent with your
+thought process of
+when you should consider what you you
+know the pros and the cons and here are
+things i might do differently and you
+know you and i spoke on startups for the
+rest of us
+about it and then you've actually given
+some advice to you know some mutual
+friends that that you and i have some
+tiny seed batchmates as well
+when they are considering appsumo deals
+you know what to what to think through
+and so that's really what we want to
+capture today is
+the thought process of you know things
+to think about
+what it actually looked like for you you
+know how many signups did you receive in
+what amount of time
+what were the support what was the
+support burn like how did you
+handle that and how much money you made
+a lifetime app
+sumo deal so this is your decision
+process and kind of some things that you
+think about
+uh you know assuming um i know you've
+you and i have both done
+uh multiple appsumo deals i believe so
+what are your criteria and
+what's your thought process around this
+yeah i've done two with bit sketch
+and one with doc sketch so i was already
+pretty comfortable with doing absolute
+deals
+um i there were a few things that i had
+to think through and
+and i ended up researching just to make
+sure that it was the right thing for doc
+sketch
+uh but appsumo has changed a lot so it's
+much more
+community and uh there are just certain
+aspects that are a
+much bigger deal than they used to be so
+um nowadays i mean
+the main thing that i looked at was uh
+what are we gonna get
+out of it versus what could we you know
+what could end up hurting us long term
+or
+you know be tough for us to deal uh with
+long term
+um obviously the money when i talked to
+appsumo they
+they told me that on average so this is
+changed too you make more money on the
+appsumo deals
+nowadays which is pretty cool i guess
+their list is bigger and they go
+for a longer period of time so they said
+that
+for us basically you know depends on how
+much you're charging for the deal
+it's pretty standard what you get for
+for each i think
+i was 30 but now days they're doing 25
+or something like that and then it can
+change uh after that
+but it was basically turned out to be
+about 20 to 50
+000 was the average deal you know in
+revenue
+based off based out they didn't give me
+uh that number in revenue they just give
+me
+give me the number and buys and based
+off of like what we would be charging in
+our cut and all that stuff that's
+around what i figured okay if we you
+know fall in that average we'll
+we'll get something like that and that
+is net revenue to you
+right correct that number right yep uh
+then the other thing that we were
+thinking about was just like of course
+the reach they have a really big list
+uh there's a lot of buzz going on when
+you're doing the deal a lot of people
+see
+see the dlc your product they try it out
+um you know helps word of mouth helps
+other marketing efforts things like that
+exposure also to to
+other segments and we have a very
+horizontal product
+so we had been talking to a lot of
+different segments in the market
+talked a little bit to real estate more
+business
+offices like accountants lawyers things
+like that
+the their deal really just brought
+everybody from all sorts of
+industries so that was really
+interesting and actually way more useful
+than i thought it was going to be
+so that was that was one of the good
+things the the bad
+and the the reason why a lot of people
+don't want to
+do the deal and i wouldn't even say it's
+bad as long as you're thinking about it
+the right way
+is just life it's a lifetime deal they
+pay once
+and then that's it so then support for a
+lifetime right the best way that i've
+that i've learned to think about that is
+just to think of those as free users
+so if you're okay with doing having free
+users or doing a free plan
+for a short period of time but keeping
+those users around
+then then you'll probably be okay
+and that means that there's there isn't
+a high cost to support these users
+so uh that's a that's a really big deal
+you don't want it to be
+super high touch right you get 3000
+people that you have to on board
+uh and you have to set up these calls to
+onboard them properly or else they're
+gonna have a really bad experience
+um ongoing support is really low so you
+know it's
+it's not costing you money in some other
+way you have support or
+for every uh like core action that they
+take for us
+it's sending documents and getting those
+signed there is a tiny tiny tiny cost
+there because we use
+uh some third parties to help with that
+but it's uh totally okay because we have
+a viral component
+and that's another thing that could be
+really useful if you have a viral
+component then
+the more people use it that's why
+freemium plan works really well for us
+the better is even without without um
+a free plan or even without the viral
+component
+like it's still the word of mouth that
+you could get from that the buzz and all
+that stuff can be worth it
+so i wouldn't say that it's uh necessary
+but we weighed all that out and just
+decided
+that it was a good good good thing for
+us to do
+right so it sounds like some of your
+pros are you do get an influx of cash
+and for a
+bootstrapped or mostly bootstrap company
+you know netting 20 to 50 grand
+for four weeks of of work it can it can
+allow you to hire someone it can allow
+you to invest in ads or whatever
+um so there's there's a benefit there
+the exposure both to the appsumo
+audience and also to the broader world
+can bring in it can it can give you uh
+backlinks for seo it can also
+bring in i mean in my experience there
+were folks who signed up outside of the
+appsumo deal during this time that i
+really they
+couldn't attribute like just the direct
+traffic went up i'm not sure if that's
+still the case these days
+didn't really happen for us on uh on uh
+doc sketch
+we did launch shortly after that i mean
+closed it back down
+but uh definitely less of an effect with
+bitsketch that
+that happened that was a big deal yeah
+and then
+you know in it sounds like in thinking
+about it um
+if you're if your app has heavy
+onboarding at the front or maybe a long
+time for people to get value out of it
+and and they're either expensive to
+onboard or support or there's an
+incremental cost and of course i always
+bring up the example of of drip where
+every email we sent was a particular
+cost
+and onboarding you know truly on board
+into a marketing automation platform
+is pretty time intensive so the drip
+would probably have been a less
+uh drip is marketing automation software
+obviously um would have perhaps been a
+less ideal candidate than doc sketch
+yep yeah i would have uh
+if i had a product like drip it would
+have been
+really tough to do a deal i think
+because it's you you have to think of it
+the same way as doing premium
+right like you did you you did freemium
+i think after the
+acquisition right yep because there's a
+lot to it
+if you're going it was too expensive to
+do up front
+cool so then talk to me about um
+preparing
+for 800 000 people to check check out
+your deal how do you even
+mentally go about that yeah that was um
+that was the size of the list at the
+time and i know that they trimmed the
+list and all that stuff so i don't know
+you know if it's more now but uh it's a
+lot of people checking out
+your deal signing up you know looking
+for support so
+uh one of the things that i did was just
+research
+just you know it was a much bigger list
+than than it used to and so i wanted to
+get a feel for what the deals were like
+and i talked to other founders that done
+deals you introduced me to
+to somebody from leadpages
+who had done deal i reached out to
+people in the appsumo slack they invite
+you to a slack so you could just you
+know
+direct message people and what i did was
+just look at uh
+sas tools that were kind of similar as
+as similar as they can be to you know
+to our tool uh because i figured that
+they might have a more similar uh
+experience that they could share so i
+learned a lot that way that was cool and
+then i just looked at
+i asked the apsimo team what are some
+deals that went really well
+they gave me a like three and i just
+checked the comments the reviews like
+uh try to figure out what they were
+doing that was different than the other
+ones compared them to the other ones
+i found things like they were just more
+responsive
+their uh the answers to the questions
+and to the
+feature requests were better uh you know
+so i just
+like stole a little bit from you know
+what
+a little bit of everything that i just
+liked so i was doing the research
+the absolute community does tend to
+favor certain things
+a lot too like white labeling is a
+really big thing for them
+and one person told me beforehand too
+um they open it up for a few days to
+people
+to uh customers absolute customers that
+pay for
+like a special tier or something like
+that and uh one of those uh
+people was really useful she gave me
+some links to facebook groups that was
+another thing that i did
+uh i i uh
+joined some facebook groups of people
+that like to buy these deals
+and uh there there are several of them
+and they have a lot of people in there
+and they do talk and when your deal is
+going on you want to go be in there
+answering questions and all that stuff
+uh it's helpful because they do drive a
+lot of buys
+yeah yeah yeah that's not something i
+would have i would have thought about
+i hired somebody part-time for support
+because it was going to be a lot of a
+lot of support and we were
+still kind of it's super early we were
+building out features
+um in in digging up some of the like
+numbers and all that stuff for this
+um and looking at some of the comments i
+really there was something that i saw in
+there that
+i i didn't i was like what is this right
+uh
+it was uh that we were missing like the
+audit page
+feature so we were super basic at that
+point when we
+when we did the deal uh and people were
+like they don't even have
+they don't even have like you know blah
+blah this stuff and i'm like
+that can't be right what's my answer to
+that and i was just like oh it's coming
+you know it's like whoa we didn't even
+have that um
+but i was just kind of looking to see uh
+and trying to figure out
+like what are some of our answers going
+to be um so i
+so um when the time came and i have all
+these different
+questions to answer i'm not trying to
+trying to think uh
+on the spot you know you have to do that
+a little bit but i'm
+basically better able to come up with
+with some answers that
+that people like the first day i told
+the person
+um not to answer any of the questions
+at least for the first part of the day
+and what i did was just go in there
+myself
+and answered a whole bunch of questions
+because i didn't really know exactly
+what they were going to ask
+but that helped this person see how i
+was answering those questions and then i
+just told her
+like hey when you feel comfortable and
+when you see one how i'm answering go
+ahead and start answering some of those
+questions
+then i just took a bunch of those
+questions put them in a google doc
+nothing fancy just copy paste with my
+answers and then did like a really quick
+like faq
+and added to it and uh over the next
+couple of days after that she was just
+able to answer you know most of the
+questions almost all of them
+i still went in there and you know uh
+answered questions myself so
+that was that was one thing the other
+thing for the support stuff is that a
+lot of people
+worry that they'll do a deal and um
+they'll get support and they'll just be
+never never ending right
+so you can see here on the yeah yeah you
+can see here
+the definitely there was a big spike but
+then
+after the deal like it just goes down
+and there's definitely more support
+before
+uh after than before that's because we
+weren't you know we weren't launched yet
+before
+uh but it's nothing crazy it's still
+completely manageable
+um but it does go back to i think one of
+the things that
+that i hadn't uh when i talked when i've
+spoken to people before about doing the
+apsimo
+deal that i hadn't until recently
+thought too much about was like the
+mindset
+part of it not until somebody who's
+thinking about doing the deal
+sort of brought up as a factor for them
+and basically
+if you're going to have if if mentally
+you have a tough time with somebody
+let's say two years later
+still using the product and uh sending
+in support
+then you're gonna have a tough time with
+this
+um as long as you're gonna bother you
+it's gonna be a tagging thing of like
+you see an app soon
+or you see a support request come in you
+know they're an appsumo customer by
+whatever means
+and you're saying if that's going to
+bother you every time you see it
+maybe it's not maybe it's not worth
+doing right yeah because yet
+life's too short yeah as long as you
+frame it right whenever i see that
+coming in
+it's like okay these are people who are
+incentivized to recommend us
+to they're using the product they're
+exposing other people to the product
+uh so i i'm totally okay with it
+and i don't have a problem with that
+right and again i think of them as free
+same as for you users right and that is
+something that we didn't call out
+earlier but you do have that oh you
+called it out but i didn't call it out
+specifically is you do have that viral
+component where
+your electronic signature so every
+person that uses it whether they're free
+or not or
+only paid once they are if they're using
+it they're sending out these document
+requests and so
+other people are being exposed and that
+can
+spread the word and that's uh yeah
+another thing it's just a way of
+thinking about it
+i know somebody that has a product
+that's very similar that
+has a viral component um and
+they did a deal a while back and they
+regret it
+because they think of it because it just
+they think of it differently and it bugs
+them
+reviews are really important you start
+to get uh reviews on the appsumo
+page and other people look at those to
+sort of decide
+whether or not they're going to buy just
+like anything right and
+we basically had to help
+make those reviews better we had an
+automation
+on day two for anybody that
+that uh had an appsumo coupon that they
+redeemed
+in their account on on the second day we
+sent out an email that basically just
+said
+that uh you know we're a small team out
+of portland oregon
+we're uh excited about uh you know them
+signing up
+improving the product for them and one
+of the ways they can help make the
+product better is by helping us grow
+uh and uh one of the ways that that
+happens is you know
+they basically just uh help us with
+reviews on on appsumo
+so uh we did that and that helped move
+that score
+up there we did that for not the entire
+time but we did that
+for a little bit and i wanted to use uh
+you know like they're most excited
+people that are buying this deal
+right when they sign up so i wanted to
+you to like
+use that to also help us on the review
+on other review sites not just appsumo
+so like capterra g2 crowd
+just changed the link and changed a
+little bit of the wording after
+after like a few days and had them sort
+of like go back and forth between
+the different sites and contribute
+reviews there which
+has been uh really helpful for us
+[Music]
+the revenue was 41 1445 from this
+almost 2 800 buys so 2799 people bought
+and uh interestingly enough there were
+refunds uh so two the 2800
+number is after the refunds right
+um so it's like 30 30 100
+total buys is that right yep or oh wow
+okay
+yeah and so that's hey 41 000 is always
+for some reason i always think you made
+like 32 or
+five i don't know yeah i thought too too
+i'd i've actually said that
+but then uh i dug up the numbers and it
+was forty one
+thousand fourty grand that's not yeah
+yeah that's
+not a that's not a bad take for this um
+and so third why do you think i mean
+that's like 10
+10 refunds do you know if that's normal
+i think it's
+high it's kind of normal um i think it's
+also a little bit high
+um i think it's normal to to see a
+higher
+that's the way that i'd say it's normal
+to see a higher refund rate than
+what you would normally expect from
+people who you know buy your product
+because a lot of people just want to um
+they'll buy without even really
+evaluating your product
+right they buy then they log in yeah
+and so we had a couple things that were
+confusing people some people thought
+that
+we were like a contract generation sort
+of
+tool so that uh and that was just some
+of the wording
+uh just seeing the link on our nav that
+just said contract templates and some
+people would
+go there and like oh okay they offer
+contracts um
+and some of the wording on one of the
+first emails that went out
+to the apps and which you know and on
+the landing page we changed that
+to clarify so i think uh that was partly
+causing that also we were just super
+early right we didn't have some of the
+basic features so
+yeah i think um people can expect
+uh some refunds but maybe not this many
+yep very cool and so i think in
+conclusion
+yay or nay like are you happy do you
+have regrets you guys no deal
+no it's uh i'm really happy that we did
+the deal it helped uh you know on
+several fronts like a little bit of
+revenue it helped
+on the marketing side just exposure uh
+customer development
+um really on on
+we and we earned uh we got some big
+bigger deals that we wouldn't have i
+know
+for sure we wouldn't have gotten if we
+uh outside of this
+just bigger teams signing up so it's
+super useful
+very cool i know appsumo and again we're
+not saying you should do an absolute
+deal but obviously it worked for you and
+we tried to point out some pros and cons
+if some folks out there maybe maybe
+shouldn't do it i know appsumo is booked
+out
+several months because i know a couple
+other people still talk you know also
+talking to them about deals um
+but certainly easy enough to to reach
+out to appsumo if
+you feel like this if you're watching
+this and feel like it's of interest
+reuben man thanks so much for coming on
+the show and uh
+you know sharing your knowledge dropping
+the wisdom and sharing all the numbers
+i'm sure there are some folks
+in the uh an audience here today that
+will get a lot of value out of it
+cool uh happy to share thank you thanks
+again to ruben
+for uh for joining us today and if you
+have any questions
+for me um about reuben's appsumo deal or
+any of the numbers or thinking through
+it you can
+you know post it i'm looking at the
+microconf remote channel over here in
+slack
+is it is it bad that i kind of wanted
+producer xander to run
+that video at 1.5 x i really here's what
+i want to do
+i want to do like a virtual summit and i
+want to call it the 1.5x summit
+because if you're going to have stuff
+pre-recorded again i i'm i'm poking a
+little fun
+at some of the other summits i've been
+part of but if you kind of pre-record it
+anyways why not get a little more
+information
+per minute so um if there are no
+questions
+then i will torture you with jokes
+and force you to ask questions so uh one
+joke example
+why shouldn't you take a broken spear
+into a fight
+it's pointless yep that's about as good
+as it gets there y'all um
+can you imagine if one day microsoft
+acquired wework and named it microsoft
+office
+i think mike may have invented that one
+okay oh look this is great we have a
+question
+someone someone says i give up so deep
+asks are appsumo deal is good for b2c
+apps too
+and yeah if you look the cool part is
+you can go to appsumo.com
+and you can sift through all the deals
+they don't just have one deal they used
+to be an exclusive kind of deal a day
+type thing
+uh but now they have a whole marketplace
+of them and you can flip through
+um and and you know their list is
+is it's aspiring entrepreneurs and it's
+like ruben said it's people who run
+you know uh who are realtors so like ver
+vsmbs like very small businesses very
+small to medium businesses
+um and so there i there are folks who
+you know to-do list apps or um things
+that would normally be thought of as
+kind of really broad at b2c
+that i think can work there um i think
+if you have a
+a b2c app that's also in a niche i think
+that's tough for sell but the best thing
+to do is to reach out to appsumo like
+they have staff there who can evaluate
+it and they've been doing this now for
+i think the first episode of deal was it
+had to be 10 years ago because i
+remember so noah kagan
+found started this and the first appsumo
+deal we listed
+in in our online membership site at the
+time it was called micropreneur academy
+and i think like 20 or 25 of the
+purchases came from
+from our our listener base or i'm sorry
+our membership base
+which was really the precursor of
+microconf itself and so he and i got on
+the phone early on and that had to have
+been
+you know probably a decade ago or so
+justin kistner
+asks are there ways to limit the
+downside risk of a lifetime subscription
+i mean yes there are there's there's a
+real there's a needle you have to thread
+here because you can't
+just like the appsumo both appsumo
+folks who work there um and we're
+actually going to hear from
+from uh chris in a minute he's he he
+works at absolute money he's going to
+talk us through some of the nuances of
+this
+but there's both the folks who work at
+absumo and also the people who are
+buying the deals are
+they're pretty savvy right and they know
+they've seen people try to kind of get
+around
+to skirt around and be like well this is
+the appsumo plan and we're not going to
+add any new features to the appsumo plan
+and that's not going to fly because
+you're going to make people mad
+or um we're going to like severely limit
+this you know this plan toward the
+app is not almost not usable so i don't
+think you want to go down that road
+i think the thing to think about is if
+you do have any type of viral component
+or if you can build that in a powered by
+link anything like that
+um to have into your lower price plans
+and your absolute deal i think that's a
+big win
+i think uh if you if your app by its
+nature does have
+um a cost with each new person that
+signs up
+that's probably that's a pretty tough
+sell for me you know i just don't know
+that there's a way to work around that
+as reuben said and as i've i've heard
+from a few other folks who've done these
+deals is
+there is a lot of support up front for
+the month and maybe for a week or two
+after and then
+it really does die down so unless you
+feel like a you're going to cannibalize
+a lot of your revenue or b
+there's going to be a lot of either
+ongoing support or cost i do think this
+is something that's um
+you know it it it can work for a lot of
+apps that are in that position
+looks like there's one more person
+typing and then so i'm going to talk a
+little bit
+about oh yeah so after um
+oh there'll be some let's see microspace
+conversations
+in pods a and b uh pod a is gonna have
+your most successful marketing campaign
+and pod b is share your sas use the
+screen share function to give a short
+demo of your product
+and so as as we wrap up here there's
+there's an optional session
+with i'm about to intro him uh chris
+sheltzy
+and i believe gennady batrakov is
+supposed to join him as well he's the
+founder of blogley
+and chris works for appsumo so he's
+gonna have a conversation
+behind the scenes conversation about
+appsumo and how it works showcase the
+platform
+and uh that'll be here you know it'll
+stream on youtube even if you don't have
+the all access
+um you'll see that in just a minute yeah
+cool and then uh
+john galding from trot dot two he posted
+he said there's also a good startup so
+the rest of this episode where ruben
+rob talked to ruben about the deal it's
+episode
+456 um
+and so uh that's something you can also
+dig into if you want to hear more all
+right
+what did users get okay yeah so there's
+some questions producers anders passing
+me
+uh what did users get in the deal
+was it for a fixed period of time so
+with with
+i believe most absolute deals now are
+lifetime deals and
+the users got a lifetime you know
+the the cheapest plan pricing tier
+uh of of doc sketch i believe is what it
+was
+and then trevor asked what percentage of
+people became active users versus unused
+accounts
+thinking about services you pay for and
+how the cost ratio plays out with active
+inactive appsumo users
+i don't actually know that number to be
+honest i was tossing this around
+hypothetically with another founder the
+other day who's evaluating whether or
+not to do one
+um and i was guessing i was like i think
+on the low end you probably get 20 to 30
+active and on the very high end it feels
+to me like it's maybe a 60
+you know 60 percent like i can't imagine
+more than 60 70 percent of absolutely is
+actually becoming active i mean how many
+absolute deals do i have that
+i've activated so that the the um
+coupon code or whatever you know the
+appsumo code works and i get it and then
+i just
+i haven't actually used it so i know i'm
+i'm one of those folks who's guilty
+about that
+what is small too early or two
+pre-product market
+fit for this approach what is too small
+too early
+that's i mean that's a good question for
+chris who's about to come on to be
+honest um
+but in my opinion yeah if you don't have
+some people using like if you have zero
+users i would not go to an absolute deal
+because you're gonna run into scaling
+issues really quickly
+um i would want to be at a minimum in
+early access and frankly
+they they like you to be launched like
+they don't want
+you to be uh what's it called just
+under you know enter your email and get
+an invite like invite they don't want
+you in invite only mode
+um to be to be running with this so
+all right uh
+cool did you allow appsumo to bid on
+your branded keywords for ad spend
+also did you have them no index the deal
+page we're launching in april and
+we're launching employees um i don't
+actually know about that that's an
+interesting question
+and i think that maybe maybe that's one
+that you can ask chris if that's a
+common
+thing because i haven't um you know the
+absolute deal runs for a matter of weeks
+right it's like three or four weeks
+so i guess they could bid on the branded
+term during that time but
+i to me it's all it's all a negotiation
+right it's saying hey i want to include
+this in in the contractor all so
+figure out what's a deal breaker for you
+and talk to them
+you

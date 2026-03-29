@@ -1,0 +1,52 @@
+{
+  "topic_id": 155036,
+  "title": "QR Code Implementation for Stock Count, Ordering & Receiving",
+  "slug": "qr-code-implementation-for-stock-count-ordering-receiving",
+  "category_id": 9,
+  "tags": [
+    "erpnext",
+    "frappe"
+  ],
+  "created_at": "2025-10-03T14:23:43.303Z",
+  "last_posted_at": "2025-10-03T14:23:43.406Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/qr-code-implementation-for-stock-count-ordering-receiving/155036",
+  "views": 33,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Adam_Scentronix",
+  "posts": [
+    {
+      "id": 483011,
+      "username": "Adam_Scentronix",
+      "name": "",
+      "created_at": "2025-10-03T14:23:43.406Z",
+      "cooked": "<p>Hi everyone,</p>\n<p>I am looking to implement ERPNext as our new inventory management system. I was looking into Frappe School whether a tutorial for creating QR codes for our items to streamline stock ordering, receiving and counting. Is there anyone that can help me find how to set this up?<br>\nI appreciate any help possible!</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e56c9b/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 16,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

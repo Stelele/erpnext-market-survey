@@ -1,0 +1,51 @@
+{
+  "topic_id": 160361,
+  "title": "Inventory reconciliation. The valuation rate automatically changes to the default value in item",
+  "slug": "inventory-reconciliation-the-valuation-rate-automatically-changes-to-the-default-value-in-item",
+  "category_id": 9,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2026-02-06T18:34:20.584Z",
+  "last_posted_at": "2026-02-06T18:34:20.740Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/inventory-reconciliation-the-valuation-rate-automatically-changes-to-the-default-value-in-item/160361",
+  "views": 23,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "pablo_furtadoo",
+  "posts": [
+    {
+      "id": 493613,
+      "username": "pablo_furtadoo",
+      "name": "Pablo",
+      "created_at": "2026-02-06T18:34:20.740Z",
+      "cooked": "<p>Inventory reconciliation. The valuation rate automatically changes to the default value registered for the item, even if I enter a different value in the field.</p>\n<p>________________________-<br>\nBefore saving the inventory reconciliation, I want the value of this item to be equal to the current valuation rate, which is 10.88. This is how it’s currently filled in:</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/5/c/5c72601ace11b64f538dac1493fd892a12106d6b.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/5c72601ace11b64f538dac1493fd892a12106d6b\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/5/c/5c72601ace11b64f538dac1493fd892a12106d6b_2_690x340.png\" alt=\"image\" data-base62-sha1=\"dbOYtGC8NJcJtNjlSP9uiRfW4qf\" width=\"690\" height=\"340\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/5/c/5c72601ace11b64f538dac1493fd892a12106d6b_2_690x340.png, https://discuss.frappe.io/uploads/default/optimized/3X/5/c/5c72601ace11b64f538dac1493fd892a12106d6b_2_1035x510.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/5/c/5c72601ace11b64f538dac1493fd892a12106d6b_2_1380x680.png 2x\" data-dominant-color=\"1D1C1C\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1597×788 57.4 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>After saving the edits made in the draft, the value automatically reverts to 14.75, even though I typed 10.88. This value is the one registered in the item’s settings.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/f/6/f6a01e533e806f603b7148fc10fd51ef866ddcd7.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/f6a01e533e806f603b7148fc10fd51ef866ddcd7\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/f/6/f6a01e533e806f603b7148fc10fd51ef866ddcd7_2_690x357.png\" alt=\"image\" data-base62-sha1=\"zbKvCdVi8fMIHg3SLqi9SdOUYBN\" width=\"690\" height=\"357\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/f/6/f6a01e533e806f603b7148fc10fd51ef866ddcd7_2_690x357.png, https://discuss.frappe.io/uploads/default/optimized/3X/f/6/f6a01e533e806f603b7148fc10fd51ef866ddcd7_2_1035x535.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/f/6/f6a01e533e806f603b7148fc10fd51ef866ddcd7_2_1380x714.png 2x\" data-dominant-color=\"1E1D1D\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1648×853 74.2 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>____________________________</p>\n<p>Version</p>\n<p>“frappe”: “15.99.0”, \t“erpnext”: “15.96.1”</p>\n<p>Installation: docker - compose</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/pablo_furtadoo/{size}/93745_2.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 16,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

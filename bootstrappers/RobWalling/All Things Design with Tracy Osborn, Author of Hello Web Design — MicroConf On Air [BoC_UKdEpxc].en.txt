@@ -1,0 +1,988 @@
+﻿couple of Wednesdays producer Xander and
+I get together and we live stream for
+about 30 minutes we talk about topics
+around startups bootstrapped and mostly
+bootstrap companies things like seeking
+Freedom purpose and relationships but
+also seeking to build incredible
+companies that maybe change our life
+maybe change the life of those lives of
+those around us
+thanks so much for joining me this week
+I am excited to dig in today someone was
+uh was chiding me that I haven't been
+telling enough jokes on microcom on air
+and uh I'm working on all right maybe
+I'll work one in today as I uh as I
+bring my guest on today I'm excited to
+talk about design and not just design
+but design fundamentals for
+non-designers and this is a topic I've
+always loved folks who are experts in a
+space trying to communicate or doing
+their best to communicate the 8020 of
+that space so whether it's you know a
+developer who's who's teaching someone
+hey this is this is all you need to know
+you can use no code and you can Cobble
+this stuff together with with zappier
+and bubble and notion or it's a designer
+who says I have all this knowledge I
+have a decade or more of experience
+creating you know amazing looking
+designs and the Dirty Little Secret is
+if you know like five things you can
+you'll probably be twice as good at
+design tomorrow as you are today and
+that's what we're talking about today um
+I'm going to bring my guest Tracy
+Osborne on in just a minute but Tracy if
+you don't know is the program manager
+for Tiny Seed but before she joined us a
+couple years ago at Tiny Seed she had
+started her own startup called Wedding
+lovely and she has written multiple
+books two or three maybe four she'll
+correct me when she gets on but the one
+we're going to talk about today is
+called hello web design and tagline is
+design fundamentals and shortcuts for
+non-designers real world examples and
+easy to understand principles to help
+you become a better designer and what I
+like about today's episode is you know I
+could bring anyone on to talk design and
+we would talk about a lot of theory and
+we would talk about stuff that probably
+isn't going to help you today it isn't
+going to make your app look better or
+your web page look better today but what
+Tracy has done in in hello web design
+this you know compact 150 page book is
+communicate a bunch of succinct
+actionable tips for I like to think of
+it as for developers but frankly it's
+just for anyone who wants their stuff to
+look better so with that let me welcome
+my guest Tracy Osborne to the show
+Welcome Back Tracy hey thanks for having
+me absolutely you've uh been on several
+episodes of startups for the rest of us
+if folks recognize your voice have you
+been on on air as well a couple times
+right yeah awesome couple times so you
+should be familiar to the audience and
+of course um Tracy is Tracy makes on
+Twitter and and she is the she's a
+part-time moderator of microcom connect
+if you're in microcom Connect you've
+probably been gently nudged by Tracy to
+thread your
+conversations I love it you have not you
+have it's like a write a passage it's in
+the Tiny Seed slack too if Tracy has not
+nudged you to thread your combo I don't
+know that you're posting enough in slack
+that's my rule hey I do good things
+too yeah I think moderating and
+encouraging people to thread is a good
+thing so yeah it is it is
+thanks thanks for joining me today um
+yeah Tracy makes on Twitter okay so to
+kick us off there's a lot there's a lot
+to talk about here and frankly um you
+know the timing is good today because
+you self-published this book but now a
+publisher has picked it up and this book
+is going to be uh re-released in May and
+pre-sales are available uh in the
+episode description of this episode but
+if where can people go today if they
+want to pre-order the book that's uh so
+I'll pre to say a lot of people will put
+in hello web design and they'll find my
+website um which is hello web books uh
+there's no link over yet because I've
+upgraded my computer and I haven't fixed
+my development environment I can't
+deploy yet so not my website it'll be
+fixed soon as soon as I figure out
+figure out how to deploy again yeah I
+know I need to switch it I I've been
+thinking about it uh but if you search
+for no starch press which is the
+publisher for hello web design then
+you'll H with um hell web design then
+you'll get the the right link for the
+pre-order um and I think they're doing a
+pre-order uh coupon it's right on the
+page I think it's like if I think you
+put in pre-order you get 25% off the
+notebook nice so again the so
+these I see the yeah oh cool there we go
+um and maybe we can paste that into uh
+Micron on air channel and Micron connect
+as well if you are in microcom uh
+connect go to the microm on a channel
+and post any questions that you might
+have for Tracy even if they might be
+answered in the book um you know would
+love to have some interaction today
+obviously I have questions about some
+things I read in the book and we'll
+start there but producer Xander will
+ping me as folks ask
+questions so there's a couple things one
+thing I want to start with is fonts and
+to be clear I asked you right before the
+um the you know we went live does the
+book focus on ux and usability or does
+it focus more on design and you said
+much more on design on making things
+look pretty why why did you decide to do
+that rather than then focus on ux in
+this one I find it's funny when you say
+make things look pretty because I think
+that's like to most designers they don't
+want to say that they they and it is
+true that user experience matters more
+than how things look but I found that
+there's a lot of people who weren't
+designers that struggled with that part
+of things they did just want to make
+sure that they their website was easy to
+to look at um and it all kind of flows
+together like how your website looks is
+going to help how it's um how it works
+the user experience so if you're able
+one of the biggest principles in the
+book is talking about clutter and
+actually pretty much everything I go
+through in the book relates to clutter
+you know the font Choice can relate to
+clutter their color choices can relate
+to clutter and if you reduce clutter you
+can make your website a look better and
+then easier to find information that the
+the customer needs wants and you can
+kind of help push people to do the
+things that you want them to do um and
+so clutter is like it's just both like a
+a look make things look nicer but also
+make things more usable in that way um
+but a lot of people are just like how do
+I improve my slide decks how do I imp
+improve my landing page design um and
+they did they do just want to know how
+do I make this look like a professional
+designer did it when I don't have the
+you know resources to hire out for it so
+that's where that book comes in I was
+like I I definitely talk about user
+experience that is the most important
+part about a web page um a web website
+and how things work but how things look
+I think answers is is a question a lot
+of people have that's not answered by a
+lot of design articles out design
+articles and books out there absolutely
+and there is I I think some people
+undervalue the the visual aspect of it
+because I know when I see new web app
+that I've never heard of and it has just
+killer design my fir it's a first
+impression and I will get the impression
+of wow these folks know what they're
+doing that's what they may not but
+that's the impression I get I mean you
+know you youi and and Anar have been
+evaluating hundreds and hundreds of of
+applicants for tiny SE batch 3 and in
+the first five seconds of seeing their
+website you at least get there's some
+signal there and you dig in further you
+figure out oh what's their pricing like
+what does the app do whatever but the
+moment that you see a s if it if it
+blows you away or if it at least is me a
+minimum bar it's like okay at least
+these folks know what they're doing some
+sites we hit they have a great business
+you know might be doing 15,000 a month
+but you hit the site and it's like oh
+what's going on here this is this looks
+like worse than Craigslist you know this
+like a late 90s site and I always have
+to check myself and and think well
+they're doing something right here
+because theyve built a great business
+but um I do think that hitting that
+minimum bar is really helpful for
+potential customers when they hit your
+website if they think you're legit and
+professional then they're going to be
+more likely to to give you the benefit
+of the doubt yeah a lot of Founders they
+think that means that they need to hire
+out for a designer which has a whole
+process of contracts and revisions and
+everything like that and I find that
+when a Founder has those base
+fundamentals like they know just enough
+to be dangerous and they can get Pages
+out and updates their app out as fast as
+possible you know not having to go out
+to a contractor and they still look good
+then they can execute much
+faster exactly and that's something I've
+hired designers um quite a bit but early
+in my career when I was you know moving
+from developer to entrepreneur I had to
+put landing pages together without any
+any assistance and so I needed at least
+some fundamentals I needed that 820 and
+even like when we launched Tiny Seed was
+it two and a half years ago overnight I
+just put up a a landing page from lead
+pages and I needed it to make make it
+look good and the template looked okay
+but some of the fundamental stuff you
+talk about in your book are things that
+I had picked up and read about years ago
+and I think that they're super helpful
+for folks who kid yelling in the
+background he's homeschooling but I'm
+sure you can hear him but it's things
+like I let's talk through a few of these
+things so clutter was is a big one and I
+think that is probably the number one
+mistake I see um lay people you know
+make non-designers make um you talk
+about using a grid I had never heard of
+that before I started talking to a
+photographer friend of mine who was like
+I break you know the camera frame up
+into a grid and then they said yeah it's
+a design concept you want to talk people
+through how you might use a grid in in
+design yeah a lot of people don't
+realize they're using grids if they're
+already using a CSS framework because
+that's usually built in so things like
+bootstrap and skeleton these other
+Frameworks will help align all of your
+your objects into a grid and it kind of
+helps Reflow things um so it's usually
+built into a lot of CSS Frameworks um
+CSS makes it really easy to kind of
+align to the grid but this also applies
+if you're doing something like working
+on a slide um and basically what it is
+is that when you have information like a
+lot of different chunks of information
+on a page
+and they might be a little bit offset
+from from each other um if they're not
+aligned to like a vertical column those
+little offsets are going to add to that
+feeling of clutter it's going to add
+this like little feeling of like unease
+this like things aren't lined up so this
+looks a little bit weird and you might
+be thinking like a lot of people think
+like oh it's close enough but it's like
+that
+unconscious uh you can kind of
+unconsciously feel that things something
+should be lined up and they aren't and
+it kind of this uncomfortableness and
+that's not something you really want in
+a design so when you again web pages and
+bootstrap and everything thankfully take
+this away where if you have like a three
+column grid you know then usually things
+are all lining up on the same U vertical
+axis uh but this is also something you
+want to pay attention to when you're
+doing something that's outside of web
+design you know if you have a chunk at
+the top and a chunk at the bottom you
+know just make sure that they're you
+know if they're close enough just move
+them over into that same axis and it's
+going to kind of Co make the design more
+cohesive Ive and make it feel a little
+bit more
+professional at a probably an
+unconscious level a conscious level
+definitely unconscious
+level very good we have a question from
+YouTube from ntin he says too many cooks
+spoil the broth do too many designers
+spoil the design too what's your opinion
+on that Tracy oh that's a good question
+I haven't worked on a multi-design team
+in a while I'm usually the one in charge
+I usually just like for for tinyy I just
+tell you what what's what we should do
+this is what we're doing
+yeah so that's the hard part about
+design is that the design as compared to
+say like coding or whatnot is so like
+qualitative it's a lot of an opinions a
+lot of people saying oh this looks
+better than this other thing a lot of
+people fighting over it and that's when
+you should just go back down to uh
+metric and then you can like if you have
+a conflict between two designs between
+two designers and you're still hitting
+all those marks you know that it's uh
+the user experience is good that people
+are are achieving what they need to
+achieve in whatever design it is and
+then it's just a conflict between two
+designers in terms of what they feel it
+should look like then you can fall back
+onto data you can start testing those
+designs um so that's usually what I say
+when there's like too many designers too
+many people working on something um in
+general though I think
+uh I feel
+like you know it shouldn't be like we
+shouldn't like not hire multiple
+designers I think designers generally
+work really well together and hopefully
+we'll have like a good idea and again my
+book teaches how to make things look
+good but it is more important how things
+work and those designers can work
+together to make sure that user
+experience the usability the you know
+all the things that you need for a well
+uh a good working designer in place um
+and then it's just arguing over
+Aesthetics yeah and I I would agree with
+you um I I think it really depends like
+do too many product designers or too
+many
+co-founders you know ruin the design so
+to speak of the company or of the
+product and it's like it depends it
+depends on how they get along it depends
+on if people are are married to their
+ideas or want to truly seek the best
+idea so I don't think it's a matter of
+it being too many or too few I think
+it's a matter of personality types I
+used to say all the time at at drip um
+when we'd have four or five of us
+discussing a feature or discussing what
+to build next and I would start at the
+meeting by saying we don't whose idea
+any of this is we want the best ideas
+and we want the best um we want the best
+results out of this so let's let's go
+with the smart choice not the ego choice
+you know and that I think is is relevant
+for product design company design and of
+course
+visual so let's talk about fonts a
+little bit what elements should people
+consider when making a choice about
+fonts because that is I have I know so
+little about fonts and even in the
+almost the introduction of your book you
+were already in uh type faces and fonts
+yeah I you know that's it's one of those
+key pieces into a design that can be
+very overwhelming especially I mean you
+know back in the day when the web first
+started we had what 10 different fonts
+that choose from you had tooma and fena
+and all those other ones and so at least
+you had a limited CH set in order to
+choose for your web designs but now you
+have things like Google fonts and Adobe
+TI kit and and those kind of resources
+where you have Pages upon Pages upon
+pages of web fonts you can choose from
+and then it gets really over
+overwhelming because you want to have a
+design that has something unique like a
+really nice looking uh font Choice
+that's readable and whatnot and then
+it's just like wait there's too many
+choices here
+so a I think it comes down to clutter
+again like there are cluttery fonts and
+there's non- cluttery fonts there's
+professional designers can very they can
+make a cluttery crazy display font work
+on their websites they can they can they
+have like you know uh more skills in
+order to do that but for beginning
+design ERS I say just throw those
+display skill excuse me display fonts
+out the window and just choose something
+that is clean um I find that again just
+reducing clutter is the number one thing
+that anyone can do if they want to make
+a website look better and that also
+applies to fonts um and then the second
+thing is you know when you're
+overwhelmed by the choices of what to
+what to use from Google fonts or typekit
+you don't know what is a readable font
+versus the other ones um there are a lot
+of different resources online where
+people narrow down they like it's like
+the top 10 Google font list or something
+like that or like the top 20 fonts in
+typ kit and so you can get this like
+limited set that's already been chosen
+by someone who has like a background
+design that says that says you know
+these are the best fonts in this like
+gigantic set and then you only have 20
+to choose from for your design and you
+know that they're going to work well
+because it's already been narrowed down
+for
+you and something you say again I mean
+I'm on page nine of your book I have it
+up here and it's limit yourself to two
+different type I've read past that I
+mean I have that up on my screen but
+limit yourself to two different type
+faces while you can use one type face
+for your navigation another for your
+text another for your buttons another
+for your headlines it will make your
+design feel chaotic restrict the number
+of type faces you use and use bold
+italics all caps and other transforms to
+create variety and indicate emphasis so
+two two type faces is that your rule of
+thumb it is yeah definitely and again
+um uh when you like a CSS framework
+you're able to say like heading font
+this body font this it does make it
+easier to kind of work with just like a
+limited set this is another piece of
+advice again it goes into if you're
+creating slides or doing something else
+that isn't web design because you know
+you're on you're using a what a keynote
+and it could be like tempting to be like
+oh here I choose this font for this
+headline and choose this font for these
+bullet points and use this font for the
+for the text and then things can get
+very chaotic very quickly and then it's
+just like oh this is you know chaotic
+it's cluttery it doesn't look like a
+good design so then draw it back down
+try to use you know just a set of two
+you know maybe one for the headline one
+for the the body text and whenever you
+need to have some kind of transition
+some kind of like emphasis then you can
+play around with Bolding and italics um
+to kind of add that emphasis as you need
+it without changing the fonts and it's
+going to make your design look a lot
+nicer yeah big thing I've picked up from
+really gifted designers that I've worked
+with over the years is that the simpler
+designs tend to be better it's not more
+fonts it's fewer it's not more what you
+know more uh uh elements on the page
+it's stripping them away it's the
+Clutter man I told you it's it's all
+about it's all about clutter and
+whatever you can do to strip it down
+again there's there's experienced
+designers who can make clutter work and
+there are can be very there can be
+websites and designs that really work
+well that you would call cluttery but as
+a beginning per designer if you wanted
+like design something from scratch just
+go with reducing clutter as much as
+possible and it's going to get you that
+80 funny yeah do you talk it all about
+logo design in your book or do you have
+opinions on that because we have a
+question from the audience on it I don't
+I do have opinions on it though so was a
+question Cool you cool if we dive in
+yeah so it's from Justin Jackson he says
+it feels like one place founder skimp is
+having a logo designed what factor
+should Founders consider when getting a
+logo designed should they always be
+bespoke you know truly custom designs
+and what's the cost for a custom logo
+design generally we both you and I both
+have opinions on this I'll let you go
+first
+I mean I feel like our opinion is GNA be
+the same and it's the this is my opinion
+that's going to get all of my uh
+colleagues back in art school yelling at
+me because I I truly believe that
+Founders don't need to worry about the
+logo design for a while um and do not
+worry about it in the beginning stages
+of your business like your logo is one
+of those things that's not going to
+affect a lot of things um it's not going
+to affect how how you get to product
+Market fit um so don't worry about
+trying to find a designer or trying to
+spend you know 5K for a logo which is
+probably about the going rate for like a
+proper proper logo like don't worry
+about that um I do recommend using
+things like uh you know there's
+designers out there that are really good
+at qu creating quick logos like the ones
+we had you know done for microcom um
+which is a great logo but we didn't like
+do the full logo design process and
+maybe that's something we'll do someday
+later but it's not something that microf
+needs do it's not something that most
+startups need to do what you need is
+something that looks that kind of ties
+everything together um and you can just
+do that by working with Fiverr you can
+work with um other contract designers
+you know just get a a nicely formatted
+logo like in terms of the the font for
+your logo uh your what is it the type fa
+or if you what it's called the text part
+of your word mark thank you text part of
+your word Mark a symbol is nice not
+necessary simple as nice and um just see
+what you can do
+for the first year of your business and
+you'll feel like if you need to have
+more branding the whole reason why logos
+cost $5,000 because it's not just the
+logo that's the full branding process
+when you're trying to figure out how
+this logo is going to reflect upon all
+of your design materials and how the
+company is represented and you you're
+talking about like how do you want to
+display yourself to customers so it's a
+lot that's a that's a $5,000 question
+right is how you want to display
+yourself startups don't need to do that
+Founders don't need to do that you know
+get something that works that you're not
+embarrassed about put it on your landing
+page um and just roll of it get to
+product Market fit you know and you can
+go through the whole process later but
+definitely not in the
+beginning yep yeah we are of the same
+mind and and I had a bunch of small
+products that uh never really had logos
+it was just a font and and the word you
+know where the domain name I remember
+the first kind of logo is thing that
+that we had or that I had was with hit
+tail which was an SEO keyword SAS and
+the designer I wanted the site
+redesigned and he's like I just put a
+placeholder logo in there and it was
+just the word hit tail with an arrow or
+something and I was like that's great a
+logo and that was the logo the whole
+time we printed that on t-shirts and
+then the and he said I'm not not a logo
+designer and I said you're sure good
+enough when we did the drip logo design
+Derek did a similar thing he's like I
+kind of made a droplet of water I don't
+know if we want to keep it and I'm like
+yes we do and that you know that was
+enough so again in the early days and
+and then eventually we you know we sold
+the company to to lead pages and yes
+they did a full logo design process and
+that was a rebranding process where they
+picked new colors and you know it was
+like is is drip more of a dolphin or a
+bear I mean literally that those were
+the conversations that they would have
+and I mean it was I'm guessing tens of
+thousands of dollars to go through all
+of that it didn't just come with a logo
+it came with this whole book that was
+The Styling package and stuff yeah The
+Branding book these days m i put
+together it's all the colors the fonts
+and the thing and the you know how the
+spacing should be this thing should be
+always this part far apart from this
+other thing like it goes incredibly goes
+into incredible amount of details it's
+also what the my least favorite class
+when I was doing graphic
+design right right so yeah I agree with
+you too um should they always be custom
+not in the early days um like you said
+we had uh both A microcom and A Tiny
+Seed logo designed for I believe it was
+like 600 bus a piece and those were um I
+mean those werein the last year or two
+right I mean the microcom one was maybe
+a year ago a little more than a year ago
+and we had a logo before then but it was
+it was dated and it didn't look you know
+it wasn't the the optimal thing um so
+anyways and yeah the cost mic was hard I
+will say it was hard we did spend a lot
+of time going back and forth on it so
+it's definitely even a simple $600 logo
+can still be a long process oh right
+because we were like collaborating and
+talking about should it be this and we
+were trying to figure out colors too and
+we there was there was a lot to it you
+know um and as you said I mean the going
+rate that I hear for just like a logo
+design from a legit logo designer is
+about five grand and sometimes 10 if
+they're more more premium um but again I
+don't believe I've ever paid more than
+600 I mean I'm just more of a
+bootstrapper so I don't think I've ever
+paid more than six maybe maybe we did
+three sessions maybe it was like $900
+for you know Micron for chiny seed and
+um yeah I like them I think they're good
+yeah yeah I mean we aren't we're not in
+a position where we need to have that
+full brand need s with everything
+defined and all the rules and everything
+like that because we're a very small
+organization it's just the four of us um
+and like this we we know what colors to
+use we know what fonts to use we know
+where to put the logo um and we don't
+have a lot of rules but if it ever got
+to a point I mean microcom say there's
+like there's probably big conferences
+out there that have done that full
+branding process because then it informs
+all the parts of the of the conference
+all of the posters and they get the
+person doing every so it's never just
+just a logo it would be that full R
+rebanding process we didn't need that um
+and I feel like that's the kind of the
+same thing as a startup not needing that
+full rebranding process before their
+their their company really needs it yeah
+and I could see us doing a full I mean
+you know if microcom becomes 10 people
+or 20 or whatever we probably will need
+more more guidance on because different
+people be putting content up and
+different people be creating printed
+materials and t-shirts and it's just
+like what you that's when you need the
+specs right but when it's a few you know
+bootstrap mostly bootstrap Founders
+hacking away trying to trying to get
+there um it's it's a little
+early all right let me let me see next
+question no more questions from the
+audience yet okay so one thing I want to
+ask you where you look for design
+inspiration but first whites space this
+is the ultimate clutter reducer in your
+words one of the biggest mistakes new
+designers make is pushing items too
+close to each other talk briefly about
+whites space then we'll talk about
+design inspiration and then we'll wrap
+this amazing episode of Micron on air
+yeah well if you think of like I G say a
+startup landing page and a lot of people
+put a lot of emphasis to above the fold
+and there's some things back you know
+people say that above the fold doesn't
+matter anymore a lot of people scroll
+now I kind of agree with that the I
+don't think they above above the fold is
+like the where all your information
+needs to be but it is going to be your
+first impression and because it's the
+first impression the first thing people
+see there's a tendency of being like I
+want to have all the things in the first
+impression I want to have all the most
+important feature points I want to have
+the headlines I want to have the sub
+headlines I want to have a lot of
+content that addresses all these
+different points I want to have the
+button that goes to here and to here and
+to here and so the above the fold area
+can get very busy very cluttery very
+fast and that's actually G to not
+convert as well it's not going to work
+as well it's going to overwhelm people
+it's going to look unprofessional it's
+going to look cluttery and people are
+going to leave so then conversely if you
+have a a very simple page and I was
+actually just did a um design breakdown
+on Twitter recently I should find it
+again but I took um Derek's Dereck
+rymer's savy Cal and I kind of pointed
+out all the little details he had in
+savic Cal's um landing page it's just a
+gorgeous design lots of whites space lot
+of breathing room and so what that does
+is that all that Breathing Room in
+whites space then brings more importance
+to the pieces of information that are
+there that short headline sub headline
+the button a little bit of imagery
+there's the logo whatnot but you're not
+like bouncing your eye over everything
+you're not like looking at a thousand
+different things Derk is essentially
+through whitespace and this is what
+whites space can do it just draws your
+eye to the most important things and
+then you can kind of tell the story
+based on where those things are on the
+page so a lot of people really want to
+just like keep filling in those holes
+keep pushing things together um but when
+you have that white space it's going to
+look more professional and then you can
+tell that story
+yes well said all right we actually I I
+think I'm going to skip the design
+inspiration question because we have a
+question from the audience and our ask
+or I don't have his name his or her name
+uh but they say I find that most Dev
+tools uh most development tool
+screenshots of their features can be a
+bit busy or boring sometimes it's code
+numbers analytics
+Etc oh it's from uh Tony Chan of cloud
+forecast he says any design advice for
+de tool SAS companies to help visualize
+these features where screenshots of
+their product might not work well I have
+some thoughts but I'll throw it to you
+first can you rephrase it I think I
+missed the the actual question yeah it's
+do you have advice for people building
+more technical um kind of SAS companies
+to help visualize features where a
+screenshot of that feature just doesn't
+work well because it's just a bunch of
+numbers it's like a list of numbers or
+it's code or something which isn't very
+visually appealing right so this does
+get into the um harder engineering
+problems area and I'm going to call out
+savy Cal again just because I was just
+looking at his web page um and he has a
+little
+interactive uh like screenshot box where
+you can interact with it you kind of get
+this feel for how saval works because
+you can interact right on the homepage
+even though you're not actually inside
+the program um that does take more
+engineering and development time because
+you have to get that you know all coated
+up and everything working well but then
+it does give your customers that like
+actual experience that a screenshot
+wouldn't necessarily show um so it's
+like what can you do with interactions
+easier might be using um uh gifts where
+you kind of show the walkthrough of how
+the process goes um another thing I just
+WR I just thought of was um I'm not sure
+if stripe is still doing this but their
+documentation back in the day was kind
+of interactive where say like here's how
+you use stripe and you can take your um
+take the little piece of API key and you
+can throw that into your terminal and
+run it and it would update on the
+website and kind of show you that
+process as as you go through using their
+API so again that interactive feel does
+take more development work and more time
+but it does it leads this like woo
+moment where people are like oh this is
+how it actually works you know it's not
+just like oh here's the static boring
+thing it's like okay you get that well
+moment up front absolutely and that's I
+was going to call out stripe both if you
+weigh back to let's say five six years
+ago look at Stripes website um have they
+been around that long I think so they um
+they always had code Snippets code
+snippets on them and they still do uh
+right now think of what stripe is stripe
+is really an API with some reports built
+on top of it and if you go to their
+website above the fold it's a headline
+and then it's a picture of some
+attractive graphs with dollar signs in
+them and it's like okay they process
+money picture their mobile app which you
+may or may not have but you scroll down
+the page halfway and it's it's what
+you're talking about Tracy where it's
+this um kind of an animated gift type
+thing
+that is code being written into a
+terminal and if I'm a developer I'm
+instantly resonating with this I don't
+even know node.js and this is written in
+node but I'm like riveted by this as I'm
+watching it so that's the kind of in
+even if it's not fully you know I
+believe theirs is like truly interactive
+or something maybe it is just a gift but
+it's that kind of stuff Derek is as you
+called out is also really good at these
+things they used to have
+it yes if it's just a gift they used to
+have it that way but yeah it's one of
+those kind things where gift can work
+just as well as interactive and it's
+going to be easier to set up because
+then you can just record
+yourself yep yep all right last we're a
+little bit over time but I want to get
+this question in from Justin Jackson he
+says when you're looking at a website
+what are two to three things you always
+look at to evaluate how well it is
+designed the headline like what is the
+the piece of text at the top that tells
+me what that page is about um and I
+actually talk about my book one of the
+things that I I recommend to do um one
+it's like reduce clutter and train your
+designed eye those are two things that
+you can do to become a better designer
+and I what I have I'm in this habit of
+always looking at web pages and kind of
+thinking critically about them because
+that makes me a better designer because
+I can say all right this headline it
+says this do I think that does that work
+for me do I think that's the best
+headline why if it does work then I try
+to think about why is it working and
+again calling out Derek and savy call
+that's the whole reason why I did that
+breakdown of savy call because that's
+showing like okay you're looking at a
+website and then you know look at the
+headline and you can you can kind of
+think critically what the headline is
+doing and that's going to kind of insert
+that information in your brain so you
+can pull it out later when you're
+working on your own designs so like
+headline is number one the like what is
+the action on the page what is the CTA
+what's the button you know what's the
+the thing that the person wants me to do
+and again think critically about that
+you know is the color eye catching is
+the text on it actionable is it
+interesting or is it boring or is it a
+robotic um where is the position
+compared to the rest of the content at
+the page is it clickable does it feel
+clickable does it make me want to click
+on it um so that's headline
+button now the third thing I want to say
+is maybe just like the overall maybe the
+Whit space I would say I I was gonna say
+the overall appearance but it does does
+come down to that Whit space because
+that that Whit space is going to lead
+your eye to do to those two important
+things and um whites space doesn't have
+to be white by by the way it can be like
+a pattern background that still counts
+as white space it's just like what's the
+space of the page it's not like
+immediately causing you to read or react
+or look at it get specific image WR in
+your product um so it could be like a
+design in the background don't think it
+has to be white um but it does tie into
+those those two important things the
+what is this page about and what is it
+you want me to do um and it kind that
+supports those two first
+actions all right amazing speaking of uh
+ctas you should head to no star.com and
+look for hello web design and pre-order
+the book Tracy has I we have I I believe
+in this entire conversation we maybe
+have talked through four pages of the
+book so there's another 150 that people
+can get tons of I was say you read the
+first few pages where I just I just took
+everything and I just shortened it to
+one sentence for each chapter so you can
+just read the first two pages and get a
+good idea for the book but then goes
+into the depth into dep for the rest of
+the book but it is really quite short I
+don't have one anymore um because the
+self-published ones I've given them all
+away at this point but it's literally
+just like that Bic so it's actionable
+and easy to
+read very cool thank you so much for
+joining me Tracy if folks want to keep
+up with you you are Tracy makes on
+Twitter thanks for having me all right
+yes indeed as we roll out oh I was
+supposed to tell her a joke all right
+I'll just tell it to you so you want to
+hear a joke parsing HTML with
+Rex that was was it that was the one um
+state of independent SAS report is out
+head to stateof indes sas.com if you
+haven't checked it out and we got
+mentioned on the mailshake blog one of
+the 27 best startup or SAS conferences
+which is amazing thank you so much to
+hay and stripe for being our headline
+Partners again in
+2021 and next week we're chatting with
+the hosts of the software social podcast
+Michelle Hansen and I guess that's not
+next week that's March 3rd and call
+schettler so thank you guys so much for
+joining us see you next time
+[Music]

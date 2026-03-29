@@ -1,0 +1,618 @@
+﻿[Music]
+Hey, it's Arvid and this is the
+Bootstrap founder.
+[Music]
+Now, here's the thing. I'm about to
+share all the reasons why you should
+never ever start a software business.
+And yes, I'm fully aware that I'm
+talking to an audience of software
+founders mostly, but it's somewhat
+sarcastic. It's kind of an ironic twist
+on all these great things about
+entrepreneurship.
+Here's what I've realized. Talking about
+the problematic sides of
+entrepreneurship might actually help
+somebody who already has this mindset to
+say, "Yeah, I'm going to do it anyway,
+or somebody who's on the fence to
+reconsider maybe taking it slow and
+starting it as a side project instead of
+jumping in fulltime." And if you're a
+founder who's already on that journey,
+well, I'm just going to share the little
+things that I've realized along the way
+so that maybe you can recognize them at
+an earlier stage and prevent some of the
+damage. A quick word from our sponsor
+here, paddle.com. If you do, for some
+reason, choose to actually start a
+software business, I highly recommend
+looking into paddle.com. I use them as
+my merchant of record for all my
+software projects. They take care of
+taxes, currencies, they track the client
+transactions, they update credit cards,
+reactivate accounts when they're kind of
+not paying and stuff. It's really
+helpful. And that means that I can focus
+on dealing with my market, my
+competitors, and not with banks and
+financial regulators. don't have to deal
+with that. So, if you would rather just
+build your product, check out paddle.com
+as your payment provider.
+So, let me now get into the mindset
+here. Why should you never ever start a
+software business as a solopreneur or as
+a bootstrap founder?
+Well, first off, it can get incredibly
+lonely. Software entrepreneurship means
+that you're going to spend most of your
+time with your code, with your product,
+and with making sure that it runs, and
+making sure it provides the value that
+people may or may not pay money for,
+you're constantly going to be
+interfacing with computer systems all
+the time. And when you then rarely
+interface with your customers, it tends
+to be in a negative context. Sure, you
+can have a nice conversation. I try to
+have this all the time with my own
+customers. You can turn a buck report
+into a really friendly interaction with
+a prospect or with a customer, a
+complaint or a help request, you can
+always kind of turn that into something
+positive if you put the energy in. But
+it starts out as a point of friction, as
+a point of a challenge. So any human
+interaction that you're likely going to
+have with your customers is going to be
+one of being challenged, of somebody
+seeking help, or and this might be even
+worse when you come from a technical
+perspective, somebody who's not
+interested in your product. You try
+sales outreach, you try marketing,
+people come in, they see it, and then
+they don't want it. They don't even want
+to come in. You send emails, people say,
+"Stop sending me emails." And that can
+make you feel fairly lonely,
+particularly if you're not doing this
+with a group of people. The way out for
+me has been being very active in my
+founder community, Twitter and Slack
+groups and reading people's blog posts,
+writing my own blog posts and
+interacting with my readers, having this
+podcast, having interviews on this
+podcast, talking to people, just giving
+my brain the feeling that it's all real
+and that I'm not alone. But there are
+different kinds of lonely. There's the
+lonely that happens over time where you
+just feel like another week went by and
+I only had like two real conversations
+with people during my work hours. This
+is kind of a sad prolonged lonely,
+right? But then there's also the lonely
+in the moment and that may sting even
+more. It's like 2:00 in the morning. For
+some reason, your server has decided to
+run out of memory and you're trying to
+restart it to make sure that the product
+comes back up, but then it fills up
+again memory within like 5 minutes and
+you need to restart it again. So, you
+need to fix the problem while you're
+also triaging the problem. And then
+customers start emailing you cuz they
+live on the other side of the world and
+they really want to use your product and
+stuff just doesn't work. And there's a
+loneliness in that moment where you're
+the sole defender of the castle and you
+have to keep the invading hordes at bay,
+but also tell your castle inhabitants
+that things are going to be okay while
+sharpening your swords and patching up
+your armor at the same time and
+fighting. It's a lot and it's a lot of
+pressure. In moments where you don't
+have many people around you to help you.
+This is another problem with being a a
+software founder. It is quite unlikely
+that your immediate family or even your
+friends can help you with these issues.
+People have all kinds of jobs, but your
+issues, the problems you have, and the
+solutions you have to create are so
+specific that the help you can find is
+expensive and not reliably present. So,
+that's a problem. is another reason why
+you should never start a software as a
+service business. Particularly in the
+early stages where you're the only
+person responsible for the business, you
+are responsible for everything and
+things will pull at you with unknown,
+previously unknown priorities. You just
+don't know what's going to be important.
+At some point, you thought you had it
+all figured out. You've developed your
+outreach campaign that brings in new
+leads and they eventually convert with
+like 20% or whatever and then all of a
+sudden one of the service providers that
+you use for your emails starts
+experiencing outages like every other
+day and it gets worse and worse and you
+suddenly have to completely rebuild your
+email infrastructure because the service
+needs to be replaced. So, not only do
+you need to replace a running system and
+run an outreach process that is mapped
+onto your email automations, you also
+need to find a comparable provider
+that's equally as capable and you need
+to find them somewhere else. And then
+you have to integrate it into your
+system and rebuild the exact same
+system. And that came out of the blue.
+It took you 3 days. It ate up most of
+your week and all of a sudden everything
+else you wanted to do, that feature that
+you promised your customers, none of
+that got done. Lightning is going to
+strike all the time and in a way
+avoiding it makes it worse. So you have
+to become a lightning rod for problems.
+You have to go towards the problems
+anytime they might appear. That's really
+hard to think about if you come from a
+different background. As somebody who
+previously was a celery engineer, when I
+started software development, I was
+taught to avoid problems, to avoid bugs,
+to avoid complications, to avoid
+challenges, make sure they can never
+ever happen, never appear. Then when I
+became an entrepreneur, it was like, no,
+no, no, no. I have to get to the
+challenge before the challenge gets to
+me. I have to make sure that I preempt
+the chaotic explosion and make it happen
+early so that I can see what parts of it
+get burned so I can build a stronger
+fireproof system around those systems. I
+have to actively trigger things to go
+wrong to see how they go wrong and how
+it can prevent the cascade. You know
+that meme of the airplane with the
+bullet holes? It's commonly used to say
+that people focus on the wrong things
+when they try to improve something. It's
+like US engineers thought that only the
+areas of planes that returned from
+fighting that had a lot of bullet holes
+should be strengthened and forgetting
+that the areas that didn't receive many
+bullet holes in the planes coming back
+were likely representative of the fact
+that if a plane was shot while in the
+air in those areas it wouldn't even make
+it back home. That is a long way of
+saying selection bias. It's kind of what
+it is. You want the plane to explode
+quickly. I'm sorry for the analogy here,
+but you know, you you do want to see
+where things break so you can see where
+you need to strengthen the system more.
+If things keep working and keep working,
+but not as well as they could be, they
+will blow up in your face eventually.
+Any sufficiently complicated system will
+eventually have some kind of internal or
+external explosion. Either through
+latency accumulating in your system,
+things just getting slower and then
+weird things happen or external
+dependencies dropping, connections
+dropping or some kind of dependency not
+working the way it should be. There will
+be something at some point and you will
+need to be there. Which brings me to my
+third point. You are effectively working
+247 if you run a solarreneur business.
+Not surprising, but that is what is
+expected or what you will probably come
+to expect of you because of the reality
+here. You're not going to pull all your
+efforts in 24/7. You're still going to
+go to sleep and most nights it's going
+to be great. You wake up, you go to
+work, you keep working on it. You take
+care of all the customer service
+messages that come in overnight. You
+send out emails the next morning.
+There'll be some kind of structure to
+your day. But then there will be days
+where this just doesn't matter. When at
+3:00 in the morning, you get a
+notification if you've set it up.
+Hopefully, you have an SMS push
+notification to your phone, which you
+probably need to configure to ignore
+most things because you get a lot of
+notifications during the day, but the
+critical ones you have to let through.
+And that message will tell you your
+website isn't reachable. Your external
+monitoring, the pingdoms, uptime robots,
+what have you, they've tried to ping
+your website and it's not responding.
+and you have customers that have an SLA,
+like a service level agreement with a
+clause that says that the maximum daily
+downtime is like an hour or 30 minutes.
+So, you just have started your
+countdown. You better get going. And
+this is the moment where you work 24/7
+because you're always on call. You're
+always on call building a software
+business in the early stages. Obviously,
+even if you've used the best hosting
+application services, if you've used the
+best hosted databases, there's going to
+be something something will happen. And
+even if it's just a connective tissue
+between those services that sometimes
+breaks and you just need to restart your
+server, it's enough at three in the
+morning to pull you out of your routine.
+And it's something that's unavoidable
+until you hire. And even then, you still
+need to hire somebody who's going to be
+reliably there and knows exactly what to
+do, which is a different challenge. Also
+something they don't teach you, right?
+How to hire, right? But because likely
+what's going to happen when you hire
+somebody to fix this for you is that
+they're going to be woken by the alerts.
+They'll spend 5 minutes trying to figure
+out what's going on and then they're
+going to try and implement the fix. It
+won't work and they wake you up 10
+minutes later. In the beginning, that's
+quite likely the kind of event chain
+that's going to happen to you. So, even
+if you hire, expect this. Unless you
+hire somebody who is better at this than
+you are, which you should, but
+understanding your system like this and
+all the intricate nuances of it, that's
+going to take a while for most people.
+So running a software business is not
+going to make this easy for people with
+kids or other dependents that they need
+to take care of or who want to have a
+solid distance from the work that they
+do. Obviously there are still a lot of
+parents, a lot of caretakers and people
+with professional distance who end up
+building successful software businesses,
+but it's certainly a higher investment
+in focus and attention. So here's why
+you really shouldn't build a software as
+a service business. It is a completely
+different thing, but it's incredibly
+hard to convince people to change what
+they currently have. Most software as a
+service solutions are new versions or
+better versions of things that already
+kind of exist. And the inertia that
+people have that prevents them from
+changing from their existing solution to
+a new solution. That is incredibly hard
+to overcome. Honestly, I would rather
+have a server imploding and me fixing
+that than trying to convince somebody to
+buy my thing when they already have
+something. People will go out of their
+way to not change anything about their
+work. And this might be different in
+certain audiences, but I can tell you it
+takes a lot of effort to convince
+somebody not to just give you money.
+That's already hard. But to change their
+process in a non-trivial way. This is
+particularly challenging because in the
+beginning as you start your business,
+you have so many assumptions, right?
+Otherwise, you just would never get
+anything done. You have to assume a lot
+of things. And those assumptions, some
+of them are likely not correct. So you
+have to course correct all the time and
+a product that is in this path of the
+first couple of years of course
+correcting trying to figure out what
+exactly it needs to do that is so much
+harder to sell both as a solution and as
+an actual thing that costs something for
+you to learn how to talk to people in a
+way that you can actually assuage their
+fears and actually convince them that
+they're missing out on something if they
+don't use this speaking the language
+learning this language learning how they
+prioritize how they focus on their
+challenges that takes a long long time
+in any field and it takes a lot of
+communication with customers which as I
+mentioned earlier sometimes is not
+happening that much because you're so
+bogged down with the actual product that
+you want to be able to sell to people.
+So yeah this requires a lot of
+confidence. Do not build a software
+business if you want to feel secure in
+your choices and assumptions. Because
+not only does your product change to
+meet the job to be done of your
+customers, but the jobs that your
+customers have, the internal processes,
+the internal requirements, they change
+constantly as well. And this is true for
+smaller businesses just as much as it is
+for enterprise businesses. Things are
+changing all the time. Some companies
+even have a change management process
+because of this. You will always have to
+keep up with things. You will always
+have to make sure that if somebody
+changes their process, you can still
+adequately map your process towards
+theirs. And then you have to think about
+the fact that the whole industry is
+changing. New people join the industry,
+some people drop off, new regulation
+hits the industry, new technologies get
+developed, new standards defined,
+provisions are formulated, and laws are
+enacted for or against certain things.
+These new perspectives are now being
+integrated into people's processes. New
+taboss come up, old taboss break off.
+The market is constantly moving. So it
+is a constant struggle to find out and
+figure out what is going on and how you
+have to respond to these things. So if
+you would like to feel like you know
+what you're doing, choose an occupation
+that you can do for 5 years straight and
+not expect much change. I don't know
+become an oil painter like an artist
+because oil paints I think they've been
+chemically similar for the last couple
+hundred years. Of course there are new
+developments in that technology as well
+but the act of painting the act of
+making art that does not constantly
+shift as much as the requirements and
+minuscule details and processes of
+people who use software tools. Now I
+might be completely off here and there
+is a super hyperactive oil painting
+change management situation but you know
+what I mean right? There are jobs that
+are a little bit less likely to change
+all the time. Software business or
+facilitating things through a software
+business is highly volatile. And then
+there's the technology layer beneath all
+of this, right? Everything is getting
+deprecated and changed all of the time
+as well. If you choose the current
+version of Ubuntu Linux to install on
+the server, well, two and a half years
+from now, the long-term support for this
+is going to end. It's just happening all
+the time. If you choose MySQL 8
+something today, next year AWS will
+retire this version, but you still can
+run it, but they were going to charge
+you double if you want to keep it
+running on their platform. And if you
+use an API, something's going to change
+or you're going to be asked to migrate
+to a new version because only that
+supports whatever new regulations or
+some banking regulation in India or
+something like that. stuff like this
+like none of these are made of terms
+like this all happened to me at some
+point in my own journey. It is bizarre
+how often you have to chase changes and
+implement them so you can still do the
+exact same thing you've done before.
+Things get deprecated and things have to
+be maintained because it's all turtles
+all the way down. You choose an
+infrastructure as a service provider and
+that has to maintain a certain set of
+software and then they have to upgrade
+it because of security concerns. Now you
+have to upgrade your integration and the
+people using your product now have to
+upgrade because something works slightly
+differently in your product. It's this
+infinite chain of tiny changes bubbling
+up and down and making people change the
+things that they're already running.
+Ideally, you start containerizing and
+isolating things and you make sure that
+they're compatible and you have
+alternative ways of doing stuff. But in
+the end, you'll find that it's always
+going to stop you left, right, and
+center because somebody changed
+dependency somewhere for good reason,
+right? It just will happen. And you have
+to own it. You have to both deal with it
+in the moment. And if it makes your
+software more unstable, if it makes your
+business wobble, you have to tell your
+customers, "We're experiencing a
+problem." And if you remember a couple
+weeks ago, you know, AWS outage in US
+East1, everything kind of ground to a
+halt at some point. You're not supposed
+to say, "Hey, it's AWS's fault. I think
+Robin Hood did that and got some flag
+publicly on Twitter or our email
+provider isn't working." Stuff like
+that. You have to say, "We have a
+problem with our email. It'll be back in
+a minute." You have to own those things
+that are not your fault. And it's one
+big thing about running a software as a
+service business. Like ownership, the
+projected ownership or real ownership is
+limited in many ways. You have to own
+your issues as well as the things you do
+well towards your customers. But if we
+think about the actual ownership of a
+software business, it's already hard to
+own a software business really because
+you're just building rented
+infrastructure on rented land. But you
+have to think of the fact that there are
+many variables, so many and so many
+externalities to running a software
+business or software as a service
+business that it will never be something
+that you could just freeze and say this
+is it forever, right? things change all
+the time and you have to deal with that.
+I think these are sufficient reasons to
+consider maybe becoming a farmer or an
+oil painter, but I know I know it's it's
+complicated. Either of these jobs are
+hard. I'm quite aware of this, but
+realistically, none of these are
+problematic enough to not be worth it,
+right? Because one of the things that
+building a software business allows you
+to do is build a super high leveraged
+high-revenue company that is very very
+interesting for PE companies for other
+companies like incumbents to acquire and
+that might net you a couple million at
+the very least if you run it well and
+bring a customer base that is worth an
+acquisition and building software
+businesses that's just an interesting
+way and a fun way to build financial
+stability and financial security unlike
+so many other things. It has such a
+massive upside that these downsides, as
+impactful as they might be, you'll find
+versions of this in many other
+occupations that do not guarantee or
+even promise an exit or an acquisition
+down the line as building a SAS would.
+So, it's absolutely worth it for me even
+though I sometimes feel lonely when I
+just try to fix my code or I wake up to
+some kind of monitoring email and I
+think, come on, this again.
+That's just part of the arena that we're
+all in. And you can build systems to
+automate this away mostly to make it
+easier, make it better. And I don't just
+mean like build technical systems,
+right? You can build a process, too.
+Build connections with other people who
+might help you. You can build internal
+processes for yourself and the company
+you're building to make these things
+less likely and less impactful. So, if
+you're still here, if you still want to
+build a software as a service business,
+please go for it. The only thing I would
+recommend is to do it slowly. Do it on
+the side. Build a software business 1
+hour a day for a couple weeks. See if
+you can handle this. See if it fits into
+your existing lifestyle and then slowly
+up it to the point where you're spending
+most of your time on it. Get into it
+easy. I think that's the best way of
+seeing if this is for you. Don't throw
+yourself into it. Like quit your job and
+just do this for the next year on the
+little bit of money that you saved.
+That's just going to freak you out. You
+have to learn how to deal with these
+things over time. Because here's the
+truth. Every challenge I've described,
+every late night server crash, every
+customer rejection, every deprecated
+dependency, and there are so many,
+they're not bugs in the system. They're
+features. They're what make you
+resilient. They are what makes your
+business defensible. They're what
+separates the people who build lasting
+companies from those who give up when
+things get hard the very first time.
+Loneliness teaches you self-reliance,
+drives you to build meaningful
+connections outside of it. Hopefully the
+constant fires teach you how to build
+robust systems, not just the tech, also
+the operational side. And the 24/7
+responsibility teaches you what truly
+matters. Resistance to change gets you
+to be more empathetic and start
+communicating better. And the shifting
+sense of tech teach you adaptability
+just keeps you sharp. And owning
+problems that aren't your fault. Well,
+now that is actual leadership. So yes,
+never start a software business until
+you're ready to become the person who
+can handle all of this and still wake up
+excited about what you're building
+because if you are, there's nothing
+quite like it. And that's it for today.
+Thank you for listening to the Bucha
+Founder. You can find me on Twitter at
+Avatk A V K A HL. And if you are missing
+critical conversations about your brand,
+if you're PR expert, a marketing team,
+or have to do with those people, check
+out podscan.fm. We monitor 4 million
+podcasts in real time and alert you when
+anybody mentions you or the brand that
+you're interested in. So you can turn
+this unstructured podcast chatter and
+those thousands of conversations every
+day into competitive intelligence. Now,
+if you're looking for your next venture,
+if you're trying to find validated
+problems straight from the market, well,
+go to ideas.podscan.fm,
+which is built on top of podscan, where
+we identify startup opportunities from
+hundreds of hours of those expert
+conversations daily, so you can build
+what people are already asking for.
+Thanks so much for listening. Have a
+wonderful day.

@@ -1,0 +1,53 @@
+{
+  "topic_id": 155763,
+  "title": "Shift Assignment Tool not Working",
+  "slug": "shift-assignment-tool-not-working",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "customization",
+    "bug"
+  ],
+  "created_at": "2025-10-19T10:04:25.097Z",
+  "last_posted_at": "2025-10-19T10:04:25.218Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/shift-assignment-tool-not-working/155763",
+  "views": 21,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Mubasher",
+  "posts": [
+    {
+      "id": 484416,
+      "username": "Mubasher",
+      "name": "Frappe User",
+      "created_at": "2025-10-19T10:04:25.218Z",
+      "cooked": "<p>hi,</p>\n<p>I am trying to bulk assign shift or shift schedule but it is not working</p>\n<p>and there is no such issue in the console as well the screen freezes for a second and then no effect</p>\n<pre><code class=\"lang-auto\">Traceback with variables (most recent call last):\n  File \"apps/frappe/frappe/app.py\", line 115, in application\n    response = frappe.api.handle(request)\n      request = &lt;Request 'https://erp.floragroup.net/api/method/run_doc_method' [GET]&gt;\n      response = None\n      rollback = True\n      e = TypeError(\"run_doc_method() missing 1 required positional argument: 'method'\")\n  File \"apps/frappe/frappe/api/__init__.py\", line 50, in handle\n    data = endpoint(**arguments)\n      request = &lt;Request 'https://erp.floragroup.net/api/method/run_doc_method' [GET]&gt;\n      endpoint = &lt;function handle_rpc_call at 0x7f7b4cfd6b90&gt;\n      arguments = {'method': 'run_doc_method'}\n  File \"apps/frappe/frappe/api/v1.py\", line 36, in handle_rpc_call\n    return frappe.handler.handle()\n      method = 'run_doc_method'\n      frappe = &lt;module 'frappe' from 'apps/frappe/frappe/__init__.py'&gt;\n  File \"apps/frappe/frappe/handler.py\", line 52, in handle\n    data = execute_cmd(cmd)\n      cmd = 'run_doc_method'\n      data = None\n  File \"apps/frappe/frappe/handler.py\", line 85, in execute_cmd\n    return frappe.call(method, **frappe.form_dict)\n      cmd = 'run_doc_method'\n      from_async = False\n      server_script = None\n      method = &lt;function run_doc_method at 0x7f7b4c8d0430&gt;\n  File \"apps/frappe/frappe/__init__.py\", line 1754, in call\n    return fn(*args, **newargs)\n      fn = &lt;function run_doc_method at 0x7f7b4c8d0430&gt;\n      args = ()\n      kwargs = {'cmd': 'run_doc_method'}\n      newargs = {}\nbuiltins.TypeError: run_doc_method() missing 1 required positional argument: 'method'\n</code></pre>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/e0b2c6/{size}.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 9,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

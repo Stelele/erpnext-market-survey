@@ -1,0 +1,890 @@
+﻿[Music]
+welcome to today's episode of micro conf
+on air I'm your host Rob walling today
+with Tracy Osborne we're gonna be
+talking about how to build a high
+performance tech stack Tracy thanks for
+spending a half hour with me today yeah
+thanks for having me absolutely it's
+gonna be gonna be fun
+before we get into that I want to remind
+folks that if you're watching this on
+our youtube channel youtube.com slash
+micro Kampf in order to ask questions
+you need to join 890 other founders or
+aspiring founders in micro conf Connect
+calm and that numbers going up every day
+so Michael connect is a slack channel
+that we were using to stay in touch with
+founders stay in touch with each other
+and connect you know to connect with one
+another during these these times so
+micro connect that come if you want to
+check it out next week I want to remind
+you we have been doing daily micro come
+on errors and next week we're switching
+to a twice per week schedule just
+dialing it back just a bit so - and
+Thursday we're gonna be doing that and
+we will continue to do I talk with
+producer Zander and we're going to
+continue doing the zoom happy hours
+inside micro kampf connect only because
+those have been a big hit for folks who
+have joined is it for if you don't know
+you know you can get 20 30 40 people in
+a zoom room and then you break out and
+and produce was andrew has a control
+where he can say I want you know X rooms
+have five people each and it randomly
+assigns and then you can just hang out
+and you meet new people who are in
+connected and and you know see old
+friends I mean I saw three or four
+people two weeks ago when when I was in
+it and I was like hey you haven't caught
+up in a while so that's some fun stuff
+as always thanks to Basecamp and stripe
+there are headline partners for Michael
+Kampf and it's always a pleasure working
+with them alright so - intro our guest
+who likely needs no introduction with
+this crowd this is Tracy Osborne she is
+the she was the founder of wedding
+lovely which was a startup she ran for
+several years got funding from TechStars
+tech stars if I'm going to startups yep
+I'm at startups thank you and then we
+round up shutting that down about africo
+and she has since then has been working
+with me and a nar as a program manager
+at tiny seed so thanks again Tracy for
+showing up and bringing you
+you brought the good you have a blanket
+behind you with fuzzy stuff you have a
+good microphone yeah this is part of my
+normal chair by the way I have I always
+have the sheepskin on my my office rep
+office chair did you get a lot of
+comments on it because it is I do
+because a lot of people ask me like
+where did you buy that chair and I'm
+like it's clearly just that sheep's good
+yeah that's nice treat yeah so today
+we're gonna be talking about building a
+high performance tech stack and the
+reason I wanted to get traced on here is
+of all the people that I've worked with
+over my decades-long career now I
+they're they're just been a handful who
+are really good at staying on top of
+things and frankly they just don't lose
+things you'll say hey you'll throw one
+off comment into a slack DM or an email
+or a verbal comment in a meeting you
+know in a slack call because we're all
+remote and certain people just have a
+system and you know that they have a
+system because it works
+and two weeks later they come back and
+they're like oh remember that thing you
+asked me to do yeah here it is and
+here's a result seems like wow most
+people would have forgotten that and so
+that plus Tracy's just a productive day
+to a person she's very organized and she
+has systems and I have never I've never
+heard of talk about him you know in on
+podcasts and frankly I've never dug into
+her system myself so I'm a little bit
+curious about it as well so that's what
+we're gonna start feel free as we're
+going up you know if you're in the
+microphone air channel to ask questions
+I think we had a question that was how
+to be productive question mark so that's
+gonna be the whole time today but you
+have and there is a question from Andy
+themer that we'll get to a little later
+I'm about managing you know deal with a
+lot of contractors in suspect to kick us
+off let's set the stage and I'm curious
+how is it that you don't lose things it
+all comes from a deep-seated fear of my
+brain and like when I was a child I
+think I was teased ABAB of my family
+about losing objects a lot and so it's
+kind of turning maybe into a little bit
+too far into neuroticism but actually
+really obviously helps my everything I
+do at tiny seed to have all a systems
+this place just because I'm so afraid
+of losing things so this is something I
+started establishing I think it in
+university was a policy of always
+writing something down which all sounds
+really obvious and actually I should
+take the moment to say before us are
+going into the things that work for me
+is that systems and keeping track of
+things and the ways that you work is
+gonna differ from person to person so
+when I talk about the things that I do I
+don't necessarily mean to say like this
+is something that another person should
+do for Batum these are things that I
+ever like to say the last 20 or so years
+that I've put in place I have really
+helped meet me on different types of
+systems like writing things down and
+different kind of products that I use
+and it might not work for another person
+but it all comes down to just I guess a
+the fear of losing things and then being
+aware the fact that I can't trust my
+brain to remember things like I don't
+trust myself that if someone says hey
+you need to do something like this it's
+either gonna be I'm gonna forget about
+it or I'm gonna spend the next say 12 or
+so hours every half an hour of thinking
+oh wait I have to remember that and then
+I move on of like doing my current task
+and then half an hour later it's like oh
+wait I should remember that too and they
+I have squirrel brain throughout the day
+so both those things kind of play a role
+in why that I I try to have all these
+things in place so I don't forget things
+because eight it helps you not to forget
+things but be it also allows me to
+better focus on my current tasks right
+and so yeah when you say systems are
+different for everyone I think that's
+where you have a particular system and
+my system is different we were talking
+before we got on the air that I use
+Trello you use something else that will
+take into but that's why we will talk a
+lot about the kind of the meta stuff
+what's one layer above because it
+doesn't matter if you use Trello or
+todoist
+or you know Google Docs or whatever you
+know pipe drive or whatever you want to
+use but but the concepts we'll talk
+about here should apply to - there and
+and we'll throw out some ideas for tools
+as well if you know folks we're looking
+to do that so back to that question then
+you don't lose things because you don't
+trust your own brain dig into that so
+so what mechanically do you do then when
+you know in our and myself were like
+alright five things boom baboom on a
+call like where do those go in the ether
+they
+floating around carrier pigeon or you
+know what are we doing there yeah I mean
+first step is always is writing things
+down on paper I usually have notebooks
+all over my desk so you know on the fly
+I can get things down and on on paper I
+will lose these pieces of paper within
+the day though so I know that they need
+to move into someplace digital might the
+repositories I set up for these these
+tasks so what I've used personally I've
+tried Trello I've tried other systems
+the thing that actually works best for
+me is Google Docs so I just literally
+have a Google Docs where it's like the
+things are at the very top are the
+things that really need to be done save
+that day or maybe that week and then I
+have a bunch of categories underneath
+where it's like hey I'm waiting on and
+then I can move things into like waiting
+on because I can't work on something
+immediately or maybe it's like maybe
+someday there's literally a category
+called maybe someday because something
+had come up in a conversation and enough
+at that moment I thought to myself hey
+that's a great idea but we have no
+bandwidth to do that so if I didn't
+write that down I didn't put it
+someplace I would completely forget
+about it so this allows me to review
+every now and then go through that list
+of maybe someday items and maybe that
+will be the day that it's like ok wait I
+had the bandwidth for this a good idea
+so it's just Google Docs for me I can
+access out my phone I almost never do
+it's usually because it's work-related
+I just access it from my computer but
+it's in my bookmarks bar
+I believe I actually when I first
+started working at I guess eight I sent
+you the link so you probably could dig
+it up and look at the things so I'm
+gonna compare that to the system that I
+use because you and I accomplish the
+same exact thing we capture everything
+that comes in and we don't just have one
+list you need lists for for today this
+week waiting on and this year or vision
+you know long term and I do that I have
+a bunch of lists in the same Trello
+board and then I either if I know I'm
+waiting on something I should hear back
+by a certain date if it's via email I
+have boomerang or the snooze feature and
+I snooze it to a certain day or I
+literally will go in my calendar and
+just boom put an item in like I should
+hear back by this time or you know or do
+something so that's my system and but
+that and that's the meta is like both of
+us have you know you need these four or
+five
+and you need something to tick blur file
+is what people used to call it but it's
+a thing that that pings you at a certain
+date or that you at least refer to daily
+and be like should should someone so
+I've gotten back to me with that because
+in the old days so when I first started
+doing systems I would
+I did everything pen and paper which I
+still love and I really had a tough time
+getting away from moleskin notebook but
+when I would ask someone to do it I'd
+say hey can you do this for me yes I
+will do that awesome I would scratch it
+off on my to-do list this is when I was
+like 23 years old right I was like a
+construction you know I work kind of
+project management type stuff and what I
+found is most of the time people didn't
+do it and I didn't circle back and then
+I would look like the fool because you
+know to my
+this is fault and that's really what
+that's one thing you're trying to avoid
+right mm-hmm yeah exactly
+and so actually there's one thing it's
+that's I find really good about Google
+Docs so you could be able to do this in
+Trello but one little extra piece that I
+don't have for Tennessee but for my
+personal to-do list is that email also
+weather is I use Google Docs it's at the
+top I can have like a personal
+motivating statement just be like okay
+these are the things I want to achieve
+and say the next year like next six
+months next year next five years and
+they're just like aspirational so before
+I started working at tiny C and I was
+working on my books projects and it was
+like okay I get my book brought on by a
+major publisher you know become a
+world-renowned speaker likes things that
+are like way far out but it was nice to
+have this like reminder of what I need
+to do that day because when I'm looking
+at my to-do list I can get really
+overwhelming and I needed some sort of
+reminder what I was trying to move
+myself forward to be like okay cool now
+I actually do want to achieve those
+things and then I'm in a better brain
+space for achieving those items so
+that's a little thing that just learned
+over like a few I don't know years or so
+as is you know what a what's the things
+I can add to the system that's gonna
+work particularly for my situation
+yeah really like that I love the
+flexibility I mean that is one thing I
+miss from using the moleskin notebook is
+I could do anything because it's just
+pen and paper and essentially a Google
+Doc is really just pen and paper and the
+input is a laptop but I feel like I
+definitely do miss some of that having
+moved to Trello Trello is very strongly
+not very strongly typed it's a little
+bit it's like slightly more strongly
+typed than then a Google Doc right which
+is very loosely typed you can to kind of
+do whatever and then they're gonna be
+systems I think like to duyst and I
+don't even know I've never I've never
+really used to do system because they
+always seem way too opinionated for me
+and I like the looseness of it so I like
+that point you made I think that's what
+comes down like where you said it's
+different for different for people you
+know if you really need the external
+discipline applied to you and you find
+it to-do list app or whatever that just
+drives you know drives you to do your
+best then do it I tried several didn't
+like them and you know so I think either
+one works and I will say that I actually
+do move to paper for daily tasks so
+usually I go to the office I'll take a
+look at that big to-do list
+and and things I really want to achieve
+that day and it could be it's probably
+just two or three things because the day
+gets distracting you start chatting on
+slack things that happen so there's like
+what I'd like that's the biggest things
+I need to have achieve that day because
+I really like that satisfaction of
+crossing something out and it's it's
+like I endure was a dopamine like center
+of my brain it's very happy when I can
+cross something off and it does nothing
+like that with Google Docs so that's
+another little thing that I do yeah
+that's cool
+so I have more questions for you but we
+I want to address this question from
+Andy themer he said much of my
+productivity comes from using
+contractors not only coding but design
+mark asks and operational to do's when I
+had one or two contractors I would
+typically drop what I was doing in a
+chat with them let's assume like a slack
+DM or something now with five to ten
+part-timers it is becoming more
+difficult any tips on how to manage a
+larger bench more efficiently what's the
+next level up because this always
+happens right I mean as your team
+expands the old tools the old ways of
+doing things don't work and that's why
+tools are built you know we can't use
+Google Docs and slack teams for
+everything if you have a hundred people
+it just it breaks down so yeah you have
+thoughts on that yeah when it comes to
+any system whether it has to be working
+as a team or yourself it's identifying
+what what the stressful parts are you
+know what are the things that are you
+feel like might be falling through the
+cracks and that's gonna be different per
+person I'm not just exactly you know
+they're not didn't really go into detail
+and this is where I would ask ok what
+are the things that are becoming really
+hard these part-timers is it information
+is it there are they always asking
+questions about things like repeat or
+repeat questions coming up things that
+they should have known and I've
+forgotten about in which case it could
+mean that you know they may that's a
+time to document what's going on get a
+central repository information so you
+have a place that people could log in or
+go to to find that information without
+having to come to you for questions and
+making it you know everything kind of
+distracting and inefficient now if it's
+a process like you're bringing a lot of
+part-timers on you have to teach each
+part-timer the same process again
+documentation where it's like okay what
+is what is this process right at this
+documentation
+what is that steps that everyone needs
+to go through and that's going to be
+you or the person in the future that's
+going to be training those people that
+walk through those pieces so you can't
+get the point where it's like okay now
+that you're you know have a bunch of
+part-timers it's underneath a system
+it's like I dress addressing those
+pieces that have now become more
+stressful or they're taking more time or
+the things that aren't really working
+for you and figuring out what can you do
+to put things in place to kind of
+address those things what kind of tools
+and what kind of systems what kind of
+like product so you can start using at
+that moment yeah my thoughts there just
+to throw out a few because this is what
+we had this problem at drip as we went
+from two to five to ten to eventually I
+mean when I left the team was I don't
+know 70 or 80 but the for developers and
+designers who were well assuming they
+were in the codebase we used to get
+heavy issues to track what they were up
+to in what they were working on and all
+that with the marketing team if we had
+Sprint's and all that we were often
+using Trello as kind of a loosely again
+a weakly typed thing compared to
+Basecamp for team work if you want more
+strongly type of projects and it's weird
+you know I know a lot of us like as if I
+actually don't like process very much I
+don't think like process what we need
+but we need you know but some people do
+and and Tracy you're you know you're
+really good at setting up SOPs and
+getting that stuff and we we need both
+of it you need both those people on your
+team in essence right and so I think you
+know for Andy it's like even if you're
+resistant to doing Basecamp for teamwork
+or Trello I do you think that's probably
+the next step some tool like those is a
+next step up from chat because you're
+right chat just becomes overwhelming at
+at a certain point I just want to say
+just getting stuff out of your brain and
+then on in some place where it could be
+stored because those those questions
+that come up for those processes and
+whatnot I'm can live in your brain but
+it's gonna help the process right more
+smoothly with those new people when it's
+when it's out there but the other thing
+that ever really mention is if you hire
+someone yeah I want someone to take over
+this this piece for you it's already
+there which is really awesome so they
+can just write Dave
+like your information it's already out
+there and they can pick up from that
+right it's not a bunch of chat log
+threaded conversations somewhere and
+frankly you could I mean another
+alternative to the tools I just
+mentioned you could literally have a
+Google Doc with one page for each
+contractor as long as you don't mind I'm
+seeing what each other's doing and it
+could just be kind of Tracy's
+organization of that that's another way
+to do it if you prefer to keep it super
+lightweight you know we have another
+question from Peter Lorre ynx he says
+how many items are in your dock right
+now how many are current versus someday
+maybe and I like this question a lot
+because I've known people who make their
+to-do lists and you can't see my cameras
+too narrow but they make their to-do
+lists and it's um they get 50 100 200
+things and then they look they have
+captured everything but they lose stuff
+because they put too much on it so I you
+go first and then I and then I'll win
+yeah I had to open it up and see because
+of the the virus stuff my stuff my to do
+this actually has gotten a little bit
+crazy crazier than normal just because I
+haven't had a lot of mental bandwidth to
+do do things right now which is
+something I guess we should mention is
+that it's gonna be really hard to be
+productive in general because everything
+that's going on right now right now I
+have I I also there's like Google Docs
+is because I can do teared bullets so I
+can have like like here's a here's a
+task and then I can list out every
+single piece at that task so it's quite
+long if you looked at every dot on its
+own it's probably about 20 items and
+that would say is the stuff I wanted to
+do in the next week but a lot of those
+are like there are some personal things
+in there I had a trip to Europe that I
+was gonna go speak at them to a complex
+month month and I have five bullets
+where it's like cancel this and cancel
+this cancel this cancel this I could
+have said like cancel that trip to
+Europe but I write for me it's better
+for me to list out every single piece of
+that process and make it easier for me
+to cross things off so it's 20 items on
+the like the this is the things I want
+to work on right now like two things on
+my waited on list there's four things on
+my I can't work on this right now
+because of various reasons and I can
+write out what's that current status and
+this needs to be a lot longer when I was
+doing due diligence for tiny seat
+essentially went like pages long because
+that's actually where I put everything
+at first was just on my Tulia so it's
+like
+I'm trying I my task was supposed to be
+keeping track of these companies that
+were working with and where they are in
+the process of what happened and it
+starting pages and pages and pages long
+and I eventually had to figure out a new
+system for that and pull it on my to do
+this because it got really overwhelming
+yeah and that's like my good rule of
+thumb is if I'm over in my main Trello
+that I kind of trying to work down if I
+have more than about 15 or 20 items and
+some of those do stay at the bottom
+longer then then I want because they're
+not well-defined when they shouldn't be
+some kind of breaking my own system but
+if I'm over that I start to think hey I
+look through it and I think a do I need
+to hire someone even you know or
+delegate this to virtual assistant or
+and you know anyone who you know any of
+colleagues we work with or are any of
+these just not that important and I've
+added crap in here and so I route pretty
+ruthlessly like go through my tattoos
+and remove things that I came up with
+three weeks ago when you know I had a I
+was washing the dishes and I threw it in
+the Trello board and I really shouldn't
+have it should have been a better
+vetting process it isn't actually to do
+it's more of a think more about this
+later you know and then my longer-term
+one the vision one yeah that probably
+has ten on it at any given time and I
+find that once you get more than that
+it's just too many to scan through and
+everything's on you know just pick the
+top five or ten they're most important
+and kind of ignore the others next yeah
+so no more questions right now but folks
+can certainly weigh in in the chat what
+are the key signs I think you touched on
+this a little earlier but you know
+you're you're a good systems thinker in
+this sense like if someone's watching
+this and they don't really have a system
+like what are some really good signs
+some key signs that they need to put
+something in place so I make there's two
+different ways of looking at there's
+like reactive and then there's
+forward-looking systems so reactive as
+mentioned before is when you identify
+what's what's something that's stressing
+about what's something that might be
+feeling like you're constantly referring
+back to and you want to stop having to
+refer back to um so in non text non tech
+way of looking at this is say your keys
+for your house keys and if every single
+day you're like where are my keys and
+you've lost them you're running around
+the house your partner's like we're
+your keys and you're trying to find them
+a system is literally just putting him
+in the same place every single time so
+it's just like identifying like hey
+every single day that I'm losing my keys
+I need to figure out a way to fix this
+process and so they start leaving one
+place which then helps out family
+members because they might be asking
+where your keys are and you're able to
+tell them the exact place there are you
+can save yourself time you're not
+searching for your keys every single day
+so they bring that in to say tech and
+founders and the things that were
+working on it's an example I have this
+when I started working on with Meyer
+conf with you and I think I was asking
+you a lot of questions about when I was
+helping you with speakers for Mike
+Renault fury' p-- was asking you
+questions about who spoke before who
+what was the talks at that and I was you
+know we didn't have information in one
+place for all these items so there's
+this one day which was like hey we're
+gonna put it on notion we're gonna write
+out you know all the speakers from
+record come off what the year that they
+were that they spoke what were the the
+titles they have into one place and that
+helped me like a save you time because I
+wasn't constantly peppering me with
+questions but be in general for buyer
+conf it
+it will hopefully lead to better predict
+productivity in the future because all
+information is is off of someone's brain
+or and the systems that you had in place
+on your computer but now it's in a team
+situation so I was looking at like oh
+hey I shouldn't be asking these
+questions and taking up your time over
+and over and over so let's put something
+in place so we can do better
+essentially yep and that was a good case
+of everything being in my head it was
+just never put it down and this has
+shows a difference in our personalities
+like I tend to not I tend to keep a
+bunch of stuff in my head I don't keep
+two dudes in my head but institutional
+knowledge like that that really should
+be written down I had never taken a time
+invested the time to do it and so yeah
+and you're a lot of people like that
+yeah a lot of people most people I would
+say it's it's really easy to just keep
+things in your brain cuz it's hard to
+tell yourself that it's okay to spend
+the time to put things into a system
+because you're really busy with things
+so you have to like carve out the time
+of your day it doesn't feel like it's
+productive time because you're working
+on something a problem that'sthat's yeah
+exactly
+so I was like okay what what's the time
+I'm gonna have to actually spend the
+time to work on this thing that's maybe
+you feel that maybe at that moment it's
+not gonna pay off and
+future but it probably will it just like
+carving out that time is really hard yep
+yep cool so we have some well we have a
+comment and a couple questions now and
+we are I mean this always goes so fast
+we are running a little short on time
+but let's dig into it
+Andy femur says I have a junkyard tract
+in my Trello board as a place to demote
+ideas that become not important and I
+think that's cool if you're concerned
+about just deleting or archiving
+something throw it in there refer back
+to that every month every two weeks just
+whenever you think about it and if
+there's it's there's an amazing Dimond
+and that ref then promote it again but
+most often or not I think you'll find
+that your filters are pretty good
+another question from Peter Lorre ynx
+what tips can you share about how you
+protect your attention for example
+stopping interruptions and getting in a
+flow State it's hard for me because like
+most of my job is just reacting to a lot
+of things interruption yeah you're in a
+report yeah exactly and that's only
+reason why I write everything down
+because every single like hour there's
+something that's pulling my attention
+one way or another and what I do with
+tiny Sadin how about when you used to
+write code or you used to book because
+then you have a get into it what did you
+do then right I have this you know this
+you've seen it before it's my time timer
+so I I do use the Pomodoro method when I
+need to actually sit down and focus on
+things so turn off all notifications
+everywhere and then Poe Doros likey okay
+you're gonna tell yourself like hey I'm
+just gonna spend I think it's 25 minutes
+just opposed spend 25 minutes straight
+working up one task and then I'll have
+five minutes ago indulge the squirrel
+brain look at Facebook look I've read it
+refresh virus news and whatnot I do that
+actually attending to see what I need to
+do sit down and like do some ideation or
+forward thinking stuff so it's nicer
+there rather than just sitting down I
+need a deadline essentially and rather
+than just sitting down saying I need to
+work on this by giving myself a time
+limit I need to work on this for 25
+minutes I find that it tricks my brain
+into be more productive so that's that's
+like the biggest tool in my tool belt
+other than turning off notifications
+everywhere every now and then I'll
+actually go into my host file and block
+reddit
+because it's just a habit at this point
+where I just like as soon as I got
+distracted by something or frustrated by
+something I'm working on and my hand
+will just automatically start typing
+reddit and then it's all over
+so I always block in the host files
+because they'll resolve and well
+won't resolve and now like oh yeah I'm
+not supposed to be there no sweet
+working so those are it's like you know
+turning off distractions and then giving
+myself a small piece of time to really
+focus and I find that as soon as I start
+really focusing on something then I
+actually can get into that flow state
+but I just have that that deadline and
+that's something I do yep very cool next
+question as a from Google it's from
+Jonathan Weinberg he says what are some
+good tasks for a virtual assistant and
+what are some of the best services for
+that you know I know
+tests for virtual assistants so Sharon
+Sharon I have a personal like an a
+personal Sasha executive assistant that
+we pay I hired her through up work and
+she works you know works as needed I
+have never used a service like this is
+our tool but Cyril is the one that I
+would probably you know comes top of
+mind for me you have thoughts on that or
+tasks as well yeah I have a blog post
+about it actually about when I hired a
+virtual assistant for wedding lovely I
+didn't use Search Search well just
+because I was so low income that it was
+to spending for me I believe at the time
+it's been a while since I looked at
+sexual but I used the it was like if
+forum for finding virtual assistants in
+the Philippines and I found someone who
+was amazing for five dollars an hour and
+we worked together for over about two
+years if I recall correctly anyways the
+things I did in place for the virtual
+assistant I wedding lovely was again
+this the documentation of tasks of
+things that I was doing as a founder
+that could could be moved into her plate
+and a lot of these things they couldn't
+didn't involve a lot of creativity but
+it was things like support requests
+where it's like here's like the top 10
+things I get from the people I'm working
+with and emails that are coming in and
+what are my responses to them and then I
+put that in a doc so when they came in
+she can refer that doc I could be like
+this is how Tracey has handled this
+situation in the past and then she would
+send that over and if it was something
+that I hadn't handled then she would ask
+me how to tell her how to handle it and
+then she would add it to the doc and so
+we at the end we actually had this
+really good document of all the
+different responses and questions and
+support requests and things that had
+hands
+that she would to work on and it was
+really really great for support she also
+did things where we were like running a
+blog and it was all the system for
+getting things into WordPress and
+getting things out of WordPress and all
+those things all these like little tasks
+all these things that you could just
+list out all the little steps of involve
+and document everything that's involved
+are really great tasks for a virtual
+assistant just as long as you're like
+you really write things out you really
+be very clear right more than you should
+just like get every like question that
+could be asked out into that sheet and
+then continue to update those documents
+if you work at that virtual assistant to
+answer the questions or things that come
+up which is really handy because if you
+lose your personal assistant which can't
+happen then it means the next time you
+bring another person on you can do less
+training because it have all these
+things documented yep and I think
+there's a it's it helps to get to know
+your virtual assistant and learn what
+his or her unique skills are that's not
+all just admin because like I had
+someone who happened to know WordPress
+really well and so I had her help me on
+with that I had someone who knew how to
+do some light design work and and audio
+editing even and she would help with
+that and so it's you know every every VA
+is not created equal and in terms of
+that you know their skill set and what
+they're able to work on so sorry I was
+able to do a bunch of looms just to walk
+through things you know just not just
+write things down
+I taught her how to do WordPress through
+loom I'm just doing a bunch of
+recordings screencasts are a great way
+to do it yeah I mean we had our sharing
+my personal assistant or VA what you
+know whenever you want to refer to her
+as we had her register the kids for like
+all their summer camps because that's a
+it's a pain it's it's way more
+time-consuming than you think it's gonna
+be and once the kids picked it it was
+just like I took a picture I emailed it
+to her you know that because they did it
+by hand and then she just booked them
+all and made sure everything worked and
+then put him on our calendar and invited
+it you know so that was probably a
+couple hours or the work and it's a
+thing of like this is not rocket science
+to do you know anyways we are we are at
+time and I want to be mindful of folks
+time Tracey makes thank you so much for
+joining me today
+she's a hat treat she makes on Twitter
+Tracey Osborne calm now I think positive
+go out and be productive as much as
+possible because things are crazy right
+yeah this is the time to talk about that
+for sure so next week again we're going
+to the Tuesday Thursday schedule a
+Tuesday we're gonna be quitting I keep
+getting my Mike Tuesday we're gonna be
+doing live copy audits with Liana patch
+and Thursday we're gonna be talking to
+Cortland Allen about what he's learned
+interview 155 startup founders join us
+again microcon on air calm or
+youtube.com slash micro pump same time
+noon central 1 p.m. Eastern say please
+see ya thank you so much
+[Music]
+you
+[Music]

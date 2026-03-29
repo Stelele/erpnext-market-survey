@@ -1,0 +1,781 @@
+﻿Absolutely. It's great to have you on.
+I'm looking forward to digging into um
+talking a little bit about Capacito
+talking about you know how it can help
+bootstrap founders talking about maybe
+why you built it and then uh I'm
+interested to hear how the donation you
+have basically a donation model right
+now. I want to hear more about that and
+then talk about growth goals and and
+we'll probably bat some stuff around
+there and try to figure out brainstorm
+some ways to to to help you help you get
+there. So I think the first thing is
+producer Xander, can you pull up a
+screenshot of the homepage? Um, so folks
+watching can see and and for folks who
+are listening to this later on the
+podcast, um, H1 is you deserve a
+cafetto. Break away from your task and
+end and enter thoughtprovoking
+conversations with tech creatives
+worldwide. And it's nice looking site.
+It's pretty simple. Um, there's a get
+early access button up at the top that
+it's cool. See Xander's running the
+screens and I'm talking through. So
+click that get early access producer
+Xander and let's see the form. So, you
+built this form in Air Table. Bravo.
+That is Air Table. Y that's basically uh
+you're get started. Yeah. Isn't that
+cool? Um and so you're asking for first
+name, best email, city, state, country,
+um you know, role, occupation, career,
+and a social URL to confirm you're a
+real person. And then topics you're
+interested in discussing the most. And
+you have a ton of stuff. I mean, it
+looks like there's about 40 or 50
+different topics. 3D printing, comic
+books. I might have to give this a try.
+Um, concerts, cooking, design. Wait, you
+skipped Dungeons and Dragons. Should
+Dungeons and Dragons be there? I'm just
+kidding. I'm sure everyone who uses this
+says, "Hey, can you add my completely
+esoteric interest to your to your form?"
+You get a lot of requests. You're like,
+"Come on, I need like nested dropouts to
+do this." But yeah, you have a bunch of
+uh of of interest there. And then
+producer Xander, what's down at the
+bottom of this form here? Yeah. Yeah.
+So, and then it's like pick your
+preferred times to join uh for 20 to 25
+minute breaks. Um and then how did you
+hear about Capacito? So, is the idea
+that um if if I'm home and socially
+isolated, which you know I have three
+kids and a wife, but I'm kind of
+isolated from my peers that I would I
+would fill this out. I'd of course
+select like comic books and and Dungeons
+and Dragons and whatever else. And then
+is it a recurring thing that I'm trying
+to do like once a week or twice a week?
+what what's your thought process here of
+how to get folks uh you know to feel
+less isolated?
+Yeah. Um so the bigger vision is to have
+it be a have it be a way to take those
+breaks daily. Um right now because of
+the system that we have set up it's all
+no code. Um it's a little hard to have
+it so that it's a daily break happening
+with a new person every time. So for the
+since since February since almost like
+March as well we went virtual um I've
+been doing it weekly. So every week you
+would receive one curated match based on
+your objectives and your interests. Um
+we have an algorithm right now that runs
+um pretty much on a weekly basis and
+matches you with like-minded folks. Um
+and then there's a part to it where I
+also make sure to go through and make
+sure all of those matches make sense as
+well. So there's a slight human element
+for right now. I'm sure it won't be
+possible once, you know, we get larger,
+but for the moment I enjoy, you know,
+making sure people are going to have a
+good experience. And I think that human
+eye can sometimes catch um you know any
+errors that might come up with the algo.
+And um yeah so once we grow more would
+love to you know switch over to daily
+daily breaks which is the ideal form
+because the the more that you can
+intentionally set these blocks of time
+um on your schedule um the more the more
+proactive you can be about it but also
+it's already there. So, all you really
+have to do is log in, hit the hit the
+link, um jump on your computer or even
+just call in via your phone and have
+that quick break that you can just take
+while you're walking, um sitting
+outside, right? So, that's the bigger
+goal. We'll get there hopefully soon. Uh
+but right now, it's on a weekly basis.
+Got it. And the idea is it's ultimately
+that someone would carve out 20 minutes
+a day to have a conversation with
+essentially a new a new person. Yeah,
+that's the idea. And I mean the answer
+to this one may be obvious. It seems
+like you built this to scratch your own
+itch because you had this problem. Is
+that why you decided because this isn't
+something that you go off and say, "All
+right, I'm going to make a million
+dollars. I'm going to go build a you
+know a matching thing that's going to
+you know have I mean it's did it just
+stem out of your own your own kind of
+loneliness, I guess. Yeah. Um and I
+think loneliness overall I think it's um
+somewhat not really talked about that
+much. It's kind of you know you you
+start working remote. you know, one of
+the cons is, hey, you're going to be
+working by yourself eight hours a day.
+Um, and you just kind of accept that.
+So, when I moved from Miami, Florida to
+Indie, um, I had read every article. I
+had pitched my company to go remote
+because I wanted to, you know, see the
+world. Um, and I really thought I was
+going to do well. Like, I was like, I
+got this. I'm going to excel at this
+remote work thing that I keep reading
+and hearing about. This was back in
+2017. And so, my first month was great.
+you know, I was waking up early, super
+proactive and productive, engaged, but
+then after that first month, you kind of
+start to lose some of that. You're like,
+"Oh, yeah, like this is real. We are I'm
+going to be working at my desk alone."
+Um, you know, I have my morning set, my
+morning routine set up. I have uh you
+know my check-in with my team but then
+after that it's sort of up to you to
+yeah you have work meetings and other
+errands that you might be doing
+throughout the day but you don't
+actually have a set time to take that
+much needed break and so for me it was
+really hard to form that structure and
+to allow myself to be proactive in that
+way to carve out that time. So in 2018
+um I was about to you know like give up
+on remote work. I was like this isn't
+for me. um didn't love the isolation
+that I was feeling. Um and also my
+productivity was going down as well and
+I wasn't feeling like mentally healthy
+either. Um I was kind of suffering a lot
+there. And so in 2018 I was like, you
+know, why isn't there a solution that
+helps folks um structure their day in a
+in an easier way, but also why isn't
+there more accessibility for people that
+are at home to meet others? And so I
+spent like six months of 2018 just
+meeting new people in town um for
+coffee. And that was my my way to not
+only get out of the house and try new
+coffee shops, but also to create that
+space for myself um to break away from
+my computer to leave whatever, you know,
+task I had to reply to for my engineers
+or um design I had to draw up for my
+product um my product managers. And so
+having that time away really helped me.
+And that's where the idea kind of came
+from. I kind of thought, you know, can I
+expose this to every remote worker that
+that's out there? Can I help them create
+this time and can I leverage, you know,
+my knowledge of product and my knowledge
+of being in the remote work space um to
+build something really simple that, you
+know, can connect people and create that
+space for them that I think it's sort of
+hard to do on your own in the beginning.
+Um, and when you look at the time right
+now with COVID, it's even like a bigger
+problem, right? um companies are just
+going to be more distributed, more
+disconnected um and so are people,
+right? So, can I bridge that gap somehow
+with with this product at um you know,
+it's not at this at at the at the stage
+right now that I want it to be. Um but
+it's growing and it's I'm iterating as I
+go. Um and I'm learning new things like
+every single day about what people want
+and what they don't want. So, it's just
+a big learning experience and it's been
+awesome to see, you know, how the folks
+that use it really end up like enjoying
+the fact that they're meeting somebody
+new. Um, they're taking that time on
+their calendar and it's all done for
+them. Like, we take care of like all the
+things. All you really have to do is
+fill out that first profile form. Um,
+and then, you know, we get that we get
+that match invite in your email. Got it.
+And and it's completely free at this
+point, right? You're in early access.
+Yes, completely free right now. Well,
+like you mentioned earlier, we do have
+um buy me a coffee set up on our page,
+and we sort of use that use that right
+now as a way to um not only gauge, you
+know, what folks would pay, which I know
+buy me a coffee isn't like, you know,
+this is what folks would pay if I
+actually had a subscription model there,
+but um it helps us because all of that
+money, even if it's $20, $30 a month,
+that's all going back into the product,
+right? And that's that's what I was
+going to ask is well a since it's free
+if if you're listening to this you know
+again whether you're watching it live or
+listening to this on the on the podcast
+um if you feel isolation because you're
+working from home uh head to cap
+meetcapacito.com any of your info you
+don't have much to lose um if you decide
+you don't like it I'm sure you can
+unsubscribe pretty quickly and and
+there's no no cost in in trying it out.
+Um, I I will admit I'm an introvert and
+I have worked from home for almost two
+decades. Like I was saying, it is rare
+that I actually feel lonely. So, it's
+kind of I I don't think that this is for
+like for someone like me who can just
+sit alone for eight hours. Like to me,
+I'm a maker and I'm just like, "Oh man,
+three computer screens and some
+headphones and I'm golden." And about
+once a month, I think, you know, I wish
+coffee shops were open. That's how I am
+right now. And I did like last week was
+my once a month where I was like, man, I
+really wish I could go to a coffee shop.
+But I know that there are so many folks
+and I think that's the mistake that a
+lot of these remote companies you know
+when I listen to um some Siliconies or
+the first companies the B or whatever
+say yeah you don't need an office and
+it's like but you're a bunch of
+introverts you've hired 50 introverts
+and and you've you know maybe lucked out
+with it. I think there's a real now that
+co has forced the extroverts to work
+remote I I do think that there's a need
+for tools like cafesito and is is there
+one called donut in slack is that it's
+called donut time I don't donut yeah
+yeah yep there's a lot of tools popping
+up there's also um lunch club as well
+and there's a few out there that are
+sort of doing similar things just
+connecting people yep and I I think I
+mean yeah so there's a lot of there so
+if you're listening to this obviously
+you know check it out um I want to find
+out before we because I have some
+thoughts now that we've talked about it.
+I have some thoughts on how I would like
+if I were in your shoes, how I would try
+to market this and some pricing I would
+consider and and some avenues I might go
+down. But before we do that, I'm curious
+how the buy me a coffee donation
+approach is working. You said 20 or $30
+earlier. Is that approximately what
+you're getting each month? Um yes. So
+that's that's the average that we're
+getting each month. Um, and then in the
+beginning, um, I was kind of pushing it
+a lot more. Um, but I think it's that
+the fact that I need to be consistently
+kind of pushing it in our email
+campaigns or after each call and saying
+like, "Hey, if you enjoyed the call, um,
+donate over here." Um, what I've noticed
+is that most folks um, either pay once
+or twice. Um, so there usually a gap
+between the first donation and the
+second one. Um, but I feel like if I
+were to do a better job of like pushing
+that support page a little more in more
+places, um, maybe on the video call,
+things like that, um, I could kind of
+increase that that those donations which
+are super helpful, like super grateful
+that people even donated in the first
+place. Um, so it's really awesome.
+Right.
+Right. Cool. Um if you as a reminder if
+you are listening to this live please do
+feel free to post questions in the
+microcom on air slack channel of
+microcom connect. So I'm I'm given some
+thinking. I want to find out
+it seems to me like the easiest way to
+market this is going to be to latch on
+to a network effect latch on to some
+other people's audiences in essence. And
+of course you know I'm I'm so much a fan
+of B2B rather than going directly to end
+consumers. So like the instant thing I
+the first thing I thought of is you know
+integrating with Slack and Micro
+Microsoft Teams and Facebook Workspace
+or what I don't you know there's the
+Google I mean everybody there's like
+four of the big platforms right maybe
+the top three I know that requires code
+and you're not there yet because it's
+still a no code product but and I know
+there's competition there as well um but
+is that an angle do you feel like that
+market or that that place is so
+saturated that it's not worth you doing
+um and that potentially because on the
+flip side. I also feel like right now
+you don't have to use Slack to use
+Cafeito. It's all via email and everyone
+has email. So you could approach
+companies, you know, or try to find
+companies like when I was uh still
+working at Drip and we had, I don't
+know, there were 60 70 of us and they
+wanted new employees to interface, you
+know, to have coffee or to, you know,
+have a lunch with an seasoned employee
+or whatever. And I think they did that
+with Donut and it was fine and it worked
+great, but you know, not everyone uses
+Slack. or are you the non-Slack
+alternative to solving that problem but
+you sell it into organizations you know
+have you thought about going down that
+road or do you want to stay with the
+individuals
+um no I have thought about it um and
+it's something that we're sort of like
+stealthfully working on on the side um
+we do see a potential um especially with
+folks like Donut I think Donut's kind of
+the first you know Slackbot that sort of
+did the matching process um it's fairly
+random it's not like you you can't put
+interest in and understand if you could
+we would make a good match or a good
+conversation. Um, so from the folks I've
+talked to and did a little bit of
+discovery calls on the B2B end, there is
+space and I think what you just said is
+correct. Like I think we could be that
+that alternative to to Slack if you
+don't I know a lot of tech companies use
+Slack but there's so many other
+industries that don't um law firms, law
+industry. So there's you know other
+verticals there. But yes, I have thought
+about it and I think um we could also
+make a lot of impact on that front as
+well if you were able to break in or at
+least like you said um you know start
+off with emails and then grow into an
+actual platform with like an interface
+and all that fun stuff right well
+because the thing is is until you know
+seven months ago seven months ago
+pre-COVID a lot of tech companies use
+Slack and a lot of tech companies a lot
+are remote and like you said there's all
+the there's law firms there's
+construction firms. There's like the
+rest of the world that is not tech and
+is not remote and they are now forced to
+be remote because of co so I I think now
+is an a real opportune time for you to
+do this in a perfect so if I were in
+your shoes and I had if I had raised
+buckets of venture capital which I know
+you have not I would make it free for
+individuals and then do the slack
+playbook right free for individuals
+unlimited and then try to infiltrate the
+orgs and then you know when people want
+whatever unlimited history and all this
+configuration and be able to target
+people as new versus existing, you know,
+and matching and blah blah blah. That
+would be the premium plan that's $5 a
+month per user, $10 a month per user,
+whatever the price point. You don't have
+infinite money. You're bootstrapping. So
+instead, personally, I would approach
+it. Again, I've thought about this
+product for exactly 20 minutes. So you
+you've been doing it for eight months
+and I've been doing it for 20 minutes.
+So, take this with a grain of salt, but
+I would have probably either a two or a
+four-week trial and then I would do uh
+$49 for a year for a one-year
+subscription and see if the value is
+there. Some people are going to say,
+"This is a no-brainer. That's four bucks
+a month for for people for knowledge
+workers. Like, I spent more on that on
+on drinks when I went out my with my
+wife the other day, you know, and um so
+anyways, that's that price point feels
+like a no-brainer. It's going to be hard
+to scale up big time, but I I see this
+as a dual funnel app. I've been using
+this term a lot lately where really you
+have this free this lower end, you know,
+lower cost funnel, but the the real
+money here is going to be, I think, with
+businesses um going directly to, you
+know, to startups and established
+companies.
+Yeah. Um would you um from your
+perspective, and I know you you just
+mentioned it's only been 20 minutes. Um,
+from your perspective, would you sort of
+set up um the the model in like you
+said? So, you'd have the free just for
+individuals um use it to connect with
+folks individually, not within your
+company. And then you'd have more of the
+business or enterprise, whatever you
+want to call it, um where you would have
+more of that organization
+um set up. That's that's the thought is
+that if I'm using this as an individual
+and I'm I'm I don't control who I match
+with. I don't have any
+choice
+in but your onboarding and your
+marketing says hey there's a paid
+version of this or there's a there's a
+you know an enterprise version or
+company version right it's like I think
+of like Last Pass where there's LastPass
+free there's Last Pass $12 a year which
+is personal and there's LastPass pro or
+enterprise and tiny seed pays for that
+you know and because it gives us all
+this control so it's the same thing
+where again ideally you'd have a totally
+free plan but I I don't know as a
+bootstrap you want to do that. Um, so
+maybe that one's 49 bucks a year and you
+just get the uh you don't control who
+you match with, but your marketing is
+basically saying, "Hey, you probably
+work at an org that really wants its
+employees to connect with one another."
+The moment you want that, you know, look
+at the feature set here. And that one is
+again, it's $5 a month per user or, you
+know, the price conversation. We can
+throw out ideas, but that would all be
+um that would all be testing. There's a
+there's a good question from James
+Kennedy uh on YouTube and from YouTube,
+he's watching it there. says, "Is there
+a B2B chat roulette style version for
+team building?" Which I think is what
+we're talking about here. You know, a
+basically a chat roulette where you and
+I are talking about doing it maybe
+pairing people up once or twice or three
+times a week, but he's almost saying,
+you know, chat roulette where it's it's
+like, hey, everybody gets together for
+an hour or two hours, right? And that
+would be the paid version because now a
+company is getting value from this.
+Exactly. So, it's not built yet. That's
+a really good idea. I love that. Yeah,
+it is not built yet. Um, but that is a
+good idea that I would love to explore
+more. Um, and I think the chat roulette
+sort of style could build some of that
+um that lost quick conversation that you
+used to have, you know, passing your
+coworker as you were on the way to the
+bathroom or, you know, as you went over
+to walk to the coffee shop. um it's not
+as like scheduled like hey here's a time
+on your calendar but maybe it's more um
+a set
+a set weekly time or something where
+your you know HR person can say all
+right cool you know the company's going
+to break into these groups and we're
+just going to do a quick chat roulette
+and obviously it would be guided so you
+would have some guidance in you know
+what to talk about who who you're
+talking to um shared interest things
+like that so yeah that's a really good
+idea
+Super interesting stuff. Um, and it's
+pretty amazing what you can build these
+days with the no code no code movement,
+you know, 100%. Yeah. And it's
+affordable, too. So, it kind of keeps um
+not all the costs low, but many of the
+costs um low for the beginning. Yeah.
+Yeah. I agree. And the more I think
+about it, you know, as much as I like
+the idea of integrating with Slack and
+Microsoft Teams,
+well, I wonder I I feel like a
+differentiator you have is that you
+don't need that right now, you know, and
+I do like that. But then of course then
+our next question is, okay, so how do
+you find these companies to partner
+with, you know, to become customers
+basically? And and that may just be the
+grassroots hustle of I'm going to be on
+Hacker News and Indie Hackers and I'm
+going to be tweeting and I'm going to do
+a podcast tour and I'm going to, you
+know, at least the the bootstrap mostly
+bootstrap space is pretty small and it's
+not hard to get on those blogs and
+podcasts and and make yourself known.
+And then you get someone like a, you
+know, whoever a Josh Pigford with Bare
+Metrics or you get Jordan G with his 30
+people at Cart Hook realizing, oh, this
+is something I need and you know, and
+she's bootstrapping this and I'm going
+to I'm going to give it a shot and see
+how it goes. And um again in your shoes
+I don't you know I don't know
+financially where you're at but there is
+goodwill in this space and I think there
+might be some people who'd be willing to
+say hey I'm going to prepay even for a
+year you know for my team to help you
+fund the development of this thing. So
+that might be an avenue um you know that
+you want to go you if you don't have the
+resources to have this this built.
+There's a comment from YouTube from
+Sajad Turquamani and he says some
+companies love the team building
+activities. So probably some money there
+which I think is when I think team
+building I do kind of think chat
+roulette you think or is there any other
+way you could virtually do team
+building? I don't know that anything
+comes to mind for me.
+I would say I mean I I would say
+conversation but also um
+using maybe those first five minutes as
+a way to
+do like a small activity of some sort.
+So um you know something cheesy like
+draw how you're feeling or something,
+right? Not not saying that's the best
+example, but um something where you take
+five minutes before the call to quickly
+like draw out your weekend or um you
+know what's your big dragon for this
+week that you're trying to to overcome
+whatever that is. I think that like
+those moments of human connection where
+we don't just focus on, you know, our
+profession and where we worked before we
+got to this company. Those are like the
+gold the golden nuggets of um the team
+building pieces, right? Um because I we
+can talk about what we do all day. Um
+but what about let's spend five minutes
+or 10 minutes, let's talk about anything
+else but but the work life for a little
+bit. Um that can really help with with
+team building as well. So I wonder
+that's a big piece of it too. Like I
+wonder if there's a the chat roulette
+would guide you um in a way to not only
+have those conversations about work and
+your profession but also um your human
+the human aspects of you um and find
+commonality right in in us and our
+philosophies our perspectives etc.
+Really great question though. Yep.
+All right. Oh okay. Comment from me.
+This is so producer Xander has a is
+interjecting. He's breaking the fourth
+wall and and commenting on uh on app.
+Okay. He says since you have appointment
+slots, if you have a group meeting of
+all participants with a facilitator
+before splitting off into one-on-one
+meetings, there might that might be a
+cool way to create community within the
+company, but also give you a chance to
+warm folks up before one-on-one
+meetings. So, if you have a group
+meeting of all participants with a
+facilitator before splitting, right?
+Okay. So he's kind of Yeah. indicating
+that you do get that that's where you
+could facilitate something with four,
+five, six people and then and then split
+off. Yeah. Like like the leader, right?
+The head of the department. Yeah,
+exactly. I've had that mentioned to me
+before. Um which I think is really
+interesting because again a lot of at
+least when you get into three plus
+people it gets a little weird um if you
+don't have a clear leader um or the
+extrovert of the group. So I think
+that's that's again very good idea as
+well like having one person dedicated.
+Um yeah to just you know the first five
+minutes of that call lead lead a small
+exercise with the team that's on it.
+That would be really interesting
+actually. Yeah I like that. So there's a
+there's another question Sajad Tokammani
+from YouTube he said did you say you
+were considering building this without
+code? If so what tool/platform were you
+considering? And to clarify that you
+have currently built it with air table,
+right? It's a form and then there's the
+logic in air table, but building what
+we're talking about I don't know you
+could do that with I don't think you can
+do with no there's a lot of code in
+there. Is that your I don't think so
+either.
+Yeah, I don't think so either. Um we
+would probably Yeah, we would probably
+have a a developer most likely built
+that out. um there would just be a lot
+more of a complicated complicated mess
+uh of things that we have to account for
+I think. Yeah. Yeah. And how do you set
+up um I mean as we're coming up on time
+ask how do you set up the the chat
+themselves? Like is do you just email
+each other the the person's phone number
+and it's via phone or is there any type
+of web conference tool that you know is
+used or integrated with? Yeah, so we
+we're actually leveraging um daily.co
+which um they came out they came out of
+YC I believe a few years a few years ago
+and it's a third party video API um so
+we literally just leverage that and that
+comes into your calendar invite and also
+the email confirming your match um so
+pretty much we just say hey you know
+you've matched with Rob does this as his
+background these are his interests and
+the link to the video call so it's very
+simple um I didn't want to over
+complicate it at least not right now
+when we're super scrappy and
+Um, but you know, down the line, I'm
+sure we can build out our own system.
+But, yeah, right now I'm kind of of that
+mindset if I can leverage other tools
+that already do the thing that I need to
+do like video or um, absolutely
+database. Let's do it for right now.
+Yeah. Yeah. At at 400 users, I mean,
+there's no reason to, you know, 400 free
+users, there's no reason to be doing
+anything more than doing. Yes. So, well,
+excellent, Irma. Thank you so much for
+joining me on the show today. If folks
+want to keep up with you on Twitter, you
+are_justrma
+and of course meet cafe meetcafacito.com
+if folks want to check it out. Really
+appreciate what you do.
+Absolutely. Appreciate you having me on
+here and really good meeting everybody
+and great questions. I really it makes
+me think and think of different
+perspectives as well. So thank you for
+for the great questions. Awesome. Thanks
+for coming on the show.
+All right, as we move towards wrapping
+up, I want to thank Hey and Stripe for
+being our headline partners for this
+year. Um, we've really enjoyed being
+partnered with with Hey and Stripe and
+make everything we do just a little
+easier. And now we are going to watch I
+talked about state of independent SAS at
+the top end and uh we want to what do we
+have about a 9 second video here me
+talking more about the project and what
+we're up to and so producer Xander's
+going to roll that here
+second annual
+hi there Rob Walling here co-founder of
+Micro. Last year, we launched the
+inaugural state of independent SAS
+survey to take a look at the who, what,
+when, where, and how much of the global
+bootstrapped and mostly bootstrapped SAS
+industry. We opened the curtain on the
+segment of SAS that isn't chasing after
+venture funding and discovered things
+like we're spread across the globe in
+more than 340 cities. 56% of us are
+single founders and three out of four of
+us who offer a free trial do not ask for
+credit card upfront. The microcom state
+of independent SAS report serves as the
+only deep look at non venture track SAS
+benchmarks and metrics. When we began,
+our hope was to update it every year.
+And I'm here to announce that the 2021
+state of independent SAS survey is now
+open. You might be wondering if you
+should complete the survey. It's for SAS
+companies making at least $1 in monthly
+recurring revenue who have not raised
+traditional venture capital. Maybe
+you're bootstrapped or self-funded.
+you've raised from friends and family or
+angels or one of the independent funding
+sources like tiny seed or indie.vc.
+Do yourself and the community a favor.
+Head over to stateofindsas.com
+and spend less than 10 minutes to
+complete the survey which covers a range
+of topics unique to our world across
+marketing metrics, operations, founder
+backgrounds, and more. As a special
+thank you, we'll include the marketing
+insights bonus chapter in your report
+when we release it in January. Feel free
+to share the survey on the socials and
+be sure to tag #microconf.
+Thanks for helping us serve the
+bootstrapped and mostly bootstrap SAS
+founders around the world.
+[Music]

@@ -1,0 +1,1765 @@
+﻿Arvid Kahl: Dominic Monn runs
+MentorCruise, a bootstrapped
+software platform that connects
+eager people with you guested,
+mentors. Now, as someone who has
+tried and failed to build a
+marketplace before, I really
+wanted to know how Dom did it.
+We'll talk about how hard it
+really is to bootstrap two
+audiences at the same time, how
+to deal with payments, taxes,
+that kind of stuff and most
+importantly, how to handle
+business that revolves around
+people. Dominic is a very
+thoughtful founder and you learn
+a lot about approaching building
+a calm, but quite profitable
+business here today. This
+episode is sponsored by
+acquire.com. More about that
+later. Now, here is Dominic.
+Dominic, welcome to the show.
+I'm a big fan of MentorCruise.
+And that's a platform that I
+have used already to mentor
+software founders in the past,
+it's really cool. It's a great
+software business itself to dive
+into. We're gonna do that during
+our conversation. And it's a big
+catalyst for learning. So it's
+right down my alley. So let's
+talk about mentorship for a
+little bit. In terms of the
+dynamics of mentorship, can you
+share with me a myth about
+digital mentoring, mentoring
+virtually or online that
+MentorCruise has successfully
+debunked?
+Dominic Monn: Yeah, there's been
+this persistent myth that I
+would encounter usually in the
+beginning stages of
+MentorCruise, that would usually
+say, virtual and then also paid
+mentorship just can't work out.
+Because mentorship is like
+highly personal thing where you
+reach out to a trusted person in
+your circles, maybe someone that
+you've worked with for years or
+maybe someone that works at
+university and so on. And the
+same magic can't be encountered
+just like picking someone online
+paying for them and having a
+relationship that way. I think
+after like 12,000 mentorships,
+where we helped a ton of people,
+like start new businesses and
+get into new jobs and move
+contracts and whatever, we've
+probably debunked that. But
+yeah, and those first few weeks
+or first few months when I was
+reaching out to mentors, no
+credibility at all. That was a
+thing that I've heard quite
+often.
+Arvid Kahl: That's an
+interesting one. It's also that
+was one of the thoughts that I
+had when I went to the platform,
+like, how is this going to work?
+Like, how can I trust and I
+think that is the central word,
+right? Trust, that the platform
+is right for me that the people
+that come to the platform trust
+me. I think that's a big issue,
+trust building and trust
+retention, right? Though, that
+seems to be a central part of
+this. Have you ever dealt with
+fraud? Like, is there a lot of
+fraud? Because where there's
+money, people try to cheat. How
+is that happening for that
+platform?
+Dominic Monn: You know, I
+wouldn't say fraud is first
+rampant, maybe we're too small
+platform for that I've
+encountered a lot. But I mean,
+definitely it happens,
+especially now, when we, you
+know, get into the space of AI
+and Chat GPT. It's actually
+becoming more frequent, where,
+you know, we just encounter like
+applications that seem like very
+much GPT written and you try to
+background check and there's not
+an actual real person behind it.
+That has always been a thing,
+maybe people that lie a little
+bit about their jobs. And, you
+know, maybe don't tell that
+whole truth. But now, especially
+with AI, you know, sometimes we
+get almost a little bit of like
+an attack vector where people
+try to get into the platform
+somehow with a fake profile. I
+mean, fortunately, we've been
+around long enough that we have
+systems that catch that. You
+know, you need to come to
+MentorCruise. You need to
+essentially do a KYC
+verification, which is you need
+to submit an ID through Stripe
+and so on. So we know who these
+people are, we know where they
+live, we know that they have an
+ID somewhere. And so there is a
+certain source of trust there.
+And we also review the profiles,
+we talk to the people, we make
+sure that hopefully 99 plus
+percent of people on the
+platform are real people and
+really are what they say they
+are. So we're lucky in that
+regard. But yeah, it's been
+getting more common definitely.
+Arvid Kahl: That sounds like a
+lot of work on your side. And
+not like a typical SaaS business
+in terms of just you know, you
+have it running somewhere and
+you're sitting on the beach. So
+there's a lot of manual labor,
+just in validating and verifying
+people. Am I getting this right?
+How many people are working on
+this right now?
+Dominic Monn: So we're five
+people. I would say roughly me
+and then two other people in
+what I would call operations,
+which is just like leaving the
+thing running. And yeah,
+definitely, I mean, a
+marketplace is a different game,
+especially to the way that we
+are doing it which you will call
+a vetted marketplace, which
+means that you know, you kind of
+have to go through us to be on
+the marketplace in the first
+place. And so there's a bit of
+manual labor involved as well.
+What's also makes it
+interesting, like our product is
+very slim, what maybe a SaaS
+founder can say. I think they're
+you know, building a lot on
+their software, they maybe need
+to hire a dev, it's kind of
+their first hire. That's not the
+case for us. It's definitely
+more of a people business. And
+so, you know, the most hires
+that we do are operations
+people, customer support,
+community management, that kind
+of stuff.
+Arvid Kahl: It's funny when I
+think about SaaS businesses, I
+think about like people building
+features, features features. It
+feels like for you, you have a
+certain kind of scope of what
+you need to offer and the
+features are actually people
+that come onto the platform to
+teach, right? New wonderful
+mentors, that's a new feature.
+You don't need to implement a
+new software feature if you can
+attract more talent to come to
+the platform. That brings me to
+I think one of the biggest
+questions that anybody has about
+like marketplaces, like
+marketplaces are hardmode.
+That's what it feels like to me,
+building a marketplace,
+bootstrapping and like
+bootstrapping in two ways,
+right? Bootstrapping financially
+and bootstrapping from nothing
+of two sided marketplace that
+feels like it's the hardest way
+to build a business. How did you
+do that? How did you get the
+vetted marketplace going, where
+you had both high quality
+mentors and students that would
+actually stick with those mentors?
+Dominic Monn: Yeah, I mean, I
+think marketplace are a
+different game than SaaS, maybe
+you could call it harder. But I
+think that really highly depends
+on who you are as a founder as
+well. Because you know, if you
+are, say, the typical
+bootstrapper indie hacker, you
+probably have like a software
+background and or maybe a design
+background. But the thing that
+you do really well is building a
+software product. That's kind of
+what you do. And so it's very
+natural to say, you know, I'm
+going to go in there and I'm
+going to build a software
+product. This is what I do well
+and then I just need to kind of
+sell it and market it somehow.
+And that's it. Marketplace are a
+people business. So this is kind
+of the background that you need
+to have to build a business like
+that. Which also means it's
+actually a really great business
+if you don't have that software
+design background, if you have
+some sort of kind of leverage or
+maybe a community behind you.
+Marketplace are a wonderful
+business because you don't need
+to build a ton of features, you
+just need to build out the
+people. And if you already have
+the people somehow that makes it
+a lot easier. And that was the
+situation for me as well. I had
+kind of uncommon background
+coming into tech. I did a lot of
+self teaching self studying. I
+was embedded in all those
+community which you know, you
+know, what to speak of there. I
+was embedded in all those self
+learning communities that were
+just hungry and longing for
+mentorship. And so I kind of
+already had one of the sites or
+at least access to one of the
+sites. And so the second part
+was finding those mentors and
+kind of getting them into the
+marketplace. And so in the end,
+I actually just had to do, let's
+call it sales for one side of
+the marketplace, which was
+attract really good mentors and
+I put a lot of energy and time
+and writing and DMS into that.
+But then I was essentially able
+to bring those two sides
+together. I was able to do a lot
+of sweat at DMing to get the
+mentors in but then I also had a
+community behind me who wanted
+those mentors. And so my job was
+just bring those two together.
+Arvid Kahl: That makes perfect
+sense. And thank you for sharing
+this kind of perspective shift.
+Because to me, marketplaces are
+hard because I am one of these
+technical people, you know. I
+come from a very technical
+background. And whenever I did
+try to bootstrap a marketplace
+with other people in the past,
+like a local food marketplace
+back in my days in Berlin in
+like 2015 or something. And it
+didn't work because we were so
+focused on the features on the
+technical side, but very little
+focus on the community and or
+like the vetting the sales
+process. It's funny that what
+comes so easy to you came so
+incredibly hard to me, which,
+you know, it's nice to see this
+shifted to another perspective
+and it kind of makes my next
+question almost answer itself, I
+guess. But so how do you prevent
+yourself from building too many
+features in the marketplace? I
+guess the answer is you just
+don't care as much about that
+stuff. That's kind of what I
+want to know, like, do you have
+a certain scope of features that
+once you have them, you're done
+with it and the rest is just
+like putting people power into
+the business?
+Dominic Monn: You know, I
+wouldn't say so. I would say you
+know, MentorCruise right now, I
+would call it feature complete,
+you could say like, it's a
+perfectly fine marketplace where
+you can book mentors, where you
+can have like a little chat,
+little dashboard there, a couple
+of billing tools. I think that's
+quite important. And you know,
+from that side, now we could go
+100% on getting on new users.
+And the thing would scale to
+some degree. That doesn't mean
+that MentorCruise doesn't
+change. I think, as we, for
+example, change markets, I think
+we had to adapt a couple of
+things. You know, before it was
+like this thing where you would
+almost do pro bono mentorship
+for like self teaching students.
+And nowadays, it's like this
+thing where you can almost put
+together coaching packages and
+it's like, it's becoming much
+more serious. And so that also
+needed more features in there.
+But I would say it's more
+feature light. To give you an
+idea we're five people right
+now. I'm actually the only one
+writing code and I do it about
+two days per week, maybe not
+even because you know, there's
+emails and other stuff. So we
+get by by doing maybe like 10
+hours of coding per week as a
+company. I'm not sure you know
+what other SaaS companies can
+say that about themselves
+because obviously you need to
+build those features. You need
+to work with those customers and
+their requirements. That's not
+so much the case for us. For us,
+it's important that you know,
+the people that we have on the
+marketplace are really good that
+we do moderation, that we, you
+know, more so build out systems
+that help people mentoring and
+coaching rather than, you know,
+features that you can use on the
+platform.
+Arvid Kahl: Yeah, that kind of
+thought that makes perfect sense
+to me like the systems that you
+put in place, they're
+immediately usable by everybody
+else. And the feature might be
+something a couple of people
+might use, might need even but
+just a couple of them. I think
+that that to me is a priority
+thing, right? If you prioritize
+those systems, it has a massive
+impact. How much time do you
+spend generally on operating,
+like talking to your customers,
+talking to the mentors or the
+students any given day?
+Dominic Monn: At any given day,
+I will probably say two to three
+hours. That's usually kind of my
+morning job, which is to go
+through emails, to go through
+our Slack channel, which is full
+of mentors. So every mentor is
+on our Slack channel. It's like
+a pretty busy place to be in
+there. I also have actually a
+couple of systems that helped me
+reach out to more mentees, such
+as like get into conversations
+with them. So you know, here and
+there, there might be a call to
+kind of see how they're doing
+maybe to work on something
+together, like a case study or a
+blog. So I try to, you know, do
+that first thing in the morning,
+like answering emails, go
+through messages, Slack
+channels, and so on. And what
+happens then is basically, it
+leaves me with however long I
+want to work, let's say, five,
+six hours, but maybe sometimes
+less for, you know, deep work,
+be it doing something with
+marketing, be it looking at a
+product, seeing what does it
+need kind of for the next step,
+what's the next thing that we
+work on? Or then you know, on a
+couple of days actually going in
+and coding something.
+Arvid Kahl: Wow, so it's kind of
+a nine to five at this point? Or
+is it more or less than that? So
+that's always what I'm
+interested in with that
+particular kind of business.
+Dominic Monn: I would say it's
+more than a nine to five, but it
+has an immense amount of
+freedom. So in the sense that I
+can basically say, whenever I
+want to work, I'm able to travel
+and work. I'm able to maybe take
+lunch time off and go to the gym
+for two hours. You know,
+essentially, it's a very free
+business. I tried to have very
+little calls in that business,
+kind of in a very typical
+bootstrapper/lifestyle, business
+lifestyle. So basically just
+have a lot of self governance
+over what I do. But in the end,
+yeah, I end up putting a lot of
+time into this. But it's
+generally a lot of fun. And if I
+didn't want to put a lot of time
+into it, after those two, three
+hours of emails, I might just
+like shut off my computer and do
+something else as well.
+Arvid Kahl: Nice. Yeah, that's,
+I think I just recently read a
+tweet by Dagobert Renouf and he
+was talking about the difference
+between freedom and autonomy for
+bootstrappers, for founders like
+us. I think it's an interesting
+thing to just ponder, like, what
+is freedom for me? Is it just
+making my own decisions? Or does
+it mean like having all the time
+in the world? Like, depending on
+what you choose there, it's kind
+of informs what you're going to
+be doing. And if you work more
+than other people who have a
+full time job but you feel
+you're more autonomous, it might
+feel like less work because it's
+not forced, right?
+Dominic Monn: Yeah, definitely.
+I think, you know, in this
+thing, I think startups and
+bootstrapped or VC funded,
+whatever, they're hard and you
+need to put a lot of time into
+them. And then you know, when
+you have that, let's call it
+freedom or autonomy to decide
+what you want to do. And you
+know, work on something that you
+find truly rewarding. But then
+also, you know, have that
+control over your time and you
+know, have a lot of things that
+you can do, but not a lot of
+things that you really have to
+do. I think it's really
+rewarding. And it also helps
+protect you from things like
+burnout. Because, you know, if I
+have a stressful week on the
+Friday, I might say, hey, you
+know what? I think I'm going to
+work the morning and then I'm
+going to take the afternoon off.
+And I don't need to ask my boss
+about it. I don't need to like
+just push a lot of work onto my
+Mondays or on the weekends. It's
+a business that is designed to
+basically say, hey, I can take
+time off and nobody's gonna miss
+me essentially.
+Arvid Kahl: Oh, that's great. Is
+that something that you also
+extend to your employees or the
+people you work with? This kind
+of freedom?
+Dominic Monn: Yeah, definitely.
+I mean, we're fully remote. So I
+don't have anyone here where I
+live in Zurich. We're also
+async. So I don't really care
+when people are online. I'm not
+tracking their working hours. I
+just want us to do a good job.
+I'm setting goals. I'm meeting
+with them somewhat infrequently,
+just that we can have time to do
+what we want. So we work, you
+know, for our goals, we work for
+things that we want to get done.
+I don't care in the end if they
+work, you know, 35, 30 hours, 40
+hours or even more. I think
+there's maybe a thing where you
+want to protect people from
+working too much because they
+feel pressure. But yeah, in the
+same sense they have the freedom
+to do the same as I do.
+Arvid Kahl: Cool. Where did you
+find the people you work with?
+One of the biggest problems that
+I've had with my businesses,
+just finding the right people
+and nobody taught me how to hire
+so I'm always interested in
+other founder stories around
+that.
+Dominic Monn: Yeah, hiring is
+hard, really hard. And I'm not
+going to claim that I have a
+perfect system for it yet. And
+really the people when I look at
+them in my team, they come from,
+you know, really various
+backgrounds. For example, my
+product designer, Maggie, shout
+out to Maggie, is someone who
+actually worked on a case study
+about MentorCruise for her like
+bootcamp project. And so she
+reached out to me and said, hey,
+I'm working on this case study.
+I'm just going to send it to
+you, you know, let me know what
+you think. And she actually sent
+it to me in the exact moment I
+was hiring for a product
+designer. So I was saying, hey,
+you know, just jump into this
+like, interview cycle that I'm
+doing. Let's see how this goes.
+So you know, this was just like
+cold outreach, LinkedIn, really
+good timing. I hire people
+before they were part of the
+MentorCruise community which was
+cool as well to, you know, have
+someone that knows the product,
+uses the product, really loves
+the product, work on the product
+as well. And then you know,
+there are also the typical
+channels. I think, someone we
+hired from Upwork. There are a
+couple of like lists of maybe
+more like a bad freelancers, if
+you don't want to scour through
+the whole like Upwork sea of
+freelancers to maybe get
+something a bit more vetted. But
+yeah, I mean, they come from
+from everywhere and it never
+gets easier to actually hire
+them. I think I'm getting better
+at it now that I've done it a
+couple of times. But it's hard
+definitely.
+Arvid Kahl: I think what you
+just pointed out, like, besides
+the regular kind of Upwork
+stuff, like we just need people
+for particular job, like to be
+done very quickly to project
+based work, the thing you
+describe with finding people
+inside your community that
+already are close to the product
+and not just the product, the
+founder close to you, that
+understand you, that have a
+relationship with you, that's
+something I see more and more in
+kind of founder led creator led
+businesses like ours, right?
+Like small ish software
+businesses or all other kinds of
+businesses where the creator has
+a presence online. I see this a
+lot with YouTubers, like people
+who build YouTube channels,
+media businesses, they recruit
+their editors, the people who
+help them with captions and the
+people who help them with like
+thumbnails and that stuff
+directly from the audience. Like
+shout out to Nick, who literally
+is doing the, if not just the
+thumbnail, maybe even editing
+this whole thing here today. He
+comes from my own audience
+because he likes what I did and
+liked it enough to reach out to
+me. And here we are, right? So
+there's that kind of connection
+that people already have with
+you that we would be kind of we
+would be missing something if we
+didn't tap into that for
+recruiting the people that we
+need. That is really cool. So
+that is your internal team. But
+let's say as a marketplace, you
+also have to recruit in the best
+sense, the mentors, where do you
+go there? Like, how do you reach
+out to people on the, I guess,
+supply side of the marketplace?
+How do you recruit more of them?
+Dominic Monn: Yeah, so I mean,
+nowadays, we're really lucky
+that if you actually type into
+Google become a mentor or become
+a coach or become a tutor, we're
+usually there. So I think
+outbound we're doing actually
+CRO. We're getting enough people
+getting in. It's actually very
+competitive, we let it in about
+like 20% I think, maybe even a
+little less. And so we really
+have no shortage of like new and
+exciting and really great
+mentors coming in. There might
+be a situation here and there
+where actually, I'm just
+personally seeing someone, let's
+say on Twitter/x or maybe
+somewhere else. And I'm just
+saying, hey, you know, why don't
+you jump in. I think what you're
+doing is really cool. Or maybe
+they have, you know, shared that
+they want to get into mentoring
+or coaching. So it will be a
+nice fit. But yeah, we
+essentially get a lot of inbound
+interest nowadays, but that
+wasn't always the case. I think
+the first let's say 100 mentors
+have been really hard. And you
+know, that was just manual
+labor, cold DMing, cold emailing
+on mass. We never really found a
+channel where we can get people
+in at scale because you need to
+find like, really, really
+experienced people. They need to
+have like some kind of knack for
+mentoring as well. So maybe have
+done it in their day job before
+at least to kind of know what
+things are about. And then yeah,
+they also need to kind of have
+the quality and you know, the
+social proof and as you said
+before, the trust to essentially
+that we can throw them onto our
+marketplace and people will
+actually book them, which is
+another big topic. So
+fortunately, nowadays, the
+supply side is going really well
+for us. But yeah, in the
+beginning, it was manual
+outreach, just probably north of
+2000 messages to get the first
+100 people or so.
+Arvid Kahl: Yeah, crazy. And I
+think work for me. I think you
+got me on the platform like
+that.
+Dominic Monn: Might be, might
+be, yeah. You were probably one
+of the candidates where I was
+just like it would be so cool to
+have all Arvid on this
+marketplace. And then, you know,
+to my surprise that you said
+actually,yes, which was great.
+Arvid Kahl: Yeah, I felt like
+this is a wonderful project. And
+I already had kind of it was at
+a point in my journey where I
+had started just to write. I
+have my blog and I don't think I
+even had the podcast at this
+point. But it was just trying to
+teach so I thought hey, this
+might be a great opportunity to
+teach, not at scale as it is on
+the blog, but to teach like
+individually and be part of
+somebody else's journey. That's
+something I think in many ways
+you impacted pretty heavily my
+shift towards building in public
+with the platform, like
+something that is now a very,
+very potent thing in my life,
+right? I'm wearing the t shirt
+as we speak, like building in
+public is a theme that I've dug
+myself into even more writing a
+book about it and all that,
+mostly because of the couple of
+people. I think I mentored like
+five or six people around the
+time when I started and I saw
+those journeys. And one of my
+mentees on your platform, let me
+just tell you how amazing the
+platform is. Okay, let me just
+do this. Because the people I
+met there were so cool, like all
+of them very different. And it
+was really interesting to see
+just how diverse founders can be
+in their many ways. One of the
+people I met there was a French
+guy who shout out to the French
+founders, we had this this
+topic, in the lead up
+conversation to, to this chat,
+who was traveling the world in
+an RV pretty much like building
+a software business while on the
+road. It was really fun just to
+be part of that literally part
+of his journey, right? With the
+business that he was building
+and how he was touring through
+Europe, at that point. At some
+point, he even sent me some I
+think it was some marmalade from
+France like because like, you
+know, the kind of connection
+that you have built with people
+over long times. A Christmas
+present came out of that. It was
+really, really fun. Conrad was
+his name. That's the kind of
+connection that you have if you
+build a relationship with people
+on that platform and I'm really
+grateful that I had an
+opportunity back in the day. I
+should really get back to it.
+Let me just say this.
+Dominic Monn: Oh, I would love
+that.
+Arvid Kahl: That brings me to my
+next thing. It was interesting
+because you know, as a teacher
+on on Twitter, you pretty much
+giving stuff away for free. So
+it was a mindset shift for me to
+charge money for mentorship and
+you already kind of debunked the
+myth that paid mentorship
+doesn't work because it
+literally does. I've seen it and
+it works for both parties
+involved. How involved are you
+with setting prices? And like
+helping people figuring this
+out? Well, maybe over time, did
+that change that you start
+helping people? And now it's
+less or how does it work?
+Dominic Monn: Yeah, I think at
+the beginning, I was very hands
+on. I basically gave like
+certain limits. I think maybe at
+the beginning, we even had
+certain preset prices. And so
+yeah, at the beginning, very
+involved and also maybe because
+of that initial feedback that I
+got that paid mentorship
+wouldn't work out, I was really
+kind of micromanaging the side
+of that. So we actually had an
+aspect. We still have an aspect
+of free mentorship. Back then it
+was actually just free
+mentorship. You could you know,
+if someone wanted to mentor for
+free, they could come in and get
+a mentorship. Nowadays, we do it
+through charity, so you actually
+have to pay, I'm gonna say $20
+per month, but it goes to
+charity just as some sort of
+like quality filter. And then I
+think we had a plan that for
+some reason that I really can't
+explain nowadays was weekly
+billing for like one call. I'm
+gonna say for $50 or something,
+and I just said this is the
+price that we have, this is the
+thing that we do. And then over
+time, you know, I have people
+join in that were maybe even
+like coaching and mentoring for
+a lot of years. And they were
+basically saying, hey, this does
+work for me. I actually charge
+$500 for my calls because I
+really think with like 20, 25
+years of experience, this is the
+value that I can bring. And this
+is something that like blew my
+mind, right. And then I think at
+some point, probably not too far
+away from when you joined, we
+actually switched to well, for
+one monthly billing, which I
+think makes a lot more sense.
+And then you were able to set up
+these like packages. So it was
+just a call for $50. That was
+packages that you were able to
+put together. And I think we
+just gave like a pricing range,
+which probably was quite low at
+that time. I'm going to say put
+it somewhere between zero and
+two or $300. And this is kind of
+what you can do. And so
+nowadays, we're a lot more
+relaxed with it. We still have
+certain guidelines also because
+there's a certain risk factors
+for us in there. You know, if
+someone comes in and they charge
+$10,000 for one call and then we
+get a charge back. And it might
+be like messy with marketplace
+and so on and money needs to go
+different places and so on, we
+might end up with like a pretty
+big bill ourselves. But I think
+people can come in. They have a
+certain limit, let's say you
+know, $300 per month. For some
+people, it's enough to do like a
+weekly call for that price. For
+other people that have a lot
+more experience and a higher
+hourly rate, it's maybe just one
+call. And then it can basically
+scale up from there. And you
+know, nowadays we see
+mentorships that go up all the
+way to like $1,500 per month for
+let's say maybe two weekly calls
+or maybe even just one weekly
+call with just someone where you
+are 100% sure that they're able
+to propel your career or
+business forward.
+Arvid Kahl: That's quite the
+range. I think I remember there
+being a ceiling of like, 200ish,
+250 or something at that time
+too. And it was like wow, I
+could never charge this much
+today and now it's like, it's
+probably what I would charge per
+hour, at least at this point as
+well. Because for my own
+consulting experience.
+Dominic Monn: Yeah, that's the
+progression.
+Arvid Kahl: So it's nice to see
+that you've grown and that you
+both and you had to be exposed
+to the people that brought this
+value to be able to offer to the
+platform, right?
+Dominic Monn: I mean, I was the
+same way as you, right? Because
+I was thinking about mentorship
+that I was kind of know that I
+Arvid Kahl: Interesting. Is that
+on the demand side now? Is that
+knew from, let's say, coding
+boot camps where people were
+almost like, volunteers, I'm
+gonna say maybe like paid
+volunteers. But they didn't make
+a ton of money from this kind of
+stuff. And so yeah, MentorCruise
+was almost pro bono. You
+wouldn't spend a ton of money on
+MentorCruise. You also wouldn't
+make a lot of money. And then
+just having these people come in
+that say, you know, I've been a
+UX designer for every large
+company on this world for last
+25 years. I'm not going to
+charge less than $500 for a call
+with me. Yeah, it was wide
+opening, eye opening. And, yeah,
+just I guess had to happen over
+time to be exposed to these new
+things. And also, as a
+marketplace, I guess, you're
+almost always in the crossfire
+of two different sites, where
+obviously, then the mentees come
+in. And you know, the mentees at
+the time were still mostly like
+students and that kind of stuff.
+And then they were saying, why
+is this guy charging $500 per
+month that I would never be able
+to afford that? But then over
+time, that side matured as well.
+And now we have, you know, let's
+say, a VP of engineering of a
+public company getting
+mentorship from a CTO of a
+public company. And obviously,
+the prices are much, much higher.
+something that you actively put
+like money into in terms of like
+Dominic Monn: I think it
+happened over time, as we also
+advertising or marketing? Or how
+do you source now those higher
+quality mentees at this point?
+raised our prices. I think it
+just changes the perception of
+MentorCruise as well. Now, it's
+not like a little hacker site
+where you can, you know, get a
+coding mentor for 40-50 bucks.
+Now, it's like one of the
+largest open coaching
+marketplaces where there's
+something for everyone like, you
+might be able to get like a
+coding tutor. And maybe they're
+only charging like $100. But we
+actually have like, people that
+are pretty high up at Google
+that are overseeing stuff like
+Gmail as a whole, you know,
+available on MentorCruise to get
+booked. And obviously, they're
+going to charge higher prices,
+but they're also going to
+attract basically, like higher
+up people or more experienced
+people with the budget to
+basically get that kind of
+coaching as well.
+Arvid Kahl: Is that something
+that you help them with? Like
+you said any tooling that you
+provide for people to like, make
+themselves louder and make
+themselves be heard more by the
+people that they want to
+attract?
+Dominic Monn: Not so much. I
+mean, a lot of the people that
+are coming in, they already have
+a vast network, you know, kind
+of the same. I'm gonna say the
+same audience that maybe you
+were in because you're maybe
+wanted to try something new and
+maybe want to get into teaching.
+But you're actually a very
+accomplished professional,
+yourself. And so you have to
+network to basically get a
+couple of people in already. And
+then as far as the marketplace
+goes itself, you know, we
+attract people through various
+sources and marketing channels.
+Paid is a pretty new one,
+actually, for the last four
+years. We've done organic
+marketing, almost 100%. And then
+it's just basically our job to
+place them in the right places
+and get them exposure that's
+relevant. You know, if someone's
+looking for like beginner UX
+help, it's really not in our
+interest to show them the UX
+lead at Google that's charging
+$500 per call. But if you're
+coming in, then you're already a
+UX design leadership person, for
+example, that might be more
+relevant. So it's more about
+yeah, attracting a vast variety
+of people actually, but showing
+them the right people that are a
+match for them.
+Arvid Kahl: In the marketplace
+like this, what kind of metrics
+do you track? Like we were
+initially talking about, like
+churn and retention. And the
+words in German that we both
+don't really know. You know,
+because we're exposed to English
+all the time. What kind of
+metrics do you track like in a
+people based business?
+Dominic Monn: Yeah, I mean,
+there's a ton. And there's a
+large overlap with SaaS as well.
+So just like a SaaS, for
+example, we also track churn and
+retention, especially as we are
+a subscription based or a lot of
+our prices are subscription
+based. That's very relevant for
+us as well, would also be
+relevant. You know, there's a
+really interesting case study
+about Airbnb, where they also
+track retention and churn even
+though there's no subscription
+because they estimate that
+people book one vacation per
+year with Airbnb and so their
+retention is basically one
+booking per year. And so we have
+that aspect as well for the non
+subscription businesses, but
+then we have a lot of metrics
+that wouldn't make any sense in
+SaaS. One that I really like is
+time to first sale, which is
+basically how long does it take
+for a mentor that joins
+MentorCruise to get their first
+mentee. And that's like a really
+crucial metric because it
+basically means like, how
+balanced is our marketplace? If
+you come in, you have no, I'm
+gonna say social proof on the
+marketplace, you have no reviews
+and so on. You don't have any
+history. Maybe you're not
+charging the big bucks yet. You
+don't have your profile
+optimized. How long does it
+really take you to get that
+first mentee to basically get
+started on the platform? And
+yeah, I mean, there's a very
+large variety of other metrics,
+instead of just MRR revenue, you
+then track GMV basically how
+much money is going through the
+whole marketplace? Not only the
+cut that you're taking, but kind
+of what's happening elsewhere.
+You have liquidity. So how much
+of or how many of our mentors
+currently work with a mentee?
+How much of our supply is
+actually on use right now? You
+have the demand to supply ratio,
+which basically means like, are
+we scaling both sides at the
+same time? Or is maybe the
+amount of mentors outgrowing the
+amount of mentees that we can
+get in? And if that so should we
+like increase our marketing for
+the mentee side to basically
+balanced all of that altogether?
+So yeah, it's definitely a bit
+of a science as well. And what I
+would say is a bit different
+from SaaS as well as that
+there's just way, way, way less
+resources about it, which makes
+sense. I think, you know, SaaS
+is really like booming right
+now. But when you compare it
+with marketplaces, you really
+need to kind of search for that
+kind of stuff. And the tooling
+is much less mature than in the
+SaaS world.
+Arvid Kahl: Interesting. Were
+you ever tempted to, you know,
+build a business around that or
+even just write a book about
+this topic?
+Dominic Monn: You know, we have
+like an internal analytics board
+that I would love to maybe make
+available at one point, but then
+we come back to the, you know,
+should you have side projects
+next to your job. And I was
+already telling you that this
+thing is more than a nine to
+five. So it's probably not going
+to happen in the near future.
+But definitely, I think it's a
+market gap. And, you know, maybe
+if whatever happens and I don't
+need to spend as much time
+anymore, I would maybe also be
+inclined to kind of help
+marketplaces as a business
+model. Yeah, grow to the level
+or close to the level that SaaS
+is right now.
+Arvid Kahl: Yeah, you could be a
+mentor around this topic.
+Dominic Monn: Right. I think
+it's my number one or number two
+tag on MentorCruise, actually.
+Arvid Kahl: That's cool. That's
+interesting to know. I think I'm
+with you. I think market place
+tooling as we tried to build it
+back in 2015, was non existent.
+We had to build the whole thing
+ourselves. I think even back
+then stripe marketplace, like
+their internal, you know, like,
+connect your account to Stripe
+and charge through and get like
+this past through kind of
+compensation going was in its
+infancy. And I think it's more
+mature now. I'm still wondering,
+is it complicated to integrate
+this? I'm asking this both like
+as a business operator and a
+technical founder at this point,
+like how is dealing with that
+particular platform? And have
+you ever like found another
+platform that could even rival
+this because I'm always looking
+at alternatives, right? You want
+to minimize platform risk with
+this kind of stuff. Like how is
+the Stripe marketplace happening
+Dominic Monn: I mean, just
+stripe marketplace is amazing.
+for you?
+And I know that in SaaS, maybe
+Stripe isn't the kind of number
+one king or queen anymore. But I
+think a marketplace is
+definitely. There's like nothing
+that gets close to it. Mostly,
+because with Stripe, you get the
+end to end experience, right?
+Like you get the checkout where
+you add your credit card and
+whatever. And then you can
+basically just write, I mean,
+really, it's like five lines of
+code to say, hey, I want to get
+20% of that. And 80% of that go
+to the mentor or the supplier.
+So that's pretty great. All the
+other tools in the market, what
+they're basically doing is send
+us a bunch of money and we'll do
+the job of like distributing it.
+But that still involves you like
+collecting the money usually
+through Stripe again. Or maybe
+then you can go with like an MOR
+or whatever and then pay it out.
+And what's quite interesting is
+that legally speaking and in
+terms of like bookkeeping and
+accountants, it becomes 1000
+times more complex as soon as
+you touch that money because
+then you're the merchant of
+record right? Then you're liable
+for that money coming in. With
+Stripe, that's not the case
+because I never see that money.
+I just get a basically a fee.
+Just like Stripe gets there like
+3-4% fee, I get my 10, 15, 20%
+fee. And I, you know, just see
+that part of the money and it
+just makes it much, much easier,
+cheaper, and less stressful to
+build a marketplace business.
+Arvid Kahl: That is good to know
+because I was wondering how
+complicated this is. And it
+sounds like you found your
+stride. You found a way to, you
+know, automate all these things
+using a platform that has just
+as one cohesive process. As you
+are in the middle of Europe,
+probably slap dab in the middle
+of that content and you probably
+surrounded by a lot of people
+who have to deal with a lot of
+taxes and a lot of those kind of
+things, right?
+Dominic Monn: Definitely.
+Arvid Kahl: How is that with
+that platform? Stripe has kind
+of been notorious about making
+taxes an afterthought in the
+past. Is that something that
+even touches you or is that for
+every mentor to figure out for
+themselves?
+Dominic Monn: So fun story
+actually, in Switzerland, the
+good thing is, you can do a
+business quite easily. At least
+when you're like a sole
+proprietor, you don't have an
+LLC or something. It's very easy
+to start a business. And then
+the limits to actually become a
+real business are quite high
+100k per year. By that time, you
+know, you have a bit of funds a
+bit of leverage to hire people
+to do this for you. But the
+thing with Europe is that I
+think we don't have as much
+exposure to these new kinds of
+businesses. And so when I hit
+those 100k per year with
+MentorCruise initially, I
+started going to bookkeepers and
+accountants basically asking
+them, hey, what do I need to do
+here? And I think I ended up
+taking four consultant or like
+intro calls and I got four
+different answers. Especially
+around like the marketplace
+thing, right? Like, what do I
+need to pay VAT on? What are the
+taxes on this stuff? And nobody
+was able to give me an answer. I
+got anything from, you don't
+need to pay any VAT because, you
+know, it's just like fees that
+you're collecting up to you
+actually need to pay VAT on the
+whole transaction, not just like
+your little cup that you're
+getting, which would have like,
+turned our profits to zero,
+right? And so one thing that
+I've done, which I'm actually
+ending up talking on every
+podcast with a German for some
+reason is I moved the business
+to the US. So MentorCruise is
+MentorCruise Inc. Right now,
+it's in Wyoming. I used to
+service like a lot of the other
+services. And very quickly, we
+went from I need to go to 10
+accountants and pay quite a bit
+of money to basically get no
+answer to a new bookkeeper that
+is able to tell me yeah, just
+sent me your Stripe report,
+super easy. Just send me like
+this PDF from your Stripe and
+I'm gonna do everything for you.
+So I think that was a good step.
+So II wouldn't be able to tell
+you much about how it is right
+now to like run the business in
+Switzerland because legally, I'm
+just an employee that happens to
+be employed at a US company. I
+don't do any more with
+Switzerland actually.
+Arvid Kahl: That's a great
+answer. That's also something I
+did for Permanent Link, my
+little SaaS business that I run,
+which is also in Wyoming in
+Sheridan, Wyoming.
+Dominic Monn: Yeah, Sheridan,
+Wyoming. I know that the zip
+Arvid Kahl: I think we might
+have the same post box like the
+code and everything.
+most, I think I actually use the
+same platform for this, which is
+cool, right? How easy that is,
+how cheap it was, and how
+quickly it went. And I have the
+same experience with my
+bookkeeper there is like, yeah,
+send me whatever and you just
+sent them like random emails and
+documents that go sure, here's
+your final thing. We're gonna
+send it in for you, just pay us
+a couple 100 bucks, same
+experience. And same other
+experience in Germany here when
+we had Feedback Panda and we
+were getting into the, you know,
+like 30-40k monthly recurring
+revenue in US dollars. We went
+to a tax advisors trying to
+figure out how we're going to do
+this. And the first guy we met
+was like, well, yeah, you print
+out all the invoices, which at
+this point, we had like 2000
+customers monthly, so we would
+have had to print like a stack
+of paper, at least this high.
+And then we're going to deal
+with that, which was not now
+we're going to find somebody
+else. And we eventually found
+somebody who would take an email
+with an Excel sheet with all the
+invoices that I had to build a
+feature in the platform for that
+would give them the Excel sheet
+in the exact right way because
+they couldn't do it. Otherwise,
+it was horrible. Like, had I
+known it back then I probably
+would have started a Wyoming or
+Delaware company as well.
+Dominic Monn: Yeah. I mean, we
+now get into this issue where we
+work with a lot of mentors and a
+lot of them, you know, they
+don't do anything like
+freelancing, they don't run a
+company. And so in order to
+start mentoring, essentially,
+they need to have at least like
+some minimal setup to get a
+Stripe account, right. And
+that's no issue at all. Like you
+can put a sole proprietorship.
+You can make however much money
+without any issues, except for
+in Germany. And we actually have
+a little self help group in our
+Slack channel just for mentors
+in Germany. Because generally,
+they can come on to platform and
+earn $100 per month without
+getting into a whole lot of
+trouble with papers and
+whatever. So yeah, it's a huge
+issue. I would love that if it
+was a bit easier. I think you
+know, some of the other European
+countries are making strides
+with that where you can just
+come in put in your like social
+security number essentially and
+think at taxes freelancer on
+this kind of metric stuff. And
+then as you mentioned Stripe
+also has a Stripe tax
+integration also, you know, that
+gets a little bit easier for
+kind of them as a freelancer as
+well. But Germany remains like
+one of the really difficult
+places to even earn 1k per year
+with mentoring definitely.
+Arvid Kahl: It's a bizarre place
+like it has such convoluted tax
+law and the system that exists
+isn't just a law. It's also like
+this layer of people dealing
+with the law and tax advisers,
+bookkeepers and all that that
+make it equally complicated
+because they are involved in
+everything. notaries, right? If
+you want to start a company in
+Germany and I don't want to turn
+this into like a diss of the
+German business system, but I've
+went through it as well, like
+even if you want to start one of
+these kind of small, limited
+companies, the one euro company
+there, right? You still have to
+notarize it and you still have
+to go into a place where
+somebody is sitting in an office
+reading your document and you
+have to give them money for
+those 40 minutes that they
+literally just read the thing
+you could have read into. It's
+really, really horrible. And in
+many ways, keeping people from
+doing this. Is Switzerland much
+better? How many indie founders
+do you know in Switzerland that
+enjoy working there with a Swiss
+company?
+Dominic Monn: Yeah, I mean, I
+would say it might be a little
+better than Germany, but it's
+not great. And, you know, indie
+founders that I've met IRL, you
+know, because it's a small
+country, I should really be able
+to meet everyone. IRL is less
+than my 10 fingers. Right? So I
+met a couple of lovely people
+here that you know, run their
+own indie business and so on.
+But it's not a lot. There's
+definitely not like a thriving
+community around indie
+businesses here. And I think it
+ends up being like a couple of
+different things in Switzerland
+that come at play. One is, it's
+an extremely, extremely
+expensive place, right? You need
+to if you wanted to do this
+thing, you need to be able to
+get to a revenue of, I'm gonna
+say, if you live in Zurich, you
+probably need a revenue of like,
+8k MRR to after costs and taxes
+and whatever, just survive out
+here. Maybe you can, like, go
+super ramen profitable and just
+like in a small room and just
+eat ramen, then you might go
+down to like, 5k. MRR, you know.
+Arvid Kahl: Crazy! In some
+countries, that would be $500
+not even yet, right? It's
+bizarre.
+Dominic Monn: No. So you know,
+you need to pay for a bunch of
+stuff, the rents are high,
+health insurance, you actually
+need to pay yourself over a
+year. And then I think the other
+thing is, then the counterpart
+of that is obviously the
+salaries are super high, right?
+Like, as a software engineer, I
+was able to get out of school.
+Granted, I took some like weird
+jobs and you know, remote Jobs
+and so on. But I basically came
+out of school making 100k per
+year, right? And that's like US
+level of salaries. And so if you
+have a really easy path, I'm
+gonna say, especially as a
+software engineer to make
+150-200k per year, you really
+need to have a lot of conviction
+to say, hey, I'm gonna quit all
+of this for my like struggling
+business that's not even ramen
+profitable at 5k MRR for some
+reason, right? So I think it's
+just another really attractive
+thing to do. And then, you know,
+culturally, I think it's like
+the rest of Europe, where we
+probably value security and
+stability and so on a little bit
+more over to like thrill and
+freedom or whatever, of running
+a business.
+Arvid Kahl: That's funny. How is
+MentorCruise doing financially?
+Dominic Monn: Yeah, I share, you
+know, certain milestone numbers
+Like, how much do you share
+about this? And how is it doing?
+here and there. I stopped
+sharing like actual revenues or
+like the open pages that I saw
+loft as I started my journey. I
+don't really do any more. What I
+can say is we're somewhere
+around like 40k MRR, which I
+really like to be in. I think
+we're growing every month, which
+I also really like. And then,
+you know, probably the best part
+of this is I grew actually very
+profitable to the point where we
+can put a lot of the money that
+we don't spend on people and
+operation costs and so on into
+marketing, paid marketing, but
+as well as marketing
+freelancers, getting in a couple
+of experts to help out. I think
+this is a really kind of joyful
+part or a joyful time to be
+building this because yeah,
+there's just a bit of like money
+and leverage around where I can
+hire like really experts, not
+only to like, fix the business
+and maybe like getting to the
+next step, but also to learn a
+lot just like getting experts in
+and them showing me what I can
+do, showing what other things we
+can do for the business
+brainstorming. And yeah, growing
+the business more and more.
+Arvid Kahl: That sounds really
+cool. That is a wonderful
+journey to be on and 40k ish and
+growing. That's solid. That's
+awesome for a team of five and
+somebody who eats very expensive
+ramen, that's a pretty, pretty
+solid. I love it. I'd love to
+see it. I'm always super happy
+to see what you share about this
+business. Because like I said in
+the beginning, it's not just
+that it's a cool software
+business that you're building.
+It's also like a vehicle for
+learning and it's a vehicle for
+people to make money for people
+to learn how to make money. It's
+like the mix of all the things
+that I love. So I'm really
+really glad that you're sharing
+so much about it. Thank you so
+much for sharing all these
+insights. If people want to
+follow you and want to see you
+building this amazing platform
+in the future, where should they
+go?
+Dominic Monn: So best place to
+follow my journey is Twitter/X.
+It's @dqmonn. You can, you know,
+you can tell me and DM me what
+you think the Q stands for. Then
+I'm also on MentorCruise. If you
+actually want to book me for a
+call, my short link is
+mentors.to/dom if you want to go
+to my profile directly and then
+I'm hearing they're on LinkedIn
+a little bit as well just kind
+of under my name, but really the
+best place to go is Twitter/X.
+Arvid Kahl: Yeah, who knows what
+it's called? Really, I don't
+know. Like to me, it's always
+going to be Twitter. I think I'm
+growing old.
+Dominic Monn: I think I'm gonna
+stick with Twitter or Twitter
+slash x is kind of funny to say
+as well. Yeah
+Arvid Kahl: It's worse than X.
+But it's not better than
+Twitter. Right? So you know,
+it's a very easy choice. Hey,
+thanks, Dom, so much for all of
+these things that you shared
+about your platform. I think
+Dominic Monn: Hey, thanks for
+having me.
+Arvid Kahl: Yeah, man.
+Obviously, it's taken a couple
+of years to get to this. But
+it's such a pleasure to talk to
+you. I think you will have
+inspired several people to
+become mentors today. You
+probably also have inspired many
+people to try and build a
+marketplace in their field
+because
+Dominic Monn: That's amazing.
+Arvid Kahl: The way you shared
+it sounds like it's a pretty
+feasible thing. So thank you so
+much. And that was really,
+really nice.
+Dominic Monn: Thank you so much
+for having me.
+Arvid Kahl: And that's it for
+today. I will now briefly thank
+my sponsor acquire.com. Imagine
+this, you're a founder who's
+built a really solid SaaS
+product, you acquired all those
+customers, and everything is
+generating really consistent
+monthly recurring revenue.
+That's the dream of every SaaS
+founder, right? Problem is
+you're not growing for whatever
+reason, maybe it's lack of skill
+or lack of focus or play in lack
+of interest. You don't know, you
+just feel stuck in your business
+with your business. What should
+you do? Well, the story that I
+would like to hear is that you
+buckled down, you reignited the
+fire, and you started working on
+the business, not just in the
+business and all those things
+you did, like audience building
+and marketing and sales and
+outreach, they really helped you
+to go down this road, six months
+down the road, making all that
+money. You tripled your revenue
+and you have this hyper
+successful business. That is the
+dream. The reality,
+unfortunately, is not as simple
+as this. And the situation that
+you might find yourself in is
+looking different for every
+single founder who's facing this
+crossroad. This problem is
+common, but it looks different
+every time. But what doesn't
+look different every time it's
+the story that here just ends up
+being one of inaction and
+stagnation. Because the business
+becomes less and less valuable
+over time and then eventually
+completely worthless if you
+don't do anything. So if you
+find yourself here, already at
+this point or you think your
+story is likely headed down a
+similar road, I would consider a
+third option and that is selling
+your business on acquire.com.
+Because you capitalizing on the
+value of your time today is a
+pretty smart move. It's
+certainly better than not doing
+anything. And acquire.com is
+free to list. They've helped
+hundreds of founders already,
+just go check it out at
+try.acquire.com/arvid, me and
+see for yourself, if this is the
+right option for you, your
+business at this time. You might
+just want to wait a bit and see
+if it works out half a year from
+now or a year from now. Just
+check it out. It's always good
+to be in the know.
+Thank you for listening to The
+Bootstrapped Founder today. I
+really appreciate that. You can
+find me on Twitter @arvidkahl.
+And you'll find my books and my
+Twitter course there too. If you
+want to support me and the show,
+please subscribe to my YouTube
+channel, get the podcast in your
+podcast player of choice,
+whatever that might be. Do let
+me know, it'd be interesting to
+see and leave a rating and a
+review by going to
+(http://ratethispodcast.com/founder).
+It really makes a big difference
+if you show up there because
+then this podcast shows up in
+other people's feeds. And
+that's, I think where we all
+would like it to be just helping
+other people learn and see and
+understand new things. Any of
+this will help the show. I
+really appreciate it. Thank you
+so much for listening. Have a
+wonderful day and bye bye.

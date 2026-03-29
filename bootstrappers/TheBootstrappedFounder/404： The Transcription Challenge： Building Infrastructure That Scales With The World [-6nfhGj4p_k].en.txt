@@ -1,0 +1,733 @@
+﻿Hey, it's Arvid and this is the
+bootstrap founder.
+[Music]
+Today we'll talk about keeping up with
+an avalanche of audio data and how I
+built Podscan's transcription
+infrastructure.
+This episode is sponsored by paddle.com,
+my merchantof record payment provider of
+choice who's been helping me focus on
+Podscan from day one. They're taking
+care of all the little things related to
+money so that founders like you and me
+can focus on building the things that
+only we can build like a massive podcast
+transcription infrastructure. Paddle
+handles all the rest. Sales tax, credit
+cards, those kind of things. Don't need
+to do with it because they do. I highly
+recommend checking it out. So, please go
+to paddle.com and take a look.
+Now, when I started building the first
+prototype of Potscan, I very quickly
+realized that this was going to be a
+different business than any that I've
+built before. The difference had
+everything to do with one fundamental
+challenge in this field. Unlike most
+software service businesses, the
+resources that I would need from the
+start wouldn't scale with the number of
+customers I had, but would scale with
+something completely out of my control.
+the number of new podcast episodes being
+released worldwide every single day. So
+no matter if I had one customer or a
+hundred, if they wanted to track every
+podcast out there for a keyword, I
+needed to deal with this from day one.
+And that's hard because if you ever
+investigated the idea of stoicism, you
+will know that there are certain things
+you can control that you should care
+about and certain things that you cannot
+control that you shouldn't fret about at
+all. That's kind of the idea. Like a
+very rough description of stoicism here,
+but you know, like it's deal with the
+things you could deal with and don't
+whine about the others. So that's
+exactly what I did. I focused on what I
+could do to make transcribing every
+single podcast out there a reality. And
+I didn't complain about the fact that
+there are tens of thousands, millions of
+shows being released all the time with
+tens of thousands of shows being
+released every day. That's kind of the
+framework here. I had to deal with it. I
+think I'm currently tracking 3.8 million
+shows and roughly every day there's
+somewhere between 30 to 70,000 being
+released. Depends on the day of the
+week. And I want to talk about this
+herculean effort of building
+transcription infrastructure, how I got
+it from being extremely expensive to
+manageably cheap comparatively, what the
+trade-offs were along the way, and how
+much of the development of new
+technologies has impacted the
+feasibility of this entire project for
+me. Now, for my first prototype, I
+obviously didn't try to transcribe
+everything at once. Like, I knew that
+that didn't make sense to try it all,
+but I had found my source of podcast
+feed data, just a couple of good podcast
+feeds to try it out with through the
+podcast index project. It's very
+interesting. If you're into podcasting,
+check it out. It's an open- source
+approach to listing all the podcasts
+everywhere. It's free and it's openly
+available as an API and a database of
+podcasts that provides where they're
+hosted, the names, descriptions, and
+links to episodes as well. I think maybe
+not necessarily all of them, but some.
+And they even have a full SQLite export
+like 4 GB of just one big file with all
+this data makes it very easy to jump
+start any system. But they even have a
+great API and the podcast index API has
+a very beneficial endpoint for trending
+shows and newly released episodes. So my
+first prototype used that API and just
+grabbed the most recently or most
+popular released episodes and transcribe
+those with the existing resources that I
+had. And when it comes to the tech, I'm
+just going to share everything here
+because why not? I already had been
+experimenting with an open source
+library called Whisper for a previous
+project called Podline, a voice
+messaging tool for podcast. That was the
+idea. I was going to take in voice
+messages through the browser, transcribe
+them on the back end, and then send a
+notification to my customers. And I had
+found that Whisper, which is supposed to
+be run on GPUs, could also be run on a
+CPU, so without a graphics card at all,
+through a project called Whisper.cpp,
+albeit quite slowly. But for Potline,
+where I needed to occasionally
+transcribe a short one minute clip, this
+worked perfectly. It may have taken 5
+minutes to transcribe it on one CPU
+core, but that's okay. There's many
+cores in modern CPUs. And if I have 5
+minutes, sure that people will take the
+notification a bit after. That's all
+right. And since Pot Scan, my current
+business, was initially a marketing
+effort for Potline because I wanted to
+know where people already talk about
+having voicemail. So, I built a tool
+that would figure out where people
+talked about it. I had all the tech
+laying around, but obviously there's a
+stark difference in transcription scale
+here, right? Potline needed to handle
+occasional short clips, but Potscan
+needed to reliably transcribe 50,000
+shows per day. And those are often shows
+that go for 40 to 80 minutes, right?
+That's not just 30 seconds. That is
+hours of material. And if you look at
+Joe Rogan who reliably puts out four
+plus hour shows, that system needed to
+be fast and good enough to get the whole
+conversation and transcribe it. So the
+first smart choice that I needed to make
+was treating this as a queueing system,
+not as something that would happen
+synchronously to when stuff was
+released. I needed a queue of podcast
+episodes that would just wait to be
+transcribed and whenever I had time and
+resources, I would transcribe the next
+one in descending priority. And this
+required a priority system to determine
+which episodes should be handled first.
+That is a whole thing that I could
+probably do a full episode on. I've come
+to a system where I have three cues
+right now that are high priority, middle
+priority, and low priority. And the high
+priority shows would be the Joe Rogan's
+of this world that would get like a
+preferential treatment because I know
+that anything set on this show, if it
+triggers an alert, then that would have
+the biggest impact on whatever my
+customers might need to do with it. So,
+I need these episodes to be transcribed
+early. But then there are maybe mid-tier
+podcasts that can wait a half an hour or
+so before they get transcribed or that
+could even wait a couple days because
+they're just not that important. and
+that descends them in priority. There's
+also an immediate priority queue which
+skips all the other cues for like custom
+retranscriptions. If I ever have an
+episode that needs to be retranscribed
+or somebody really needs this episode
+right now, there's a bypass version, but
+effectively that's the priority system
+that I have. And for that queue, my
+initial setup was really just one
+consumer and that was the Mac Studio
+that I was developing the software on.
+and that has right now a microphone that
+I'm speaking into where I'm recording
+this podcast. Like I was running my full
+queue for my production system on a
+local computer. So running whisper.cpp
+locally on a Mac. That's really cool
+because it will use the GPU if I can
+connect to it. And the MacBook's unified
+memory system like the MPS system is
+capable of running these models really
+really quickly. and I was getting about
+200 words per second, which is really
+something. And this meant I could fetch
+a couple hundred episodes per hour with
+some parallel processing on my local
+system. So then I realized that to
+deploy this as a business properly, I
+needed a transcription server running on
+a different cloud system very likely
+because I couldn't just keep it running
+locally at home. If my internet ever
+goes out, my company wouldn't work,
+right? So I started exploring companies
+that would offer access to computers
+with graphics cards where I could
+install whatever stack I had locally and
+keep it running there 24/7. So the first
+thing I tried was AWS with their Gtype
+instances. The G I guess stands for
+graphics cards I presume. I don't know.
+But these were quite expensive instances
+that didn't really have much power for
+the work that I was doing. The ones I
+could afford, I think it was around $400
+a month, just weren't powerful enough,
+particularly compared to my local server
+here. I would have preferred them to be
+either cheaper or better. So, I quickly
+stepped away from AWS. And even to get
+them, you have to apply for quota there
+and they have to verify it. It's quite
+hard to get there. So, I looked for
+alternative, easier solutions. So, I
+looked into Lambda Labs, which was one
+of the first reliable options for GPU
+systems that I found and I used them for
+quite a while. Lambda was helpful
+because they offered different servers
+with different GPUs attached. So, you
+could rent an H100, like one of the most
+powerful Nvidia GPUs at the time, for
+about a,000 bucks a month or a bit more,
+which was quite expensive obviously to
+rent a GPU. Or you could have an A100 or
+an A10, which were much cheaper and
+actually perfect for transcription
+purposes. So, I spent a couple months
+experimenting with my own personal
+money, testing whether an A10 would
+outperform an A100 or an H100, not in
+terms of raw throughput, but in terms of
+words per dollar. That's kind of the
+unit that I had. And I think I shared
+this on Twitter where I did some math
+there. I deployed my transcription
+systems to different hosts with
+different graphics cards and I ran
+experiments with a very number of
+parallel transcriptions just to see how
+it worked. And I found a working
+solution eventually. I think I settled
+on 12 to 16ish servers with A10 graphics
+cards. That was just uh the best. These
+became my transcription fleet for a
+while, but even then got quite
+expensive, which made me realize that I
+needed to do something about this price
+cuz that was also pre funding for me. I
+didn't have any funding at that point
+just yet, but I was paying thousands of
+dollars a month personally for my
+personal money. So, I needed to figure
+something out. And the most effective
+thing that I did was to look for hosted
+servers outside of services that are
+focused on renting AI. That I just
+needed to look for other people that had
+GPU based servers that were not yet in
+the AI hype space. And those services
+tended to offer sizable graphics cards
+like that. The ones that do AI for
+inference, which is great if you need
+impressive GPU power, but in most cases
+for transcription, that's actually not
+what you need. You need some graphics
+card that can do some transcription and
+the cheaper the better because
+transcription doesn't require a lot of
+VRAM. It just requires some time on a
+GPU. And I found this solution in Hznut,
+the German company well known for being
+an affordable hosting company. They had
+just started offering GPU servers and
+they also have auction systems where you
+can get really great hardware quite
+cheaply. But they offer servers I think
+what is it called? GEX-44.
+That's the one that I use. They have an
+RTX 4000 SFFF ADA generation GPU and I
+think they cost â‚¬200 a month just to
+rent. And these servers are spectacular.
+They have 64 GB of DDR4 RAM, 4 TB of
+disk space, like for $200ish dollars a
+month to rent this. That's really cool.
+Like you can rent, how much do I have
+right now? like 10ish of them and have a
+significant GPU based workload running
+24/7 on many different servers for
+$2,000 or less. The key insight from all
+these experiments was that transcription
+has very different requirements from
+other AI tasks like inference. You can
+run transcription quite reliably by
+using somewhere between 4 and 20 GB of
+RAM. Depends on the model that you use,
+which is something that if you use
+Whisper, you can choose different
+models, right? There's a tiny, a small,
+a medium, a large model, and they all
+use different size of gigabytes of this
+RAM that these GPUs use. And the smaller
+ones obviously are faster and use less
+of that RAM. So, you can run a couple in
+parallel. And it really doesn't mean
+that much if it's just a couple of
+gigabytes, but it's definitely enough to
+get the highest quality transcription
+data, particularly if you use a model
+called Whisper V3 large Turbo. That's
+the one I currently use. fastest and
+best quality. And when I switched all my
+transcription servers from these A10s at
+London Labs to the Hetsner systems, I
+picked up steam dramatically with these.
+It was so much more effective. So I
+could get by with half the number of
+servers and still have a higher
+throughput than before. So that's where
+I'm now. Self-maintained servers running
+transcription scripts 24/7 on the
+headtop platform being highly efficient
+over time. And the solution that I had
+with Whisper CPP, that was great in the
+beginning, but as Potscan started
+gaining customers, they had more
+requirements than just default
+transcription. So I needed diorization,
+which is a fancy term for determining
+different speakers in an audio file and
+word level timestamps for precise
+interactivity. People wanted to be able
+to have like exact cuts in videos or in
+audio, I guess, so they can extract
+stuff. So they needed to know exactly
+where the sentence starts and where it
+ends. So for that and knowing who's
+speaking, I needed something bigger. So
+I switched from whisper CPP to another
+implementation running on top of faster
+whisper which is a a library that uses
+these models more efficiently that
+includes both diorization capabilities
+and granular timing data. But this
+revealed a couple of surprising
+technical challenges. So if you're into
+transcription, this is going to be very
+very useful so you don't have to fall
+into the traps yourself. Diorization is
+more resource intensive than
+transcription. Detecting speakers takes
+much longer than actually transcribing
+what they're saying. You would think it
+would be easier to determine somebody's
+speaking here, then somebody else is
+speaking there. But it's actually harder
+to figure out if it's person one, two,
+or three than it is to determine the
+actual words that this person is
+speaking. And from the start, I needed a
+careful prioritization system here
+because I only could diorize what I
+really needed. If I know that a podcast
+has only one speaker and has had for the
+last 200 episodes, well, I don't need to
+diorize it and I can save over 50% of
+the time. But if it's a popular show
+with different guests all the time, then
+I guess I need to prioritize it and it's
+going to take double the time. at scale.
+Turning off dorization for some shows
+where it doesn't matter or has not yet
+proven to matter means that I can
+transcribe twice as many podcasts in any
+given day. And that's massive. If that
+means that I can do all the shows in a
+day and still have resources left, then
+I can step back in time and get some of
+the older episodes that might be still
+very interesting for search purposes.
+So, that's the trade-off that I'm
+dealing with here. Finally, there's
+something that I learned after a couple
+of weeks of experimenting with this. GPU
+memory limits affect the quality of the
+transcription. If you do a lot of
+parallelized transcription, the GPU
+reaching its memory limit where you it
+gets full, that can cause transcription
+quality to decline. I initially had a
+thought like this graphics cards has 20
+GB of RAM. Each transcription process
+uses at most 4 gigabytes, so it can run
+five at a time, fill up the whole
+graphics card, right? The whole RAM.
+That tends to be true most of the time
+that it works. But if one process runs a
+little bit longer, maybe it's a
+three-hour Joe Rogan podcast yet again,
+and then another process spawns and five
+or six processes are fighting for
+memory, or even just the five on there
+that should have four, one of them is
+like 4.2, right? quality quickly
+degrades on all of them simultaneously
+because there's something in there that
+just breaks down and then it just
+hallucinates stuff. I have since reduced
+parallel processes to two or three
+podcasts at any given time. There's a
+small chance the GPU isn't fully
+utilized when you know all of them spin
+up at the same time. But that's okay.
+Most of the time it's in full use anyway
+without quality degradation. and I would
+rather not risk it because I want these
+transcripts to be reliably good. Biggest
+learning in all of this has been that
+bigger GPUs aren't necessarily faster or
+better. And not just from a words to
+dollar ratio, just even from a usage of
+the GPU. Just because the GPU is bigger
+doesn't mean it's faster at
+transcribing. Surprisingly, you would
+think, but it's not. When I ran
+transcription on my local machine and
+then on A10 and A100 GPUs, I got quite
+similar results, like always between 150
+200 words per second. And those things
+cost 200 bucks a month max. But then I
+rented an H100 GPU and the word count
+stayed almost the same, maybe going up
+to 225 to 250 words per second. But that
+GPU had 5 to 10 times the monthly cost.
+And you couldn't really run it in
+parallel there either because then it
+would start degrading quality. So for
+transcription specifically, it is way
+more effective to run on smaller and
+maybe slightly slower GPUs at scale. And
+this has turned out to be the only
+feasible way for me to do this. And
+we're just talking about like
+self-managed transcription here because
+there's an alternative that puts
+everything into perspective. If I were
+to transcribe all 50,000 episodes that
+come in every day using OpenAI's
+platform, their AI platform, their
+whisper endpoint there, I would pay a5
+figure amount every single day. After
+many months of optimizing and
+experimenting with transcription setups,
+I have obviously not done this. I have
+turned the whole thing into just a
+few,000 in expenses a month by having my
+own infrastructure. The cost savings are
+significant because when you run your
+own infrastructure, even though you
+aren't able to do as many parallel
+things as you could by using Whisper and
+Open AAI or other transcription systems
+like Deepgram Graham, but instead of
+paying like a $100,000 a month, you pay
+four or two, right? If you do it well,
+the daily cost that these commercial
+models can incur for you is easily in
+the thousands of dollars. And I've
+gotten it down to just a hundred and
+change on a per day basis, which is
+quite significant. The biggest expense
+for Podscan at this point is not
+transcription capacity. You would think,
+right, that this would be the most
+impactful expense. But it's a database
+where all of this information is stored.
+And that's the next big challenge that I
+didn't ever think about in the beginning
+because when I initially started
+tracking a couple hundred podcasts,
+yeah, it was totally fine to have my SQL
+database store all of this data without
+doing anything specific around data
+storage, right? Just throw it in and
+figure it out. But once I turn on the
+full fire hose of podcast data, all 50k
+a day, it became a massive challenge. If
+every transcript is like 200 kilobytes
+to one megabyte in text size because
+that's what text is. It gets massive,
+right? It can be megabytes of data.
+Again, Joe Rogan, thank you so much for
+filling my database with massive
+transcripts here. Then every day you're
+adding several gigabytes to a database.
+So if you're trying to do full text
+search or quick lookups with some
+filtering, this becomes a problem. Even
+if you have index there for a full text
+index or just regular string index, it
+is so hard to get this right. I had to
+build infrastructure that prevents my
+database from overgrowing or slowing
+down to a halt. Older transcripts are
+actually transferred to an S3based
+storage and loaded by the main process
+when they are requested by a user on the
+front end or in the API. I don't keep
+all my transcripts in the database cuz
+that would easily be 6 terabytes right
+now just in raw size which is super
+expensive to maintain and super clunky
+for database access. Now all transcripts
+live on S3 as JSON files and can be
+loaded on demand for anything older than
+a couple months for regular transcripts
+and anything older than just a couple
+days for the word level timestamp
+transcripts that we also save. That is
+probably the biggest one. JSON data for
+every second of a show and this has been
+very helpful in ensuring that the
+database stays at least a little nimble
+in comparison. When it comes to search,
+I'm using an open search cluster also in
+AWS where I just pipe the full
+transcript in there and then have its
+own inverted index. I think that's what
+it's called built to be able to search
+for full text there. So we're not doing
+full text search in the database. We
+have an additional secondary database
+that we feed all these transcripts into
+and facilitate search by just having
+what is kind of an elastic search fork
+deal with all of that. It would never
+never ever work in this MySQL database
+and probably also not in posress if I
+were to have a full text search there
+just because data is so massive. I was
+using mighty search for a while and that
+also works like all these search engines
+that can deal with large text they are
+good at it but transcript data is so big
+that even those databases struggle a
+little bit. So you have to build
+something that works right you have to
+save them in a way that they can be
+looked up reliably and you have to save
+them in a way that they can be searched
+reliably too. Now there are other
+challenges not just storage. There's
+also a quality problem. Yet again
+podcasting is full of quality problems.
+There's no normal standard for quality
+in podcasts. And I mean the audio data
+for that matter. Some people record into
+what feels like a potato and others have
+extremely high-end setups like this fine
+podcast. And you never know reliably
+which one you will encounter if you
+listen to one or if you try to
+transcribe it. So transcription systems
+expect at least a certain kind of
+quality and they struggle with
+lowquality audio or non-spech content
+like music that people throw into this
+as well. So I had to implement a
+transcription quality checking system
+that tries to determine if a transcript
+is acceptable or if you need to
+retranscribe it with different settings.
+Whisper is pretty good by default, but
+there are edge cases where you need
+multiple attempts to get it right and
+that all costs money. biggest problem
+and that's probably also why Potcan is
+actually so impactful for the people
+using it is that transcription systems
+like Whisper but also others struggle
+with names and brands. Anything that a
+human could easily get right from
+context, they don't get right because
+they don't have context. They just have
+a voice pattern, an audio waveform, and
+they don't get it right most of the
+time. And what works really well here,
+but is extremely expensive, is taking
+the full transcript from Whisper with
+all the little mistakes in there and
+having an AI do a pass over it with
+context from the podcast name, the
+description, and maybe prior episodes
+data. And you get extremely high quality
+transcripts that way, but at scale. This
+costs several dollars per episode.
+Because imagine what this would mean to
+use an AI system. Let's say you have 500
+kilobytes of text. that is I don't know
+2 hours of a podcast and you pipe that
+into even a cheap LLM that is hosted on
+I don't know on anthropic or in OpenAI's
+platforms. So you have like half a
+million input tokens and then it does
+some stuff and then it has half a
+million output tokens and that's the
+expensive part. Output tokens are
+probably the most expensive stuff for LM
+right now to create and that does not
+work at scale because that again would
+cost me $50,000 a day. Where am I going
+to take that money? Not happening. That
+might be very limited to a very limited
+number of shows, but even then it gets
+super expensive. So that's an unsolved
+challenge. Currently, Whisper can take
+120 or so tokens of context just like
+things like the title of the show, maybe
+the episode title and couple of names of
+people that will be mentioned. So,
+that's what I throw in. I just give it
+what I know is true about the episode.
+And back in the day, I experimented with
+giving it all the brands names from all
+the possib.
+But Whisper actually started finding
+these words in places where they weren't
+actually there. It was gaslighting me
+into believing that it found certain
+words where they didn't exist. So I
+quickly stopped piping all of these
+brand names in there. Since then, I only
+provide context that I can reliably
+infer that will be in that particular
+episode. And the big benefit of the
+system that I've built so far, like the
+whole installable on some VPC somewhere
+system, is that it's pretty easy to set
+up. It's a Laravel application that I
+can deploy through Laravel Forge onto
+any new server. I have an install script
+that fetches a couple Python libraries
+and I can spin up a new server quite
+easily that then automatically attaches
+to my API and starts fetching and
+transcribing new episodes. It's really
+nice, quite scalable. It's not on a
+Docker container level scalable, but
+I'll get to that in the future, too. And
+as Potcan's infrastructure grows, we can
+quickly add more systems so new episodes
+are transcribed faster with even more
+quality because, you know, they can be
+run in less parallel with less little
+outlier errors faster. And as models
+evolve, they might even become better at
+transcribing. Eventually, I think I can
+increase the number to get diarized and
+get more good data that can then be fed
+into AI systems for what my customers
+want. When I first set up the fleet of
+servers to transcribe all my podcasts
+that I wanted to transcribe, all
+podcasts everywhere, it probably would
+have cost me $30,000 a month, even on my
+own hardware. But I'm now at a point
+where through proper optimization and
+balancing my customer needs with the
+expense requirements, I can reliably
+capture the majority of podcasts at good
+quality for just a couple thousand a
+month in expenses. And I think that's
+really cool. the fact that that is even
+possible for a soloreneur to build. I
+don't think that would have been a thing
+a couple years ago, but the tools are
+all out there. It just takes a year and
+a half of 247 work. So, yeah, it takes a
+while, but it still is possible. The key
+insight for all of this is that when
+you're building a business that scales
+with these factors outside of your
+control, like the global output of an
+entire medium, you just need to think
+differently about infrastructure
+optimization and trade-offs. Sometimes
+the most expensive solution will not be
+the best one like OpenAI's hosted
+whisper just doesn't work. And sometimes
+the constraints that you think are
+impossible to work with actually force
+you into more creative and ultimately
+better solutions. The kind of challenge
+that makes building businesses both
+terrifying and accelerating. That's
+exactly this. You can't control how many
+podcasts get published worldwide every
+day, but you can control how cleverly
+and effectively you solve the problems
+that stem from this. And that's it for
+today. Thank you so much for listening
+to the Boots Founder. You can find me on
+Twitter at avidkal khl. If you want to
+support me in this show, please share
+potscan.fm FM with your peers and those
+who you think will benefit from tracking
+brands, competitors, their products, all
+kinds of things and names on podcasts
+out there. Potscan is this near realtime
+podcast database with a really solid
+integration system. We allow a lot of
+people to build solutions to get leads,
+to get information on their clients and
+all of that. So, please share the word
+with those who need to stay on top of
+the podcast ecosystem. Thank you so much
+for listening. Have a wonderful day and
+bye-bye.
+[Music]

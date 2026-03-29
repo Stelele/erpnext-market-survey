@@ -1,0 +1,52 @@
+{
+  "topic_id": 159886,
+  "title": "The modal freezes when selecting the Finished Item after ticking “Is Subcontracted”",
+  "slug": "the-modal-freezes-when-selecting-the-finished-item-after-ticking-is-subcontracted",
+  "category_id": 10,
+  "tags": [
+    "erpnext",
+    "bug"
+  ],
+  "created_at": "2026-01-27T06:02:01.504Z",
+  "last_posted_at": "2026-01-27T06:02:01.628Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/the-modal-freezes-when-selecting-the-finished-item-after-ticking-is-subcontracted/159886",
+  "views": 19,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Sarosh",
+  "posts": [
+    {
+      "id": 492606,
+      "username": "Sarosh",
+      "name": "Sarosh",
+      "created_at": "2026-01-27T06:02:01.628Z",
+      "cooked": "<p>When creating a <strong>Subcontracted Purchase Order</strong> in <strong>ERPNext</strong>, I tick the checkbox <strong>“Is Subcontracted”</strong>. Upon selecting or entering the <strong>Finished Item</strong>, the item selection modal freezes and does not close. After this, the entire screen becomes unresponsive and cannot proceed or cancel. Any further actions remain stuck on the same screen.</p>\n<p><strong>Steps to Replicate the issue:</strong></p>\n<p>Go to <strong>Purchase Order</strong> in ERPNext.</p>\n<ol>\n<li>\n<p>Create a new Purchase Order.</p>\n</li>\n<li>\n<p>Tick <strong>“Is Subcontracted”</strong>.</p>\n</li>\n<li>\n<p>Click on <strong>Finished Item</strong> selection field.</p>\n</li>\n<li>\n<p>Select or enter the <strong>Finished Item</strong>.</p>\n</li>\n<li>\n<p>The selection modal freezes and does not close.</p>\n</li>\n<li>\n<p>The screen becomes unresponsive and Cancel does not work.</p>\n</li>\n</ol>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/s/f08c70/{size}.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 7,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

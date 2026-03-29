@@ -1,0 +1,444 @@
+﻿hey I'm Arvid and this is the bootstrap
+[Music]
+founder today I'll dive into the
+difference between a trial user and a
+trial abuser and what you can do to
+invite the former and prevent the ladder
+this episode is sponsored by paddle.com
+and that's a payment provider I use in
+all of my SAS properties if you want to
+build your business without having to
+even think about registering for sales
+tax in some country where you have like
+two custom customers just use paddle
+they're Merchant of record and they will
+take care of all of that for you and
+their API also allows you to collect
+payment information before your users
+start their free trial that's the topic
+of today and as we learn year and year
+again from the state of independent SAS
+survey that Rob Walling and the microc
+team analyze that's a pretty solid
+strategy for subscription businesses so
+check out paddle and focus on what
+matters and here's what's been on my
+plate this week as new users join potan
+and start their 10-day trial I've been
+working on determining the right
+limitations to set for them and I know
+this challenge is not unique for my
+business or to my business it's
+something that every software company
+that offers a free trial struggles with
+at some point some of them struggle with
+them at all points but let's just talk
+about this initial stage the goal is to
+strike a perfect balance here you want
+to show enough value to convert users
+while still protecting your business
+from excessive usage or outright abuse
+and this balance has become particularly
+crucial in the age of AI powered SAS it
+used to be that for SAS business you
+would just have your database and
+compute and that's what kind of cost you
+money but now there's this kind of
+outside cost that you have very little
+control over and that can quickly
+explode AI features always come with
+Associated costs and those can scale
+significantly if users find ways to
+abuse them or even if they just used
+them too much in legitimate ways take
+Peter level's recent experience with
+photo AI he shares this stuff all the
+time and his AI powered photo generation
+servers has this kind of payment system
+that has credits involved and he's been
+fighting an ongoing battle with creative
+exploiters that's what I would call
+these kind of people not criminals not
+cheaters but creative exploiters and
+those people found a particularly clever
+loophole in what I think stripe had
+implemented at that point they have
+since changed it at Peter's request um
+those people would upgrade their plan
+and then use all of their new credits
+that they would get and then downgrade
+the plan again to get a prated refund on
+the money they paid but keeping the
+already used credits and then rinse and
+repeat and this kind of exploitation can
+quickly drain resources and cost you a
+lot of money and that threatens to
+Services sustainability because GPU
+compute is very very expensive and you
+don't get your money back just because
+you didn't think of this potential
+exploit Vector for your business so that
+can very quickly drain your bank
+accounts and you don't want that and
+even benign and legitimate use can be
+problematic I had to very quickly build
+a limitation system this week because
+several users signed up after I went on
+Greg eisenberg's podcast to talk about
+AI business ideas and it looks like
+there are a lot of crafty Founders
+listening to that show and they sign up
+for podan which I love and a couple of
+them set up very general alerts for
+extremely common terms like think of
+words like I don't know videos or books
+or comments right things that probably
+are mentioned on a lot of podcasts and
+they are quite literally mentioned on a
+lot of podcasts because I see them in my
+feed and those users turned on the
+context aware filtering feature that is
+something that I offer for all plans
+including the trial plan so people can
+see what it does and that one incurs an
+AI processing step for every matched
+Mansion the idea is somebody's keyword
+gets mentioned and then I check if some
+other condition is also True by asking
+an AI a question about that thing and
+this is still manageable even for trials
+but I did the math on this and it would
+cost me easily hundreds of dollars just
+to run the step for all of the results
+that a trial user might have and that
+kind of felt over the top right there's
+something in a trial the concept of a
+trial that should not incur hundreds of
+dollars so I kept trial AI processing to
+a limit that has kind of a reasonable
+hourly number which when that ceiling is
+then hit at some point informs the trial
+user through a UI feature that all they
+need to do to get the full experience is
+to actually sign up and pay and when you
+offer something for free you need to
+very carefully consider the balance
+between what you're willing to give away
+for free and what users need to see to
+evaluate your product properly because
+in essence a free trial is a form of
+customer acquisition cost the fabled CAC
+that everybody talks about it's not like
+an ad where the cost is paid the moment
+somebody clicks on a link and then lands
+on your product's website and takes it
+from there that's a one-time advertising
+expense but with a trial your CAC
+continues to accumulate throughout the
+trial period until the user either
+converts starts paying or they leave
+right that's a I guess a very negative
+cost there or a high cost because you
+spent all of this money on a user that
+did not even buy the product and
+understanding your trial as this ongoing
+cost makes it more manageable I think it
+makes it more projectable too you can do
+the math now if you know your average
+customer pays 20 bucks a month with a
+typical lifetime value of
+$200 it would not make sense to let them
+consume $500 worth of AI credits during
+their trial or even 50 bucks that's a
+lot of money still you need to carefully
+consider your cost structure and then
+set limits accordingly for the these
+things and different Services face
+different constraints obviously right
+every business is unique in the exact
+makeup of their at risk expenses if you
+on a video platform you need to think
+maybe more about storage and bandwidth
+and maybe also this kind of transcoding
+time that you have and if you run a a
+number crunching heavy app you have to
+think about compute and maybe memory
+that that compute might incur and for AI
+based software you really have to look
+at the API usage for all those external
+GBU Based Services that you use and
+that's just one side of it there's the
+other side that's the size of the trial
+opportunity you kind of have to factor
+that in too because some customers might
+just try it out see what it is and then
+maybe buy it and they're always going to
+be on the lowest tier that's great and
+you have to set limit for those but
+others might be way more promising than
+those and their lifetime value their LTV
+is significantly higher so their
+acquisition cost the money you spent on
+getting them to see the whole thing to
+figure out if it's for them might also
+need to be adjusted and in my case with
+potan I have the situation I have to
+consider scenarios like large news
+agencies right TV broadcasting stations
+wanting to trial our platform and then
+analyze like all political podcasts out
+there for new developments or for
+interesting angles or Avenues of
+conversation while this could create
+significant server load if I were to
+allow it it might be worth accommodating
+for this potential more enterpris
+customer which is why building in
+flexibility is crucial you might even
+want to think of pre- scoring your
+customers for How likely they are to be
+one of those larger opportunities and of
+multiple trial limit groups inside your
+own trial system to accommodate for
+those different limits to allow
+different limits for different kinds of
+people all of which are still on a trial
+the key is identifying which actions in
+your business incur cost when repeated
+and then after figuring this out you
+need to protect yourself from overuse
+and still make the product usable and
+not worthless to users right your limits
+still need to be reasonable so that
+people can see what it is a good example
+here on how people usually do this are
+rate limits and that's usually API based
+like if you go to the YouTube API that
+Google's API to check for videos and
+stuff they have 10,000 requests per day
+that's their limit and that allows you
+to do a lot of stuff although they have
+a quota system so it's a quota of 10,000
+like quota items a day and the search is
+like a 100 of those quota items so you
+can do 100 searches a day which is not
+much but it allows you to build a
+prototype it allows you to build
+something that is really slowly
+Gathering data for free without having
+to go into the more expensive tiers or
+if you have a photo uploading service
+and you probably use these all the time
+by just uploading stuff to Instagram or
+whatever you have a limit to how many
+images you can upload simultaneously and
+per hour too they kind of throttle this
+stuff at some point so that's usually a
+way to do it so for pod scan I found
+several things that I always look into
+when it comes to setting up these limits
+and I'm just going to share these
+implementation tips with you now the
+first thing is to always set clear
+Baseline limits that protect your
+business just think of it as the maximum
+of usage that a normal user would and
+should use these expensive features for
+right in my case it would be every
+single day how often do I want them to
+hit my internal GPU accelerated AI is it
+100 times is that already too much is 10
+times enough it's like seeing 10
+examples of what the thing can do
+sufficient or does it maybe need to be a
+thousand times right it this is
+something you have to figure out what is
+the Baseline and then when you have that
+Baseline you need to implement the limit
+for that but on top of this you need
+those limits to be configurable at the
+account level because this flexibility
+becomes crucial when working with these
+Enterprise prospects so even just this
+standout customer that you really want
+to see what your platform can do and you
+need to be able to switch those limits
+either programmatically or by just going
+into the database and like changing a
+number but you want to be able to switch
+it without having to rewrite the code so
+making limits configurable as some kind
+of config object a config number on the
+account or in the team whatever you have
+in your your or structure is very
+important from the start and then when
+you have this set up whenever a limit
+related event happens like a limit is
+reached or somebody is uh about to reach
+a the limit within the next hour or so
+you need to log this kind of stuff
+meticulously because hitting a limit or
+getting close to one that's a non-happy
+path event both for you and your
+software because you set the limit for a
+reason and for the user because they
+might not be able to do what they wanted
+to do once they hit the limit so this
+informs you about a usage pattern that
+you might not have foreseen or do not
+want and then finally I guess once you
+track how trial users interact with
+these limitations you can act on it this
+logging and tracking provides invaluable
+insights into user behavior and I've
+seen trial users at podan set up the
+most unexpected Integrations and
+unexpected settings for alerts that
+accidentally spam our servers or create
+massive database loads simply because
+they're just trying to figure things out
+and haven't succeeded yet these moments
+when people are just figuring stuff out
+and they're kind of confused and they
+didn't really get it these moments
+create perfect opportunities for
+Meaningful customer interactions for
+instance when I notice that a trial user
+repeatedly is hitting certain limits I
+reach out to them with a message like
+hey I see you set up an alert for this
+very generic keyword and this causes a
+notification every couple seconds is
+probably not what you want and this is
+not the result that you might be looking
+for but here's a more effective approach
+how about these three specific keywords
+that I thought about for you and this
+use case and this not only helps to use
+a succeed it's kind of customer success
+in this moment but it also gives me
+crucial insight into the job that
+they're trying to accomplish because I
+can ask them why did you set up this
+very very common keyword and then they
+usually tell me well I want to find all
+podcasts to talk about this then I'm
+like yeah but if you find a more
+specific keyword and then you make this
+kind of context aware filter look into
+the broader scheme of things you might
+get better higher quality data and then
+usually they're like oh okay and then we
+set it up and then it's a much more
+reliable thing that costs me way less
+and these user interactions have led to
+numerous improvements both in our
+onboarding documentation the clarity of
+the UI and how I communicate the steps
+example workflows that I give to people
+all of this sometimes they even reveal
+potential Enterprise customers among the
+trial users who need custom limits for
+the use case I talk to people and
+they're like okay yeah I'm triing this
+for our 4,000 people company and I want
+to see what this can do okay let's let's
+see what we can do for you and at other
+times this helps me identify users who
+might not align with our business model
+when people want to do something that PO
+going to just not buil for and I'm
+saying well we could do it but it's it's
+really not what we want to do here so
+here's how you would do it but okay
+maybe this is not for you so don't feel
+pressured to implement every feature or
+do anything that people want from you if
+they're trial user because trial users
+still have not paid right the commitment
+is not there recently I had to trial
+user demand quite significant processing
+capability on their account to test
+something out without making any
+commitment to even our essential plan
+plan after I asked them to they wanted
+to see what the system can do but not
+pay for it and I guess that's just the
+expectation for anything you're trying
+to sell but it might feel
+counterintuitive here because it's
+leaving potential future money on the
+table if you could convince them they
+will probably pay but saying no to such
+requests is often the right move for
+your business's long-term health because
+if you don't do this it allows people to
+select into your customer group that you
+don't really want to have in there what
+you want is people self- selecting out
+of your customer group if they're not a
+fit and self- selecting into your
+customer group if they are a fit you
+don't want to enable people who should
+be out of this group to come into your
+group that's really the idea and
+remember that the purpose of a free
+trial is not to provide unlimited free
+access to your product that's a
+misconception that I often had myself in
+all these software products I wanted to
+give this for free so that people could
+use it and love it and then maybe pay
+for it that's not the idea a trial's
+purpose is to demonstrate value quickly
+right up front and then allow users to
+make an informed decision about
+committing to your product and that's
+the point the point is to give them
+something to make a decision to then pay
+not more than that so while trials
+should showcase your software's full
+capabilities when it's possible and
+feasible some features in there might
+not be demonstrated through a trial you
+might actually need to do this through
+case studies or demos or videos instead
+when it comes to like expensive customiz
+ations or Integrations with services
+that you pay for that stuff shouldn't be
+in your trial right even though you want
+to show as much as you can sometimes you
+just need to show it you can't really
+give it to people for free so set clear
+limits make them configurable and then
+carefully monitor usage patterns and you
+will end up with a trial system that
+effectively demonstrates your product's
+value without risking your business's
+Financial Health the goal is really to
+frontload Value as much as possible
+while still maintaining sustainable
+operations in your business in the back
+end and sometimes that just means saying
+no to users who don't align with your
+business model or at the very least you
+say not too much don't use it too much
+use it check it out but don't overstay
+your welcome here because in the end
+these are still prospects and not paying
+users and that's it for today thank you
+so much for listening to the boots of
+founder you can find me on Twitter at
+aital a KHL and you will find my books
+on Twitter cost 2 if you want to support
+me and this show please tell everybody
+know about podan FM if they might be
+using it they might want to use it and
+leave a rating and a review by going to
+rate thisp podcast.com founder makes a
+massive difference if you show up there
+because then the podcast will show up in
+other people's feeds any of this will
+help to show so thank you so much for
+listening have a wonderful day and
+bye-bye

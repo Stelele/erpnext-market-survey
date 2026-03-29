@@ -1,0 +1,53 @@
+{
+  "topic_id": 161516,
+  "title": "Building a Secondary Claim / Ship-and-Debit / Chargeback Workflow in ERPNext",
+  "slug": "building-a-secondary-claim-ship-and-debit-chargeback-workflow-in-erpnext",
+  "category_id": 8,
+  "tags": [
+    "erpnext",
+    "itemprice",
+    "pricelist"
+  ],
+  "created_at": "2026-03-17T00:30:29.498Z",
+  "last_posted_at": "2026-03-17T00:30:29.655Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/building-a-secondary-claim-ship-and-debit-chargeback-workflow-in-erpnext/161516",
+  "views": 13,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Azhar_Umar",
+  "posts": [
+    {
+      "id": 495987,
+      "username": "Azhar_Umar",
+      "name": "Azhar Umar",
+      "created_at": "2026-03-17T00:30:29.655Z",
+      "cooked": "<p>Hi ERPNext community,</p>\n<p>I am working on implementing a <strong>Special Pricing Agreement (SPA) and Secondary Claim (Chargeback) workflow</strong> for a distributor in India. Before I go deep into custom development, I wanted to open this up to the community to see if anyone has solved this — or parts of it — already.</p>\n<hr>\n<h3><a name=\"p-495987-the-business-context-1\" class=\"anchor\" href=\"#p-495987-the-business-context-1\" aria-label=\"Heading link\"></a>The Business Context</h3>\n<p>A distributor buys products from multiple <strong>brands and manufacturers</strong> and sells to a mix of general customers and contracted customers. Some customers — typically <strong>large supermarket chains, HoReCa (Hotels, Restaurants, Cafes), and institutional buyers</strong> — have a direct pricing agreement with the brand (SPA), which means the distributor is required to sell to them at a negotiated Special Selling Price that sits below the standard market rate.</p>\n<p>To protect the distributor’s margin on these sales, the brand compensates the difference monthly via a chargeback — triggered by a Secondary Claim Report that proves the units were actually sold to that specific contracted customer.</p>\n<hr>\n<h3><a name=\"p-495987-the-five-pricing-tiers-2\" class=\"anchor\" href=\"#p-495987-the-five-pricing-tiers-2\" aria-label=\"Heading link\"></a>The Five Pricing Tiers</h3>\n<p>We have defined five pricing tiers that need to coexist in the system:</p>\n<p><strong>RP — Retail Price</strong><br>\nThe brand’s retail price, inclusive of taxes. Always a fixed value. Serves purely as a reference point — other prices may be derived from it as a percentage discount or markup.</p>\n<p><strong>DP — Distributor Price</strong><br>\nThe price at which the brand or manufacturer invoices the distributor. This is the distributor’s stocking cost. The actual purchase invoice rate is always the authoritative DP. A DP price list may also be maintained as a reference or for derived price calculations, but the invoice rate takes precedence.</p>\n<p><strong>SDP — Special Distributor Price</strong><br>\nA lower effective cost that the brand agrees to bear for the distributor on sales made to contracted customers. The chargeback recovers the gap between DP and SDP. Can be a fixed rate or derived from DP, RP, or SP. Scoped per item, per customer or customer group.</p>\n<p><strong>SP — Selling Price</strong><br>\nThe distributor’s standard selling price to general open-market customers with no SPA. Can be fixed or derived from DP or RP.</p>\n<p><strong>SSP — Special Selling Price</strong><br>\nThe price the distributor charges a contracted customer, as negotiated between the brand and that customer. Always below SP. Can be fixed or derived from DP, RP, or SP. Scoped per item, per customer or customer group.</p>\n<p><em>Derived = a fixed amount or percentage markup or discount applied on top of another price tier.</em></p>\n<hr>\n<h3><a name=\"p-495987-the-chargeback-logic-3\" class=\"anchor\" href=\"#p-495987-the-chargeback-logic-3\" aria-label=\"Heading link\"></a>The Chargeback Logic</h3>\n<p>For every unit sold to an SSP customer:</p>\n<blockquote>\n<p><strong>Chargeback = (DP − SDP) × Qty Sold</strong></p>\n</blockquote>\n<p>Where <strong>DP is the actual purchase invoice rate</strong> for that item — not a price list value. SDP is fetched from the agreed rate master for that supplier-customer-item combination at the time of sale. At the end of each month, the distributor submits a Secondary Claim Report to the brand summarising all SSP sales and the total chargeback due.</p>\n<hr>\n<h3><a name=\"p-495987-questions-for-the-community-4\" class=\"anchor\" href=\"#p-495987-questions-for-the-community-4\" aria-label=\"Heading link\"></a>Questions for the Community</h3>\n<ul>\n<li>Has anyone implemented a similar SPA / chargeback workflow in ERPNext? What approach did you take?</li>\n<li>How are you managing derived pricing (formula-based prices that depend on another price tier) within ERPNext’s price list structure?</li>\n<li>How are you linking the actual purchase invoice rate (DP) to the corresponding sales transactions for chargeback calculation?</li>\n<li>How are you handling SDP and SSP at customer group level across a large item catalogue?</li>\n<li>Any existing apps or modules in the ERPNext ecosystem that address this use case?</li>\n</ul>\n<p>Happy to share more details on the business process if it helps. Would also be glad to document and share whatever we build here for the community.</p>\n<p>Running ERPNext v16. Thanks in advance.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/azhar_umar/{size}/54334_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 10,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

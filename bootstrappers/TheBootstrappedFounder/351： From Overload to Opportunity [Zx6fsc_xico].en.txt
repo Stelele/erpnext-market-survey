@@ -1,0 +1,706 @@
+﻿hey it's Arvid and this is the boot
+founder this episode is sponsored by
+paddle.com more on that
+later as Founders we often find
+ourselves in situations that test our
+foresight and adaptability and this week
+I experienced one such moment that
+served both as kind of a wakeup call and
+a valuable learning opportunity for me I
+think it's a story that highlights the
+importance of anticipating potential
+issues in your software business even
+when they seem unlikely and that's the
+key point right these little random
+things that are probably not going to
+happen well they will happen so grab a
+cup of coffee and let me share this
+cautionary tale with you today it all
+started with a user of podan my podcast
+monitoring service and podan sends out
+email notifications whenever certain
+words keywords or phrases are mentioned
+in the podcast so for most users this
+means a handful of emails today maybe a
+dozen if they are tracking popular terms
+in their niche but this particular user
+well they decided to set up alerts for
+words like Google and India and America
+I don't know why but you know they did
+now if you're thinking wow that is going
+to generate a lot of emails you
+absolutely right and that's exactly what
+happened within a couple days this
+single user was receiving thousands of
+emails daily sometimes like I think
+5,000 emails a day was a lot to put this
+into perspective most users really get
+get a dozen notifications a day and most
+of those who do have said it so that
+they G get summary emails instead of
+getting individual notifications but
+this user was getting more in an hour
+than others would get in a month and
+they did not change that particular
+setting and I didn't change it for them
+because yeah we'll get to that at first
+I didn't realize what was happening it
+wasn't until my email provider actually
+slammed on the brakes that I understood
+the magnitude of this whole situation
+they cut off my email sending
+capabilities entirely and they cited
+concerns about server deliverability
+issues and suddenly I couldn't send any
+emails at all not even critical ones
+like login verifications or password
+reset emails and my initial reaction
+well I was frustrated I thought hey I'm
+paying you to send these emails why are
+you cutting me off I think I tweeted
+about it too I didn't say who it was but
+I did and as I dug deeper the reality of
+the situation became clear this was n't
+just a technical issue or some business
+Choice from the email provider that I
+was using it was a potential threat to
+the reputation of my entire domain and
+it was my fault the consequences of this
+incident were far reaching from the
+start my domain was teetering on the
+edge of being blacklisted as a Spam
+Source because I think the person who
+got these emails was on Google Mail like
+most people are and Google starts to
+really look into these things when they
+happen right they immediately notify the
+network and all of that and it could
+have have been very very easy for me to
+get on the The Black List not necessar
+there are multiple different lists like
+allow list block lists and there is a
+yellow list or something was like in
+between and I made it on that one at
+least for the day and had I progressed
+even further sending more emails it
+would have been a real problem if that
+had happened it could have been
+catastrophic for podan like imagine
+building a business that relies on email
+communication because it's about
+real-time communication only to find
+yourself unable to reach your users it's
+a nightmare and it's a nightmare
+scenario for any founder if you really
+want to reach your user and you can't
+but here's the kicker it really was not
+a malicious attack or anything it wasn't
+even intentional misuse by that
+particular user it was simply a user who
+didn't fully grasp the implications of
+their actions because I didn't
+communicate them and it was combined
+with my oversight in not setting
+appropriate limits and this experience
+forced me to confront an uncomfortable
+truth as Founders we are responsible for
+anticipating and preventing these kind
+of issues even when they seem
+unlikely it's not enough to build a
+product that works under ideal
+conditions we need to build systems that
+are resilient to unexpected use cases
+and potential misuse intentional or not
+and realizing the gravity of this
+situation I immediately jumped into
+action the first step was damage control
+I immediately stopped sending emails for
+this particular user to prevent further
+issues with my email provider and then I
+switched email providers to ensure that
+critical business fun functions like
+user signups would still continue
+uninterrupted and the real work actually
+came next I had to implement safeguards
+to prevent this from happening again and
+here's what I did with this particular
+thing you might find this interesting
+just as a consequence of this I
+implemented daily email caps I
+introduced a daily limit to the number
+of emails that can be sent to Any Given
+account and by account on podin I mean a
+team could be any number of people but
+once this limit is reached for the team
+email sending stops for that particular
+Team all users on that team for the day
+I have a daily cap and I have an hourly
+cap so the idea is the daily cap is kind
+of three times as high as the hourly cap
+so if there is a lot of talk about a
+particular keyword in any given hour
+they still get those emails and then if
+it continues for a couple hours and more
+podcasts are released they get more
+emails from that but they reach the cap
+then sending stops and I also added a
+clear notification in the UI because
+people still very much click the link to
+pods scan in their emails to see more
+information so I added a little bar in
+the UI that informs them that they have
+reached that daily limit and tells them
+that they can either do something about
+that either ask me to change the limit
+or change the setting so that they get a
+daily summary email instead of all these
+individual emails and for users who
+genuinely need higher limits I
+introduced options like these summaries
+right they exist for that particular
+reason and I highlighted them more in
+the UI and for Enterprise customers or
+those on higher TI plans I just made it
+possible to set account specific
+exceptions to these limits so there's a
+baseline limit of I think 10 an hour and
+25 a day in terms of emails that I sent
+with pod scan and if somebody really
+wants more of these emails well they can
+ask me and I can give it to them or they
+can just use the web hook feature that
+they have anyway where I sent the full
+information of an mention of an alert as
+a web hook to a certain URL and then
+they can dispatch it into I don't know a
+Google sheet or an email if they want to
+but I don't have to send these emails
+manually or automatically at this point
+anymore they can do whatever they want
+with it so I give people a lot of
+options but they're all based on
+limiting what I do because the thing is
+I have no problem sending 50 emails to a
+particular kind of customer if they want
+that but at this point I have hundreds
+of customers am I going to send 50
+emails 100 times now that all of a
+that's 5,000 emails and first off that
+costs me something like emails aren't
+free and if I send 5,000 emails and they
+all going 80% of them to Google Mail
+like some some kind of Gmail system
+anyway they're going to think this guy
+is sending a lot of emails right and I
+was talking to a couple people on
+Twitter about this they were saying
+Google really tracks engagement with
+emails to genuinely figure out if it's a
+a scam or if it's just Spam emails or
+something and engagement is the most
+important part and for a notification
+email which is transactional right it's
+not a marketing email that people would
+ignore it's supposed to notify somebody
+of something that is going on for that I
+would really really need a lot of people
+clicking on it the idea is for an email
+to be considered engaged people have to
+click on it click on some link open it
+open rate right that's the idea they
+have to open it click on the email
+initially and then click on something in
+the email ideally
+and I think the open rate of a summary
+email is much higher than of 10
+individual emails but you know if
+somebody really wants to look into every
+single email they can do this too anyhow
+this incident got me thinking about the
+broader implications for software
+businesses in general it's not just
+about email notifications right it's
+about any action in your system that
+could potentially be overused or misused
+and as Founders we need to approach our
+products with this mindset of defensive
+Design This Means thinking through
+potential edge cases all the time and
+implementing very reasonable limits on
+all user actions that's the key every
+single thing that people do you kind of
+have to think about well when is it too
+much right when does it as a consequence
+cause damage cause balloting cause
+financial problems when is something
+that somebody does or that somebody asks
+my software to do a potential problem
+and here are some areas where I think
+this applies most obviously I think API
+requests is the best example for this
+right you want to limit the number of
+requests that a user can make in any
+given time frame because everybody wants
+to scrape your business everybody wants
+all your data all the data they can get
+and sometimes just a normal API request
+when repeated like a 10 or 20 or a
+thousand times a second can really do
+massive resource damage to your business
+people might just they might build uh an
+API client for their business that all
+of a sudden does way more than they
+wanted it to do because you know people
+are developers they make mistakes and
+you need to preempt this by saying you
+get 60 requests a minute that's one a
+second that means if you really want to
+go super hard for I don't know 4 seconds
+sending 15 requests each fine with me
+but after that you're going to get a 429
+HTTP response just to say hey here's how
+much you have permitted here's how much
+you used deal with this API need limit
+rate limiting that's the answer right
+rate limiting generally is a good answer
+and rate limiting does not just happen
+on apis by the way I just want you to
+know that if you build a software
+business where people go to certain
+routes like they go to their dashboard
+they go to their billing page they go to
+their profile they go to the project
+that you have they go to some part of
+your website any of these routes should
+have a rate limit that is very very
+important first off if you have any kind
+of directory of data people would like
+to scrape it like pocan in particular
+lists all the podcasts and all the
+episodes like to somebody else this
+might be very interesting right it's
+very interesting to scrape and do
+whatever they want with it I mean they
+could just get it from the API if they
+wanted to and they could just ask me and
+I could give them an export sell them
+like a full-on SQL file or something
+with all the data in it but you know
+people are interested in building their
+own Solutions so any part of your
+website could potentially be scraped by
+an automated system and to prevent this
+from happening I would highly recommend
+setting reasonable limits on all page
+views on your website that includes your
+homepage your landing page if you have
+control over this like on a per IP level
+or on a per I don't know where where you
+would get it like per login cookie
+credential level always set braate
+limits I think I have like 12 requests
+per minute on most of my um websites
+that I have like in the dashboard people
+are likely to click click click click
+click and then they are where they need
+to go and maybe it's it's 20 or maybe
+it's 30 clicks but they will see okay I
+click too much let me just wait for a
+second this is still better than having
+somebody scrape my entire database and
+siphoning off massive amounts of value
+that's defensive design and data storage
+is also a thing right set caps on how
+much data a user can store and how many
+items they can create to me this is
+important because it's part of my
+tiering system for my pricing but
+generally it would be good to have at
+least a notion of when somebody is
+completely using way more data than you
+thought they would right if you assume
+that a user in your in your business of
+your particular SAS business has like up
+to five projects or has a project with a
+couple items in it then if you see
+somebody who has 50,000 projects
+something is going on right there should
+be a limit there soft or hard a soft
+limit is when you reach it you get a
+notification a hard limit is when you
+reach it you can't do more but have a
+limit in place and generally anything
+that causes a lot of resource intense
+operations like actions that people take
+transcribing an audio file or uploading
+a video stuff like that I have a limit
+on that as well how many times can it
+happen how many times per day how many
+times per month for that matter how many
+times per credit that people have on the
+system you always should have a limit
+any action should have a limit but it's
+not just about setting limits it's about
+creating a system that then gracefully
+handles these limits when they're
+reached and I think this includes very
+clear communication to users when they
+are approaching that limit or have
+reached it and you should have that very
+clear in the interface of the the
+software that you create and if it's an
+API you should have these these headers
+like these kind of um headers in the
+response that indicate where the limit
+is and how close they are to reaching it
+so they can use automated systems to
+figure out if they need to kind of
+throttle their requests a little bit and
+you should always have Alternatives or
+upgrade paths for users who legitimately
+need higher limits particularly with pod
+scan I'm looking for bigger and bigger
+customers I'm trying to get into the
+newsrooms of the world and get into the
+organizations that deal with a lot of
+data they have other requirements they
+may be fine with getting hundreds of
+emails they may actually need or want
+these emails so I need to be able to
+increase my limits and when you're done
+with all of this you need to implement
+alerts for the team for yourself when
+limits are consistently being reached
+not just once but every single day or
+multiple times an hour because this
+indicates a need to adjust your whole
+system your pricing tiers or the limits
+themselves and one of the trickiest
+aspects in implementing these safeguards
+is maintaining a positive user
+experience in all of this because you
+don't want your limits to feel
+restrictive to the point where they
+frustrate users or hinder their workflow
+and this is where the art of product
+design comes into play leave I think
+it's really about how you communicate it
+the goal is to make these limits feel
+natural and
+reasonable for example if instead of
+just this hard stop when user reaches a
+limit you might Implement a kind of
+cooldown periods or offer a click here
+to extend your limit kind of onetime
+extension give people a feeling of
+agency in that moment but also make it
+clear that there is a limit and there's
+a limit for a good reason I communicate
+this with podan when I just say hey I
+don't want to spend spam your inbox
+which is why we stopped sending your
+emails right and if people then want to
+say no it's fine you can spam my inbox
+please they can reach out to us I have a
+link there like contact us for a change
+or something so people have agency in
+that moment that's very important and
+it's crucial to be transparent about the
+limits include them in your
+documentation in your onboarding process
+in your interface itself and perhaps
+even in your marketing materials where
+it could be both a thing where people
+okay they are thinking about the
+viability of their email sending system
+they are thinking about my inbox and not
+to spam me that's really nice I'm going
+to look into this product think this
+sets clear expectations and I think it
+can be positioned as a feature that
+ensures Fair usage and system
+reliability for all users and clear
+expectations are an important thing
+they're also very critical for your
+payment provider which is why I want to
+give a quick shout out to paddle.com the
+sponsor for this episode I used to
+couple together my own Solutions in the
+past when it to payment I used like apis
+from all kinds of services building my
+own UI or buying some UI out there and
+kind of putting all together CU I
+thought I knew what a good building
+portal looks like but I had no idea what
+people really need it and that's I guess
+the founders curse we think we know
+until the reality of the market hits us
+right in the face with real user
+Behavior so if you would like to be hit
+in the face less and instead enjoy
+working on your actual business look
+into paddle as your payment solution I
+run it on several of my products because
+it's easy to integrate and it takes care
+of a whole lot of things other payment
+providers don't paddle handles taxes
+invoicing and their building portal is a
+beautiful and highly converting piece of
+technology that you can just plug into
+your SAS and use right away so checkout
+pedal.com it's going to give you peace
+of mind and drive your revenue and
+that's what I found at
+once as I worked through my challenge
+over the last few days with this email
+and you know everything Beyond I
+couldn't help but think of other
+examples in the tech world where similar
+issues have Arisen I think as I am very
+active on Twitter and active in the
+Twitter developer Community I've been
+following the whole situation let's call
+it that with access to the Twitter API
+as an example here Twitter in the past
+and I mean like pre musk has constantly
+evolved their access tiers the limits
+and all of that to balance providing
+value to developers and protecting the
+system from abuse was always a struggle
+and they always had a lot of bots they
+always had a lot of people who just
+played around with it did weird stuff so
+you could always see these limits
+changing and then and this is now the
+Elon Musk era of of Twitter ownership
+they comically exploded most businesses
+that were built on the AP Iber making it
+cost $42,000 a month that was weird and
+it was kind of painful to see the
+developer community did not like that at
+all but I bet there was a reason to make
+access harder maybe not
+$42,000 worth of harder but I've seen
+fur scammy build your own audience
+automatically Tools around I think
+that's a good thing so in a way as much
+as it was painful for a lot of
+entrepreneurs to not be able to build
+tools on top of an API that was easily
+accessible anymore these limits and I
+don't mean like rate limits here I mean
+like Financial access limit did impact
+the quality of tools built on top of the
+Twitter API out if the tools that can
+actually afford it that we're making
+enough Revenue to be able to pay this
+horrendous fee the ones that are still
+sticking around well they really need to
+make it work because they need to pay a
+lot of money to Twitter or to X at this
+point it's very interesting right like
+you set limits and this changes the way
+that people use your product and then
+you play with the limits and you have an
+impact on
+who gets to use your product and how
+they use it I think that's really cool
+and this is just Twitter right like
+think about other services like Dropbox
+out there how they handle file upload
+limits when you reach that limit they
+just don't cut you off either at that
+point I recently got to this point I
+think I have a terabyte or more in my
+dra box they offer a clear upgrade path
+from early on when you're like 80% in
+when you approaching this limit they
+they make it very clear that there is a
+way out and here's how to pay it I think
+just those two examples they make me
+think about that I'm not alone in facing
+these challenges maybe at a wildly
+different level but as a community of
+Founders and Builders we can learn from
+each other's experiences and best
+practices and I think this whole story
+that I'm telling you here about this
+little problem that I had is one of them
+I hope you find some value in
+understanding o limits to think about
+limits um yes and with this incident
+being stressful and potentially
+dangerous for my business still
+ultimately led to a lot of positive
+outcomes which is also important I want
+to stress that right there's a challenge
+you overcome it and then you better
+yourself and the business gets better as
+well I think pocan is more resilient I
+implemented these safeguards and podan
+now is more robust and better equipped
+to handle unexpected usage patterns
+because I have limits in place and I
+have alerts in place that's the
+important
+part I
+also implemented a new notification
+system for limits and it has opened up
+more channels of communications with my
+users this little notification bar that
+I built well I built it in a way that
+it's flexible that I can display more
+direct notifications that I want to give
+to people and this will lead and already
+has led to better engagement and
+feedback from people because it's right
+there right on top of the screen I just
+had no use for it yet up until this
+point so I hadn't built it now I have it
+and now I can use it right it's a
+benefit for the business altogether and
+by segmenting my usage limits AC across
+these different plan tiers I've also
+created a clearer upgrade path for users
+who need more capacity if people are on
+my Essential plan they want more they
+want more emails they want more whatever
+I can tell them hey your first upgrade
+is free because right now I just
+implemented it right that they had no
+choice in this when they signed up for
+the service but next time you ask me for
+this I would like you to upgrade to the
+bigger plan so there's a financial
+benefit for the business and also more
+commitment from these people because
+they know okay I'm using it more and
+more I'm getting more value out of it
+this value is clearly proposed so I'm
+going to pay more money for it I've seen
+this happen with other features in poan
+several times already so I'm going to do
+it with these limits as well and then
+finally I guess as a Founder this
+experience has made me more proactive in
+anticipating potential issues not just
+in pin but in all my future endeavors
+right whatever I do I'm going to think
+about what actions can be taken or what
+automated actions can be instigated by
+my user that will cause potential
+problems for me down the road just
+thinking in edge cases or in
+consequences that's really really
+helpful so as I wrap up the story I
+guess I want to leave you with a few
+takeaways first one is always anticipate
+the unexpected that's what
+entrepreneurship is always be thinking
+about how your system could be used or
+misused intentionally or unintentionally
+by negligence really in ways you didn't
+initially Envision like I did not think
+that somebody would put up an alert
+alert for the word Google who does this
+this user de and they probably just
+wanted to check it out wanted to see
+like how many results there would be or
+whatever I haven't talked to them about
+it I've just made a couple changes to
+make it more feasible but like there are
+so many podcasts every given day there's
+50,000 podcasts that come in like
+there's thousands of them where people
+just say hey I googled this or then I
+went on Google so it will be triggered
+you have to think about data avalanches
+and yeah should have thought about it
+earlier and I think that's that's
+another point that you have to implement
+these safeguards very early don't wait
+for a crisis to put limits or
+Protections in place I think it's much
+easier to relax limits than to impose
+them after an issue arises and also like
+particularly if people pay for your
+business it always kind of stings a
+little bit if a new limit is added on
+top of what you thought was unlimited
+you might want to set these limits from
+the start to just be clear and you have
+to be transparent with your users about
+limits and restrictions clear
+communication can turn a potenti point
+of frustration like this into an
+opportunity for engagement hey I'm I
+reached my 25 emails a day very cool
+could I maybe refine my keywords a
+little bit so I get fewer notifications
+or could we turn this into a summary
+like all of these are communication
+opportunities that I have with my
+customers now when they see this little
+bar little banner and they see okay I'm
+getting too many emails what can we do
+and just stay flexible be prepared to
+adjust your limits and your policies as
+your product and user base evolves what
+works today might not be sufficient
+tomorrow I hinted at this earlier right
+if I go into bigger customers if I go
+into more Enterprise then I have maybe
+fewer customers but they're bigger so I
+can relax my limits so they overall kind
+of I sent the same amount of emails but
+it's just on more per customer of a
+basis the idea is if you go into
+different markets with different
+expectations your initial assumptions
+need to also change and the consequences
+of these assumptions the limits that you
+set need to change as well every
+obstacle you face in this particular
+path as an opportunity to make your
+product and your skills as a Founder
+stronger so lean into this always
+consider hm this didn't work or this is
+not going the way I thought why is that
+and how can I make this more useful to
+me remember building a successful
+software business is this continuous
+Learning Journey and Improvement you
+probably have noticed this like I been
+talking about my challenges on this
+podcast for months and every week
+There's Something New there's always
+something so and I embrace it I embrace
+these challenges I learned from them and
+I use them to build something even
+better every single time as for me I'm
+grateful for this experience it's
+reminded me of the importance of just
+staying Vigilant and proactive in
+product development think about what
+other people will do and who knows maybe
+this story will help you avoid a similar
+Pitfall in the future keep building keep
+learning and remember every challenge is
+an opportunity in Disguise just think
+about what people will do and you will
+know what to do yourself and that's it
+for today thank you for listening to the
+bootst founder you can find me on
+Twitter at aitar arv ID KHL you find my
+books in my Twitter course there too and
+if you want to support me on this show
+please tell everyone you know about
+pocan FM and leave a rating and a review
+by going to rate thisp podcast.com
+founder makes a massive difference if
+you show up there because then the
+podcast will show up in other people's
+feeds any of this will help to show
+thank you so much for listening have a
+wonderful day and bye-bye
+[Music]

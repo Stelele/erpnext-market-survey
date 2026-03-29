@@ -1,0 +1,51 @@
+{
+  "topic_id": 154006,
+  "title": "How to Create a Ticket from a New Communication with a Specific Sender",
+  "slug": "how-to-create-a-ticket-from-a-new-communication-with-a-specific-sender",
+  "category_id": 6,
+  "tags": [
+    "customization"
+  ],
+  "created_at": "2025-09-22T13:54:11.820Z",
+  "last_posted_at": "2025-09-22T13:54:11.965Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-to-create-a-ticket-from-a-new-communication-with-a-specific-sender/154006",
+  "views": 23,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "vietthang09",
+  "posts": [
+    {
+      "id": 481431,
+      "username": "vietthang09",
+      "name": "vietthang",
+      "created_at": "2025-09-22T13:54:11.965Z",
+      "cooked": "<p><strong>Issue Statement:</strong></p>\n<p>We are looking for a way to automate the creation of a new helpdesk ticket based on a new <code>Communication</code> record.</p>\n<p><strong>Issue Detailed Description:</strong></p>\n<p>A new ticket should be created in the helpdesk whenever a new <code>Communication</code> record is saved in our system. The key condition is that the <code>from</code> email address on the new communication must match one of our existing <code>Email Accounts</code> configured in Frappe.</p>\n<p>For example, if we have an <code>Email Account</code> for <code>support@example.com</code>, and a new <code>Communication</code> is created with <code>from_email='support@example.com'</code>, a new ticket should be generated from it.</p>\n<p><strong>Current behavior:</strong></p>\n<p>We have checked the standard <code>Email Account</code> settings, but they only seem to work for creating tickets from incoming emails, not from new <code>Communication</code> records created through other means (e.g., a custom script, API, etc.). We need this functionality to link communications from specific internal or system sources to our helpdesk.</p>\n<p><strong>Expected behavior:</strong></p>\n<p>Could you please provide guidance on how to achieve this? A <code>Server Script</code> on the <code>Communication</code> DocType seems like the most logical approach, but we need to know:</p>\n<ul>\n<li>What is the correct <code>before_insert</code> or <code>after_insert</code> event to use?</li>\n<li>What is the correct way to check if the <code>from</code> email exists in the <code>Email Accounts</code> DocType?</li>\n<li>What is the proper Frappe API call to create a new <code>HD Ticket</code> and link it to the <code>Communication</code>?</li>\n</ul>\n<p>Any assistance, including a code snippet or a link to relevant documentation, would be extremely helpful in implementing this custom workflow.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/vietthang09/{size}/90553_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 8,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

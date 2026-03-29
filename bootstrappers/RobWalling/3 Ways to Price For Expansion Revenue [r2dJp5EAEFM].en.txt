@@ -1,0 +1,26 @@
+﻿are three typical ways to price your SAS
+one is to have what's called a value
+metric so this is where you have a
+number that if people exceed that they
+move up to the next tier so for email
+service providers this is subscriber
+count for crms like Salesforce and
+close.com that is the seat count so as
+you add more seats it goes up and for
+box and Dropbox it's both seat based and
+it's based on the amount of storage say
+the gigabytes or terabytes that you're
+using the second option which is less
+ideal is feature gating we'll look at
+some examples of this in just a second
+but feature gating is where you may not
+have a value metric but if someone wants
+XYZ feature like a Salesforce
+integration then they move up to the
+next pricing tier and the third most
+common option is to have both a value
+metric and feature dating it can get
+really complicated quickly so you have
+to be careful with it but those are the
+three options that most SAS companies
+stay with

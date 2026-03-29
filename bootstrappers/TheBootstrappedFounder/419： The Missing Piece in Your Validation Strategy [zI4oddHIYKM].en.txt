@@ -1,0 +1,572 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+[Music]
+Today we will dive into the kinds of
+alternative solutions that most founders
+miss when they attempt to validate their
+ideas. A quick word from our sponsor
+before we get started. That's
+paddle.com. I use Paddle as my own
+merchant of record for all my SAS
+businesses. They take care of all the
+taxes, currencies, and transactions, all
+that kind of stuff, so I can focus on
+building my product. Now, Paddle
+released a new guide just a few days
+ago, and I think you should check it
+out. It's called the Grow Beyond Black
+Friday guide, and it contains very
+actionable strategies for payment
+conversion and billing tactics to
+maximize revenue and retention in the
+long term, but it's about seasonal sales
+and how to use them effectively. It's
+really interesting. So, if you have
+anything to sell, check out paddle.com
+as your payment provider. And the link
+to this guide is going to be in the show
+notes.
+[Music]
+A lot of earlystage founders have
+understood mostly because more and more
+people are talking about their early
+stage strategies now that you need to
+validate your ideas. That's very
+important. As a founder, you need to
+make an effort to figure out if the
+thing that you're planning to do is
+actually reasonable to attempt.
+Validation has become a very important
+step and is absolutely worth doing prior
+to starting to build. I know a lot of
+people love building, but you need to do
+some validation. That much many people
+have understood. Yet, here's where
+things actually get interesting because
+often enough validation looks like
+checking if people have this problem
+that you're trying to solve, right?
+Checking if people have the challenge
+that your idea helps them overcome. And
+if you find people complaining about it
+somewhere, if you find people mentioning
+that they struggle with this, that
+usually is a sufficient reason to build
+a software as a service solution, that
+is validation. People then bring that
+so-called validated thing to market and
+they realize that something frustrating
+is happening here. Even if they directly
+engage people in their market, even if
+they directly show this product and
+onboard people into it, they still don't
+get a sale. And people stick with what
+they're currently doing even though you
+have something that from your
+perspective as a founder is much better
+and the thing that they use is much
+worse, much more expensive, much more
+complicated, much less scalable. So why
+is that? What I have seen and I do see
+this a lot when I talk to my consulting
+clients who show me a view into their
+business and their strategies is that
+validation, their validation is often
+missing a critical and a central step.
+They look for challenges. They look for
+proof of pain. That's good. But they do
+not investigate alternative solutions.
+They might look for existing software as
+a service solutions in that field and
+see those either as potential
+competitors or as an inspiration for
+solving problems. But what they
+absolutely don't do is investigate
+nonsas alternative solutions. So let me
+walk you through the alternative
+solutions to software as a service
+businesses that I have found in the past
+for my own projects and the projects for
+my consulting clients. Because when you
+go through your idea validation stage,
+when you try to validate that there's a
+solid market and a solid group of
+prospects for your business, you don't
+just need to understand what they lack.
+You also need to understand what they
+make do with. The most commonly
+overlooked alternative to your product,
+to a software product, and the
+alternative solution to the challenge
+that your prospects face is the extreme
+DIY, the pen and paper, the custom
+handcrafted Excel sheet. You would be
+surprised how far people get with just a
+single Excel sheet or a Google doc sheet
+that tracks everything that they need to
+know and then it does all the math, all
+the data massaging. Excel or Google
+Sheets. I'm just going to use Excel as
+the collective term here. I think that's
+one of the most flexible tools when it
+comes to handling data. And people
+through sheer necessity have figured out
+how to use that particular tool. It's
+not a sexy tool. It's not a fun tool,
+but it's likely your actual biggest
+competitor in most fields and
+industries, more than you could imagine.
+I've seen Excel or a spreadsheet just
+like it could be Air Table, Google
+Sheets or whatever being used in the
+construction industry by medical
+professionals, by authors, by writers,
+by hairdressers, by lifeguards. The
+nature of data that needs to be
+segmented, sorted, collated, and grafted
+makes Excel the tool for almost anybody.
+And it's so flexible that most business
+processes can at least be partially
+mapped into a spreadsheet to a certain
+degree. But for most businesses, that is
+enough to get the job done. And that's
+something that we don't really think
+much about when we talk about product,
+right? The job to be done that your
+customer has. We talk about solutions,
+but jobs, yeah, they sometimes get the
+back seat. Everybody has a job.
+Everybody has some input data that needs
+to be transformed into output data.
+Everybody needs to apply some kind of
+process to a thing. So it would be
+interesting to look into this a little
+bit more to understand alternative
+solutions as well. So people get a
+request for request for proposal maybe
+as an input and the output is either the
+project itself or some kind of artifact.
+It's just an example and in between they
+do their job and some people get a list
+of invoices. The output is bookkeeping.
+Other people get a script. The output is
+a fully realized podcast episode. That's
+just how products work, right? The job
+to be done exists and the product does
+that job. So to be able to do a job,
+people have to have a mental model of
+the process. They have to know exactly
+which steps to take to get from this
+input, whatever it might be, to the
+output that is expected of them. And in
+almost all cases, that mental model has
+to exist fully established in the mind
+of the person executing the work. This
+means that when an organization uses
+software tools, they try to map as much
+of that internal mental model into the
+software tool as possible. The Excel
+sheet that contains all this data that a
+company would use in their extreme DIY
+that does not just contain data. It
+contains an attempt at mapping an
+internal mental model of a process and
+the flow of data between the input and
+the output into a very flexible but not
+very customizable tool like Excel or
+Google Sheets.
+Here's the thing with that. The act of
+mapping that model into a spreadsheet is
+extremely costly. A spreadsheet that has
+been in a company that's been tracking
+the internal process of that company,
+that is extremely hard to replace. Not
+only does it contain all the historical
+data that's relevant for internal
+analysis, that kind of stuff, but it
+contains the probably very painfully
+learned lessons of trying to both
+establish a process and map that process
+into a software tool. You'll find that
+these DIY things are the best they could
+do. It's really like a company's trying,
+right? They're trying to find the best
+solution and this has proven to be the
+best solution. It's a result of a long
+journey of tiny experiments to make it
+work. So, we tend to forget the
+complexity that goes into configuring
+this simple in quotes spreadsheet. And
+that's what you're competing with.
+You're not competing with the
+spreadsheet, right? You're not competing
+with Google Docs. You're competing with
+the months and years that it took to get
+that spreadsheet to where it is. Unless
+your solution is significantly more
+maintainable and even more apt at
+mirroring this process that your
+prospect, your customer already have,
+the cost of switching and setting up
+again a mapping of the internal process
+into your tool is likely going to be too
+high for them. That's why they stick
+with their weird spreadsheet. The
+competitor here is the effort. the
+spreadsheet, the homegrown DIY solution
+is a massive competitor with a big moat
+around it. There's just time and pain
+that people spend to create it. Which is
+why when you look for alternative
+solutions, you have to very much
+investigate if people have actually
+attempted this transition prior. If
+people have attempted to solve this
+transition from spreadsheet to software
+tool to homegrown tool or software
+project. And if that is the case, you
+have to figure out why they failed. And
+this really differs between industries.
+In some industries, the spreadsheet, as
+complicated as it might be, is still
+replaceable with the software business.
+There's still a chance that whatever you
+build is worth building because it does
+effectively improve on the existing
+solution for people. But if existing DIY
+solutions are very complex due to the
+complexity of the underlying process
+that they map onto, then a lot of
+businesses likely thought they could
+have solved it in the past and then
+failed. Right? It just depends on the
+complexity and that's something that you
+will likely not completely understand
+when you start a business because you
+kind of have this vision of yeah it
+would be cool if software could do this
+but you forget all the pain and all the
+suffering that went into establishing
+this process in the first place. So when
+I look for competing solutions for
+alternative solutions in the space I
+first look for the amount and intensity
+of DIY where do people share their weird
+self-made solutions then I look for
+attempts at solving this problem where
+people have tried to build a business
+that have failed and I try to find the
+founders for whom this failure occurred
+and learn from them about the failure
+and the specific reasons they failed.
+It's a pretty significant thing to do
+when you're building or trying to verify
+the potential future existence of a
+business to look for people who have
+failed and then investigate why that's
+the case. Sometimes there are websites
+like in our community in the software
+community there's like failor.com where
+you can find interviews of people in
+this particular field. You can also find
+this in other places. Usually, it's the
+best idea here to ask experts in that
+field if there were any attempts. If
+they ever tried a solution for this and
+what that was called and it's not around
+anymore, so you can kind of look into
+it. Just figure out the name of the
+founder. Maybe reach out to them. Maybe
+they've heard of them. Maybe they're
+still connected to them in some way.
+Most importantly, don't assume that just
+because there is no current solution,
+you will find success with yours, right?
+That's a validation error. A lot of
+people may already have tried and failed
+because they assumed that their solution
+would be enough. But the resistance to
+moving from DIY to hosted or software
+solution is too high and has been
+reliably too high in this industry. So
+let's maybe dive into a couple other
+alternative solutions to investigate
+here. I think there's a a list of things
+that I always keep a lookout for. First
+thing is legacy software. People may
+have had some software that was built in
+the early 2000s that had their business
+process mapped custom into the software
+for them. It's installed on their
+Windows XP machines and they will keep
+using it for the foreseeable future.
+It's just the way they're going to run
+their business. So only once that
+software breaks or that process changes
+in a way that the software doesn't help
+anymore will they ever think about
+finding a new solution. And since you
+can't control when that happens, these
+customers are not actually prospects of
+your business. at least not at this
+point. There's a strong external reason
+for them to either opt into or out of
+your sales process and you have no
+control over that. Still, you should
+tell them that there is a solution on
+the way that they can look into should
+they ever need to. So, there's a kind of
+customer education here that you can do,
+but I would not put too much effort into
+reaching out continuously. Like they
+will come to you if they know about you
+once you've established that you exist
+for when their process changes. Now
+there's always obviously direct SAS
+competition in a field. Of course you
+actively need to research the software
+as a service space for actual
+competitors. Now when you do this one of
+the most important things that I would
+look at is not the specific feature set
+or UI or workflow but what I think is
+even more important is understanding
+what their positioning is and who they
+are aiming at. Successful companies will
+have understood that they're best at
+serving a particular part of the market
+like a niche within the niche with their
+software product. So look at how they
+talk and who they talk to and how that
+reflects on the product that they offer.
+What's the input data they work with?
+What's the output? What's the result
+that the product facilitates and what do
+they not offer? How easy or how hard is
+it to integrate this product with other
+solutions in the space? Is it simple or
+is it hard to export and import data? Do
+they try to lock people in or do they
+make it open? Do they have integrations
+into workflow systems? Do they try to
+keep all this data internally? That kind
+of positioning both external and
+internal gives you a lot of insight
+about what the expectations of the
+market are. Maybe also how expectations
+in that market differ from subgroup to
+subgroup. Important to realize, right?
+You can't go for the whole market. You
+always have to start somewhere. And most
+businesses make a pick and then they see
+it through. Now, open source solutions
+are another thing to look into. When
+you're building software, it is likely
+that somebody in the late 90s has tried
+to build a maybe less functional but
+still pretty wellworking version of that
+software before. Like the concept of
+solving your IT problem, solving your
+technical problems isn't new. And
+currently, the thing that you want to
+build likely exists in several different
+varieties for JavaScript as an example
+project that people built upon
+somewhere. Right? It's just in its first
+little iterations, the first steps, it
+is probably somewhere. So, as much as
+operating open source things and
+maintaining them is costly in terms of
+time, they are free. And for a lot of
+people who struggle financially, we're
+not yet in a wonderful position to have
+a lot of budget. These free solutions
+are preferable to a paid solution. Even
+if the paid solution has a better
+workflow or integrations or interface
+and ends up being cheaper in terms of
+labor in the end, people will struggle
+through the weird completely arbitrary
+interfaces of someone's pet software
+project if that is freely available to
+them. That's just the reality of a
+market, particularly if you're selling
+to people with a restricted budget. So
+consider that open source is a
+competitor too. It's hard to compete
+with something that is free. So you have
+to compete on a level that is not price
+agencies and services are the other side
+of the thing, right? It's not very
+obvious particularly because we think in
+the software as a service world in terms
+of products, but there's an actual
+agency or service or consultant that
+might be tasked with this job and that's
+somebody you would replace with that
+software as a service offering. So
+you're kind of competing with them. It's
+generally a thing when you think of jobs
+to be done. Anybody could do this job. a
+person, an agency, a couple people, an
+intern, a software product, an AI,
+doesn't matter who does the job that is
+to be done as long as it gets done. So,
+if you think about your products in
+terms of a job to be done, you're
+replacing a full job that somebody is
+executing with your software and that
+might already be somewhat outsourced to
+an agency who might then outsource it to
+a contractor. So, think about that too,
+right? An agency gets the input data.
+They're expected to provide the output
+data. And how they do this is up to
+them. Let me give you an example here
+because I think it's very interesting.
+In the writing world, like writing
+books, people are wildly creative and
+vision. People want to, you know, get
+their vision onto paper and then
+distribute it to people. They're very
+focused on the vision of the book, the
+stories, narratives, characters, or if
+it's a non-fiction book, like the
+insights and all that. But somebody
+needs to proofread that. somebody needs
+to edit this and make sure that
+consistency exists, spelling errors are
+removed, formatting is okay, and usually
+that person is not the author themselves
+because they don't really concern
+themselves with that. It's too
+technical. They're creative people or
+experts. They're not book people. They
+might also just not be capable of
+looking at their pros from a neutral
+professional distance. So, there are
+probably tools to do this at this point,
+and you could likely build one that's
+much faster and probably just as
+reliable as a person or an agency, but
+that's who you're competing with. the
+people who will read this book, not care
+about the contents, but only look at
+spelling. It's going to be the pay 100
+bucks and get this in two days kind of
+agency you're competing with. So, you
+will have to have an amazing offer that
+is much faster, much cheaper, and more
+reliable to compete with the already
+pretty optimized processes that these
+agencies have. And that's a fairly
+saturated space as well. So, think about
+this like who might be doing this for
+people right now. And finally, let me
+bring up the most painful alternative to
+a problem that we as founders have to
+live with, and that is doing nothing.
+Some people will just keep doing what
+they're doing and not buy any solution
+to their problem because to them, living
+the pain is not a problem. Some people
+cannot handle the pain and will look for
+a solution. But a lot of people will
+say, "Yeah, it's just part for the
+course, just part of the experience. You
+have to suffer through this so you can
+get to the final result." People will do
+nothing. And that is an alternative
+solution to a problem. They're just
+going to suffer through it. And that's
+something you cannot deal with. No
+amount of customer education will move
+people who have chosen to just deal with
+the pain and not deal with the problem.
+So which of these can you work with?
+Well, I think the best ones to deal with
+are people who are using legacy and
+incumbent solutions where you can build
+something better like tangibly better
+for them. If you understand that process
+perfectly and then are able to map it
+directly into your product, you can deal
+well with people who are using direct
+competitors. You just have to fight the
+right niche that is currently
+underserved or unserved or adjust your
+positioning or just serve them slightly
+better than competitors. That is usually
+a way. And you can also deal well with
+people who are just using general tools
+like spreadsheets for mapping processes
+that are not extremely complicated. The
+more complicated it gets, the harder it
+will be to get people to move away from
+their DIY solutions. Everybody else is
+really tough to deal with. Ultimately,
+understanding all of these alternative
+solutions gives you a lot of insight
+into who your actual competitors are.
+That's not often who you think it is,
+right? You'll see a lot of information
+about price anchors, willingness to pay,
+unwillingness to pay in the markets as
+well. If you just analyze these other
+solutions, if everybody in your field
+uses open- source stuff and there is no
+SAS that could ever exist in this field,
+even though people tried, well, that
+might not be a good industry to be in
+right now with your really cool new
+thing. You will also see switching costs
+and friction, maybe even from stories of
+people who have done this in the past.
+And investigating all of this, you will
+find things like feature gaps and market
+gaps. So, there's something positive
+about this, too. A feature gap is
+something you can exploit to serve a
+market that's underserved. And a market
+gap is something where even with an
+existing feature set that other tools
+might have, you can replicate and serve
+them better than anybody else. Most
+importantly, you will understand why
+people stick with worse solutions
+instead of taking the obviously better
+one. Why do they stick with something
+that doesn't work as well as something
+that could? That's what you will
+understand. They're probably underlying
+reasons that you might not be aware of.
+And you will figure all of this out by
+actually looking for this. Biggest
+mistake, only looking at direct SAS
+competitors while ignoring the 60% or so
+of your market that might just be using
+spreadsheets and Slack. So don't make
+that mistake. Investigate the
+alternatives, understand what you're
+really competing against, and you have a
+much clearer picture of whether your
+idea can actually succeed in that
+market. That's it for today. You can
+find me on Twitter at Avitk Vl.
+And if you want to know what people are
+saying about your brand on over 4
+million podcasts, check out Podscan.fm
+where we track mentions in near real
+time with a really powerful API that
+turns podcast conversations into
+actionable data. If you're hunting for
+your next business idea, you can get
+them delivered fresh from the podcast
+world at ideas.podscan.fm
+where we find the best startup
+opportunities directly from hundreds of
+hours of expert conversations every day.
+Share this with anybody who needs to
+stay ahead of the conversation. Thanks
+so much for listening. Have a wonderful
+day.

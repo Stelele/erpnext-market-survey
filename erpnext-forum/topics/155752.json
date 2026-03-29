@@ -1,0 +1,53 @@
+{
+  "topic_id": 155752,
+  "title": "🚀 Introducing Frappe/ERPNext Docker Manager – a fully automated solution to set up and manage your ",
+  "slug": "introducing-frappe-erpnext-docker-manager-a-fully-automated-solution-to-set-up-and-manage-your",
+  "category_id": 11,
+  "tags": [
+    "erpnext",
+    "frappe",
+    "docker"
+  ],
+  "created_at": "2025-10-19T02:22:14.819Z",
+  "last_posted_at": "2025-10-19T02:22:14.897Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/introducing-frappe-erpnext-docker-manager-a-fully-automated-solution-to-set-up-and-manage-your/155752",
+  "views": 118,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 2,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "devinvento",
+  "posts": [
+    {
+      "id": 484392,
+      "username": "devinvento",
+      "name": "Hossain Mahmud",
+      "created_at": "2025-10-19T02:22:14.897Z",
+      "cooked": "<p><img src=\"https://discuss.frappe.io/images/emoji/twitter/link.png?v=15\" title=\":link:\" class=\"emoji\" alt=\":link:\" loading=\"lazy\" width=\"20\" height=\"20\"> <strong>GitHub:</strong> <a href=\"https://github.com/devinvento/frappe-erpnext-docker-manager\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">GitHub - devinvento/frappe-erpnext-docker-manager</a></p>\n<hr>\n<h3><a name=\"p-484392-what-it-does-1\" class=\"anchor\" href=\"#p-484392-what-it-does-1\" aria-label=\"Heading link\"></a><img src=\"https://discuss.frappe.io/images/emoji/twitter/puzzle_piece.png?v=15\" title=\":puzzle_piece:\" class=\"emoji\" alt=\":puzzle_piece:\" loading=\"lazy\" width=\"20\" height=\"20\"> What It Does</h3>\n<p>This project automates the entire process of installing, configuring, and managing <strong>Frappe/ERPNext using Docker</strong> — with a single, interactive script.<br>\nNo more manual setup or long commands — just run it, and your stack is ready!</p>\n<h3><a name=\"p-484392-key-features-2\" class=\"anchor\" href=\"#p-484392-key-features-2\" aria-label=\"Heading link\"></a><img src=\"https://discuss.frappe.io/images/emoji/twitter/gear.png?v=15\" title=\":gear:\" class=\"emoji\" alt=\":gear:\" loading=\"lazy\" width=\"20\" height=\"20\"> Key Features</h3>\n<ul>\n<li><img src=\"https://discuss.frappe.io/images/emoji/twitter/spouting_whale.png?v=15\" title=\":spouting_whale:\" class=\"emoji\" alt=\":spouting_whale:\" loading=\"lazy\" width=\"20\" height=\"20\"> <strong>Fully Automated Setup:</strong> Installs Docker, Bench, and dependencies automatically.</li>\n<li><img src=\"https://discuss.frappe.io/images/emoji/twitter/light_bulb.png?v=15\" title=\":light_bulb:\" class=\"emoji\" alt=\":light_bulb:\" loading=\"lazy\" width=\"20\" height=\"20\"> <strong>Simple Commands:</strong> Start, stop, restart, or update containers easily.</li>\n<li><img src=\"https://discuss.frappe.io/images/emoji/twitter/building_construction.png?v=15\" title=\":building_construction:\" class=\"emoji\" alt=\":building_construction:\" loading=\"lazy\" width=\"20\" height=\"20\"> <strong>Multi-Site &amp; App Support:</strong> Create multiple sites and install custom apps in seconds.</li>\n<li><img src=\"https://discuss.frappe.io/images/emoji/twitter/locked_with_key.png?v=15\" title=\":locked_with_key:\" class=\"emoji\" alt=\":locked_with_key:\" loading=\"lazy\" width=\"20\" height=\"20\"> <strong>Environment Isolation:</strong> Keeps your ERPNext instance stable and clean.</li>\n<li><img src=\"https://discuss.frappe.io/images/emoji/twitter/toolbox.png?v=15\" title=\":toolbox:\" class=\"emoji\" alt=\":toolbox:\" loading=\"lazy\" width=\"20\" height=\"20\"> <strong>Backup &amp; Restore Tools:</strong> Easy data safety options included.</li>\n</ul>\n<h3><a name=\"p-484392-perfect-for-3\" class=\"anchor\" href=\"#p-484392-perfect-for-3\" aria-label=\"Heading link\"></a><img src=\"https://discuss.frappe.io/images/emoji/twitter/laptop.png?v=15\" title=\":laptop:\" class=\"emoji\" alt=\":laptop:\" loading=\"lazy\" width=\"20\" height=\"20\"> Perfect For</h3>\n<p>Developers, DevOps engineers, and ERPNext administrators who want:</p>\n<ul>\n<li>Faster deployment on any server (Ubuntu-based)</li>\n<li>Hassle-free updates and maintenance</li>\n<li>A reliable, repeatable installation experience</li>\n</ul>\n<h3><a name=\"p-484392-open-source-actively-developed-4\" class=\"anchor\" href=\"#p-484392-open-source-actively-developed-4\" aria-label=\"Heading link\"></a><img src=\"https://discuss.frappe.io/images/emoji/twitter/globe_showing_europe_africa.png?v=15\" title=\":globe_showing_europe_africa:\" class=\"emoji\" alt=\":globe_showing_europe_africa:\" loading=\"lazy\" width=\"20\" height=\"20\"> Open Source &amp; Actively Developed</h3>\n<p>I’m continuously improving the project — feedback, issues, and contributions are very welcome!</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/devinvento/{size}/91446_2.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 38,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

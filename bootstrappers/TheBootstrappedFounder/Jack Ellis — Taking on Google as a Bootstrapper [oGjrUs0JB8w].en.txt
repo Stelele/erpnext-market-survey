@@ -1,0 +1,1971 @@
+﻿Arvid Kahl: Today, I'm talking
+to Jack Ellis, the co-founder of
+Fathom Analytics, a privacy
+conscious web analytics business
+that I personally use for a lot
+of my web properties. The
+company that Jack co-founded
+with Paul Jarvis competes
+directly with Google, under
+linchpin advertising product.
+That's a pretty tall order. And
+we will chat about Jack's role
+in a growing successful software
+business and just how much he
+hesitates to go from coder to
+manager at this very point. We
+dive into choosing reliable
+dependencies to power and always
+on SaaS business with high
+expectations and how to deal
+with migrating customers from
+Google to Fathom. But before we
+dive in, let me thank the
+sponsor for this show. Imagine
+this, you're a founder who's
+built a solid SaaS product,
+acquired customers and it's
+generating consistent monthly
+revenue. The problem is that
+you're not growing for whatever
+reason, lack of focus or lack of
+skill or just plain lack of
+interest and you feel stuck. So
+what should you do? Well, the
+story I would like to hear now
+is that you buckled down and
+somehow reignited the fire. You
+got past yourself and the
+cliches and started to work on
+the business rather than just in
+the business. You started
+building an audience and moved
+out of your comfort zone and
+sales and marketing. And in six
+months, you've tripled your
+revenue, that would be a great
+story. But the reality is not as
+simple. Situations may be
+different for every founder
+facing this particular kind of
+challenge. But too many times,
+the story ends up being one of
+inaction and stagnation until
+that business becomes less
+valuable or worse, worthless. If
+you find yourself here or you
+think your story is likely
+headed down a similar road, I
+offer you a third option.
+Consider selling your business
+on acquire.com. Capitalizing on
+the value of your time is a
+smart move and acquire.com is
+free to list. They have helped
+hundreds of founders already. So
+you would be in good company. Go
+to acquire.com and see for
+yourself if this is the right
+option for you. And now, here's
+a deep dive into a successful
+technical SaaS business. Here's
+Jack Ellis.
+In building Fathom Analytics,
+you've chosen to directly
+compete with Google on one of
+their linchpin products for
+their whole advertising empire.
+And I think that's a bold move.
+I was always very impressed that
+you went for that. And I wonder
+like for you, as a business, a
+co-founder and an engineer. How
+do you feel about that? How do
+you feel about the fact that
+you're doing the engineering
+work of a whole Google division
+with a very, very small team?
+How is that going for you?
+Jack Ellis: Oh, great question.
+Yeah, okay, cool. So it's going
+good. But we're obviously
+running into the point where
+we've got a huge amount of
+customers. And there are
+different segments within our
+customer base and one segment is
+happy with everything as is and
+they maybe want a few tweaks.
+You've then got other segments
+that just want more and you sort
+of have to decide what you want
+to go for. And when each each
+feature you add and I've said
+this before publicly, but each
+feature you add, it unlocks this
+new potential that you didn't
+know existed. People get hooked
+in on that feature. And then
+suddenly, you have this roadmap
+that one developer cannot do.
+And so we have started hiring.
+We have one full time engineer.
+We have a part time senior
+engineer, who is about to get
+into our code base. He is
+already handling EU Isolation
+for us. And honestly, this is
+very topical because I can't do
+everything anymore. And that's
+kind of that's, I guess not. And
+that's not something I'm used to
+because I'm used to just sitting
+in coding and I can ship like
+crazy. But now, you know, we've
+got these enterprise deals that
+are coming in and we're saying,
+okay, we should at least explore
+these. And maybe we don't pursue
+them but we should explore them.
+They're coming in for multi
+billion dollar companies. And so
+I'm handling that and dealing
+with the you know, whatever it
+may be and sure, we could
+outsource it, but there isn't
+enough to outsource them. My
+engineering time's going there.
+And then I've suddenly got 30
+pull requests that I've got to
+review. And I'm thinking at what
+point do I get to sit down and
+do some code. And so I'm very
+much and this has been
+completely transparent with you.
+I'm very much transitioning into
+more of a manager CTO role and
+we are planning on hiring more.
+We're very careful with how we
+hire. We don't predict growth
+and say, oh, we're gonna grow
+this amount so we can afford to
+hire. We're very careful. We
+make sure we've got the money by
+a longshot before we start
+hiring, so that's how it's
+going. It started off, you know,
+indie hacker, you know how it
+is. You built your own SaaS. You
+can sit down and hack, but you
+definitely know about the fires
+that happened. That fire can
+take a lot of energy and that
+big feature you wanted to focus
+on, you haven't got the energy
+or the focus or the time for
+that because you're putting out
+a fire. And I know you can
+relate to this because I've read
+your stuff. So that's how it's
+going. I think I have to let my
+ego go a little bit because I do
+take a lot of pride in the fact
+that you know, I like coding and
+it's absolutely fine. So that's
+how it is going. We are going to
+grow. We're not going to grow
+into Google. But we're going to
+grow in a way that we can keep
+up with customer demand and
+expectations and that sort of
+Arvid Kahl: It's interesting
+that you have to shift your
+thing. So
+perspective a little because I
+do remember on the podcast that
+you have with Paul, Paul Jarvis.
+You were talking about staying
+in the job you like and not
+promoting yourself out of your
+job. That was something that you
+elaborate on because that was a
+topic that you had, right? In
+reflecting on where you've come
+from and where you are right
+now. So this seems to sound like
+you're just shifting your
+perspective a little into what
+needs to be done to keep the
+business growing.
+Jack Ellis: You've done your
+research, Arvid. Yeah. Okay. So
+you're absolutely right. That
+was my view before, is I want to
+stay at, you know, I like
+programming, that's my job.
+Ultimately, I care more about
+our customers being happy. And I
+genuinely we have awesome
+customers. And I've said before,
+like sure that the ones that,
+you know, IBM or whoever else,
+they don't talk to us. They talk
+to us a little bit. But it's not
+the same interaction as we have
+perhaps with you as a customer
+or someone else and you got that
+really nice relationship, that
+gives me a kick. And so if we
+can make our customers happier
+and we get more people away from
+Google and we can, you know,
+fill in those gaps that people
+say, oh, I really want this
+feature. And to do that means
+that I need to take a management
+role. My top priority is the
+customer is not, oh, am I
+coding? Because like, I can live
+without coding. And
+occasionally, I will code. I'll
+still code like today, I'm going
+to code some SSL stuff. But it's
+like, my full time job isn't
+coding. And so I have to realize
+that, like, if I want to make
+customers happy, that's a
+transition I need to make.
+Alternatively, me and Paul have
+spoken about this. And you know,
+Paul's not who knows his stuff,
+but it's a case of okay, then
+well, if you want to code all
+the time, that's absolutely
+fine. We'll bring someone in to
+take over your responsibilities.
+And I don't like that, like I
+like being involved in the
+direction. I like being involved
+in the management. And I
+realized, oh, actually do a
+hybrid role where you're coding
+way less or maybe none some
+weeks, but you're able to steer
+the business and be involved in
+everything else. So yeah, my
+opinions changing all the time
+and I'm changing my perspective
+a lot, keeping an open mind. And
+I'm seeing how it feels because,
+you know, I don't know what it's
+gonna feel like. I'm only just
+starting to do that. So
+honestly, we'll see. And thank
+you for pointing out how it's
+changed because that's very
+interesting to me as well.
+Arvid Kahl: Honestly, just
+listening to your podcasts, I've
+been doing this for a long
+while. I mean, ever since we had
+the puppy and that's now a good
+year or so, I've been walking a
+lot. Before I was just sitting
+in my office. But now I'm just
+out for an hour a day just
+walking around with this beast
+that sniffs everything and will
+try to eat it. So while that
+happens, I'm just ingesting the
+stories and journeys of other
+people and yours is one of them.
+I mean, if you were to release
+more episodes, please, then it
+would be more regular. But you
+know, it's
+Jack Ellis: Trust me, we talked
+about this back on it.
+Arvid Kahl: Good. Don't
+pressure, I mean, you still have
+a business to run, right? I'm
+always talking to people who are
+thinking they want to build in
+public. The building is an
+important part of the building
+in public part, not just the in
+public part, right? Talking
+about something, you have to do
+something to be able to talk
+about it. So please do
+interesting stuf so you can have
+interesting stories then
+afterwards. But what I'm trying
+to get to is over the the time
+that I've been listening to the
+podcast and your stories, you
+can see how perspectives change.
+And that is, I guess, the
+prerogative of a founder. You
+just have to adapt and adopt new
+perspectives whenever you need
+to change. But the perspective
+on what you want it to be
+probably is still the same, like
+do you still consider even
+though you're now going into
+more managerial work, do you
+still consider this a lifestyle
+business for yourself?
+Jack Ellis: Oh, absolutely.
+Yeah, you should see the
+conversations behind the scenes.
+So like the enterprise stuff,
+Paul doesn't want to even
+explore that. Like he's doesn't
+want to put any time into that.
+For me, it's a case of let's
+explore it and see what it's
+really like. And so we have this
+balance of we do explore things.
+We're not afraid to explore
+things and see how they affect
+our life. If we land you say an
+enterprise deal that I'm
+currently working on, which is
+don't want to say it's I
+wouldn't call it working on.
+It's just happening. If it
+happens and it turns out to be
+good, well, there's a lesson
+learned. We can actually cope
+with doing that because there's
+substantial amount of revenue
+from one customer. And if it
+doesn't work, then we course
+correct and we're always course
+correcting. And it's not just us
+anymore. So we're obsessed with
+the people who work for us
+having a good life. We have
+flexible hours, they can work
+whenever they want. We just had
+full time customer support
+hired. He can work wherever he
+wants, just get the work done.
+So the lifestyle extends across
+the entire company and it's very
+much a lifestyle business and no
+one should be getting burned out
+or stressed or any of that. And
+that comes before anything and
+we're healthy company. Why do we
+want to ruin everyone's lives
+and try and chase these
+ridiculous goals because we
+haven't got investment? And
+that's a nice thing, we're not
+chasing these ridiculous goals
+or we're stressing and agonizing
+about hitting them. Some people
+like that. And I'm not saying,
+you just got to be aware of what
+works for your lifestyle.
+Because for some people a
+lifestyle business would be, I
+need to grind in order to feel
+complete in order to feel like
+I'm fulfilled. And that's like,
+I don't know, talk with your
+psychiatrist if you've got
+problems with that, if that's
+fine for you. And be aware of
+the limits of that is what I
+always think. But I always come
+back to what's the lifestyle for
+me and Paul and then it's like,
+what's the lifestyle for the
+people that work for us. And
+that's where we, that leads us
+really.
+Arvid Kahl: Yeah, I guess not
+having investors makes this very
+easy to put this value at the
+core of your business and not in
+investor returns or anything
+like this, right?
+Jack Ellis: Yeah, exactly. It's
+a big thing.
+Arvid Kahl: I'm glad. I'm glad
+you do this. But one thing that
+comes to mind immediately when
+you talk about being
+bootstrapped, but also having
+enterprise customers, you have
+to guarantee a lot of stuff,
+right? You need an always
+running service at that point.
+And you are on a bootstrap
+budget still, right? You don't
+have these gigantic investor
+millions just laying around. How
+do you do this? Let's maybe dive
+a bit more in the technical side
+at this point because I'm just
+super excited as an ex
+developers kind of what I would
+call myself because I rarely get
+to code. Just like you, I moved
+into the managerial position of
+my own life. Now, I kind of
+outsource these things to other
+people because I have a media
+business that I'm taking care of
+so, very little coding, sadly to
+be done for me. But I'm still
+excited about this stuff. And
+you've been both in what your
+courses are doing and what
+you're constantly sharing on
+Twitter and just how good Fathom
+is as a product. I'm excited to
+know, how do you keep this
+always running servers on a
+budget? What's the tech buy in
+that?
+Jack Ellis: Yeah, that's a good
+question. A lot of engineers
+will self host things and
+they'll build it themselves. And
+they'll manage it do the
+updates, that sort of thing.
+From the beginning, I was very
+aware of my limitations and
+aware of what I wanted to spend
+my time on. I have no doubt in
+my mind that engineers at these
+hosting companies like
+originally it was Heroku. Now
+it's AWS. And I think it's a
+mixture of things. But those
+engineers are better than me,
+those DevOps engineers, whatever
+you call them, the people that
+update the servers, all of that
+stuff, they're better than me.
+And I'm not going to be able to
+compete with their level of
+knowledge. So we actually pay a
+premium for the most highly
+available services. So we pay,
+people would laugh at this, we
+pay so each page view that comes
+in, it goes through a lambda
+request because for us, it's
+this beautiful managed service.
+And, sure, you can use
+containers and stuff, but it's
+just not something we've got
+into. And maybe that's the
+future. But for now, we're using
+lambda. So Amazon Web Services,
+basically maintains that for us
+and keeps it up to date and make
+sure that we're good to run. And
+it's auto scaling and blah,
+blah, blah. And then we use a
+enterprise grade database, which
+we've got a lot of support from
+their team as well, where this
+database can scale to millions
+of requests per second. It's
+used by one of the biggest banks
+in the US that handle
+transactions. It's a big deal,
+this database and we just, it's
+highly available. And so the
+only other thing we have is EU
+isolation for GDPR compliance,
+where we have Hetzner running
+servers. We have someone called
+Lucas who manages that. And
+Lucas is like a top tier DevOps
+engineer who were just lucky to,
+I'm lucky to know him and to
+have that relationship where we
+could actually bring him on part
+time. And so Lucas manages that.
+And he is the same level as
+Amazon Web Services engineers.
+So that was about me knowing my
+limitations and we want to pay a
+premium for the best possible
+uptime. We don't want you losing
+your analytics. And that's a
+really big point where we stand
+out. Our competitors can't match
+us. You see their downtime,
+right? I don't, we don't have
+downtime, like, actually you
+can't say we don't have
+downtime, but we've reduced the
+likelihood of downtime
+significantly by investing in a
+premium service basically.
+Arvid Kahl: I love that. That's
+my perspective, too,
+particularly as a small
+business, not building things
+that other companies have hold
+divisions for, it's just a
+smarter move. I remember when we
+built Feedback Panda, we had a
+similar choice, like we could
+host a database ourselves
+somewhere, right? MongoHQ, or
+whatnot. And we had it just
+locally on a Hetzner server
+being a German company living in
+Germany, that was quite a
+reasonable choice at that point.
+But we didn't. We actually got a
+database as a service, which
+was, yeah, compose something
+which was MongoHQ before but
+like a database as a service,
+essentially, right? They run it,
+they maintain it, they update
+it, they secure it. And that was
+the largest part of our expenses
+for the longest time, right?
+Like, yeah, a couple of Docker
+containers that run the
+application on the Google Cloud
+too just auto scaling as well,
+should we need it but the
+database was where the value was
+because we had a product that
+people were using in a shared
+capacity, right? They would
+share the feedback templates
+that they put in there. Well,
+I'm gonna explain it to you. It
+doesn't really matter. But we
+had a system where people shared
+stuff and that data was the most
+crucial part of why we should
+even exist. So we treated that
+as the prime citizen of our
+business. And that data needed
+to be secure and reliable and
+attainable and all that. So I
+think when we sold the company,
+I don't really have the, I'm not
+sure if I'm even allowed to say
+these numbers at this point. But
+I think we paid like $4,000 a
+month to that company that
+hosted our database. And that
+was probably over 50% of our
+expenses at that time.
+Jack Ellis: You had some serious
+traffic, then. I mean, that's
+Arvid Kahl: We had a lot of
+data. I mean, you should know
+everything about a lot of data
+was gonna ask you, because our
+couple of 100 gigabytes of text
+data probably pale in comparison
+to what you're working with on a
+daily basis. But, you know, it
+was just a managed service that
+was quite expensive but also
+very reliable. And we were like,
+even these $4,000 that we would
+pay every month, that's still
+cheaper than paying for, you
+know, a couple of servers
+somewhere and all the tools and
+the engineer to deal with it
+that can only work eight hours a
+day.
+Jack Ellis: Sure. What year was
+this? What year was this, that
+you would have been paying this?
+Arvid Kahl: Probably 17 to 19
+Jack Ellis: Okay so, I mean,
+that was in database. Well,
+that's, you know, 100,000 years
+ago for databases. So you're in
+a time where you, I'm more
+privileged because I've got all
+these databases available.
+You're in a time where, like, we
+aren't where we are now. That's
+this. So was that six years ago?
+So that would have been harder
+to find something as well, but
+now
+Arvid Kahl: I'm just figuring
+out that is actually six years
+ago, holy.
+Jack Ellis: Yeah. And that's a
+lifetime for database.
+Arvid Kahl: Yeah, that's true.
+Jack Ellis: That's expensive,
+but it's worth it because it
+powers your business.
+Arvid Kahl: I don't think I've
+ever heard of a single store
+before you talk to the Twitter
+world about it. Recently, I
+guess, right? And back then I
+don't think, it didn't even
+exist in 2017
+Jack Ellis: So it existed as mem
+sequel. And then I had a big
+customer. I don't know if this
+is public. So I'm not I guess I
+shouldn't say but they had a big
+customer who is vital. Everyone
+was using this customer. And
+they wanted to do analytics. And
+they were already doing it in
+memory stuff. And then they
+branched into analytics. And
+then the rest is history. So now
+you've got this database, where
+you have the OLTP and the OLAP.
+All in one, all in the same
+table type, which is just
+unheard of. So yeah
+Arvid Kahl: Yeah, we didn't
+necessarily need that kind of
+feature as being just a crud app
+really, right? Like people would
+write data into the system, they
+would pull it out and sometimes
+deal with it, edit it and save
+it back. That was it. So we were
+a Postgres shop, essentially. So
+our little SQL database was just
+sitting in there, but well
+maintained by somebody else. And
+that was totally worth it for
+us. So it wasn't as expensive in
+the beginning, right? Obviously,
+we started with a couple 100
+bucks a month. And that was when
+it started. But I think it's
+honestly, one of the best
+choices that I have made in my
+developer career or software of
+business developer career is to
+outsource these parts that when
+they break, everything breaks.
+I'm glad I didn't have to deal
+with that. Is there anything
+like that, that you also put
+into third parties instead of
+building it yourself? Like what
+were the choices that you made
+in your past, in the beginning
+of the business where yeah, we
+could build this ourselves? Or
+should we or should we not?
+Jack Ellis: Yeah, so I know that
+we do. So for example, when you
+share your dashboard publicly,
+we have a image, you know, the
+OG image on to Twitter. We have
+that built externally because I
+don't want to build a bunch of
+PHP GD stuff. Oh, crikey, you're
+really testing my brain here.
+There's so many things going on
+and things that are active in my
+brain. So we default to looking
+for third party providers when
+there's not personal data being
+passed around. And because it
+will save us time and then
+that's great. And a lot of the
+times that social issue, the one
+downside you really have is that
+if there are issues with that
+provider or if there are things
+you want changed and you're not
+paying them that much money. You
+don't have as much sway. Whereas
+if you have it in house, you can
+change it. And so it's nuanced.
+SoBut we do default to it. But
+it's nuanced. That's all I'll
+say. And we do try to do it
+where possible, I just can't
+think of where else we do it off
+the top of my head because we
+can't do things like IP spam
+checks because we're not going
+to pass that IP to a third party
+provider. And we do that all on
+our server. Now, I can't think
+of much to be honest, but we do
+default, it's just my brain
+here.
+Arvid Kahl: Yeah, I was actually
+wondering because like since
+Fathom is so focused on privacy
+and also serving essentially a
+global community of businesses
+that have their own local laws,
+you know, about what data
+businesses have to or should
+never collect from their
+customers or from their users.
+How do you juggle with this,
+like the potential conflict of
+these privacy and law data
+collection implications?
+Jack Ellis: Yeah, I mean, so we
+have our target audience, right?
+And, you know, North America,
+Europe. It's worldwide, sure.
+But we're not trying to comply
+with laws in China, where they
+want us to collect data. So
+anything that compromises our
+values, we won't do. So if like,
+if a government says, we want
+you to collect this, so we're
+not gonna do that. And so then
+it's just okay, we're not gonna
+be compliant in that country.
+We're very focused on the EU and
+North America, that's our
+primary customer base and the
+UK, obviously, as well, the EU
+and the UK. So we just follow,
+we have a privacy officer who
+is, so our privacy officer is
+one of the smartest people in
+the world on this topic. I'm not
+even joking. She is incredible.
+And so she is just, you know,
+finger on the pulse constantly
+keeps us updated. And if there
+are things we have to do, like,
+California, they had some
+privacy law changes. And then,
+you know, we've got can't say
+who, but a big media company
+emailing us in the state saying,
+you know, can you adjust your
+DPA to accommodate this. So if
+we're missing something, the
+lawyers from other companies
+will tell us and we'll add it in
+and then we'll evolve. But we do
+have the privacy officer in
+place and we have, you know, our
+legal team and that sort of
+thing. I'm not personally
+worrying about that constantly.
+It's not something I'm thinking
+about, it's really a case of
+say, they say, oh, the EU, US
+privacy shields invalidated. And
+that's the legal stuff. So now,
+we can't use Amazon Web Services
+for EU traffic if you're going
+for radical GDPR compliance.
+GDPR compliance is like a
+spectrum, right? No one's
+perfect. Or maybe someone's
+perfect, but most people aren't
+perfect. And it's very hard to
+be perfect. So if you've got
+customers in Germany and I feel
+like you know this, they want
+that radical compliance because
+they know they are under
+scrutiny and their DPA doesn't
+mess around. And they will
+enforce the law. And so they'll
+come to us and they'll want that
+EU isolation that we offer. And
+so they know about that and they
+won't compromise. Yeah, that's
+just thinking. I'm just going
+through like, it's an EU
+isolation comes, oh, we have to
+build that. So from a technical
+perspective, I'm involved in it.
+Okay. So now, EU-US privacy
+shows invalidated. What do we
+do? And that's where I have to
+think of a solution. And in our
+case, we put a proxy layer on
+Hetzner that completely hashes
+up removes the IP address all of
+that stuff to protect it from us
+surveillance, which is the issue
+in this scenario with the GDPR.
+And that some people, US
+customers will not necessarily
+care about that. And that's
+fine. It doesn't matter. They
+have that anyway for the EU
+customers. So it's one less risk
+for their business. But I come
+into play when the law changes
+that affects our business in
+that way, if that makes sense.
+I'm not looking at every little
+change that's happening. Our
+Privacy Officer helps us with
+them.
+Arvid Kahl: How often do you
+have to update the products?
+Like how often do these things
+come in, like changes in the
+laws that you need to comply
+with?
+Jack Ellis: Set a flashback
+there. Yeah, so not too often,
+where it's so major. The UE US
+Privacy Shield was substantial.
+The shrimps too rolling,
+substantial. It shows it was a
+marketing opportunity for us
+because we were building this in
+anticipation. And you know, you
+talk about luck in business. We
+were building this and it just
+happened that we'd built it. And
+no one else had built this. And
+then because they either some
+people were going EU only. We
+went oh no, we don't just want
+EU only. What about American
+visitors or American customers?
+We go through the EU or the US
+depending on location to make it
+faster. And so that was a huge
+change. But how often do we have
+to change it? Not that often, to
+be honest with you.
+Arvid Kahl: That's good to know
+because that would, you know, I
+remember I had to integrate
+certain changes into our browser
+extension for the business that
+we had that were unannounced and
+fairly common, like on a weekly
+basis. The thing that we tried
+to integrate with change and
+nobody would tell us that it was
+gonna happen. So you know,
+there's a certain cadence to
+having to deal with things you
+didn't expect. And I'm glad it's
+not that much for you. Because
+that just makes the product less
+brittle, right? You don't want a
+product that is constantly being
+pulled back and forth between
+laws and certain integrations.
+One thing that I found extremely
+interesting that you were
+talking about. You were talking
+about a couple months or years
+ago, was the migration from
+Google into your product. And I
+always wondered, how was that?
+How was how much fun was it to
+build a migration from such a
+violator of privacy laws into a
+very privacy first product? What
+did you struggle with? And you
+know, did you enjoy that
+process? Or was it a chore?
+Jack Ellis: So are we talking
+about the Google Analytics
+importer here?
+Arvid Kahl: Yes
+Jack Ellis: Yeah, yeah. So that
+hasn't even shipped yet. That's
+about to, that's shipping soon,
+I should say. That was a complex
+process because Google samples
+data. And so a lot of people
+just say, okay, we'll just grab
+this and then you can't really
+do anything on the data because
+it's Google's data. We went the
+extra mile and this is why it's
+taken so long and why it's more
+sophisticated. You can actually
+filter on the old data. If
+they've sampled it and we
+haven't got the data, we can't
+do anything about that. But the
+cool thing is when you've got
+the data, you can filter on it
+still. And it's a very
+sophisticated import. And then
+the Google API is good enough,
+it's a bit kind of tricky to
+understand what the limits
+because it's all over the place.
+But, you know, it was a good
+project. Our full time engineer
+actually built the majority of
+that. So I can't take too much
+credit for that. But it's coming
+along nice. And that's the next
+big thing was shipping ahead of
+Universal Analytics being
+destroyed. And there's a few
+other pieces that make it the
+most sophisticated solution on
+the market. But I'm not allowed
+to talk about them because Paul
+will shoot me. So
+Arvid Kahl: Did Google make it
+hard to export that data?
+Jack Ellis: Oh, good question.
+You know, I wouldn't say it was
+hard to export the data. It's
+really how the data is. The fact
+that it's sampled is an absolute
+joke. But I get why they did
+that because of the scale. And
+it's a free, you can't see that
+free product. So I wouldn't say
+they made it hard to export the
+data via the API as such. The
+limits are a little bit
+confusing, but I'm not going to
+we've also done something there
+which will be interesting to a
+lot of people when it drops. But
+I wouldn't say they made it
+hard. I thought they made that
+unnecessarily complex with like
+the approval process for an
+application. But no, there's no
+evil play there that I can
+comment on.
+Arvid Kahl: Good. Yeah. I mean,
+it's always like, with these
+kinds of entrenched businesses,
+right? It's hard to, you know,
+make a case for why you would
+even want to share the data that
+you have. So where do you see
+the analytics industry going?
+Because I see that your business
+is very much focused on privacy.
+And I love that being a European
+at heart, even though I live in
+Canada, which is also a great
+place. But the GDPR thing was
+something that was very welcomed
+by a lot of people in the
+European IT industry and beyond
+as well. So I see that there are
+the legal limits to what you can
+do. But do you see also from the
+customer side that people are
+becoming more aware of the
+necessity of privacy? Is that
+something you see in the future?
+Jack Ellis: Oh, absolutely. I
+mean, things like Cambridge
+Analytica, all the scandals that
+are happening. When people are
+using Google Analytics and that
+is what you meant by privacy
+first analytics for Fathom. I
+always say, go on to your search
+engine and type in Google
+Privacy scandals and just read
+the reports and read the
+Wikipedia page and everything
+else. People are becoming more
+aware. Yeah, they're becoming
+sick of companies like Facebook
+and the invasive spy pixel
+tracking. I said spy pix, but is
+like a big sort of follows you
+around the web, that sort of
+thing. What Google is using the
+data for, how they've used it in
+the past, what they would do if
+they weren't regulated. That's
+another thing about privacy
+laws. Unfortunately, people are
+affected by cookie banners if
+they're not using Fathom. And
+that's annoying and it is
+ridiculous. And I do feel
+people's pain on that. But the
+laws are in place for a reason.
+It's a stop companies like
+Facebook, who would just the
+things they do if they weren't
+regulated. And I'm not a big fan
+of unbelievable regulation. The
+regulation should be calm and
+balanced. But this did need
+regulating. And I do think that
+GDPR is a relatively positive
+thing. And people get angry at
+the GDPR. There's a lot of
+flexibility. There are multiple
+lawful basis for processing.
+It's not just throwing up the
+cookie banner. The cookie
+banners often for the E privacy
+directive, pecker in the UK. So
+it's not just the GDPR. So
+people are becoming more aware,
+that's a huge thing. People are
+using browsers that have ad
+blockers, not necessarily ad
+blockers, but ad blockers, but
+also, like Brave, for example,
+shows the trackers on the page.
+If I'm seeing Google there,
+that's immediately changing my
+view on you as a company. And I
+thought, oh, that's just a me
+thing. People care about this
+stuff. People don't like it and
+not everyone cares about it. And
+that's fine. We all care about
+different things. But not more
+and more people are
+understanding and caring, oh,
+they try to send my data to
+Facebook. I get really bothered
+by that. I don't send my data to
+Facebook. I don't have a
+Facebook account. Don't try and
+track me on Facebook. It bothers
+me. And so things say, oh, we
+use an ad blocker. Okay, that's
+great. That's great for me. I'm
+in tech, it's great for you. You
+know what ad blocker is. What
+about our parents who don't
+necessarily know what an ad
+blocker is, who are being
+tracked? I remember my mom went
+on a website and she was so
+concerned by the fact that it
+said hello and then her name on
+a random website. And it was
+linked to her Facebook, that
+really bothered her. And so
+people are, even she was
+becoming more aware of what was
+going on. And so people expect
+privacy. Some people don't and
+that's fine. Like, you know,
+everyone's got a different
+opinion. One thing I will say
+though, I call privacy the
+political equalizer because both
+sides care. I mean, we've had
+political parties and we've not
+worked at any of them. Or
+political parties contact us
+because we have that privacy
+thing. So it's a political
+equalizer, which is also
+interesting, I think. And I
+think people, the awareness will
+continue to grow, especially
+with Facebook behaving bad.
+People are sick of their data
+being sold, you know and if
+you're not, then you won't use
+Fathom and you won't pay
+attention. And that's fine, too.
+I'm not trying to persuade
+anyone, like we get people come
+to us because they already know
+what Facebook's been doing. They
+already know what Google has
+been doing. We don't have to
+persuade them about that. That's
+why we've grown like we've
+grown. People know what Google's
+Arvid Kahl: Yeah, that's a
+growing awareness. I think I see
+up to.
+that not only in websites and
+you know, Cookie tracking and
+that stuff. I see it in emails
+too, like particularly sending
+out newsletters to 1000s of
+people, right? The number of
+people who block all email
+tracking is climbing
+significantly. And thanks to, I
+guess, services, like Hey,
+hey.com, right? Who
+automatically blog all tracking
+and then show you, right? That's
+one of the benefits of you
+seeing who is trying to trick
+you out.
+Jack Ellis: And I think I'm
+still working, always working on
+my thoughts. But I think I
+disagree with David on the old
+tracking spat. So where I go
+with this? You remember
+superhuman when it came out.
+They were tracking where you
+were when you opened it, that
+was bad. And that really played
+into what Hey was doing, which
+was great because that is not
+okay. And I know they changed
+some things. And I'm not having
+a go at superhuman. I've read, I
+could not believe that. And then
+you've got for those of us going
+back years, what was it? Was it
+HubSpot? Used to better track
+who opened your email and when
+they opened it, I really don't
+like that. That grosses me out.
+And a lot of people don't like
+people knowing when they're
+reading their emails or where
+they're reading it from. And so
+I'm okay with. I have 100 people
+open my email, but I don't know
+who they are. I don't know where
+they were, there's no IP address
+log in that sort of thing. I
+think that my thought is I'm
+okay with that. And we thought
+about that with our product,
+should we have some kind of open
+tracking, but it's limited. And
+then you can get an idea for
+advertisers or sponsors because
+you'd like that's useful. But
+you never get to the level where
+you're actually tracking who it
+is that's opening the email. So
+you immediately say, oh, well,
+how do I know who to delete from
+my list when they're not
+engaging? Well, that metrics
+now, as you've hinted to, is
+becoming useless because
+everyone's blocking it anyway.
+So you can't use that. Okay,
+then well, can we just and this
+is where you get to, can we come
+to an agreement with the email
+clients that someone's, you
+know, allowed to be in it and I
+don't know, it's not really
+something I focused on. I just
+don't have the same issues with
+aggregate data as I do with
+individual data. Like I've sent
+an email to Arvid, I can see
+that he's doing this, this and
+this. And if you do this and
+they'll find a way to,
+unfortunately, people will find
+a way to work around it and
+they'll send you like, this is a
+pixel that represents Arvid.
+This means Arvid opened it and
+it's a tricky area.
+Arvid Kahl: Very much
+Jack Ellis: It really is
+Arvid Kahl: It's super nuanced,
+right? Privacy is not an all or
+nothing. I guess it's mostly
+about agencies. That's what I
+feel like my agency to determine
+what I want to give to whom,
+that's kind of where my privacy
+begins and ends, right? On both
+sides of the spectrum. And I
+would love to be able to give
+this one author of that
+newsletter, the permission to
+see that I read the newsletter,
+maybe not see which links I
+clicked on. Because that was my
+choice to explore the content
+without showing that I actually
+visited it, but just the open
+the read, that will be fine. So
+the fine grained nature of
+permission, that's something
+that technology really doesn't
+allow for because it's not built
+into the system, right?
+Jack Ellis: It's all or nothing.
+No, you're right. Yeah, either
+block it or don't block it,
+which is such a shame, but it's
+evolving and things are
+changing. And we'll see what we
+get with this. Hey, decided to
+completely block all pixels
+completely. And as a big
+marketing piece for them. Is
+that better than having people
+know where you are and who you
+are the opening email? I think
+it's better personally and
+that's where I don't agree
+completely. But I think given
+the technology, that's probably
+a good choice for now. And we'll
+see what happens in the future
+because people need analytical
+data, reasonable analytical data
+to make decisions. Like my
+writing, I would never be
+writing if I didn't know that my
+content was getting traffic
+because at the time I wasn't big
+on Twitter, but I have 15,000
+followers, which is more than I
+had back in the day. I'd write
+an article I didn't get likes
+and retweets. But because I was
+seeing in Fathom that I'm
+getting traffic to that page.
+Oh, people are interested in
+technical writing. Maybe I
+should wait some more. And now
+it's just like 10s of 1000s of
+views every article and it's
+like SEO, all that stuff. And
+now I know it's worth doing so
+we need analytics. And so the
+email
+Arvid Kahl: I love that.
+Honestly, I love that
+perspective. Because I think
+like you writing is just like
+the stepping stone towards you
+creating the courses that you
+have created, right? As a
+developer teaching other
+developers how to use Serverless
+role and SingleStore. I want to
+talk about that too because I
+love the sight of you being a
+business owner in the analytics
+space. But I equally adore the
+effort and energy that you put
+into educating people around the
+technology that makes it happen.
+So let's talk about your
+courses. Because I thought that
+the latest one you released, the
+SingleStore one, that is an
+exciting one because I did not
+know anything about it. But just
+reading about how you even found
+SingleStore and this back and
+forth between vapor and
+SingleStore and you know, like
+that, but you wrote a blog post
+on it. And then when the blog
+post was out, like a month
+later, it all changed again,
+that was super exciting. Can you
+regale me with the story at this
+point?
+Jack Ellis: Yeah, so I mean,
+this is a whole process. I mean,
+yeah, I've got two courses, the
+Serverless one and the
+SingleStore one. So we were
+originally on Heroku, right? And
+Heroku was great. And it was
+hilarious because we couldn't
+even, we couldn't justify a few
+$100 for our database. And it's
+so funny thinking back to the
+early days, but we didn't want
+to spend loads of money, like do
+we want high availability to
+pull we need high availability?
+Because from the start, we care
+about all of this. And then it
+was a case of what happens when
+we get bursts of traffic. How do
+we scale to handle that? Oh,
+well, Heroku has an option, but
+you have to pay $500 minimum per
+dyno and then you lose the high
+availability because you can't
+have two dinos. And so this all
+was happening. And then Taylor
+Otwell from Laravel, dropped
+Laravel vapor and I'm like, this
+is insane. So we were like
+project eight or something, we
+got super early access to it.
+And Taylor builds good software,
+so I knew it was gonna be good
+from the get go. And sure, there
+were some teething pains, things
+that nuance things such as
+reading secrets into the
+environment and having a limit
+on the API from Amazon, like
+these kinds of things, which we
+might run into because we were
+doing such big scale,
+eventually. And so we move to
+Laravel and I'm tweeting about
+it because I'm sharing this. I
+want to share our journey
+because I think it helps people.
+And then I'm getting just emails
+and I'm getting questions about
+it. And it's more than I can
+handle and more than I can spend
+my time answering all of these.
+And I think well, okay, I want
+to help people. I can probably
+make some money from this. And I
+think we just bought a house at
+the time. And so all of my cash
+that I had gone up in that
+pretty much and I was thinking,
+okay, so I can make some money
+from this and I can help people.
+Okay, let's set the goal. The
+goal is going to be to, even if
+I help 10 people, 10 sales,
+that's a win. And I tried to
+change, you know, the metrics to
+be, I want to help people. And
+they just when I launched, it
+just went crazy. And people were
+really interested in it and
+people still buy it. And people
+are now you know, I've got a
+thriving community on Discord.
+And I love it. I really love the
+community side of things. And we
+all everyone in there helps each
+other. And you've got some of
+the best minds in Laravel and
+Serverless in there, which is
+just wonderful.
+Arvid Kahl: That's great.
+Jack Ellis: And then after that,
+we're using MySQL, right? MySQL
+is not good for a lot of things
+is especially not good for
+analytics. And if you're using
+RDS for MySQL, you run into
+issues with the IOPS and you
+have to pay for extra storage to
+get more IOPS. And that caused
+huge issues. Funnily enough, a
+company in Germany, they ran a
+universal basic income scheme or
+campaign. And guess what that
+was quite popular, as you might
+imagine. And that went viral.
+And yeah, we can say that it
+went really viral. And that
+really made me look at the IOPS
+and the database and the how
+fragile it was, you know. And so
+I was at oh, and then also, we
+were doing high cardinality
+aggregation. So what I mean by
+that is we had a customer like
+JSFiddle, for example. And so
+they had, you know, JSFiddle was
+similar to the code patterns,
+those sorts of things. Each
+snippet had a unique path name.
+We were storing the path name
+and we were doing a some group
+by path name. And can you
+imagine the cardinality that
+JSFiddle had. There's like one
+of the most popular websites for
+developers and doing snippets
+and we couldn't deliver their
+dashboard. Their dashboard just
+crushed every single time. And
+it was embarrassing. And the
+owner of JSFiddle is the most
+he's like the nicest guy ever.
+Honest to God, he's just is
+wonderful. And he was very
+patient. And I was aware it was
+broken. I'm trying to think, you
+know, fix it with background
+jobs, that cron jobs that would
+pre calculate it and then we'd
+read the pre calculated data.
+And then the German client had
+even more unique path names
+because they had a unique path
+for each step of the universal
+basic income registration
+process. And their dash and they
+were using Fathom more than the
+JSFiddle was because they'd seen
+any luck on the dashboard and
+the dashboard's not loading. And
+it was embarrassing. And so we
+had to build some custom things
+there. And I was also doing a
+bunch of rolling up and I was
+like, the data was split up and
+it was being queued and it was
+just a mess. I never dreamed
+that I could actually write page
+views to the database and not
+even roll them up. Just one page
+view equals one database row.
+And then now we've got billions
+and billions of rows. But we can
+sum across all of these billions
+of rows. And it's just not an
+issue. I can perform a sum on
+our entire database in like, a
+few seconds to sum our data
+every 10 seconds. And this is a
+big database. But yeah, that's
+not so then we moved to
+SingleStore, got a lot of value
+out of that completely changed
+everything. We were able to then
+offer filter by path name,
+filter by referrer, that sort of
+thing. And it just unlocked a
+lot of things for us. And people
+were asking me about because I
+wrote about it. And then I hear
+from people that they were
+already working on moving to
+SingleStore based on my story.
+And I think a lot of people move
+to SingleStore because of that,
+because we're using it and we're
+doing the traffic. They're going
+to be just fine on it. And then
+to lots of people. And it's
+funny, because this course
+wasn't financially motivated. It
+was really just a case of I
+can't help everyone. I'm going
+to put my knowledge into a
+course. And I did. And it's done
+well, it's more of a niche
+course. But it's still done
+really well. And now it's out
+there for the world. And I've
+done on courses because they're
+hard work. You've written books.
+Books are harder than courses.
+But if you build course, you
+need to build a course. You've
+built your Twitter course.
+Courses are hard work.
+Arvid Kahl: Oh, yeah
+Jack Ellis: I haven't got the
+time. So
+Arvid Kahl: Yeah. And that's
+kind of what I wanted to ask you
+too because you're a full time
+founder, right? And you even
+like moving into management now
+because you can't handle the
+load of the actual network
+anymore. Do you still want to
+keep teaching in another
+capacity? Obviously, a course is
+a lot of work as a block, but
+you want to keep the communities
+running or you want to find
+other ways to teach?
+Jack Ellis: Yeah, yeah,
+something's happening.
+Something's in the works. But
+yeah, so I thought something's
+in the works. Yeah, I can't
+necessarily, I won't talk about
+it yet. Because still early
+days, but some things in the
+works, a lower impact version,
+teaching high, high, high value
+stuff, really high value stuff
+with a friend, people who know
+me are gonna guess who I'm doing
+it with. But yeah, something's
+going to happen. But it can't be
+me sitting down and making
+courses and spending hours a
+day, doing the videos, writing
+the scripts, the editing. This
+time, I was clever about it. So
+anyone making a course, do not
+do your videos and then edit
+them at the end because it's
+such a grind because you have to
+go back through and then get
+your context of where you are
+and edit them. What I did this
+time was each time I recorded
+the video, I edited it. And then
+I said that videos done. That's
+written off, I'm not coming back
+to it. That made it so much
+easier. During the edit on the
+first course coming back and
+doing the edit killed me. That
+actually, that was the most
+exhausting thing. Everything
+else was fun. That exhausted me.
+And that actually gave me I'm
+not going to say PTSD because
+that's ridiculous. But that gave
+me that feeling in your stomach.
+Really, oh my god, this is just
+absolutely nuts. Whereas the
+second course, I learned my
+lesson. I like tic tic tic and
+it was much easier. So yeah,
+that went well. And that's what
+happened. I'm only sharing what
+I've done. I'm not like a
+thought leader. I'm not. I just
+am sharing my experience and
+what I've done to try and help
+people. And I know it's helped
+people and 1000s of people
+bought Serverless Laravel and
+SingleStore. Laravel has only
+been out for not long at all.
+And like lots of people have
+bought that. And they're moving
+and they're solving their
+business problems, like CTOs
+everyone. And I'm really happy
+about that. So my measurement on
+that is how many people are
+benefiting from it and lots of
+people benefiting from it and
+I'm happy.
+Arvid Kahl: Yeah, I guess it
+makes a very different kind
+ofcourse if it's not financially
+motivated, if you really want to
+have an impact and not just sell
+the course, but actually impact
+the lives of the people with it.
+And that is your motivation.
+It's nice to still make money.
+Let's not forget that. I feel
+the same way about my Twitter
+course, right? We sold our
+business and I'm fine with that.
+Like, I don't need this course
+to be expensive to kind of
+sustain my cool lifestyle of
+sitting in my office all day.
+But, you know, it's nice to see
+some validation coming in by
+people opening their wallets,
+which is one of the best kinds
+of validation that a founder
+could ever wish for, right? It's
+very, very direct. But I love
+that both your courses that
+you've put out are just a
+consequence of you actually
+having learned something that is
+worth teaching to people. This
+just I love that. That is so
+specific in terms of what you
+offer. You're not offering the
+intro to software engineering
+course. You probably could do
+and try. You could try to teach
+it. It would be weird because
+you are such a specifically, I
+guess, capable engineer that you
+have so much more to say about
+these super specific interesting
+things than the generic things
+that I guess Chat GPT could
+teach you that, right? Like,
+what would you competing with at
+this point?
+Jack Ellis: I'm a storyteller. I
+like I talk about my experiences
+and former stories. You know,
+that's one of the things I might
+have been as a writer of some
+kind if I hadn't gone into
+software engineering and SaaS.
+I've always written and it was
+Paul that unlocked the
+confidence to write because I
+always thought it had to be. I
+fight with perfectionism a lot,
+right? And so with my writing,
+I'm thinking, oh, it has to be
+perfectly laid out. And I can't
+have any nuance can't miss bits,
+has to be covered in every way.
+It's got to be perfect,
+basically. And then I sort of
+just wrote something one day and
+Paul edited it and had a few
+changes. And he's like, oh,
+that's great. I'm like, well and
+I put Paul's hugely successful
+newsletter, by published author,
+sold stupid amount of books all
+over the world. And oh it's
+fine. Okay, like that was the
+validation I needed. And that
+post went viral. And this was
+back in 2018. And from that
+point on, I just write in my
+voice. I've been I grew up on
+forums. I grew up on, you know,
+all these things. I can write. I
+can tweet. So now I just write
+blog posts in my normal voice.
+And I find it excessively easy.
+And you can edit it, make a
+mistake editing, have someone
+who can edit it for you. But
+write in your voice, that's what
+changed it. And only to tell
+you, you've written more than
+me, but you write in your voice.
+And that's the key to unlock it.
+But you've got to have a voice
+in the first place I think and
+maybe because I think people can
+learn to write, I really do.
+Everyone has a voice. Just write
+how you talk. It works.
+Obviously, you don't put the
+"eehs" and the "ums" but write
+how you talk and then edit it.
+And then suddenly, you've got
+something. That's really how I
+approach writing.
+Arvid Kahl: 100%. I 100% agree
+with this because that's how I
+started writing too. Like and
+it's nice that you phrased it
+this way, like you find your
+voice, have your voice, just use
+your voice. You already have it
+right? You only talk the way you
+talk. You don't need to change
+anything about it. And if you
+can get somebody's attention for
+more than 20 seconds by talking
+about something you care about,
+then you can write. Like, that's
+really what it is because you
+just need to take these words
+that you say and put them on a
+page. It's really and I very
+much agree I write the same way.
+Whatever comes out, I rarely
+edit. I edit for grammar, you
+know, that's English is a second
+language to me. So there's
+certainly the potential for me
+to you know, make a little
+mistakes. But that's what
+Grammarly takes care of for me.
+I tool this stuff away. I
+essentially just fix what I say
+into something that resembles
+correct grammar. And then I just
+publish it too. Like I never do
+I ever read the thing again and
+go through it and restructure.
+It's not worth it. If it's a
+manuscript for a book, may be
+different. But then I involve
+other people just like you did
+with Paul, which is great. Like
+you had somebody who's actually
+a capable improvement writer,
+look at your thing and say,
+yeah, sure. It couldn't get any
+better, right? That's just the
+best kind of validation you
+could get. But for book, I would
+always get a copy editor and a
+proofreader. But for blog posts,
+particularly as fluid as they
+are, you could just edit it and
+fix it later if somebody tells
+you that something is not
+working, right? It's just not a
+physical artifact that you hand
+out to people like you would
+with a book. Blog post is a blog
+post. Even a podcast is a 10
+minute recording. Like if you
+ever make so many mistakes in a
+podcast recording, at least for
+me, right? Like not this one.
+This is an hour recording, I
+guess at this point, but at the
+things that I do the second
+episode, every week that I put
+out, it's just like 10-15
+minutes of me thinking about
+something that came up in this
+conversation. So that is quickly
+re-recorded if there ever is a
+problem. So the effort is fairly
+low. I love it. I love your
+writing. And I love your
+approach to just talking it out,
+which is also what you do in the
+podcast. And I always wanted to
+ask you one thing because you
+have a podcast with Paul, that
+is a podcast between friends, a
+podcast between business
+partners and a podcast between
+dudes at the same time. Like
+there's many different levels.
+Does it ever get weird? Like do
+you ever feel? I mean, this
+isn't the best of ways. Do you
+ever feel like you have
+something that you want to talk
+about but you can't because it's
+private and not personal?
+Because you can talk about
+personal things all the time on
+podcasts, but private things
+stay private. You don't put them
+into the public conversation. Do
+you ever run into this, this
+kind of difference between
+personal and private in those
+conversations with Paul?
+Jack Ellis: Yeah, so not on the
+podcast. I mean, me and Paul
+talk about anything and
+everything. Like there's
+literally no limits. I taught
+I'd tell him about everything
+that's going on in my life if I
+want to. We're very good
+friends. On the podcast, I'm not
+going to talk about the fact
+that my, well, I might you know.
+I do, actually there are some
+personal things I talk about. I
+probably will mention that my
+dogs in a cone right now because
+you said like removal of some
+tumors. I'd probably talk about
+that. Or the fact that I've got
+a cat that gets onto the
+podcast. I don't know. I mean,
+though we had this was actually
+just me and Sherry Walling, Rob
+Wallings wife, very accomplished
+clinical psychologist, had her
+on the podcast. I talked about
+some things from my past I think
+shaped me. And there's no,
+there's obviously limits, but
+we'll talk about stuff. We'll
+talk about whatever we want to
+be honest. I don't know. I mean,
+I guess we don't share every
+single detail. We don't share
+our MRR publicly because I think
+that's, I don't respect that. I
+really don't. For us, people do
+what they do and I don't care
+what people do, but I don't. So
+I shouldn't say just don't
+respect. I don't respect that.
+But I think more the point is,
+that's not something we're
+interested in doing going, oh,
+MRR's blah, blah, blah. So we
+don't share that. But we talk
+about everything for the most
+part. There are very few limits
+on what we'll talk about. And
+we'll get into politics. We
+talked about communism versus
+capitalism, the limits of
+capitalism because he has a
+limit on capitalism, talk about
+anything to be honest, Arvid.
+Arvid Kahl: I love that. I've
+just wondered, like, are there
+things that we don't get to hear
+because obviously, podcast, I
+edit it. And it's fine to also
+talk about everything as well,
+right? There are so many
+different ways of communicating
+in public. There's a spectrum. I
+was talking to Michelle Hansen
+and Colleen Schnettler, right?
+Both of them separately, though.
+And I think I asked them both
+about how they determine what to
+talk about and what not to talk
+about on the podcast. And they
+have different kinds of
+heuristics to approach it as
+well, which is interesting. Some
+people think, yeah, if it serves
+the audience, I'll talk about
+it. And other people think,
+well, if it serves me, I'll talk
+about it. That's how different
+you can be.
+Jack Ellis: Okay. That's good.
+Okay, fine. So we are changing
+our podcast where we are focused
+more on the value for the
+audience. Because, you know,
+you're listening to you're
+hearing Paul and Jack and the
+journey. And that's fun. But we
+want to be able to help people
+too. And so we are focusing on
+structuring our podcasts
+slightly differently. So it's
+interesting you brought that up.
+It isn't just kind of an ego
+thing for us to just talk. I'm
+not saying I don't even know
+anyone that does that. But it's
+not. We do we are, especially
+now we're starting to think more
+about what we're talking about.
+We had an episode on wealth. We
+had an episode on, you know, my
+course. We had episode in how we
+did our marketing in the
+beginning. We want that value to
+go to other founders because we
+want I mean, yeah, we really
+want other founders to succeed.
+I care about the founders, I
+really do. I talk to them when I
+can. My audience isn't really
+software, SaaS founders as such,
+it's more engineers, a lot of
+engineers not knowing the first
+thing about marketing, which I
+always feel bad for them because
+they're genius engineers. But my
+audience is very different.
+We're not very different. But
+it's different from yours
+because you have a lot of
+business focused followers where
+I don't have as many. If I tweet
+about SaaS, people are like
+yeah, whereas if you do it,
+people are there for that. So
+it's a mixture. We get a lot of
+technical questions on the
+podcast. You'll hear me talk
+about the deep dive stuff. But
+we do care about founders and we
+get, you know, being misled and
+blah, blah, blah, and we care
+about founders.
+Arvid Kahl: Well, there's an
+interesting intersection overlap
+between these audiences, right?
+And you can, you will serve both
+if you're talking about things
+that concern both and sometimes
+you will expand the horizon of
+those whose topics you don't
+talk about. So I think it's
+perfectly fine to go explore
+because also it's your podcast.
+You can talk about whatever you
+want, about dogs and cones.
+Sure, go ahead. It's nice to be
+a human being as well. And that
+makes people really interested
+not just in the business, but
+also in you and your
+accomplishments. And that brings
+me to the final question of this
+fine show. Where would you like
+people to go to follow you, your
+journey, your dog's journey? And
+you know, all the other things
+that might interest people who
+are both engineers, founders or
+any which of those?
+Jack Ellis: Yeah, so
+usefathom.com as a newsletter.
+That's a pretty good place. And
+then Twitter, @jackellis on
+Twitter. I think that's it, to
+be honest, Twitter and
+newsletter. That's all I've got.
+Arvid Kahl: That sounds great. I
+think I already follow you on
+both. So I highly recommend
+that. Thanks so much, Jack for
+being on today and sharing all
+your knowledge and your
+insights. That was really cool.
+Jack Ellis: Thank you!
+Arvid Kahl: And that's it for
+today. Thank you for listening
+to The Bootstrapped Founder. You
+can find me on Twitter
+@arvidkahl. You'll find my books
+and my Twitter course as well.
+If you want to support me and
+the show, please subscribe to my
+YouTube channel, get the podcast
+in your podcast player of choice
+and leave a rating and a review
+by going to
+(http://ratethispodcast.com/founder).
+Any of this will really help the
+show. So thank you very much for
+listening and have a wonderful
+day. Bye bye

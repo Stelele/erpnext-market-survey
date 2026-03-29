@@ -1,0 +1,51 @@
+{
+  "topic_id": 159914,
+  "title": "Error generating pdf quotation erpnext v16.1.0",
+  "slug": "error-generating-pdf-quotation-erpnext-v16-1-0",
+  "category_id": 6,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2026-01-27T16:14:26.685Z",
+  "last_posted_at": "2026-01-27T16:14:26.841Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/error-generating-pdf-quotation-erpnext-v16-1-0/159914",
+  "views": 62,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "agaitan",
+  "posts": [
+    {
+      "id": 492667,
+      "username": "agaitan",
+      "name": "",
+      "created_at": "2026-01-27T16:14:26.841Z",
+      "cooked": "<p>hi when generating pdf i got error http:/myip:8080/api/method/frappe.utils.print_format.download_pdf?doctype=Quotation&amp;name=SAL-QTN-2026-00001&amp;format=Cotizacion&amp;no_letterhead=1&amp;letterhead=Sin%20Membrete&amp;settings={}&amp;_lang=en&amp;pdf_generator=chrome</p>\n<p>Server Error 500: Uncaught Exception</p>\n<pre><code class=\"lang-auto\">Server Error\n500: Uncaught Exception\n\nTraceback (most recent call last):\n  File \"apps/frappe/frappe/app.py\", line 121, in application\n    response = frappe.api.handle(request)\n  File \"apps/frappe/frappe/api/__init__.py\", line 63, in handle\n    data = endpoint(**arguments)\n  File \"apps/frappe/frappe/api/v1.py\", line 40, in handle_rpc_call\n    return frappe.handler.handle()\n           ~~~~~~~~~~~~~~~~~~~~~^^\n  File \"apps/frappe/frappe/handler.py\", line 53, in handle\n    data = execute_cmd(cmd)\n  File \"apps/frappe/frappe/handler.py\", line 86, in execute_cmd\n    return frappe.call(method, **frappe.form_dict)\n           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"apps/frappe/frappe/__init__.py\", line 1124, in call\n    return fn(*args, **newargs)\n  File \"apps/frappe/frappe/utils/typing_validations.py\", line 36, in wrapper\n    return func(*args, **kwargs)\n  File \"apps/frappe/frappe/utils/print_format.py\", line 239, in download_pdf\n    pdf_file = frappe.get_print(\n    \tdoctype,\n    ...&lt;6 lines&gt;...\n    \tpdf_generator=pdf_generator,\n    )\n  File \"apps/frappe/frappe/utils/print_utils.py\", line 88, in get_print\n    pdf = frappe.call(\n    \thook,\n    ...&lt;4 lines&gt;...\n    \tpdf_generator=local.form_dict.pdf_generator,\n    )\n  File \"apps/frappe/frappe/__init__.py\", line 1124, in call\n    return fn(*args, **newargs)\n  File \"apps/frappe/frappe/utils/pdf.py\", line 140, in wrapper\n    result = func(*args, **kwargs)\n  File \"apps/frappe/frappe/utils/pdf.py\", line 160, in get_chrome_pdf\n    browser = Browser(generator, print_format, html, options)\n  File \"apps/frappe/frappe/utils/pdf_generator/browser.py\", line 20, in __init__\n    self.open(generator)\n    ~~~~~~~~~^^^^^^^^^^^\n  File \"apps/frappe/frappe/utils/pdf_generator/browser.py\", line 60, in open\n    generator._set_devtools_url()\n    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^\n  File \"apps/frappe/frappe/utils/pdf_generator/chrome_pdf_generator.py\", line 218, in _set_devtools_url\n    raise TimeoutError(\"Chromium took too long to start.\")\nTimeoutError: Chromium took too long to start.\n</code></pre>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/8797f3/{size}.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 20,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

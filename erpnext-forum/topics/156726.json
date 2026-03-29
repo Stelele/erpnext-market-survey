@@ -1,0 +1,52 @@
+{
+  "topic_id": 156726,
+  "title": "Passing URL Parameters to Pre-fill ERPNext Web Form Fields",
+  "slug": "passing-url-parameters-to-pre-fill-erpnext-web-form-fields",
+  "category_id": 57,
+  "tags": [
+    "customization",
+    "custom_script"
+  ],
+  "created_at": "2025-11-12T06:38:53.855Z",
+  "last_posted_at": "2025-11-12T06:38:53.979Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/passing-url-parameters-to-pre-fill-erpnext-web-form-fields/156726",
+  "views": 40,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "mahmodaldahol",
+  "posts": [
+    {
+      "id": 486224,
+      "username": "mahmodaldahol",
+      "name": null,
+      "created_at": "2025-11-12T06:38:53.979Z",
+      "cooked": "<p>When using ERPNext Web Forms for public submissions (e.g., media requests, applications, inquiries), there is a need to <strong>pre-fill specific form fields dynamically</strong> based on the user’s entry point (e.g., clicking a card for “Foreign Media” vs. “Local Media”). Currently, users must manually select options like <code>media_type</code>, leading to inconsistent data entry and poor UX.</p>\n<p>The goal is to allow <strong>external links or internal navigation</strong> to pass parameters (e.g., <code>?media_type=foreign%20media</code>) and have the Web Form automatically populate the corresponding field on load — <em>without custom server-side development</em>.</p>\n<h4><a name=\"p-486224-expected-behavior-1\" class=\"anchor\" href=\"#p-486224-expected-behavior-1\" aria-label=\"Heading link\"></a><strong>Expected Behavior</strong></h4>\n<ul>\n<li>A link like:<br>\n<code>https://your-site.com/media-request?media_type=foreign%20media</code><br>\nshould auto-fill the <code>media_type</code> field with <code>\"foreign media\"</code> when the Web Form loads.</li>\n</ul>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/3d9bf3/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 11,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

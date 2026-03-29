@@ -1,0 +1,53 @@
+{
+  "topic_id": 154478,
+  "title": "MappingFormatError when converting JSON to X12 (Bots EDI mapping script)",
+  "slug": "mappingformaterror-when-converting-json-to-x12-bots-edi-mapping-script",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "customization",
+    "bug"
+  ],
+  "created_at": "2025-09-25T12:41:35.790Z",
+  "last_posted_at": "2025-09-25T12:41:35.919Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/mappingformaterror-when-converting-json-to-x12-bots-edi-mapping-script/154478",
+  "views": 17,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "SaadKhan",
+  "posts": [
+    {
+      "id": 482086,
+      "username": "SaadKhan",
+      "name": "Saad Altaf Khan",
+      "created_at": "2025-09-25T12:41:35.919Z",
+      "cooked": "<p>Hi everyone,</p>\n<p>I am working with <strong>Bots EDI</strong> to convert a JSON file into an <strong>X12 810 Invoice</strong>. While running my custom mapping script, I’m getting this error:</p>\n<pre><code class=\"lang-auto\">MappingFormatError: Must be dicts in tuple: put((({'BOTSID': 'ST'}, {'BOTSID': 'BIG'}), {'BOTSID': 'BIG', '373': '20250915', '76': 'INV001'}))\n\nDuring handling of the above exception, another exception occurred:\n\nScriptError: Userscript \"/home/saad/.bots/env/saad/usersys/mappings/json/mapping_script\": \"MappingFor\n</code></pre>\n<p>Here’s a <strong>minimal JSON example</strong> I’m trying to map:</p>\n<pre><code class=\"lang-auto\">{\n  \"transaction_type\": \"810\",\n  \"invoice_number\": \"INV001\",\n  \"invoice_date\": \"20250915\"\n}\n</code></pre>\n<p>And here’s the <strong>relevant snippet of my mapping script</strong>:</p>\n<pre><code class=\"lang-auto\">def main(inn, out):\n    out.put({'BOTSID': 'ST'}, 'ST01', '810')\n    out.put(({'BOTSID': 'ST'}, {'BOTSID': 'BIG'}), {'BOTSID': 'BIG', '373': '20250915', '76': 'INV001'})\n</code></pre>\n<p>From my understanding, I need to create the <strong>BIG</strong> segment with both the invoice date (<code>373</code>) and invoice number (<code>76</code>). But I’m not sure about the correct way to structure the <code>out.put()</code> calls, since Bots is throwing the <code>MappingFormatError</code>.</p>\n<p><strong>Environment:</strong></p>\n<ul>\n<li>Bots version: [e.g., 3.2.1]</li>\n<li>Python version: 3.10.18</li>\n<li>Django version: 5.2.5</li>\n<li>OS: Ubuntu 22.04 (WSL2)</li>\n</ul>\n<p><strong>Question:</strong><br>\nWhat is the correct way to add multiple elements to a single segment (<code>BIG</code>) in the mapping script? Should I call <code>out.put()</code> separately for each element, or is there a way to pass them together?</p>\n<p>Thanks in advance for any guidance</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/saadkhan/{size}/82335_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 5,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+[Music]
+A couple of years ago, I tweeted that
+the best tech stack is the one you
+already know. And to this day, this is
+one of my most resonating tweets. People
+keep bringing it back, and founders
+who've been around for a while seem to
+particularly agree with it. They've gone
+through the whole learning experience of
+trying new tech stacks only to find that
+investing a lot of time in a new
+technology often is not worth doing that
+effort like what they wanted to do was
+actually trying to build a business
+quickly. So a quick word from our
+sponsor here paddle.com because they're
+a good example of a smart tech choice
+that massively speeds up and stabilizes
+the early days of building a business.
+I've been using Paddle as my merchant of
+record, my payment provider for all my
+software businesses because they take
+care of taxes, currencies, track client
+transactions, update credit cards in the
+background so I can focus on dealing
+with my competitors and actually
+building the business and not having to
+deal with banks and financial
+regulators. So if you would rather just
+build your product, check out paddle.com
+as your merchant of record and payment
+provider.
+Now, recently a peer of mine asked a
+very interesting question that adds a
+layer to this idea of the best text
+stack being the one you already know.
+They suggested that at this point the
+best text stack is probably the one that
+the AI tool that you use for coding
+knows the most about. And I think that's
+a fascinating thought. And I think it's
+kind of partially true or trueish
+because for many people who don't do
+their own coding anymore, the best tech
+stack might not just be the one that
+they know best or know best from the
+past, but the one that the coding AI
+handles pretty well. It does make sense,
+right? You use a tool, might as well use
+what that tool thinks it's best. But
+here's what I believe. While the
+original statement still holds true, the
+best text stack is the one you already
+know. We have to think about it in its
+inverted form. It doesn't matter if the
+AI model knows a coding language or
+framework the best. The quality of code
+the AI produces and the quality of code
+that ultimately ends up in your software
+product is still directly connected to
+our capacity of understanding and
+judging, reviewing and debugging that
+particular code. We still need to choose
+what we know best.
+Let me explain why. To make sense of
+this, it's really helpful to understand
+just how these AI models are being
+built. An AI model is effectively a
+token guesser that builds upon existing
+examples of the written word. Human
+written word or computer written word
+doesn't really matter. It has ingested
+hundreds of millions of documents, code
+bases, Stack Overflow conversations,
+blog posts, maybe even transcripts from
+IRC chats and forums. Like from there,
+it's built this internal model that
+makes it very capable of guessing what
+the next token should be in this series
+of tokens, which ends up being the piece
+of text that we get, right? The code it
+writes or the text that it writes to
+explain the code that it writes, the
+comments, all that kind of stuff. It's
+just token after token guessed from this
+baseline of data that it knew from the
+past. And the data that flows into these
+models, the training data for at least
+the first couple generations was what
+people had publicly provided open code
+bases on GitHub, GitLab, SourceForge,
+and all these other places where people
+deploy code in blogs, in conversations,
+right? That's where it came from. And
+the AI was trained on this data which
+makes it obvious I guess that the AI has
+had the most exposure to the programming
+languages and frameworks that were the
+most popular at the point of its
+training. That's kind of the qualitative
+view right if it feels that this is the
+most popular obviously there is the most
+like stringent and coherent data on it.
+And from a quantitative view, the AI is
+also trained best on code that in
+aggregate has been most often used and
+most often written up, but until the
+point that the AI was trained on that
+data. So, it's only logical that the AI
+has had the most exposure to things like
+JavaScript, which over the last decade
+at least has seen this massive
+renaissance, right? It's always been
+popular, but it's been really, really
+big because it works pretty well both in
+the front end and on the server thanks
+to things like Nex.js, JS hosted
+solutions like Verscell and React and
+React server and React Native and you
+know there's a lot of JS and JavaScript
+became one of the most popular languages
+and always has been since its inception
+and the fact that it was pushed into the
+browser as the only language to work
+there and a lot of people wrote code and
+published it and that made it available
+for AI to ingest. So languages like PHP,
+Ruby, maybe C and Java, equally popular
+frameworks with a lot of history in
+deployed code like for decades at this
+point. They're pretty well represented
+internally in these AI systems. You can
+look at the statistics that GitHub
+sometimes releases about the kinds of
+coding that people do and have done in
+the past. They are kind of on a
+year-by-year basis, but I would like to
+see actually what the historical
+distribution is. We might see a lot of
+JS obviously because it's very popular
+now but I guess 15 years ago JavaScript
+was not as big like back in the day we
+just had gotten coffecript which was the
+first kind of transpiles into JavaScript
+thing or one of the first that then
+later led to things like TypeScript and
+so on which are now very popular but
+back in the day JavaScript on the server
+was a rather new thing I'm just thinking
+like 15 years ago. So in those days
+people were writing a lot of Python and
+even a lot of Ruby on Rails was
+happening and so those code bases may
+have been the most represented ones and
+they're still on GitHub. I guess the
+older version of them definitely must be
+there like for each of these frameworks
+and for each of the applications written
+on it. So you know there's a lot of data
+that's what I'm trying to say. If you
+look for more esoteric code in a sense
+like the more rare kind of languages,
+niche programming languages, things like
+Nim or Erlang or Small Talk, well, there
+might not be as much of it now because
+it's never been like hyper popular, but
+there's still ample history for those
+languages, right? A lot of code was
+written, maybe not a lot a lot like
+JavaScript, but still a lot. Might just
+not be as prevalent as other languages.
+And that's assuming that all of this
+data actually made it into the training
+corpus. Maybe people were more selective
+and only trained AI models on, I don't
+know, JS, the popular things. The model
+can only know what it was fed, can only
+assume things then from the data it's
+been trained on. So when it comes to
+making a technological choice based on
+what the AI understands, well, the
+answer is actually quite surprising
+here. You could probably use everything
+that has existed in the past where
+there's a written record for code to be
+training material for an AI. If we can
+be sure that the current AI systems have
+been trained on pretty much everything
+on GitHub, then you could use any
+technology that ever had a trace on
+GitHub and the AI will probably be fine
+with it right out of the box. Now if you
+go with JavaScript, PHP, Ruby, Python,
+those kind of things, you'll get very
+good results by default because the
+training data has been so plentiful
+already. But even if you go with Elixir,
+Scala, Bash, those kind of things, you
+still have a pretty massive data set for
+the AI to draw on. The problem might
+come with languages or frameworks that
+have been created since the AI was
+baseline trained because the AI only
+remembers what it was trained on in the
+past, right? Until we have AI systems
+that constantly create the new training
+data and pull it in without human
+intervention, you kind of still have to
+wait for a new version of an AI to be
+released that may or may not incorporate
+new features by default. Now, that
+obviously is just the AI system. If you
+start thinking about the extensions of
+these things, all of a sudden the
+problems that I'm talking about are
+really not problems anymore because the
+MCP, the model context protocol and the
+integration of tool calling in AI
+systems makes all of this somewhat moot.
+These tools are able to ingest the full
+documentation, any version of any
+framework and allow an AI system to
+update its knowledge on the fly as it is
+working on a coding problem. There are
+MCP solutions that pull in docs for
+every single library that you use. It's
+really cool. Not just library, even the
+frameworks that you have that you have
+going on. Though this means that if you
+have a proper MCP system that pulls
+documentation for any programming
+language that you use, then any
+sufficiently capable AI coding system
+and I'm talking about things like clot
+code or codeex by OpenAI or Cursor or
+something like that will be able to code
+in the language you choose. So
+ultimately it does not really matter
+which framework you choose for your
+coding projects. The AI system with
+proper default choices or with proper
+instrumentation around these non-default
+choices will be capable of building this
+tool for you or building anything you
+want it. So for some people this might
+mean they think okay cool. If that's the
+case well then I'm just going to build
+this project in whatever cool language I
+think is perfect for this. Maybe you're
+a JavaScript dev and you've heard that
+you really should write everything in
+Rust on the back end because memory
+safety, performance, that kind of stuff.
+You could probably instruct your coding
+AI system to build a backend server in
+Rust. And it very likely would be able
+to build code that actually works. But
+this is going to be code that you don't
+innately understand. You're going to be
+presented with code that your AI system
+will build for you and you'll have to
+say, "Okay, cool. Sure. Let's run this."
+Or, "Wait, this doesn't look right." If
+you're not able to tell one from the
+other, if you're not able to say, "Well,
+this looks good and this looks not
+good," then you're effectively building
+a black box, something so opaque that
+you just don't understand how it works.
+You only see that it does or it doesn't.
+And if it doesn't work, you can only
+tell the AI to fix it. You won't be able
+to fix it yourself, at least not without
+massive effort. But you can't tell it
+why it should fix it other than it not
+working or what it should fix or what it
+should fix it with and to what end that
+fix should be better or different from
+the current implementation. You won't be
+able to do this because you just don't
+know. And obviously all these activities
+like debugging, expanding, manipulating
+code will likely be done by automation
+systems for many people in the future.
+So for most developers in the future,
+for many already at this point, these
+systems will do all their work. But the
+capacity to see errors and to understand
+the infrastructure of a coding project
+is still the responsibility of the
+actual person instructing, right? you
+are responsible for maintainability and
+the functional capabilities of your
+coding projects today and in the future.
+So I strongly strongly recommend that
+even though we have this magical tool
+that can build anything in any language,
+you should still learn and deeply
+understand one particular programming
+language, one particular thing. Get
+really good at that. For that, choose
+one that has this vivid ecosystem that
+an AI can pull a lot of documentation
+from if needed. But that still allows
+you to understand and choose a language
+that has a vivid community that you and
+an AI can pull conversations from and
+participate in conversations in and
+learn what the best practices are, why
+they are like this, right? You want
+something with a strong historical
+backlog of existing projects. That's
+kind of the Lindy effect. Things that
+have stuck around for a long time are
+likely to stick around for a longer
+time. And AI systems are going to
+amplify this. The AI systems themselves
+right now are going to create artifacts
+in particular frameworks like things
+like Laravel or whatever that I'm using
+and in languages like PHP by creating
+new projects that people then upload to
+GitHub where then this goes into the
+next generation of AI models as training
+data. It's going to self-amplify and if
+you want to choose a technology that you
+are versed in then you are on the right
+path because if you understand any
+particular code that is written either
+by you or by a machine then every
+potential commit that the AI suggests to
+you will know exactly what happens and
+you will maintain the quality and
+maintainability of the system because if
+you don't the AI will build what people
+who wrote code in that language thought
+in the past was going to be best. It's
+not what you think is best right now.
+It's not what you want to build and
+would build in another language, but
+what the collective implementation
+strategy of people in the past who used
+this technology back then in the day
+looks like that's what an AI will try to
+do. The AI is effectively going to build
+something kind of somebody else's code
+with your instruction. And you don't
+want that. You wanted to build your code
+with your instruction. So for that you
+still need to know and understand the
+language. If you're on the fence right
+now whether you should use another
+framework or another tech stack that you
+know an AI will understand but you don't
+I think go back to what you understand
+and slowly learn this new technology. Do
+not throw completely new tech on new
+projects and hope that the AI will save
+you. I don't think that's going to be
+the case. And even if it works you still
+lack this understanding of it. You need
+to be able to understand every single
+piece of code. You need to develop
+experience in potential scaling
+challenges in esoteric edge cases in
+handling small and frequent or large and
+infrequent data. You need experience
+integrating this tech with others and
+getting other people onboarded into this
+technology because your business will
+grow and you're going to be hiring. And
+all of this requires that you have a
+solid foundational understanding of the
+technology that you're using. So do not
+outsource this to AI. The AI is only
+going to be as good as the other people
+who used that in the past and it does
+not necessarily map onto what you
+actually need. If you can't reliably
+instruct your AI with these things, it
+will build something that somebody else
+would build, not something that you
+would build. And that doesn't work if
+you want to build your own business.
+AI's impact on text choices is pretty
+massive because you can do everything.
+But you should be highly restrictive
+with these new technology choices that
+you outsource to AI because that is
+outsourcing control. That for founders
+like us ultimately is outsourcing
+ownership because if you can't fix it,
+you have to hire somebody who can pay
+money for this. If you can't fix it, you
+have to rewrite it in the future and
+that's going to cause financial stress
+to your business. And if you're going to
+have to rebuild it in a way that you
+understand, then in the end when you
+sell it, it's going to be complicated
+because now you have this kind of
+Frankenstein codebase or you have to
+stop using it altogether because the
+project doesn't work and you have to
+just turn it off because it spirals out
+of control and you don't want that. So
+do not make AIcentric tech choices. Make
+usecentric tech choices. The best tech
+Slack is still the one you already know
+even in the age of AI. And that's it for
+today. Thank you so much for listening
+to the BHA founder. You can find me on
+Twitter at avidka ar khl if you want to
+know what everybody's saying about your
+brand, your name, your products and over
+4 million podcasts. Potcanfm tracks
+mentions of anything you want to track
+in near real time with a very powerful
+API that turns podcast conversations
+into actionable data. And if you're
+hunting for your next business idea, you
+can get that delivered fresh from the
+podcast world at ideas.podskanfm Podskan
+FM where we extract the best startup
+opportunities from hundreds of hours of
+expert conversations every day. Thank
+you so much for listening.

@@ -1,0 +1,53 @@
+{
+  "topic_id": 154858,
+  "title": "Frappe WhatsApp Group Integration",
+  "slug": "frappe-whatsapp-group-integration",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "frappe",
+    "whatsapp"
+  ],
+  "created_at": "2025-09-30T10:01:08.292Z",
+  "last_posted_at": "2025-09-30T10:01:08.432Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/frappe-whatsapp-group-integration/154858",
+  "views": 61,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "anshiv10",
+  "posts": [
+    {
+      "id": 482649,
+      "username": "anshiv10",
+      "name": "Anshiv10",
+      "created_at": "2025-09-30T10:01:08.432Z",
+      "cooked": "<p>Hello</p>\n<p>Can you Please brief me about this :  How to create a WhatsApp Broadcast Channel in the Frappe WhatsApp in the ERPNext hosted on Frappe Cloud where I can upload the details of the Offers, Discount or any other relevant information and about each message, Can I get the analytics report (click_rate , open_rate , bounce_rate, viewed_by, received_by) etc.</p>\n<p>Thanks &amp; Regards</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/anshiv10/{size}/88266_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 26,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

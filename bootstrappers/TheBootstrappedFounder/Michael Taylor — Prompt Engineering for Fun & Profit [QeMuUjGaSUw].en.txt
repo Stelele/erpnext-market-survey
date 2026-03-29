@@ -1,0 +1,1989 @@
+﻿Arvid Kahl: On the Bootstrapped
+Founder today is Mike Taylor, a
+prompt engineering expert. We
+talk about AI, why AI is more
+like people than you would
+think, how to build the perfect
+prompt, and how the field of AI
+is developing and will develop
+for indie hackers, founders and
+entrepreneurs in the future.
+This episode is sponsored by
+acquire.com. More on that later.
+Now, here is Mike.
+Michael, do you think generated
+AI will one day be as ubiquitous
+as concepts like databases or
+emails, like these things that
+are all around us all the time
+will generate a FIB data for us
+as well?
+Michael Taylor: I think there'll
+be an interim period where it
+is, although I suspect a lot of
+those old abstractions will
+become irrelevant. Like we might
+not care about databases one
+day, like I think about is I
+read an article about how kids
+these days don't understand file
+systems because they grew up
+with Google Drive and Google
+Drive, you could just search and
+because the search is so good,
+they never organized stuff into
+folders. So that's really
+surprising to me, right? Like,
+child of the 80s and 90s. You
+know, I meticulously organize
+stuff, but it kind of really
+made me think because I mean, I
+don't know if you've used object
+storage with the startup that
+you're building. But like, even
+in Google Cloud Storage, there
+is no real file system. It's
+just blobs. And then the folders
+are just like if you give it a
+name with the forward slash and
+then a folder name and then a
+forward slash, then it calls it
+a folder, right? It displays it
+as a folder, but it's not how it
+is actually stored. It's not
+actually in that folder, if that
+makes sense.
+Arvid Kahl: That's such an
+interesting point. It's like the
+new technology actually acts
+like the old thing that us old
+people know
+Michael Taylor: Yeah
+Arvid Kahl: Used to work. Yeah.
+Wasn't that an article on Hacker
+News about this just a couple of
+weeks ago, like AWS is not a
+file system, right? Like that
+was
+Michael Taylor: Yeah, yeah
+Arvid Kahl: To where it's really
+just blob storage. And it's
+meticulously secured with
+checksums and everything, but
+there is no file structure. It's
+just set on top. That's an
+interesting point, I guess, if
+you only have a mobile phone and
+you don't really have anything
+comparable to like the Windows
+Explorer or Mac OS finder or
+something like this, like you
+never actually have to deal with
+files in the context of just
+them being files somewhere. You
+always interact with them as
+data in an application. Okay,
+that's interesting. So what will
+we see in that regard with AI
+tools? Like what steps will they
+take away that we take for
+granted right now?
+Michael Taylor: Yeah, good
+question. I mean, nobody knows
+the short answer. But if I was
+like, venturing to guess based
+on like I always like to say, I
+can't remember who said this
+originally. But they said, like
+you should live in the future
+and build what's missing, right?
+I think it was Paul Graham, in
+one of his essays. So, you know,
+when I talk to people about the
+prompt engineering stuff that
+I'm doing, they're like, oh,
+you're living in the future,
+man. Like, it's kind of crazy
+what you're doing right now. And
+so like, if I can take my own
+life as to the abstractions that
+I care about with AI and like
+what I've abandoned now, I
+guess, since AI is doing most of
+my work is I don't really care
+about code very much anymore. So
+like, I used to work in data
+science. I actually used to
+manage a team of data
+scientists. And I cared very
+much about like, how the code
+was written and what the results
+were and like we'd step through,
+you know, line by line. But now
+I find quite often, I'm just
+like, asking ChatGPT. It's
+writing some code. I'm not even
+looking at the code it's
+writing. And it gives me the
+answer. And I, you know, check
+that answer. And I think, yeah,
+that matches my intuition. But
+ultimately, that code is written
+for one purpose and it's never
+looked at again. And I suspect
+that that's going to keep
+expanding, right? So that's what
+data analysis is already pretty
+good at that. But I've seen some
+demos from people like Next.js I
+think is pretty forward thinking
+on this, like for sale that's up
+for sale. They're like building
+one time use UIs. Right? So if
+you're chatting at ChatGPT, it
+builds a UI, right? If you can
+imagine this, it would build a
+form that's just related to that
+query and then it throws it
+away. So I feel like a lot of
+code is going to be thrown away
+and won't be seen as like an
+asset so much anymore. Like
+right now it's like, I have a
+really good code base and I need
+to make sure nobody steals it
+because that's how I'm going to
+raise money with investors. And
+I think a lot of the value of
+code as an asset will be
+stripped away.
+Arvid Kahl: Yeah, I guess that's
+part of I think the underlying
+thread that a lot of developers
+feel that that part of their
+job, like the creation of code,
+the writing, the actual
+authorship, and penmanship of
+code is going to be taken way,
+but I kind of also have the
+feeling that with that comes
+something else that did not
+exist before, which is kind of
+the wrangling of the code,
+right? To become more of like an
+AI cowboy, where you just kind
+of keep this doing back into
+place.
+Michael Taylor: Yes
+Arvid Kahl: Instead of being the
+person like actually, like
+hurting specific animals to
+really drive this metaphor into
+the ground. But you know what I
+mean, right? It's like, the job
+changes there. Have you seen
+things happen in your
+interaction with those API's
+with code in particular, that
+you'd never thought you had to
+do before? Because I certainly
+have in building my new product,
+like this is like an 80% code
+generated by AI, that I just
+kind of try and make fit into an
+existing system. Do you
+experience the same?
+Michael Taylor: It's like
+working with a petulant child,
+sometimes. You're trying to
+like, you're like you write this
+amazing prompt and you're like,
+you know, you try it a few times
+locally. And it's like, yeah,
+this seems to be getting you the
+results I need. And then you run
+it, like 1000 times and you're
+like, huh, like one in every 100
+times it just refuses to do the
+task. Right? And I'm like, there
+is no rhyme, no reason why,
+like, it's the same task. Right?
+So yeah, that is, I think, it
+really changes the way you have
+to think about writing code and
+actually brings it closer to
+like, I came into coding later
+in life. Like I actually built
+and ran a marketing agency. So
+you know, when I was managing a
+team of like 50 people, you
+know, when you're managing 50
+people, the study days in the
+month, so it's at least one
+person's like, worst day of the
+month, like every day, right? So
+like, if you're just an employee
+like, you have one bad day a
+month, two bad days a month,
+whatever and the rest of the
+days are fine. If you're like
+managing a team of people,
+there's always someone's bad day
+happening that day. And you're
+the one that kind of it filters
+up to. And I kind of feel like
+that's the same with when I'm
+managing models, right? Like,
+it's actually close to being a
+manager of people that it is to
+being a software developer.
+Arvid Kahl: That's very
+interesting. Man, I love the
+analogy with the bad day because
+I have the feeling, particularly
+as we are living in this rapidly
+evolving world where models come
+out with new versions, like on a
+daily basis. If you go to
+Hugging Face, just to look at
+the most recently updated
+models, like you will find
+hundreds if not 1000s of models
+that have been updated in the
+version just today. Right? And
+some of them are the big ones
+that a lot of people use. So it
+feels like the bad day for
+model, it's not just a bad day.
+It's a bad version deployed on a
+certain day as well. Right? Like
+there's you have to all of a
+sudden judge, is this good or is
+this not? And I honestly I
+struggled with this because I
+use several of these models
+locally. Like for me, I don't
+necessarily deploy them to the
+cloud. I run them on GPU
+instances in like, I don't know,
+Lambda labs or AWS, just some,
+like instances of a VM with a
+GPU attached. And boy, is it
+hard to wrangle these things to
+get them to do what you want
+them to do reliably, is what you
+said. They sometimes just flat
+out refuse for no apparent
+reason. The blackbox is a big
+issue for me. And how do you
+deal with this? Because I know
+you do a lot of prompt
+engineering, that is the big
+topic that I really want to dive
+into with you today. Because
+it's something that I do every
+day. Everybody does it like
+every software engineer is
+trying to figure out how to get
+AI to do their bidding. How do
+you deal with the fact that you
+have no insight into these
+models other than what comes out
+of them? You don't really know
+their inner workings. Now, how
+does this affect how you
+approach talking to them?
+Michael Taylor: Yeah, I think
+you have to kind of approach it
+more like a researcher studying
+human behavior way. You know,
+you have to kind of observe
+what's happening in different
+extreme cases. And then you
+start to form a pattern of like,
+okay, you know, 5 times out of
+10, it says, you know, it
+refuses, but obviously, each
+time it refuses might be
+different because there's some
+non determinism there, right?
+There's some randomness in the
+responses. So you have to kind
+of go through notice that
+pattern and this the same way
+that, you know, if someone was
+doing research of, you know,
+tribe in the Amazon and they're
+trying to figure out how these
+people communicate with the
+structures of the tribe or how
+they behave in certain
+situations. That's what they
+would do, right? Like, they
+would maybe record a lot of
+footage or they would record a
+lot of transcripts and then go
+through the transcripts
+meticulously and go, okay, well,
+you know, I've noticed like 10%
+of the time this phenomenon
+happens and like, you know, in
+these cases like this is likely
+to happen. So you're really kind
+of doing research into this new
+creature, this new form of
+intelligence that, you know, is
+even weirder than, you know, an
+uncontacted tribe because you've
+never like it's like, you know,
+they're human. They're just like
+us. And this is like a
+simulation of a human. It's not,
+you know, not quite behaving the
+same way that we do.
+Arvid Kahl: It's funny, I
+thought our first encounter with
+aliens would look different, but
+this is what it is, right? Like
+we are literally seeing a new
+form of life for the lack of a
+better term because obviously
+it's not an organic life. And
+it's not
+Michael Taylor: It's not a real
+life. It's just, you know, it's
+a very good simulation of how
+human response, right?
+Arvid Kahl: You know, the term
+real here is something that as a
+avid fan of science fiction. I
+grew up a Star Trek fan for all
+of my life. And I've read a lot
+of like hard sci fi and that
+kind of stuff. I just love the
+idea of like, what if, right?
+That's what this is about. I
+couldn't tell you if this is a
+life or not. And the whole
+debate around AGI and Q Star put
+aside, right? All of these terms
+that are very academic, like,
+there is a feeling here that
+there's something in these
+systems, even in the most basic,
+like 1.3 billion parameter
+trained, tiny 500 megabyte LLM
+systems, that is just
+inescapably different from how
+technology used to be. Like,
+there's something in there that
+creates something out of
+nothing, even though we kind of
+know how these networks work,
+how these models work. To me
+that could well be understood as
+consciousness a couple 100 years
+from now, you know, like how we,
+in retrospect, always figure out
+oh, things have been a certain
+way, we just didn't see. It kind
+of feels like AI is at the stage
+where this in a couple of
+decades is clearly something
+different than what we perceive
+it as right now. Do you feel the
+same? Do you feel this is like
+Michael Taylor: I suspect that,
+yeah.
+Arvid Kahl: On the verge?
+Michael Taylor: Yeah, I suspect
+that. I mean, fundamentally,
+like, I don't care that much
+about like the theoretical
+question is, like is this life
+or, you know, I mean, it's
+pretty clearly not right now.
+Right? But like, it could get to
+the point where I suspect we
+would have to treat AI with more
+respect. Like, I would say
+please and thank you to ChatGPT.
+Arvid Kahl: Me too
+Michael Taylor: But you know, I
+suspect that eventually, it
+might get to that point where
+you have like AI right, so you
+know, like because, ultimately,
+like if it simulates life very
+closely, is there like that much
+of a difference? You know, just
+in the same way that, you know,
+you can have real emotion when
+you're playing a video game,
+which is just a simulation. And
+some people actually prefer
+playing video games to playing
+reality. You know, like, I
+suspect that the question won't
+really matter that much the
+theoretical question. What will
+really matter is how people
+behave around AI and how we, you
+know, form as a society,
+different kinds of norms around
+how to work with AI. I think
+like, that's kind of the
+important shift there.
+Arvid Kahl: Yeah, it goes both
+ways. Right? Like, you have
+ethics for how you treat AI,
+like as the potential life or
+consciousness that it could be.
+But you also have ethics in what
+you do with AI, like the work
+that you create, the work that
+you let it create and I think
+the biggest debate over the last
+couple of weeks was around
+Google's the gamma thing and the
+misrepresentation of historical
+visualizations. And that was a
+big deal. And the question was,
+well, is it ethical to
+misrepresent history? Or is it
+ethical to ask for things that
+the AI does not want to do? Or
+is trained to decline? Like,
+where do we draw the line?
+Because I think a lot of the
+visual AI has the obvious
+problems with you know,
+pornography or with things,
+themes that are deemed socially
+unacceptable?
+Michael Taylor: Yeah
+Arvid Kahl: How does the prompt
+engineering play into this?
+Because I know people have been
+trying to effectively jailbreak
+these systems and get what they
+want out of it. Like, how do you
+deal with this as somebody who
+is teaching people how to prompt
+engineer? How do you deal with
+this ethical implication there?
+Michael Taylor: Yeah, I don't
+know if I just, I'm attracted to
+these fields for some reason.
+But like, we had the same
+problem in growth hacking. So my
+agency that I built was a growth
+hacking agency, right? And I was
+interested in growth hacking
+because it was like, this is
+what happens when you get a
+developer, you force them to
+work on marketing. Like they
+squirm for a bit, but eventually
+they produce magic. But yeah,
+but then, because there are a
+lot of marketers who are like,
+ha, if I like, you know, do a
+bootcamp or like I learned a
+little bit of JavaScript, I can
+like, say I'm a growth hacker
+and then I can get paid like a
+developer. And then what they
+really ended up doing is like
+spamming everyone's contact,
+address books, you know. And so
+the growth hacking ended up
+being associated with a lot of
+spam and like bad behavior.
+You're trying to get something
+for nothing like the word
+hacking obviously didn't help
+them. But it's a similar problem
+in prompt engineering where, you
+know, you get mixed reactions
+from people when you say I'm a
+prompt engineer. Because what I
+mean by prompt engineering is
+someone who works with AI to
+build a system to get useful and
+reliable outputs, right? So it's
+just like, if you're engineering
+a bridge, you want the bridge to
+be reliable, like you don't want
+it to suddenly tend to jelly,
+right? So you need to kind of
+understand a little bit about
+how bridges work, how physics
+works in order to make sure that
+the process of building those
+bridges is reliable and will get
+the same results every time and
+people don't get in trouble. So
+prompt engineering is like that
+to me. Like, if you're building
+a production system like you
+have with your app, you just
+need to make sure it's reliable.
+You can't have it refused to do
+a request every now and again,
+right? Or you can't have it like
+hallucinate and make something
+up that like with your tool.
+Like, it might say that
+something was said in the
+podcast that wasn't and that
+could actually cause a big
+trouble. A lot of trouble for
+some guests. Right? So that's
+how I see prompt engineering.
+But how a lot of people see it
+is like, the spammy like, here,
+like 800 of the best prompts for
+this and I'm like, okay, you
+look through it. And it looks
+like someone casting a spell,
+you know, it's like, it's like
+an incantation. Yeah. That's you
+know
+Arvid Kahl: Honestly, that's
+exactly how I feel about most of
+this whole AI world in many
+ways. It has some kind of sense
+of Wizardry to it. Right? It
+feels magical.
+Arvid Kahl: And it is kind of an
+incantation. You evoke a result
+by just telling something what
+to do. But you really use the
+right words in the right order
+and you have a solution flick
+like the Harry Potter
+methodology, right? There is
+something about casting a spell
+that a lot of prompt engineering
+looks like to the uninitiated.
+Obviously, once you look into
+it, you understand how you know
+the tokens work and how context
+works and how even you can dive
+into embeddings and all these
+things, how the data gets
+ingested. But it feels magical.
+I want to get back to you
+mentioning the bridge because
+like civil engineering and
+architecture has a lot of
+Michael Taylor: Yeah, yeah
+certification to make sure that
+people don't build bridges that
+turn into jelly. Do you think
+prompt engineering in the world
+of like AI education, in
+particular, would benefit from
+such kind of a certification? Or
+do you feel that it's still like
+the Wild West? And we'll see
+where this goes right now?
+Michael Taylor: Yeah, good
+question. I mean, I would say it
+depends on what you're using it
+for,. I think, you know, there
+probably needs to be some sort
+of university degree in AI,
+right, or prompt engineering,
+like an actual one. Like in the
+same way that, you know, if you
+go to university to become an
+engineer, then you get trusted a
+little bit more with these sorts
+of problems. But I would say
+that, you know, each industry,
+each application is different.
+And if you regulate the, you
+know, like prompt engineering as
+a field, then I think you're
+gonna have a lot less innovation
+in the fields where, like, you
+should be able to just mess
+around. Equally, I suspect that,
+you know, even like bridge
+engineering, would be civil
+engineering, would benefit a
+little bit from more risk taking
+in the testing phase just like,
+you know, actually wearing a
+basic t shirt. So it kind of
+makes me look like a Elon
+fanboy. But, you know, like, he
+blew up a lot of rockets, right?
+And like, obviously, he has
+smart people on the team who are
+qualified engineers. But, you
+know, I think prompt engineering
+works best when it's like that.
+You're just really testing the
+limits of the model, you're
+testing, like weird things. And
+then in production, you want to
+be really safe. But you know,
+when you put humans on board the
+rocket, you want it to be really
+safe. But the way that you
+create safety is by having like,
+almost like, unregulated, crazy
+amount of testing of like,
+really creative ideas. So I
+think you have to kind of decide
+what stage you're at in the
+product as well.
+Arvid Kahl: Yeah, that makes
+sense to me. I mean, the problem
+right now to me is that there's
+such an incredible pace in
+development speed. And also in
+the best sense, I guess, an
+incredibly accessibility to all
+these things. Like everybody can
+prompt engineer. It's not that
+like the current version of like
+Llama 2 or Llama 3 or, you know,
+GPT-4, GPT-5 is like hidden
+behind some kind of like
+academic wall and only certified
+prompt engineers can, you know,
+figure stuff out, like everybody
+can either run these models
+themselves locally, or at least
+use a fairly reasonably priced
+API to access them. Everybody
+can use it. And I guess, with
+tools that are ever more
+interconnected also able to,
+like execute functions and, you
+know, lookups on the internet
+and even you know, evoke other
+services. Again, there's this
+magical thing where the thing
+that I tell to do something
+actually call somebody and does
+something for me. How weird is
+that? Right? There's a lot of
+risk in it overstepping
+boundaries or again, unethical
+behavior. So I think the pace of
+stuff just makes it so hard to
+even, you know, like even tear
+this like there's the
+development tier, there's a
+testing tier, a QA tier, a stage
+tier, and production tier.
+That's how we do software. But
+for these models, it feels like
+they're all happening at the
+same time. Do you see that too?
+Michael Taylor: Yeah, for sure.
+I would say that there is
+usually distinct phases in the
+projects I'm working on. So
+typically, you would start with,
+you know, like, if I work with a
+client or if even if it's just
+me doing it myself, you start in
+ChatGPT or in the playground and
+you're messing around with the
+prompt. You have a problem, you
+think, I wonder if AI can do
+this, right? And then you're
+like, oh, it actually does a
+pretty good job. But there's
+some problems. So you start to
+note down the problems, you make
+changes to the prompt and
+there's this trial and error
+phase, right? And if you keep
+going on trial and error, I
+think that's when you get to
+these incantations because maybe
+I think, after you've been
+working on that problem for too
+long and you've seen too many
+versions of the same thing, it
+starts to get weird and that's
+when you start casting spells.
+But I think you quickly need to
+move out of that phase once it's
+working okay into a more
+rigorous, like optimization
+phase. And the difference
+between those two things is when
+you're doing trial and error
+with ChatGPT or with, you know,
+an image model, like DALL-E, you
+have a tendency to over extend
+the prompt and you also have a
+tendency to make changes that
+aren't really improving the
+performance. Like they just kind
+of look like they are because
+you got a lucky hit. Right. And
+it's very similar actually, to
+like the early days of medicine
+where they would, you know. They
+were kind of living this back to
+incantations, you know, they
+would be like, oh, we need to
+balance his humors. So we'll
+bleed some
+Arvid Kahl: Yes, bloodletting.
+We need bloodletting.
+Michael Taylor: It's like, yeah,
+and it's like, the reason those
+things exist is because of, you
+know, people mistaking
+correlation for causation. Or
+they, you know, like it happened
+and it worked once. So then they
+keep doing it even though
+they've never actually tested
+whether it continues to work,
+right? So I think you need to
+get more scientific with
+something that's going to be in
+production. And that can be as
+simple as, you know, just
+running that prompt, like 30
+times and then pasting it into
+Google Doc, right? And then just
+reviewing, like okay, like, how
+often does it do bad things?
+Like, you know, what types of
+groups of bad things does it do?
+And then you get more of an
+understanding. Like, when I'm
+doing prompt engineering, I'm
+like in a Jupyter Notebook, like
+writing Python and like with my
+function that calls ChatGPT. It
+won't just call it once. It'll
+call it 100 times. And it'll do
+it asynchronously. So instead of
+going like call ChatGPT and then
+it gives them back the answer,
+then call ChatGPT it gives the
+answer. Instead, it will call
+like, 100 times at once and then
+you get like, 100 answers back
+at once. So it's a lot faster.
+Otherwise, it would take hours.
+And then I have like some
+Arvid Kahl: I love this because
+that's exactly what I've been
+automated evaluation as well. So
+from trying to, like make a blog
+post longer, you know, because
+right now when you ask it to
+generate a long blog post, it
+will write at most 800 words. If
+I'm trying to find different
+ways to improve that, I'll do it
+systematically. So I'll test you
+know, version A 100 times,
+version B 100 times and then
+I'll see if there's actually any
+aggregate difference. I think
+that that's when you get into
+real engineering separate from
+like this witchcraft stuff.
+doing over the last couple of
+days. For Podscan, I have this
+question answering thing, right?
+Where my users can ask a
+specific question of every
+podcast that is out there. And
+if it triggers, if it's answered
+with yes or no. And if it's yes,
+then they get a notification.
+That's the general idea. That's
+how I use inference and AI on my
+system, right? It looks for
+keywords. And if it finds any
+keyword, it checks, well, is it
+actually answering this question
+with yes or no. But for that, I
+needed a system that can
+reliably and truthfully answer
+yes or no to any question. And
+that turned out to be quite
+complicated because like, a lot
+of systems out there even
+ChatGPT is pretty good at saying
+yes or no, but sometimes it just
+answers with maybe or with
+probably. It was something like
+this, right? It's hard to
+quantify words like that if you
+expect a yes or no. So I needed
+to find a specific model that
+was useful for question
+answering. Like I'm using, I
+think the Falkor model, which is
+specific cue a trained model.
+And then I needed to figure out
+what is the right prompt. And
+all these models have very
+different styles of prompt. It's
+not just that you write a text.
+Sometimes, they're trained on
+certain formats, right, where it
+says like bot says this and then
+user says and then you get the
+response or sometimes you have
+the LM starts the LM system tags
+or these things. They all very
+specific and it took me ages to
+figure out a good prompt that is
+reliable and answers in a way
+that does not answer like it
+does not give false positives.
+But it can answer wrong like I
+don't want it to say yes to
+something that is a no but it's
+fine for me for it to say no to
+something that might be a yes. I
+don't care about the false
+negatives. Those are acceptable
+because I have like 20,000
+podcast episodes coming in in a
+day. It's fine if one or two are
+not mentioned. But the false
+positive is a problem. So I set
+up a system in Python, not in a
+Jupyter Notebook just in a
+Python script, where it just
+consistently runs this local AI
+on I think 100 like text
+fragments plus a question and an
+answer yes or no. And then it
+just consistently checks. And
+I've run this, I think it has
+been running for two days
+straight. I think it ran over
+like 30,000 times at this point.
+And I got it to a point with,
+you know, playing with the
+prompt where it has like, 99.8
+or something percent accuracy,
+which it's bizarre because I
+never expected to do this kind
+of research work by building
+something that scans podcasts is
+bizarre, but you kinda have to
+do it. Right? This is how you
+have to optimize these models.
+Michael Taylor: Yeah, for sure.
+And what you're doing there,
+like, the key word for anyone
+like interest in looking more
+into this is evals, that's what
+AI people call it, right,
+evaluations. So like, when open
+AI releases a new model, they'll
+have like these benchmarks of,
+you know, different sets of
+questions and answers that
+they're kind of like different
+tests that AI can take, right?
+And, you know, some of them
+measure reasoning ability. So
+they have a lot of question
+answering reasoning, you know,
+type sets and then you have like
+some that measure mathematical
+ability, others that measure
+like grammar and English
+literature. You have some that
+measure ability to do other
+languages. So for example, if
+you have your podcasts that are,
+you know, in other languages,
+you could translate them, right?
+If that becomes important, so
+yeah, typically, you know, I'm
+custom building them every time
+for my clients because it
+doesn't really matter to my
+client like, if it's good at
+reasoning. It just matters like,
+kind of do this specific task,
+right? And it's just like
+recruiting, right? Like, you
+know, in the job interview, you
+want to kind of figure out, you
+know, can they use Excel? Like,
+can they do this? You know, how
+good are they doing this? And,
+you know, and sometimes you have
+to recruit a model that isn't
+very good at that yet and fine
+tune it, like train it and just
+like you would train an
+employee.
+Arvid Kahl: I love the fact that
+I think this is like the fifth
+time you've kind of compared
+working with API's to working
+with people. I think like as
+agents, I mean, that's what they
+are, right? They are agents of
+our intention and they tend to
+have be able to make some kind
+of decision conscious or not,
+right, in our stead. So I love
+this comparison . That is really
+cool. And yes, you definitely
+have to evaluate them. But one
+thing that comes to mind is
+overfitting. Because these
+benchmarks are also quite
+public, right? What prevents AI
+systems from kind of including
+these benchmarks in the training
+system and then acing them. Is
+that a problem? Because I don't
+know that part of the space too
+well. Is this an issue?
+Michael Taylor: It is actually,
+like I mean, I'm not involved
+too much in like, the public
+benchmarks so much but because
+like, I just look at like, okay,
+if someone tells me that this
+new model is good, then I'll try
+it for myself and see if it
+works on my tasks. Right? But
+ultimately, you know, a lot of
+those benchmarks are becoming
+meaningless in some respects for
+a couple of reasons, right? One
+is that there's probably some
+bad behavior going on where
+people are intentionally
+overfitting on the exam
+questions. Like, you know, so
+that's just one thing. I would
+like to think that's relatively
+rare because I think a lot of
+the people working these AI
+research labs are relatively
+ethical, thankfully. But I would
+also suspect that they're doing
+widescale unintentionally. So
+I'll give you an example like
+GPT-4 can pass the bar exam. You
+know, it's pretty smart, right?
+But if you give it novel legal
+questions, it fails really
+badly. So if it's in the
+training data, like if you think
+about it, the bar exam is a
+question and answer set. It's an
+eval for humans. And it's based
+on the training data for those
+humans, right? Like they have to
+have read certain cases in
+Harvard Law School. And in order
+to answer those questions and
+GPT-4 has read those cases, too.
+And it has perfect recall. So
+like, sometimes those benchmarks
+are not really testing the
+ability of the AI, more so than
+like testing the quality of the
+data set they are trained on.
+And then I think the third thing
+is a lot of these models are not
+just, you know, a one shot
+prompt model these days. It was
+zero shot prompt model like,
+it's not just like you type a
+question, you get an answer
+back. There's a lot of like
+stuff happening in the
+background. So you know, when
+you ask, you know, ChatGPT to
+write some code for you, it
+actually in the back end comes
+up its multiple calls to the
+model like the first call will
+make a plan of like, what needs
+to be written and then the
+second call will then go and
+like write the code, if that
+makes sense. And then it has
+another call where it can run
+the code and it passes an error
+message back to itself. It says,
+oh, I had an error, sorry. And
+then it will attempt to fix it.
+Right. So it's one call for you.
+But it's actually at multiple
+calls in the back end. And the
+one that I recall recently that
+was interesting was Google's
+model, by default, can search
+the web. So if you're testing
+Google's model on any question,
+if that answer is online, in any
+way, shape, or form like you're
+like giving Google an open book
+exam, right? So Geminis scores
+are massively inflated because
+it can go and search the answer.
+It's not having to like, look
+back in its training data, if
+that makes sense.
+Arvid Kahl: It's like cheating
+the test, but in a good way.
+Michael Taylor: Yeah
+Arvid Kahl: Right?
+Michael Taylor: Yeah. But just
+like like school versus work,
+like a lot of their behavior
+that would get you thrown out of
+school would actually get you
+promoted at work. So, you know,
+like, you should go and cheat on
+the test, right? Like if you
+can, if you're employed or if
+it's your own company, in
+particular.
+Arvid Kahl: I like what you said
+about the bar exam where the
+exam was really just test on how
+well people studied the data,
+the underlying training data.
+And I think the interesting part
+here will be how can we reliably
+create tests that kind of test
+that but also novel enough to
+see where the limitations of the
+systems are? Right? And I wonder
+if this is going to be kind of
+almost a self cannibalizing
+thing where AIs are built or LLM
+systems are built to generate
+similar yet unique questions or,
+you know, test data sets for
+other AIs to be tested on there.
+Or maybe this is going to be
+something that people will
+always have to do is always
+going to be a human ingenuity
+thing. What do you think this
+might go? Which direction might
+this go?
+Michael Taylor: Yeah, you know,
+I think there's gonna be a
+couple of things that will
+happen. So one is benchmarks
+overall become less important as
+they just get beaten all the
+time. And I don't think we'll
+come up with better benchmarks
+necessarily, right? Like that
+will end in a few years, I think
+or become less relevant, like,
+it'll be in the paper that they
+published, but it won't be
+something that, you know,
+average people talk about. I
+think it's really just important
+when we were making a lot of
+rapid progress in AI. And AI
+was, you know, it was really
+important that like, it got like
+10% better at reasoning, right?
+And especially if it becomes the
+new state of the art, but like
+pretty soon, these models are
+going to get to the point where
+they surpass like, the abilities
+needed to do most of the tasks
+that we need them to do. And at
+which point, you'll just kind of
+use the one you like, I guess,
+similar to going back to humans
+as well. But like, you know, if
+you could hire, you know, a
+bunch of people from Harvard or
+Oxford or you know, the elite
+university of that level of
+intelligence. Like if they're
+already intelligent enough to do
+the job, the important thing is
+like, do you want to spend eight
+hours with them every day? So I
+think the personality, the model
+will start to make a difference.
+And therefore, like it'll become
+very tribal. Like, there'll be
+people who love like ChatGPT
+type model. There'll be people
+who love like, Claude from
+Anthropic. I already see that
+actually happening. Claude has
+like a little bit more
+personality than ChatGPT. So
+I've seen people saying, oh,
+even though Claude is slightly
+worse and some things I prefer
+Claude and I'm going to use
+Claude from now on and then
+people will also go tribal
+around the companies as well,
+like, there'll be the Microsoft
+camp. There'll be the Google
+camp. There'll be, you know,
+etc, etc. So, I suspect it will
+come down more to personal
+preference. And then I think the
+other thing is the real test is
+going to be like how well they
+perform in the real world or in
+virtual worlds. So, you know,
+for example, like the test of
+whether Tesla's you know, self
+driving cars doing a good job is
+how many times the driver has to
+intervene and it's basically
+impossible to fake that test,
+right? So like, if the driver
+feels unsafe enough to
+intervene, then that's a
+failure, right? And the more
+they can eradicate that like,
+then then you know, the better
+the AI is doing, right? That's
+the real benchmark, you know and
+in order to get there, they
+didn't just test it and just let
+loose a self driving car, right?
+Like, and crash into the wall
+because you know, it needs tons
+of data to be able to be good
+enough. What they did is they
+slowly automated different parts
+of the driving experience like
+some things are easier than
+others. And they also did a lot
+of testing in a virtual world.
+So they have their own version
+of Grand Theft Auto. You can
+think about this, you know, the
+car can drive around, but the
+car could drive around 30,000
+times a day, right? Like, you
+know, there's no limitation in
+the simulation, about the
+simulation obeys the rules of
+physics. So at the very least,
+the model learns how to obey the
+rules of physics and knows,
+okay, if I stare too hard to the
+right, I'm gonna hit the wall.
+And then it's kind of ready for
+real world behavior. So I
+suspect there's gonna be a lot
+more stuff like that where I've
+seen models, you know, people
+have got them to play Minecraft
+and like and that's a really
+good test for a agentic
+behavior, like, can it make
+decisions about what to do next?
+And, you know, I've seen people
+say that the real test of a
+model is going to be, can you
+just say, go make me money
+online? And if it does, then
+it's succeeded, you know. Yeah,
+but then you get into the ethics
+of like, whether that's a good
+thing or not. So, have you seen
+Devin? But in that line, have
+you seen Devin the new like
+developer agent that have been
+doing jobs in Upwork and all
+this stuff? Like, what's your
+thoughts on that?
+Arvid Kahl: Devin has been
+interesting like, for two
+reasons, obviously, the
+technology is very interesting.
+And for certain things like
+write unit tests for my code
+base, that's perfect. It's like,
+okay, sure go ahead. The
+technologies as it is so rapidly
+evolving, I don't feel
+threatened by it. I feel kind of
+empowered by it to know that
+there's something that will take
+away these things that I would
+have to either spend a lot of
+time on myself or figure out how
+to hire somebody or whatever,
+right? It's nice to see
+technology take over that part
+of technology creation as well.
+The interesting part for me has
+been the reaction in the
+community, which has been split
+along this line as well. The
+community is either oh, no,
+it'll gonna take our jobs,
+right? We're gonna lose
+everything we have with
+developers aren't worth anything
+anymore. You should never learn
+how to code like people have
+been saying this for some
+reason, like, don't learn how to
+code. Machines are going to do
+it anyway, which is honestly in
+my opinion, is just as reductive
+as saying you shouldn't learn
+how to read or write when you
+have audiobooks, like it doesn't
+make any sense, right? The
+capacity to think, the capacity
+to structure thought to
+architect solutions to a
+problem, that's what coding is.
+The writing part is irrelevant.
+And so I guess, you know, you
+should still learn how to code
+and how to think and how to
+express instructions to
+something that is effectively
+what prompt engineering as a way
+too. It's coding but on a
+different cognitive level. And
+the other side is just very open
+of this conversation. It's like
+great, another agent for me to
+not have to do the work that I
+don't like doing. I like to
+conceptualize. I like to make
+money online. I don't want to
+implement that blog. I don't
+want to implement that affiliate
+system, let that thing do it. It
+feels like do we see it as a
+threat or as a tool? It's like,
+you know, is this the ever
+present debate about weapons?
+Right? Is a kitchen knife, a
+murder weapon or is it a tool to
+make food? Yes is the answer.
+And I think Devin is exactly the
+same. Yes. Devin's answer is
+yes. Like, whatever it is, it's
+yes. So how do you feel about
+this? How do you feel about this
+from the prompt engineering side
+of it?
+Michael Taylor: Yeah, I had a
+little bit of a taste of this,
+where I was doing a ton of
+prompt writing. And then I was
+actually gonna, I was working on
+a different book, not the one
+that's coming out in June for
+O'Reilly, but I was working on
+different for different
+publisher, which I would say,
+but I started working on it was
+going to be a big collection of
+prompts. So exactly like the
+incantations that I was railing
+against before, but my plan was
+to make it more scientific and
+kind of show some actual test
+results for each prompt, right?
+There's gonna be like 200
+prompts. And what I found is I
+got really tired of doing it.
+And I was like, maybe I could,
+maybe GPT-4 could write prompts.
+And it was great. It was
+actually really good. Till the
+point where, like, I couldn't be
+bothered to write prompts
+anymore. Because I was like,
+it's actually pretty good. So
+then I was thinking, what have I
+done? Like, you know, I've been
+charging hard to like, ultimate
+everyone else's job. And I've
+just accidentally automated my
+job. But the funny thing is,
+like it's, you know, it's now at
+the point where like, you know,
+I am using that to kind of get a
+good baseline. But then the
+really powerful prompts are the
+ones where like, I have some
+knowledge that's like not in the
+training data. And I have some
+like opinion or preference that
+like the average person doesn't
+have and like I put that in the
+prompt and then you don't really
+need to care about like the rest
+of the formatting and stuff like
+that. Yeah, that's kind of
+basic, like that's boilerplate,
+right? And then let Devin do the
+boilerplate, right? Let GPT-4 do
+the boilerplate for you. And
+then you can do the stuff that
+you actually care about that you
+enjoy.
+Arvid Kahl: Yeah, that's kind of
+in many ways, I think this
+discussion goes way beyond tech.
+This goes into Universal Basic
+Income and the capacity to
+freely live a life full of
+meaning and all that. But even
+in the confines of like the AI
+world and prompting and LLMs, it
+feels like yeah, machines should
+do the baseline stuff. The
+foundational work should be done
+by the automatable systems or
+the systems that have much more
+capacity to work through this
+than we as humans. It's like the
+thing you do or that we both do
+in testing our data. We don't
+sit there and get the result
+from Chat GPT. Then we check it
+and then the next one goes out
+and then we check it like we
+sent them out in bulk. They come
+in bulk. We do an evaluation on
+them and then we look at the
+data and then we dive into the
+specifics, right? In my case, I
+look at the thing that always
+gets answered wrong and then I
+try to figure out well, how can
+I change this number here for
+this specific thing to go up or
+down? Right? That's where we are
+good. We are good at spotting
+things that need to be done that
+a machine would never see.
+Michael Taylor: Exactly, yeah, I
+feel like people are going to
+end up doing a lot more primary
+research, like starting a
+startup or being an indie hacker
+will be, I think, much more
+about like carving off a
+specific niche of like all the
+problems left in the world and
+like actually going and running
+experiments to figure it out.
+Because I think that that's
+something that we have a really
+strong capacity for. Like, I
+found this with my content
+writing as well because I went
+through a period of like doing a
+lot of content writing and like
+my marketing agency, we grew
+like 60% of our leads came from
+our blog, so it was really big
+for us. I'm terrible at
+networking, but I was good at
+writing. So it kind of
+substituted. But, you know, I
+was writing a lot like
+professionally and then. And
+actually, it was a big part of
+my identity, like people knew me
+for it, right? And then I went
+through a phase of doing
+everything through ChatGPT like,
+when GPT-4 came out, it was or
+like, I'd already automated a
+lot with GPT 3 and then GPT 4
+was so much better. So I was
+like, okay, why do I need to
+write anything anymore. And now
+I've started writing again and
+my writing is so much better
+because what I'm doing is I'll
+go to ChatGPT and I'll ask it to
+write something on the topic I'm
+interested in. And then I'll
+like, look for holes and I'll
+go, no, it's wrong about this.
+I'm pretty sure it's wrong about
+this, right? I need some proof.
+But I'm pretty sure that like,
+this is not correct. So I'll go
+and run an experiment or I'll go
+collect some data and I'll do
+the actual research. And then I
+will write it up. Right? And I
+think it's like pushing me to be
+a better writer now. I went
+through this weird phase where I
+just stopped writing and lost
+all hope. But now I'm really
+back into it. And I'm enjoying
+it more than I ever would.
+Because I'm not like writing the
+boring stuff that you have to
+write for SEO anymore, you know,
+like ChatGPT can kind of do that
+stuff. But now I'm writing this
+stuff where I'm like, I'm going
+out and finding something new
+about the world and then I'm
+becoming the training data for
+the next version of ChatGPT. If
+you can be in the training data
+more than you're using the
+training data, then I think
+that's a good balance, you know.
+Arvid Kahl: I love that, be the
+training data. That's something
+to strive towards, right?
+Michael Taylor: Yeah, for sure.
+Arvid Kahl: It makes a lot of
+sense because you're on the edge
+of technology, right? You're
+already using the latest
+technology if you deal with AI
+systems like this. So you might
+as well be the person that
+influences the next steps
+instead of being just the one
+that like takes a benefit even
+though that is great from the
+past steps. That reminds me you
+brought up the book and I do
+want to talk about this, like
+you've been writing a book about
+prompt engineering and
+generative AI. And that field is
+fast paced. I think over the
+last couple of weeks, we've been
+presented with just Sora for
+that matter, like a model that I
+never expected to appear this
+quickly, like video generation.
+How do you deal with this in
+writing a book about this? How
+do you keep up with technology
+and all these new models and all
+these new things in a book that
+hopefully at some point is going
+to be an artifact in time? Do
+you want to change that as well?
+Do you want to keep it updated
+all the time? Like how are you
+gonna deal with this?
+Michael Taylor: Yeah. Yeah. I
+mean, I feel like the book
+publishing model will have to
+change in some respects. You
+know, I suspect what we'll
+probably do in the future and
+O'Reilly I think are already,
+like publicly talking about this
+sort of thing, right? Like, they
+like, as part of our contract we
+signed, they have like, they've
+option the right to like,
+basically ingest our book into a
+chatbot. Right? So people can
+talk to a book, right? Like, I
+don't think they're actually
+doing that yet. But like, it's
+something they've talked about
+doing at some point. I'm sure
+all but book publishers are
+thinking about this, right? And
+as I imagined, like, you talked
+about Sci fi and I love Sci fi
+as well. Imagine the Sci Fi of
+the future will be like, not
+like, you know, we have to wait
+for the next book in the series,
+but it will be like, you know,
+they build a world. And then you
+can query that world and maybe
+go on your own adventures
+Arvid Kahl: Yeah
+Michael Taylor: In that world.
+Right? And you could like
+Arvid Kahl: That's so cool.
+Michael Taylor: Go deep on this
+specific topic, right? I suppose
+that's what I suspect will
+happen in the future. Yeah. In
+practical terms, how did we
+approach this for our book, so I
+have a co author, James Phoenix,
+who I also worked with on a few
+projects. And so it definitely
+helped have like the whole
+weight of keeping up with
+everything in AI on my
+shoulders, like he did a lot
+more with the line chain stuff
+and went deeper on the more
+technical aspects and I, you
+know, focused more on image
+generation stable diffusion. And
+then also like the general
+principles of prompting, which
+the book is based on and the way
+that we tried to approach this
+was, you know, I started using
+AI in 2020. It was actually the
+year I left the agency and I got
+access to GPT-3. Actually first
+was copy API. And then I was
+like, this is amazing. What does
+it use? Right? I got access to
+GPT-3. And then, you know, what
+I found is when it went from
+GPT-3 to GPT-4 or 3.5 and then
+quickly 4 afterwards, a lot of
+the old like tricks that we had
+to use, like the hacks we had to
+use to get the model to do
+anything useful, didn't apply
+anymore. And what were left were
+these kind of, I guess, like
+five general principles that we
+refined over time. So I already
+have like a blog post on this,
+just like what led to the book
+deal. But it made me it because
+there are like general
+principles that still worked
+from GPT-3 to GPT-4 what I'm
+hoping is that like, when they
+release GPT-5, they will still
+continue to work there. Right?
+And we, you know, I guess
+there's no coincidence that I
+keep referring to like managing
+GPTs is like managing humans
+because what I noticed, like I
+studied Business Management and
+then went into did a master's in
+economics. And I noticed that
+like, pretty much all of these
+principles are basically like
+business management principles.
+So one is give direction. So you
+would never hire a human
+employee and then not giving
+them a brief on the type of
+tasks that you want to do.
+Right? You wouldn't hire an
+agency and say, you make up the
+marketing campaign. I don't
+care. Either you would say,
+okay, here's the brief. Here's
+the kind of thing I'm looking
+for. Right? So that's like one
+of the, that's the first
+principle and then specify the
+format like, what do you want
+back in terms of like, do you
+want, you know, a numbered list,
+an ordered list or a paragraph
+of text? How many paragraphs of
+text you on? Or even if you're
+building a tool, like, do you
+want this back in JSON
+structured data, so you can put
+it into a database or display it
+on the web page. And then the
+third one is giving examples. So
+typically, like if humans are
+struggling to do a task, you
+would just like, here are some
+examples of how this task has
+been done well in the past that
+I like. And that gives them a
+real good sense because
+sometimes it's really hard to
+like, explain exactly what you
+want. So if you find some good
+examples, it's maybe easier to
+infer the nuance of like, oh, I
+kind of want it like this. I get
+it now. And the same trick works
+for GPTs. So yeah, I won't go
+through everything but yeah,
+like extract me one day that
+like, oh, this is kind of like,
+you know, what I learned back
+in, you know, business
+management school. So, yeah,
+there are parallels. Yeah.
+Arvid Kahl: The transfer of
+knowledge here is so impressive,
+right? Our capacity to do this
+as people just shows you like,
+how cool is actually is that we
+can take these wildly different
+principles and just apply them
+to something new. But it also
+shows just how similar AI agents
+and humans are. Right? They are
+able to do things if you explain
+them well, if you give them the
+format, if you give them the
+examples, the intention and all
+that, that is definitely
+helpful. It's cool. I love the
+fact that you're writing a book
+about this because I feel I love
+books. I love having a library
+of things to look things up and
+to be able to just learn things
+from I know this is a changing
+field. But I think that the
+principles in this underlying
+principles will be valid for a
+long while. And even just the
+ideas of embedding or of you
+know, text splitting and all
+these things to defeat them into
+models of different ways. And
+giving context, context windows,
+all of this, this will probably
+stick around for a while. And in
+our terms a while might be two
+three years. Who knows? But
+still, it's not going to be
+outdated immediately did the
+concepts of that work. You also
+have and I learned this very
+recently, a fairly successful
+Udemy course about this, too,
+right? You went multimodal with
+this to use the term. And that
+one seems to work pretty well as
+well. Is that the same ideas,
+the same contents? Or how does
+that work?
+Michael Taylor: Yeah, good
+question. We get this. You know,
+we get this a lot actually
+because I had written this blog
+post on the principles of
+prompting and they actually came
+about as just, I was doing a lot
+of image generation stuff for
+this first book that I was
+writing. It was like a self
+published book on marketing. And
+you know, I was trying to do
+designs in Midjourney version 4
+so it was really crappy at the
+time and that was, you know, I
+did a lot of prompt engineering
+to figure it out. And then I
+wrote this, you know, this blog
+post and I kept updating it over
+the years. So then when, you
+know, when O'Reilly came
+knocking and like, hey, would
+you like to publish a book? I'm
+like, yeah, of course. So I
+learned how to code was reading
+O'Reilly books, you know, it's
+pretty amazing. So, yeah, so you
+know, I jumped on that
+opportunity, but it did take
+like a few months, right? To you
+know like figure out, you know,
+go through the approvals and
+pitch the ideas and shape the
+table of contents. And then
+like, you know, also time to
+write it and then edit, right?
+So, you know, AI doesn't hang
+around that long, you know and I
+was having a lot of really good
+ideas all the time. And so what
+we did was we published this
+Udemy course. And it was based
+on the same principles. But
+obviously, because it's a
+different format and multimodal,
+as you said, you know, it's very
+different from the blogpost. And
+you know, different again from
+the book as well. The book is
+much more in the vein of like an
+O'Reilly book, where, you know,
+it kind of explains these topics
+in a comprehensive way. It goes
+deeper into, like why it is the
+way it is. Whereas the Udemy
+course is much more of like a
+quick hit because that's what
+like what Udemy people want,
+right? So the Udemy course is
+obviously in video format. So
+that appeals to different
+people. But it's much more
+organized as like, here are
+different, like projects that
+you can do. So the book is like,
+lots of like practical tips and
+examples in theory. And then the
+last chapter is one overarching
+project that brings everything
+together. Whereas the Udemy
+course is like five videos on
+the principles. And then just
+like lots of like, crazy stuff
+that we've done with AI. So it's
+very different. And you know,
+the same underlying theme. It's
+definitely, you know, the same
+authors, right? But yeah, like
+very different use cases, very
+different target audiences.
+Arvid Kahl: No, that makes this
+thing so interesting, right?
+Like, people are very cerebral,
+they can read the book, they can
+go through everything and
+understand, like all the basics
+are foundational and then built
+on top of that built the
+project. And some people just
+want to be inspired. They just
+want to see what can be done.
+Right? It's really cool to see
+you offer this in multiple ways.
+It's an approach that I've used
+as well. And I really appreciate
+it. Well, that is really cool.
+Well, now I have another book to
+read and another course to take.
+So all right, I guess guess, my
+weekend is fully booked now. If
+people want to figure out where
+to learn more about this topic
+and learn more about you and the
+work that you do and the
+products you create and the
+knowledge that you share, where
+would you like them to go?
+Michael Taylor: Yeah, so you
+know, the book is on the
+O'Reilly platform. You can get
+like a free trial, I think it's
+10 days, which should be enough
+to like skim and see if it's
+useful for you. And but it will
+be in print, it's actually on
+pre order on Amazon now. So
+it'll be in print in June,
+hopefully, if everything goes
+well.
+Michael Taylor: So it's a
+prompt. So it's Prompt
+Arvid Kahl: What's its full
+name?
+Engineering for Generative AI.
+And it's Mike Taylor and James
+Phoenix, the authors. So I also
+work with James on a company
+called Vexpower, which is like
+an education platform as part of
+why we did the Udemy course
+because we want to see how Udemy
+did it, you know, like, reverse
+engineer their success. But then
+the Udemy course blew up, right?
+It's, like way more successful
+than our. So you can check that
+out as well. But yeah, we just
+set up a new company I would
+call, Bright pool, it's
+brightpool.dev. There's not
+really anything on the website
+now. It's just a notion page.
+But that's where we're gonna
+start like putting random,
+interesting stuff we work on. So
+we're building like, a portfolio
+of different projects, kind of
+seeing which ones take off and
+you know, doing the indie
+hacking thing. You know this.
+Arvid Kahl: That is awesome!
+Michael Taylor: So that's what
+we're gonna be doing. Yeah.
+Arvid Kahl: Very cool. Well, I
+think I'm gonna put all of these
+things in the show notes,
+including, I guess, your Twitter
+handle and everything else that
+you want to be found at. I
+really appreciate you talking to
+me about this. I burned for this
+topic right now. Like the
+presence of this in my day to
+day is incredible. Like, I use
+ChatGPT on my local systems,
+like for hours every day. And
+it's nice to talk to somebody
+who really deeply understands
+this and who also has a
+methodical scientific approach
+to making sure that we get the
+right results. I really
+appreciate you sharing all of
+these insights and your
+understanding of the space and
+where it might or might not go.
+It's really, really cool. And
+thanks again, for making this
+connection between people and
+AI. I did not think about it
+like this before. I cannot see
+myself not think about this in
+the future.
+Michael Taylor: Yeah
+Arvid Kahl: It really is
+infectious. Man, thank you so
+much for being on the show. I
+really appreciate it.
+Michael Taylor: Yeah no, it's a
+pleasure to be here. And you
+know, I've been a longtime fan.
+So it's great to be amongst the
+crowd now. You know, I'm one of
+you guys now.
+Arvid Kahl: And that's it for
+today. I will now briefly thank
+my sponsor acquire.com. Imagine
+this, you're a founder who's
+built a really solid SaaS
+product, you acquired all those
+customers and everything is
+generating really consistent
+monthly recurring revenue.
+That's the dream of every SaaS
+founder, right? The problem is,
+you're not growing for whatever
+reason, maybe it's lack of skill
+or lack of focus or play in lack
+of interest, you don't know. You
+just feel stuck in your business
+with your business. What should
+you do? Well, the story that I
+would like to hear is that you
+buckled down, you reignited the
+fire and you started working on
+the business, not just in the
+business and all those things
+you did, like audience building
+and marketing and sales and
+outreach. They really helped you
+to go down this road, six months
+down the road, making all that
+money. You tripled your revenue
+and you have this hyper
+successful business. That is the
+dream. The reality,
+unfortunately, is not as simple
+as this. And the situation that
+you might find yourself in is
+looking different for every
+single founder who's facing this
+crossroad. This problem is
+common, but it looks different
+every time. But what doesn't
+look different every time is a
+story that here just ends up
+being one of inaction and
+stagnation. Because the business
+becomes less and less valuable
+over time and then eventually
+completely worthless if you
+don't do anything. So if you
+find yourself here, already at
+this point or you think your
+story is likely headed down a
+similar road, I would consider a
+third option. And that is
+selling your business on
+acquire.com. Because you
+capitalizing on the value of
+your time today is a pretty
+smart move. It's certainly
+better than not doing anything.
+And acquire.com is free to list.
+They've helped hundreds of
+founders already, just go check
+it out at try.acquire.com/arvid,
+it's me and see for yourself if
+this is the right option for
+you, your business at this time.
+You might just want to wait a
+bit and see if it works out half
+a year from now or a year from
+now. Just check it out. It's
+always good to be in the know.
+Thank you for listening to the
+Bootstrapped Founder today. I
+really appreciate that. You can
+find me on Twitter @arvidkahl.
+And you'll find my books and my
+Twitter course there too. If you
+want to support me and the show,
+please subscribe to my YouTube
+channel and get the podcast in
+your podcast player of choice,
+whatever that might be. Do let
+me know. It'd be interesting to
+see and leave a rating and a
+review by going to
+(http://ratethispodcast.com/founder).
+It really makes a big difference
+if you show up there because
+then this podcast shows up in
+other people's feeds. And
+that's, I think where we all
+would like it to be just helping
+other people learn and see and
+understand new things. Any of
+this will help the show. I
+really appreciate it. Thank you
+so much for listening. Have a
+wonderful day and bye bye.

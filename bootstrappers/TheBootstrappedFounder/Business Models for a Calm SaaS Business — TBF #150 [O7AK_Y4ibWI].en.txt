@@ -1,0 +1,545 @@
+﻿Hello, everyone and welcome to
+the Bootstrapped Founder podcast.
+My name is Arvid Kahl and I talk
+about bootstrapping, entrepreneurship
+and building in public.
+First, a word from our sponsor.
+Get a practical, nuts and bolts business
+education in just 15 minutes a day.
+Check out the $100 MBA show where
+business school dropout and successful
+independent entrepreneur, Omar Zenhom
+shares real world lessons on starting,
+growing, and scaling your own business.
+On the $100 MBA show, Omar shares
+what he's learned over years of
+entrepreneurship, including building
+his own SaaS company from the
+ground up with zero outside funding.
+From book reviews to special guests
+and listener Q&amp;A and more, the $100
+MBA show offers lessons you can put
+to use right away, whether you're an
+established entrepreneur, a side hustler,
+or just someone with a business idea.
+So go and subscribe to the $100
+MBA show on your favorite podcast
+app, or check out 100mba.net.
+That's the $100 MBA show on
+your podcast app or 100mba.net.
+And now let's get started.
+There are a few proven ways for
+SaaS businesses to make money.
+And all of them revolve
+around subscriptions.
+Most SaaS businesses have a central
+success metric and that's their monthly
+recurring revenue, MRR for short.
+It's calculated by just adding up all the
+monthly fees paid by your subscribers.
+And there are a few vectors that
+impact how the subscription model
+will work in a SaaS business.
+It's the pricing model you choose,
+the kind of business you run, and
+the reality of your target market.
+Let's start with the pricing model.
+Pricing is generally a very hard
+to solve problem within a business.
+Every day, someone will tell you to
+charge more while someone else will
+suggest that you should lower your prices.
+Advice is plentiful and often completely
+irrelevant to your unique challenges.
+Instead of looking for generic guidance,
+let's look at what other businesses
+have successfully done and how it works.
+The first important metric
+to look at is called the LTV,
+the lifetime value for short.
+It's the amount of money you can expect
+the customer to pay on average from the
+day they sign up to the day they cancel.
+A few things here stand out: to increase
+the LTV of any given customer you can
+either charge a higher monthly fee or
+ensure the customer sticks around longer.
+Someone who pays a hundred bucks
+a month for three months is just
+as interesting as someone who
+pays 25 bucks a month for a year.
+But every month, a customer
+has a non zero chance to churn,
+to stop using your service.
+If your product delivers enough value
+for a fair price, customers might stay.
+And if they feel diminishing returns,
+they're probably gonna cancel.
+So several factors go into your
+pricing model calculation, but
+here's the most common approach.
+Most low touch SaaS businesses offer
+between two and three tiers of membership.
+There's a beginner tier for low
+usage customers, a middle tier
+for most customers and a high
+tier for professional users.
+Generally the middle price is around 10
+to 50 bucks a month, but this heavily
+depends on the industry you're in.
+Tiers allow customers to self
+select into a pricing range
+that they're comfortable with.
+High touch businesses tend to have
+a custom pricing that scales with
+the expected usage of the product.
+And it tends to start at $50 and
+can go into thousands of dollars.
+That's why many high touch SaaS businesses
+start with a request for a demo.
+You can't tell people what their
+price will be if you don't know
+how much and which parts of
+the service they'll be using.
+Generally high touch pricing is higher
+per customer as there are fewer customers
+overall that a business can manage
+compared to a low touch SaaS that can
+effectively serve thousands with all
+their automation and documentation.
+Another important aspect of
+your pricing approach is along
+which dimension you will charge.
+Most SaaS businesses price along something
+called the value metric, the core
+number that goes up for your customers
+when they become more successful.
+If you help publishers charge more when
+they sell more books, if you help a
+beauty salon charge per appointment made.
+Sometimes that means increasing
+prices when your customers want
+more  of their employees to use
+their product, and sometimes you
+don't care how many people log into
+your software, but how many projects
+they work on becomes more important.
+Let's talk about the
+common subscription types.
+Start with freemium.
+Freemium offers the basic functionality
+of the product for free and then
+charges for professional use.
+Notion is a great example of this.
+The note taking app is free
+in its basic functionality.
+And if you want to upload larger files or
+have fine grained permissions, or have a
+version history, you need to start paying.
+SaaS businesses like this
+usually have limits in place to
+prevent abuse of the free tier.
+Then there's the fixed fee.
+And this is your basic SaaS.
+One price fits all.
+Base camp offers its
+product at $99 a month.
+And while they also provide a
+free version, what is significant
+about its pricing is that
+it doesn't scale with usage.
+No matter if you're a five
+person shop or a 500 employee
+company, you pay 99 bucks a month.
+The more you use it, the more you save.
+And this could be very enticing
+to your prospective customers, but
+it also means that you need to be
+able to pay your operating expenses
+from your single fixed price.
+And then there's the tiered fixed fee.
+Most SaaS businesses offer tiers
+because they allow them to offer
+different levels of service, to
+different kinds of customers.
+And even if you have a well-defined
+customer, you can offer to give them a
+choice and accommodate different budgets.
+And this is a very flexible pricing model
+that you can easily adjust by introducing
+new plants and retiring old ones.
+Then this pay per seat, instead of paying
+a fixed price, your customer pays for
+every person using the software and this
+scales well with businesses that make
+more money the more employees they have,
+like call centers or sales divisions.
+For prospective customers with a
+value metric independent of headcount,
+consider that WhatsApp for example,
+only had 35 engineers when they sold
+to Facebook and only has 50 engineers
+today serving a billion users, you might
+go better with another pricing scheme.
+And then there's pay as you
+go: this model works best with
+usage centric value metrics.
+The more your customer uses your
+product the more you charge them.
+Every time they use your SaaS to render a
+marketing video, they incur a small cost.
+They can pay via credits or
+end of month variable invoices.
+That's fine.
+Just pay as you go.
+And finally, there's "custom."
+there are outliers that either
+combine the models above or
+use a different model entirely.
+Some SaaS offer tiers that have
+limitations, which turn into pay as you
+go for anything above the threshold.
+Other SaaS businesses have tiered
+per-seat pricing, like Figma that
+offers different sets of features and
+then charges for every user within the
+organization along those tier prices.
+There are document verification businesses
+out there that require a minimum payment
+per month, and then charge a small
+amount per document beyond that as
+pay as you go, everything is possible.
+Just finding that value metric and
+the right subscription type for
+it is essential to understanding
+how much value you can deliver
+and how much to charge for it.
+It will involve quite some experimentation
+to get it right, but it's usually
+a good bet to start with a simple
+fixed three tier pricing model.
+You can always complicate it later, but
+this is the most flexible starter option.
+The industry you serve
+also plays a huge role.
+A rule of thumb is that your prices
+should fit within the expectations
+of the people in your field, which
+usually means charging similar
+to the existing competition.
+Now, not all competitors are
+businesses, just like you.
+Sometimes you compete with more
+general solutions like Google
+sheets or regular old pen and paper.
+It will require a lot of time saving
+functionality and a no questions
+asked price to convince someone
+who has been using mostly free
+tools, all their professional lives
+to switch to your paid solution.
+Most markets inherently understand
+that a good solution to a problem
+is worth paying money for, but other
+markets are hesitant to pay for
+anything due to financial pressure
+and a lack of positive experiences.
+As a podcast host, I have no trouble
+paying hundreds of dollars monthly
+in SaaS fees for all my hosting
+marketing and production needs.
+I know it'll come back tenfold in book
+sales and sponsorship deals, but when
+my partner and Ibuilt FeedbackPanda,
+a productivity SaaS for online
+teachers, we learned that charging
+more than 15 bucks a month would not
+work as most online teachers were
+already working a second or third job
+and couldn't afford such an expense.
+Budget and purchasing agency differ wildly
+between markets and actors within them:
+who you want to serve and what they expect
+will heavily impact your pricing model.
+John Warrillow wrote about nine kinds
+of businesses that lend themselves to
+a subscription model in his book, The
+Automatic Customer, and most of them are
+great candidates for a SaaS approach.
+I'm gonna go through all of them.
+Number one is the
+membership website model.
+When you offer exclusive knowledge,
+resources, and services that people need
+on an ongoing basis, you can turn your
+service into a membership based platform.
+A considerable part of this kind
+of service is the community within
+the platform and the information
+they collect and curate usually
+in a highly defined niche.
+Several professional fitness coaching
+associations revolve around the
+monthly membership payment, then
+facilitate access to guides, ranging
+from building a coaching business
+down to individual exercises.
+SaaS businesses will want to offer more
+than just membership in the community.
+And with the fitness coaching business, as
+an example, just consider offering both a
+vibrant, insightful community as well as
+software tools that help them with booking
+clients or organizing their workouts.
+That kind of unique value proposition is
+where SaaS businesses shine the brightest.
+Secondly, there's an all you can eat
+library model, just think Netflix
+or Spotify: you offer subscription
+to an almost unlimited amount of
+potential content or services, and
+your customer pays a fee for access.
+Whenever you're offering is heavy
+on content, consider this model.
+This works particularly well for
+content marketplaces and platforms.
+Most online teaching services such as
+Skillshare create no content of their
+own, but they connect those who teach
+with those who learn and Skillshare
+charges a flat monthly fee for access
+to all lectures on the platform and pays
+out creators by how much their work was
+watched in comparison to other creators.
+Their product is a discovery, hosting
+and consumption platform for video
+content delivered through a browser.
+You'll find plenty of opportunities
+for such software platforms anywhere.
+The third model is the private club
+model and similar to the membership
+website, the private club model focuses
+on creating a paid community, but
+unlike the membership site, private club
+businesses are often very high touch
+and create a highly exclusive offering.
+This makes them less interesting for SaaS
+businesses, but they can be great customer
+funnels for high value SaaS offerings
+through partnerships or affiliate deals.
+Number four is the front of line model.
+Usually as part of a larger offering
+SaaS businesses allow customers to
+pay a premium monthly fee to receive
+priority support more generally to
+better service than regular customers.
+Fixed tier pricing models often
+include this as a differentiator,
+regular customers get an email
+response within a workday, premium
+subscribers get it within the hour.
+Salesforce, Amazon web services,
+Google cloud, all these SaaS companies
+offer front of line plans for their
+support and implementation services.
+This won't be enough to build a standalone
+SaaS business, but it can be a crucial
+component in your monetization strategy.
+Model number five, the consumables model.
+Some people out there are still
+reading newspapers and many of
+them get them delivered to their
+home on a daily or weekly basis.
+And this is one of the oldest
+subscription models around and
+it has prevailed to this day.
+eCommerce is big on subscription
+purchases and giants like Amazon
+push subscriptions for consumable
+items like paper towels, toothpaste.
+Whenever you go to their stores, they'll
+try to sell you this as a subscription.
+And while this model isn't very
+compatible with software as a service,
+because most SaaS businesses don't sell
+tangible items, it's still fascinating
+to study the companies that thrive on it.
+The Dollar Shave Club, for example,
+used the membership model combined with
+delivering high quality consumables so
+efficiently that they got acquired by
+Unilever for billion dollars in 2016,
+5 years after founding the company.
+The lessons about customer attention,
+clear focus on their most profitable
+customers and genuinely creating community
+among their users are worth learning
+and applying for your own business.
+Number six, the surprise box model.
+Similar to consumables,
+surprise boxes deliver tangible
+things to people regularly.
+Many puppy owners have new toys and treats
+delivered to their homes every month,
+keeping their dog entertained and happy
+without having to go to the pet store and
+pick from the many, many options there.
+Again, this might not be the most SaaS
+friendly model as it involves items
+and packaging and logistics, but it
+hints a deeply seated human need.
+We will pay someone to
+make hard choices for us.
+And there are thousands of
+toys for puppies out there.
+I'd rather have someone pick and
+choose for me than spend hours doing
+research on something that my pup
+will gnaw through within a day anyway.
+In the surprise box model, you pay as much
+for the box as you pay for the surprise.
+Curation is the key to retention
+here, and that's something you can
+use in your content marketing efforts.
+Your SaaS will be extra sticky with
+your customers if you keep delighting
+them with hard to source insights
+and impactful tactics and strategies
+to get their work done better.
+Number seven, the simplifier model.
+This is the most likely
+candidate for a SaaS.
+Whenever you see a commonly shared
+problem that people experience all the
+time, there's a chance that they'll
+spend money to make it easier for them.
+I pay for dozens such services
+because of my work life, and
+I wanna make it bearable.
+Descript speeds up to my video editing.
+Notion keeps track of my thoughts.
+And HypeFury schedules
+my tweets while I sleep.
+Each of these tools makes a daily task
+more manageable and less time consuming.
+I have a very clear budget for this
+because it's affecting how much content
+I can reliably produce, and that's
+all there is to the simplifier SaaS
+really: if you can create more value
+for your customer then you charge,
+and by solving this validated problem for
+a validated audience, you have a business.
+And most software as a service
+companies work just like that.
+Simplifier.
+Now there's also the network model and
+that can be incredibly powerful too.
+The more people use the system,
+the more interesting it becomes
+for a new prospect to join.
+Consider the phone network.
+If there were only 20 people around
+the world owning a phone, getting
+one wouldn't make much sense, but if
+everybody on the planet can be reached on
+their phone, it's a no brainer to join.
+Setting up such a networked system
+can be a great business model.
+And WhatsApp is such a business.
+The more people have their messenger app
+installed, the more their network can do.
+And while it's unlikely that your calm
+SaaS will explode in popularity like
+WhatsApp, it can definitely contain
+features that generate network effects.
+Allow your customers to
+collaborate and teach each other.
+Building a community around empowerment
+and exchanging resources inside your
+product can turn you simplifier SaaS into
+a robust Networked Simplifier business
+and networks can leverage word of mouth
+marketing very effectively because it
+can reliably create win-win situations.
+Existing customers know that inviting
+new prospects makes their network better.
+And those new potential users
+get immediate access to all
+the accumulated knowledge of
+those who invited them: win-win.
+Finally, let's look at the version
+of the simplifier model, the
+peace of mind, the insurance SaaS.
+Instead of solving a critical
+problem that occurs all the time,
+you make sure that when something
+critical happens, your customer
+knows that it's being taken care of.
+Backblaze, for example, is a cloud
+backup service that allows you to
+stream fully encrypted backups of
+your computers onto their servers.
+You pay a monthly fee to know that
+whenever you need to reinstall your
+operating system or find an old file,
+Backblaze will make it possible for you.
+You don't have to organize hard discs
+or ensure your backups are complete.
+Backblaze takes care of that for you,
+and they allow you to sleep soundly.
+And I run a similar service
+for authors who wanna prevent
+link rot called PermanentLink.
+And PermanentLink monitors the URLs that
+writers put into their books, alerts
+them when they break and automatically
+redirects readers to an archived version.
+And I built this SaaS solution
+because I needed it for my own work.
+Many other writers have similar
+issues and will pay for peace of mind.
+So there you go, business.
+Not all of these models are prime
+suspects for a successful SaaS
+business, but they're all compatible
+with software enabled businesses.
+A community can have a SaaS
+product attached or vice versa.
+For example, HypeFury, this Twitter
+scheduling SaaS tool I use has a community
+of likeminded marketers exchanging tips
+and tricks on how to build an audience.
+And MicroAcquire
+is a business acquisition marketplace
+with software tools for a successful
+due diligence process that they
+offer to everybody involved.
+It generally pays off to mix
+and match these business models.
+Any model you can successfully
+implement into your SaaS will
+strengthen your value proposition.
+If you can simplify someone's life while
+also offering them peace of mind should
+things go wrong, your product moves one
+step closer to becoming a critical tool
+that people will pay for for years.
+For a calm SaaS business I recommend
+focusing on building something that
+simplifies your customer's lives because
+it solves this recurring problem reliably,
+builds a sense of community and allows
+customers to exchange resources and
+empower each other, either within the
+product or outside of it, and promises
+reliability and stability that gives
+peace of mind to your customers.
+All these slightly different
+models of subscription businesses
+show that you can build long-term
+relationships with your customers
+for many reasons and in many ways.
+Your job is to find the right mix of
+problem, solution and business model
+to then turn it into a viable business.

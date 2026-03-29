@@ -1,0 +1,875 @@
+﻿[Music]
+and we are live welcome back to
+microconf on air every other wednesday
+at 1 pm eastern 10 a.m pacific we live
+stream for 30 minutes and we cover
+topics related to building and growing
+ambitious sas startups to bring us
+freedom and purpose and allow us to
+maintain healthy relationships we don't
+ask for permission to start companies we
+build and ship real products sell the
+real customers who pay us real money the
+first live stream of the new year i'm
+stoked to be here i uh i'm glad that
+you're joining us we are going to be
+talking all things microconf today we're
+going to be talking about the microconf
+accountability challenge we're going to
+talk about our microconf connect
+community survey that we ran in december
+as well as talk through some things that
+we're looking at doing in 2022. it's the
+first live stream of the new year
+and um i'm excited to be here
+and with that i'm going to welcome my
+guest the microconf community manager
+jessica malnick welcome jessica
+hello thanks for having me indeed and
+where are you calling in from i am
+calling from denver colorado denver and
+i'm in uh minneapolis so we have two
+snowy places although
+i bet it's colder here than it is where
+you are what's your feels like right now
+it is feels like mine is six where i am
+and that's
+oh yeah that's snowing yeah definitely
+did i beat you yeah i'm in minneapolis
+23.
+yeah i'm in minneapolis we usually win
+that one so well cool i i wanna um
+kick off with this microkoff connect
+community survey or should we you want
+to start with the accountability
+challenge let's let's start with that
+um we are doing our first ever microconf
+accountability challenge throughout
+january
+and do you want to talk folks through
+what that looks like
+yeah absolutely so the idea behind this
+is new year it's 20 22. you probably
+have a lot of the a lot of goals that
+you're trying to set for the year ahead
+and it's really really easy
+whether you kind of do new year's
+resolutions or just setting goals for
+business um and personal and like your
+personal life and whatever that might be
+but for the sake for
+part of this mostly business sort of
+things but it's really this is this
+really big goal have a whole bunch of
+momentum early on and then kind of
+fizzle out when it's february march or
+april
+um and the idea behind this
+accountability challenge is the best way
+to kind of make
+um to make strides and actually hit your
+goals is to kind of break it into really
+small tiny tasks that you can do within
+five minutes or 15 minutes or 45 minutes
+or an hour
+um every day um and kind of break apart
+this
+part your
+um goal into like 52 or more different
+tiny tasks to kind of make them have a
+lot of momentum and a lot of this is
+baffled like you know the book the
+atomic habits by james square really
+awesome book by the way so as an example
+of that let's say your goal is to reduce
+turn for your sauce app by 10 percent so
+a really good example of how you can
+kind of that's a massive goal in the dev
+itself you're not going to do that in a
+week or a month or even a quarter so
+like one way you can kind of take that
+into tiny tasks would be okay well the
+first week i might dropped up an nps
+survey
+um in the second week i'm gonna send
+that out and i'm gonna start reviewing
+and then maybe that third week i'm gonna
+review the results so that's kind of the
+idea behind this challenge is like it's
+taking the month of january and kind of
+mapping out what are the first four
+things you can do to kind of get you the
+habit in the momentum so that you can
+kind of actually hit your goal by the
+end of the year
+awesome and yeah there's a nice example
+that producer xander pulled from the
+microconf connect
+slack which is where you want to go if
+you want to be part of this challenge
+we'll also be tweeting things out and
+such but connect is going to be where it
+where it lives
+someone chimed in said i'm down for the
+accountability challenge my goal is to
+launch two sas apps by february 1st and
+then he or she has a week by week
+breakdown week one january first through
+eighth wrap up v zero of app one it's
+ninety percent done and then week two
+wrap up v0 of app two it is also ninety
+percent done find at least in week three
+find at least three marketing uh
+valuable marketing channels for each app
+and so on uh there's another goal wake
+up at six a.m every day for the rest of
+the month
+um that's an awesome goal i would never
+i would never tackle that my i would
+fail the first day another person said
+my goal is to launch my new app in
+january and my weekly goals are week one
+complete testing of the mvp week two
+complete the marketing site week three
+final end to end testing and a week for
+launch and so this is uh it's a weekly
+thing right it's like once a week on
+mondays someone should share something
+they want to accomplish that week is
+that the idea
+yeah absolutely that would be the idea
+if somebody is a little bit more
+ambitious you can share all of the
+things like one thing you for every
+single
+one thing a week for the entire month at
+once or you can do it this week by week
+um and really the idea behind this is
+like leveraging the power of the
+community to kind of when you're
+starting your goals from the community
+um a like you're gonna be way more
+likely to actually hit that goal because
+people are gonna ask you about it
+potentially and two when you do actually
+accomplish that tiny task share it in
+the tiny wins channel within slack um so
+that everyone in the community can
+celebrate with you yep yeah and that's
+it right so it's both
+the accountability of kind of making a
+public commitment but also the public
+celebration or the shared wins that we
+can have
+and if folks want to tweet about it as
+well if they want to say hey i'm part of
+the micro conf you know accountability
+challenge is it just this hashtag
+microconf
+yeah absolutely i wanted to say
+something like really clever where it's
+like you know some sort of crypto
+acronym acronym but uh
+accountability challenge is kind of a
+mouthful and i'm cac yeah yeah no doubt
+cool and we will be calling those out
+also probably you know retweeting and
+and you know uh sharing stuff on twitter
+ourselves as well as uh in our email
+newsletter it goes out to several
+thousand folks uh in the connect you
+know um
+and the connect list that we will be
+highlighting some of those so
+i'm pumped up for this
+i'm excited are you did you post
+something did you post uh your thing for
+this week because i have to think about
+mine but i will definitely do that after
+um i get off this live stream yep i need
+to figure out what my what my one thing
+is for the week as well awesome so
+that's the accountability challenge the
+other thing i want to talk about is you
+just ran a microconf connect community
+survey
+to find out folks you know how they feel
+about connect
+kind of requested offerings or requested
+features um
+find out where people you know sit in
+terms of where their businesses are all
+that kind of stuff so
+uh maybe we'll start with
+what were the top five requested
+features or offerings
+yeah absolutely um the first one was
+no surprise whatsoever which was the
+ability to
+search and see a historical post which
+is actually already in the works um and
+i'm sure we'll get to that later on in
+this episode um in addition
+in-person meetups and like small
+in-person meetups event cities would be
+number two
+um
+community guides playbooks templates
+that are very much community driven
+actionable strategies both for very
+early stage and later stage companies um
+was the third one the fourth one was
+um kind of ama's like this as well as
+text-based amas um with startup founders
+um and the fifth in the sixth most top
+features were um member profiles um and
+cut some sort of
+software or service provider directory
+so aka member profiles being being able
+to better see who's actually in the
+community of a message folks directly um
+and the member and kind of the software
+and service provider directory is kind
+of aggregating you know what are the
+apps and or like agencies that you know
+you might need for whatever you're
+looking to do right cool so let's dig
+into a couple of those so the c and
+search ultra posts obviously slack on
+the free plan has a limit of 10 000
+posts if we were to start paying for
+slack it would be 7 000 a month or some
+insane number and so um you've been
+working on we've mentioned we've hinted
+about it and then we have mentioned it
+as well but uh you've been working on a
+wiki
+yeah
+absolutely um so the first thing with
+this wiki is basically being able to
+kind of fulfill this thing which is
+being able to search and find
+something like the most the top threads
+within slack of all time and not just
+you know the things from the last couple
+of months
+um and as part of that it's coming
+further pretty further along and one of
+the things that i'd love to get help
+from within the community is the ability
+to um get you know
+a handful um to even a couple dozen
+members to kind of come in and a beta
+test this wiki as well as help kind of
+curate some of the archival content
+so if you're watching this
+reach out to jessica and microcom
+connect slack you can dm her and
+volunteer for that speaking of that if
+you're watching this live feel free to
+send any questions uh you want into the
+microconf on air channel and connect or
+if you're watching on youtube i believe
+there's a chat there and that producer
+zander is monitoring
+okay so another thing you had mentioned
+was these small in-person meetups in
+cities around the world and producer
+xander and i have been talking about
+that for years about whether we launch
+meetups because it's kind of a natural
+you know it's a natural thing there's
+there's obviously a lot of um
+meetups happening already like i go to
+meetup.com and i see local founder
+meetups and such but having microcom
+branded ones i think could it could be
+interesting it's a natural extension
+what we're doing in the sho we're not
+playing we don't have current plans to
+implement that immediately right that's
+not something that we've been battened
+around for two three years but we that
+is one of the reasons we started doing
+the microconf locals is that we are
+doing nine i believe we were going to do
+10 locals but we had one in january in
+san jose uh that we were gonna do and
+omicron is just not gonna it's not gonna
+cooperate with us trying to sell ticket
+we'd basically be selling tickets right
+now for that and then the sentiment is
+just not
+not there so
+we have nine locals planned we'll be
+going to um you know all kinds of cities
+it's not the same as like a recurring
+meetup i get it but i think that's the
+near-term um
+kind of play to to try to get microcomp
+to more people because that was one of
+the results right was that like in
+connect it was something like two-thirds
+of the respondents had have never been
+to an in-person microconf event
+that's pretty crazy so i mean it's
+expect it's to be expected right it's
+like
+in person is a big there's a lot of
+friction
+a lot of friction to go in person you
+know and that is one of the reasons why
+we didn't want to start the locals is to
+bring them to you and if we can figure
+out i think for meetups for me is i
+don't want to just do the same like
+you can go to you know indie hackers has
+meetups and you can go to meetup.com
+like there are other meetups if you want
+to go to them so what what would be
+different about the microgrunt meetups
+and that's what i would want to sit down
+and strategize because
+when we launched this live stream we
+wanted to do it differently than other
+live streams when we launched in-person
+events we wanted them to be different we
+want to connect we wanted to be
+different like there's no reason to do
+the same thing as other people are doing
+and i want differentiation i want some
+novelty in order to because i wanted to
+be the best right i wanted to be better
+than other options that's really it so
+that was one um the amas was startup
+founders which is kind of how i think of
+these live streams you know
+um oh yeah ask the audience uh what
+would you like to see from a microconf
+meetup drop it in the comments because
+we are all ears if there are some
+specific
+things that you like or dislike about
+other meetups
+you've been to we'd love to hear you
+weigh in
+in terms of amas i've always thought of
+these as amas in essence because i'm
+asking questions
+just to keep it entertaining while the
+audience gets their chance to ask
+questions so it isn't ask me anything
+with a founder but
+um i believe the amas the way you're
+talking about them are more written
+right so that they're more
+kind of consumable
+in other time zones and that they have
+more of a permanent record than a video
+yeah absolutely and i hate to use the
+example of reddit but like that's what
+kind of has become the de facto standard
+for that sort of thing and one of the
+advantage like amas like this are super
+super useful but also there are time
+zones
+and you know i think if you go if you're
+a startup founder in australia i think
+it's like
+3am right now
+right not always feasible so some of
+these having ama's that are both live
+streams as well as written ones that
+someone can kind of consume at their own
+leader and or having written amas that
+are
+[Music]
+changing at the time times when they are
+so that you know people in additional
+you know regions can still participate
+um at times that are not the middle of
+the night they're trying right they can
+get questions in in advance and then
+they they answer them all
+so similarly i'm fine i'm all for doing
+amas i want to make sure that i think
+it's the engagement that i would want to
+look at and because we have
+frankly we have infinity founders that
+we could do amas with right we could go
+to all the connect people and say
+volunteer we could go to everyone in
+tiny seed we could go to the startups
+the rest of us audience like i can fill
+a ama funnel
+for years if we did weekly amaze i could
+feel we could fill it for years the
+question is
+are people gonna is it worth doing right
+we have you know finite resources like
+any company like any startup and so um i
+would want to if we decide to do this
+i'd want to do it as an experiment how
+you know a how will it be different i
+don't know if it needs to be different
+than others but if there's enough
+engagement to keep going then we do it
+and if not you know maybe that's
+something that we
+that we uh view as an experiment
+service provider directory and that was
+something that we had been kind of
+cooking up
+oh producer xander has a question who
+has asked the audience who are some
+guests you'd like to see participate in
+an ama or microconf on air for that
+matter that you want to engage with
+the service provider directory is
+something we've been talking about
+internally and you know you had said
+both apps themselves that built by
+connect members as well as you know
+freelancers or certain you know kind of
+more service providers um
+and that's been all that's already on
+the roadmap right that was something we
+were looking at to do in 2022 anyways
+yeah absolutely as part of actually as
+part of this wiki um there's already
+kind of the framework in place it's not
+that is upcoming though where kind of
+this follow-on feature is adding in the
+ability to have um kind of apps as well
+as service providers so for example one
+thing that came up a bunch within the
+survey was hey i'm looking and what
+comes up in the community as well as i'm
+looking for a tax accountant in the uk
+or i'm looking for a lawyer to review um
+an employee contract and wouldn't it be
+great to have a resource of like vetted
+curated lawyers or vetted curated you
+know specific you know apps that you can
+actually go to and be okay these are you
+know vetted by the community
+right and then
+the last one was detailed guides
+playbooks templates community driven
+business strategies and tactics with a
+really later stage
+um with that have you seen have you ever
+seen that work
+because i think i would like in a
+perfect world that sounds amazing like
+all the community contributing and like
+building all this stuff out
+my the skeptic in me says that people
+who are
+um
+people oh that's a good comment from
+startupman he says it's not guess i'm
+looking for it's topics for me so that's
+cool so start it man if you can toss in
+some topics or anyone feel free toss in
+the topics you want to hear about
+because
+you can test in almost any topic and we
+can find that person who knows a lot
+about it right or multiple people
+but as i was saying my
+my concern is that the people who are
+executing and are doing well and really
+know these things are too busy or are
+too you know their priority is not to go
+and and
+edit a community
+version of a template or a blah blah
+it's to execute on their business and
+grow it right and so i think that's my
+concern is will the people contributing
+um be the ones who have like the great
+knowledge or will these things
+will we get a bunch of early
+contributions and then it kind of maybe
+dies off in a way that they become stale
+and i don't know again i'm always
+i have a skeptical side right just as a
+as a software developer thinking oh what
+could go wrong here so have you have you
+worked on something like this before and
+seen it work or hurt or even just heard
+of something like this working
+um that's a really really great point
+and i definitely share the same sort of
+concern that like obviously
+the people who are the most
+most cases the people who are the most
+knowledgeable on the topic are so busy
+actually executing on it um and or in
+some cases don't necessarily want to
+share what's working
+um because it's still working they don't
+want everyone to copycat them that's
+right um one of the things that i have
+seen that has worked in the past and
+in terms of examples and i'll keep it
+vague is being able to do like
+interviews so maybe if someone's really
+busy but they're so kind of willing to
+participate is like being willing to
+like make it low friction whether it's
+like asynchronous interviews using
+something like a loom and embedding that
+directly into the community so hey this
+is you know you know i answer like one
+or two questions or whatever and kind of
+aggravate it that way um in different
+formats has been
+one way that can work
+is that what you were thinking of or is
+there additional
+oh i was imagining it being written yeah
+i was mentioning these being written
+guides because any time i find any time
+i do
+audio or video it's instant well do you
+have a transcript because i don't want
+to listen to that you know so having
+looms i think and you can obviously have
+those transcribed as well um
+but yeah no that's that's an interesting
+certainly a low f lower friction way to
+do it because i can ask a lot of folks
+you know i can ask my friends who are
+just seo amazing you know amazing at seo
+they're not gonna sit down and write a 3
+000 word guide but they might record a
+five to ten minute loom right with like
+a covering a topic so i do think that's
+that's a clever hack
+all right any other so those are the top
+five requested features any other
+surprises for you or things you want to
+call out um
+from the survey otherwise i'm gonna i
+have kind of a list of things that we're
+doing in 2022 for microconf but i'm
+curious
+if anything struck you
+those were the main ones that i had i'd
+be curious to hear more of your feedback
+yeah i mean like we asked folks when did
+you join microkoff connect
+and
+you know the two-thirds of people had
+had been there at the community for at
+least a year so it's that which is kind
+of cool because that means
+if you have i've had communities before
+where it's a constant influx of new
+people and it it feels like there's a
+lot of entrepreneurs and people aren't
+invested in it and so to have two-thirds
+be that
+the anchor you know the the capstone not
+even capstone what is it like the
+the foundation i guess is the way i
+think about it it's the same reason i
+think the microconf growth in person
+events have always done so well is our
+return our retention from one year to
+the next usually
+was 60 70 and what that means is that
+these relationships build and you can
+have
+20 or 30 new people at an event and have
+it be okay but if you have 70 or 80 new
+people then no one knows each other and
+it has a very different feel
+and so i i liked that
+um how often do you visit the microconf
+connect slack community and 26 of people
+said daily and 27 said a couple times a
+week so that was more than half are
+basically in it uh fairly frequently
+and then how long have you been in
+business this was kind of interesting so
+more than 10 years 17
+and let's see 6 to 10 was 20 and three
+to five was fifteen so
+you know you're looking at fifty percent
+three
+years and up which again is something
+that's always been unique about the
+micro conf community is it's
+there are some communities you'll go in
+and and eighty percent would say i
+haven't launched a business yet and
+that's just not how we've been now some
+are starter events i mean we do cater
+some of it you know stuff to earlier
+stage folks we've always
+been careful to do that but um having
+that balance of folks who who have
+shipped and who are growing versus
+just folks who are in the early stage i
+think is a really
+um valuable piece
+i think that's it for me if you don't
+have any other thoughts on the survey
+yeah absolutely cool all right so let's
+talk a little bit about
+for microconf uh as a whole obviously
+microconf connect
+oh
+question i missed the question um for
+the accountability challenge where do we
+post
+our goals what channel in connect
+awesome for the great question for the
+very first one if you want to just post
+it in the thread within microsoft
+announcements that would be
+amazing and then after this one the next
+one will go live on monday um in the
+hallway track and then once you complete
+your um goal with your task for that
+week share it in the tiny ones channel
+so for the very first one just leave a
+reply within the announcements channel
+um in that thread and then afterwards it
+will be posted in the hallway track and
+then the tiny ones channel excellent
+well jessica thanks so much for coming
+on i'm going to let you go and then i'm
+going to talk more about other micro
+cuff stuff on my own so thanks for
+joining us again sounds great all right
+yeah so uh microcom 2022 plans i don't
+know how much i don't know that any of
+this will come as a shock but um
+obviously we're continuing to do
+microconf connect
+you know because we know that both with
+covid but also just
+with you know with the the world and
+trying to get out and do things um
+we know that we need an online home as
+much as we need you know the in-person
+uh impact obviously microconf started as
+in person events and it is much much
+more than that now and so continuing to
+double down on connect that's we brought
+jessica on i think it was maybe three
+four months ago as a community manager
+because you know to essentially focus on
+it mostly full-time because xander and i
+have just always done this stuff on the
+side and we know that it you know
+connect and our online efforts need more
+than that
+the microconf podcast you should check
+it out if you haven't
+microcomppodcast.com
+or just type in microconf into any
+podcatcher or spotify
+and what we do is some weeks we have
+um
+some weeks we have refresh episodes
+where we take some of the best microconf
+talks the in-person event talks we pull
+the audio from them i do an intro to set
+context
+and then you can just listen to them at
+your leisure i actually listen to a lot
+of these talks to some of my favorite
+talks just to refresh my memory of them
+and then other weeks
+we
+uh have the microconf on-air live stream
+and we'll pull the audio from this in
+case you miss it so it's a nice way to
+again asynchronously be able to pick and
+choose and you know listen through
+content that that microphone's putting
+out
+we
+had i tried to think if we have or had
+15 events planned two of those are
+remote microconf remote two of those are
+kind of fingers crossed because they're
+in they might be tough to do this year
+giving covid and then as i said we had
+one in january that we have either
+postponed canceled i don't know yet it
+was going to be in california so
+15 events 13 of those in person which is
+the most we've ever
+planned for a year uh producer xander is
+going to be running like mario on this
+one so it'll it'll be fun i hope to see
+we're gonna we need to do an
+announcement of the cities um soon i
+think we don't want to get ahead of
+ourselves given covet it's like if we
+announce all these cities we get
+people's hopes up in essence and then if
+we have to start moving things around it
+becomes
+kind of a drag right it's like
+more more bad cover news so
+we are kind of waiting and seeing on
+that but we have yeah you know in a
+local event planned
+i mean most months of this year we have
+a local or a growth event planned
+plan to do continue to do
+microcontroller live streams every other
+week so we'll do somewhere in 20 26 of
+these you know sometimes there's
+holidays and such and we're traveling
+but
+plan to keep doing that and then
+microcomp youtube channel youtube.com
+microconf we've continued to double down
+on that i believe we're approaching 11
+000 subscribers
+and not only do we put these live
+streams on them not only do we put our
+in-person event
+um you know talks and recordings on
+there after it's it's there's several
+months of delay but we um
+i've started recording some
+interest kind of topical
+um
+topical youtube videos that we're going
+to be putting out in the next couple of
+months where there's a specific topic
+like sas kpis like everything you should
+know about sas metrics and kpis and just
+focus for like 10 minutes on that you
+know so it's kind of me in front of a
+camera teaching
+which is something i haven't done in a
+while but those have been super fun to
+uh to record so
+you should subscribe youtube.com if
+you're not already subscribed obviously
+we're doing this accountability
+challenge in january which i'm excited
+about we have the state of independent
+sas report remember we did the survey a
+couple months ago we're going to do a
+report with the live stream for the
+third year in a row and that's going to
+be in either late january or early
+february depending on how things pan out
+and lastly we are doing mastermind
+matching every i believe we do it every
+quarter-ish and our next one is going to
+be in february
+we've gotten such
+positive feedback about our mastermind
+matching and it's something that once
+covid hit we realized there you know we
+need to do more online more virtual
+stuff because
+you know having rent events for all
+these years um that was kind of what
+microkoff was known for and one of the
+really one of the things we had received
+a lot of requests for is how do i find a
+mastermind and so
+producer sander has really killed it in
+terms of setting up a process for
+getting folks together and getting them
+matched up with like-minded individuals
+at a similar stage
+in you know maybe similar but not
+competitive businesses there's a whole
+science to it um you should see the
+incredible like air table that uh that
+produces android's in when he's doing
+that so mastermind matching you can go
+to microcom from
+mastermind.com i don't know if that's
+plural i think it's
+microcommasterminds.com
+if you do want to set up to be you know
+sign up to be notified uh next time we
+do a match there is uh we do charge for
+this um we feel like it provides a ton
+of value and we have had zero
+um
+zero people say oh you know this is too
+much money uh to to basically be matched
+up with like many founders and this is
+the type of thing i've been talking
+about for more than a decade now um if
+you search if you go to
+startuprestfus.com and search uh mass
+startup mastermind i believe the first
+time we talked about it was like 2012
+and i had already been doing them since
+2009 or 10. and these things change the
+course of my business and of my
+professional career and i feel like they
+can do the same for you so it's actually
+a pleasure you know what we talk often
+like
+the mission of microconf startups the
+rest of us and tinyseed is to you know
+multiply the number of independent
+startups in the world and we happen to
+focus on sas but it's independent
+software companies in the world that's
+the mission of all of those things right
+and micro or startup to response is free
+and it's every week and it's in your
+earbuds and you subscribe and microconf
+we have all these offerings to help
+folks do it including masterminds and
+in-person events and then you know if
+you decide that it's a path to go down
+then tinyseed can help you further with
+funding and you know the mentorship in
+the community and all that but it's all
+under the same umbrella of doing that
+and
+um that's why it's such a pleasure to be
+able to
+you know to to offer things like
+masterminds that i know really make an
+impact and you know make a difference
+for founders
+so thank you so much for joining me
+today
+um
+we are let's see tickets are on sale for
+microcom growth in 2022 that's in april
+in minneapolis you can go to
+microsoftgrowth.com to register it's
+april 3rd through 5th of this year
+and if you're interested we did just
+have a microconf remote focused on no
+code so if you're interested in learning
+about how b2b sas and no code intersect
+head over to minecraftremote.com and you
+can get the videos 30 bucks for six
+talks as always thank you to hay and
+stripe for being our headline partners
+um if you are interested in sponsoring
+any of our microconf events or offerings
+please reach out support
+microconf.com thanks for joining me
+again this week i'll be back in your
+earbuds this is what i'll be back in
+front of this camera in about two weeks
+um with another amazing guest or another
+show to help you move your business
+forward
+thanks so much see you then
+[Music]
+you

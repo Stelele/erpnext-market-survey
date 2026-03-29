@@ -1,0 +1,1473 @@
+﻿hey I'm Arvid welcome to the bootp
+founder today I'm talking to James
+Phoenix an AI expert in software
+developer who will teach you how to
+approach building software projects
+quickly and effectively with AI tooling
+we will dive into the limitations and
+Promises of cursor and similar llm based
+coding environments we will talk about
+the future of software engineering as a
+whole and James will give you the
+biggest most high impact things you can
+do to get up and running with cursor he
+helps me understand how to get things up
+and running with cursor and it's really
+really really cool this episode is
+sponsored by paddle.com if you were
+looking for a payment provider for your
+business that lets you build the things
+you want to build instead of having to
+deal with things like taxes and invoices
+go check out paddle it's worth it I use
+it too now here's my conversation with
+James James you're the co-author of the
+book prompt engineering for generative
+AI which is an amazing book I've been
+reading it over the last couple weeks
+and I've been really really enjoying it
+I've been learning loads so you're an
+expert on getting AI systems to do what
+you want them to do and you're an
+engineer so we have a lot of overlap
+here is coding still the same thing to
+you as it was back in the day before AI
+I guess the question is has your
+understanding of what software
+development fundamentally is or is about
+changed over the last couple years yeah
+so a really great question Arvid I think
+the the way that it's changed is we're
+all being lifted up and we're doing less
+menial work so you know back in the day
+when you had people using chat gbt to
+write blog posts there were a a couple
+of people that were playing around with
+the idea of generating react components
+in gpt3 and it didn't really have enough
+cognitive reasoning power to actually
+produce high quality code and what's
+happened is in the last year and a half
+we've now reached the point where llms
+are almost better um programmers or or
+able to generate highly you know high
+quality code um directly from just one
+one example or or not even an example
+and so I think that we've all reached
+the point where we should be AI first
+and we should primarily be um like an
+engineering manager where you have
+almost like a bunch of Juniors that are
+going off with your project requirements
+or your task requirements and they're
+basically executing that and then
+they're coming back to you with some
+output and you're sort of either giving
+them guidance and telling them that
+they're wrong and and that feels like a
+lot of what I'm doing doing it with
+Claude right now I'm sort of treating it
+like Junior it comes back and go you're
+like 80% of the way there but you're not
+100% of the way there that can that can
+happen yeah um or or it's just getting
+it absolutely right and nailed it and
+I'm like you're the best intern um
+considering the price point you know so
+yeah that's that's kind of where I think
+we're out at the moment yeah it it does
+feel and I've been AI first for a while
+too over the last at least half year
+while I've been building my own business
+it feels like it's an ongoing pull
+request just this constant pull request
+that's just happening every single day
+several several times an hour but you're
+just saying y sure oh no there's a
+mistake here and I want this different
+okay now try another way maybe you can
+do it better like this is what coding
+with AI feels so much more than before
+what you would itely explore through
+Reading documentation through trying to
+kind of take other people's examples and
+shape them into what you need it feels
+much more like a judgment call now than
+it actually is an intellectual exercise
+in creating like a logical structure do
+do we atrophy do you think this might be
+a problem for engineers who are afraid
+like there's a lot of Engineers out
+there who try not to touch it right
+because they think the skill set might
+be going away do you think that's the
+case so primagen did make a good point
+uh about a week and a half ago on a
+video which was we're going to run into
+this problem of beginner experts where
+you basically have someone who uses
+composer and they create a full stack
+app but they've got no idea how it works
+and that's a huge dangerous point right
+like you've just built this entire app
+and you've basically fumbled your by
+working till 2 a.m. in midnight and just
+saying fix it fix it fix it so I think
+there's a danger there where we
+basically just end up um prompting too
+much so um what I tell most people is um
+you should basically uh always
+understand the lower level Primitives so
+if you're working in reactjs you need to
+understand State Management you need to
+understand use effect you need to
+understand the rendering cycle um but
+when you're generating the code you
+don't need to understand that code
+unless you need to fix that
+implementation so it's almost like uh
+because you've been lifted up to an
+engineering manager you now no longer
+need to understand every part of the
+implementation however when the
+implementation needs to change then you
+obviously need to dive into the code uh
+and also if you don't understand those
+lower level Primitives then what happens
+is you're going to spend a lot more time
+in learning I call it learning and
+Discovery phase of Claude so I think
+there's of two main ways that we're
+using um any kind of llm the the primary
+way is you're in worker mode so uh
+here's a task here's context X you know
+generate me outcome Y and basically
+that's how most programmers work but
+then there's another side that actually
+lot the Juniors will use which is uh how
+you know that it'll write some code and
+and a good Junior will say I don't
+understand this can you explain this to
+me and they'll be feeding off Claude and
+sort of upskilling themselves almost
+like one to one on one-on-one mentoring
+and uh and so what what's interesting is
+a senior will do a lot more work mode
+and a junior will do a lot more learning
+and discovery mode so if you're learning
+a new language and you don't understand
+syntax that's the point where you should
+flip modes and say um you know you've
+just generated this code great you've
+solved it but I didn't understand these
+three bits uh and so that's where I
+think you can get a lot of power from
+using llms is you basically you can ride
+off the back of the implementation as
+long as they describe those lower level
+Primitives to you in real time yeah I I
+think that's also discovery mode on the
+other side on on the expert side of
+things where you are so kind of siloed
+in your own knowledge situation wa the
+only thing you know is the stuff you've
+always been doing like your best
+practices your what you think is right
+that when you present your work to the
+AI to any llm that has these
+capabilities and tell it well find me
+alternative ways to think about this it
+can now look at it from an outside
+perspective I found this extremely
+useful in just trying to curtail my own
+limited Vision that I have into software
+as it came do you suggest that for
+people to to lean into more because you
+say a lot of experts are in work mode
+because they need to get stuff done
+should they also be in this kind of
+Explorer mode yeah so I think there
+there's a danger of committing to one
+implementation too fast because of these
+types of you know you can just generate
+a load of code and so one thing that I
+often do is and I actually do this in
+cursor and just in the chat window is
+before making a larger decision I will
+ask it like here's all my code here's
+what I'm thinking about doing here's a
+couple of different approaches which
+approach do you recommend um and why
+should I go with that and I'll give you
+an example I'm building um a data
+pipeline at the moment and I had a
+choice between using a callback
+architecture versus a polling
+architecture and I gave it all the code
+and then I said um which do you think we
+should do given this kind of this kind
+of implementation that we've already got
+um and you know then it comes up with a
+series of trade-offs and that can be a
+really great way for you as a senior or
+someone that's an intermediate to not
+not just dive straight into let's
+produce it let's get it working um so I
+think there is some value there does it
+ever suggest stuff to you that is kind
+of way out of your just even field of
+understanding I'm thinking I I've done
+similar things I've had I need this and
+I have many different approaches could
+be callback could be a polling could be
+an RPC and then it started suggesting
+like a uh what is it Apache Kafka
+situation the message C implementation
+something that I've maybe done before
+but probably wouldn't have thought in
+this this kind of particular
+infrastructure thing so how much
+exploration should we put into all the
+different varieties because it feels
+like you have this kind of selection
+overflow this this overwhelm of all the
+different things you could be doing how
+do we judge this when they're presented
+so eloquently by the llms Yeah so I
+think I think it all comes back to you
+should always choose the this is kind of
+an architectural question but yeah you
+should always choose the simplest
+architecture and you should always have
+the fewest lines of code so ideally you
+should have no code and you should have
+simple architecture like that you should
+basically start with those premises
+assume that all code is basically
+rotting in real time and it's it's you
+know there's that phrase you know like
+the that basically it's It software is a
+lot like milk you know you have to keep
+sort of going it's and and sort of
+improving it over time so it has a high
+maintenance cost so I think when you're
+thinking about architectural patterns
+it's basically always the simplest so as
+long as you can get away with a simple
+architecture pattern and it's not going
+to shoot you in the foot in like a
+couple of months then you should just
+just generally go for those as a
+software engineer yeah when you start
+with a project a new project Green Field
+or maybe even a legacy project do you
+first go through this kind of
+infrastructure architecture phase or do
+you dive right into building into
+prototyping right so so this is going to
+sound crazy but I actually start with a
+readme file and I I basically say okay
+right let's map out all of what we want
+to achieve and I W they won't be high
+level goals like we're going to create a
+CMS they'll be sub goals within that
+because a CMS is too vague of a concept
+you've got things like content full and
+WordPress but if we start to dive into
+some lower level subtasks then what what
+that's going to do is you can basically
+take a a boilerplate and this highly
+refined product specification that's
+almost written by a product manager and
+you can basically say here's my
+boilerplate code here's my product
+features I need you to start banging out
+SQL migrations in cursor to basically
+get it from this boiler plate that kind
+of does off and payments um but it
+doesn't have any of that business logic
+built in and and and rightly so but then
+combined with that read me you can you
+can actually go really far so that's
+actually how I start every project is I
+pull in some boiler plate I I I've
+already got a readme that's very rich
+and also in that readme I will include
+things like what API Services we're
+going to use rate limits for those API
+Services uh will will include all the
+kind of
+limitations um on and sometimes I'll
+even throw in the API documentation and
+the links to those so that not only does
+it have the kind of product features but
+it also kind of has the recommended text
+stack it has the recommended
+documentation um and it's also already
+got the boiler plates database
+migrations built in so it already knows
+where we're up to because what you're
+trying to do is avoid sort of going
+forward then going backwards then going
+forward then going backwards so as long
+as you sort of bring it up to context in
+the sense of we've got these three
+tables we've got next we've got strip
+um and like here's what we're trying to
+do right now with these API docs and
+these types of sub goals then I think
+that's a really good place to start it
+does remind me a lot about just the
+waterfall model of software development
+in many ways it's like fully specked out
+but the the process itself is agile
+right then you kind of let it build and
+you do this kind of um okay this is a
+feature this is kind of how I wanted
+sure for now but this is kind of
+different it feels like a mix of
+different software development
+archetypes yes yeah I think the reason
+why it's good to specify everything up
+front is because writing text is really
+cheap from an implementation point of
+view and like's say for example you
+define like this app is going to have
+three features or five features maybe
+cursor would produce you different code
+if you actually told it it's going to
+it's going to have these seven features
+right so by kind of just saying the end
+goal of this app you know roughly and we
+might change some things as we go along
+it's going to have these kinds of
+features is very cheap to do it takes
+you 20 minutes to write this all in a
+readme file um and and because of that
+it already has the context when it goes
+to then start building out new
+migrations in you know for SQL or any
+database that you're doing you know new
+schemers if you're using mongodb
+so because of that you're already
+getting a lot of the benefits of the of
+the foresight you know you're like
+you're trying to avoid uh living in
+hindsight and live a bit in foresight um
+so that's kind of the the the theory
+behind that that approach just cool I
+like you because you're anticipating
+that the model also anticipates your
+future features yes it's kind of a nice
+like double anticipation here I wonder
+when when you talk about this read me I
+think this is a great approach I think I
+U subconsciously use this now that I
+write my own features I I just write
+them out in an ocean document like the
+way I want them and then I just throw
+that plus some files from my my code
+base that are kind of like it or that
+they have to fit in into claw and just
+let it generate a whole thing that's how
+I used to do this I I recently jumped
+into cursor we can talk about this in a
+minute but I I want to get like back to
+this approach for a second how detailed
+are those steps because what I hear is
+that you have the features that you want
+to be in this kind of grand scheme of
+things but when it comes to the data
+models and the apis you're getting very
+specific so it's a mix of Highly
+specific and general is that correct
+like how do you approach it yeah so I
+think the key is to essentially give
+cursor or some type of llm the the sort
+of rough idea of what the app is doing
+then I think it's up to you as a
+developer to basically go in and start
+doing the first feature and once you've
+done that first feature you should go
+and revisit the readme with anything
+that you found that's going to
+potentially change and you can almost
+think of like some readme or some
+instruction MD file as a place where
+you're storing kind of the the rough end
+gold vision of what this app's going to
+do and I think it's dangerous to um to
+to not believe or be in disbelief that
+things aren't going to change right
+you're going to get into one feature and
+you're going to realize oh I need a
+different type of of data structure or
+type of uh type of API service because
+of how this feature the problem is right
+the problem as you explore the problem
+you will incrementally gain knowledge
+around how to appropriately solve that
+problem so you know like for example if
+you're using the open AI batch API uh
+there's some limitations on that right
+like you can only put in 50,000 requests
+per file and it has to be under 100
+megabytes per size so so that's also why
+I think that if you put some of these
+limitations as well inside of the
+features um as well as just mocking out
+like I'm going to build these three
+features that's why I think uh you can
+avoid some of those pitfalls of kind of
+having to go back and change so a
+mixture of both the sub goals and
+limitations and opinionated choices is
+going to mean you're going to have to do
+a lot less iterations when you start
+diving into that lower level
+implementation but you will always have
+some some backwards and forward for sure
+yeah so does this read me file this kind
+of initial spark of the project grow
+over time do you just add more things to
+it yeah I I do sometimes it depends on
+how much it's changing um I I would say
+that on General the first version of it
+is the most useful because that will
+give you a start and will immediately
+start pushing you into a feature after
+that after you've done that feature you
+probably have enough code as a reference
+point to then piggy back off plus the
+readme to then start building
+subfeatures or or different features so
+it's almost like you're using the readme
+as a as a sort of rocket ship to get you
+to to to understanding but then once
+you've got enough code the code itself
+is also partially the business context
+right so I think there's an element of
+that because as you start to build out
+different types of schemas in whatever
+you're doing the llm was very good at
+figuring out oh okay right of course so
+if you know if you looked at pod pod
+scan schema right we'd have like podcast
+we'd maybe have a podcast table we'd
+have maybe a transcriptions table um and
+but but but over time you could give
+that schema directly to an LM and you
+wouldn't need the read me file anymore
+because it knows that it's a podcast so
+so but there's this weird intermediate
+where if you've got no extra tables and
+you sat a boiler plate the read me kind
+of act as a Pik me like a rocket ship to
+get you to that that structured schema
+and then from there then you can then
+just pull in the schema the migrations
+and it's like okay right we're back to
+where we are so I think it's more of
+like an initial jump ship like that
+you're sort of using yeah that that
+makes perfect sense because like if you
+don't need to update it because the code
+is actually the truth of the project
+right instead of instead of the wishful
+thinking that the read me expresses it's
+the actual thinking that happened plus
+its implementation and code that gives a
+lot more information and schema yeah for
+sure I do Wonder this is a thought that
+I just for the very first time sadly I
+should have had this way earlier how
+important is naming of uh tables naming
+of properties on tables or whatever kind
+of properties you might have in whatever
+database system you have because if the
+schema and its connectivity is so
+relevant for the the llm to understand
+the data and the the kind of
+relationships that it have how specific
+do you need to be when you name
+variables or fields in there yeah so so
+I I think that we don't have to worry
+about this problem and the reason why is
+whenever I've used Claude or GP 4 the
+field names they suggest are already
+pretty good at you know they have is
+quite good semantically so I think I
+think yeah you're in the danger of if
+your all your columns say something like
+time call XY Z then it's a very
+dangerous place to be right because
+there isn't any semantic linkage or
+context generally speaking llms when
+they're providing kind of these these
+Generations in terms of your database
+over time they generally time to be
+quite good um so so so I think it's
+almost like a byproduct of naturally
+developers of written good field names
+and that's already in the training data
+so claude's already kind of already kind
+of just saying yeah this seems like a
+good name for this column or this this
+this key value in in mongod DB for
+example yeah it makes me wonder whenever
+I think about these these machines that
+are now ingesting data that has also
+potentially been created by machines how
+much kind of you know self- sustaining
+self uh in grisinger problems we might
+get in the future or benefits we might
+get in the future from you know how
+these machines Express things are the
+things that these machines then expect
+future tasks or future texts to also be
+generated as it's I don't know if it
+makes a lot of sense to you but you know
+this this uh AI ingesting AI results
+problemu do you see this being a thing
+with with AI generated code I I think
+what they're going to do is they're just
+going to use synthetic synthetic
+generation to solve this problem so
+they're basically going
+use llms to generate data and then from
+that data what they're then going to do
+is use human reviewers and then use
+those as the way to get around the fact
+that we've kind of gone through and uh
+We've you know we've we've experienced
+that where we basically we've already
+used quite a lot of the training data
+for text so that's that's mainly the
+reason why I think they're going to use
+synthetic data generation to get around
+that yeah but what if these humans have
+been trained by llms what what if
+they've only learned everything they
+know about coding by discovering these
+kind of things from LMS I mean it's it's
+a joke right but but it's it's kind of
+it's kind of a potential problem it is
+is it kind of makes me think that
+actually the Frameworks and everything
+that we have at the moment is going to
+be the primary way um I think because of
+of what's happened with so much training
+data on stack Overflow online there's a
+there's there is a point of maybe we'll
+just stick with some of the Frameworks
+that we used to because a newer
+framework is competing with so much
+training data
+so many answers so reacts kind of become
+like the golden standard for example
+okay that makes sense to me yeah that is
+that is an interesting point the the
+llms are so capable of dealing with
+these languages these Frameworks that
+they know yet they probably would really
+struggle with something very new
+something that people could probably
+pick up and you know deal with within
+days after it being released or invented
+do you think huh do you think this is a
+a drawback for for new paradigms in
+software engineering that those machines
+are so trained on Decades of the other
+stuff I think I think that the the
+danger of it is is if you release a
+framework and it's not indexed into
+something like Claude or gbt 40 you're
+going to struggle with developer
+adoption because someone is just going
+to be so much faster in react or larl or
+or any kind of framework that's got a
+lot of training data so I think what's
+going to end up happening um is it won't
+stop Frameworks being developed but they
+won't the newer Frameworks won't be as
+good until web search and in time
+context retrieval is really very
+powerful and what I would say at the
+moment is even like the documentation
+feature in cursor is generally not that
+great I normally just po you know copy
+and paste the the actual documentation
+page in and I find that that works a lot
+more than using Rag and using chunked up
+embeddings to get portions of the
+documents in so I do think that in the
+short term it is a disadvantage for
+framework developers in the long term
+it's probably going to be okay when the
+context window is good enough that you
+can just throw in a 100 pages from a web
+search and it just gets the framework
+now right so so in the short term it's
+definitely a problem but in the long
+term I I think we'll be fine yeah I'm
+looking forward to the days where the
+interval between new information being
+out there and new information being
+integrated into the system gets shorter
+and shorter right almost at at the real
+time level right that's kind of my my
+Star Trek fantasy is there is a computer
+system that just knows when things
+happen because it has this this data
+inflow all the time I guess that's what
+pocan also is trying to help people with
+right that's that's why I've built this
+thing so for Real Time information so
+try I'm trying to sell to companies like
+open aai and and anthropic because they
+have training needs and I have the data
+right so that's that's a thing but let's
+maybe get to something that the people
+listening to this can actually use which
+is cursor I think you've been talking
+about this quite a bit I have started
+using in cursor three days ago so I'm
+super behind on this so I I just want to
+give you a really really short glimpse
+into my my first couple days of
+experiencing this tool which were oh
+this is vs code and then I did something
+and then oh this is not vs code anymore
+like all of a sudden this what to me was
+an editor for decades just a thing where
+I type text and maybe get some
+intelligent suggestion for what a
+variable name is that is already in the
+same file turned into a a wholly
+different experience and I got to say
+initially I was quite overwhelmed by the
+idea of allowing this system to write
+the code for me I think I I kind of
+slowly iterated myself into AI assisted
+coding by first using chat GPT for
+questions that I had by then using Claud
+for just putting my prompts in there
+taking the code and manually
+transferring it over like you know kind
+of the Boomer way of coding but that's
+kind of what it is and and now I I got
+into a cursor and all of a sudden
+everything changed
+and I feel overwhelmed so maybe you can
+give me the first steps that I should be
+taking to make this usable to me and to
+make it comprehensible to me this tool
+that has so many capabilities that I
+probably haven't even seen 5% of at this
+point so what are the the best first
+steps here yeah so I think for anyone
+listening um just um in terms of what
+you should be thinking about for for
+curser um well VSS code is basically got
+you got GitHub co-pilot which is your
+auto completions on your your on your
+single file and they have started doing
+multifile edits now as well but for
+anyone who's listening cursor has
+basically got three main modes you've
+got inline edits which is great for if
+you're just changing a block of code
+with your command K or control K uh and
+you can even ask follow-up question so
+if it doesn't give you the first time
+the answer you're looking for you can
+basically ask a follow-up question
+command l or control L is your chat mode
+now I would personally recommend using
+that on one or two or three files if
+you're doing huge sweeping changes you
+don't want to use chat mode it's it's
+too much effort to manually apply all of
+the different blocks of code and at that
+point when you're looking for that
+you'll want to use composer which is
+command I or control I on on Windows and
+so there's three different modalities um
+and in each of those modalities you can
+also use the at symbol and I'm sure
+you've probably started using that quite
+a lot Arvid it's it's really great it's
+basically replaced that entire work
+stream of I'm going to go into Claude
+I'm going to copy my code in or or chat
+GPT and then I'm going to get the answer
+I'm going to paste it back in and
+there's a lot of manual files that you
+need to troll through and making sure
+that Claude or or gp40 has that relevant
+file context and so it's saving a lot of
+developers Time by just adding a folder
+or atting a file or you can even do
+something called at codebase which will
+basically look at the local embeddings
+and given your query it will find
+relevant files which it will then
+basically pull in um and so you you know
+when you've built a feature you can even
+use at codebase to then figure out what
+files it should actually be using um my
+personal favorite is actually the at
+folder I I actually think that you have
+that when you have direct control over
+what files are being referenced into the
+prompt you're going to get the best kind
+of generations uh at COD base is kind of
+good but again it's all based on the
+semantics similarity between the query
+and the file names and the the function
+the function names and the class names
+and all that kind of stuff in those
+files um I I think that you you should
+default to composer mode if you're
+building Indie hacking apps um and you
+should only use chat mode and inline
+edits when you really need to make sure
+that a certain part of a workflow works
+really well or you're struggling in
+composer and you've got 99% of it done
+and you're just working on the single
+file or a couple of files that's when I
+start to switch into that kind of mode
+um there was a time about a month ago
+where when we didn't have the newer
+Claude model that sometimes even Claude
+would struggle with features and with
+and at that point then it's sometimes
+worth actually going in and looking at
+the logic yourself um so depending upon
+the intelligence of these models you can
+give them bigger and bigger goals uh and
+as you give them bigger and bigger goals
+you should default using composer
+because they'll be able to handle that
+multifile and editing experience um so
+it's almost like as the models get more
+perform
+and more intelligent we should we should
+generally be doing multifile editing as
+the primary way of working on a project
+and um the only danger with this is when
+you change a lot of files you lose a lot
+of context so um you do have to go and
+read through those files and understand
+what's changed because if you don't
+you're basically it's almost like you've
+given away a little bit of your project
+someone's gone and done it in some other
+country and they've given you the code
+they've slotted it in and you've got no
+idea how
+this this entire piece works so that's
+the danger of composer right the other
+danger of composer is regressions so um
+you know once you've done like 90% of a
+feature or a file and then you say can
+you add this sometimes it will actually
+randomly delete stuff in the file and so
+you have to be like no actually put this
+back um so always be on the lookout for
+regressions when you're looking when
+you're using composer do do you think
+this will be something that the the team
+at cursor will fix this kind of
+regression stuff or is that an innate
+problem I think that's an innate problem
+with the llms yeah and we'll see that
+that goes away when we get new new
+models so like in a year and a half that
+probably won't even be a problem anymore
+but right now it's a problem because
+it's only focusing on a certain portion
+portion of the generation uh and uh
+there there is a feature that they've
+implemented in cursor to kind of patch
+this which is called um composer
+checkpoints which allows you to revert
+almost like a git reset or a git
+checkout back to a specific commit sha
+and you can do that directly in a
+composer chat window so you can already
+revert State back so you can almost YOLO
+your way there and then you can YOLO a
+little bit more and if it fails you can
+always go back to the previous YOLO so
+it's not too bad it's pretty good it
+reminds me so much about of machine
+learning and and the way we do that
+gradient descent and these kind of
+things where you just wiggle around the
+hyperparameters a little bit to see if
+it's better or worse it's it's so funny
+how all of these things come together
+and the approach that we have with AI
+like this uh very experimental but also
+then um iterative Step of building stuff
+like does this work maybe let's see
+let's try this let's try an alternative
+are there other things that you see in
+your own use of of cursor or LMS in
+general where you you have to look very
+specifically to make sure that they
+don't mess up too much like you you just
+set this as kind of random deletion I
+had that too many ways where which just
+forgot that that was part of the thing
+that I wanted it to build is there other
+there other things to have in mind yeah
+I think when you start building um
+distributed
+Services um that can get quite tricky
+because if you've got for example this
+API calls this other API and then a load
+of jobs happen and then those jobs get
+you know put into a table somewhere in a
+reddis and then all of those gets
+collected and then so so so that's where
+where an example of where you as a
+software engineer should focus a lot
+more on the in the the flow of data and
+the potential errors that can occur
+between these distributed systems what I
+have found is the more monolithic the
+app the better cursor is just like yeah
+I love this stuff great so you know like
+if you're using nextjs like and you're
+not using an API back end and you've got
+it all in one mono repo and you've got
+types you can just smash out crud like
+it's no nobody's problem right when you
+start having like an API server and
+you've got specific like AWS step
+functions or you've got a Google Cloud
+workflow like anywhere where adding on
+cloud services and you're breaking up
+the the flow of the data um that is
+where you need to spend a bit more time
+sense checking okay I have this service
+a and it's calling service B and then
+that spins up a load of jobs that to me
+is where we should be spending our time
+and we should be also doing a lot of the
+architectural work up front and one
+thing I do do um so I I did this
+recently is um you can use some a tool
+like excal draw.com and you can mock up
+your architecture for a certain portion
+of cloud and then you can just push that
+into cursor give it your database types
+and say generate me the API routes to do
+this part of it so it's still quite
+useful for converting architectural
+diagrams into service level codes that
+executes those um and yeah so that
+that's my thoughts on that the the the
+more distributed the system the harder
+it is to implement these code generation
+tools yeah it also I've been I've been
+trying to have it uh generate AWS
+compliant policy uh Json objects that
+kind of stuff you know these these
+bucket policies for S3 and sometimes it
+works sometimes it doesn't there's a
+there's a lot of Hit or Miss in this as
+well just in my own experience right so
+so so my my recommendation for that is
+uh if it fails like more than twice go
+to the website or and just go and get
+the relevant web pages and just command
+a them or at them in using cursor and if
+that fails then uh you've reached the
+limits of the the current model is
+generally how I think about things so if
+it does it without any context then it's
+already baked into the the training data
+if it doesn't you need to add the
+relevant context that could be your data
+base types it could be the web pages on
+AWS maybe for example the policy API is
+changed then you need to go and fetch
+that context manually if that's failing
+then that's basically like you probably
+the llm can't do it at that point and
+you've got to go and sit down and it
+basically so that's currently how I
+think about things if that makes sense
+that does make a lot of sense and it
+sounds like we're still doing the stuff
+that we used to do in the prei days we
+still try to find the proper
+documentation now it's just that we
+don't want to read it ourselves we feed
+it into the system that then kind of
+turns the knowledge in in there into
+code that our brain would do which is
+why the atrophy idea is so strong right
+we we almost there we know where the
+documentation is we literally copied the
+the URL to the docs but don't read it we
+just give it to the AI right it's a I I
+I don't want to don't want to sound like
+old man yelling at Cloud but it does
+feel like a risk in the in the career of
+a software engineer to not read the docs
+to hope that the machine does it enough
+do you still read docs do do you even
+still manually write code at this point
+yeah so so my my advice on this is just
+what we were to discussing earlier um as
+long as you understand The Primitives of
+what those docs are talking about I
+don't read the docs anymore I I just
+because to me the docs are
+describing ways of interfacing with some
+type of service via language so as long
+as you understand that language so for
+example if we take terraform right
+terraform has a series of resources
+reference names you've got data you've
+got outputs you've got variables in
+terraform Cloud you've got this idea of
+terraform State you have the ability to
+uh to do Version Control control on your
+terraform and as long as I know all
+those things the the usefulness of me
+going and understanding a specific Doc
+is fairly low in terms of impact in the
+long term um so for me I'm actually more
+interested in learning more more
+different Primitives as long as I know
+The Primitives like 80 or 90% that's
+when I'm actually thinking well there's
+no point me reading these docs because
+um you know web search you can already
+do that with cursor you can actually say
+every time you do a query do a web
+search um but but I I basically think
+yeah The Primitives are the main thing
+that you should be focusing on so for
+example I didn't know a bit of a for
+Loop inside of terraform I said explain
+this break it down for me and then I
+kind I kind of understood it so that to
+me is the is the usefulness of this
+stuff and think generally I guess in in
+any skill-based Endeavor it's good to
+know the fundamentals you know and then
+and then from there extrapolate the
+complex relationship between them which
+is the same thing that these machines do
+right it's they just turn it into code
+where we then turn into judgmental
+product managers yeah having said that
+you can do things like you can say I
+know I'm learning about this here's what
+I know x y and z um can you teach me
+some new stuff so I did that with I did
+that with what did I do that with recent
+I think it was with um SQL and it
+started talking to me about window
+functions and partitioned
+indexing um so you get into some really
+uh interesting and advanced topics which
+is a which I think is a way to grow your
+skill set so you basically take anything
+that learning you know whether it's
+react or nextjs or Python and you
+basically say here's what I know uh I
+want to become a 10x engineer teach me
+what I don't know and you can get some
+really interesting stuff out like it was
+teaching me about property based testing
+and mutation based testing which is like
+really advanced stuff or like um reverse
+debugging is like what a 10x engineer
+would do and you won't so so there's
+some really great stuff you can get and
+that to me is the usefulness because
+you're exploring these high high level
+fundamentals that are built upon what
+you already know yeah definitely and
+it's it's an infinite Treasure Trove of
+knowledge too right because for each of
+these things you could dive into
+probably what is a lifetime of other
+people's knowledge and insight just
+compressed into the AL like particularly
+with testing I think we should talk
+about testing because that's one thing
+I've never done sorry I'm outing myself
+as a as a non- test driven engineer here
+but do you test like do you let the
+thing write tests and and how much of
+that uh imps the the actual building
+part of your your software development
+yeah so I think uh I've got I'm I'm in
+very two minds with regards to testing
+um testing if we just talk about the
+drawbacks it has a lot of maintenance
+involved and um it will often mean that
+you're spending time setting up testing
+infrastructure um the benefits are that
+you can essentially figure out that
+something is working and when you change
+something else uh you don't end up with
+regressions and you know you always know
+whether something has caused something
+else to fail now uh for Indie hackers
+you guys should get on integration tests
+right so playr is your friend don't
+don't go for just tests don't go for
+unit level testing just basically go for
+I have this one test that runs and it
+tests the entire feature end to end
+right that's it um so um you know that
+maybe that could be for example logging
+in clicking on a table um upload loing a
+PDF and then uh clicking the go button
+and then after a bunch of API end points
+a result comes back and that's like one
+feature and you can just write a single
+Play Ride test to do that um and then
+you get the benefit of an integration
+test which will test these uh larger
+flows without having to test all the
+bits of the app um personally I do I do
+write tests but I actually have in my
+cursor rules file I have um J tests and
+playright tests and Pie tests pie test
+tests but basically what I do is I tell
+it as I write the code can you make
+empty tests and my Fe so so I'm feature
+first with empty tests and sometimes
+those empty tests get filled if it means
+that the product is going to be more
+reliable so I I think that actually
+there is value in both and people that
+don't test at all have got it wrong and
+people that are militant with testing
+have also got it wrong we're we're
+strictly talking about the startup space
+if you're building an Enterprise banking
+app then you can't not test because if
+the the risk of something going wrong
+actually outs offsets basically the test
+but when we're talking about Indie
+hacking I think you should be feature
+first empty tests and then you should
+fill some of the empty tests with uh
+playright integration tests for bet
+they're the best bang for your buck
+they're called blackbox tests you're not
+testing the whole um every single uh you
+know function signature call you're
+basically just testing does the thing
+work uh and you'll see level levels has
+done that with loads of his robots he's
+just writing integration tests he's not
+testing at the function level or at the
+class level and and that's that's what
+you should do in my opinion yeah yeah
+and when things break you can dive into
+the test and dive into where it broke
+and then look at that there's also an
+idea of this concept called defensible
+programming which is basically where you
+you know as you write code if you run
+into something that shouldn't happen
+then you basically should log an error
+or you should raise an exception and
+actually that ends up partially being a
+testing Suite in some way so I'll give
+you an example like if you have a job uh
+that should get created and that should
+create 10 jobs in the next service if
+you check for if those 10 jobs should
+exist and if they don't you throw like a
+senty error then that's like a good way
+for you to actually be um not
+necessarily testing the actual
+architecture but as the app experiences
+bugs in real time you're just logging a
+centry AR this shouldn't have happened
+we should have we just raised an
+assertion so to me that's actually that
+actually gets you quite a lot of the way
+anyway yeah Canary testing that makes
+perfect sense that's it's a very
+interesting approach like you're you're
+going more on the the the general grand
+grand scheme of things and you try to
+see do things work mostly and then you
+you go down back into the details you
+you mentioned one thing the the cursor
+rules file what is this like i' I've
+never heard of this before I this sounds
+like something that I should probably
+know a lot about yeah yeah yeah you
+should know a lot about this so there's
+a um there's a rule which is a hidden
+rule it's called a do cursor rules file
+and you should you're meant to put it at
+the root level of your directory but
+I've actually found that it works better
+if you put single cursor rules files in
+different ones so if you've got a client
+or an API you should um default to
+putting your cursor rules file for your
+nextjs app or your you know whatever it
+is view or some other framework you
+should put that in and it should talk
+about View and when you load your cursor
+project load it just from The Client app
+if you're going to work in the client
+for a bit because cursor rules doesn't
+seem to work that well when you have
+multiple different folders um so but
+anyway a cursor rules file is basically
+a file that will change the outputs by
+constantly feeding in a prompt um and
+there's a website that everyone should
+check out called cursor. directory and
+it gives you a bunch of different uh
+prompts that you can then copy and paste
+uh and a load of these are like you know
+you're an ex developer using nextjs 15
+you like writing server side react
+components uh minimize use client you
+know like so it's trying to encapsulate
+all the proper conventions that ensure
+that when it produces code it produces
+it in a certain style and a certain
+flavor that you as the developer like
+that sounds like something that all the
+big Frameworks like I'm thinking about
+larl and react should Supply with the
+framework like that this this
+opinionated stuff that goes into the
+framework might as well be expressed
+very clearly in a cursor rules f i
+wonder I wonder if that becomes like a
+new standard like where it's not going
+to be cursor rules forever but for any
+tool that has this kind of capacity just
+like we have you know robots dxt or
+things like this like some some kind of
+neutral format that allows to express
+these kind of things that is very smart
+that's cool what else do you put in
+there uh so anytime you experience a bug
+because the llm currently has a bug
+inside of it will also go in the cursor
+rules fall so I'll give you a good
+example of this um super base just
+migrated about maybe three or four
+months ago from their next off helpers
+to their ssrr package um and that's a
+note package and so whenever cursor was
+generating files to me it would actually
+generate it using the next s helpers and
+I'm going come on right this is
+ridiculous like we've changed this so in
+my cursor rules file it now says if you
+need to look at the uh the client
+libraries for superbase always default
+to use the superbase SSR package and
+they are in these folders and then it
+knows exactly that it's already got the
+clients created which have got types
+attached and it knows that it shouldn't
+hallucinate and start using next door
+fers it defaults to using the newer
+package so as you experience bugs
+through the lack of the knowledge being
+inside of an llm in its pre-training
+data you basically just add those into
+the cursor rules with the hope that the
+new llm when it's trained will have got
+all those bugs out of it but it's almost
+like you're putting a Band-Aid on the
+fact that this llm isn't perfect and
+that's that's just a progession of these
+systems they will get smarter they will
+get better they will integrate this in
+the future it just takes some time to
+train them and it probably is uh just a
+matter of time before these things get
+outdated but that's it sounds also like
+something that developers should maybe
+share amongst each other a little bit
+more it sounds like something that in a
+in an Enterprise or any kind of team
+development settings you could share
+amongst each other to generate like it's
+almost like a linter but on a on a
+different level right it's like a pro
+probabilistic linter um so that is how I
+would Des drive it yeah so um yeah it's
+it's it's it's good but yeah definitely
+use it to any bugs that you experience
+uh you know and also following following
+certain rules like so you know when you
+produce an API endpoint it needs to be
+structured like this um or when you
+produce server actions they should look
+like this and you can put an example of
+the server action in there so you're
+really trying to make it so that when
+you tell it to generate a new server
+action or a new set of API routes it's
+going to do the same thing uh which
+means that you won't then have to go and
+change all of those manually or reprompt
+it you're just getting the the actual
+output that you'd want kind of uh zero
+shot first time around that's really
+cool yeah I'm I'm Really Gonna use this
+man I'm I'm looking forward to to
+writing all my little idiosyncratic
+things that I that I want right into
+this file for the thing to do it yeah I
+never knew this is really cool and that
+immediately makes this more usable to me
+because now I can really put my personal
+touch on this code base without
+constantly having to explain my myself
+that's really really awesome I have I
+have a question for you what what do you
+do when you have um when you have
+problems inside of your your your
+problems tab at the moment like what's
+your workflow so you know like when you
+generate code and you get these problems
+forming do you do anything with those at
+the moment or well usually I take a nap
+but yeah the way I solve this is by uh
+giving I give myself like 15 minutes to
+deal with it maybe 30 depending on the
+complexity of the of the thing and if I
+can't solve it I just go back like Blank
+Slate to the like almost to a checkpoint
+like you mentioned before and try to do
+it again but this time think about it
+differently like take a take an outside
+perspective maybe describe it
+differently describe outcomes describe
+user outcomes describe infrastructure
+outcomes where before I described
+features like all of I I just try to
+switch it and then I go down the same
+Rabbit Hole again and usually after one
+or two tries I get to that point like I
+think a checkpointing is kind of what I
+do yeah so the reason why I was asking
+about this is because there's a tab in
+side of cursor called problems Tab and
+uh it will highlight all of these syntax
+errors that you experience and type
+errors and one thing you can do is when
+cursor generates code uh you get it to
+generate the code and you restart your
+typescript server or your Pyon server or
+whatever language server you're running
+and then after it's done that then if
+it's generated these errors you go into
+the problems tab hit control a control C
+or command a and command C and then you
+go and just take all those errors and
+redump them back into clause or some
+type of LM so so give that a go so the
+next time that you're experiencing
+problems because there's like a a type
+error or like some type of syntax error
+basically just get the LM to to generate
+the output assuming you've got all the
+right context to start with and then
+just say I've got these types now after
+restarting my language server and you
+can do that by hitting command shift p
+or control shift p depending of what we
+on Windows or Mac and there'll be a
+restart typescript server or whatever
+the server is and you have to start the
+typescript Ser because when you use
+composer you can generate 10 files and
+it says that there these Imports aren't
+actually there um and that and then once
+you've restart the language server the
+number of problems will naturally
+decrease and you're left with uh
+basically typed problems compile like
+compilation bugs uh syntax bugs uh and
+you can take all those and just dump
+them straight back in and you can work
+round in a loop a couple of times if it
+doesn't if if you can't if you do it
+about three more times or three or more
+more three or four more times then it's
+generally uh you won't find a solution
+but one or two times yeah you can you
+can use the problems tab like that and
+it works like magic that sounds way more
+efficient than my nap and reset strategy
+that I have yeah I don't I don't think
+I've even gotten this far into cursor
+yet where where I've noticed this
+happening I'm just like trying to take
+it all in but hey it's it's still
+extremely um useful in in so many ways
+even if it comes up with problems and
+I'm I'm using like PHP which is pretty
+pretty resilient to types like it
+doesn't it's fine right there's a lot of
+coercion type Corson there so I'm not
+running into these issues but I've I've
+had my little issues there and I think
+uh now that I've talked to you I will
+have way fewer issues it's really cool
+do you do you ever code like without AI
+assisted help anymore oh my God that is
+the perfect question right so the the
+time to do that is when you're learning
+New Primitives so if you're learning a
+new programming language so like if I
+was going to go and learn some more rust
+or go I would turn off tab completion
+and I would code a vanilla like style
+basically uh and the reason why is if
+you don't the risk is you're basically
+being an engineering manager that's
+that's got a go intern but you don't
+know how to write go um and there's a
+real danger of you not understanding the
+lower level fundamentals so that is a
+really great example of where you
+shouldn't be using cursor um because you
+will not gain that foundational
+knowledge to then leverage it at a
+higher rate when you're using you know
+chat or or composer for sure um so
+definitely always turn it off when
+you're learning something new yeah that
+sounds about right yeah otherwise it
+becomes a crutch yeah now there is an
+argument for I don't want to learn how
+to write Apple script but I want to use
+apple script to automate my Mac um so
+you could basically just basically say
+I'm going to cursor through it and and
+go through the pain but not understand
+it and utilize that Tech but if you want
+to use it with compound in growth and
+you want to use that from Project to
+project then that's where you would
+basically go I'm going to take the gar
+rails off I'm actually going to go and
+learn like learn it myself so it depends
+on whether it's a um whether you don't
+mind not knowing or whether you're going
+to need to know that knowledge for
+future projects yeah that that'll set
+people apart right that will set apart
+the people who care about deeply
+understanding and the people who just
+want to get stuff done and the different
+levels of growth between them yeah um
+one other one other tip that I've got is
+um emotional prompt
+so if you tell it things like uh you
+know I'm going to lose my job if if I
+don't get this right that that actually
+will give you better outputs than if you
+just ask it to do the
+task why do do you know why like do you
+know the the technical background for
+this no I mean they they've seen it in
+science you know in in in loads of
+different papers um in research papers
+but they I I guess it's because when
+you're emotionally blackmailed there's a
+sense of urgency um and
+so so yes I will do that from time to
+time you must write my terraform code on
+my next J Code otherwise I'm going to
+lose my
+sh I just feel like I'm I'm basically
+threatening this life form that I hope
+doesn't become sentient one day um yeah
+yeah that's that's pretty funny but
+that's that's also I think that's the
+big difference between being an an
+actual technical manager who has to have
+people skills and being able to just
+yell at an L&amp;M all day long that's a big
+difference
+yeah oh man that's really cool thank you
+so much for sharing all of this really
+really excited to dive deeper into
+cursor and obviously work with AI all
+day every day this is just something
+that is both part of my business part of
+my software development strategy and I'm
+just excited about the technology and I
+bet there's a lot of people out there
+who have really enjoyed this as well and
+would like to know more about you so if
+people want to find you people want to
+follow you where should they go and what
+should they look at yeah so um I'm on
+LinkedIn on X so on link it's James
+Phoenix and also on X it's James A
+Phoenix one2 uh and then I've also got a
+product which is basically a next year
+spoiler plate um which comes with cursor
+already set up and it comes with
+integration testing um so playr and J
+tests um so that's called cursor deev
+kit.com and the idea behind that is to
+basically give you a really nice boiler
+plate that's also got all the benefits
+of everything that you should have with
+cursor um so those are the types of PL I
+hang out mainly um so yeah very cool
+yeah I follow you on Twitter and I I
+often watch you on Twitch when you're
+there when you stream that's really cool
+too like seeing you build software is
+quite enjoyable it's it's bizarre
+watching people build software as an
+entertainment thing but is really fun
+it's really cool they thanks so much man
+it's I I appreciate everything you do to
+teach people to deal with this stuff and
+to also Supply them with software to get
+things started that is really really
+cool thanks man I really really
+appreciate everything you did yeah yeah
+thanks a lot for having me Aid I really
+appreciate and uh yeah see you around
+and that's it for today thank you so
+much for listening to the boot founder
+thank you paddle for sponsoring this
+episode you can find me on Twitter at
+aital Arvid Kahl and you will find my
+books on my Twitter course that too if
+you want to support me in this show
+please tell everyone you know about
+pocan FM and leave a rating and a review
+by going to rate thisp podcast.com
+Sounder it makes a massive difference if
+you show up there because then the
+podcast will show up in other people's
+feeds any of this will help to show
+thanks so much for listening have a
+wonderful day and bye-bye

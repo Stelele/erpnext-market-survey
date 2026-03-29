@@ -1,0 +1,51 @@
+{
+  "topic_id": 156528,
+  "title": "Understanding the frappe_docker developement setup (web service especially)",
+  "slug": "understanding-the-frappe-docker-developement-setup-web-service-especially",
+  "category_id": 6,
+  "tags": [
+    "docker"
+  ],
+  "created_at": "2025-11-06T21:52:16.994Z",
+  "last_posted_at": "2025-11-06T21:52:17.130Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/understanding-the-frappe-docker-developement-setup-web-service-especially/156528",
+  "views": 44,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 1,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "waredev",
+  "posts": [
+    {
+      "id": 485828,
+      "username": "waredev",
+      "name": "",
+      "created_at": "2025-11-06T21:52:17.130Z",
+      "cooked": "<p>Not sure how dumb a question this is, but… in a development environment created with frappe_docker, how is the ERPNext website served?</p>\n<p>I have a working site showing up on port 8000. I created the containers by calling “docker-compose -f .devcontainer/docker-compose.yml up -d”\", then ran the installer.py script to set everything up including ERPNext. I’ve also created and installed a very basic custom app. All of that works fine. (I’m new to Docker and Frappe but have been learning a lot and now have at least a basic idea of what I’m doing…)</p>\n<p>I would now like to setup SSL access to the site, and to keep an eye on the web logs for security reasons. A lot of what I’m seeing (here on the forum and in the official docs) seems to imply that the site is being served by nginx, with a config file at /etc/nginx/conf.d/frappe.conf. However, from inside the container, there is no /etc/nginx folder, and I see no nginx service running. Could it be that this setup is using something other than nginx? Any clues would be appreciated.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/w/e9bcb4/{size}.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 13,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 2,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

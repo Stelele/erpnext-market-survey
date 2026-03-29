@@ -1,0 +1,53 @@
+{
+  "topic_id": 158708,
+  "title": "User Page Not Loading in Version 13",
+  "slug": "user-page-not-loading-in-version-13",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "bug",
+    "user-interface"
+  ],
+  "created_at": "2026-01-06T05:56:56.980Z",
+  "last_posted_at": "2026-01-06T05:56:57.059Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/user-page-not-loading-in-version-13/158708",
+  "views": 21,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "ahmednassik",
+  "posts": [
+    {
+      "id": 490293,
+      "username": "ahmednassik",
+      "name": "Ahamed Nassik",
+      "created_at": "2026-01-06T05:56:57.059Z",
+      "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/d/6/d6ce003eda7d9248c9f140dec79b493fcf31a3f5.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/d6ce003eda7d9248c9f140dec79b493fcf31a3f5\" title=\"Screenshot 2026-01-06 at 9.35.10 AM\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/d/6/d6ce003eda7d9248c9f140dec79b493fcf31a3f5_2_690x435.png\" alt=\"Screenshot 2026-01-06 at 9.35.10 AM\" data-base62-sha1=\"uEfx5wyrKS3S14i0vwm2HCyH5xr\" width=\"690\" height=\"435\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/d/6/d6ce003eda7d9248c9f140dec79b493fcf31a3f5_2_690x435.png, https://discuss.frappe.io/uploads/default/optimized/3X/d/6/d6ce003eda7d9248c9f140dec79b493fcf31a3f5_2_1035x652.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/d/6/d6ce003eda7d9248c9f140dec79b493fcf31a3f5_2_1380x870.png 2x\" data-dominant-color=\"FCFDFD\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot 2026-01-06 at 9.35.10 AM</span><span class=\"informations\">2814×1778 167 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Has anyone faced this issue or can help us identify the core issue and resolve this? Only happens with user pages. All other modules and pages work as they are supposed to but since a week the user page is not loading. Any support will be greatly appreciated. This is version13.</p>\n<p>Thanks.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/c68b51/{size}.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 8,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "topic_id": 159392,
+  "title": "Looking for Real‑World Help: Running ERPNext on Docker Swarm",
+  "slug": "looking-for-real-world-help-running-erpnext-on-docker-swarm",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "installation_problem"
+  ],
+  "created_at": "2026-01-18T14:09:12.046Z",
+  "last_posted_at": "2026-01-18T14:09:12.209Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/looking-for-real-world-help-running-erpnext-on-docker-swarm/159392",
+  "views": 26,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Monesz1",
+  "posts": [
+    {
+      "id": 491661,
+      "username": "Monesz1",
+      "name": "Attila Molnár",
+      "created_at": "2026-01-18T14:09:12.209Z",
+      "cooked": "<p>Hi everyone,</p>\n<p>I’m looking to connect with someone who has <strong>successfully deployed ERPNext using Docker</strong>, specifically in a <strong>Docker Swarm</strong> environment.</p>\n<p>I’m already comfortable with Swarm fundamentals — overlay networks, persistent volumes, distributed storage, Traefik routing, and multi‑service orchestration aren’t the issue. My challenge is getting <strong>ERPNext itself</strong> running cleanly inside Swarm.</p>\n<p>I’ve been using the official repository:<br>\n<strong><a href=\"https://github.com/frappe/frappe_docker\" rel=\"noopener nofollow ugc\">https://github.com/frappe/frappe_docker</a></strong><br>\nIt’s a great reference, but <strong>following the documented steps exactly hasn’t resulted in a working setup</strong> in my environment. Most examples assume single‑node Docker Compose or development‑focused setups, which don’t translate cleanly to a production‑grade Swarm cluster.</p>\n<p>What I’m hoping to find is someone who has:</p>\n<ul>\n<li>\n<p>A <strong>working ERPNext deployment</strong> running in Docker Swarm</p>\n</li>\n<li>\n<p>Experience with the required services (MariaDB, Redis, workers, scheduler, queueing)</p>\n</li>\n<li>\n<p>Practical insights on handling volumes, migrations, site creation, and multi‑container orchestration</p>\n</li>\n<li>\n<p>Any pitfalls, patches, or adjustments needed beyond the official docs</p>\n</li>\n</ul>\n<p>Even high‑level architecture notes or a validated stack file would be incredibly helpful.</p>\n<p>If you’ve done this before or can point me toward someone who has, I’d really appreciate it. Thanks in advance to anyone willing to share their experience.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/monesz1/{size}/93041_2.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 13,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

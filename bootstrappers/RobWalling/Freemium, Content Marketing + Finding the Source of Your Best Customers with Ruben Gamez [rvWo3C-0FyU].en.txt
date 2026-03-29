@@ -1,0 +1,718 @@
+﻿[Music]
+[Applause]
+[Music]
+[Applause]
+[Music]
+hello and welcome to today's episode of
+Microsoft on air I am your host Rob
+walling here with my quarantine
+hairstyle that I'm starting to get
+called out on one Twitter someone posted
+a picture of John Lennon's circa 1965 so
+twice a week we live stream for about 30
+minutes talk to interesting people
+building interesting things and we cover
+topics related to building and growing
+startups that are ambitious but fit
+within the goals of having a life not
+burning yourself out finding freedom
+purpose and relationships today my guest
+is Ruben Gomez I'll bring him on in a
+couple minutes he and I have known each
+other for 11 years I believe I have 11
+or 12 years and we talk we've talked at
+least once a month for that you know the
+entire duration of that before we dive
+into that we are moving to once a week I
+want to let you all know so we started
+this when when the quarantine started
+and we're doing it you know five days a
+week we backed off to two days and now
+we feel like folks are kind of easing in
+maybe need less of a daily dose of
+distraction we want to be you know
+mindful of kind of mindful of your time
+but also want to put out the best
+content that we can we have some great
+guests lined up if you were watching the
+intro and including Val Geisler and he
+sha Justin Jackson and yeah going to and
+so we just allows us to to really double
+down and provide you with tons of great
+stuff in the 30 minutes so starting next
+week we're gonna be on Wednesday same
+time same location you can go to
+youtube.com slash micro off and watch it
+you go to micro come on here come and
+watch it and it's at 1:00 p.m. Eastern
+Time certainly will let you know in the
+micro comm connect slack or if you're
+signed up for our daily what started as
+daily email updates you know the micro
+come phone are updates you'll you'll be
+notified of those we have a super cool
+playlist so if you haven't heard which
+you probably have because I'm guessing
+you around the microphone female s but
+we launched the micro Kampf video vault
+just a couple days ago and it's 170
+hours recorded over the course of almost
+ten years it's some of the best talks in
+you know the the self-funded any funded
+space probably one of the if not the
+largest collection of talks and just
+geared solely on that non venture tract
+startup that we talked about on start
+the rest of us on Micro Kampf on air on
+the stage that micro calm in addition to
+releasing the vault totally free again
+youtube.com slash micro Kampf we're
+compiling these playlists we have some
+serial speaker playlist with all of Pat
+patio 11 Patrick Mackenzie's talks we
+have one of all my talks I think we have
+a few other folks but I put together I
+spend a ton of time I literally went
+through every talk didn't watch them all
+but I have notes and remembered most of
+them and I put together a playlist
+called building your first SAS the
+ultimate crash course and its standard
+limited producers and our limited me to
+10 talks max and that was really hard to
+do it was easy to get down to about 30
+but to crush it down to 10 quite a
+challenge so if you haven't checked that
+out and you're building or even growing
+your first Sassin and want to learn a
+little about customer support email
+marketing idea validation all the things
+it sits there building your first SAS
+the ultimate crash course as a reminder
+if you ever miss an episode of micro
+come on air it is a podcast as well
+all the podcasters have it it's micro
+confer on air just search and you will
+find it in this audio lines up there
+before I bring Reuben on to the show I
+wanted to thank Basecamp and stripe as
+always they are headline partners for
+this tear and they helped make this type
+of thing possible so let's dive into the
+meat today Ruben Gomez and I are gonna
+do a deep dive into freemium content
+marketing and finding the source of your
+best customers Ruben has become an
+expert in a number of things and he's
+interesting because he's pretty low
+profile and I've invited him to speak at
+micro cough pretty much every year since
+we started and he turns me down
+graciously but some someday someday I'm
+gonna get him on that stage so Ruben is
+kind of just a staple in the
+bootstrapping space he launched bid
+sketch in 2009 his proposal software
+made for designers it later became a
+proposal software for everyone
+he's been on startup to the rest of us
+multiple times
+I always think he's been on more than he
+has because of the episodes that he
+comes on are so popular so I think he's
+been on two or three and their fan
+favorites and Ruben now you've launched
+doc sketch which is the e-signature app
+competing with hellosign DocuSign and
+it's what we here use at micro comm for
+all of our contracts we use it at tiny
+seed and it's a really well-built man so
+thanks for taking 30 minutes out of your
+day to come
+with me oh thanks for the invite
+yep lunch dark sketch almost a year ago
+now it's crazy yeah yeah that's crazy
+well the thing is is you're so patient I
+don't know you don't like when people
+say that but you're way more patient
+than I am like if I had launched a year
+ago I would have been like going all
+crazy I would have been too impatient to
+do freemium I would have been too
+impatient to do all the SEO stuff you
+know in the content marketing you've
+done because that stuff takes so long to
+pay off but you have done a really good
+job of planting these seeds and kind of
+you know building another great business
+already I know you're still early in the
+MRR are but your traction and your
+traffic is substantial yeah I'd like
+persistent better than patient but
+actually right now which I do feel
+patient yeah if you do feel like I'm
+trying to be patient yeah persistent is
+good meticulous and discipline is how
+I've described you a lot and I the last
+episode you came on a started to the
+rest of us
+I liked that description so much I like
+worked it into the to the intro of the
+show sometimes you'll hear me use that
+phrase and it was sparked by I was
+trying to describe you to someone and I
+was like he's super meticulous and he's
+really disciplined but I like persistent
+as well you know I often say like
+relentless execution like that's kind of
+the only thing that has made me
+successful is just doing the stuff over
+and over and over but one of the things
+that's interesting is one of the but so
+back in the day I had a blog that was
+fairly popular it's called software by
+Rob and I think one of the most if not
+the most popular posts on that blog was
+written by you
+it was a guest post and people used to
+joke I should change the name to suffer
+by Rubin calm because your post why free
+plans don't work just blew up and people
+loved it you know and this is who knows
+2010 2011 it was it was a long time ago
+now you're doing freemium with doc
+sketch and your early signs are that
+it's working is that right I want to
+hear your thoughts on you know what's
+changed since since 2010 and then talk
+about you know how freemium works why
+when you should use it when you
+shouldn't and just just riff yeah that's
+funny in that post I wrote
+about my experience with freemium at the
+time which was pretty limited but I did
+it for a little bit early on with bit
+sketch and then I also talked to a lot
+of people who had done freemium and
+moved away from it where it didn't work
+so I had a ton of examples and stuff and
+I had a little bit of a back-and-forth
+with Shaun Ellis at the time who was all
+about freemium nowadays I still think
+freemium is maybe not the best choice
+for self-funded business most
+self-funded businesses a lot of the time
+I don't think it's something that
+everyone should automatically pick or go
+into with Doc's sketch we've been doing
+it from from the start and yeah it's
+been it's been working it can be a
+little difficult to figure out how well
+it's working sometimes for our product
+in this category kind of like with bit
+sketch that I think that's maybe part of
+the reason why I tried it initially say
+it has a viral component so that's one
+of the things that's really helpful if
+you're gonna do freemium is having
+something that the free users can will
+do that will help you generate more
+either free users or paid users as well
+so that was one of the things that was
+really attractive to me about trying out
+freemium this time I just wanted to try
+it out give it a you know I had learned
+more about it and I wanted to do it for
+a little bit longer and see what the
+impact would be and yeah I mean we so
+forth on the tracking side we we you
+know used analytics and all that stuff
+so we could see how many people like
+come through because of the it's almost
+like a powered by sort of thing right
+and that's kind of low it's not that
+high but then when we when we closed off
+the homepage and then asked people like
+how did you hear about us and made them
+actually tell us like and gave them
+several different choices there was a
+lot of people who heard about it because
+somebody else told them you know so a
+lot of word-of-mouth
+and then a lot of really like viral
+visit visits that we just weren't able
+to track like a lot of people saying
+yeah we you know I received the document
+from somebody and then I signed up right
+so that problem is important yeah so and
+I think that this time the sort of like
+word of mouth and the branded searches
+of a past bid sketch which has been
+around for for a long time
+so we definitely feel like feel it
+working it also seems like and I think
+you and I have talked about this before
+that with bid sketch you were building
+something on the side you needed to get
+to revenue fast so you could you wanted
+to quit a day job and you didn't want to
+wait a year to monetize and if
+bootstrappers are in you know self
+funders are in that that space now you
+have the luxury because you have bid
+sketch that's cranking away you know
+producing the cash to kind of fund doc
+sketchy that's also part of it yeah that
+and then there were just different
+products even though there's a lot of
+overlap and they seem almost the same
+they're the same in a lot of ways bit
+sketch requires a lot of investment
+upfront to even you know start to get
+value and to see the value so if that's
+one of the things with freemum that can
+make it harder if you have a product
+that just takes a lot of work before
+somebody is like fully on board it or
+not really on board it but they start to
+see the you know they get it then you
+know it's likely freemium is not a good
+fit just generalizing here with doc
+sketch it's a different story because
+they don't have to create all that
+content when you know when they get on
+boarded they just upload their document
+and then you know put some fields on
+there it's much quicker time to value so
+that helps alright you know with sorry
+yeah I like that well I I just think
+that I know there's some delay between
+us are about that yeah I mean so it's a
+kind of summarize it it's like hey if
+you don't have some type of viral
+component freemium probably not going to
+be as valuable if you don't have a quick
+time to value so I think of like drip
+not a very quick time to value right as
+an example or you know any type of thing
+we have to do a bunch of setup I think
+of right message or you know something
+where you've got to give in you got a
+right copy you got to build workflows
+blah blah very different than what your
+app really yeah and and then the third
+one is having I'll say the luxury or the
+ability of the willingness you know to
+be able to wait wait it out because
+you're not gonna get to revenue nearly
+as fast it's a much longer term play in
+terms of your thinking in terms of years
+not months which we usually are building
+it usually it takes longer to build up
+and then there's also the cost side
+right like I can get expensive
+especially when you're dealing with a
+lot of about volume you also need a
+bigger market so this was a bigger
+market even now with things just getting
+things are really cheap for us to serve
+like a user we're in the tens of
+thousands of accounts with doc sketch
+and we still have one support person
+that does both products so that's how
+important of a product it is there are a
+lot of products to where you can't do
+that so if if that's if you have the
+product where you you know if you get
+into thousands you start to need like a
+support team and you don't have a lot of
+money for that the premiums gonna be
+talking really got to be self-service
+yeah awesome love it let's talk about
+content marketing what's working today
+you have been doing content marketing
+since what 2008-2009 yeah you gave away
+the the proposal templates which was
+just a genius SEO move with bid sketch
+and that was an early a you know
+foothold into that space and how you
+generated traffic so you've been and to
+me and correct me if I if you think
+about it the same way I think of content
+marketing is in a short term it's to get
+some people to read it and and some
+social push and whatever but really it's
+an SEO play over the long term is that
+how you think about it as well yeah more
+or less I mean mainly yeah because you
+could do all sorts of stuff to get
+traffic on the short term you can even
+do some people bleed with content I'm
+paid acquisition like digital marketer
+they do a really good job
+so like a lot of the content now they're
+focusing more on SEO but back in the day
+it was like almost you know most of the
+stuff that they created was about like
+putting on Facebook and engaging users
+and all that stuff but yeah that old
+model of like just having a blog and
+then doing a Content calendar and then
+just like you know going at it like
+creating content twice a week or
+whatever and trying to make it go viral
+and you know that's harder and harder to
+get done with like just people being
+more busy and and like it's almost like
+a banner blindness or a thing as well
+that it has there to where you know
+they're just used to seeing a lot of
+people trying to promote content and it
+just doesn't work that well nowadays so
+besides that you lose you have to think
+about like what happens after you get
+that initial traffic if you are able to
+get something something going initially
+like nothing you get a big spike and
+then like it just levels off so most of
+the people that even when I talk to
+people that have done that traditionally
+and that are getting a good amount of
+traffic if they look at where their
+traffic is coming from its from SEO like
+it's not it's not from this buzz that
+was initially created that still it's
+just like unintentionally they didn't do
+and a lot of time they didn't do
+anything to target keywords or not or
+anything like that I just talked to
+somebody who's getting a couple hundred
+thousand uniques a month on based solely
+of years of blogging of like not looking
+at a single keyword just thinking about
+topics and and you know and accidentally
+sort of just having content that ranks
+well like along the way over the years
+yeah yeah that makes sense I was
+actually looking at um I was digging
+through google analytics which I don't
+really go into anymore I know that back
+in the day I was in there all the time
+but it's just so much less now that you
+don't have keywords it's just you know
+it's all not provided so much less
+effective but I glanced through chery
+chery
+my wife zen founder calm there Google
+Analytics and I was like what she's
+getting I don't know it's like tens of
+thousands have uniques a month maybe
+it's twenty or twenty five thousand I
+was like I just don't think that site
+should have that you know it's just
+shouldn't have that much traffic and I
+went in and it was it it was a handful
+of blog posts and it's like three or
+four and they rank for these again she
+didn't do it intentionally you know she
+just just wrote it so if people said
+that those are kind of where you just
+put it about to work and hope both
+something pans out that's not how you
+know it know like what what is well even
+for the people that have content like
+that I would go through so if you have a
+blog and you've been doing that for
+years I would just go through and do
+some content pruning there there are a
+lot of articles that are pretty good on
+the process Moz I think has one HubSpot
+has one and basically it's just
+evaluating it every piece of content on
+your blog on your site and making sure
+that they're contributing they either
+have links or they're getting traffic
+and if not or if you have multiple
+pieces of content that are competing you
+either eliminate content that's just not
+relevant not contributing sorry not
+relevant not contributing or if you have
+multiple pieces of content that are kind
+of like on the same topic you merge them
+but it's all paired with doing the
+research and figuring out like what you
+want to target you know keyword research
+using using tools like SEM rush href
+things like that yeah yeah if you're in
+that situation just look up content
+pruning and go through that process and
+usually after doing a bunch of that and
+getting rid of a lot of content in using
+a good process you'll see like a nice
+you know bump I keep seeing that double
+more something you know something like
+that but it takes it takes a lot of time
+and it's a big it is a big process if
+you have a lot of content for creating
+new content
+the way I think about it now is just
+really it's about working backwards so
+doing keyword research upfront figuring
+out the main topics for your site and
+then prioritizing based off of based off
+of the thing that's going to be low
+competition but it's going to give you
+it's going to be high impact so high
+impact could be like a lot of traffic or
+it could be like the right a lot of the
+right type of traffic and the right type
+of traffic means like people who are
+going to buy or who are going to take an
+action
+so now especially nowadays I would go
+with bottom of the funnel you know focus
+on that prioritize that sort of content
+people that are going to buy your
+product or take an important action and
+really think about how how the the
+keywords or like their mindset when
+somebody might be searching for a
+specific keyword it makes a huge
+difference
+like just one word can make a huge
+difference you can and you can fall into
+the trap of thinking like this maybe
+doesn't align exactly right with the
+person who's going to buy or wants to
+sign up and is thinking about like my
+product but it's kind of close and I can
+put them on an email list and I can
+nurture them and then eventually convert
+them that's that's way harder than then
+you think it's like when somebody is in
+that mindset you know a lot of stuff
+could be going on in the world and it's
+not it's not easy to move them over into
+just like ok even if it's like a next
+sort of step we have we have that
+situation in some of the content that we
+have with with a lot of the content with
+bid sketch especially to where like a
+logical next step would be you know
+okay now you need proposal software at
+this stage and that doesn't work nearly
+as well as the people who are clearly
+ready for it searching for it yeah and
+how do you know I mean is it is there
+how do you know how do you know when
+they're at the bottom of the funnel is
+it certain search terms you're just
+making a call on or do you because these
+days you don't get you get not provided
+right from Google Analytics so you can't
+track in their which keywords are
+converting look we used to be able to is
+it is it best guess and gut feeling or
+is there a method to it yeah so before
+you even write the content just with
+keyword research you you can there is a
+little bit of gut feeling and kind of
+like knowing your market there so you
+start up really broad and then most
+keyword research tools have a way to
+look at related keywords so that you can
+start to see what other things people
+are searching for they're related to
+like your main topic from there you're
+looking at things that just kind of seem
+obviously okay this person looking for
+this thing right here is probably going
+to buy so you know you you use a little
+bit of that you also it's a probably a
+combination of things you look one quick
+hack is to look at the cost per click
+and if usually often if the cost per
+click is high that means that it's a
+bottom of the funnel keyword like people
+are bidding it up and are spending money
+on it because it's worth the money
+because ROI is there yeah right that's a
+good way of of telling the other one the
+other thing is to the more informed you
+are about your market the better you get
+you're gonna do it you know that process
+and covering stuff that people may you
+know just don't worry about the search
+volume so much if it's really high
+intent and people are ready to buy you
+don't need that much traffic like you
+there's a book that's I'm sorry there's
+a book called I just read it called
+buyers buyer personas which is kind of
+like jobs to be done like it
+talks through the entire process and but
+it's focus on sales and marketing it's
+pretty good
+follow that process read that book
+follow that process and basically the
+whole point is like know what the buyer
+journey is know exactly what people are
+doing what the patterns are are for
+people that are looking for your product
+and finding it and then you'll get a
+clearer picture of like what sort of
+content they're looking for you should
+write mm-hm
+towards towards towards the bottom right
+yeah yeah we yeah I was gonna say like
+back in the day when we were marketing
+drip and driving too much traffic to it
+it quickly becomes obvious if you've
+done this and you drive five or ten
+thousand uniques a month from multiple
+keywords just that some keywords far
+outperform others and we had we had one
+and I actually I think it was a keyword
+or it may have been a link from like an
+integration we had but it converted so
+most of the site converted ad to trial
+because we have credit card upfront
+converted around one percent one in a
+one a quarter and we had this this pager
+it was at this traffic source that
+converted at 30 percent
+it was insane and this that's what
+you're talking about is like for some
+reason and we didn't we got a hundred
+uniques a month from that source which
+is we did you would never target a
+keyword with 100 you know 100 searches
+but for 30 trials you know at a product
+that starts with 50 bucks a month that
+is absolutely worth it and we kind of
+stumbled on it then we're like how do we
+get more of these because they were
+obviously bottom of the funnel right
+yeah and that's that's a good tactic to
+is if you're getting traffic that is
+converting really well from from other
+sites and maybe it's not directly it's
+nothing that you did but somebody else
+is sending you traffic just figure out
+how to get more of that and don't worry
+so much about like having the content be
+content that you're creating worry more
+about like who's showing up and how can
+we get on those pieces of content right
+right cool so we have one more topic and
+we have like two minutes so let's see if
+if we can get the the lightning round
+view of it but it's you know you said
+you mentioned like metrics analytics and
+finding the source of your sources of
+your best customers and I'm curious
+how you go about doing that yeah so you
+there's so many people that don't do
+enough tracking to figure this out like
+Google Analytics is not enough if you
+have assassin product you need something
+more than Google Analytics Google
+Analytics will tell you some information
+in aggregate usually unless you do more
+work up until the sign up but you need
+something like amplitude Mixpanel you
+need product analytics something like a
+hot jar would be good and basically what
+you're doing with with these Aleks
+platforms is taking individuals and
+seeing tracking where they're coming
+from and then what they're doing inside
+your product and then how many of them
+upgrade so then you run a report and see
+who are the people that upgrade it you
+can look in your database and do this
+too but it's harder to do that just by
+looking at your database because you're
+not getting an information about like
+where they came from so just from an
+analytic standpoint need product
+analytics to get that help get that
+information and then really just having
+conversations with these people whether
+it's like in the early sales
+conversation figuring out where they're
+coming from or afterwards getting them
+on jobs to be done interviews or you
+know the by persona interviews and just
+figuring out that process yeah and
+that's something you know it it's it's
+work right it's you got to put in the
+work and do some of the grunt work that
+not everybody wants to get it dig into
+analytics most of us don't and when I
+see founders who aren't doing that and I
+say hey you know where are your
+customers coming from and they're like
+word-of-mouth it's like it's the people
+I know who like you who say
+word-of-mouth it's like that's that you
+mean word of mouth but word of mouth is
+often an excuse for it code for I don't
+know because I'm I don't know not
+disciplined enough to like actually
+track and get into metrics and do that
+stuff and you can actually really smart
+yeah I feel really smart people like
+that are smarter than me and a lot of
+stuff and they're they just throw up
+their hands when it comes to analytics
+is this too
+complicated no it's not it's not that
+complicated you just really need to
+focus and do it that's it yeah cool man
+we're at time thank you so much I know
+that we could talk another 30 minutes at
+least about this stuff because it's a
+it's interesting would be you just got a
+lot of knowledge and you go deep on
+these things so appreciate you sharing
+that with the crew today
+ruben is at earthling works on twitter
+and doc sketch comm if you want to check
+out what they're up to and if you're in
+the market for a signature app certainly
+check it out so yeah ma'am thanks again
+for hanging out next week next Wednesday
+we are back at 1 p.m. Eastern same time
+same location Heaton Shah will be on the
+show to talk about what to focus on at
+each stage of your startup if you
+haven't already subscribed to our
+YouTube channel I'd recommend it we're
+gonna be putting out not just these live
+streams but we're you know we have all
+these talk videos are gonna be putting
+playlists together
+doing all kinds of cool stuff that's at
+youtube.com slash micro coffee and
+frankly if you're watching this on
+youtube I would totally appreciate a
+thumbs up a like on this video I'm not
+the traditional the other day I said I
+was reading a script that I was like you
+know like this video and comment on it
+or something and one of my kids is like
+are you a Minecraft youtuber are you
+like a twitch streamer now so I don't
+want to be obnoxious like that but it
+does help us out you know we are trying
+we're putting up this content we're
+hoping to reach as many people as
+possible with it cuz we feel like you
+know the community can use use this to
+grow their businesses give us a like and
+subscribe very nice producer Xander and
+that's it so I will see you next
+Wednesday
+see ya
+[Music]

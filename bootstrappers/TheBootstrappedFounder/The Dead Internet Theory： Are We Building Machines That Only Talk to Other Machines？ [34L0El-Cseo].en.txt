@@ -1,0 +1,347 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap [music] founder.
+[music]
+So, I saw something on LinkedIn the
+other day that stopped me like
+midscroll. It was a clearly AI written
+post. I could tell from the cadence,
+from the phrasing that was slightly off.
+It was super generic, inspirational, the
+tone of it and everything. And
+underneath it were dozens of comments,
+super enthusiastic comments, supportive
+comments, and every single one of them
+was also AI generated bots responding to
+bots. It was horrible. A whole
+conversation happened there, and not a
+single human being was involved at all,
+just machines. Every part of that
+exchange, though, was designed to look
+like it came from a real person. And I
+find that quite tragic and hilarious at
+the same time. tragic because deep
+inside of me is this wish for
+interactions to be genuine and authentic
+things between people, exchange between
+real human beings and hilarious because
+having lived through the development of
+these automated systems and having
+participated in using these systems
+myself to get what I needed. I kind of
+realized that we are responsible for
+this kind of stuff to exist. This is
+what people call the dead internet
+theory if you look at it from like the
+outside perspective, right? Just
+machines talking to machines. And I
+think it is worth talking about because
+we as software founders and as
+entrepreneurs in this space were quite
+likely to use AI tools to build our
+businesses. The output of these tools
+now becomes often quite AI generated or
+has a lot of AI generated content or
+components and AI generated data or AI
+augmented data if you want to call it
+that. So, in some way, at the very
+least, we might be contributing to a
+network that is increasingly filled by
+AI systems talking to other AI systems
+with AI content. A quick word from our
+sponsor here, paddle.com. I use Paddle
+as my merchant of record for all my
+software projects, and they take care of
+taxes, currencies, all that kind of
+stuff, so I can focus on dealing with my
+users and my competitors. So, if you
+would rather just build your product
+instead of dealing with all these other
+things, check out paddle.com as your
+payment provider. and merchant of
+record. [music]
+Now, the that internet theory isn't
+about the useful kind of machine
+to-achine communication that we have
+like APIs or remote procedure calls if
+you live in the '90s or systems that are
+supposed to interface with other systems
+just to fetch data, push data, create
+actions for us. All of that is fine.
+That's what machines are built to do.
+So, what we're seeing now is something
+different, though. It's machines
+creating content that pretends to be
+human being engaged with by other
+machines that are also pretending to be
+human. And LinkedIn is the worst for
+this. Twitter is not far behind though.
+But the whole conversations there are
+happening where not a single authentic
+real human thought is present. But
+everything is carefully crafted to look
+like one actually is. So let's talk
+about the quite obvious potential risks
+here. what happens when we as founders
+contribute to an internet where only
+machines communicate with each other and
+humans are kind of left out of the
+equation and maybe more importantly how
+can we instead build tools that make it
+easier for actual human beings to
+connect with each other and still use
+things like AI right I don't want to say
+do not ever use AI tooling or generative
+AI in anything you do but how can we do
+this maybe more carefully and maybe more
+intentionally the first thing that comes
+to my mind is this. If you know that
+your product can be used to generate
+slop, which is any kind of content that
+spams forums or email inboxes, screens,
+and any content that only exists to
+elicit a commercial action but does
+nothing to facilitate human connection,
+well, maybe you should rethink how much
+of this you put into your application.
+Or at the very least, consider how much
+you try to prevent your users from
+misusing it right out of the box. Here's
+an example for this. Just take cold
+email generating tools. It's something
+that I've changed my mind on over the
+last couple months. Like I initially was
+completely against cold email. Then I
+was completely for cold email because I
+saw it work using AI and all of that.
+And now I'm trying to find a middle
+ground here. And I think generally with
+all generative AI technology, that is
+the whole point. These tools are
+probably the target of a lot of scorn by
+people on the receiving end of cold
+emails. Me included. I hate getting
+really crappy cold emails. But even a
+tool like that can be useful and even a
+cold email can be wobbly but still
+valuable and a valuable first step
+towards building a relationship with a
+potential customer at the same time.
+Question is how does that happen? And
+does the cold email tool completely
+draft your email and then just send it
+hoping to catch a potential customer or
+is it just a first draft generator? Is
+it a tool that helps you write an email
+template and then fills in the specifics
+for each customer automatically, but it
+requires you to review it and change it
+to put your personal spin on it before
+anything gets sent? Is it really that
+important or even that smart looking at
+the bigger picture here to automate all
+of that away? Or could the tool take the
+first step while leaving steps for the
+human to complete? And I know this might
+be wishful thinking at this point. A lot
+of people buy these tools specifically
+because they automate everything away.
+They just solve the problem. But maybe
+that's the bottom of the barrel that you
+don't want to be part of. If you have
+the capacity to create AI as a guiding
+system instead of AI as a pure
+generating system, you're probably
+helping the internet not to become a
+worse place. and you still use the
+technology that we have like this
+magical tool, the LLM, the AI to do
+something that your customers would
+otherwise spend a lot of time and money
+doing themselves in a less interesting
+version. I think that's the core of the
+idea. Whenever you use generative AI,
+use it as not the end, but the means.
+It's kind of the categorical imperative.
+There's a a lesserknown version that
+Emmanuel Kant used to describe this kind
+of relationship between why we do
+things. It's not just do unto others as
+you want them do unto you. That's the
+big one. But there is a a version of
+this that says interact with any human
+as if they were the end as well as the
+means. Never just the means to an end.
+And I think we should think about AI
+similarly here. Don't use it as the
+output. Use it as the guard rail around
+the transformation from input to output.
+Like facilitate transformation. Don't
+completely automate it. If you want to
+implement AI in your software business,
+in your tooling, find a way for it to be
+additive, not replacing. How can it
+multiply the thing that you and your
+customer is working on? That should be
+the question. How can it amplify without
+taking away the act of creative work?
+It's a pretty relevant and substantial
+question. And personally I found that in
+my use case for AI for all my products I
+always want it to be in the background.
+It should make the data that comes into
+the system the the users work within the
+system more usable by human beings but
+it should not replace the work that
+human beings would do with that data.
+Case in point here is Podscan is my
+business. Whenever Podskin pulls in a
+podcast episode, it tries to extract
+from the full transcript the main themes
+and the topics, the names of the people
+that are talking, the main people who
+are being talked about, and it makes all
+of the data available. [sighs]
+But we don't do anything with it beyond
+that. We just extract it, which is where
+AI is best, right? It's finding meaning
+in data and then presenting it
+somewhere. But what to do with that
+meaning that is still on my customers.
+AI is such a great tool at doing all
+this tedious non-creative work so
+effectively, so quickly. Like every
+week, new models are being released that
+make it cheaper and faster to do this
+kind of stuff. [snorts] Unfortunately,
+in a way, these models are also better
+at being generative, being creative, and
+we use them for that because that's kind
+of cool. But what we should be is we
+just use it for extraction analysis. I
+would love for this to be a bigger thing
+in our founder community. Not just the
+shiny generative stuff, but the
+background stuff, the stuff where people
+want to just find data. They want to
+look at it and then think about how to
+use it. They don't want their thoughts
+to be taken out. You don't want to
+externalize something that is a creative
+meaningful process to you. You don't
+want to make a thing part of a process
+that's completely automated and
+abstracts away every single ounce of
+humanity. And if you offer this in your
+software as a service business, if this
+is the outcome of people paying you 20
+bucks a month, then you're actively
+contributing to that internet theory
+becoming a reality. You're making things
+worse by making them easier. It's really
+unfortunate, but that's something we
+need to grapple with. And there are
+other use cases for AI that are a little
+bit closer to where the user is. And one
+of my favorites in Potscan is something
+that is kind of smart, but it's kind of
+internal level work. It's the list
+similarity generation feature. Let's say
+someone has a list of like 20 podcasts
+that they've identified manually, 20 of
+their favorite shows or 20 shows that
+cover a particular topic that they found
+during search or whatever and they added
+it to a list. Now the question is how
+can we find a hundred more, 200 more,
+something like that? How can we make
+this list bigger without all the manual
+research? because most of the important
+work figuring out the vector of the kind
+of list that we want has already been
+done and that's when AI becomes this
+background research agent right it can
+figure out what's similar between these
+shows that are already on the list do we
+have similar shows in our database are
+shows connected through the charts that
+they're on what surrounds each of these
+podcasts what can we see around them can
+we kind of coate that into a list and
+that's a lot of data acquisition a lot
+of the value judgment happens on this
+broader more general And this is what AI
+is really, really helpful for. In a way,
+that list expansion, it's kind of a
+generative feature, right? We're
+generating a list of similar shows, but
+that list doesn't get condensed into a
+newsletter or an article for a blog with
+like the top 100 shows or something.
+That's not what the product is supposed
+to do. People can export the list and do
+that themselves if they want. But what I
+want AI to do is to make the job of
+constructing this list easier. So people
+have an easier time of then doing stuff
+with that data, not to turn that list
+into a finished piece of content. So if
+you can use AI to augment, to guard, to
+gate, to guide these kind of things, I
+feel it will make things a little bit
+more human and a little less disastrous.
+So that's my short exploration of the
+dead internet theory. I could probably
+go on for weeks, but I don't think we
+need to talk about much more than this
+because how we as founders could
+potentially be contributing to the dead
+internet or taking that potential
+technology that we have that might
+contribute and funding into a better
+perspective. That's what this is about
+and how we might step away from this,
+make it less of a nuisance, less of an
+annoying and authentic thing. That's
+what I was trying to show. The choice is
+yours. We can build tools that replace
+human thought and connection entirely,
+adding to the noise of machines talking
+to machines. Maybe that's AGI, I don't
+know. Or we can build tools that give
+humans superpowers that really augment
+these capabilities while still keeping
+humans firmly in the driver's seat.
+Right? Still the human acting, the
+machine, the AI becomes a guide. I know
+which side I want to be on. I just told
+you and I hope you will find this at
+least a little bit valuable as you think
+about where AI fits in what you're
+building. And that's it for today. Thank
+you for listening to the Bootstrap
+founder. You can find me on Twitter at
+akal arb k ahl. And speaking of finding
+things, if you're a founder, PR expert,
+or part of a marketing team, you might
+be missing critical conversations about
+the brand, your brand happening right
+now across millions of podcasts. It's
+out there. People are talking. And
+that's why I built Podscan [music] to
+solve this. It monitors over 4 million
+podcasts in real time and then alerts
+you when anybody [music] mentions you.
+You can turn all of this unstructured
+podcast chatter into [music] competitive
+intelligence. And if you're searching
+for your next idea, check out
+ideas.podscan.fm
+where I have an AI agent identify
+startup opportunities from hundreds of
+conversations a day so that you can then
+build what people are [music] already
+asking for. If you know someone who
+could use that kind of insight, please
+share it with them. Thanks so much for
+listening. Have a wonderful day and
+bye-bye.

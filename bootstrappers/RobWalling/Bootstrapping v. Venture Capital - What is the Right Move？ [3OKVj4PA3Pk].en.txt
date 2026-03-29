@@ -1,0 +1,986 @@
+﻿[Music]
+and we're live welcome to this week's
+episode of microconf on air i'm your
+host rob walling every other wednesday 1
+pm eastern 10 a.m pacific we live stream
+for 30 minutes and i cover topics
+related to building and growing
+ambitious sas startups bring us freedom
+and purpose and allow us to maintain
+healthy relationships
+this week we're trying a few new things
+i think this is the first time we've
+ever live streamed on twitter so i'm
+curious to see how that pans out as
+always we are on youtube and facebook um
+but this week we'll be on twitter the
+other thing we're trying it's a format
+we're testing out you know we've been
+doing uh microconf on air
+since
+march of 2020 so that's more than a year
+and a half at this point and we have
+mostly done interviews
+and i want to try something out for the
+next few episodes where
+i it's a bit more educational on
+specific topics high-level stuff like
+i'm not going to dig in to click on this
+button in facebook to run a facebook ad
+but maybe more philosophical
+or more directional strategic topics
+like today's topic of bootstrapping
+versus venture capital what's the right
+move i might sometimes bring in outside
+experts to interview or have a back and
+forth conversation about it
+some of these topics might be a little
+101 they might be introductory stuff
+from folks who are new to the community
+and obviously some are going to be
+deeper dives
+today's topic
+i think is kind of going to be both i
+think there'll be aspects of it at the
+start as i'm talking through
+bootstrapping and venture capital
+maybe giving background and definitions
+on those that you might think this is a
+bit one-on-one but as i dig in to
+really you know the differences and how
+you think about them and how i would
+think about them and which path to go
+down
+that should hopefully feel more like a
+you know a deeper dive into a thought
+process that that maybe you yourself has
+gone through and i should note that
+today is not just going to be
+bootstrapping versus venture capital but
+i also want to talk about other options
+you know there's debt there's this indie
+funding that has started in the past few
+years
+and i'll put some of those thoughts out
+at the end
+so
+if you have questions
+as i'm rolling through this
+i'd love it if you would post them in
+the micro conf on air channel in
+microconf connect that's at
+microcomconnect.com if you're not
+already a member
+we are i believe we're north of 2500
+founders and aspiring sas founders in
+microconf connect it's a great community
+we moderate it and there's a lot of
+positivity and there's a lot of really
+you know deep conversations going on
+there so microsoft connect.com if you're
+not part of that obviously if you drop
+questions into the chat of whatever
+platform you're watching this on
+producer xander is of course monitoring
+those
+and uh and pulling them in
+there's a chance i might keep the
+questions to the end we'll just see how
+it goes i do have an outline that i'm
+going through because i didn't want you
+know i can talk about this stuff off the
+cuff for literally 20 minutes i'm a
+podcaster for crying out loud but i
+wanted to outline and kind of structure
+thoughts and so depending on when
+questions come in um
+you know may cover them all at the end i
+also have a special announcement a sneak
+peek announcement if you stick around
+till the very end um
+you'll get a first look at something
+that that no one else uh is seeing right
+now so hopefully that's enough of a
+teaser to keep you around
+all right so the topic i'm covering
+today is bootstrapping versus venture
+capital what's the right move
+and for those in this community you know
+that the right move is that it depends
+right it depends on your your
+circumstances depends on your goals so
+first thing i'm going to do is talk
+about bootstrapping what is it um i'm
+guessing most folks watching this know
+know what it is but it's using your own
+funds it can often be called self
+funding although i would say there's a
+little bit of a nuance even with
+self-funding and bootstrapping but it's
+you maintaining complete control of your
+company
+and it's the simplest structure if you
+don't take outside debt or outside
+investment
+you're bootstrapping and it's how most
+businesses not just tech businesses you
+know because i'm going to focus more on
+sas and startups and high growth but
+just most businesses are are started
+this way dry cleaners bookstores
+um you know the car wash down the street
+and frankly it's how most businesses
+should be funded and the reason for that
+is that once you take on an investor
+they have an expectation of a return at
+some point right they
+they're not investing um
+out of the goodness of their heart
+they're investing to get a return and
+they may provide a ton of value to you
+advice you may even become friends with
+your investor but you know most
+investors are writing checks such that
+they can get money back
+a return on the investment and
+with bootstrap businesses that implies
+that at some point you either have to
+you know pull profits out of the
+business or you have to sell that
+business for you know what they call a
+liquidity event you sell it for a chunk
+of cash and then that would go to the
+founders and the investors but
+bootstrapping really is the default and
+frankly i think bootstrapping should be
+the default you know i have this
+expression where i say um venture
+capital
+you know can
+and should uh fund
+one percent of of tech businesses
+and
+you know bootstrapping and tiny seed
+are are it's it's the paths for the
+other 99
+you know that's how i think of tiny seat
+is funding for the other 99
+so
+that's bootstrapping simple complete
+control using your own funds
+talk about venture capital now you
+probably know high level that venture
+capital is cash right it's venture cash
+it's money
+that venture capitalists raise from
+wealthy individuals or institutions and
+they do it to invest in specifically
+high-risk high-growth
+companies venture capital
+it's not considered venture capital if
+someone raises a fund
+and uh buys a bunch of real estate or
+invests in a bunch of car washes
+that can still be a thing but at that
+point it's usually called well real
+estate might be a real estate investment
+trust or buying car washes or buying
+businesses is usually referred to as
+private equity which is a less risky
+model so the idea with venture capital
+is that it's high risk and high growth
+and they want you to put the pedal to
+the metal and to go big or to go home
+examples of venture capital firms you've
+probably heard of or may have heard of
+most of them
+up until
+even the past
+10 to 15 years were located in uh the
+bay area um the silicon valley as they
+call it
+and there were some in new york as well
+um but it's
+venture capitalists are they tend to be
+um
+in these larger cities where there are
+both
+founders
+there are
+and investors right and wealthy
+individuals some examples of those
+include sequoia capital andreessen
+horowitz bessemer venture partners those
+are just three there are literally
+hundreds of venture capital firms
+and
+technically
+you know i think i i don't refer to tiny
+seed as this tiny seed is the the fund
+and accelerator that branches out of you
+know the formed out of microconf but
+technically we are a venture fund and an
+accelerator but we don't i don't call us
+that because we are different you know
+we don't have that same mindset of
+um we expect one in ten companies to be
+a billion dollar unicorn and expect the
+rest to fail you know much like venture
+capital does so
+from an investor side it's interesting
+to think about venture capital from an
+investor side and from the people who
+run the funds so from an investor side
+why would an investor write a check
+to a venture capital fund at all
+shouldn't they just couldn't they just
+buy stocks and bonds and real estate
+investment trusts or real estate at all
+the thing is is some of these wealthy
+individuals and a lot of these large
+institutions like endowments right an
+endowment is a big fund that yale or
+stanford or harvard have
+they don't want to be 100 in public
+stocks and bonds because the stock
+market is very bumpy right it you have
+these huge drops 50 percent drops uh
+every time there's a there's a bear
+market
+and they want to even that out
+in addition
+they have so much money to deploy
+billions and billions of dollars
+that they can
+and should diversify
+right across many asset classes not just
+stocks and bonds
+but along
+metals gold and silver and platinum
+along cryptocurrency now
+and venture capital it itself is an
+asset class private equity is another
+asset class different than venture
+capital but obviously related people
+raise funds and invest in companies
+so venture capital and private equity
+are two examples of that
+um
+venture capital from the investor side
+is restricted to accredited investors if
+you raise a venture fund in the u.s
+you have to raise from wealthy
+individuals which you know arguably is
+that it's a what is that almost 100 year
+old law now uh in the u.s and it's
+something that i think uh like jason
+calcanis is someone who's trying to
+change that and i actually think it
+should change i think that crowdfunding
+and being able to invest small amounts
+into startups
+and invest small amounts in
+investing small amounts into startups is
+taking place being able to invest small
+amounts into funds
+personally i think should be able to
+take place
+so that's what metrocapital is it's a
+fund you start a firm and you raise a
+fund from wealthy individuals and
+endowments and then you invest in
+startups
+last thing i want to cover on that is
+how do venture capitalists make money
+so they make money two ways they make a
+management fee and they have carried
+interest or it's also called carry so
+the management fee comes out
+it varies on structure but the standard
+is a two percent management fee per year
+based on the assets managed so if you
+raise a 10 million venture fund
+then if you're doing a 2 management fee
+that's going to be 200 000 a year that
+you pull out of that money to run the
+firm to compensate you as you know the
+general partner who's running it and you
+do that for the life of the fund which
+is usually 10 years so over the course
+of 10 years you'll pull out 2 million
+dollars
+just to run the fund day to day
+then there's carried interest or carry
+and that is the profit or the gain the
+net gain
+on the assets that you invest so let's
+say you invest that 10 million dollars
+that you raise into a bunch of startups
+some of them go out of business and
+usually in venture it's like six or
+seven they expect to just go to zero
+and then two or three to break even or
+maybe it's a two or three x return it's
+a low return for them and then they want
+one that is like the 100x return you
+know that returns the fund
+but let's say blended across all that
+you return
+you you pay you you return 20 million
+dollars okay so what happens with that
+20 is the first 10
+goes back to the investors just to pay
+them back and make them whole
+of the second 10 million that you made
+across the companies
+you get as the venture capitalist the
+firm you get 20 that's your carry or
+your carried interest so you would take
+2 million
+and then you give the eight
+million remaining back to the investors
+so that's that's the gist now there are
+other
+structures
+there are smaller funds often take
+higher management fees or they front
+load their management fees and i've
+heard of uh kerry being stepped up that
+if you return more than 2x the fund back
+or 3x the fund then it goes up to 25
+there's all
+you know deviations of it but the
+standard if you just go google it right
+is 2 and 20. so that's how venture
+capitalists are compensated
+so you know what bootstrapping is you
+know what venture capital is the
+question is bootstrapping versus venture
+capital what's the right move
+i'm actually going to add to that
+question and i'm going to say there's
+bootstrapping i'm gonna say there's
+venture capital
+then there's this other kind of funding
+that i think loosely i'll call indie
+funding and this is raising from uh
+places like tiny seed or angel investors
+who don't expect nine of the ten to
+necessarily
+fail
+um
+and and so that's another type of
+funding i'll cover at the end and then
+there's debt right there's revenue-based
+financing that is available specifically
+to sas companies once you hit about 15
+000 a month
+uh 15 or 20 000 a month
+then
+you have the option of uh pulling some
+revenue-based financing which which can
+be interesting as well
+uh as a reminder if you have questions
+in the chat um feel free to to put them
+in okay
+so when is bootstrapping right for you
+certainly if you don't want to give up
+any control or any equity to anyone else
+you have no choice but to bootstrap
+if you want to run your company forever
+or you really want to be able to decide
+when to sell it on your own
+or for how much
+um and be in full control again it comes
+back to control
+then bootstrapping
+is what you want to do because if you
+don't want someone looking over your
+shoulder asking questions giving advice
+most of the investors that i know and
+i'm an investor now most investors that
+i know are really good people they um
+give good advice they
+uh provide value you know and um
+often they're able to help companies
+there's actually a benefit beyond the
+money but there of course is that risk
+that you might you know get an investor
+who's a bad apple or someone who you
+don't want to work with
+i've been on both sides i have
+bootstrapped several companies then i
+sold to a funded company so i saw what
+38 million dollars in venture capital
+could buy um
+and now i've started tiny seed where
+we've raised
+we're approaching yeah we're north of 31
+million dollars you know under
+management that we can invest so i've
+seen both sides of it and i will say
+unequivocally that bootstrapping is
+harder
+that raising funding makes things easier
+it can make things a little more
+complicated
+but it makes things easier
+so
+that's that's where i am today
+back in the day i don't know you know i
+had great little lifestyle businesses
+there's no reason to raise money if
+you're gonna build a business to a few
+hundred thousand dollars in revenue you
+know there's there's no one i don't know
+of any investors who want to invest in
+businesses that are that small
+so you know bootstrapping is great if
+you do want to build that great
+lifestyle business
+venture capital
+if you want to raise venture capital
+you're going to get on that that track
+we call it the venture track that's if
+you want to go to the moon in essence
+you know you want to build that billion
+dollar unicorn or bust
+because
+vcs
+they are motivated to ha they're trying
+to find that one out of 10 that goes to
+100x
+and so
+it isn't in their benefit to find
+companies that can 2 3 4 x
+usually that's not on the radar that's
+an abysmal failure okay now it is
+different with indie funding like tiny
+seed
+we love we love those base hits but
+the goal of venture capital is to find
+startups that can become billion or 10
+billion dollar companies or
+the effectively just
+go out of business you know it's go big
+or go home is is kind of the mentality
+there so
+when you raise money when you raise
+venture you're going to hire fast if
+they're going to want you to burn money
+the game is to burn money and to raise
+new funding every 18 months at a higher
+valuation
+you will have a board of directors
+you'll have board meetings
+so this is where it gets more
+complicated it can be easier because you
+have all this money to do stuff but the
+complexity creeps in
+venture capitalists
+sometimes and i would say often are able
+to block a sale of your company and
+especially at low valuations so it's
+that thing of they want you to go big if
+you raise venture at a 5 or 10 million
+or 20 million valuation and then someone
+comes in and even if you still own 80 90
+of the company
+and someone says i want to pay you 40
+million dollars for this company
+usually a venture capitalist does not
+want you to do that
+even though you'll have a great outcome
+they don't want you to do that because
+they want you to go to that that billion
+dollar evaluation um
+because it's you know it's a failure to
+sell less than that so keep that in mind
+as you're thinking about it
+in addition
+venture capital funds are to have a
+10-year duration and so they want their
+companies to sell or to go public to
+provide liquidity within 10 years
+usually that's that's that's kind of the
+rule and usually it's like five to seven
+a lot of things start to happen
+companies start to sell and go public so
+um
+that's the trade-off i think about is
+that i do think that raising money is is
+easier it's you can hire more support
+you can move faster
+it can be more interesting and more fun
+but it's also more complex and it comes
+with
+some
+expectations i used to say it comes with
+strings attached but i don't even think
+they're string it's not like they're
+hidden that implies that they're hidden
+it just comes with some expectations
+lastly i'll touch on uh this indie
+funding which
+it you know is the in-between between
+bootstrapping and and venture funding
+um this is like
+what tinyseed is
+and it's if you can find a group of
+angels who don't necessarily need that
+unicorn outcome the billion dollar 10
+billion outcome and have all the
+expectations i just outlined that they
+maybe you just want to raise one round
+of 250 000 or 500 000 to make it easier
+to get to escape velocity and then you
+want to become a profitable company or
+you want to grow to the point where you
+sell for 20 million
+um
+that it these are the types of things
+that you know and some angels and tiny
+seed uh will do you're going to raise a
+smaller amount of funding than you would
+from a venture firm right most venture
+firms are looking one even at a like a
+pre-seed seed round or like a million
+bucks two million bucks and up
+at a higher valuation versus tiny seed
+in angels or you know
+in that lower range usually in the low
+six figures um
+i would say that this route of indy
+funding is simpler than venture capital
+in terms of um you're pro you're not
+going to have a board you're not going
+to have you know uh someone breathing
+down your neck um not all vc is like
+that either but i i would say the
+structures uh are usually going to be
+simpler and usually you don't have to
+give up control because you know
+that's not what you're agreeing to do
+and
+if you certainly with tiny seed and
+other indie funding sources
+you can run your business and pull
+profits out of it which is not an option
+with venture funding right they don't
+want you to pull profits out they want
+you to go go and then sell or ipo very
+very unusual almost unheard of for a
+venture back business to become
+profitable to the point that they pull
+it out and distribute it to shareholders
+so
+that's that's the third option and
+that's something that you know i've seen
+emerging over the past i mean really
+it's been over ten nine or ten years and
+i started writing some angel investment
+checks myself
+and then realized that that
+there were more companies that really
+wanted to go that third route than
+anything else
+um or there were more companies than i
+had money to fund israel when it became
+and that was why we decided to raise
+that that tiny seed fund
+lastly there is debt and revenue-based
+financing is super interesting and then
+i do see there's a couple questions
+that i'll get to but
+debt financing used to be out of the
+question but specifically with sas
+because the revenue and the growth is so
+predictable there's something called
+revenue based financing and usually like
+i said it's about when you hit 15 grand
+20 grand a month you can start finding
+some providers who um who can do that
+there's several out there is like sas
+capitalized or capital
+bigfootcapitalpipe.com
+is a new and interesting one
+and what i've heard i have not done debt
+myself but um we have funded some
+companies who've done it and i think you
+can borrow about four times your mrr
+that's kind of the low end maybe that's
+the max it's like four to six times your
+mrr and then they take a certain
+percentage of your top line revenue for
+two or three years um
+and that that's usually five to ten
+percent depending on the amount borrowed
+and the term of the loan and then they
+make back whatever it is two or three
+times their money and it's pretty
+predictable
+and that's it and the nice part about
+that if you decide to do it is you don't
+have to give up
+you don't have to give up equity right
+it's it's uh non-dilutive um funding so
+it's it's another option to think about
+have some great questions coming in
+first one is from jason palara from
+youtube he says does it have to be
+bootstrapping versus venture capital the
+more i work on my sas it seems like
+bootstrapping is increasingly the
+required first step before you can get
+other forms of funding that's a great
+question actually
+so obviously it doesn't have to be one
+versus the other i think i've
+just on you know in this 20 minutes here
+i've shown four different options but to
+your point
+is bootstrapping always what you have to
+do in the early days because you can't
+go to
+uh
+usually you can't go to angels or
+venture capital and say i have an idea
+fund me right that was 25 years ago that
+doesn't happen anymore for the most part
+the only time that happens is if you're
+a proven founder um you've had an exit
+or you know a bunch of venture
+capitalists and they are willing to
+invest in you to be able to um
+you just have you have something more
+than i did when i started out you have a
+network or you have you know you know
+the right people and i think most of us
+don't do that so the answer to that is
+yeah most people do have to bootstrap in
+the early days and then the question is
+do you continue bootstrapping or do you
+then consider raising you know venture
+indie funding or debt um
+to do it you know to keep growing
+there isn't there's a fifth one and it's
+self-funding which is something that i
+did with drip i had a prior startup
+called hit tail that was thrown off
+twenty to thirty thousand dollars a
+month
+and
+um
+that is what i used to fund drip i was
+like my own angel investor
+and that um
+is different than bootstrapping because
+bootstrapping i think is when you really
+have almost no money you know but
+self-funding i mean i spent 150 to 200
+thousand dollars on drip before we were
+profitable so that's not i don't know
+it's not that i'm cutting hairs and i'm
+not or splitting hairs and i'm not
+religious about you know this topic of
+bootstrapping and what i was defined as
+or whatever but i do think there's a
+subtle difference between having zero
+dollars which i started many startups
+with zero dollars some work some didn't
+and then i started several that or i
+started drip with self-funding and and
+that was an easier easier road
+um
+it would be great if you're enjoying
+this video if you'd like
+the video and subscribe youtube.com
+microconf if you're not already on
+youtube um but subscribe and smash that
+like and subscribe button that's the
+phrase i was looking for so my kids
+always say but yeah that'd be great i
+mean we put out content like this
+every couple weeks and as i said it's an
+experiment for this one but we're gonna
+pick just a bunch of topics and run
+through them question from hunter what's
+the typical compensation for funds like
+tiny seed or indie funding for the angel
+investors
+that's good so angel investors
+will they don't get any management fees
+so if you raise 250 300 000 400 000
+angel investors just put a pool of uh
+money into your company
+and they are investing directly in you
+so they just own a portion of your
+company they own a few percentage points
+of equity right so it's like let's say
+you raise three hundred thousand dollars
+from angel investors at a three million
+dollar valuation they would own together
+ten percent
+um of your company and if they
+depending on let's say it was one
+investor that did that for simplicity
+then if you pulled a dividend out at
+some point you would get 90 and they
+would get 10 or if you sold the company
+then they should get 10 and you would
+get 90. it's just pro rata based on
+equity um
+same thing with tiny seed like we buy
+equity in your company uh you our
+standard range is 10 to 12 percent
+and that is for a single founder it's
+120 000 for two founders it's 180 and
+for three it's 220 000 and we own that
+percentage and then we share pro pro
+rata is the phrase but whatever
+percentage of a company we own
+um then if you pull dividends out or you
+know you get a salary right you can take
+up to a quarter million dollars in
+salary that that isn't impacted by the
+dividends
+then if you pull a dividend out or you
+sell um tiny seed mutts like angel
+investors would still be compensated and
+of course tiny seed is a fund so
+to run the accelerator you know we have
+staff we're hiring a program manager in
+europe right now for example um
+then that's where we are actually taking
+money out of the funds that the
+investors gave us the management fees in
+order to fund the employees to
+compensate myself my co-founder and such
+so good question from
+uh
+jason
+he says in the vc world if you raise
+and become a failure so if you're a
+startup that raises and fails so you go
+to zero or your 2x how do you start
+another company and raise money again it
+sounds like you'll have burned your one
+chance as a unicorn that's such a good
+question
+you know what's interesting is founders
+who go to xero
+if they've often have the battle scars
+and they've learned so much that they're
+actually better the next time and you
+can have folks especially if you
+maintain a good relationship with your
+investors i've had folks
+who've been angel invested in who either
+go to xero or just return my money after
+you know six years or they return 50 of
+my money because they failed but i will
+back them again because i know that they
+didn't fail on purpose and i know it
+wasn't because of incompetence um it was
+because of market forces or the whatever
+you know there were other reasons about
+it and they have relationships now with
+a bunch of um angel investors now there
+are some
+founders that i've invested in that i'm
+gonna be honest that i won't invest in
+again and but it's not because they've
+failed it's because of how they failed
+because i watched them not focus on the
+right things and make you know
+questionable decisions and
+and that not questionable ethically but
+just decisions that weren't good for the
+for going the startup
+all right we're coming up on time but i
+have two more questions i'd love to
+cover uh mike q says that example where
+you mentioned about a vc a venture
+capitalist blocking a smaller exit of 40
+million dollars can the owner force the
+issue if at some point there is
+something a bit larger like using that
+example what happens at 80 million
+so you know it's not black and white i'm
+going to be honest um
+i think it i think it depends on
+how long you've been in business if the
+venture capitalist if you're still
+growing fast
+a venture firm is going to want you to
+keep growing if you've flatlined and
+you're kind of a zombie in their
+portfolio and and you're just flailing
+it
+10 million or 15 million
+and it's been years and the funds
+getting later and they've already
+returned you know most of the fund or
+whatever
+then there's flexibility there there's
+no one-size-fits-all answer um
+but in general if you talk especially
+the big venture firms i named earlier
+like they
+they don't want these eight-figure exits
+and in fact a nine-figure exit i mean
+they're raising they're raising funds
+that are literally billions of dollars
+large and they want to find an
+investment that will return the fund
+right that produces that amount like an
+uber or facebook or a google
+that's the general i'm generalizing here
+right but most firms that's that's the
+goal that's how they get really big
+funds versus someone who raises a
+smaller fund i think has more
+flexibility
+last question before we wrap today these
+are good questions thanks for asking
+them jason says does age play a part in
+an angel or a firm's decision in
+investing in a founder when you see
+funds like yc the popular image seems to
+be the fresh out of college mit grad
+yeah harvard as well right yale i think
+y combinator has specifically targeted i
+mean they originally started targeting
+like grad students because paul graham
+was big in that scene
+and they were located in boston at the
+time um and i think that's why they're
+the traditional one is the 20-somethings
+i'll say that venture capital um
+i have seen data that suggested that
+like more funding goes to people in
+there i think it was 30s and 40s uh
+because of the maturity and perhaps the
+experience and wins they've had under
+their belt
+but i can't unequivocally
+quote a source but i remember seeing
+that i will say that in the microconf
+community tens of thousands of people
+strong we definitely steer more towards
+that
+there are a lot of folks in their early
+20s but it's the bulk is in that it's
+late 20s 30s 40s
+and
+we tend to be bootstrapped mostly
+bootstrapped and um
+[Music]
+we do it does tend to be people who are
+a little more mature in their career a
+little deeper into it and have more
+skill sets uh
+built up to be able to grow startups so
+i have to imagine i mean the question of
+does age play a part in a firm's
+decision
+i have to imagine it does but i will say
+that
+you know certain you'll talk to certain
+venture capitalists and they say i
+invest based on the founder i make a bet
+on the founder and they have something
+in their mind of what the founder should
+be right
+and so i don't know if that venture
+capitalist thinks age is a part of that
+equation some may some may not i do know
+that like when people ask me how do you
+make decisions at tinyseed it's three
+p's right it's the people so it's the
+founding team it's
+whether that product market fit or how
+much of that we think they have based on
+their average revenue per user and churn
+and all that
+and then um
+the pricing right price sensitivity or
+the pricing power they have because if
+you if your average revenue per user is
+only ten dollars a month that's very
+hard to grow a seven or eight figure
+business which is the goal you know when
+we invest in a chinese company so it's
+not these are not disqualifiers um but
+they are it is a question i ask in the
+interview of like hey you only have 10
+bucks a month coming in per customer how
+do you how do you raise that or how do
+you think about still building an
+amazing business
+and with that
+we're going to wrap this up i think that
+went that went pretty well i am
+interested in hearing your feedback
+on this format of episode
+and um
+take us out from here i had a good time
+doing that and great questions thanks
+everybody for participating
+if you want to learn more about
+designing a bootstrapped business check
+out the video uh in the description of
+this video so it's called designing the
+ideal bootstrap business by jason cohen
+it was given at microconf several years
+ago if you're ready to take the leap
+into building a bootstrap business check
+out the playlist building your first
+bootstrap sas the ultimate crash course
+and that's compiled from talks from the
+microconf stage
+thank you so much to hey and stripe they
+are headline partners um they were last
+year they are this year it's great to
+have them on board supporting this
+bootstrapped and mostly bootstrap
+community
+and finally the big reveal i hope you
+stuck around the state of independence
+sas survey for 2022 for the 2022 report
+is live we have not sent out an email we
+have not let anyone know there's no
+tweets so you can be the first to hear
+about it it's state of
+sas.com
+to head to that report
+and that you'll be one of the first to
+take it this year and we put this report
+together to help the bootstrap mostly
+bootstrap the independent sas community
+so we have some numbers
+and and some um
+trends to be able to look at and build
+our businesses on and this year we mixed
+it up i think we swapped out at least a
+fifth of 20 of the questions maybe 25
+with new things about sentiment about
+hiring about how the last year how do
+you feel looking ahead like we swapped
+it out so we're gonna have some new and
+interesting things if you've seen the
+report before it's gonna be different
+this year i'd love for you to
+participate it takes about eight to ten
+minutes if you haven't seen the report
+you should head over state of indies
+and we're going to compile that all
+anonymously and produce this beautiful
+report that you'll be able to download
+for free and we'll be doing actually a
+live stream of that in january
+so thanks so much for joining me today
+really appreciate it and i'll see you
+again same time same place in two weeks
+[Music]
+you

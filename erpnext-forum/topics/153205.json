@@ -1,0 +1,51 @@
+{
+  "topic_id": 153205,
+  "title": "Connect Cpanel email account with email account in frappe",
+  "slug": "connect-cpanel-email-account-with-email-account-in-frappe",
+  "category_id": 6,
+  "tags": [
+    "email-accounts"
+  ],
+  "created_at": "2025-09-06T13:03:41.742Z",
+  "last_posted_at": "2025-09-06T13:03:41.915Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/connect-cpanel-email-account-with-email-account-in-frappe/153205",
+  "views": 13,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "manal_erpnext",
+  "posts": [
+    {
+      "id": 480054,
+      "username": "manal_erpnext",
+      "name": "manal alsubaei",
+      "created_at": "2025-09-06T13:03:41.915Z",
+      "cooked": "<p>I use <a href=\"https://discuss.frappe.io/t/configuring-an-office-365-account-with-oauth/108330\">with OAuth</a> with Office 365, but now I have emails that are not registered in Office 365, but are in cPanel<br>\nHow should I connect them?</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/manal_erpnext/{size}/68679_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 7,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "topic_id": 154364,
+  "title": "Leave Ledger Report showing duplicate / repeated rows",
+  "slug": "leave-ledger-report-showing-duplicate-repeated-rows",
+  "category_id": 57,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-09-24T12:14:35.328Z",
+  "last_posted_at": "2025-09-24T12:14:35.428Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/leave-ledger-report-showing-duplicate-repeated-rows/154364",
+  "views": 19,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "yuga286",
+  "posts": [
+    {
+      "id": 481932,
+      "username": "yuga286",
+      "name": "Yuga286",
+      "created_at": "2025-09-24T12:14:35.428Z",
+      "cooked": "<p>Hi Team,<br>\nWe are facing an issue with the <strong>Leave Ledger</strong> report. For a single Leave Allocation or Leave Application, the same transaction is being repeated multiple times in the report.<br>\nExample:</p>\n<ul>\n<li>For employee <code>et emp (test employee)</code></li>\n<li>Period: <code>01-07-2025</code> to <code>30-09-2025</code></li>\n<li>A single allocation entry (<code>HR-LAL-2025-03585</code>) appears <strong>twice</strong>.</li>\n<li>Similarly, Earned Leave allocation (<code>HR-LAL-2025-02368</code>) and other transactions are also shown multiple times.</li>\n</ul>\n<p>This makes the report confusing and inflates the records.<br>\n<strong>Additional Issue:</strong><br>\nWhen trying to open some of the duplicated transaction names directly from the report, the system shows:</p>\n<p>Sorry! I could not find what you were looking for.</p>\n<p>Expected Behaviour:</p>\n<ul>\n<li>Each Leave Allocation / Leave Application should only appear <strong>once</strong> in the Leave Ledger report.</li>\n<li>Clicking on a transaction name should always open the correct document.</li>\n</ul>\n<p>Actual Behaviour:</p>\n<ul>\n<li>Entries are duplicated/repeated for the same transaction.</li>\n<li>Some transaction links are broken and lead to the “Sorry! I could not find what you were looking for.” error.<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/b/9/b996674dd24e3e20187148a6cfbb375fb3cd06dc.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/b996674dd24e3e20187148a6cfbb375fb3cd06dc\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/b/9/b996674dd24e3e20187148a6cfbb375fb3cd06dc_2_690x329.png\" alt=\"image\" data-base62-sha1=\"qtMzlvMBgYv7yX84VvUhCbDA0wI\" width=\"690\" height=\"329\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/b/9/b996674dd24e3e20187148a6cfbb375fb3cd06dc_2_690x329.png, https://discuss.frappe.io/uploads/default/optimized/3X/b/9/b996674dd24e3e20187148a6cfbb375fb3cd06dc_2_1035x493.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/b/9/b996674dd24e3e20187148a6cfbb375fb3cd06dc_2_1380x658.png 2x\" data-dominant-color=\"F5F5F5\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1773×847 89.5 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></li>\n</ul>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/yuga286/{size}/85708_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 7,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

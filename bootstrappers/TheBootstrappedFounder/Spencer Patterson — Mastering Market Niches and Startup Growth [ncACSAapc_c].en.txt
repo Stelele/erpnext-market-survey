@@ -1,0 +1,1634 @@
+﻿today I'm talking to Spencer Patterson
+he has built an amazing business and
+sold it for $3.5 million I'm talking to
+a non-technical guy today even though
+he's built a SAS product and it's going
+to be really interesting to see a
+non-technical perspective on building
+software products this episode is
+sponsored by acquire. comom we're going
+to talk a lot about Acquisitions today
+now here is
+Spencer welcome to the show you
+bootstrapped a SAS product to 140k Mr
+and it had 6 million daily users four
+years quite quite the accomplishment
+this whole led to a $3.5 million exit
+post exit you're also working on new
+projects and you're investing your money
+and all that I think you're living the
+dream that a lot of SAS Founders really
+want to live how many failed ideas and
+products did it take for you to get to
+this point what do you think oh man well
+first off thank you for having me on
+your podcast I'm a big fan I've been
+following you for a while I love the
+product that you're creating right now I
+may try to convince you that to let let
+me be an investor at some point we get
+we'll get into that at the
+end but yeah as far as failed ideas I
+you know listen every every bootstrap
+founder has all of these ideas that
+they're trying to product Market fit and
+they're trying to find what their Niche
+is and it really is just a matter of
+getting that Niche and what and also
+what you're passionate about for me I
+was a financial adviser at a financial
+institution um I jumped around from
+doing that for a while I did you know
+different banks different investment
+firms and so I really my thing was I
+always just wanted to make a lot of
+money and so my thinking at a college
+was where's the money it's at the banks
+all right so I'm gonna go to the banks
+and do it but the problem is it's still
+technically working retail and whether
+people like to admit it or not you're
+just selling products credit cards
+checking accounts and then eventually
+investment products and and things of
+that nature but that's still where the
+money is so I'm like okay I I kind of
+you know I got licensed they they had me
+go through all this training and
+everything with SEC and finra and the
+whole nonsense and so I was like well I
+can make money day trading so I started
+day trading and I'm like all right I'm
+making decent money here so I actually
+ended up meeting up with a another day
+trader who was exponentially better than
+I was I mean my trades I'm like oh yeah
+I made like 30% and he's like I made
+7,000 per. like crazy crazy numbers kind
+of guy so we actually teamed up and and
+said hey let's do this together and so
+we started day trading together sharing
+uh you know ideas and different you know
+options to look at and eventually it got
+to the point where I was like why don't
+we just sell the information of how you
+identify the different you know
+different trade options that you're
+looking at you know opening range
+breakouts and you know looking at the
+SMA and the moving averages and stuff
+like that he goes yeah sure we could
+sell the information on like what I'm
+looking at or you know just live stream
+between the daily kind of stuff so I
+said all right let's let's start
+marketing let's just I'll Market at it
+you just do the trades because your
+trades are better I said but I'm I'm
+pretty decent at you know social media
+so started an Instagram account and
+that's all it really was back then
+because this was a couple years ago I
+mean Twitter was more just for
+journalists and Tik Tok wasn't a thing
+yet um it was pre pandemic and so I just
+started posting all the winning
+screenshots of what he was doing and you
+know all the trades that we were making
+and everything well within a few months
+we had 300 people paying us $30 a month
+and that was like within 90 to 100 like
+12 days and so I'm like oh man this is
+getting like crazy the number of
+subscriptions we're getting I'm like but
+I got to figure out like how to manage
+this better and so that's when the kind
+of product Market fit started clicking
+going okay I'm having this issue as
+someone who's doing this so I started
+researching other people who were doing
+similar things in in that space in the
+you know educational kind of Finance
+educational space and I saw that they
+were having the same similar issues and
+I'm like well I if I'm the if I'm not
+the only one having the issues and
+they're having these issues that must
+mean there's a gap here somewhere that
+we could I could build something that
+would make it easier for them to do it
+and that's really all building a sass is
+all about is just filling a gap for
+someone to help them do what they do
+better and so whether they're a designer
+whether they're a you know they're
+running a small business or whatever it
+is if you make a tool for them a SAS
+tool or something that helps their life
+automate it just it completely redefines
+the way that they work and if you could
+automate the workflow for someone in
+something that they care about or in the
+field that they're looking for that just
+I mean that really you know takes a cake
+yeah for sure and that's what SAS is
+like what that that's the magic of SAS
+right you just take Take This Job to be
+done that people kind of struggle
+through for days and you just automate
+it into like a 20 second kind of script
+that's just the absolute magic I mean
+that's the absolute best I mean even
+currently you know there's there's these
+new everything nowadays I feel like is
+an open a AI API tool with a with a
+Tailwind wrapper I mean that's pretty
+much all it is but there some that are
+pretty damn cool like you know you got
+the auto headshot one the head shot
+magic one and now that's a little played
+out and then you got the chat with PDFs
+and that's a little played out but
+there's other ones that are like hey we
+automatically take your your video and
+clip it into YouTube shorts and twitch
+shorts and stuff like that I'm like man
+like these to be able to do that and
+just completely remove the edit the
+tediousness of a process like editing or
+something like that I mean that is worth
+paying for and if you could build a
+product and that that was the goal to
+build something as sticky as possible
+something that people go well I can't
+work without this now and that's kind of
+trying to identify that you really just
+got to look around and see hey what are
+people really have you know what do they
+have gripes with and what's tedious in
+in their lives whatever that may be it
+could be B2B it could be B Toc um you
+know what are customers having an issue
+doing you know converting my figma into
+a website well now there's a a SAS for
+that just drop drag and drop the file
+and boom now it's a full page website so
+things like that you know um that's kind
+of how I think people should take a look
+at it when they're when they're
+bootstrapping and building in public oh
+for sure like particularly the the
+building in public part with with the
+community being so extremely supportive
+and helpful with it like all right
+that's just but I want to ask you a
+question like kind of get getting back
+to to youri financial educational
+project like would you have built a
+project or assass business in a space
+that you didn't already work in at that
+point or was that part of the magic for
+you to to be like consistently involved
+in financial trading to build something
+for Traders so the thing was actually
+building the the SAS was not in my space
+right because that was me going off and
+saying hey I'm GNA hire a developer I
+know nothing about developing I can't I
+still can't touch a line of code today
+I'm I I have a great macro understanding
+of technology and code now because when
+you chat with a developer for 12 hours a
+day for years um you gain a very good
+understanding of Technology but I still
+can't write any code so the point was um
+you know being able to hire other
+developers as a non-developer that was a
+challenge I mean that was I went through
+almost a hundred different developers
+that I interviewed um and going through
+all of that you know to to build
+something that I still didn't know hey
+this I mean and let me tell you the
+first MVP was garbage I mean when I tell
+you garbage it was the worst MVP you
+could ever imagine was built like in
+jeno and it would like crash every
+couple of hours but being in sales I was
+like I could still I could sell the hell
+out of this like I'm just gonna you need
+this in your life because it does The X
+Y and Z and that's a lot that I think is
+something that a lot of the buildin
+public Community is missing they're
+getting it vicariously through posting
+but they're I don't feel like they're as
+motivated for selling as they need to be
+they're plugging their product every now
+and then on you know on Twitter yeah I'm
+building this building this and building
+this but how what's the pitch you need a
+pitch and you need to get you need to
+Target your audience because not
+necessarily your audience is to build in
+public people so that's always a big big
+problem and that's a big problem I think
+for most people who come from more like
+an engineering background I don't I
+don't know like how how that was with
+the the engineers that you talk to and
+that you tried to hire and the people
+that you end up ended up hiring but I
+think for my experience and the people
+that I get to talk to like marketing
+selling that's always a red flag for an
+engineer for some reason there's this
+weird distinction between making the
+thing and making the thing go to other
+people and this line shall not be
+crossed is super weird how did you deal
+with that in in the people that you
+worked with well I think well first of
+all don't get me wrong those interviews
+were were crazy I mean I would say like
+a good third of the interviews didn't
+even turn on their camera and I'm like
+hey like I'm trying to have a
+conversation with you they're like oh I
+don't do camera and I'm like wow that's
+like talk about really not wanting to
+get out of your shell and you know
+listen I get that some people are not
+talkers and to be honest I feel like
+Engineers who want to work behind a
+computer purposely chose that career so
+they don't have to go down that road of
+you know talking and video chats and you
+know marketing their product but being
+an engineer and being a solopreneur are
+two different things you're now taking
+the whole pie that you know the whole
+the whole thing you're responsible for
+it so you can't only just say I'm going
+to be the backend guy and yeah I'll post
+some things in now you got to be the FI
+and you know there's some there's some
+Founders out there who are doing it very
+well but a lot of people out there are
+just not marketing to them you know
+marketing to the masses as themselves as
+hey I'm the brand so is the the product
+but you know here it is and so you know
+talking with those developers
+interviewing them I finally got one who
+was who was decent very good at what he
+did um personality-wise it wasn't a it
+wasn't a good mix but he was so damn
+good that it was like H all right fine
+um and at the the time it was
+bootstrapped so you know I was using my
+savings account money to to fund this
+thing so you know someone who was able
+to work with me within my budget you
+know you kind of just have to make
+do yeah I I guess like it's that's the
+thing about being a solopreneur it's
+like compromise all over the place
+internally and with the things that you
+do right you can only do so much you can
+only do the thing that you're currently
+focused on and everything else has to
+kind of be scheduled so did you did you
+immediately hire like how how big was
+the team like as the business was
+starting did you immediately hire and
+and then hired later or so I originally
+hired one uh developer to build the MVP
+and so the MVP didn't need I mean don't
+get me wrong it needed maintenance but
+not maintenance that I couldn't do like
+restarting the server and you know
+clicking on and off on digital ocean
+like oh you know like that's how yeah
+like well it crashed let me just click
+the the button or you know so I mean I
+could do that stuff so after the MVP was
+built and I spent too much money for a
+crappy MVP um and again because I just
+couldn't build it myself but I had this
+idea and I knew I needed to use it so
+you know a lot of the issue
+was sorry what was the question again
+well the question was like who did you
+hire and what were the the steps that
+you took like did you hire more people
+immediately or did you slowly hire later
+that's kind of the idea so so basically
+I hired you know for the initial MVP but
+the problem was once that MVP was done I
+just decided I'm like I'm going to
+Market this and I'm just going to run
+with it because I don't want to one have
+the running cost of having a developer
+on staff because I just couldn't afford
+it so I waited until after I started
+onboarding other people onto the system
+more customers once I got more customers
+on the system I then took that Revenue
+once I started recouping some of the
+money that I invested in the product and
+then I said all right now I'm going to
+start looking for someone who could come
+on fulltime because we started getting
+uh feedack back requests like hey we
+need features and we need this and we
+need that and I'm like oh man I can't
+just leave them in a Lurch because there
+were other mer there were other
+merchants or customers that wanted to be
+on my system that wouldn't leave their
+system unless we had X feature so I'm
+like well okay if you guarantee that
+you'll bring over your x amount of
+audience I'll get that feature built and
+they're like sure we'll do it so I
+listen one of the big things that my mom
+taught me was just say yes and figure it
+out later and so that's what I ended up
+doing a lot a lot of the time with this
+you know someone would say hey could you
+do this and if it was worth it to invest
+in that product or I mean in that
+feature set I would just say yes I yeah
+sure we could do that and then figure it
+out later but we got the business and
+then that we you're basically
+frontloading it yeah and I talked to to
+Rob Walling about this too a couple
+weeks ago on this show like should you
+build features for people who say
+they're going to buy once to get the
+feature and it was kind of a maybe an
+answer I guess depending on how involved
+they are and how truthful that statement
+actually is did you ever run into
+situations where you build it and they
+didn't come yes uh of course because the
+dealing with the general public you're
+going to have that you're G to have a
+lot of disappointments dealing with the
+general public not everybody not
+everybody is like the build-in public
+founder Community where they're all
+supportive and rah rah rah they could
+get on your system be like yeah I wanted
+you to build this ah it turns out I
+don't like it it sucks and then they
+leave and you just go man what a
+disappointment I mean there were times
+that we invested money into building
+like a full Landing custom landing page
+for a certain customer and all of a
+sudden they're just like yeah we decided
+we just didn't want to switch and yet we
+spent thousands of dollars on you know
+getting a custom graphics and hiring
+someone to do it but just didn't go so
+what then we do is we repackage it as a
+general feature for everybody and just
+make it you know uh usable across the
+masses I love that that's a wonderful
+idea it's kind of turning the loss into
+a win for more people than were
+initially even involved that's really
+cool exactly that's I think that's like
+that you're gonna if you like that
+you're gonna love how I how I handle
+customer service well please go
+ahead so what we did with customer
+service is I originally uh so we had a
+lot of different customers using the
+system you know six million daily users
+and so we could identify who the power
+users were so I ended up contacting one
+power user I was like hey if I give you
+the system completely for free will you
+be our main support guy and just help on
+board all the you know the new people
+that have questions and so he goes yeah
+sure no problem so we started working
+together and then after a while he
+started recruiting other power users of
+the system so by the end of it we had
+five to seven power users getting the
+system completely free or for like very
+affordable and they would just be 247
+being the customer support didn't cost
+me a dime other than you know what their
+lost Revenue but they were they use the
+system every day so who better to
+explain you know the new feature set or
+you know how to use it or the best use
+case than someone who's using it for
+their business every single day that's
+so cool like recruiting from your own
+user base is probably one of the the
+best kept secrets or the most high
+impact secrets that you have as a
+bootstrapper like those people
+particularly the early customers who've
+been with you have seen the growth seen
+the effort you put into it for them
+right those people they will they will
+do they will go out of their way to make
+your life easier which is really really
+awesome they're the brand ambassadors I
+mean they're the those brand ambassadors
+are so invaluable I mean they're so
+valuable that it's you really just need
+to take a look and say okay who's doing
+the most for the business not to take
+away or detract from their business but
+how can they you help them help you and
+that's really the that's really the key
+here is that something you've figured
+out like by random chance or was it
+intentional from the start that treating
+them this way it was more not random but
+simp similar to the product you know a
+product Market fit I was finding an
+issue with my own time management in the
+beginning because now I'm dealing with
+the people who had customer service
+issues I had to project manage I had to
+kind of lead the marketing campaigns I
+was doing everything on the business
+side except for the coding not the
+infrastructure or the security or
+anything like that but I was doing all
+of that stuff and I go well the customer
+service is eating up x amount of time
+from my daily schedule I could be using
+that for project planning I could be
+using that for Road mapping any of the
+other things that I could be doing that
+are you know it's calculating where your
+time is best spent as you know with the
+the 25 projects that you have going on
+what is going to obtain the most value
+for your time and because you're the
+only one who could kind of see the
+vision you have to be the your own best
+judge of time management because that's
+one of the things that will kill a
+Founder's business if you have poor time
+management and you spend three hours on
+on two pixels moving it back and forth
+because you don't like it's not centered
+or whatever you're you're fixating and
+you need to break away I mean that's
+that's the thing so customer service I
+said I needed to break away and so
+that's when I got the power user to
+start and that was pretty early on do
+you have a framework for this like when
+you make that
+choice so I usually um kind of break up
+my day into specific Sprints and I know
+it sounds crazy to break up your day
+into like hourly kind of Sprints but I
+have um I've got about 30 alarms on my
+phone and it's pretty pretty wild like
+when I should wake up when I should take
+my pills when I should have my breakfast
+when I it's time to get in the chair
+when it's time to drink water like the
+whole thing because I need to remove as
+much of that as possible the
+decision-making process out of there and
+so when I have a block assigned for a
+specific amount of time if I go over
+more consistantly in let's say a week or
+two week period I'll say okay you know
+what this time slot is obviously not
+working why is it not working and then
+I'll turn around and say okay it's
+because this time slot is eating into
+this time slot I need to somehow make an
+adjustment to make it more worthwhile
+because the return on investment of a
+time is uh you know the time cost is is
+just not there so that's how I generally
+prioritize that's awesome like tracking
+that's one of the things that I'm really
+bad at like tracking the the time that I
+spend on stuff because I'm so curiosity
+driven and that is that is what often
+creates a lot of friction in in my
+schedule that if I if I didn't have like
+actual deadlines set I would just like
+play around with stuff all the time and
+that you know makes it kind of hard to
+track the time and then look back and do
+some analysis because I don't have
+anything to track or anything to that's
+why I have uh nighttime reserved for
+research and I call it research but
+really it's you know watching YouTube
+videos and you know like you know just
+kind of exactly diving into you know
+Reddit threads and stuff like but you
+know that research is also valuable
+because you turn around and you could
+say you know you go into a thread on
+Reddit and you just say wow A lot of
+people are having this issue with things
+why and then you start rabbit H holding
+and that's I try to I try to be careful
+about rabbit H holding because you know
+then it's 3:00 a.m. I still haven't
+slept I got to be up at 9:00 to start my
+routine and I'm like man like that
+rabbit hole was good but I'll wait till
+you know you just kind of prioritize the
+time and save it for later yeah do you
+do you still have uh as rigid or as like
+you know intense of a schedule now that
+you've sold the business is is that
+still the same do you still have the
+drive to structure your day like this I
+still have the drive because I feel that
+structure in your life is important I
+feel like routine is extremely important
+for people otherwise they fall into kind
+of I don't want to call it a rut but
+they fall into a um just a pattern of
+haphazardness and so it doesn't have to
+be as rigid where I go oh man I'm 15
+minutes over I gotta you know do it but
+I go oh I just keep you know some
+accurate time like okay yeah you know
+what it's time for me to start shifting
+gears into something else and that could
+be even hey I went over by half an hour
+it's time for me to work out I got to
+stop what I'm doing so I can take care
+of my body now so you know still having
+that schedule I think is important
+because it's not just work at this point
+now it's the the whole picture of your
+life because when you're in that
+business and you're in that grind you
+you you hyperfocus and then every I'm
+sure there's been times where you
+haven't eaten for seven hours straight
+and you go oh man where's lunch but if I
+didn't have that time blocked off I
+would have said oh man I'm just going to
+go hungry you know that's you need to
+kind of I I personally like just because
+it it takes a lot of the decision making
+out of my life I I like this bigger
+picture idea you just talked about
+because I can very much relate to this
+this happened to me too when I sold the
+business that stuff just changed like my
+perspective on on economics on my own
+economic choices and all that changed
+how did that change for you because $3.5
+million is a lot of money and I know
+there's still taxes and all kinds of
+other things that come off this but
+still is a it's a seven figure deal how
+how did that impact the choices that you
+made both for your like for your life
+for your loved ones and and the
+structure of your day and maybe maybe
+also just stck for for what you care
+about at this point of course so I think
+you know one of the things we don't I
+mean our taxes aren't German taxes for
+sure but they're pretty damn close I
+mean um you know recently these taxes
+just going through the roof but you have
+to remember at that point I was already
+bootstrapped and we were already making
+140,000 a month so the thing was the the
+programmer salaried right so he's on a
+he's on a fixed schedule and he had
+bonuses and things of that nature but
+after you know the margins were over 90%
+because
+theost like $2,000 a month to run maybe
+and that's without like marketing costs
+and stuff like that because those are
+variable so for $22,000 a month pulling
+in that
+much it was just time though because I
+was you know listen I was the only I was
+the business half so when something
+would go wrong on the programming side
+which it always does you know I mean
+that's just what happens something
+crashes it breaks there's an
+update when that happens it's 3 in the
+morning it's 2 in the morning it's 5:00
+am. it doesn't matter what time you got
+to get up and you got to attend to your
+baby because when your baby's crying you
+have to get up and and do something
+about it and so the issue is I I'm
+sitting there going I'm I'm pulling 18
+hour days you know 16 18 hour days I
+really need to figure out what I need to
+prioritize in my life because at this
+point now I can start taking a seat back
+but I started looking at like getting
+CEOs and stuff like that but then I
+started thinking as a founder and you
+know this better than anyone else who is
+really going to take care of your
+business better than you can now I'm not
+talking about like the managing the
+project and and stuff like that but I'm
+talking about those 3 a. calls when
+there's an issue a global worldwide
+issue because you know we had we had
+customers in over a 100 countries and so
+there was never a nonprime hour because
+when the prime hours were over in
+America they were just starting
+somewhere else you know the the European
+Prime hours we had just we had maybe
+like a third of the customers in the
+European you know Spain Italy France and
+all the things so when it goes down in
+the middle of the night it's affecting
+that whole sector so I'm like you know I
+just felt like at at some point I needed
+to take a step back and I said you know
+what pandemic a lot of things in my life
+my wedding starting a family I just
+hyper focused on the business I said I
+think it's time to to kind of sell I
+want to start a family I want to you
+know kind of get everything situated in
+my life personally versus uh being hyper
+into the business but now that I'm out
+and exited um I do want to help other
+Founders one grow their business and
+help scale because it is hard I mean
+it's so hard when you yeah you got a a
+$500 Mr how do you how you get to 5,000
+how do you get to 50,000 I mean that's
+the those are the real questions and
+it's not just about a grind a Daily
+Grind doesn't you can be doing the same
+process over and over again and yeah you
+may see results but are they the most
+effective results you know and then
+there's also the fact of if Founders
+want to exit there's a lot to exiting
+that Founders have no idea because you
+don't even know what you don't know
+until you go through the process you
+yourself have been through a a nice exit
+you you can't even ex I mean you could
+it but there's things you don't know to
+to even think to ask and so helping
+other Founders um with that that's why
+I'm starting my YouTube channel it's a
+YouTube SAS
+saas um I managed to get that handle so
+I I know that you're you're gonna you're
+excited about that it is so cool it is
+it's G that's going to be a fun project
+what are you going to do there like how
+are you going to help founders with with
+that Journey on YouTube so one of the
+things I mean it's going to be all SAS
+obviously that's why I got the handle at
+SAS but the I'm I'm planning on doing
+three different uh topics one is going
+to be my journey and you know the things
+that I've learned along the way in
+building a a multi-million dollar
+business with one employee or one uh you
+know one person as a non-programmer so
+kind of going through those lessons that
+I've learned and how I scaled it all the
+different tactics I used um a lot of
+different uh roadmapping you know
+strategies and how to kind of best
+optimize your time then the other thing
+is doing reviews of Founders projects
+and they're all going to be pretty much
+glowing and you know if there's issues
+I'll I'll mention them but to be honest
+they're they're mainly going to be
+glowing reviews of be supportive yeah
+that's right supportive you know look as
+the as the buildin public Community you
+know you got to be supportive of the
+founders because you know what it it it
+is admirable that someone wants to take
+their time and say I'm done with the
+grind I'm done with the I'm done being
+the slave to the corporate or the you
+know working making money for someone
+else so I you have to support these
+people because they've got a dream and
+they're taking the step to at least try
+and that's that's what matters and if
+they tried four five six times okay what
+can how can we help how can I help them
+change the way they're doing things to
+make it a successful a successful
+product adventure and then the other
+thing would be uh founder interviews so
+after we do a bunch of reviews like
+let's say I review you know this really
+cool uh product that I just found um not
+too long ago it takes podcasts across
+the internet and it scrapes their it
+scrapes the podcasts and what it does is
+it transcribes all the podcast and it's
+doing like 600 6,000 an hour right now
+like crazy numbers but a product like
+that which would be so cool do a full
+review of the product show the landing
+page how it's doing it how it's
+beneficial the use cases um and then
+afterwards interview the founder because
+now they get two publicity segments they
+get the one of the the review of the
+product and then two hey how did you
+come up with the idea what's your plan
+next kind of similar to you know what
+most people are want to know you know on
+on YouTube The howtos Well I love
+that yeah for everybody who who doesn't
+get this little uh behind the scenes
+thing but that that is the project that
+I'm currently working on I'm doing a
+podcast scanning service that I'm not
+sure if it's a product or not like I'm
+working through this myself in public
+right now I'm using it as a the idea
+initially was to build it as a little
+marketing tool for my existing software
+business that I'm trying to Market but
+now it it's all getting complicated and
+one of the reasons that I I love just
+talking to you right now is because I
+can see that you really understand like
+the the struggle of a Founder wanting to
+build cool stuff and then coming to find
+there's another cool thing that I might
+want to build but you're only one person
+and you only have your day right your
+your 24 hours or whatever 12 16 hours
+you actually have of your day so I I
+love this idea I love the idea of of
+using media to to impact more people
+it's funny because you had six million
+daily users that's already a lot of
+people to impact with the a business but
+I also understand having gone the same
+like route as you have post Zas going
+into media um how how this has a
+different kind of impact now what I have
+I have a question for you here like is
+this um you could have just built
+another SAS that's always an option
+right like you could just done the exact
+same thing again bigger this time
+smaller this time whatever right could
+have been anything why choose media why
+you choose YouTube so I think the the
+big thing is I'm also still doing that
+so I'm also uh currently investing in
+five new SAS businesses per year that's
+kind of my own goal that I've set for
+myself my own metric whether it's
+building from scratch which I to be
+honest I don't want to do um I'll never
+be a solopreneur again if I'm going to
+build another business I'm GNA have
+Partners so a partner preneur is is
+probably the way I'm going to go because
+I don't want to doing it all yourself
+man it is it's a struggle and you know
+so whether I build it from scratch or I
+buy something off of a Marketplace or or
+what have you or just contact someone I
+found a pretty cool AI tool the other
+day that I was testing out and I was
+like man I would love to just get
+involved in this project and so I
+contacted them spoke to them and said
+hey you know how would x amount of
+dollar investment impact your bottom
+line how would it impact your growth um
+and so we're in discussion right now
+about how I can become a a significant
+partner in the business to help scale it
+and then bring some of those resources
+and some of those tools that I know how
+to do on my skill set and say hey let's
+take your business from 5,000 Mr let's
+see how we can double or triple or
+quadruple it in the next six to 12
+months so I I'm still doing that but I
+feel that media in in a some way and and
+to preface this my startup was build in
+stealth silent build in public is was
+not even a thing when I started building
+my I started building my product so I
+didn't even think to like oh let me just
+you know daily blog about every single
+thing that I've done like I you know I I
+yelled at the computer today because you
+know it crashed you know like I didn't
+even think you know that that was
+something people wanted to see so
+everything I did was in private which
+you could say is the traditionalist way
+of doing it or not I don't know but I
+certainly would go in the buil-in public
+route in the future because you get that
+built-in brand and that built-in
+audience and seeing the power of that
+brand loyalty as opposed to just being
+loyal to the product versus being loyal
+to the person and the product you build
+a a tighter is a tighter glue there so I
+think media though could help when
+you're explaining from a successful
+point of view what the the next steps
+are or helping them review or getting
+that that you know that content out
+there and I know there's a lot of
+content out there already but coming
+from someone who's done it I feel like I
+do have you know some valuable advice
+that I can help give to some people
+because I mean we did silly things like
+we had we had $25,000 contests for
+people to try and meet certain kpis I
+mean like it was like I did random like
+random I did publicity stunts like I did
+things that I mean it's without
+mentioning what the business is it's
+hard to describe but did a lot of wild
+things that could give people ideas and
+say wow that's that's pretty crazy
+that's awesome yeah if if you have more
+of these things to share without like
+you know going into too much detail I'd
+be interested because that that stuff
+that you wouldn't nor think about
+particularly if you like an introverted
+Tech origin solopreneur it's just even
+hearing about it can often just unlock
+ideas so hey shoot that's what I would
+like to say yeah I mean that's that's
+the thing I mean there's it really
+depends on what vertical you're in and
+what you're targeting but you know I
+mean if you're targeting Excel users I
+wouldn't say you know do a drop money
+from a helicopter that's probably not
+gonna probably not their thing but you
+know seeing people compete on the Excel
+you know
+Chann I mean that could get them pretty
+riled up and excited so you have to you
+know really know your audience but with
+that kind of just speak into what makes
+the audience tick and then kind of gear
+your you know gear your campaigns around
+it and it doesn't have to be ads like
+spending money on the ads you you still
+have to spend money in one way or
+another um and you use the revenue that
+you've generated from that once you've
+gotten to that point if you're not at
+the point of post Revenue though you
+need to uh the there's other steps you
+need to take prior to to to doing your
+your marketing campaigns though such as
+well I mean you know you need to First
+make sure your pricing is is on point
+that you're not you know keep
+gatekeeping the the product from people
+you need to determine if you're doing a
+premium model or if you're doing a
+explicitly paid model how low is your
+barrier to entry um you know what is
+your you know the average lifetime value
+of the customer um you know do you have
+heat mapping on your site to see what
+they're doing or where they're getting
+lost or if there's bugs on on the site
+that you didn't even know not bugs like
+codewise but bugs ux wise because ux is
+just as important as UI if you turn
+around and you go yeah the UI is perfect
+we Ed a react dashboard and it's it
+looks you know perfect or whatever but
+someone goes through the signup process
+and there's nine clicks to get just
+signed up well you know what there's a
+problem with your optimization there so
+I feel all of those need to be ironed
+out before you really start broads
+scaling it because that's you know you
+want a well oiled machine you don't want
+to just get in the car turn it on and
+floor it and Redline it because you're
+you're going to mess something up what
+you need to do is make sure check the
+oil check the you know the air check the
+filter check everything and say okay now
+it's perfectly you know QA and now we
+can go uh hit hit the track so between
+things like heat mapping and and
+measuring and probably recording
+sessions and all that kind of stuff
+that's more kind of a technical
+measuring way did you do any like in
+in-person customer interviews and just
+watch them used to a product no uh so I
+didn't actually do any of that because I
+didn't have enough time and um and I say
+when I say I didn't have enough time I
+what I really mean is I didn't know to
+do that back then um so I was just so
+into the the product before I started
+doing research on extensive like how can
+I increase the longevity of the customer
+how can I reduce churn I mean when I
+tell you I attended so many stupid
+webinars like from stripe sessions and
+from this one and that one and just like
+going through these things and most of
+them you can tune out after like you can
+log off after the first you know you
+join like halfway through because the
+first like 20 minutes is just you know
+fluff anyway but once you start getting
+into the the nitty-gritty or just get
+the PDF uh review afterwards you go that
+is an interesting thing that I can do
+maybe I I could take you know make the
+checkout process a little more seamless
+so we actually did that we we made the
+checkout process one click as opposed to
+three clicks and what we found was yeah
+it did actually increase the the numbers
+a little bit and so whether it was the
+same amount that they claim you know
+that's that's you know to be examined on
+a mass scale but you know there were
+tools that we use business intelligence
+is is such an important part of of
+bootstrapping because a lot of people
+they just look at their stripe data and
+they're like okay cool yeah I've got you
+know this and there's some churn and
+there's some LTV we use a product called
+metabase it's a it's not a well-known
+product I mean you know it is it's open
+source it's probably the best business
+intelligence tool that I've seen for
+General and that's you know we used it
+on a daily basis multiple times a day
+because it was live updating analytics
+from our database that we can see in
+real time Dollars numbers churn
+everything I mean when I tell you
+extensive we could see it was like
+Google analytics dashboard if if they
+went even crazier like Amazon like AWS
+like that's how complex this thing was
+but you can build your own queries and
+maps and stuff like that so you know
+having a good intelligence of what your
+customers are doing where they're
+failing why they're dropping off um that
+was another thing that we you know had
+to learn along the way was you know that
+post exit uh not post exit the sale but
+the post exit of post churn I should say
+for the customer that exit yeah
+surveying them yeah surveying them and
+saying like hey why did you leave not
+necessarily just like yeah we're not
+we'll we'll try to win them back but
+more so for our own edification to say
+okay yeah we need to we need to fix this
+because if they're leaving for a stupid
+reason that could have been fixed in two
+seconds that you know you you really
+need to business intelligence I think is
+one of the most important aspects that a
+Founder needs to really get a get a good
+grasp on this blows my mind every time
+when I when I hear people who really
+have done everything dive into the
+specifics and it just it just shows you
+how much there is to do when you run a
+business like this right like and even
+the technical side there are like
+hundreds of things that you need to
+think of and then there's the bi side
+and then there's the just the marketing
+site the sales s side that is that's a
+there's a lot of stuff you need to do
+and I think there's also a lot of advice
+out there right I guess we are kind of
+focused on trying to kind of even just
+funnel it into a shape into a cond that
+works for bootstrappers but there's like
+you said stripe there's stripe advice
+out there for businesses of all sizes
+right what should you do for turn if
+you're VC or if you're like bootstrap
+like how do you how do you pick the
+right advice that to me is always a hard
+question as somebody who gives advice
+even for myself to answer but how did
+you know what to follow and what not to
+follow so you really have to analyze
+what what uh your situation is and kind
+of say okay well if I'm looking at you
+know this many users this much revenue
+how you know this many sessions I mean
+you start have to you have to start
+going technical which again like I said
+I I can't program but I do understand
+that you know the technical aspects of
+it so when you start looking at how many
+sessions you have and the you know the
+time on the page and the the difference
+in how sticky it is you start looking
+for for those particular answers so
+stripe sessions yeah maybe it was okay
+you know you you start looking at some
+of these LinkedIn uh you know
+newsletters not really that great most
+of them they're like yeah but you know
+some of these sessions that they have on
+LinkedIn actually from the LinkedIn
+people because there you know they've
+got a lot of analytics over there you
+could start Gathering the data and you
+yeah a lot of it is you don't need a lot
+of it but there may just the problem is
+if you don't digest it you won't you may
+be missing that nugget that diamond in
+the rough that you go oh damn that's a
+freaking amazing idea that I should have
+I should have done but because you
+didn't see the whole thing or at least
+get the bullet point list you know throw
+it throw the PDF into chat gbt and just
+say summarize this for me Give me the
+give me the rundown I did that before
+when stripe sends out all their nonsense
+PDFs I just throw them in there and I'm
+like all right give me the top three
+like bullet points because I don't have
+time to scour 40 pages I just want to
+know like what's the big deal hey reduce
+your your time to check out hey reduce
+the uh the latency on this the time to
+first you know content paint you know I
+mean like there's so many different um
+you know advice out there but it really
+has to it really stems with identifying
+what issue you're struggling with first
+and then from there you ex you
+extrapolate the rest of the data that
+comes in you know based on the uh you
+know whichever data you're funneling
+that's a great framework like identify
+the pain point that you have as much as
+you can and then kind of I I love the
+idea that you mentioned like chat with
+PVF cuz we just talked about this you
+know one of those things that is is
+being built on top of all these PL but
+it's useful right if you have a prompt
+if you have a question that you need
+answered as clear or fuzzy as it might
+be you just throw it into the system the
+system the llm will think about it in
+context of this information and pull out
+what you need it's like your personal
+research assistant that is really cool H
+it's definitely going to replace a lot
+of jobs I mean as as someone who's
+actively looking to buy and acquire
+businesses right now SAS businesses like
+under like a quarter million right so
+I'm not looking for you know another $3
+million project to purchase or whatever
+but if I buy two or three quarter
+million dollar projects they're they're
+going to be you know they're going to be
+running they're going to be functional
+but to be honest on the marketplaces and
+I belong to a lot of them it's just like
+every third business is now an AI rapper
+with like a Tailwind rapper and an open
+AI or a Bard call like kind of thing and
+it's like all right but how many of
+these are there and how many people are
+they going to replace and so then that
+kind of makes you look for the future
+and you go okay well what's what's
+something that's not replaceable by AI
+right now and I'm talking about SAS wise
+not you know obviously you know plumbers
+or electricians or stuff like that I'm
+talking about right now what is AI gonna
+have a difficulty with content it they
+go it goes pretty pretty good with
+content right now you know so the
+problem is what identifying that I I'm a
+firm believer of marketplaces I think
+marketpl even though they're difficult
+to scale and and you know do well I
+think marketplaces and AI can't really
+replicate replicate that that well
+because you've got the buy side you've
+got the sell side there's no real you
+know way to content or or optimize for
+that you need both so I feel like
+marketplaces are one um you know there's
+you know Brands specific Brands I mean
+you can make brands with AI but they're
+they're not as good quality I think
+right now so there there's a lot to it
+so what I what I hear you say is that in
+in looking for things to buy or invest
+in you look for things where AI is not
+the main dish AI is a you know a
+facilitator for something that is so
+uniquely human I guess that an
+artificial thing cannot do it that is I
+think that's an interesting and
+important Point going forward building
+businesses right that is if you rely on
+AI as the thing and you don't have
+control over it because I've been
+building you know the podcast thing that
+you so carefully mentioned earlier which
+I'm really appreciative of that is all
+local right I'm running this on my own
+computer like this AI is owned by me I
+don't have to pay open AI anything to do
+this or license it or whatever in in the
+future there will be work that cannot be
+done on local machines because it's just
+so computationally intensive and then
+you depend on somebody else so is is
+that something that you very actively
+avoid when looking at businesses to buy
+in buy or invest in I don't want to say
+like I'm a you know avidly against it I
+just want to say that
+it's it's so easy to replicate now with
+AI that if you were to buy a business
+and yeah it's got customers and it's got
+you know x amount house you you need
+some sort of moat you know that's that's
+a big thing that that bootstrappers talk
+about what's my moat what's your moat to
+prevent someone from being able to to
+look at the the um the head shot uh you
+know the AI head shot how quickly did
+versel all of a sudden offer that as
+just a a one-click deploy option and now
+all of a sudden that business model is
+just because now it's easily deployed in
+one one click yeah I guess wasn't it the
+same with like uh like jet gpts like the
+when open AI released the gpts and
+everybody was like yeah now all these
+rappers effectively have been replicated
+or are easily rep replicatable I think
+like I was seeing Damon Chen talking
+about this too because like you know
+chat. or what pdf. or whatever his
+product is he was like yeah sure you
+could replicate it somewhat as a GPT but
+all the things around it like all the
+actual integration and the you know the
+data analysis part and and the ease of
+use I I guess the job to be done
+workflow integration like what do I need
+this for right that stuff that is where
+SAS really shines SAS is the integ
+integrator of things and one of the
+things can be AI but to make the whole
+thing about AI I guess that's also
+that's the risky part right right the
+the risky part is if you're building a
+tool versus building on top of AI yes
+because that that I think is the the
+risk there because yeah listen you could
+turn around and build another AI tweet
+generator or AI tweet reper I mean how
+many of those are out there now I mean
+within the past two months I feel like
+I've seen at least 10 pop up and so I'm
+like okay how many of obviously the Moe
+is not there because you've got every
+everybody and their you know their
+brother making one and they they C they
+they're able to make a Chrome extension
+in in five minutes and you know the AI
+integration takes you know no no time at
+all so it's like okay why would I buy
+something like that I mean you know
+there's really no purpose because even
+if you train the model okay I could
+train it differently too it's still
+something that just can be easily
+accessed now if you were to have a
+business that is let's say using you
+know pie torch or something that's you
+know that you have to customly custom
+build to edit a video on the fly or
+something like that yeah AI can do it
+but it's a little bit more complex a
+little more integrated so I think
+getting something you know making your
+moat as you know as deep and as wide as
+possible to make it to fend off compet
+potential poachers and competitors is
+going to be one of the keys that's
+something I think a lot about with my
+own projects as well like this this
+whole what what is the mode for this
+because technology is it's not only that
+that it's easy to build stuff right
+that's for a coder you can build
+anything if you just put your mind to it
+but even AI as a tool to help you build
+like the was it github's co-pilot and
+the AI code Builders now like I can
+literally and I often do this as I could
+just ask the thing a question and it
+comes with the full functionally working
+code that I could just put in and it
+works like and and if I can do this
+everybody can do this right like
+everything gets
+easier probably they can some people
+they're like oh I have pre-written Pro
+prompts that you know I've trained it
+just I click what I click control one
+and it's creates a website and I'm like
+oh my God like how's this going to be in
+the future yeah and and and that's the
+thing like this this technology is like
+what two years old at Max that blows my
+mind as well like we have already
+integrated these things that this AI as
+a helping tool as an assistant as a
+foundation of our businesses and the
+technology in in its public State I know
+open AI is like 9 years old or even even
+older than this but they the chat gpt3
+was the big thing in 3.5 and four now
+and in five soon right that's that's GPT
+that's gonna be it's gonna be even
+crazier than four which was already
+crazy like this stuff is coming so fast
+at us that I I often when when you take
+take the the visual um of the mo I
+always thinking about you know this this
+uh just a castle and there's a mo around
+it now it feels like you don't even have
+time to just get get in there with your
+spade and and get the mode built before
+the mode is already like drowned it's
+already like they don't have the time to
+even build the mode before new
+technology is overtaken that's so crazy
+I think the issue is you have to
+identify the Mt prior to building I
+think that's that that's one of the big
+things because if you just go into this
+going oh I'm just going to build this I
+think you go well how can I prevent
+someone else from taking it so what I
+love about the podcast thing
+is yeah someone could replicate that
+pretty easily but once you've got those
+transcripts they would have to spend the
+time and energy and hours to get that
+data as well so now they would also have
+to build it and scrape it from you so
+now you're adding an extra layer of
+difficulty for them to to to do
+something so it then the value becomes
+in hey we've got a database of five
+million podcasts how crazy is that and
+that is already valuable right the
+database itself has value exactly and
+every day that it runs the database
+gains more value and adds to the Moe so
+that is a in and of itself you know like
+having an API or having something that
+gatekeep not just the feature set but
+the actual information is H is valuing
+and of itself and emote well thanks for
+validating my business ideas I really
+appreciate it no it's really cool and
+and let me validate yours because I
+think your YouTube channel and the work
+that you're going to be doing on on
+there at YouTube at SAS which is
+hilarious and wonderful I'm really
+looking forward to this because I I
+think think like let's just say with the
+um it's not the cancellation but you
+know the the the stopping of the Indie
+hackers podcast which is one of the
+biggest podcasts in our space that just
+doesn't release new episodes anymore
+because its Founders have other things
+to do build a community that takes a lot
+of time and work as well I think our our
+space the the Indie hacker technical or
+not doesn't really matter like anybody
+who wants to build a business that is
+theirs that space deserves more content
+that caters to the curiosity to their
+need to connect with Founders to their
+need to see other people's work and I
+love all three of these right you have
+the the educational the advice stuff
+from your own Journey you have the
+interviews where people can feel more
+connected to other Founders and feel
+less alone in their journey and then
+they can also see other products and
+other things that they don't care about
+it's not their their vertical or
+whatever it is not their Niche they just
+don't care but they care that something
+exists for that and they can learn from
+that they can learn about how the ux is
+designed how design Works how features
+are prioritized road maps are built I
+love this kind of stuff so I'm really
+really looking forward to you making
+this happen and if you need any help I'm
+here I can help you with this stuff as
+well we prior to this uh at me hitting
+the record button we were like 15
+minutes into designing a studio and and
+soundproofing it all of this stuff that
+there obviously are better resources
+than me because I'm also just an amateur
+in this but hey I'm I'm happy to to
+extend a helping hand here absolutely
+and the other thing is about the YouTube
+channel for the the reviews of the tools
+and the reviews of the SAS products by
+the founders one they'll love getting
+the review of their product that it's
+going to be glowing but two people who
+are watching it may not even know that
+something like that exists and go right
+yes damn let me go check that out
+because you don't there's tools like I
+didn't even know about senty and sentury
+Io if you I'm using it for podl and for
+my new project surprised so prior to
+seeing something like that I'm like oh
+my God this is this is amazing and so
+it's not like it's a I mean it is a it's
+a big product now but back then it was
+not that like not that well known and if
+you find something that you go oh that's
+a fantastic idea I could use it for my
+business just like metabase just like HT
+jar just like I mean there's so many
+tools out there that could optimize your
+I mean it's yeah now that you mention
+this like yesterday I was having a
+conversation on Twitter asking like
+where should I log my my error logs for
+my for my um application pod line as
+it's running because I wanted to a
+cheaper place than you know the
+Enterprise solution solutions that
+charge you like thousands of dollars a
+year I I don't want to do this with a
+boot project and somebody showed me a
+product like flare which is built for
+for larel applications like mine that I
+could just plug in and I did took me
+like two minutes now I have a logging
+solution for 10 bucks a month I didn't
+know that existed I almost paid $700 per
+year and now I'm paying 70 or like 120
+it it it makes it makes such a big
+difference just to share these things
+the little things on the tech stack and
+in the implementation side tiny little
+pieces of knowledge though that's all we
+that's all we need right sometimes just
+a little push just just a little here's
+a breadcrumb and you go on your own
+trail really what it is this is amazing
+like I I didn't even think that this
+could be used for my product and that's
+hopefully what I plan to do with at SAS
+on YouTube is just kind of just make it
+a a place for everything SAS the tools
+the founders the journey yeah I think
+it's I think it should be good um and
+coming you know probably next month or
+the month after just because I still got
+to build this studio this this roomate
+room ain't it I mean this is it's it's
+an echo chamber there's you
+know I need to be sweating when I the on
+me like no LED just all you know just
+straight movie lights from the 50s yeah
+that's right y exactly lamps I'm ready
+well you'll figure it out that's the
+thing right when I started I was like in
+in the worst possible corner of my
+unfinished basement and I had like
+probably also the worst choices in
+lighting the worst choices in everything
+worst mic worst camera I I was using
+like not even a good phone I was just
+using the crappiest little thing it all
+works out because the idea is more
+important than funny enough more
+important than the execution in the
+beginning at least is the idea when it
+comes to Media right if people get value
+from what you share you could be like
+filming it through a potato they would
+still watch it because the idea it's
+it's the content that matters and that
+being said if people would like to
+follow you on your journey and I we
+already mentioned your SAS handle on on
+YouTube a couple times but if they
+wanted to follow you in particular as a
+founder and your other projects where
+should they go so uh the best place
+would just find me on X I mean and
+that's at Spence Patterson I couldn't
+get the r because someone else had that
+already but I have to so now all my I I
+uniformly changed all my handles on
+LinkedIn and everything to be at Spence
+Patterson so I've gone by that nickname
+before so I'll just uh I guess that's
+how I'm going to be referred to now in
+the future so Spence Patterson on X
+Spence Patterson on LinkedIn however you
+want to connect to me um I would love to
+hear about Founders Journeys because I
+am going to be building a YouTube
+community and and uh doing videos and
+also if you have a project that is
+really interesting like you know a
+podcast scraper or something like that
+um you know I I would love to invest as
+well if it's if it's something that's in
+the vertical that I'm comfortable with
+or if it's you know something that's
+just unique and
+groundbreaking hey what what could a
+little Runway help with in terms of
+scale you know and growth and also some
+advice from someone who's done it before
+so yeah uh my my new title I guess will
+just be investor influencer that'll be
+new title I got to say like if if you
+that's the thing with being an educator
+like an educator wants to influence
+right you want want to influence in the
+best possible way the people that you
+trying to educate and if you're a
+teacher on YouTube on on X on or Twitter
+as uh the more traditionalists would
+call it you wherever you go if if you
+consider your work to be impactful
+influence teaching whatever it is then
+calling yourself an influencer is fine
+we're not in Dubai taking selfies but we
+are sitting in our Mo mostly not
+soundproof rooms trying to help other
+people build businesses I think that's
+perfectly fine I think it's great
+because I think a lot of people are in
+the same non- soundproof rooms going how
+do I EXA right how do I get my business
+to where both of them have gotten it
+before and that's that's the goal is to
+be able to help other people escape that
+uh that kind of societal chains of you
+know trading time for money and I think
+that that's really if we could get more
+people to stop trading their time for
+money I think that would it would make
+the world a better place and that's
+coming from an xday Trader so you know
+right thank you so much for being on the
+show that was a a very insightful and
+very hopeful very positive conversation
+I really appreciate it Spencer thank you
+so much thank you so thank you so much
+for having me on I appreciate it I look
+forward to next time as well
+absolutely and that's it for today I
+will now briefly thank my sponsor
+acquire. comom imagine this you're a
+Founder who's built a really solid SAS
+product you acquired all those customers
+and everything is generating really
+consistent monthly recurring Revenue
+that's the dream of every SAS founder
+right problem is you're not growing for
+whatever reason maybe it's lack of skill
+or lack of focus or PL lack of interest
+you don't know you just feel stuck in
+your business with your business what
+should you do well the story story that
+I would like to hear is that you buckled
+down you reignited the fire and you
+started working on the business not just
+in the business and all those things you
+did like audience building and marketing
+and sales and Outreach they really
+helped you to go down this road 6 months
+on the road making all that money you
+tripled your revenue and you have this
+hyper successful business that is the
+dream the reality unfortunately is not
+as simple as this and the situation that
+you might find yourself in is looking
+different for every single founder who's
+facing this Crossroad this problem is
+common but it looks different every time
+but what doesn't look different every
+time is the story that here it just ends
+up being one of inaction and stagnation
+because the business becomes less and
+less valuable over time and then
+eventually completely worthless if you
+don't do anything so if you find
+yourself here already at this point or
+you think your story is likely headed
+down a similar Road I would consider a
+third option and that is selling your
+business on inquire.com because you
+capitalizing on the value of your time
+today is a pretty smart move it's
+certainly better than not doing anything
+and ac.com is free to list they've
+helped hundreds of Founders already just
+go check it out at tr. aire.com arvit
+it's me and see for yourself if this is
+the right option for you your business
+at this time you might just want to wait
+a bit and see if it works out half a
+year from now or a year from now just
+check it out it's always good to be in
+the know thank you for listening to the
+boot founder today I really appreciate
+that you can find me on Twitter at AIT a
+KL and you find my books and my Twitter
+course T too if you want to support me
+on this show please subscribe to my
+YouTube channel get the podcast in your
+podcast player of choice whatever that
+might be do let me know it would be
+interesting to see and leave a rating
+and a review by going to rate thisp
+podcast.com founder it really makes a
+big difference if you show up there
+because then this podcast shows up in
+other people's feeds and that's I think
+where we all would like it to be just
+helping other people learn and see and
+understand new things any of this will
+help to show I really appreciate it
+thank you so much for listening have a
+wonderful day and
+bye-bye

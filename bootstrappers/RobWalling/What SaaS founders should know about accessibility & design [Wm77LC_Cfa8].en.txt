@@ -1,0 +1,838 @@
+﻿[Music]
+we're live welcome to today's episode of
+microconf on air i'm your host rob
+walling every other wednesday at 1 p.m
+eastern 10 a.m pacific we live stream
+for 30 minutes and we cover topics
+related to building and growing
+ambitious sas startups that bring us
+freedom and purpose and allow us to
+maintain healthy relationships sometimes
+we show up and we have haircut on our
+face that's bothering us if you guys
+can't see that it must look like a crazy
+person thanks so much for joining us
+again um
+we
+had to postpone last week so i think we
+have two shows in two weeks we're doing
+one today and then one again next
+wednesday but it's good to have you back
+regular listeners regular uh audience
+members and if this is your first time
+welcome as i said we do these every
+other week and we also
+float these out we post them to youtube
+and then we put them on the micro conf
+podcast feed so if you're not checking
+out microsoft podcast.com
+that rss feed includes these episodes
+which is really nice in case you missed
+one you can do it asynchronously you can
+1.5 x them as i do then we also do
+microconf refresh episodes where we go
+back over the best taught from their
+best talks of the last 10 11 years of
+microconf and we pulled the audio and
+put them in that feed and then we have
+some other special
+kind of special audio stuff that goes on
+that as well
+so today we're going to be talking about
+what sas founders need to know about
+accessibility
+in design
+so it's um accessibility for sas
+founders in essence and today i'm
+welcoming welcoming an expert on the
+subject her name is bet hannan
+she runs bhb's websites she's a web
+advisor to startups
+uh
+wordpress accessibility and gravity
+forms
+she is
+i'm trying to think she says her
+pronouns are she and her she's a wife a
+mom a grandma and an aspiring
+anti-racist anti-racist bet hannah and
+welcome to the show great good to be
+here thank you and you're you're calling
+in are you in portland is that right no
+i'm in bend which is about three and a
+half hours southeast on the other side
+of the mountain range yep so still in
+oregon but because you you and i you
+know so folks know we've met each other
+12 12-ish years ago and we both lived in
+fresno and then i relocated to
+minneapolis u to bend it sounds like and
+then we ran into each other a couple
+weeks ago at uh microconf portland local
+yeah we'll see you there yeah so let's
+kick us off i have some notes here i
+want to talk through you know i'm so
+i've
+i used to be a software developer not so
+much anymore but i remember
+accessibility was always
+a
+thing that was on our mind but it was
+often pushed to the corner right or it
+was pushed to like the last thing of
+like oh now we need to go think about
+that and tack it on so so folks knows to
+set the stage like what is web
+accessibility yeah and that that way of
+that that
+trend or that habit of pushing it out to
+the end is the most expensive way to do
+accessibility by the way
+um so web accessibility is really about
+um on online platforms so websites but
+also
+other kinds of platforms sas other
+things it's making those
+um
+accessible or usable to the broadest
+range of people including people with
+disabilities so people who are blind
+have a tool called a screen reader and
+it basically reads out loud to them all
+of the content and structure of the page
+if it's properly formatted for that so
+for example if your form has aria labels
+on it that can read out loud those
+things um people who um have mobility
+impairments they can't use a mouse but
+uh they can use other all kinds of
+assistive devices you know there are
+thousands of them stephen hawking had a
+little cheek sensor that he could kind
+of kind of wink and blink and move
+around the web page all of those and at
+first when i first started i thought oh
+my gosh there's thousands of those
+devices how would i ever account for all
+of that well it all comes down to
+keyboard navigation so if your
+program your sas or your website is
+keyboard navigable if you can go to the
+site and start tapping the tab key or
+the shift tab key and you can get around
+then you know that's part of
+accessibility but accessibility is much
+broader than that too it includes things
+like
+color contrast for people with visual
+impairments but also you know some of us
+that are over 50 now having that kind of
+issues with visibility and eyes are
+changing
+people who are color blind and we even
+start to talk about things like
+trying to be um trying to help people
+who have anxiety or depression or
+reading disabilities to you know you you
+want to break up your uh break up your
+process or let people know where they
+are in the process that reduces anxiety
+so all kinds of things that you can
+include in it in accessibility that's
+really interesting and so
+you know if someone's out there let's
+say a founder right now has has a sas
+app that's doing a few grand a month and
+they're trying to get traction and such
+and they're wondering
+like
+you know what portion of the population
+or like how many people are impacted by
+this because often times i mean you know
+i know it's not the same but if i'm
+running a sas app and one percent of my
+user base will use a feature right or
+one percent of my user base is
+requesting a feature usually i don't
+prioritize it i know accessibility is
+different than building a feature but
+but the idea is you know we have to
+prioritize these things so give us an
+idea so a couple things well uh you know
+the the un says about 15 worldwide
+globally but uh cdc and other developed
+nations put that that number higher 20
+to 25 of all u.s adults and so we think
+that those um that higher number is
+probably more accurate in terms of
+reporting
+and that's at any one time and that is
+for people who have a permanent or a
+temporary disability you know if i break
+my hand really badly and i can't use a
+mouse for a while that's a temporary
+disability and so it can be
+a much bigger percentage of people than
+i would have ever imagined and you know
+if you
+you could spend all kinds of marketing
+money trying to increase your audience
+by even just five percent but you know
+if you're trying to make things
+accessible you can actually
+increase that audience by quite a bit
+and so that's that's a alone is a really
+great reason to start to think about
+making things accessible you know the
+other thing is uh depending on what you
+do and um and what you're offering you
+may have some legal requirements to make
+your platform or your
+site accessible
+people are being sued under the
+americans with disabilities act that's
+the public accommodations section and so
+um you know that's not the best reason
+to make
+things accessible but you know that's
+that's a a really good motivation for a
+lot of people is to try and avoid
+getting sued
+and you know at your day job running
+your consulting firm i know uh you know
+your h1 on your website is we build
+accessible websites that help grow your
+business do you
+only design and build uh your own well
+for for clients or do you also come in
+do clients ever call you in and they're
+like look we're halfway through the
+thing and we need you to consult and
+help us like okay so you do both i mean
+you're like we do both and here's the
+you know we we
+we don't build anything that's not
+accessible i mean that's just an
+investment in our brand right we uh and
+so once in a while we'll we'll have that
+sort of issue with the client where
+we'll say you know look this uh salmon
+colored button with the white font that
+doesn't meet a color contrast guideline
+and you know sometimes once in a while
+they'll sign off and you know totally
+release this reliability and
+agree that they will pay all of our
+costs if they ever get sued over all
+those kinds of legal things right you
+know to get out of it but but you know
+we really put a big investment in trying
+to make things accessible right yeah we
+fix things too so yeah what got you into
+this i know you know when last time you
+and i talked 10 years ago i think you
+were doing wordpress consulting but how
+what was the path that got you at access
+yeah we still do primarily wordpress in
+terms of our builds and we work with all
+kinds of platforms of course doing uh
+kind of audits and accessibility kind of
+feedback and consulting but uh what got
+us into is actually from central valley
+california so westland's water district
+is a big agricultural water district in
+california and they're actually
+structurally a part of the state of
+california their special district and
+that means because their government that
+they have to be accessible they have a
+compliance requirement and we had been
+helping them with their wordpress
+website for a couple years and then they
+came to us and said hey we
+we have this we are aware we now have
+this big compliance issue and so um we
+at first said hey let us you know help
+you connect you with people who know way
+more about this and they would well
+yeah bring in those people but we want
+you to be able to kind of be the ongoing
+partner for this and that was you know
+once we got in and we
+uh the first time i saw
+a person who was blind
+navigate at a conference at the
+registration table for a conference
+go on their phone to the conference
+website
+she's got her earbud in one side and
+she's she's listening right she's going
+she turns to me and she says where's the
+banjo room
+and i'm like
+like she got everything she needed
+without having to ask people or be
+dependent or what and that sense of
+wow the impact that you can make on
+people's lives that you can help them
+be
+independent and you know and then after
+that hearing horror stories from people
+where you know they have to depend on
+a stranger at the atm to help them with
+their banking or you know some of those
+kinds of things it's really you want to
+you know you just want to make the world
+a more
+i mean
+it's kind of a karma thing too right
+yeah you know it's it's just a really
+incredible thing to feel like you're
+changing
+the
+impact in people's lives in that one
+yeah
+yeah and it's an incredible time in
+history right because we have these
+mobile computers in our pocket
+with incredible visual abilities i mean
+i have an app that i can take a picture
+of like a you know a sign in german and
+it translates it to english right which
+is incredible and 20 years ago 25 years
+ago i'm imagining if i'm hearing
+impaired or i'm blind
+you have probably clunky big devices if
+you have anything at all to help me
+navigate the world right and actually
+all of those things a lot of those kind
+of tools that we depend on today
+all started out as
+tools for people with disabilities like
+the ai stuff all of the google home and
+alexa and all of those things all of
+those things really started as kind of
+um tools for to help people with
+disability and then kind of cross over
+into the mainstream and really there's
+kind of a parallel when you make your
+website more accessible you're really
+improving the user experience for
+everybody right and i sometimes call
+that the curb cut effect right curb cuts
+are originally for wheelchairs or you
+know carts mobility cards but we all use
+the curb cuts right when we're biking or
+using strollers or a lot of they are
+dragging our luggage and so you know
+it's a it's a way that you can improve
+that user experience for everybody yeah
+if uh folks listening or watching if you
+have a question please type that into
+our slack channel at microconf on air
+producer xander we'll bring those
+questions in it's always good to have
+audience participation while we're
+waiting on on questions um
+accessibility
+on the web especially
+has been i know there's a lot of overlap
+with seo yeah you want you want to talk
+us through that yeah so a lot of what
+makes uh
+websites accessible in terms of things
+like alt text on your images or your
+proper heading structure with your h
+tags so one and one only h
+h1 tag and then properly nested all the
+way down you know all of those things
+are also things that google
+is using for and other search engines
+for ranking your site and so when you do
+accessibility right in terms of putting
+all those other things together all of
+the schema pieces all of those all get
+pulled into screen readers and keyboard
+navigation for for accessibility so you
+know when you make your site accessible
+you're almost always definitely
+improving your seo as well
+and i you know you you had mentioned
+something about the opportunity of
+having accessibility improving your
+churn your churn rates if you're let's
+say you're a sas app
+folks can cancel talk me through that
+yeah so um we know that statistically
+disabilities increase as people age we
+could think about that just even like
+vision related changes but all kinds of
+other
+disabilities you know as you have more
+exposure you can have more accidents you
+can you know lose a hand or you know all
+kinds of things so disabilities increase
+as people age so making your site
+accessible mean is a cup in a sense an
+investment in your current customers
+right your current customers can stay
+with you as they develop disabilities
+because you're making it accessible for
+them
+got it
+yeah that makes a lot of sense looks
+like we have a question from
+uh someone in the audience what are some
+of the biggest mistakes you see people
+um
+the biggest mistakes you see people
+making when trying to make their product
+accessible i'd imagine the big one is
+they don't they don't even think about
+it so maybe aside from that yeah they
+don't at all and then the next one
+i mean i'll talk about some of the
+specifics of it extensively but the
+other one is they they wait until the
+end to tack it on and then it's really
+hard to go back and kind of
+retrofit things it's easier if you're
+starting and building things out to
+think about accessibility from the
+beginning in terms of even things like
+color
+choices for your design that are going
+to be good for making the correct
+buttons and color font contrast right so
+things like that that are harder to
+change once you get them established um
+so uh
+you know it it doesn't sound like that
+but then once you have collab i mean you
+know it starts to add up so you you want
+to
+definitely think about that going going
+forward and then
+all of the coding
+common places for where people could
+make a quick impact are
+um going to be alt text on your images
+not all images i mean you've got to read
+on that if it's a decorative image like
+a spacer or a divider that doesn't get
+an alt text but it gets all you know
+just has nothing there um but but all
+all text on images properly nested h
+tags and then color contrast with your
+fonts those are the kind of the big
+three if you take care of those that's
+generally speaking about uh i would say
+you know 75 percent of all of your
+accessibility issues the one thing to
+watch out for though is there are uh
+well a couple things one is there are
+automated ai devices that will let you
+test your website accessibility you can
+put your your url
+into an automated tester and it'll spit
+out kind of a grade or you know give you
+a list of those issues those automated
+ai testing only catches about 30 percent
+of accessibility issues so you will
+always want to go back because a lot of
+the accessibility guidelines and things
+are really context driven right ai can
+tell that you
+do or don't have alt text on an image
+but it can't tell whether that's really
+good alt text right is the alt text you
+know jpeg 54693 that's not
+accessible really right is it uh
+is it got a
+alt text that's really giving context so
+only about 30 and then um for
+many sites there are growing there are
+growing sas companies that are putting
+what's called overlays on so they
+purport to give you you know one line of
+javascript or you know a plug-in on your
+wordpress site and they will make your
+site accessible well those sites are
+driven by that ai so they're really only
+catching
+that little bit
+and
+they
+they're they're really marketing they're
+playing on people's fears about lawsuits
+but if you read the fine print they
+don't stand behind you on the lawsuit
+piece right there's a lot that's on you
+in terms of of that compliance overlays
+often
+also
+clash or or
+create conflicts with the existing tools
+that disabled users already have on
+their machines rendering neither of them
+functional so they often can make things
+even worse it's a great website called
+overlayfactsheet.com
+that explains
+how all that works and that's that's a
+really great place to start
+that's cool so i like that summary i was
+going to ask you you know what are the
+two or three things that people should
+focus on and you know you just laid
+those out
+um
+let's see
+yeah so
+um
+we talked about a lot of things i mean
+one of the things we haven't talked
+about yet is that you know making your
+uh your platform your sas your website
+accessible can really be an investment
+in your own brand so there's a lot of
+um uh
+studies show that around 60 percent or
+more of buyers will be values driven
+buyers so if they have two choices and
+they alert they can they will either
+avoid or
+or
+or buy from
+a particular vendor based on the values
+that are being shown there right we want
+to buy from the local people who are
+supporting our community or we want to
+we're going to boycott uh the the
+company that uses a sweatshop right and
+so those values driven buyers are huge
+and so if you have competition
+that's doing the same making that
+investment in
+making your site more accessible says
+that you want to be more inclusive right
+and it's not just inclusive of people
+who have have a disability but if i
+if i
+have a friend or family member that has
+a disability then i care about how
+they're treated in the world right so
+for example uh several years back um i
+sent a a calendly link to a blind vendor
+that was going to help a blind
+contractor that was going to help us on
+a project
+to schedule with me and she had to get
+back to me to say she couldn't use that
+link because it wasn't accessible the
+calendly picker was not accessible
+so i got back to them and i learned that
+it was a problem that had been
+identified for them they knew about it
+they were they say they had something in
+progress now that's happens a lot you'll
+hear back oh yeah we have something in
+the works and then it
+you know how it is with sales companies
+right it's not a high priority it takes
+a long long time but pretty fairly
+quickly within a few months they came
+back and they're not you know calendly
+isn't perfect with accessibility but
+it's now usable right but if i
+if i didn't feel like that was the best
+choice and going to be accessible for
+the people that i care about i would
+have found a different vendor right i
+would have gone to something else right
+and so those kinds of value driven
+pieces can give you an edge in the
+market too it's an investment in your
+own brand
+um and typically we see that when people
+put like an accessibility statement on
+their website or their sas and it
+typically says oh we want this to be
+workable for the most people
+we're trying to
+use the
+website content accessibility guidelines
+wiki 2.1 at this standard and then let
+us know if you have problems because in
+reality it's
+you know
+i would say
+it's it's not realist no site no
+platform is probably 100 accessible
+right and it's a journey you're always
+improving your accessibility
+um and
+and it's impossible when you start
+thinking about it to when you start
+talking about people with multiple
+intersecting disabilities right right
+right so there's it's really hard to
+accommodate you can't even begin to
+think for every edge case of that but
+you can if somebody comes to you and
+says hey i need i need transcripts with
+those videos
+well maybe that's something you can
+figure out you could do right right
+right how do the i mean you know you
+said no one's 100 percent um
+accessible which makes sense but like
+how did some of the big players like
+google
+facebook
+apple
+you know how do they do on there just
+with their maybe their web apps like
+have you looked ever looked through
+their sites and thought to yourself they
+were doing a pretty good job or is it
+like
+you know i haven't looked at those
+actually i do look at people's websites
+for accessibility when i visit them you
+know and and uh we we look at things uh
+i it's kind of like you know when you
+encounter another sas app you look at
+how different it's kind of a little
+quirk right well yeah that's what you do
+day to day right you think about those
+those big companies like google and
+microsoft and app they have
+accessibility experts in-house trying to
+work on on things so um it's it's really
+the harder the smaller to medium sized
+companies that really have a struggle
+yep
+yep yep um
+but you can get i mean the the way that
+you can work on this is i mean you can
+you can do some reading you can do some
+learning and there's the standards you
+can read its documentation so that's
+what i was going to ask is where is but
+is there like if i were a developer and
+i'm like solo founder barely scraping by
+i don't want to read docs but i but i
+might be open to reading like a summary
+you know or like here are the top 5 or
+10 things do you know of a good resource
+online that you could send people to to
+be like hey this is the 80 20 of it
+well partly uh it's
+there are some good
+you know
+webinars presentations you know
+recordings of some of those that are
+kind of some of that basic piece and we
+talked about those three kind of big
+things at the beginning but the three
+things you could do so some of it is
+like starting to take care of those
+things um but also you can go to
+dqdeque.com
+and they have um they are a services
+company but they have a learning section
+okay and they they will go to
+uh bigger companies and do kind of
+training for all their content creators
+but they also have some on-demand
+courses and the on-demand courses are
+pretty good they will help you get a
+better sense of you know what is
+accessibility how does it work and then
+uh there they offer some of those
+training pieces for folks that are
+getting ready to take the exam but they
+can be very helpful for folks that are
+um you know just wanting to get their
+feet wet a little deeper in terms of the
+development pieces of that
+you know another thing that you can do
+is uh and
+this is when you have a little a little
+more revenue right when you have some
+money to spend on it and that is you can
+get what's called an audit
+and so an accessibility audit if you're
+gonna have them do
+every single url of your website or
+every single view of your app that can
+get super expensive and so typically
+what you see is something that's called
+a sampling audit so you're gonna look
+you're often able to get
+10 or 15 or 20 views audited and you can
+extrapolate from there you know that if
+it has a this particular layout and this
+format has a problem then it's all way
+all of those type are going to have a
+problem right right okay so that's a way
+to get some feedback and an audit should
+not just include some automated testing
+but it should have some human testing by
+trained developers and or even people
+with disabilities then it's going to
+give you an exhaustive report of what
+was checked and what you need you know
+what are the violations and what do you
+need to fix and the best reports are the
+ones that are going to give you kind of
+just some
+also in terms of kind of almost
+consultation and advice you should work
+on this verse this is the most important
+problem
+these other things need to be taken care
+of these things can be done without by
+someone without technical experience
+right right right so
+yeah that's kind of nice would you how
+comfortable would you feel if we pulled
+up the microcomp website and you just
+taking a peek at it and saying oh here's
+where you're doing well here's where
+you're not we're on squarespace so we
+are limited in like our page speed is
+not great and there's just no way around
+it with squarespace but i'm sure that
+there there have to be some kind of
+low-hanging fruit maybe some things
+we're doing well and things were not too
+yeah can i share my screen
+i don't know
+yeah there's a show
+yeah okay
+sharing tubes
+well it says two monitors but i don't do
+that
+sure
+okay because you need to actually be
+able to hover over right and see that
+so producer xander if you can i don't
+know if you have her screener
+isn't it microcoff.com yes
+and i work in pro
+you conferences my screen
+it is not showing up as a shared screen
+producer xander says so maybe he it
+looks like he has
+uh oh wait wait wait hang on here we go
+sure
+now you got it
+looks great okay um there is a um
+a a a chrome extension
+call for wave so wave
+dot webaim.org
+is a uh it gives one of these automated
+accessibility tools so this is an
+automated tester
+right and so it comes up and the thing
+to know about these automated testers is
+a they only get 30
+but b sometimes there are false
+positives and false negatives sure
+so um so you're you're looking at that
+and so the big thing when we're looking
+right away is some contrast pieces right
+so
+uh the the white on the yellow doesn't
+meet
+contrast um
+ratios like you're looking at the ratio
+between the the the yellow golden rod
+background and the white font and it
+doesn't meet the minimum 1.85 to one
+what should the ratio be minimum right
+you know can you make it whoops that's
+lighter all right can you
+it's it's suppose it depends on the size
+of the text down here right you know so
+right so you could get
+it could get darker but you know you got
+you'll have to play with it right in
+terms of what the design piece just have
+no that's not and exactly and this is
+probably not uh this uh whatever this is
+up here
+yeah well that's yeah maybe it's only
+the golden rod
+huh
+yeah
+looks like it's mostly just that golden
+round on the way
+so you might switch that to black and it
+might be fine because you can see down
+here this is okay or the dark gray right
+you know you can see that that's okay so
+maybe you just want to instead of white
+on things you just want the block that
+would be quick fix
+right and so then also it'll help you
+look at your structure
+um
+you know
+right away you've got one h1 uh well
+you've got two h1s it looks like so you
+want one and only one each one on the
+page that's the page title
+in a screen reader right and then you
+want to everything under that so maybe
+this gets pumped to an h2 and all of
+these h3s right
+um
+and some missing alt text on images
+um the contrast
+suspicious alter text i don't know what
+that's funny
+but i'm not sure what that means but
+um
+anyway then you got some you know some
+checks you got some
+things are working well some greens
+flexes yes yeah yeah i mean the
+designers who did this are pretty
+they're pretty sharp and they are
+accessibility aware but i you know it
+maybe wasn't like you said no no 100
+right yeah exactly exactly so that's
+cool
+awesome well yeah thanks thanks for uh
+thanks for running through that and
+thank you well thanks for being willing
+to do that because that's kind of like
+you know it's kind of a vulnerability oh
+totally because it could be a
+unmitigated disaster but i had i had
+confidence that we were at least you
+know we have some something in place to
+to do it so if if folks want to keep up
+with you you are bett
+hannan on twitter b-e-t-h-a-n-n-o-n
+and your website url is
+bhm biz sites
+vhmbizsites.com.com
+awesome thanks so much for joining me
+today bet yeah you're welcome thanks for
+having me
+all right as we roll out um
+thank you to hay and stripe they're our
+headline partners this year next year if
+you're watching this on youtube please
+seriously like and subscribe
+it's cool
+this video was was good you can like it
+and you can subscribe it's good to see
+you this week i will see you again next
+week for another amazing episode
+bye
+you

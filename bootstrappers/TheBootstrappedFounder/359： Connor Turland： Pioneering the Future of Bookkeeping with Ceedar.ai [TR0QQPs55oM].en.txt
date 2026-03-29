@@ -1,0 +1,1147 @@
+﻿[Music]
+hey I'm Arvid and welcome to the boots
+[Music]
+founder today I'm talking to Connor
+turland He is building Cedar CE d r doio
+it's a software business that tries to
+replace bookkeepers tries to get rid of
+them completely Connor is an expert in
+all things accounting and he's going to
+teach me a couple things about
+accounting first and foremost that it's
+not boring and that it's actually quite
+enjoyable so it's going to be a
+conversation all about the financials of
+businesses how he's building a business
+to help others what he choosing as its
+target market where he may or may not
+want to go with the business how
+Integrations work all of these things
+it's going to be very insightful this
+episode is sponsored by paddle.com also
+a company that helps you get rid of one
+thing with regards to financials that
+you may or may not be very interested in
+that is taxes all those things reporting
+taxes if you're interested in doing the
+actual work in your business instead of
+dealing with taxes you might want to
+look into paddle as the payment Gateway
+of your choice that's paddle.com now
+let's talk to Connor about all things
+accounting welcome to the show you have
+a wonderful SAS business it's called
+Cedar and you're aiming to replace tools
+like QuickBooks and Dex for startups I
+really like this the the headline of
+your website and I really really think
+it's it's a very aspirational goal to
+replace QuickBooks love this it's
+ambitious right and I wonder how does
+one come up with the idea to change this
+very slow moving industry accounting
+well the fact that it is slow moving in
+some ways like is a hindrance but also
+can help you because it makes like that
+fruit more ripe um in a way right
+because a field where there's already
+people pushing all kinds of things on
+The Cutting Edge in a way uh is going to
+be even that much harder to compete so
+yes it is ambitious because QuickBooks
+is owned by inwit it's a massive
+business um they have infinite resources
+you know but I heard like again and
+again that you can get started and
+you'll be shocked at how not quickly uh
+they can move and and how beholden to
+certain um bold ways of doing things
+they are which creates the opportunity
+for us but why was accounting
+specifically I think was
+really through our direct experience uh
+of like building an agency um before
+this this is me and my co-founder of
+Cedar we um who's my wife we built this
+um agency before this and that's when we
+were growing the business and um and
+started to need bookkeeping and first
+time filing our taxes and going through
+these things and then that's when we
+kind of realized that like so many
+things especially in the Canadian and
+kind of American Tax systems um it's
+highly complex but it's also made to be
+highly complex like there's a little bit
+of like um you know there's this huge
+Consulting industry that's built up
+around it and you get to feel that it's
+a bit of unnecessary complexity meant to
+put certain people maybe Founders in
+that in that sense at a disadvantage or
+getting the short end of the stick um
+and I think that struck that little
+sense of like this isn't right uh how
+can we take a step back and reevaluate
+whether um which which parts of all this
+complexity are just fabricated um and
+which parts are are real and so if we
+can trim away all the all the fabricated
+stuff we can just get left with actually
+something that that can be simple and
+yeah so we just started we are kind of
+crazy and I think that that just became
+like wow there's this um big challenge
+this big opportunity um let's like dive
+into it and start seeing what happens so
+what I hear is that your you're trying
+to compete with Quickbooks on a level
+where you try to fulfill the same needs
+that your audience has but you have a
+different much more specific audience
+here as well right like we you're
+talking about Founders and startups yeah
+exactly yeah they they try to be
+everything to everybody um and end up
+doing none of it well um and so like for
+example they have all these features
+that are technically there from a sort
+of a checkbox standpoint um but
+basically they just do that literally to
+fill a check boox on a feature list um
+and then um one clarification to make
+too is that we're going through
+something kind of a Redevelopment of the
+website and and also kind of a
+repositioning of the business to to
+clarify something that I think we always
+had in mind um but uh have kind of gone
+back and forth on in terms of how how to
+position it which is um you know one of
+the questions for entrepreneurs is like
+who are you stealing dollars from in
+terms of where's the market share come
+from that you're that you want to take
+and for a long time you know software
+competes with software but now we're
+going through this phe shift where
+software is competing with services and
+by Services I mean people um what people
+do and that's where we want to play is
+um we want to actually replace
+bookkeepers and bookkeeping and fully
+sort of turn the corner into you know
+bookkeeping's been around and being done
+kind of the same way for like 500 years
+so maybe um this is like the time when
+it could um go through a change um and
+something that that always seemed like
+the type of thing that should be
+automated can be can be automated um
+without applying all the the old school
+thinking of like oh we do it this way
+the accounting industry is like we do it
+this way because it's always been done
+this way it's like well that's exactly
+what we don't want um we want to do it
+because it makes sense to do it um in
+this particular way so just classic like
+just first principles um thinking trying
+to bring first principles to the
+bookkeeping space which is kind of
+absurd but well I love it and as a as a
+Founder myself I really dislike the
+process right
+I don't like keeping track of things
+that are not like variables in code or
+anything like it I'm too technical I
+guess for this to to enjoy that uh that
+number crunching that has no code
+equivalent but honestly I I probably
+have a couple things that I personally
+believe that are not true about
+accounting and bookkeeping but I try to
+stay away from it as much as I can so
+anything to help me automate this in a
+way that I can understand and replace
+the person that I need to talk to that
+doesn't get me or that I don't
+understand is very helpful so how are
+you going to approach this what's what's
+the the the novelty of the business in
+terms of automating away that bookkeeper
+and these accountants what's happening
+there well first of all I like that you
+said that um you don't want to do the
+work but also you want to have
+comprehension and control um like and
+that's that's what we saw was kind of
+missing was that um there's this power
+asymmetry that's existed between like
+accountants um and bookkeepers uh versus
+um verse Founders where um Founders are
+kind of left in the dark and then it's
+not often the case that they actually
+become enlightened through the process
+um they're kind of kept in the dark and
+there's a there's a bit of an advantage
+to that over time um to it sort of being
+that way so that's like the gatekeeping
+thing in in the power asymmetry and um
+and that's what we want to sort of
+reverse so we want Founders to have um
+not to have any of the make work aspects
+um but to feel all the control and the
+enlightenment especially about their
+finances and um overall just control
+over the process too like for example
+one of the ways that this gets resolved
+um in terms of like Bank feeds getting
+connected so there's automation but um
+one of the things that happens is like
+um
+sometimes they won't say that they do
+this but then they'll ask for your um
+Bank login the bookkeeper account will
+ask for your bank login because they're
+trying to save you work so that they
+don't have to ask you for bank
+statements that you download and then
+email to them so you can see there's
+kind of a reason why um this is also
+relates to gatekeeping on the banks part
+of like financial information um
+especially here in Canada uh but that's
+changing so you have that happening but
+Founders don't really you know they'll
+do it because they're desperate not to
+have the make work of like downloading
+financial statements and and emailing
+them um however they definitely have
+expressed to us many times over like the
+discomfort and handing over their their
+banking logins um and stuff to their
+bookkeepers um so if you can break down
+those and there is a bit of a vector
+there for abuse it has happened not to
+give bookkeepers generally speaking a
+bad
+um that's not that's not fair and not
+right I mean it's very unprofessional
+right that's the thing like giving
+somebody your credentials instead of
+giving them an authorization token or
+giving them some kind of symbol of being
+able to access on your behalf that's
+just that's just the unprofessional
+layer there right yeah exactly exactly
+and uh and if they don't do that
+technique then they'll have to kind of
+be chasing you and founding you and
+asking you for things um so it's a bit
+of a double bind on their part but also
+one that
+can actually especially like as we move
+it's like 2024 2025 there's changes in
+our in our ecosystem in our banking
+ecosystem um uh bringing more of this
+sort of the token the token methods the
+authorization methods
+o um these things are like uh being
+forced on the Canadian the big five um
+Banks um through open bank in and um
+yeah and it's great it's going to be
+great when we kind of have that uh that
+ability to to break that down um so
+there's a bit of a good timing thing for
+Cedar there as well um where where uh
+the time has been the time to automate
+has been kind of constrained that a lot
+of um businesses have actually left
+Canada in terms of trying to serve
+Canada because of like the
+ecosystem um
+bench used to operate in Canada they
+don't operate in Canada anymore um this
+this type of thing so yeah so the
+options have been limited uh
+particularly in the Canadian Market um
+and that's the first kind of Market that
+we're like addressing I do want to talk
+to you about like your your local U
+limitation of being in Canada being
+being a good thing and a bad thing maybe
+who knows right I want to explore this
+with you but before we do this I think
+I'm also one of those people who started
+an American Business uh operating out of
+Canada though because uh it is so much
+easier to deal with Mercury as a banking
+provider than having your account
+locally at a I don't know a TD or bimo
+or whatever other Canadian Bank exists
+like the fact that I can go on their
+website they have a rest API they have a
+really a great app that actually works
+and then I have my local bank like my
+small town bank that has no
+understanding of what a software
+business is and no understanding of me
+wanting to fetch my information
+digitally but giving me some weird PDF
+with like read and write protection
+password protection that kind of stuff
+it's so bizarre to see this particularly
+as I'm a German I come from uh from
+Europe where all of this is regulated
+more and and German and like Europe has
+fints like this this kind of banking API
+interface which is really really cool
+and really really accessible so com
+coming to Canada seeing how crazy old
+school it is and then trying to build a
+business there obviously this this can
+displace a lot of people and it does
+right because even in the states some
+some banks offer that some don't but the
+ones that do the more digitalized Banks
+they get a lot of the entrepreneurial
+crowd so I really hope that there is
+change in there in the making but let's
+let's talk a little bit about um Canada
+as a choice is it convenience for you or
+are you trying to to fix it on a
+particular Market that is not the United
+States at this moment um well one we saw
+a little bit more of like a sense of
+founder market fit in this market just
+off the bat where we're like this is a
+system that we're familiar with we're
+already kind of um we're working our way
+into the accounting and bookkeeping
+space from backgrounds outside of it and
+so it's it's already kind of an uphill
+battle that way so finding familiar
+parts to kind of complement the
+unfamiliar parts that we're like uh
+We've deeply trained ourselves in and
+and and learning there there's so much
+um there's so much knowledge to acquire
+um and uh and at some point that's going
+to be knowledge that we can hire in as
+expertise as well we do actually do some
+of that as well um but uh but let's say
+if we're going into the US market it's
+like being able to bring on some of the
+expertise that we would need to to go in
+and um solve this similar problems or
+whatever problems exist kind of in that
+market so um so yeah and then also we
+know that there's just this big gap here
+um and so there's a little bit of hunger
+and a little bit of like just appetite
+uh in people for you something that even
+like excitement to get something first
+you know oh if this could come here
+first that's really cool and exciting
+and uh so yeah just just building
+building traction building um building
+an audience and um um and working with
+what we know that some of those are some
+of the factors in like addressing this
+Market you know I think it's a pretty
+smart move and I I say this as a
+Canadian obviously biased wanting you to
+to build a cool Canadian Centric and a
+Canadian serving start up that's that's
+wonderful but I I just from my own
+experience I got a lot of um messages
+over time for pod scan my my podcast
+scanning platform for people from France
+or from Germany or from Japan asking me
+when their language would would be
+integrated into the platform right which
+is always that hey you started in the
+english- speaking market now it's time
+for these other markets don't you think
+right that's the the kind of message
+that you get and almost always I said no
+that's not going to happen like I first
+off I want to be in control of of the
+the language of the market that I'm in
+which is pretty much what you're saying
+I want to have the local expertise I
+want to understand what's going on and I
+also want to see the numbers I want to
+want to see the the transcripts that I
+generate and be able to read them so I
+can see if they're right or wrong right
+I couldn't do that with Japanese I
+certainly could do it with German but
+you know that it's it's it starts
+becoming a problem once you try to
+extrapolate it to too many other markets
+that I think it's a it's a good way to
+start in your local market yeah well out
+of curiosity like that's partially um
+you tend to want to operate the business
+like I don't know is it as a solo
+printer or is it like almost solo
+printer like um it's essentially like
+you and the company yeah it's that
+that's what it is for me like s r
+preneur with an asterisk of of people
+helping me out on the site on a
+contractor basis I ideally this will
+last me solo as long as I can but I'm
+also not completely in in opposition to
+hiring people to do the job for me it's
+just like in in your case you have a lot
+of like legal expertise that you need to
+either hire in or build yourself and
+then there's there's this whole thing
+about like being responsible for
+providing correct information right
+you're you have to be insured and you
+have to deal with the potential pitfalls
+of that particularly we're going to be
+talking about AI this is this is a whole
+other thing in that field right because
+it's not clear who's the agent that
+actually takes an action is it the
+builder of the AI or the AI itself but
+even for me like I don't have that much
+responsibility toward factualness and
+accuracy of the the podcast that's kind
+of with the people actually producing
+the podcast I just transcribed them so
+for me it's it's fine to stay in a in a
+smaller company without too many cooks I
+guess but I I would love to see it grow
+I mean that's always a thing for a
+business is to grow to a point where
+it's actually beneficial for others to
+join right in so many ways how about you
+does you're a couple a Founder couple
+and I've been part of a Founder couple
+which has probably been the best
+experience that I ever had in
+entrepreneurship do you want to grow the
+family so to
+say yeah we um we're super Keem to like
+build the business um into a team and um
+to bring together
+interdisciplinary Talent um that's been
+a passion for both of us and I think
+what um predisposed us to
+entrepreneurship in the first place is
+that we both really um are kind of out
+of the box like interdisciplinary kind
+of thinkers who value bringing together
+people with unique perspectives and and
+ideas uh and and uh talents to create
+new things so um we're we're really
+excited about kind of getting that stage
+of the business and so far so far it's
+been the two of us um although when we
+ran the agency before this we actually
+had some um some folks who worked for us
+uh in the agency and so uh we got to
+build a little bit of experience with
+team building and um yeah um but yeah
+it's really interesting kind of you know
+it's been interesting fending off the
+idea way uh talking to people that this
+is like a family business um like
+there's a there's a tendency to kind of
+um gravitate towards that um to the
+assumption that it would might be
+something of that um variety but uh but
+we see ourselves or the ambition is to
+build a really big business with a large
+team and um and to build something that
+really
+goes well beyond just the two of us that
+makes sense to me it it makes sense to
+me because the the field that you're
+going to be serving with every new
+customer maybe not every single new
+customer but every new variety of
+customer every new kind of business that
+you have to support every new industry
+that you get recommended into right it
+becomes it becomes complicated because
+what you said like the the legal
+groundwork The Legal Foundation is also
+complicated to to The Fault right
+complicated because it's supposed to be
+complicated and and it makes perfect
+sense that you would then also grow the
+business to be able to support all of
+this I think that that makes a lot of
+sense yeah and our our product
+ultimately is essentially like peace of
+mind for Founders yes and I love that
+that's like the heart of um you know
+what we should U be be able to bring and
+so we need to actually have
+every uh capacity and
+thing um internally that we need to be
+able to guarantee people that yeah I
+think it's such an important realization
+what you just said that uh so many
+businesses that are Peace of Mind often
+don't understand that they are exactly
+this they they the founders of these
+businesses are very technical and they
+think oh I'm building a cool product I'm
+building a solution to a problem but the
+the solution problem cycle that happens
+when people use the product right they
+have a problem they use it and then it's
+solved and then it's good that is just
+the tech perspective often people buy
+this so they don't even have to think
+about the potential complexity of stuff
+that's what peace of mind is I really
+like that you describe it as such
+because that also allows you to position
+it as as that yeah this was our this was
+our big mistake in a way was um was not
+sort of going more cleanly and clearly
+um into making that offer in terms of uh
+yeah essentially like we were facing
+this this sort of dilemma of where to
+sell um a lot of people would say well
+you should be selling to bookkeepers and
+accountants and we really always push
+back on that um notion because we're
+were like well that defeats you know our
+goal sort of like I can see why you
+would say that from a from a business uh
+just from a pure business point of view
+um or like maybe like he'll have an easy
+time like you know getting your first um
+your your first uh Revenue but sometimes
+you got to say like hey this is the hill
+we're climbing like and um we do
+actually have our reasons and there is
+actually a business case for this but it
+is more of a long game and um one should
+as an entrepreneur be aware whether
+they're playing the long game or the
+short game and um make sure that you s
+come to terms with and are are non-
+naive about like about which one of
+those you're you're playing so that you
+can come to acceptance and find the best
+process along the way of like okay wow
+this the hill is pretty steep right here
+um you know but I remember I put on my
+climbing shoes so that I could like
+climb this SE part of the the hill like
+um this is what I this is the the choice
+that I made and and actually I can keep
+my eye on the big the big picture and
+that's the Founder's way right that's
+that's it's ambitious but you're
+prepared and you're willing to do it
+because you want to change something
+meaningfully I think you mentioned you
+mentioned it earlier you you see too
+many Gatekeepers in the field you see
+all these companies that exist purely to
+exist because the law was made to allow
+these companies to even come up in the
+first place and it it would be almost a
+betrayal of your own idea to sell to
+these companies to perpetuate their
+position as gatekeeper even becoming new
+gatekeeper in the line of Gatekeepers
+along the way right it it just wouldn't
+feel right yeah no exactly um and it's
+amazing how often sort of there's some
+type of a line of conventional business
+wisdom that steers you towards things
+that uh may be money makers but um but
+don't necessarily have all of the the
+groundwork of like what inspires you to
+do this like um why are you going to be
+willing to get up every day and um and
+get back to work on on building the
+business and um yeah so so just to
+finish where we were um the sort of the
+peace of mind and then there's um the
+fact that what we've really gone into
+now is we deliver the bookkeeping fully
+so um so it's done for you bookkeeping
+and that wasn't the original offer it
+was it was mostly done for you
+bookkeeping but unfortunately mostly
+done for you bookkeeping it's not at all
+what Founders want definitely not
+because there's the question of like
+what do you mean it's mostly done like I
+still need to hire a bookkeeper to
+review it or else I need to acquire the
+knowledge like you're make it still work
+for me like um and so there just wasn't
+product Market fit for that and it's
+been incredible how big of a shift it is
+to say
+hey it's done for you bookkeeping it's
+total peace of mind um it's reviewed by
+you know everything after the AI sort of
+gets done with it and all that stuff uh
+it's reviewed by a professional um human
+because we need to have those checks and
+balances those controls um still just
+like self-driving you know um however um
+like self-driving has been a good
+metaphor because it's incredibly you
+know it's also heavily regulated um and
+there's tons of compliance and you need
+to run sort of the safe experiments in
+terms of like uh deploying it and uh and
+putting it putting it out on the roads
+so we're kind of doing the same thing um
+right now with with AI bookkeeping that
+that's super interesting to me like AI
+anything is super interesting to me but
+AI bookkeeping in particular that's my
+dream my dream is just like have the
+agent right the AI agent deal with all
+this stuff and then I get something that
+a person has actually validated and
+checked yeah exactly that to me is the
+the Pinnacle right now at least of how
+AI should be used right do the work do
+the work mostly right hopefully super
+right but at least mostly super right
+and then have a person with uh a sane
+calculated and experienced approach
+figure out if it's right or wrong tell
+me about how you how you did this how it
+doesn't have to be like super technical
+and and a detailed implementation but
+what is your approach to set setting up
+a business that relies on what I assume
+to be agents of AI yeah well it's
+evolved even in the last year because
+like there's been so much um there's
+been so much movement from just like you
+know AI prompt chat completions um into
+like the assistance apis um and stuff
+like that that that are that are built
+on top um and so there's been changes
+just in the last year the first year of
+building um this technology and um of
+course like like any I think of the AI
+building like evals are really important
+um evals being where you've got like a a
+data set which show what the correct
+sort of classifier because some of it's
+a classifying problem obviously for for
+categorizing transactions that's one
+that's a task that you can Define quite
+um well cleanly and say in fact this is
+like how can we leverage llms and and
+this for the classifier problem that is
+um that is like categorizing
+transactions and then you have the fact
+that a lot of um that there are these
+back and forths between bookkeepers and
+and business owners and the point of
+that back and forth is to gather context
+um to establish context both high level
+context about the business so like what
+industry are you in and those types of
+things um and then to gather narrow or
+detailed context like what was this
+transaction for and um the fact that
+that communication uh has been done in
+like email inboxes and um has had to
+just be kind of like chains email chains
+or um so one of the big pain points is
+like that that Founders get these like
+emailed like Excel spreadsheets or
+Google Sheets of like outstanding items
+and then um maybe you have to go through
+and provide responses that way and these
+end up getting backlogged in Founders
+inboxes and so I mean one of the reasons
+why that happens is I think because of
+because it's like a staff because it's
+human labor there's a real they say like
+we'll close your books meaning we'll
+kind of do at the end of the month and
+realistically maybe it happens a couple
+weeks
+into the next month after the month has
+ended and so by the time that email
+comes in you know in a Founders World
+years have already passed in like a
+couple of weeks and so they get the
+email and it's like what these things
+were and what those things were and you
+have to go and dig back through so
+you're you've already kind of it pulls
+you out of your flow it pulls you out of
+your focus and you've you've lost um it
+becomes a little a small a small
+mountain and um yeah so I think that
+there's there's opportunities with real
+time automations and real time uh
+classifications where you're like oh we
+can do this really um we can process
+information really quickly and one of
+the opportunities there is that you end
+up with like if there's anything unclear
+or any information that's missing
+regarding like a transaction or um
+something that can be chased or followed
+out very quickly relative to when it
+happened which makes it really easy to
+respond to the to the query or the the
+the inquiry um just because it's like
+fresh it's top of mind um not hard to
+answer and um and it doesn't create like
+a email in your inbox with what the M
+the stuff to do so it just fits more
+casually into your workflow um so that's
+an example and that's just like we don't
+you know we will have like an agent that
+you can chat to and uh have kind of the
+full back and forth that you might kind
+of expect uh that's something that we're
+we're in the process of building out but
+I actually think that it's been
+overstated what the um what the utility
+of that is um the kind of just chat for
+chat sake um so I don't think that's I
+don't think it's all about that I think
+a lot of it is about strategic or
+surgical um use of AI in these places
+that um make it quick and intuitive to
+get some job done that previously
+couldn't get done and um question
+everything this is something we just
+said like why should this be done
+manually um every time you kind of go
+and build in Edge case think about how
+can we make the system smarter capture
+more breadth um what context is it
+missing that meant that it was unable to
+um to answer this question or to
+understand this this piece of the
+business and then focus on building more
+context about the business so that so
+that you can have this broader
+intelligence and and apply in the
+bookkeeping process so that's kind of
+the the philosophy and then I don't know
+I've read some really fun stuff that
+excites me about the future from Toby
+that Toby tweeted out uh Toby Lop from
+Shopify it he also spoke about in his
+keynote um about like reasoning loops
+and that kind of thing so I can see that
+there could be um some really
+interesting stuff there where you could
+actually do more analysis you could set
+it loose on a bit of analysis or um that
+type of thing that that could deliver
+higher higher level insights but for now
+uh bookkeeping is the main goal and so
+just getting really good at that job to
+be done yeah for sure and it's an
+important one right because it's it's
+just a regulation thing can't avoid it
+like every founder has this problem no
+matter what business they're building
+and I think that's that's a that's a
+really smart in Industry to be in
+because it's all Industries but just a
+that one segment of it that one layer
+and the the that's there something that
+I see in in building AI classifiers or
+AI automations in in my own work there
+is something about having a lot of data
+from a lot of different businesses and
+seeing how they potentially could
+interact and benefit each other that's
+the great thing right like when you
+start out for a particular industry a
+particular kind of startup you will now
+train an AI to be really really good for
+that startup for that particular startup
+but also for other similar startups in
+the same industry and all of a sudden
+your classifier now understands what
+what stripe is or it understands like
+what Mercury is an example I use that
+for my my business itself and the people
+that do my bookkeeping they're always
+asking me what these weird little
+credits are that I sometimes get on told
+every single payment and and these are
+just like Dropbox yeah they didn't
+really what is a Dropbox what is this
+again I mean that's a bad example but
+some Services they don't get the the
+idea that they have a cashback system in
+Mercury they don't understand what are
+these credits like this cashback that's
+every single transaction that's like 5%
+and you have to explain it to them
+obviously once you explain it to an AI
+once right once the AI understands okay
+this happens with this bank this happens
+with this vendor that n knowledge can be
+extrapolated to every single other
+application of the same agent absolutely
+on a different business yeah absolutely
+so collectivized sort of Learning
+Without like completely Anonymous to any
+of the content of of the data or
+cross-pollination or you know that's
+like without any of that you can still
+um safely apply benefits of learnings
+from one business to another it's a
+really great um it's a really great
+insight
+and the fact that you could save so many
+founder hours of like time spent
+answering those types of questions is um
+like that's the true calling I think for
+Cedar is to um I don't know let Founders
+cook you know let Founders um
+reconcentrate find their focus uh put
+their time and money
+onto um the hard problems in the growth
+um in the growth side of their business
+um that's where that's where all
+founders really I think tend to um want
+to focus is just you know revenue is the
+revenue is the exciting part um it's
+important to uh to keep an eye on your
+expenses and that's part of um building
+a healthy business but I think like the
+passion comes from um comes from revenue
+it's certainly Amplified by it I think
+like for for lots of Founders there's
+this technical aspect to solving a
+problem that other people have never
+solved before in this particular way or
+that's the social aspect of the impact
+that this business has for and you
+probably feel the same way for people
+who have yet to be supported in this
+particular area right like you you you
+see people using it they love it they
+get like 20% more done and you're
+responsible for it obviously that's more
+exciting than getting your books in
+order to a lot of people but I think
+that's that's a kind of a self-limiting
+belief because it can be exciting to do
+things right right like I I I wonder
+maybe maybe you can dive a little bit
+into this as a Founder who personally I
+consider myself not capable or at least
+not very skilled at that particular side
+of the business the financials can you
+help me take a couple quick maybe or
+just impactful steps towards becoming
+more confident to becoming better in
+that particular field looking at
+financials looking at numbers maybe in a
+more benign more positive light should I
+do yeah I love this subject um it uh
+brings to mind for me like a moment when
+I went through uh a moment of
+transformation um which was uh when we
+were building the agency and I went
+through this um experience uh you know
+because working with pegga she um she's
+often been one to kind of take a
+critical look at some system like the
+tax system or the or even the financial
+um statements and say um you know this
+is this is something we don't understand
+but it's important for us too so that
+sometimes she drives that where it's
+like I would take a more classical like
+sort of let's just out let's just hire
+someone to get this job done for us kind
+of thing um so she uh kind of created
+this like impetus for us to prepare our
+own financial statements at least just
+to kind of gather all of the information
+and stuff like this make sure that we
+weren't paying someone for stuff that we
+could easily do ourselves and the
+question was was it going to be easy or
+not easy and so what okay the profit and
+loss um also known as the income
+statement felt relatively easy because
+it was an outline of our income and our
+expenses which are both relatively easy
+to to reason about um you already have
+the mental models for that but when you
+look at the balance sheet it it it
+really implies this the whole framework
+of Double Entry accounting um which is
+what really I think scares people off um
+the like that there's debits and credits
+and and double entry accounting and
+there's all this jaring around it and
+that the battle street is driven by this
+like
+fundamental um this fundamental
+accounting equation I don't know I've
+really enjoyed just even certain people
+who post things online um like U this
+Twitter account called your CFO guy um
+and he creates these like visualizations
+yeah I I would recommend like people to
+look at his stuff because um he just
+it's like what was it the the universe
+of um the universe of financial
+statements and so it's like it's just
+these planets and how these
+visualizations that make it kind of fun
+and and I think easier to look at um
+what a balance sheet is uh so his his
+information and um there's other ones
+like there's a book called the joy of
+accounting and um they've got a really
+simple framework for teaching these
+things not that I'm encouraging people
+to look into you know you don't you
+don't necessarily have to um go and read
+those documents but I will say that it
+was it was transformative for me to
+spend time trying to balance the balance
+sheet uh this time because um it forced
+me into that coder's mindset of like
+there was something that didn't balance
+so you got like you know um assets on
+one side and liabilities and um equity
+on the other side of the balance sheet
+and so um assets has to equal
+liabilities plus equity and uh there's
+something not balancing and then I was
+forced to kind of like go in and sort of
+you know use the debugging process start
+to apply that mindset to it and say uh
+say process of elimination the problem's
+not over here it's not over here must be
+over in this area area and eventually
+when balance sheet finally balanced that
+was sort of a moment of like aha for me
+a moment of like transformation where I
+I um I discovered this feeling that I
+can understand these things um they're
+not uh they're not magic they're not um
+they're also not that complex um and
+accounting through its jargon has been
+made to feel more complex than it is and
+yeah that there's there's words and we
+do this in Cedar but you can just
+replace um uh like accounts payable and
+accounts receivable we just call that um
+you know owed and O instead of a fancy
+term that's often it right yeah it's
+it's it's often in in the intentionally
+complex legal way of describing things
+and also this um this the seriousness
+that people trying to teach it teach it
+with and that's my experience in this at
+least like the joy of accounting sounds
+like a very refreshing approach to
+something that where where people once
+they try to teach it turn into this
+aerody professor who will tell you
+exactly what the reality is and don't
+question it kind of thing right like
+it's yeah it should be something that is
+is an important part of the businesses
+and the life that we live I mean we have
+to account for all kinds of things on a
+personal level as well not just in the
+businesses and being being being willing
+being able to understand it should be a
+joyful thing not a chore yeah here's one
+fun sort of fact about um accounting
+which um is that you have the profit and
+loss statement and you have the balance
+sheet and um I think most people
+including me uh struggle to understand
+how the two are connected to each other
+and there's this account called the
+retained earnings account and that
+account has this unique little bit of
+importance um in that it is how uh
+basically your net profit whatever um
+whatever is your net profit from your
+profit and loss your net profit is What
+flows into your balance sheet um in
+terms of through the retained retained
+earnings account and somehow to me if
+you focus on uh just learning a little
+bit about that one account that retains
+earnings
+um and the fact that it connects the two
+uh financial statements I found it was
+kind of like a lever to a to a larger
+understanding because you can see right
+of course um this is going to be after a
+couple years into my business it's this
+retained earnings which really helps me
+in my uh that's what gives me equity in
+my business after you know I've made
+some profit over a couple years that's
+where my profit sits or that's where um
+that's where my my assets are kind of um
+it's in equity it's it's in equity uh is
+where it actually lives thanks for
+sharing I appreciate this because it's
+also I've been wondering about the
+connection between these two I mean you
+you kind of almost uh innately
+understand that there is a connection
+yeah and you know you kind of feel it
+but to give it a name and to give it a
+placement is is obviously beneficial see
+that's what I'm trying to say like I I
+don't think I'm incapable of wanting to
+become more knowledgeable about this
+right or incapable of understanding the
+complexity of this it's just you need
+somebody to to be to explain it to you
+on a level that you're that you're
+capable of like integrating it into the
+other 1,000 different things that you
+need to do as a Founder that's really
+what it is there's so much so much
+Nuance to this just open your mind to it
+open your heart a little bit like um
+just like you have to do with other
+areas like I had to open my mind open my
+heart towards sales um where it's like I
+had all these predispositions about
+sales you know like I just had these
+feelings about sales I was like it was a
+bit of an ick actually like and at some
+point until I um was able to tweak that
+sort of bit of attitude that bit of
+inner feeling I was I was not able to
+really Step Up um
+that that side of our business um the
+the sales side and so it can be similar
+with accounting or um yeah so I'm
+excited for you and other people you
+know and access like Investopedia and
+chpd like especially something the more
+like reasoning models like the 01 stuff
+like that I think you know you get a
+little more more credibility uh using
+using those models that just 40 or there
+a greater risk of it just making stuff
+up yeah that's that's always the risk
+with AI system but that's also the risk
+with people I feel like there are people
+who claim to be professionals and then
+they just kind of resort to using
+crutches that they always use that may
+be outdated that may not actually be
+correct or true right like that you you
+always have to have the validation in
+there and I think you you've been
+talking about how you validate it
+through people how you have this final
+step of actual human in interference I
+guess in the process I think that's very
+important too with any AI system like
+the moment we have AGI may be different
+but for for that I guess you also need a
+team right like I I'm personally with my
+software I try to automate every single
+thing data extraction like host guest
+data like the topics people talk about
+that can all be automated I don't need
+to cross check it because it it is
+likely true and if it's not somebody
+could tell me and I can fix it you've
+got a low enough low stakes um that's
+right Stakes are different for you
+Stakes for false positives or whatever
+yeah that's pretty much what it is like
+you don't want to do this when you
+submit your your text report or anything
+you don't want to have a assumably false
+positive in there you definitely want to
+get those out man this is exciting I I
+think um first off thank you for for
+talking so enthusiastically about
+balance sheets I don't think I've talked
+to many people with this level of uh
+genuine curiosity and willingness to try
+and explain it to somebody like me I
+really appreciate that um also thanks
+for sharing the the story and the
+ongoing journey of your business I think
+it's really cool for you to have picked
+a business in a a market that is not the
+United States just yet I think that be
+in your future anyway but Canada is a
+good place to start because people here
+really need it and to to go into a
+market that is slow more traditional and
+incumbent heavy that it's really cool if
+people want to follow you see this
+journey unfold and look into what your
+business has to offer where do you want
+them to go yeah check us out um
+ced.travelling
+Cedar HQ over there okay yeah I'm gonna
+put those links in the show notes as
+well U that's that's really cool I'm
+also in a kind of revelatory phase where
+I'm trying to understand okay yeah this
+is actually not that complicated just
+just understanding this it's it's really
+about phrasing moment of Enlightenment
+it's it's what you said earlier with
+this this accounts payable accounts
+receivable things that always confused
+me but you can just translate it into
+something that you understand you could
+just like you you translated your
+process into the developer process of
+just debugging you can translate all
+these weird complicated legal phrases
+into regular people language and all of
+a sudden it becomes more accessible that
+is really cool thank you so much for
+sharing this really appreciate it thanks
+for having me Arvid it's uh it's a
+pleasure to be here and to talk with you
+and to see your curiosity and and
+enthusiasm and that's it for today thank
+you so much for listening to the Boer
+founder you can find me on Twitter at
+Arvid Kahl you'll also find my books and
+my Twitter course there and I would
+really like if you could recommend this
+podcast to your friends you go to rate
+thisp podcast.com to submit a rating and
+a review really appreciate this and if
+you want to help this show please
+mention pods scan as a tool that helps
+people find mentions of their brands and
+businesses on podcast to your friends
+that's all I need thank you so much for
+listening have a wonderful day and
+bye-bye

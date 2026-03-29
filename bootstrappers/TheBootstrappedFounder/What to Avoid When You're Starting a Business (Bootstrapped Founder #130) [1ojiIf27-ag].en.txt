@@ -1,0 +1,396 @@
+﻿hello everyone and welcome to the
+bootstrap funder podcast my name is
+alvit khal and i talk about
+bootstrapping entrepreneurship and
+building in public this episode is
+called entrepreneurial anti-patterns
+what to avoid when you're starting a
+business
+they say that all roads lead to rome
+well reality proves them wrong and who
+are they anyway because when you look at
+successful businesses we see many
+different approaches
+that got them to where they are today
+but we can also notice the absence of
+several strategies that don't seem to
+create reliable pathways to success
+and when it comes to actionable advice
+sometimes knowing what to avoid what not
+to do
+is more helpful than being told what to
+do so let's talk about the business
+strategies that don't work well for
+bootstrappers and indie hackers what
+they are
+why they don't work and what to look for
+instead
+let's start with the number one fear of
+every entrepreneur the copycat we're all
+afraid that someone will take a look at
+our business and create a competing
+clone this is the number one concern of
+everybody building in public right now
+and occasionally someone actually might
+set out to clone your business
+but then
+that competitor quite reliably and
+quickly fizzles out
+clones rarely and almost never grow into
+anything that would resemble a real
+business
+i certainly don't recommend creating a
+clone of successful business yourself
+because you're setting yourself up for
+failure that's primarily due to a few
+structural restrictions there when you
+clone a business you clone what you can
+see and it's the tip of the iceberg your
+vision of their business is severely
+limited
+for a sas business for example you can
+only see the front end of the product
+the user interface you have no idea what
+complexity lies on the server side of
+things or what processes need to be in
+place to solve the problem efficiently
+particularly if you're not an expert in
+the industry of the business you're
+cloning you're taking a dangerous road
+you've no idea what the future holds you
+don't understand the market dynamics and
+you can't foresee what problems you'll
+face during the next months
+just copying a product is the easy part
+but creating a well-oiled sales machine
+around it now that's more challenging
+and it requires understanding the whole
+industry
+not speaking the language of your
+customers and that's a common occurrence
+for opportunistic business cloners now
+that will hamper your efforts to create
+a brand that people actually resonate
+with
+there's no if you build it they will
+come you'll need to convince prospects
+to check out your product through your
+marketing efforts and then yelling the
+wrong things at your audience that will
+quickly make them look at other products
+it's also easy to clone a product and
+sometimes it can be particularly if
+you're a capable technical founder most
+software products can be cloned within a
+day or two maybe sometimes a week if
+it's more complicated but the business
+all the processes the decisions the
+designs and the experimentations that
+went into it now that is something much
+harder to accomplish without having deep
+insight
+and that's something you can fake
+now building a twitter clone to learn a
+new programming language or web
+framework that's a fun project but it's
+not a business it's a technical learning
+opportunity but not a great candidate
+for sustainable business
+and finally the most important reason
+why building a copycat is terrible
+so that you're not bringing any
+innovation to your market there's no
+differentiation and what you're building
+is nothing that someone else couldn't
+easily copy themselves
+and setting yourself up to be cloned
+isn't a great foundational choice
+and this also means that it's generally
+a good idea to avoid following best
+practices to the ladder after all
+everyone else has access to these rules
+as well so if you want to build a mode
+for your business that helps you repel
+competitors you might want to make a few
+changes to the rule book that you're
+following and this is not about zigging
+when they zag it's more complicated it's
+about understanding your market and it's
+internal structure really
+just enough to see an opportunity for
+you to be unique
+for example consider that almost every
+single sas business out there uses
+stripe for subscription payments
+even though stripe is an amazing and
+developer friendly solution it comes
+with limitations it doesn't support
+crypto payments just yet and you'll have
+a hard time using anything but credit
+cards for payment no paypal right so
+this means that most sas businesses out
+there won't support paypal or amazon pay
+for their transactions so by looking for
+alternatives that support these methods
+you could make your kind of business
+available to whole countries that don't
+have easy access to credit cards or
+segments in your market that can't pay
+with them or consider a business process
+like offering purchasing power parity
+prices
+by implementing this kind of location
+sensitive pricing people in india pay
+less for your product than people in the
+united states
+and you're putting that on your
+product's pricing pages you can equally
+expand your business's reach
+at the same time everyone else plays it
+safe using the regular old practices and
+you stand out so don't just do as
+everyone else has been doing all the
+time
+find something that you can be unique in
+and don't try to build a business in the
+same market as everyone else either
+you'll find it very hard to compete with
+billion dollar businesses that have
+higher budgets for the daily google ad
+spend then you have cash in your bank
+account
+if you want to stay competitive pick
+your fights in an arena that will allow
+only combatants of your size or a little
+bit smaller maybe a little bit bigger
+just pick a niche that is small enough
+for you to build a business in without
+immediately competing with the industry
+giants
+and convertkit is an excellent example
+here
+they're an email marketing platform and
+they're competing with active campaign
+and mailchimp and hubspot big names with
+lots of funding behind them but instead
+of charging them head-on in the business
+and competitive business convert could
+focus their marketing efforts on
+creators from the start so instead of
+trying to be the email solution for
+everyone they picked a niche that they
+understood well and could capture a lot
+of attention
+from there they would strip to 2.5
+million dollars in mrr right now it's
+incredible and while it's essential for
+your initial niche to be small enough to
+allow for a solid tribal audience where
+people are connected where people talk
+to about the same things to each other
+in this hierarchy that's kind of what a
+drive is at least definition of seth
+godin
+you need to make sure that you're not
+picking a niche that's too small
+you won't be able to build a business in
+a niche that only has a few hundred
+potential customers unless you charge a
+lot of money for each of them
+but then again
+that might be a better niche for you to
+capture even more of a market so picking
+this hyper-specific niche can be
+enticing because it promises you the
+opportunity to solve one particular
+problem with a really well tailored
+solution but you will run the risk of
+under provisioning your potentially
+addressable market
+and the addressable market is also
+something different from the market the
+whole market
+just because there are thousands of
+designers out there
+looking for jobs at the moment doesn't
+mean that they can shell out fifty
+dollars a month for an invoice tracking
+tool
+design agencies might be a better
+audience for that tool because they have
+a more reliable kind of throughput and
+if you want to help self help
+self-employed designers
+well you better learn how much budget
+they have for solutions to their
+problems before you build something that
+they might not be able to afford
+and you'll find markets where no matter
+how good your solution is your
+prospective customers just can't pay for
+it
+trying to force your business into this
+market will cause your journey to be a
+hard and deprived one and that's
+something to avoid the best way to see
+this coming ahead of time is to see what
+other paid tools and services have
+established themselves in that industry
+over the long term so what businesses
+have been able to survive in this
+industry how did they do it what do they
+offer and at what price how did the
+price change over time look at that
+stuff if you have access to a member of
+your would-be customer base just ask
+them
+ask them what they are currently paying
+for how much their budget for that is
+and what they used to purchase in the
+past but are not purchasing anymore
+the numbers you will get from this
+conversation will give you a sense of
+what's possible to be charged for in
+this industry in this space
+so if you see that people are reluctant
+even to pay for the most basic and often
+impactful necessities
+even though like these things could make
+their life a lot easier they're still
+not wanting to pay for it consider
+moving up market or shifting your target
+market into a higher budget category
+now finally let's take a look at churn
+the silent killer of all sas persons
+businesses and when a customer cancels
+their subscription your churn rate goes
+up and if a new customer joins and
+decides to renew churn goes down these
+are the two movements that churn can
+really go into but you need to
+understand that
+even though
+churn moves up and down there are two
+different kinds of churn there's
+preventable churn and structural churn
+that's important to know because it
+limits or allows you
+depending on where you look from where
+you look at it what you can do about it
+preventable churn happens when someone
+chooses to cancel because they are
+moving to a competitor or they don't use
+the product enough to warrant the price
+preventable churn is something that you
+could prevent
+technically if things were different but
+structural churn occurs when your
+customers go out of business or they
+take a paternal break
+and move on in their careers structural
+churn
+happens when things happen that you have
+no control over things that are
+institutional or work on a societal
+level or just part of somebody's journey
+like becoming a parent it's not
+something you can prevent it's
+definitely something you shouldn't want
+to prevent but it happens so imagine
+you're building a sas solution for
+up-and-coming actors to find the first
+gig in the movie industry and there's a
+clear happy path and a happy path churn
+here that you can't avoid when you want
+to be actor
+actually succeeds and gets that gig it
+becomes an actor that gets signed by an
+agent they won't need your business
+anymore because you help them get there
+or and or you elevated them into a new
+career category that is a kind of
+structural return in a sense that you
+can't really prevent it because people
+want to get there and once they get
+there you're not needed anymore but
+there is a hidden kind of structural
+churn here too when you build such a
+product because every month a certain
+percentage of actors to be decide to
+call it quits and then they get a real
+job
+they hang up the actor hat and they
+venture out to interview for other
+occupations
+they cancel your business they cancel
+you their subscription to your business
+because they don't need your sas anymore
+as well so this happy path churn where
+these people get a job as an actor and
+they're happy and they go on and cancel
+or there's the systemic churn of people
+who just do something else
+and both are kinds of churn you can
+prevent success of failure and it's
+pretty likely that the actors calling it
+quits outnumber the ones that make it
+big in the industry
+that's a statistically traceable part of
+reality for every sector structural
+churn like this can be measured and
+should definitely be a part of your
+decision-making process on whether to
+take a shot at solving problems in this
+particular industry
+churn itself is unavoidable just as you
+will get new customers some will leave
+your business over time for whatever
+reason but you can learn as much as
+possible about how their
+yeah how what happens what there is to
+be expected for your field
+and mind you there's always going to be
+unexpected things that will cause your
+customers to cancel some policy shifts
+in their business or in in the whole
+society or technological breakthroughs
+that could trigger mass cancellations
+that you might struggle to prevent
+because now people are using it
+completely different you alone you're
+not keeping up with it but structural
+churn is visible from miles away you
+just have to observe your industry so
+make sure to look out for it and here's
+the thing there's a chance that even if
+you were to build a copycat business
+that implements every single best
+practice in a much too huge market with
+barely any ability to pay and structural
+churn beyond 50
+you still might be able to run a
+successful business out of there but
+when you compare that to a uniquely
+differentiated business that solves a
+clear problem for a niche with enough
+growth potential and a solid budget for
+novel solutions with very low structural
+churn
+now you might find that your chances of
+success are much higher for the latter
+so set yourself up for success by
+avoiding the well-trodden paths that
+went nowhere
+and that's it for today thank you for
+listening to the booster funnel podcast
+you can find me on twitter at avidcarl
+arvid kahl
+you'll find my book seriously sold an
+embedded entrepreneur in my twitter
+course find your following there as well
+if you want to support me and the
+bootsafe on a podcast please leave a
+rating and a review by going to
+raidthispodcast.com
+founder thank you very much for
+listening and have a wonderful day bye

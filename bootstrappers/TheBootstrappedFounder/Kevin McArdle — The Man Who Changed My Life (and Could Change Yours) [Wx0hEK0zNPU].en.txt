@@ -1,0 +1,2033 @@
+﻿Arvid Kahl: Welcome to The
+Bootstrapped Founder. Today, I'm
+talking to Kevin McArdle. Now,
+he was very instrumental in my
+founder life. He acquired my
+SaaS business. So we're going to
+have a conversation about
+acquisitions, preparing for your
+exit, building a bootstrap
+business that other people
+actually wanna buy and how to
+get to that point, how to go
+through the process and what to
+think about during building your
+business, not just when it's
+time to sell but long before
+that. Here's my conversation
+with Kevin.
+Thanks so much for being on the
+show today. I have one thing to
+say to you: you changed my life.
+I just wanted to tell you.
+Kevin McArdle: That is the
+nicest thing that anybody said
+to me in a very long time.
+Arvid Kahl: It really is, like,
+we built Feedback Panda, the
+SaaS business that we sold to
+the company you worked at and
+the company you led and the
+company that acquired us. And it
+was the most life changing thing
+that ever happened to me. I
+think after meeting Danielle, my
+co founder
+Kevin McArdle: Yeah
+Arvid Kahl: You know, the person
+that I spend my life with,
+Kevin McArdle: Good to clarify
+that
+Arvid Kahl: If there was another
+person that had a massive impact
+on the trajectory of my life,
+let's just say that, it would be
+you. So a big thank you from me
+for this. And it's really nice
+that you found the time to talk
+to me today. You have a lot to
+share about private equity and
+acquiring businesses, building
+and operating SaaS businesses.
+And I'm excited to hear what
+you're currently working on and
+what the future has in store. So
+thanks for being on the show.
+And it's really nice to talk to
+you again.
+Kevin McArdle: Oh, it's always a
+pleasure to talk to you, Arvid
+and pleasure to be on the
+podcast and talking publicly, I
+think for the maybe for the
+first time. And it's very nice
+of you to say that. But you
+know, I played a role in the
+success that you and Danielle
+had, but I was lucky to be the
+one to acquire Feedback Panda.
+And if it wasn't me, it would
+have been somebody else that,
+you know, gave you the exit that
+you were looking for. But I'm
+just so excited for you and
+Danielle and all the success
+you've had.
+Arvid Kahl: Oh, thanks so much.
+Well, you wrote the nicest email
+and we had the most wonderful
+conversations with you. So it
+was really easy to pick you,
+let's just say that. Like you
+had such a nice friendly and
+uncomplicated way of interacting
+with us that made all of this,
+it made it very easy to trust
+you and the team. I think that's
+one of the things that you did
+so well in this whole you know
+pre due diligence but already
+kind of due diligence phase,
+right? When you're selling a
+business and you're acquiring a
+business, both parties kind of
+poke at each other to see if
+it's legit because there are a
+lot of people who are not legit
+in the field, unfortunately. So
+you allowing us into you know,
+the business and all the people
+that work for you and having
+chats with them. That's why I'm
+with Tyler. Tyler Tringas, whom
+I have another podcast with,
+right? He was the first person
+Kevin McArdle: Of, course. Arvid
+and Tyler Catch Up. I'm a fan,
+you know that.
+Arvid Kahl: Thank you so much.
+Oh, great as fan. I'm super
+happy. But first of all, thanks
+for listening to that show.
+Because that's good to know that
+anybody's listening. But really
+like Tyler was the first person
+we called in our kind of seller
+side due diligence that we did
+with you, right? Because we
+needed to make sure all the
+people that sold, were they okay
+or you know, like that they run
+into any issues? And we had such
+a cool chat with him. And he was
+so energetic. And so he talks so
+kindly about the business and
+particularly about you that it
+came very easy to chat with you
+and then go through the process
+of getting acquired. So that was
+really cool.
+Kevin McArdle: I have a huge
+smile on my face as viewers can
+see because it just brings back
+such great memories of I
+remember specifically sending
+that email to Danielle. And I've
+told this story publicly because
+it makes me smile. And her
+response was just a very kind
+and polite, "No, thank you, not
+interested." I was like alright,
+well that's fine. I have a new
+friend on the internet. And
+that's a good thing for the day.
+And then in the background, I
+find out later she told me
+called Tyler, I think spoke to
+another person who had sold us a
+business and then she came back
+like emailed back I think a
+couple of weeks later. It was
+like, actually, Kevin, we're
+considering it. Let's have a
+chat. And so yeah, that whole
+process, it was easy on our side
+too. Because you know you two
+built such a great business.
+You're such a great team. You
+had your, you know, things in
+order and you know, we're ready
+to sell and had done the right
+things to prepare. And so yeah,
+it was win-win all the way
+around.
+Arvid Kahl: The whole process
+was fun for me like everything
+in between, like even me
+recording this eight hour video
+for the software engineer that
+was supposed to take over my
+work just going through the
+codebase. Like no sane person
+does this. But in that moment,
+it felt like just a joyful
+activity knowing how well it
+would be received, right? Like
+the whole process was just kind
+of a give and take obviously
+because we needed to spend a lot
+of energy both on running the
+business and on preparing
+everything for the acquisition,
+but it never felt forced. It
+never felt like the pressure,
+that was never on. And I think
+that is one of the things that I
+admire the most about you in
+this process, how you were
+guiding it without like pushing
+it. That was such a sensitive
+way of dealing with people who
+are already like I was mid
+burnout at that point, right? I
+was super stressed. And people
+don't want to lose their baby.
+They want to lose the business
+and all that. So you handled
+that with such care. You know,
+I'm a fan, but I just want to do
+it publicly just admit, I'm a
+big Kevin McArdle fan.
+Kevin McArdle: Likewise, this is
+just, you know, Arvid Kevin fan
+club meeting
+Arvid Kahl: I guess. Let's just
+compliment each other for
+another hour. Why not?
+Kevin McArdle: Yeah, Arvid we're
+already losing listeners. So why
+not just continue. But, you
+know, it's funny, like some of
+the things you said, like, you
+know, because selling a business
+is a stressful process. I've
+been on the other side of that
+and the fact that you said it
+was fun. And I'm sure there was
+some stress in the background
+too. But like that, you know,
+the compliment you paid me
+earlier, it's sort of funny and
+funny or weird to me in a way is
+like, it's just kind of how I
+act and who I am because, you
+know, I'm a human being. And I
+know, you know, we just do
+business with other human
+beings. And I don't like dealing
+with a-hole. So why, but like,
+it's shocking how much people
+say the way I do things is
+different. And the experience is
+different. And you know, it just
+blows my mind that other people
+don't have the same approach of
+just being a human being. Don't
+think that you're smarter than
+everybody else in the world. And
+don't be a jerk, don't put
+pressure on people because
+people don't mostly don't
+respond better in pressure
+situations. They usually perform
+best when they're comfortable
+and happy. And, you know, I like
+how you phrase it with like,
+guiding without pushing, I think
+is what you said, but I may
+steal that.
+Arvid Kahl: Please do. Feel free
+to steal whatever you like, you
+gave me so much already. I'm
+gonna keep doing this. This
+reminds me of something, reminds
+me of, I think like Paul Graham
+wrote this book, like Hackers &amp;
+Painters. And in that, he has an
+essay on how schools, the system
+that we are kind of socialized
+in really pretty much reflect
+prisons in terms of the
+dynamics, the social dynamics
+that happen within them. And I'm
+getting somewhere with this,
+right? The idea is that you are
+put into this kind of confined
+system that you're not allowed
+to leave, which is like the
+premises of the school. You have
+these weird internal social
+dynamics, you have like the
+nerds and the jocks. And you
+have like gangs in prisons, that
+kind of are equivalents of bad
+like you're part of one of those
+groups, but not both. And the
+people that are there the
+biggest stars in prison, like
+the strongest and most violent,
+like most fear inducing people
+turn out once they're released,
+to have no standing in society
+whatsoever. And it's pretty
+similar in schools too, right?
+Where the bullies then don't
+find jobs because they're way
+too aggressive. And they don't
+value actual human
+relationships. And that reminds
+me of many people who have been
+conditioned in a system like
+this, that you have to kind of
+elbow your way through society
+and then they end up at a spot.
+I think the Peter Principle
+applies here where people get
+kind of promoted to the point
+where they just at the limit of
+their capacity, right? And I
+think Peter Principle says
+something else about it. I'm
+just trying to keep it friendly
+and loose here. But the idea is
+that people who have this kind
+of behavior, they get to a
+certain point, but not further.
+Kevin McArdle: Yeah, they hit
+the ceiling.
+Arvid Kahl: They hit the ceiling
+because people at some point,
+they don't take it anymore. Like
+either they are also pretty
+aggressive, which you know, kind
+of creates more conflict or they
+are at the point where they are
+enlightened enough to understand
+that you get way further with
+kindness and with being
+passionate about something and
+opening up to people than
+closing off and trying to grab,
+grab, grab and this is mine,
+mine, mine and you better stay
+down, right? That kind of
+behavior just doesn't fly in
+most groups of people
+particularly not, I guess, the
+founder community where people
+really need each other because
+it's such a strong community.
+Kevin McArdle: That's
+interesting. People really need
+each other. And at the same
+time, people have independence.
+Arvid Kahl: Yes
+Kevin McArdle: Do you know what
+I mean? I think people need each
+other by choice versus like a
+corporate environment where you
+have to sort of play the games
+to advance in your career. If
+you're the controller of your
+own destiny, you're a founder.
+You don't need to build
+community with other people in
+your situation. It's beneficial
+to do so. Yeah, I haven't read
+that essay. I'll maybe go back
+and look at it. But I think and
+I hope society's evolving a
+little bit because I see and
+it's you know, as we're
+recording, it's the time of the
+year where kids are graduating
+and moving from you know, I've
+got a couple of moving from one
+school to the next and I see the
+way kids interact with each
+other today and it's sort really
+not perfect. But I think it's
+less clicky than when perhaps we
+were in school and Paul Graham,
+you know, it's an interesting
+comparison schools to prisons
+because like, you just can't
+leave. And there's a person in
+charge of making sure you do
+what you're supposed to do. But
+I think the educational system
+is certainly still has its
+flaws, but I think it's evolving
+in a lot of good ways in terms
+of like, more belonging, you
+know, kids treating each other
+as like, we're all one big group
+versus I'm a jock. And I can
+only be defined by that, but
+it's so situational, right? Like
+and the Peter Principle, you
+know, there's one human being
+that I can remember who is the
+epitome of the Peter Principle
+just being promoted past his
+competence level. And I always
+picture that person when I hear
+the Peter Principle. And there's
+also people we know that like,
+just bullied people through
+their whole lives and are
+incredibly you know like
+successful by what you know,
+like a business or economic way
+by doing that. And
+unfortunately, people look at
+them and say, well, that's the
+way that you succeed in
+business. So
+Arvid Kahl: That's the thing
+like the media attention on
+those people either attention
+that they created for themselves
+because they are sociopathic
+enough to allow for this, right?
+They don't hold back or because
+they stand out so much. And use
+agencies or you know, the tech
+crunches of the world, they take
+a look at them. And they just
+think it's so clickbait
+generating, I will have a
+headline that works. That is
+really unfortunate. I'm glad
+that you say this about the
+evolution of the educational
+system. And I have this feeling
+that I guess the digital
+transparency, the fact that we
+are interconnected and
+everything that happens happens
+everywhere immediately, right?
+When you hear something happen
+or something happens, you hear
+about it within 30 seconds if
+it's important. That didn't used
+to be the case in the 60's, 70's
+and 80s, where you would have
+the full day before the kids
+could report back to the parents
+and if at all, right? You would
+have a delay in stuff. And that
+changes the immediacy of how
+behavior is rewarded or punished
+in these situations. So I guess
+that helps. And by shining a
+light just on the system and
+make it fairer, make it more
+equitable and that stuff. And I
+have a feeling that's it's
+almost the same in the
+entrepreneurial community and
+particularly with people sharing
+their stories like building in
+public or just being more
+approachable and being more
+allowing more insight into their
+businesses, that creates more
+equitable, more fair and more
+accessible businesses in the
+space that I'm in. And let's
+just call it the indie hackers
+SaaS founder community, as
+specific as it gets. When I see
+people build in public and I'm
+just realizing this now. So
+you're part of the thought
+emergence here.
+Kevin McArdle: Yeah
+Arvid Kahl: The fact that they
+have feedback cycles with the
+whole community, often surfaces,
+accessibility issues was so much
+earlier than when the founder
+would have thought of them,
+right? So yeah, I've had that
+with my own content, like people
+told me your blog is great. But
+I have dyslexia, I can't read
+this, like, what do I do? So I
+had the option of either
+starting a podcast, which I
+ended up doing or having at
+least a little snippet of a
+WordPress plugin that
+automatically generates like an
+audio version of the article
+that I would write and that
+happened like three or four blog
+posts into my actual blog
+existing because people like
+myself from the beginning, I was
+already sharing everything I
+did. So they quickly could give
+me the feedback on, this is not
+accessible. This is kind of
+excluding people who have this
+issue.
+Kevin McArdle: I understand you
+may not have come to that
+conclusion not as quickly or
+ever, right? Yeah
+Arvid Kahl: I would have had
+more readers like that's the
+thing that default is people can
+read and write and hear and see,
+right? That's kind of the
+societal default. But obviously,
+not everybody is included in
+this group. But the group is big
+enough to kind of allow for
+these people to fall off the
+site and still turn it into
+something big, right? Which is
+why accessibility is so
+important.
+Kevin McArdle: Yeah, that story,
+like I can read, I can see, I
+read very slowly. So I'm more of
+a podcast fan, but like, just
+knowing that you had that
+feedback took the step to say,
+well, let me try to make this
+more accessible for other people
+draws the "normal groups" of
+society to you more because
+like, well, at least Arvid gives
+a shit about like somebody who
+has trouble reading. I don't
+look so it's interesting that
+we're talking about this and
+it's no surprise because like, I
+love how your content is like
+founded in or like grounded,
+maybe it's a better term in just
+kindness. You know, I like you
+talk about building an audience
+onTwitter and like conventional
+wisdom is like, hot takes that
+are extreme is what gets you
+clicks and follows and
+engagement and like, that's kind
+of true. And I think that's part
+of what is like, makes normal
+media and social media hard to
+consume a lot of times because
+everybody feels like they have
+to be polarizing. And then you
+step into the world and you're
+like, well, what if I'm just a
+nice person and if I like, give
+people compliments and I just
+try not to be a jerk all the
+time. And I think part of what
+we get along is like, that's my
+attitude too like, but it's not
+from I don't know how to say
+this. It's not from like a
+business strategy perspective.
+It's not like, oh, well, I think
+more founders will be attracted
+to me if I act like a human
+being and don't have the sharp
+elbows. It's just like, I don't
+have the time or patience to
+live any other way. Like, this
+is just kind of who I am. And so
+long ago, I figured out like,
+just be who I am. And the right
+people will hopefully be
+attracted to that. And almost
+more importantly, the wrong
+people will be repelled by that.
+Arvid Kahl: That's right!
+Kevin McArdle: And there are
+several examples of where I can
+think of somebody either not
+wanting to work with me or for
+me or choosing to sell to
+somebody else. And you know, on
+and on down the list or like
+choosing not to invest in my
+company. And there's like, good,
+well, okay, check, process is
+working because we had somebody
+self select out of my orbit, so
+I'm going to keep doing what I'm
+doing.
+Arvid Kahl: That's so great.
+That is one of the things that I
+love about having like a public
+persona. You allow people to
+self select out. And it is not
+conventional wisdom to get rid
+of people from your potential
+audience, right? Because
+everybody wants numbers,
+numbers, numbers, bigger,
+bigger, bigger, but having the
+wrong people in your audience is
+gonna cause more damage than
+them actually self selecting out
+of it. And that is true for
+anybody, right? Audiences,
+customers, partners,
+collaborators, all of this, like
+if you have a group of the right
+people, no matter how small it
+is, your impact is gonna outsize
+the impact you have with a mixed
+bag of everybody who may or may
+not be vibing with you. Let's
+talk about that business. Let's
+talk about what you're currently
+building because I was just
+going to throw in another
+compliment. Like, the reason
+that I can be this on Twitter
+that I can just be kind and
+friendly and empowering and
+motivating is because I've
+worked with and found people in
+the higher echelons of the
+entrepreneurial world, like
+yourself who are like this. Like
+I've seen in you and the people
+that you work with and the
+people that I got to meet
+through you, that it's possible
+to do this at a super high level
+and be effective and successful
+and friendly and kind and all
+these things at the same time.
+So it is like motivation by
+example, that allows me to do
+this and now be this for other
+people myself.
+Kevin McArdle: Yeah, that's a
+cool thing is like you, I think
+you are now voted, you know, not
+to, I mean, I know how big your
+audience is, Arvid because I'm
+not the type of person who
+clicks a profile, how many
+followers do you have? So it's
+like, I don't know how many
+followers most people have. I'm
+sure your audience is gigantic.
+And that's exciting to think
+about you being that example to
+other people because there are
+still so few example then like
+my platform of choice is
+Twitter. There's still so few
+examples of just like kindness
+and positivity on that platform.
+And you know and people seeing
+all the success you've had in
+building an audience and
+building a huge podcast
+following and all that. But the
+other kind of, sort of, like I
+was saying, like, you would suck
+at it if you tried to do it the
+other way, you know, because
+you're just not that person,
+right? If you were trying to
+like, you know, troll people and
+you know, insult people all the
+time, like, it would be
+inauthentic. You wouldn't be
+good at it because that's just
+not who you are.
+Arvid Kahl: It would be so
+weird. It would be hard. I
+honestly
+Kevin McArdle: I dare you to do
+that for a day and do it like
+next April 1st
+Arvid Kahl: That would be fun.
+Kevin McArdle: People would pick
+it out right away. But like just
+to spend the day just being a
+jerk online and see what
+happens.
+Arvid Kahl: See, the thing is
+with anything online, like
+there's barely any context,
+right? Twitter doesn't have
+context because it's text
+exclusively. It's just the line
+of text. It doesn't have your
+smile, doesn't have like the
+subtle kind of tone of your
+voice when you like just insult
+somebody, but there's a smile
+under it, right? It doesn't come
+through if you just say "fuck
+you, everybody" on Twitter,
+like, it would be funny, but you
+know, like somebody would
+probably and that's the thing.
+That's why my thinking is in
+those moments, somebody probably
+just had a really shitty
+experience an hour ago. And now
+they're on Twitter scrolling
+through and trying to find
+something positive. They see me
+telling them to fuck off. They
+don't want to be that, right?
+Arvid Kahl: You never know where
+somebody else is. And that is
+Kevin McArdle: Their bad
+experience
+for good or for bad, right? You
+never know like how high they're
+flying or how low they're
+currently crouched on the floor,
+just like rolled up in the
+bundle because they're going
+through something. So the
+default for me is trying to
+shift it towards the positive
+but it would be very interesting
+to just be like evil Arvid like
+Star Trek style just grow like a
+goatee like Spock and just you
+know be like from the evil
+universe for a day or two. Man,
+you're right. I think there are
+too few people. Let me just make
+the world's best segue at this
+point. It kinda sounds like it's
+just like a little group of
+maybe chamber musicians like two
+or three. But wouldn't life be
+better if they were in a much
+bigger band? What are you
+currently working on?
+Kevin McArdle: I see what you
+did there. Well done. I didn't
+know where you're going with
+that. But yeah, so I think
+you're asking about the new
+company. Yeah, Big Band Software
+is the new project. We just
+launched in March of 2023. Well,
+the company was founded December
+1st of 22, but launched early
+23. And yeah, the vision is to
+build a holding company of great
+software businesses. So we're
+buying software companies, 1 to
+10 million in revenue with no
+obligation to ever sell them,
+which is strange in our world.
+Usually transactions, you know,
+weirdly, the bigger the
+transaction, sometimes the
+shorter the cycle because
+investors want to put money into
+a business, grow it and then get
+that money out as quickly as
+possible. We just have a
+different approach. And partly
+because we've got like minded. I
+have two partners in this
+business, Chris Reedy and Jason
+Heath, both of whom I've known
+for five plus years. Chris, I've
+worked with before. And we had a
+similar vision. We've got some
+great investors who have given
+us the luxury of lots of capital
+to go spend over the next few
+years and they've got the same
+vision likes, let's build a
+holding company. If we own great
+software businesses, why would
+we want to sell those? You know,
+let it compound over years and
+dare I say decades. And so yeah,
+on the surface, we are buying
+smallish software companies. But
+beyond that, we're trying to do
+things quite differently than
+almost anybody that's out there.
+Arvid Kahl: So that's what's
+novel to me, like the difference
+between, like private equity as
+I know it and holding company.
+Can you kind of tell me what
+exactly you think is different
+Kevin McArdle: Yeah, so a
+typical private equity firm or
+between them?
+fund would raise a bunch of
+money, tell investors, okay,
+we're going to buy some stuff,
+we're going to try to grow it,
+and then we're going to sell
+everything in order to give you
+all of your money back. And that
+timeline would typically be
+somewhere between 7 and 10
+years. So Arvid, please give me
+your money. And in 7 to 10
+years, I'm gonna give you all of
+your money back, hopefully times
+three. And that's the model. So
+that means let's say, it's a 10
+year fund, which would be sort
+of at the long end of the range.
+But that, so I'm being generous.
+So now I've kind of got, you
+know, three or four years to
+spend all of the money that I've
+raised. And then I've got two or
+three years to try to grow those
+companies. And then I've got
+three or four years at the end
+to sell all of those companies.
+And to me, you know, there's a
+couple of challenges that I've
+always seen with that. And the
+first is like, if you've got a
+great asset and it's growing,
+why would you sell it? Like,
+that's the dream for everybody.
+And I'll come back to, there are
+a lot of reasons I love to say,
+there are 100 reasons why people
+sell a business and only one of
+them is money, right? So you've
+talked publicly about how you
+and Danielle, the business was
+great, but it was putting
+pressure on your marriage
+because all of the stress of the
+business. And that's a great
+reason to sell a business that
+has nothing to do with money,
+like almost nothing to do with
+money, right? So I want to be
+clear, like there's no problem
+with selling a great business.
+But being forced to sell that
+great business just because of
+the timing of your fund, I
+always had a problem with
+because what if you raise the
+fund, let's say 10 years ago and
+you're now obligated to sell all
+of those businesses during
+today's economy? You know, would
+you choose to sell that business
+now? Or are you doing so just
+because you told your investors
+you were going to give their
+money back? So I don't like the
+idea of being forced to
+celebrate assets if it's not the
+right time. And I don't like the
+idea of this like short term
+thinking, you know, I mentioned
+like, we want this thing to
+compound over decades plural. If
+you buy a business and you have
+two or three years to run it and
+then you have to start thinking
+about selling, the tendency is
+to make very short term
+decisions. So are we going to
+invest in research and
+development or do we hire
+another three salespeople? Well
+that trade off and this sort of
+a silly simple example but like,
+if I'm going to sell this
+business in three years, well,
+the default we will go higher to
+salespeople. Who cares about
+working down technical debt or
+you know, adding some feature
+what you're improving a customer
+experience? So, you know, like
+just growth at all costs, trim
+expenses. These are the knocks
+against private equity is that
+it's short term thinking. It's
+very transactional for founders,
+which is a huge part of your
+audience, I know. You know, a
+lot of times your company gets
+absorbed by a bigger version of
+whatever you're doing and the
+brand disappears and your team
+might get fired and your
+customers may or may not have a
+great experience. That's another
+reason why I never really liked
+the typical private equity
+model. And so, you know, mid
+last year, I literally took out
+a blank sheet of paper and just
+started scribbling like, okay,
+if I want to, if I have the
+opportunity to build my dream
+company, what would it look
+like? Who would be involved?
+What would our strategy be? You
+know, what are the beginning,
+middle, end points? What is my
+job look and feel like? Who do I
+get to work with and talk to on
+a day to day basis? And I mean,
+like, knock on wood, it came
+together in many of the ways
+that I sort of dreamed about
+back when I was scribbling on
+that page. And that's what Big
+Band Software is now today.
+Arvid Kahl: That's awesome. I
+like, the image of a big band,
+like the idea of a group of
+people each playing their own
+instrument, virtuously, right?
+But in harmony with each other.
+And just making fun music, like
+big band music, like I come from
+Dresden in Germany, that's my
+birth town. That's where I'm
+from. And we have a Dixieland
+festival there. Out of all
+places, in Germany, there's a
+yearly Dixieland Festival and I
+grew up going to this as a kid.
+Like, we would be there and
+there would be these wagons full
+of bands, big bands too like,
+sometimes 20 people, just, you
+know, with trumpets and
+trombones and all that kind of
+stuff. So I have a very vivid,
+like, visual representation of
+just how enjoyable the ensemble
+of a big band can be. So seeing
+you picking that name and idea
+for something that I also see as
+something very joyful, something
+very positive, a business that
+doesn't just take, grow, and
+then throw away businesses but
+actually embraces them. You
+should have called this like,
+it's kind of embracing, it's not
+a holding company. You don't
+hold them, you embrace them.
+It's an embracing.
+Kevin McArdle: Yeah
+Arvid Kahl: That's how it feels
+to me.
+Kevin McArdle: Let me go
+trademark embracing. No, that's
+cool because part of in yield,
+like naming a business sort of
+evolves, right? And both of my
+partners are musicians. And we
+had lots of sort of, we kept
+circling around musical names,
+but I love Big Band for all the
+reasons. And our tagline on the
+website is business in harmony.
+And for a lot of the reasons you
+said like individuals who are
+excellent at what they do, but
+coming together to create
+something that's bigger than any
+one of them could do. And the
+other thing that I love is like
+when like, just about everybody
+loves music, right? And it
+doesn't matter what kind or
+type. Almost everybody loves, I
+have never met a person who
+doesn't like music.
+Arvid Kahl: Yeah
+Kevin McArdle: And you jumping
+to the Dixieland festival in
+Dresden reminds me of like,
+right after we launched somebody
+else that I don't know well but
+we're sort of mutual followers
+on Twitter. He's like, I love
+it. It reminds me of the second
+row. And I knew what he was
+talking about. He grew up in New
+Orleans and no, not the second
+row, the second line and it's
+like in New Orleans, there's
+always like, you know, marching
+bands, not in the traditional,
+like school band sense. But
+like, New Orleans is full of
+music. I don't know how to
+explain this to people,
+hopefully, they know. But like,
+parties, there's always a band
+marching through the street. And
+it's sort of organized, sort of
+group and then the second line
+is just anybody who else is in
+the crowd has an instrument or
+an umbrella. They just want to
+dance like and so the name Big
+Band just made him think of that
+thing, which you could tell was
+a joyful thing for him just like
+the Dixie festival is a joyful
+thing for you. And also, just
+like, you know, another mutual
+friend, I was just emailing with
+Murich Dowsinger with you know,
+when we were talking about this,
+he's just like, it feels human.
+Like, thank you. And like, of
+course, why do most people not
+name businesses and things that
+like? They're all just
+collections of humans with a
+common vision and mission but
+like, we come up with these
+names that like are like feel
+more like robots than humans. So
+I'm glad it clicks with you and
+it seems to click with a lot of
+people and at the end of the
+day, it's just a name and we
+gotta go, you know, do good
+things, but
+Arvid Kahl: That's right. Yeah,
+you have to kind of the name is
+goal, right? You want to
+accomplish this and it's gonna
+be an interesting goal to
+accomplish. I want to ask you
+more from the perspective of a
+software business owner now
+because it's kind of you're
+building this company that is
+willing to acquire businesses,
+while then what do businesses
+need to look like to become part
+of a big band? It's kind of what
+I want to know because many
+people, you know, they are
+trying to build a software
+business to, obviously, turn it
+into a lifestyle, you know, have
+revenue come in and live your
+life under your own control,
+without any external forces
+shifting around. But like we
+said, for many reasons, they
+might want to sell at some
+point. So what makes the
+business interesting for you in
+this context of the big band?
+Kevin McArdle: Yeah, I love that
+question. Like simple things to
+point out, we're looking for
+businesses that are 1 to 10
+million in revenue, profitable
+and growing. They don't have to
+be growing at 200% a year. They
+don't have to be hugely
+profitable. But that's sort of
+the niche that we're looking
+for. That said, you know, there
+are a lot of different ways to
+create a wonderful business and
+it is a lot dependent on the
+founder and what their vision
+is. And so, you know, like, if
+selling to Big Band is an
+endpoint for somebody awesome,
+like, let's chat. But I don't
+think people should build their
+business to somebody else's
+specifications. Does that make
+sense?
+Kevin McArdle: So I think we're
+doing things differently than a
+Arvid Kahl: Oh, absolutely.
+lot of people. But if you build
+a great business, loosely
+defined, right? Like, there's a
+lot of different ways to define
+a great business. And as a
+founder, you should be building,
+I believe you should be building
+the greatness that is in your
+head. Like whatever the people
+listening to this, however, they
+define great, go build that and
+somebody will want to buy it,
+whether it's big band or
+somebody else. And so, you know,
+we look at a lot of things that
+many people do, like, you know,
+in a SaaS world, low churn is
+hugely important. And you don't
+want a lot of customer
+concentration and these sorts of
+things. But it's also like, it's
+also the same advice of like, if
+you're building a great
+business, what does a great
+business look and feel like? So
+let's go aspire for that. And
+sort of like the sale takes care
+of itself is one way to look at
+it. And I sort of annoy myself
+because I'll make two sides of
+the same argument immediately
+and contradict myself.
+Arvid Kahl: Sure
+Kevin McArdle: So the one side
+of the argument is build a great
+business and things will take
+care of itself. If you have a
+great business, loosely defined,
+however you define it
+personally. Someone will want to
+buy it when you are ready to
+sell it. The second side of the
+argument, I've started telling
+people for a long time, I've
+said it's never too early to
+start thinking about an exit.
+I'm now like evolved that. I
+think exit planning should be an
+annual exercise, just like
+strategic planning. And I'm
+going to publish something about
+this. It's sort of like half
+written. So I'll make sure you
+see it early. And I can put it
+in the show notes, whether it
+comes out before or after the
+podcast. But just like we do
+like annual planning or
+strategic planning once a year,
+not we like not everybody does
+this. But that's sort of
+conventional wisdom that one
+should do that. I believe one
+should do exit planning once a
+year as well, even if you don't
+think you're going to be selling
+for another 5 years or even 10
+years because the exercise of
+exit planning makes you think
+about things that you don't
+think about, you know, the other
+51 weeks of the year. And so I
+think it's a very healthy
+exercise for founders to think
+about that like, okay, at some
+point when I'm ready to sell,
+what are people like Kevin and
+others like him interested in?
+What do they care about? Am I
+checking off those things? And
+it's not about Kevin. If I check
+off those things that will make
+my business healthier, it will
+make it better and easier for me
+to run. A great business to sell
+is also a great business to own.
+We know this. And so I'm going
+to, you know, continue to
+encourage people to make this an
+annual exercise. Because the
+other part is like, you might go
+into this annual exit planning
+exercise thinking, well, I don't
+want to sell for five years but
+I'm gonna do this planning
+because Kevin told me I should
+and, you know, I'm gonna just
+follow his advice. 12 months
+from now, you might be in a
+different position or 6 months
+from now you might be in a
+different position. And if you
+haven't thought about selling,
+if you haven't thought about
+these things of like, what's
+important and how do I get ready
+to sell my business, you're not
+ready to sell your business. And
+so that's again, one of the
+reasons why I believe there's
+should be an annual exercise for
+founders because you don't
+always get to choose when the
+right time to sell is and that
+could be a very positive thing.
+Somebody approaches you and
+says, I want to buy your
+business and you need to react
+to respond. Or it could be a
+negative thing. And
+unfortunately, I've had several
+situations where founder gets
+sick, founder's spouse gets
+sick, co founder gets sick. You
+know, child, God forbid, gets
+sick. And like, all of a sudden
+focus needs to be on those
+things versus the business. And
+just being ready and having at
+least thought about the process
+and what to do, I think is super
+helpful and healthy.
+Arvid Kahl: What would somebody
+ask themselves, like, during
+such an exit planning session?
+What would be the like, the most
+important things that you would
+do every single year? And maybe
+track them over time, obviously,
+because they change. But you
+know, I may be getting ahead of
+you here. But what will be the
+Kevin McArdle: So at the top of
+the list is if you have a co
+most important stuff?
+founder, are we on the same
+page, right? So like, and the
+Arvid Kahl: Drama
+same page might be, I just
+talked to a couple of guys, they
+happen to be guys that have been
+best friends. And then they
+start a business and the
+business is going well. And it's
+one of those like dream
+scenarios, right? Where you get
+Kevin McArdle: And then problem
+turns into conflict and drama.
+to be in business with your best
+friend. And it's, you know, good
+things happen. But one of them
+is like, well, I might want to
+do this for another two years.
+And the other one is like, I
+could do this forever. And
+they're in their 30s. So it's
+not huge conflict. But they're
+not quite on the same page. So
+let's talk about that, right?
+And another same page issue is,
+you know, somebody, you know, if
+you've got two co founders and
+one says, man, if I could sell
+this business and my share is
+And unfortunately, co founder
+drama kills a lot of companies.
+$10 million, that would be
+amazing, life changing amount of
+money. I'd be totally happy with
+that. And the other co founder
+might say, I'm not selling
+unless I take home $50 million.
+Well, that's a problem. And if
+you're doing this on an annual
+basis and you do it early, it's
+a discussion. If you wait five
+years and don't uncover it or
+you don't address it, it becomes
+a problem.
+And so that's one of the things
+just like a check in and it
+doesn't have to be only once a
+year, but making sure if there's
+co founders or other owner,
+meaningful owners of a business.
+So like, if you have an angel
+investor who owns 1% of your
+business, you are not obligated
+to have this conversation with
+that person. But just
+understanding like, are we on
+the same page with timeline
+economic output? Life, like
+commitment to this? Like, are we
+working 100 hours a week, every
+week until we die? Or do we want
+to have, you know, a more
+easygoing, like, healthy,
+sustainable lifestyle? And, you
+know, those are the co founder
+dynamics is at the top of the
+list. Now, if you're solo
+founder, obviously, that's less
+important. However, might be
+good to have that conversation
+with a partner or a spouse if
+you have one. Because they are
+certainly a stakeholder in you
+and your commitment to the
+business. The other things that
+are important in like an annual
+exit planning exercise that may
+not be addressed in like a
+strategic planning exercise is,
+you know, how much am I involved
+in the business as a founder?
+And early stage, you're involved
+in everything. You do
+everything. As your business
+grows and you start thinking
+about exiting, you want to be
+doing less than less. And I
+think that's one of the things
+that you and Danielle did very
+well is sort of identify how do
+we delegate these things to
+team? How do I document what I'm
+doing so that somebody else can
+pick it up and do it? So those
+sorts of things are part of a
+annual exit planning exercise.
+And I love how you jumped to
+like tracking it over time. I
+was just talking to a woman who,
+we were having these
+discussions. Off the record, I
+won't share who. But you know,
+she's of the mindset where she's
+like, I could do this forever.
+I'm like, awesome. Do it
+forever, if you're happy. And if
+you start tracking this, like
+today, your answer is I want to
+do this forever. And next year
+at this time, your answer might
+be do it forever. And then two
+years, three years time do it.
+But then your four if you say,
+you know, maybe I can see the
+end of the runway and I should
+start thinking about this and
+then your five it's like, I'm
+getting a little tired. If you
+do this just one point in time
+and let's say it's year four and
+the answer of your annual exit
+planning exercise is I can kind
+of see the end of the runway and
+I want to start thinking about
+this. You don't have that. It's
+not a trend. It's just a this is
+how I feel right now. And so
+that's a you're a smart guy and
+you jumped right on. I think
+having the you can go back and
+like trend over time. How am I
+feeling about this and that's
+doesn't mean, if your trend
+starts to dip towards or go up
+towards, like, maybe it's time
+to think about selling that
+doesn't obligate you to think
+about selling seriously. But
+it's a good data point and a
+good exercise to have with
+oneself or with one's you know,
+co founders to, you know. It's
+really important to set aside
+the time to have that thought
+and discussion separate from
+like, annual planning.
+Arvid Kahl: I love this. And you
+know, what I love most about
+this is that almost every single
+point you just mentioned in your
+business exit planning strategy
+has almost nothing to do with
+the technical parts of the
+business, like the operational
+part of the business at all.
+Kevin McArdle: No
+Arvid Kahl: It's all persons,
+all human
+Kevin McArdle: Which is why it's
+different. And the other point
+I'm making and like, annual
+planning people, you know, if
+you're super on the ball, you
+might be doing it in October,
+November in preparation for the
+next year. If you're less on the
+ball and you might be doing in
+January, February or like what
+do we hope happens this year,
+even though we're a little bit
+into it, obviously, depends on
+seasonality and cyclicality of
+your business. It could be
+nothing but turning the page of
+a calendar is typically when
+people think about strategic
+planning for the business. I
+believe exit planning should be
+opposite. I'm going to recommend
+to people like late spring,
+summer, like most business
+cycles tend to slow down a
+little bit in the summertime.
+And because it's a very
+different conversation with
+oneself or with one's co
+founder, it should not be the
+same week of the year. Don't do
+your business planning or exit
+planning. Because, yeah, you're
+right. It's all about sort of
+like how are you feeling up
+here. And in here, your head and
+your heart to say like, do I
+still want to do this? You know
+and like being honest with
+yourself? Do I still want to do
+this is different than how do I
+grow the business? And how's the
+tech stack doing? Where's the
+product roadmap? And how are my
+customers doing? I'm telling
+people set that all aside, this
+is a selfish, how do I feel? How
+do I feel with my co founder?
+How's my spouse feeling about
+this business and is now the
+time to start thinking more
+seriously about selling?
+Arvid Kahl: Yeah, that's really
+cool. I really appreciate that.
+I think I've written about this
+a couple years ago. It was a
+consequence of me, like dealing
+with the sale itself and the
+process of building the
+business. I also had or
+redeveloped. Danielle and I
+developed this kind of check in
+with each other every couple of
+months. And I think we call this
+the founder business fit. Like
+if the founder is still good for
+the business because the
+business can operate if you
+build it in a sellable way. And
+that's what you just said a good
+business is a sellable business.
+A sellable business is a good
+business, right? So if you can
+remove yourself from that
+business, that itself could be
+run by somebody else. And that
+doesn't have to be you, right?
+It could be run by somebody and
+it is not kind of bound to the
+founder and checking in with
+yourself for this founder
+business fit. You're right. The
+honesty part is probably the
+hardest in there like, among all
+the different things you can
+talk about, right? You can talk
+about like your vision and how
+much you would like a certain
+thing. But we all have these
+narratives in our mind about how
+life should be, right? Where we
+are supposed to end up because
+our parents told us that that is
+the dream that we are supposed
+to live or we ourselves have
+found that in our communities
+and now we want to live somebody
+else's dream. So being honest
+enough to say, well, I need less
+than this or I need more than
+this to feel secure. That's the
+hardest part. And I think for
+that, I love that you make this
+about the time of year too. I
+just had a thought because like
+when you do these sessions, when
+you do these kind of I don't
+know if it's called the summit
+or something but you take
+yourself away. You have your
+little conversation. You lock
+yourself in the room with
+somebody or just by yourself for
+a day or two and you just talk
+about this one specific topic,
+time of year and location, how
+much do you think that actually
+impacts what comes out of these
+conversations? Comparing like
+being at the beach having that
+conversation versus like being
+somewhere in the mountains in
+the winter in a little cozy
+little board cabin? You think
+that actually impacts what comes
+out of these things? I'm
+curious, what do you think?
+Kevin McArdle: I do think
+there's something to time and
+place and space and it's all
+individual, right? Like so like
+on the beach, I would say don't
+do it during your family
+vacation that is not like this
+is a business meeting or
+conversation even if you're
+meeting with yourself and so
+don't take family vacation time
+to do this because I don't think
+that's the right frame of mind
+to do it. And like for me, a
+small cabin in northern
+Minnesota where I live in the
+Twin Cities but going a little
+bit away into the wilderness
+would be a great setting for
+this. Other people it might have
+to be on a beach. Other people
+it might be like in a cozy cabin
+with snow outside like it's all
+individual but I do think
+there's something to not being
+in your normal workplace. It
+just lets sort of like your
+normal workplace, there's always
+like distractions and things
+that you think you should be
+doing. But I think there's a
+reason that people do like and
+it's sort of gotten a little
+cheesy, but they like offsites
+is sort of like, oh, we're gonna
+leave the office and we're gonna
+go somewhere else and think
+about different things. It can
+be a little bit contrived. But I
+do think there is something like
+getting out of your normal
+setting to help you think a
+little bit differently than your
+day to day. And then beyond
+that, it's all personal. Like, I
+jump to spring and summer
+because I'm a sort of anal
+annual planning happens in
+November so that January one, we
+know the plan and we're
+executing the plan. And to me, I
+want it as far removed from that
+as possible. But you know, other
+people might have different
+ideas. And I don't really care
+if you know, it won't hurt me or
+bother me at all if nobody ever
+does this. But if somebody wants
+to do it, I would just encourage
+like it, make it an annual
+exercise, make it different than
+your typical business day.
+Arvid Kahl: That's a great idea.
+Yeah. And it will be unique to
+every, like every person really
+like when their best time is to
+have this conversation. It's
+just an interesting idea to
+think, like if there are times
+or places that would like
+inhibit a good conversation or
+amplify it, right? The outcomes
+of it, that would be kind of
+cool. Thanks for sharing this,
+like I love the way that this is
+a thing, right? Like the exit
+planning strategy session,
+whatever you call it, that is a
+thing that can be well defined.
+Kevin McArdle: Yeah, and that's
+why I'm trying to define the
+thing and one of my friends and
+investors is Dan Martell and he
+always will, like come up with a
+bumper sticker phrase and then
+add TM to the end. So I'm
+trademarking annual exit
+planning, owned by Kevin McArdle
+because people ask me all the
+time, like, how should people
+think about like, going about a
+sale? And like, what is the
+right time and like, you know, I
+may even, you know, inspired by
+you, like, create a course about
+this. Not about like, making
+money or like gating the
+specifics, but just create some
+structure and help people think
+because, you know, like you and
+Danielle, I've been fortunate to
+buy businesses from 45 people
+over a period of time, actually
+closer to 50 if I think back
+further in my career. My
+partners have, you know, between
+all of us, we've probably
+acquired 60 businesses. We've
+also sold businesses and so
+like, we have a little bit of
+expertise in this. And so I want
+people to be successful,
+especially bootstrapped
+entrepreneurs who have, you
+know, fought their way to create
+a great business. And so making
+it like you said, a thing and
+not just, you know, read a blog
+or listen to a podcast and like
+that's going to be what I go try
+to do. I think if it can be a
+structured thing that becomes
+like strategic planning. If you
+want to go find a strategic
+planning template, they're easy
+to find. Annual exit planning is
+not as easy to find, yet, but it
+will, you know, I think making
+it a thing can be helpful to
+people. And so that's why I'm
+putting the time in to sort of
+think and write and, you know,
+eventually will publish and
+maybe even turn it into a course
+or workshop type of thing.
+Arvid Kahl: It's really about
+the coining the term, right? And
+that makes it more accessible
+because people refer to it and
+they know what it is. And I
+think that's what Dan is great
+at. And that is what you could
+definitely use.
+Kevin McArdle: Dan is great
+about, yeah, like coined the
+term, create a framework, give
+people something that they can
+just pull off the shelf and, you
+know, take action. And the other
+thing and then we can move on
+from this point. But making it
+an annual exercise means that
+it's something that you should
+just be doing anyway because I
+think there's especially this is
+one of those weird nuances of
+like bootstrap indie hacker
+community. There's sort of this,
+I think, unfair expectation that
+like people will and this may
+have come out of like, there are
+some very famous bootstrapped,
+you know, indie people based in
+Chicago who have said publicly,
+we will never sell a business. I
+think you know who I'm talking
+about, which is just unhealthy
+to use the word never or always
+in most cases. But you know,
+they were the leaders of this
+community for a long time and
+still people look up to them.
+And so there's unfair
+expectation, like you're going
+to do this forever, which that's
+not how business works. Like
+every business transacts. It
+could be when somebody dies, but
+eventually businesses transact,
+you know and in the software
+world that we live in, people
+don't hand businesses down to
+their children like
+manufacturing plants or you
+know, some of these older, you
+know, like a farm. Like that's
+not how our business works. And
+so it is normal and healthy to
+think about the exit. And
+because of this weird dynamic
+that's in the, you know,
+bootstrap indie thing, like, a
+lot of times people come up to
+me in real life if I see them at
+a conference. And they'll open a
+conversation with, you know,
+Kevin, I don't want to sell my
+business right now. But how
+would it work? Or what is it
+happens to my team? What happens
+to customers? What would I do?
+How would it be involved? Like?
+So they have these questions,
+which are normal, healthy
+questions, but they feel like
+they have to preface it with I
+don't want to sell my business.
+And I don't know if that's just
+like, don't get too excited,
+Kevin. We're just having a
+conversation or but do you see,
+do you know what I mean? Am I
+making this up? Like, there's
+this expectation of we're going
+to do this forever. That's not
+normal. Like, we don't have to
+think like that.
+Arvid Kahl: You're not only not
+making this up. Like a couple of
+weeks ago at the point of when
+this is actually being
+published, I will have released
+an article that is titled, like,
+short live businesses versus
+forever businesses because it's
+exactly this topic. Like people
+think that what they need to
+build immediately when they
+start building a business is
+their forever business. And it's
+a bizarre idea because if you
+look at home ownership, right?
+People have a starter home and
+then they have slightly bigger
+home and then they move into
+forever home. But forever home
+is never the starter home,
+right?
+Kevin McArdle: It's not actually
+a forever home, rarely forever
+home is a forever home.
+Arvid Kahl: Exactly! Forever
+homes don't even work.. Exactly!
+Kevin McArdle: Yeah
+Arvid Kahl: If homes are
+something that even if it's many
+years or decades, it's still
+temporary. Why do we not
+consider businesses to have the
+same lifespan, particularly in a
+digital internet enabled society
+where a long living product is
+like five years maybe, right?
+It's bizarre. I looked at and
+researching that article, I
+looked into the world's oldest
+company. And apparently that's a
+Japanese construction business
+that has been around since like
+570 AD, like they've been around
+for 1500 years and they still
+construct buildings today as
+they were doing it back then.
+You can do this in the
+construction industry. But you
+cannot do this in the SaaS
+entrepreneurship industry, like
+even next week is probably going
+to be a different technology du
+jour that you have to use to,
+you know, build the coolest and
+latest in tech. So we have much
+different timeframes now that
+also should impact how we think
+about businesses, right? And my
+whole thought in this was, well,
+why don't we actually consider
+our businesses to be something
+temporary as well, at least when
+we start out, right? And that's
+the whole Rob Walling stair
+stepping approach too like, you
+built some things here, you see
+how they work if they were cool.
+And if not, well you try
+something else and then you step
+into well, now I have some kind
+of time freedom. I can now spend
+more energy on maybe solving
+bigger problems and then you
+exit that and then you get to
+your SaaS and you run this for
+however long you want, forever,
+whatever that means. I mean, the
+whole topic of like lifetime
+deals and stuff, I don't even
+want to touch that, right?
+Lifetime of what? But if your
+business has a lifetime of like
+five years, that is still a
+successful business,
+particularly if you get to sell
+it to somebody who turns it into
+something else or winds it down,
+but transfers customers over to
+an equally interesting business.
+There are many ways. And it's
+kind of like the cycle of energy
+in nature. Like we have fungi
+for a reason, right? Like
+they're not just delicious when
+you cook them. They empower a
+whole system of cycling through
+material and I feel businesses
+should be considered something
+similar. Which means together to
+an end in this monologue of many
+things, that it is perfectly
+fine not to have to build a
+forever business. But to
+actually build a temporary
+business that you want to get
+from A to B through, that's the
+idea. And for me, Feedback Panda
+was kind of that, right? Now I
+get to do this.
+Kevin McArdle: Well, even if you
+were building, like the Japanese
+construction company, I'm
+interested to read your blog and
+learn more about that. But like,
+even if the business continues
+on, you may not be running it
+and operating it certainly even
+if it's the same family that
+Japanese company has changed
+hands hundreds of times at this
+point. And so why wouldn't we
+assume that whatever we are
+building as business owners, of
+course it's going to change
+hands, right? Whether it's you
+know, like the timing that I
+think right now today or you
+know, the timing that might
+change. Here's another like
+thing that I'm going to release
+a secret into the wild. It's
+okay to change your mind on what
+you think is going to happen,
+right? Like we might start and
+have a successful company that
+you say to yourself, I want to
+do this for the next 20 years.
+And in 12 months, your mind
+might change like we've already
+talked about. And so just
+understanding that businesses
+change hands and that's
+certainly an important point in
+that business and in one's life,
+right? Because if there's a
+monetary reward for that, like,
+why wouldn't you be thinking
+about that annually? You don't
+want to think about it every day
+or every week and obsess over it
+because then it becomes a
+distraction. But that's why I
+want to make it a thing. This is
+we annual Exit Planning is a
+thing that smart business owners
+do. And there's a structure and
+a framework and Kevin will
+publish his thoughts on what it
+should look like or could look
+like and other people smarter
+than me, will say, cool idea,
+I'm gonna make it better. And
+hopefully, it becomes a thing,
+just like, strategic planning is
+a thing.
+Arvid Kahl: I am very much
+looking forward to you
+publishing this for you to
+change the world of
+entrepreneurship. But honestly,
+I think, honestly, that is a
+change. You're not disrupting
+it. But I think and that's great
+because it doesn't need more
+disruption. But you're giving it
+the tool, we're giving people
+the tools that they need to do
+something that they already want
+to do in a better way. So I
+think I love the idea that
+you're turning this into a very,
+you should write about this
+maybe more extensively. Like, as
+I'm writing my third book, why I
+want to do the same thing but
+with building in public. Like I
+want to put this out there as a
+concept, as a framework, not
+just for for indie founders, but
+for anybody who wants to go from
+A to B, right? You can always
+kind of empower your community
+to help you and help them in the
+same way. So why not turn this
+phrase into something that
+people can actually use? And as
+I'm doing this, got a suggestion
+to you. Do more writing, I think
+the world needs these thoughts
+as a book.
+Kevin McArdle: Well, I think, I
+need to do more writing. I've
+seen how successful you have
+been with it. I think you're
+also I don't consider myself a
+great writer. But I also know
+like, when I write something
+down, it helps me to think about
+it more clearly. So I have some
+clarity about this concept
+because I've been writing about
+it and haven't published but
+yeah, as soon as we're done
+recording, I will go tweet:
+annual exit planning is now a
+thing.
+Arvid Kahl: Yes
+Kevin McArdle: And then go
+around it from there.
+Arvid Kahl: I love that. Well,
+since you're already mentioned
+that, like where do people go to
+find out where are you sharing
+this kind of information? Where
+do you want people to find and
+follow you?
+Kevin McArdle: Yeah, two great
+places, if you go to
+bigbandsoftware.com, we have a
+newsletter that I'm really proud
+of that we share our ideas. We
+also share links to, you know,
+smart people that we know in the
+world and what they're
+publishing, talk about our team,
+talk about like hiring needs,
+those sorts of things. So yeah,
+just bigbandsoftware.com and
+you'll get a pop up for the
+newsletter. And me on Twitter is
+the best way to find me
+Kevin_McArdle and McArdle has
+one. Sorry, one C, people always
+get that confused. And there's
+more than one Kevin McArdle on
+Twitter, unfortunately. But
+yeah, I'm easy to find. And I
+love engaging with people on
+that platform as long as
+they're, you know, kind and good
+spirited like you. So yeah and I
+love helping entrepreneurs. So
+whether somebody might someday
+sell to big band or not is
+immaterial. I just know that
+entrepreneurship can be very
+hard and it can be very lonely.
+And if I can make it even, you
+know, 1% easier or less lonely
+for somebody who's out there
+working hard, then I'm happy to
+do that.
+Arvid Kahl: You've certainly
+helped me and I know many people
+who you have helped in the past.
+And I know you are going to help
+hundreds, if not 1000s or
+millions of people, depending on
+how well your writing gets
+received by the community.
+Kevin McArdle: Oh, that's nice!
+Arvid Kahl: But honestly, I'm
+super happy that you also just
+appeared on my show here today
+and shared what you're doing,
+how you're doing it and the kind
+way in which you're doing it. So
+hey, man, thanks so much for
+being on. That was an awesome
+conversation. I'm so glad.
+Kevin McArdle: It has truly been
+my pleasure, Arvid. I'm so
+grateful that you had me on.
+It's so fun to talk to you as
+usual.
+Arvid Kahl: Thanks so much. Have
+a good one.
+Kevin McArdle: You too.
+Arvid Kahl: And that's it for
+today. Thank you for listening
+to The Bootstrapped Founder. You
+can find me on Twitter
+@arvidkahl. You'll find my books
+and my Twitter course as well.
+If you want to support me and
+the show, please subscribe to my
+YouTube channel, get the podcast
+in your podcast player of choice
+and leave a rating and a review
+by going to
+(http://ratethispodcast.com/founder).
+Any of this, will truly help the
+show. Thank you so much for
+listening and have a wonderful
+day. Bye bye.

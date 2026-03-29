@@ -1,0 +1,52 @@
+{
+  "topic_id": 152987,
+  "title": "Education student portal error v15.68.0",
+  "slug": "education-student-portal-error-v15-68-0",
+  "category_id": 40,
+  "tags": [
+    "erpnext",
+    "customization"
+  ],
+  "created_at": "2025-09-01T11:22:22.439Z",
+  "last_posted_at": "2025-09-01T11:22:22.572Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/education-student-portal-error-v15-68-0/152987",
+  "views": 38,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "sharifka",
+  "posts": [
+    {
+      "id": 479589,
+      "username": "sharifka",
+      "name": "sharif",
+      "created_at": "2025-09-01T11:22:22.572Z",
+      "cooked": "<p>i have a problem running on v15.68.0  about the student portal.<br>\ni am using self hosting using nginx and etc so i tried different urls to access the student portal.</p>\n<p><a href=\"http://public\" rel=\"noopener nofollow ugc\">http://public</a> ip /app/education-studen-portal<br>\n<a href=\"http://public\" rel=\"noopener nofollow ugc\">http://public</a> ip /app/education/studen-portal<br>\n<a href=\"http://public\" rel=\"noopener nofollow ugc\">http://public</a> ip /app/studen-portal</p>\n<p>and still showing a this problem saying \"the resource is not available \"</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/7/d/7d7d91a026255b515642499c1ac8f01782fd608c.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/7d7d91a026255b515642499c1ac8f01782fd608c\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/d/7d7d91a026255b515642499c1ac8f01782fd608c_2_690x249.png\" alt=\"image\" data-base62-sha1=\"hU8IfWO2DlZ4CbamPCHw8sm5hve\" width=\"690\" height=\"249\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/d/7d7d91a026255b515642499c1ac8f01782fd608c_2_690x249.png, https://discuss.frappe.io/uploads/default/original/3X/7/d/7d7d91a026255b515642499c1ac8f01782fd608c.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/7/d/7d7d91a026255b515642499c1ac8f01782fd608c.png 2x\" data-dominant-color=\"D8D8D8\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">756×273 11 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>if you ever experianced about this error please help me.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/sharifka/{size}/86449_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 8,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

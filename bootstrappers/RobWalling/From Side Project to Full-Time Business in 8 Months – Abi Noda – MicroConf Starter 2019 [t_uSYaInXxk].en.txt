@@ -1,0 +1,1146 @@
+﻿[Music]
+about a year and a half ago
+was the day before Christmas and I got
+fired I've been working as a CTO for the
+past six years and I never experienced
+failure like this getting fired sucks I
+felt ashamed humiliated and afraid
+actually I'm Christmas Day I my
+girlfriend took me to the grocery store
+to pick out some last-minute gifts and I
+remember she's just holding my hand
+dragging me across the grocery store
+picking out gift cards for me
+and I question my own abilities you know
+I wondered I might even cut out to be a
+CTO and I had been a manager for a few
+years so my programming skills had
+gotten rusty so I worried about in your
+veering and finding a new job it was the
+holidays so hiring was kind of dead and
+slow but I was desperate so I just
+started shotgunning my resume hitting up
+everyone I knew and I had nothing to
+work on Christmas break and I wanted
+something to feel positive about so I
+started working on a little side project
+at the beginning of January a couple
+weeks later I flew home to Chicago or
+I'm originally from to be close to
+family and friends I was in a pretty
+dark spot it was a typical Midwest
+winter freezing cold and I was
+completely preoccupied with trying to
+figure out what to do with my life I
+considered all options I kind of burnt
+out from management so I thought about
+maybe getting a remote job kind of low
+stress and taking it easy for a while
+I thought about maybe applying their job
+in San Francisco something lucrative
+trying to cash in and I even considered
+a complete career change and actually
+did quite a bit of research on different
+data science courses well one night I
+met up with a close friend of mine to
+talk about my situation and get his
+advice and after talking for a while he
+I mean he said Abby what would you do if
+you didn't need to worry about money and
+the answer came to me instantly I knew
+that if I didn't need to worry about
+money if I could do anything I would go
+off and build my own product be a
+solopreneur build my own business and in
+fact this had always been you know my
+dream kind of lurking in the back of my
+mind behind fears of failure and
+concerns of not having money but in this
+moment in this moment I felt I could do
+it that if I got started now and didn't
+quit eventually I could succeed and so I
+did over the course of the next several
+months I built and launched my own
+product and grew it to the point where
+it could pay my bills and I could work
+full-time on it today I'm gonna tell the
+story of how I did it
+my name is Abby and I they'll pull
+reminders so I'd figured out my path
+what I wanted to do next
+but one problem was I didn't actually
+know what I was gonna build and I had no
+way to pay my bills how many of you know
+someone who's maybe quit their job to go
+pursue a business idea then you know a
+few months later they're drowning and
+you know trying to recover and just find
+a job so I didn't want to end up in that
+situation and I'm a pretty risk adverse
+person so I knew that to give myself the
+best chance to succeed
+I needed a long runway I figured that it
+would take me at least a few months just
+to test out different ideas and find
+something that could get traction then
+probably a year maybe even two before it
+could pay me a comfortable salary and so
+my first instinct was actually even
+though I had just gotten so pumped up
+about going and doing my own thing my
+first instinct was to actually maybe
+just get a full-time job and work on my
+business on the side and I decided this
+is a bad idea and the thing was I I
+wanted to be able to pay my bills you
+know buy expensive avocados whatnot but
+I didn't want to be in a pressure cooker
+I didn't want to be you know stressed
+out and again ended up burning out in a
+few months and giving up and so instead
+of getting a full-time job
+I looked into getting contract work and
+you know this this turn out that this
+worked out pretty well I actually
+instead of trying to get my own you know
+freelance work book my own clients I
+actually applied to a few different
+contracting firms @nx management a
+company called surge forward and a
+company in Atlanta called pram works and
+the cool thing was once I kind of
+interviewed and got accepted they just
+sent projects my way and so I was pretty
+easily able to find different contract
+projects to work on there were a
+full-time or part-time and you know this
+worked well for me you know in hindsight
+I think and when when I talked to other
+entrepreneurs I I do see the advantage
+of burning your boats
+sometimes forces you to you know succeed
+or die but for me I'm I know that that
+pressure is actually counterproductive
+to you know me being successful and so
+you know my take away my lesson is
+really that yeah you shouldn't quit your
+job and you can make sure that you have
+something stable something you can rely
+on so if I provide you a long runway and
+that's how you'll actually maximize your
+chances of success so remember that side
+project I started working on after I'd
+lost my job that was actually pull
+reminders and I'll tell you a little
+back story of how I came up with the
+idea so at my previous job I was an
+engineering manager and I managed a team
+and we gotta cook how many of you guys
+are developers actually okay cool so we
+had a code review process that's
+probably similar to the one you're used
+to basically we would open pull request
+you know code reviews on github and then
+share them with our team on slack and
+you know ask people to review them the
+problem was that these code reviews
+would take you know hours days sometimes
+even over a week to actually get done
+you know I remember actually talking to
+someone on my team asking them hey you
+know why isn't this code if you gotten
+done yet and and he told me he had been
+nagging another person I her team for
+days and had basically given up
+so this is bad and as a manager what I
+started doing was personally spending
+hours each day tracking different code
+reviews that were done and personally
+nagging people on slack to get them done
+and and this sucked you know I was
+supposed I was the CTO and I was
+supposed to be doing you know more
+important things
+strategic things but you know I was just
+spending hours just just chasing after
+people on slack and so I looked for a
+way to potentially automate this the
+really the only thing I found that
+seemed viable in that I tried was
+setting up a custom integration with
+zapier so I'm guessing most of you are
+familiar with zapier but it lets you
+connect different apps and build custom
+workflows so I spent a few hours one day
+setting up my own zap and by the end of
+it I had a solution that actually cost
+$150 a month in terms of pricing and all
+it did was post new pull request
+notifications into slack and it was
+around this time that I thought to
+myself that I could probably build
+something better but again I was still
+at my full-time job at this point and
+didn't start in hindsight I think you
+know the fact that I pursued an idea
+that was a problem I had was it was
+really critical to my success I you know
+intimately knew the pain and the problem
+that I was trying to solve as well as
+the people I was solving it for and
+that's helped me you know in all facets
+facets of marketing and product
+development ever since so it was let's
+see where we so it was now about
+mid-january I had some contract work so
+I'm stable and I was working on poor
+miners still as a side project but I was
+also exploring a lot of different
+business ideas including crypto stuff
+and I'm embarrassed to say that and you
+know so I was working on poor reminders
+but I I didn't know if it was something
+anyone really wanted and I certainly
+didn't know whether I could turn it into
+a business and so raise your hand if
+you've ever built something that no one
+wanted and that you made zero dollars
+from so yeah I've probably built over
+dozen or so projects that have gone
+nowhere and are in the startup of
+graveyard so to speak and you know at
+this point I really didn't want poor
+reminders or whatever I was working on
+to suffer the same fate so I did a
+couple of things to try to validate my
+idea first thing I did was just actually
+Google pull requests reminder and a
+bunch of things popped up and these are
+mostly just open source projects on
+github that are free and you can set up
+yourself and I remember I was I felt
+relieved when I saw this because I was
+like okay I'm not the only crazy person
+with this idea but I was also a little
+afraid because they were already these
+solutions it looked like people were
+kind of solving their own problem and I
+didn't you know I didn't know whether
+anyone would actually want to use my
+tool or be willing to pay so I did a
+little more research and you know they
+were kind of hard to set up and
+customize and so I figured I had a shot
+at building something better really the
+one other thing I did I was part of the
+Chicago CTO slack group and so I just
+asked a group one day hey does anyone
+else have this problem of pull requests
+code reviews taking a long time and I
+actually got a really strong response
+several people said yes they did it was
+kind of an interesting discussion and
+actually one person there said that at
+actually Groupon at his last job they
+had built their own BOTS to solve this
+exact problem and so at this point I was
+pretty confident that it wasn't a crazy
+idea and that you know it would have
+value for some people but I still didn't
+know whether anyone would actually pay
+for it and in hindsight I think it's
+really hard to know to be honest up
+until that I actually made my first
+dollar with poor reminders I had a lot
+of doubts about whether it could make
+any money and actually my last boss he
+he said something to me the one who
+fired me he said something to me that
+stuck with me it's actually one of my
+favorite little mantras now and he said
+he said to me when we were working on a
+new product idea there he said you know
+if you're a pessimist you'll be right if
+you're an optimist you'll be rich and I
+think especially as an engineer it's I'm
+you know I'm very skeptical and it's
+really easy for me to pick pick apart
+any idea
+come up with reasons why it's gonna fail
+but in order to have a chance at success
+you you sort of have to have a little
+bit of blind optimism and faith in your
+idea in order to move forward and so so
+that's something I've adopted is just I
+try to force myself to have a little
+blind optimism and even when I'm telling
+giving myself reasons why something
+won't work
+I tell myself just got it just got to
+stay positive so I built the first
+version of my product in about three and
+a half weeks and there's probably a lot
+of people here relate you know when I
+started working on poor reminders I was
+really excited to actually kill two
+birds with one stone and go build it
+using some new programming language and
+Frank elixir if anyone's heard of that
+you know I I was a yeah I've been
+wanting to learn it and I figured you
+know this will be really fun I'll learn
+a new technology while I build this
+project but but I stopped myself because
+this is a trap that I have fallen into
+many times and I see a lot of other
+people making the same mistake and that
+is to combine the idea of a passion
+project or a hobby with that of trying
+to start a profitable business in a
+finite amount of time and so for me I
+realized that look you know as much as I
+wanted to go learn these new tools and
+have a lot of fun with them I was trying
+to launch a business and I knew that I
+had to deal with marketing and sales and
+customers and legal and design etc and
+so I knew that I couldn't be bogged down
+you know learning new tools and figuring
+out how to configure you know what's
+their framework or something like that
+and so instead of picking a shiny new
+tool I just went with Ruby on Rails
+which she which I was already proficient
+with and you know was really productive
+with and didn't have to learn anything
+new and so I guess my lesson here is
+that well first of all I'm really glad I
+made that decision I think otherwise I'd
+be in a world of pain and you know as
+especially as software developers I
+think it's it's so tempting to go try
+that new shiny tool to build your
+business and you know my advice would be
+don't do that pick the most boring tool
+that you're already really proficient
+with
+and you know that I think has stuck with
+me that's a problem that actually run
+into multiple times even as my product
+is matured I've been drawn to
+overcomplicate the tech side of the
+business this is the first version of
+pull reminders it's pretty simple it
+just posts code reviews that haven't
+been done in slack this is basically
+still what the product looks like I
+remember yeah I you know kind of go down
+rabbit holes sometimes then I spent days
+like hours and multiple days actually
+iterating on picking the perfect emojis
+for those links today I don't have
+emojis at all one of the interesting
+things are one of the most challenging
+parts of actually building pull
+reminders has been figuring out how to
+support all the different possible
+workflows code review we're close on
+github so you know with any business a
+b2b business you know different
+companies have different workflows and
+you're trying to build a tool that can
+sort of you know accommodate them all
+and for me especially early on what I
+did is just focus on the most common use
+case and you know I think that was
+actually really critical to my success
+because it allowed my product to be very
+turnkey and today I think especially in
+b2b people are so inundated with tools
+and cold emails and whatnot
+I think their patience level is very low
+in terms of trying a new product and
+seeing if it works for them so for me I
+you know was able to make chloramine
+there's very turnkey something you could
+set up and get success out of within
+minutes and you know that's been really
+critical to I think my ability to grow
+the business so I launched at the end of
+January and like a naive solopreneur I
+really banked it on a tweet I had a
+handful of Twitter followers and so I
+just envisioned that would tweet about
+my product and we got tons of retweets
+and I would get hundreds of customers
+that didn't happen
+I got a few friends who liked it a few
+strangers who retweeted it but really no
+one seemed that excited I certainly no
+one was offering me their credit card to
+purchase it and you know at this point I
+still didn't know if for reminder
+could be a business and you know in
+hindsight I realized that you know
+things like Twitter or like one blog
+post those aren't really the things that
+result in success even though I think as
+creative people we tend to really focus
+on them and get really excited about
+them and you know for me the funny thing
+was you know I got zero customers from
+Twitter but actually my very first
+customer came in through SEO which is
+really weird so you know my advice would
+be you know don't focus on things like
+tweets and you know going viral instead
+you know think about what are the kind
+of slow boring things that you can
+invest in that are gonna actually lead
+to growth so as I mentioned so now it's
+let's see end of January and I still
+haven't made a penny from poor reminders
+and I'm getting a little anxious maybe
+looking into some of my other ideas at
+this point in any case this has changed
+when one day I got an email from a guy
+named David he is an engineering manager
+at a company called Monday comm in
+Israel and when he emailed me this was
+really the first time a legit human
+beings are in that real human being from
+a real company reached out to me with
+interest in my product and you know I
+jumped out of my seat I was like oh this
+could be my first customer
+and so David emailed me and he said he
+loved my slack integration has flattered
+and but that he had just one feature
+request and that was to disable
+notifications on weekends because it
+would disturb his team so I was like
+yeah easy peasy I'll just add a checkbox
+this Neil no notifications on weekend
+and still be done so he me emailed me
+back and said actually his weekends were
+Friday to Saturday and not Saturday
+Sunday because this company's based in
+Israel of course I had my calm face and
+I said no problem I'll just you know
+create you can top the old notifications
+for every day so no matter what your
+weekends are you can configure in
+notifications and so again this is my
+first chance at a customer super excited
+so I went off and you know spent a day
+and a half building this and got right
+back to him so about a week later you
+know he got back to me so I
+I was working great he had one more
+feature request hi this is obviously
+truncated he he actually sent like six
+feature requests and you know while I
+was super excited to be able to work
+with a real human being at a legitimate
+company and get feedback you know I
+wasn't trying to run their charity I
+said to get anxious because I hadn't
+gotten paid and I wasn't trying to do
+this for free so I decided to pop the
+question I asked David I said hey would
+you be willing to pay fifteen dollars a
+month to use poor reminders and this $15
+a month was completely arbitrary to be
+honest I just kind of picked a number
+that I felt like humans say no to
+because being rejected at this point
+would have been pretty brutal for my
+confidence and he got back to me and
+said we are definitely willing to pay
+for something that gives us value so who
+thinks this means yes
+yeah so I didn't know this is uh you
+know I stared at my you know scratching
+my head a little bit and in any case I
+decided to just let the matter be and I
+went and built you know half of his six
+other feature requests so a couple weeks
+later I'm getting really anxious I still
+haven't made a dollar and so I emailed
+David again and said would you be
+willing to pay twenty dollars of mine
+to use Paul reminders I have no idea
+really why I raised the price five doubt
+this isn't one email threat I changed
+the pricing on him I think I was just
+resentful you know I just yeah not
+anyways and he mailed back and said that
+he was willing to pay but you know he
+didn't know how and in fact at this
+point I didn't even have a I didn't have
+strike cook dinner I didn't have a
+subscription for him and so I built one
+right away and got my first customer so
+overall this process took over three
+weeks this threat is just a monster 45
+emails over 67 commits and at the end of
+it I made 20 bucks and this is probably
+one of the hardest earned twenty dollars
+of my life yeah maybe yeah pretty much
+and but it was also one of the most
+rewarding and I'm sure you guys know
+this but the feeling of coming up with
+an idea and you know turning into a real
+thing and then having someone pay you
+for it and validate the value of what
+you created is one of the best feelings
+in the world and it's really the the
+best part about still about running pool
+reminders today and so in terms of
+lessons I took away from this is that
+you know when when you first launch your
+product and you start getting that
+initial interest and by the way I my
+initial these people who I became my
+initial customers actually did find me
+through Google which is surprising in
+any case you know when you start getting
+these people I would what worked for me
+was pretty much doing whatever they said
+even when that took my product in kind
+of weird directions that you know felt
+like you know scope creep or you know
+whatever and that worked out for me
+and you know I think that's really
+important because whenever you launch a
+product I think initially it's usually
+not quite the right fit for what a
+customer actually needs and so by
+iterating and just you know going back
+and forth with this first user I was
+able to build a product that you know
+actually solved the need and could be
+commercialized okay so I'm my first
+customer and for $20 a month and you
+know I figured I would have some well I
+did have some other leads I was kind of
+working with and and at this point I
+knew I needed to come up with some real
+pricing instead of just quoting people
+arbitrarily based on my mood that day
+and so I'm prey pricing is hard I looked
+at sort of other products out there
+developer tools you know just try to
+price it based on my competition I
+didn't I didn't really have any you know
+this is the only commercial product that
+solve this problem but one thing I did
+find is that you know all the tools in
+this developer tool space really priced
+based on seat so I knew that I was gonna
+price based on a number of users but I
+didn't know how much to charge so I
+thought I asked myself you know what's
+something else that developers and
+development teams are willing to pay for
+but give some productivity productivity
+value and what came to mind was coffee
+so I thought to myself you know
+developers development teams you know
+one cup of coffee per month yeah
+probably more than two bucks depending
+on where you get your coffee and so I
+actually decided this really kind of
+stuck in my mind and I decided to price
+my product as two dollars per user per
+month essentially so that would be less
+than a price of coffee and then my mind
+this was you know a number that would be
+hard for someone to say no to and I even
+thought about adding the copy on my
+website productivity for the for less
+than the price of coffee so this is
+actually this is what my actual pricing
+looks looks like it looks like and
+you'll see instead of doing a per seat
+pricing I actually went with plans and
+this is really important this allowed me
+this still allows me to actually make a
+lot more money than if I simply charge
+per seat because for example if a
+company has you know 14 developers
+instead of paying me $28 a month just a
+flat rate of $2 per user they have to
+jump up to the $50 a month plan not on
+the other hand this also leads to some
+problems so I I've actually changed
+these thresholds a couple times and I
+still get potential customers who email
+me and say hey like you know that jump
+from 14 to 50 or 50 to 100 is a little
+steep and yeah I haven't found a great
+solution to this problem I to be honest
+what I do is I just offer people
+discounts you know 20% 50% kind of
+arbitrarily but again overall this is
+I'm probably making twice as much money
+as I would be had I just done per seat
+because especially that jump between the
+7 developer and 25 developer plan it's
+quite a big pricing jump and you know
+has allowed me to grow my revenue a lot
+more quickly so you'll see it kind of
+scales down my pricing as you go up like
+the 75 developer a month plan isn't is
+less than $2 per month per user I don't
+have a brilliant reason for this I think
+again I just wanted to give make it hard
+for people to object to my pricing so
+you know no magical reason for that and
+I'm very embarrassed to say this but I
+have any unlimited plan for $149 a month
+again I is kind of a bad decision as far
+as maximizing my revenue but the thing
+is especially working alone I really
+didn't want to deal with the sort of you
+know high-touch sales process and you
+know quoting people and dealing with
+that whole process and so out of I guess
+laziness I just you know created an
+unlimited plan so above 75 developers
+right now is $149 a month it's unlimited
+and again I definitely leaving money on
+the table by doing this and I've
+constantly kind of gone back to this but
+as one person I I'm still not sure
+whether like the money I'm leaving on
+the table outweighs the time I gained
+back and able to focus on you know
+things like product and marketing so not
+sure about probably not a good idea to
+have an unlimited plan so as the
+business started to grow and as I
+started to Lang customers I ran into a
+problem Cheryl
+you are familiar with witches I started
+to get all these feature requests people
+would email me chat me an intercom with
+ideas and work last suggestions and I
+didn't know what to do with them in
+addition you know once I kind of wrote
+down their suggestions I didn't know how
+to keep them in the loop or you know
+tell other customers about the things I
+was working on so what I did is create a
+public backlog this is on github it's
+public now design like a pretty typical
+Kanban board and I used a first thing I
+did was just throw everything I was
+working not everything but the features
+the shiny things I wanted to brag about
+to my customers into this backlog and
+started logging it I also started
+getting a lot of customer submitted
+issues here and you know worked really
+well in terms of providing an easy
+outlet my audience developers were
+already knew how to use and submit
+requests for so just a quick example so
+this is like an example of a feature
+that I created
+sorry issue I created and what I've done
+here is just piece it the request from
+intercom into the github issue and
+tagged people so now they're able to
+follow it and this is an example you
+know I also ran into this a lot where
+different users would email me with like
+a similar idea or a similar problem
+similar feature requests and they would
+have completely different ideas on how I
+should solve it and you know while I
+consider myself a decent product person
+you know sometimes I just not know what
+the best solution was and you know
+whether it would work for everyone so I
+have quite a few quite a few issues like
+this where there's this someone submits
+an issue and then I actually tag a bunch
+of other customers to get their opinions
+you know in real time about you know
+what the best solution is and so overall
+having this public roadmap it's it's not
+only actually been a good way for me to
+just say organize myself it's been a
+really easy outlet really easy solution
+for customers to submit requests to me
+and a way to keep them excited about the
+things that are you know coming soon in
+my product so it was now early March
+I had a few customers but I was I had
+reached the sort of dreaded stage of
+starting a business I think which is you
+have a product you know it offers value
+you've gotten you a pretty good
+messaging you know you can if you if I
+get a coffee meeting with a CTO I can
+probably sell him on poor reminders but
+the problem was I just didn't have
+eyeballs right on my product I just
+wasn't I didn't have a way to actually
+reach my target audience in order to
+make money and this is this is a stop
+that I've always struggled with even
+with my other projects and it's
+something that in hindsight I think is
+really important to think about before
+you even start working on your product
+is assuming you are able to build
+something that solves a problem and
+message it while position it while
+you're still gonna really struggle to
+build you know build momentum if you
+don't have a way to you know with
+relative ease reach your audience of
+course things like content market
+marketing are things you can invest in
+to do this longer term but you know I I
+didn't have a long that long of a runway
+for this and so while I was working on
+poor reminders I came across something
+called github marketplace go through
+this quickly and basically github
+marketplace like a lot of third-party
+directories and marketplaces you know
+you submit your app they review it then
+if it gets accepted people are able to
+purchase it through github and exchange
+for a 25% cut so when I saw this I was
+like perfect but this is this is the
+answer to all my problems and this will
+lead to success for poor reminders and I
+applied I submitted pull reminders to be
+reviewed and I remember this this is one
+of the most terrifying moments and
+starting the business was when someone
+from github reach out to me to have this
+initial chat about my product and I was
+so scared because I wondered if you know
+this is still kind of a side project at
+this point and compared to the lot a lot
+of the other matured tools on github
+marketplace I I felt a bit inadequate
+and so but when we got on that call I
+remember this guy from get whoa
+github was super warm super reassuring
+told me he liked pull reminders and that
+I would be accepted so this is what the
+listing looks like and github
+marketplace people are able to pay and
+April 1st is when I went live on the
+github marketplace and naive once again
+I decided to again try to launch a tweet
+that would propel me into you know
+SuperDuper profitability this time
+strategically I even
+people at github because I hope they
+would retweet it once again that didn't
+happen I think this actually got less
+retweets on my first seat which is sad
+but the cool thing was that actually
+some people from github congratulated me
+and supported me and this this was this
+is a really encouraging moment for me
+because you know especially working
+alone on this little bot called poor
+reminders it often felt kind of small
+you know a little bit silly and a little
+isolating and so having these people
+from github congratulate me really made
+me feel like I was actually part of
+something bigger and this was a you know
+big motivational moment for me funny
+enough though just like about a week and
+a half before this I had woken up one
+morning opened up Twitter or hacker news
+or something like that and heard that
+github had just launched a brand new
+slack integration of their own I
+remember it was really hard to get out
+of bed that morning and you know I
+figured that I was toast I've been
+working on poor reminders and I I just
+assumed github had probably just built
+the exact same things so once I
+eventually did get out of bed I
+immediately went in and sold the app and
+luckily found that at least for now I
+was safe they hadn't built reminders and
+and other features of course and while I
+was looking up information about this
+bot and when I'm product tenant have you
+known people were saying the guy who
+created it at github his name was
+Brandon keepers and people were saying
+you know this Brandon guy he's awesome
+he's credit all this thing I realized
+half my open-source libraries and my
+rails app were made by him I was like
+so I actually looked him up and he
+lived in Chicago so and I was in Chicago
+at the time so I reached out to him I
+emailed him and said you know hey I'm
+about to go on the github marketplace
+would you'd be willing to meet me maybe
+give me some advice
+and you know I was I was really scared I
+I kind of saw Brandon as the guy who was
+gonna maybe just crush my business and
+you know maybe irrelevant so you know I
+hope that you know not only could he
+maybe provide advice but maybe if you've
+liked me he would spare me right
+so we met up for drinks one night I
+remember a awesome guy and yeah while we
+were having drinks he he just he asked
+me straight up he said so were you
+scared when you the flack indicated and
+I said yes I was and you know he laughed
+at me and said look you have nothing to
+worry about you know we have no plans no
+nothing in the roadmap anything like
+what you're building and really he was
+super supportive of what I was doing and
+you know this was this is a
+make-or-break moment for me and you know
+worked out well and you know overall
+github marketplace it has worked out
+well for me so again sorry for scaring
+my MMR our I wasn't sure it was
+something I wanted to share but you know
+today I just this month I just crossed
+21 km RR and really the moment I got on
+github marketplace in April was when my
+momentum really started to take off so
+by the end of the year last year I had
+over around
+I think 350 paid accounts and then I
+have actually about double that in terms
+of total accounts because I give my
+product away for free to open source
+projects and nonprofits and pretty much
+anyone who asks for a free account so
+you know I talked earlier about kind of
+runways and figuring out how your paid
+bills and you know one of the problems
+for me and not just for poor minors but
+actually on other projects I've worked
+on especially with co-founders has been
+deciding when to go full-time I think as
+you know bootstrappers is this moment
+when you're able to quit your job and go
+full-time is like you know a huge
+milestone for everyone and especially
+when I've worked with co-founders this
+is sometimes been like a point of
+tension you know one person is Go Go Go
+ready - ready to burn their boats and go
+and yeah like I said earlier I'm a
+pretty risk adverse person and so I am
+not willing to make this leap just based
+on my emotion I've always needed you
+know a really calculated methodical way
+to go about this so I think I've come up
+with I'll share the way I did it and you
+know maybe this can be helpful to you if
+you're thinking about this for yourself
+or with your coat
+so in hindsight I hate that I came up
+with Queen this term for it but so it
+kind of starts with this idea sorry for
+the name it have a viable monthly income
+and really for me that this wasn't like
+the minimum I needed to make ends meet
+and in fact you know when I've had
+conversations with co-founders we've had
+conversations where we're literally
+looking at our monthly expenses and
+trying to find you know what's the
+minimum you need to go full-time but for
+me as a risk adverse person this doesn't
+work for me because if I'm just making
+the minimum you know while I'll be able
+to pay my bills psychologically it's
+just too stressful and makes me too
+anxious and well result in me basically
+imploding and so for me my minimum
+viable monthly income was actually
+around $6,000 a month and so yeah I'm a
+single guy living alone this this is far
+more than what I needed to survive
+but this was the number where
+psychologically I felt like okay if I'm
+making this I can keep going you know I
+won't get negative I won't get FOMO
+about you know maybe just going and
+getting a job and so first I came up
+with this number $6,000 a month so then
+in terms of trying to figure out okay so
+when should I actually quit or quit quit
+my contract work and focus full-time I
+one option was to wait until my MOR
+actually reached $6,000 a month but but
+I knew that this was probably you know
+not taking an advantage of the
+opportunity I had because I had gained
+some momentum and I knew that even with
+the momentum I had it was gonna take a
+few months actually hit that six
+thousand a month Mr R so instead I kind
+of came up with this idea to come for
+myself and you know rationalize when I
+should quit and basically I came up with
+the idea of like the total amount of
+wealth
+I was generating in a month which was my
+M RR plus the increase in the
+hypothetical growth and the valuation of
+my business so I did three X monthly
+recurring revenue and so this this
+formula you know made me comfortable
+because I felt like okay if the total
+amount of
+well if I'm generating for myself
+exceeds my that minimum sort of comfort
+level then then I'm okay and this
+formula allowed me to actually you know
+quit sooner because it factored in the
+momentum in the growth I had so I think
+I was actually able to quit you know
+while I was still around like 3500 mr
+around 4000 mr r when i factored in the
+growth and momentum i had so again i you
+know as a risk adverse person and
+someone who believes that being risk
+adverse is you know actually beneficial
+to my ultimate success you know this is
+the formula I came up with and you know
+hope that it might help some of you and
+your conversations and thought process
+about setting when to go all-in so
+another thing that I've worked on that
+has been really tricky is building a
+referral program and you know I think
+b2b is really tricky because you know
+how do you incentivize a person to share
+your product even though it's actually
+the company that is a customer and so
+I've tried many things than they've all
+failed so I'll just do quickly first
+thing I tried was to offer gourmet
+coffee and tea I spent a whole day
+actually researching the different
+Roasters you know across the country and
+cropping her logos into here and the
+reason I thought of coffee and tea was
+because I figured like developers you
+know I didn't want to end up on hacker
+news is the guy who's trying to bribe
+developers and to sharing my product so
+I figured offering coffee was sort of
+like a low risk a very non aggressive
+way to ask for referrals didn't work at
+all
+the next thing I tried was Amazon
+giftcards she's just offering cash this
+was something yeah I I asked some of my
+friends hey like you know what would you
+do to make you actually share this I
+said Amazon giftcards didn't work and so
+I jumped but I added this call to action
+after that to try to just offer cash so
+every user even today gets this prompt
+at some point inviting them to share my
+product and earn cash and this is what
+my referral program looks like today I
+just actually use PayPal so it's all
+digital and total I think I've generated
+about five referral customers so pretty
+disappointing and the thing is that I
+know word of mouth is
+is happening because my business has
+grown faster each month without me doing
+any additional marketing so at least you
+know in my mind that has to be
+word-of-mouth that's growing it and you
+know it's been kind of frustrating to
+not figure out a way to amplify that so
+I guess the lesson is like b2b referral
+program is a tricky thing and so so
+beware really quick I get asked a lot
+about onboarding in sales and for the
+most part my product is self-service but
+I still do manually well now more in an
+automated fashion on board and sell to
+users and so a lot of products I've seen
+out there they you know you sign up for
+them and then you get a drip email
+campaign and personally I've always
+found them you know a little bit
+annoying and not super helpful and
+especially with a developer audience I
+knew that you know I had to be really
+sensitive about contacting people so I
+ate it on this email probably like 50
+times and really just tried to scrunch
+it and make it as short as possible so
+basically I send an email this is now
+automated but for a long time I sent
+each one out manually just saying hello
+and offering my contact information I
+don't ask a question I don't send them a
+huge long email with tons of images and
+I think this email has worked pretty
+well for me again I doesn't create more
+work for the customer but it starts a
+conversation if they'd like to and this
+has worked well for me similarly this is
+the one other email I sent which is just
+a trial reminder again super simple
+I've iterated on this more than my
+welcome email and I just give him a link
+to sign up and again offer my contact
+information if they'd like to to chat so
+it's been mentioned well as you guys
+know that I work on floor reminders
+alone and the the reason this has been
+really rewarding for me is that when you
+know the whole reason why I wanted to
+start a business in the first place was
+to have the most freedom and autonomy in
+terms of my lifestyle but also
+creatively as possible and you know this
+is a quote
+by Derek Siver's raise your hand if you
+don't know who he is okay just go so
+he's a guy who sold a company to Apple I
+think in the 90s and sort of blogger
+speaker has a really great book called
+anything you want and this is in his bio
+so he talks about this idea of working
+alone as an entrepreneur it's sort of
+it's not it's not it's an idea that's
+kind of discouraged and conventional
+sort of startup advice but I can tell
+you for me personally it's been it's
+made the process you know much more
+rewarding and compared to to other
+projects businesses that I've started
+with co-founders I think personally for
+me it's been more enjoyable the downside
+has been other difficult things about
+working along the biggest thing for me
+has been staying positive so as you can
+tell I'm really risk adverse and I get
+discouraged pretty easily someone work
+alone I to be honest I have a lot of
+down days and for me the solution to
+this has been that mantra from earlier
+you know if you're an optimist you'll be
+rich I really have to proactively focus
+on my mental disposition and making sure
+that I'm staying positive you know
+otherwise I get down and discouraged in
+my productivity just plummets and
+finally you know one of the hardest
+things about working alone this is
+taking a vacation so last August
+my father had actually planned a
+backpacking trip for me my brother and
+him and some of my father's friends and
+you know leading up to this I was I was
+really nervous because at this point I
+was just starting to get momentum and I
+was having all kinds of tech issues you
+know there had actually been multiple
+times for my app had crashed like in the
+middle of a meeting somewhere and I had
+to whip out my laptop and you know get
+things back online so so I worried about
+being in the wilderness for a week with
+no internet and you know what would
+happen if my app went down so I thought
+about how can I something this might be
+a good business idea I'm not sure I
+thought about what can I do I I couldn't
+really come up with anything I what I
+ended up doing is just added my friend
+he lives a friend of mine in Japan I
+added him to my Heroku account and said
+look if it goes down just run Heroku
+restart over and over again until it
+comes back up ad and luckily you know
+that did
+happen vacation went well although I did
+almost get eaten by a bear which so you
+know in hindsight I need a transition
+plan for my business or hey go out into
+the wilderness so that's my talk you
+know I hope that you've seen that you
+know building a business it's it's
+really the step by step process similar
+to building software and you know again
+the main thing that helped me is really
+focusing on having a good balance
+between you know force blind blind
+optimism but having a rigorous and
+disciplines you know customer validation
+and go-to-market strategy so Sam thank
+you I talk ami you mentioned that you
+were doing consulting work originally
+while you were building on the product
+what was the ratio consulting work to
+product building maybe in terms of hours
+yeah the ratio was based on the work I
+could get not like what was the perfect
+ratio for me so at the very beginning
+was actually almost full time in fact I
+actually took a project out and Dover
+New Hampshire at Liberty Mutual where I
+was in the office but I I think contract
+work you know when I get a full time job
+I just get swallowed by it
+I even even if I'm trying to focus on my
+side project I just kind of get sucked
+in so I think contract work because it's
+just the relationship between you and
+the person you know paying you for me it
+really allowed me to stay focused on my
+side project even if the hours I had to
+put in for the contract work were like
+full-time but that was just initially
+then the project after that I went to
+like half time 20 hours per week and
+then just like kind of ad hoc part-time
+projects after that one more question
+thanks for the talk how do you feel
+about having a simple product and the
+danger of others coming in and yeah
+that's one of my biggest sort of that's
+one of the main things that gets me
+negative these days
+is you know my another lesson from this
+is like it's really important to have a
+business that's defensible right and for
+me right now just the momentum
+the word-of-mouth momentum I have is
+sort of my moat so to speak but it's
+something I'm actively focused on one of
+the things I've done my business is
+actually not called pool panda and I've
+built two other products so I've been
+diversifying my offering to you know
+similar to like an investor with the
+portfolio lower the risk of any one
+product you know having a competitor or
+being made irrelevant

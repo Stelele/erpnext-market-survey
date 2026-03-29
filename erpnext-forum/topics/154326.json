@@ -1,0 +1,51 @@
+{
+  "topic_id": 154326,
+  "title": "Need support with a legally compliant cash register(nfront) for Germany/EU",
+  "slug": "need-support-with-a-legally-compliant-cash-register-nfront-for-germany-eu",
+  "category_id": 6,
+  "tags": [
+    "customization"
+  ],
+  "created_at": "2025-09-24T07:40:44.951Z",
+  "last_posted_at": "2025-09-24T07:40:45.054Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/need-support-with-a-legally-compliant-cash-register-nfront-for-germany-eu/154326",
+  "views": 19,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "jochen",
+  "posts": [
+    {
+      "id": 481880,
+      "username": "jochen",
+      "name": "Jochen Griesbaum",
+      "created_at": "2025-09-24T07:40:45.054Z",
+      "cooked": "<p>Brauche Unterstützung bei einer(m) rechtskonformen Kasse(nfront) für Deutschland/EU<br>\nNeed support with a legally compliant cash register(nfront) for Germany/EU</p>\n<p>Betrifft gdbo konforme Abspeicherung der Z-Berichte, TSE Anbindung von Swissbit Lan, Gestalltung des Bedienerfrontends und Anbindung von Bon-Drucker, Kundendisplay und Waage.<br>\nConcerns gdbo compliant storage of the Z-reports, TSE connection of Swissbit Lan, design of the operator front end and connection of receipt printer, customer display and scale.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/jochen/{size}/90556_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 8,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "topic_id": 159891,
+  "title": "Exchange Rate revaluation on Group cost center basis",
+  "slug": "exchange-rate-revaluation-on-group-cost-center-basis",
+  "category_id": 6,
+  "tags": [
+    "customization"
+  ],
+  "created_at": "2026-01-27T07:09:48.915Z",
+  "last_posted_at": "2026-01-27T07:09:49.027Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/exchange-rate-revaluation-on-group-cost-center-basis/159891",
+  "views": 19,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": "https://github.com/frappe/frappe/issues/36354",
+  "op_username": "Ranjithkumar",
+  "posts": [
+    {
+      "id": 492613,
+      "username": "Ranjithkumar",
+      "name": "Ranjithkumar",
+      "created_at": "2026-01-27T07:09:49.027Z",
+      "cooked": "<p>I have created a  feature request for exchange rate revaluation on group cost center wise. <a href=\"https://github.com/frappe/frappe/issues/36354\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">Exchange Rate revaluation on Group cost center basis · Issue #52090 · frappe/erpnext · GitHub</a></p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/r/dc4da7/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 11,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

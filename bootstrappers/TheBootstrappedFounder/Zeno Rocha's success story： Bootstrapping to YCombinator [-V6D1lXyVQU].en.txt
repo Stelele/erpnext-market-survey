@@ -1,0 +1,997 @@
+﻿today I'm talking to Zeno roacha he runs
+recent he's the CEO of an email company
+for developers but he's also an indie
+hacker which is really cool in our
+conversation we're going to tackle the
+differences between Indie hacking and
+being VC funded how we can bring this
+together how he runs a company with
+seven people that just supplies Indie
+hackers and software Engineers of all
+sizes with reliable email through an API
+what his world looks like what his
+challenges are and all these wonderful
+things this episode is sponsored by
+aire.com more on that later now here's
+Cen hey Ceno you said something back in
+January 2023 you said we are building a
+communications platform and we're
+starting with email so my question to
+you right now is are you done with email
+just yet can and can you ever be truly
+done with email man uh I think when I
+started recent I never thought how hard
+it would be to build an email company
+especially in email company uh tailored
+to developers so the quick answer is no
+we're not done with email there's a lot
+we still need to do we've been focusing
+a lot on the sending part but there's a
+lot of interesting use cases around the
+receiving part as well so this is one of
+the areas that we're focusing right now
+inbound emails and yeah email is wild
+it's so hard I do wonder what are the
+things that you that you never thought
+you were going to run into to like I
+have a couple on my mind but I would
+like to hear what the actual Journey was
+for
+you I feel like there's a angle of email
+that uh very people know about when it
+comes to
+anti-abuse so we all know that there's a
+lot of fishing emails and a lot of
+people sending spam emails and a lot of
+Bad actors in that space in general we
+we got that feeling because we have a
+hard time ourselves to control our
+inboxes right but as an email provider
+that needs to worry about the reputation
+of the IPS on that shared IP poll that
+needs to worry about how one bad actor
+can impact other good actors uh there's
+just like a huge amount of energy that I
+personally put and the rest of the the
+team also puts in terms of anti-abuse
+that no one knows about and we created
+so many systems internally uh and we
+even call it like RoboCop you know
+that's like the little machine that
+helps deal with that and it's just so
+loud I never thought I would spend so
+much time fighting spamming and fishing
+which is crazy yeah that it's actually
+interesting because I think that kind of
+Technology that's the actual innovation
+in the space right like email
+technically the protocol has been around
+for 40 50 years or something it's been
+quite quite a while but having to deal
+with criminal or you know illegal
+activities and fighting that the whole a
+mouse game that's where most of the
+Innovation happens am I right with that
+that's so true because what happens is
+that and that this was one of my
+motivations when I started I was like
+man when I go to postmark or SCS or send
+grid and I start to you know just set up
+a new account they ask me all these
+questions and then I I have to go
+through a two-day verification process
+where they're vetting if my use case is
+allowed or not and that kind of stuff
+and I was just so pissed about that I'm
+like oh my gosh like I just want to send
+an email I don't want to be you know
+like what is this do I need to send a
+photo of my passport now like what's the
+deal here and I'm like we got to remove
+friction that's just like just not ideal
+at all uh and now I know why they do it
+because there's so many Bad actors but
+the way we're trying to solve this
+problem is we're not going to put
+friction on the user side we're putting
+friction on on us you know like we have
+to do the work to make sure that we
+detect um Bad actors faster but we
+cannot make the experience of good
+actors bad because of these guys so how
+can we can create like the most optimal
+experience for people who are legit that
+just want to send an email that they're
+starting something new a side project
+that they don't know if it's going to
+work or not so I like why like do I need
+to spend a like wait a week or two days
+waiting for a response if I just want to
+try something out so we are trying to
+trust users by default instead of the
+opposite uh which is not the common path
+that uh email platforms take that sounds
+like as you target the service more to
+developers and being one
+yourself you can probably have a little
+bit more trust I I mean I know there's
+like people who are really into hacking
+like the the bad the black hat kind of
+stuff but I think on average developers
+probably have a more you know rule based
+and Rule following behavior is that
+right like have you seen developers
+actually being more or less criminal in
+that regard or abusive let's just say
+abusive at this point yeah that's a
+tough one because I don't really know
+the the pain that other companies feel
+right so it's hard to compare but I feel
+like
+they they are definitely like the type
+of people that uh they recognize when
+something is good or not they are
+willing to give feedback and for me the
+way I treat developer feedback is that
+they will only give you once and if you
+don't act on that feedback you'll never
+hear from them again but the the type of
+feedback they give is so valuable like
+they will go in so much detail and if
+you can really act on that feedback they
+will keep coming and they'll keep
+helping you build that product um so
+it's hard and there all these analogies
+of like oh if you're building for
+developers you're trying to you know uh
+cook for other chefs you know there's
+this idea that uh developers can spot
+things uh pretty quickly uh and uh so
+it's it's been a an amazing journey to
+serve that audience uh and as a
+developer myself I just yeah I just love
+it yeah I bet and and as a developer
+myself I wonder how do you get devel
+velers to talk to you because they don't
+like talking to people like they don't
+necessarily I mean some people really
+like to write these four page like ideas
+that they have and send them over but
+most devs are pretty busy building their
+own stuff so how do you encourage people
+to give you feedback like where do you
+where do you get them to actually give
+you anything meaningful yeah I think it
+goes back to removing friction because
+uh I feel like most of the time people
+are trying to hide the contact support
+forms or like hide the the feedback
+button and I remember uh debating or in
+terms of like where should the feedback
+button be and what are the fields that
+we're going to have in that experience
+and we try to make it you know as less
+friction as possible there's like a
+button on every single page you click
+there's like a text area and then
+there's no form like oh is this a book
+is this a feature request or like what
+is your sentiment as you're giving that
+feedback no just like here's a a text
+area click Send uh the message goes to
+us and then it's up to us to act fast on
+that that's cool yeah it sounds like you
+exactly know how people use your tool
+right you know how much effort they're
+going to put into it and how little
+effort they want to put into giving you
+something for free I think that's a
+that's an important one I wonder and and
+this is a kind of almost a a business
+future question how long you can keep
+this going right because usually as
+businesses grow their capacity to deal
+with the influx of feedback diminishes a
+little bit and particularly the speed at
+which they can react to it which like
+you said is important right you you only
+get feedback once and if you don't act
+on it they will never help you again how
+do you plan to keep this feedback loop
+tight in the business I feel like
+there's some battles that uh you as a
+Founder you have to choose if you're
+willing to die on that sword uh sort of
+speak
+uh and there's some battles that you
+know that as you grow you have to be
+more flexible and maybe like you know uh
+be a little bit more uh relaxed with
+that rule uh for me there's some things
+that I believe that are very deep uh
+that I I will die on that sword uh one
+of them is attention to detail I feel
+like to build a great product you need
+to slowly add those moments of joy and
+there could be no no uh broken windows
+you know just yesterday there was a page
+where you would load the page and then
+the loading stage will be one and then
+once the content was loaded it will jump
+a little bit and I told the team can we
+fix this right now because this is not
+good uh so if you go to that extreme of
+like no like we have to really take care
+of the details and that's what makes a
+great product that's something that as
+we scale I'll I'll keep to you know keep
+pushing on that um and you know
+responding to feedback is another one uh
+every churn that you have every message
+that you receive like feature request
+every ticket that someone opens on your
+support Channel that's an opportunity
+for Learning and if you don't take
+advantage of that opportunity you're
+just missing out you're missing out on
+building a a better product
+so you know receiving that message is a
+privilege and you have
+to like you're like receiving gold in
+your hand and if you're just dismissing
+that then you don't really care about
+your product that much uh as you're
+saying you care so I value that a lot uh
+I'm I'm not going to say we're perfect
+we make a lot of mistakes there are a
+lot of feedback that we don't act as
+quickly as we we wanted to be we're
+super small team um and we're serving a
+lot like we are now a team of seven
+people we're serving 100,000 users uh in
+the platform they're sending millions of
+emails every single day uh so how can we
+keep scaling uh without necessarily just
+putting more people on the problem right
+that's always the challenge so yeah
+those are some of the things that I I
+I'll die on on that sort yeah also
+sounds like that with a team of seven
+you still look at these emails at the
+feedback that people give you right it's
+not that you can push it away like you
+sound like the guy who would just want
+to read every single one of them at this
+point for sure and what's re what's even
+more important than me reading those
+emails is also for the engineering team
+to to get to have access to that data I
+feel like a lot of teams they try to
+Shield the engineering group from like
+customer feedback and then there's this
+gatekeeper this product manager or the
+support team that compiles that data and
+then give that data to engineers and
+I've always subscribed to the idea that
+you know Engineers need to be talking to
+users they need to have access to the
+support system uh the zenes system can
+cannot be like separated and Engineers
+cannot have like a license or a seat no
+like Engineers should be able to go to
+the support to and answer questions
+themselves so that that's super
+important yeah I I recall being in a lot
+of companies that had this kind of
+divide and they mostly did it because
+they thought us Engineers we wouldn't be
+able to speak the language of the client
+and which is funny because in in all of
+these businesses we were talking to
+technical people like we were serving
+other technical people with a technical
+product and I think in your case even
+more so right it's developers building
+for developers like if there's anybody
+who should speak to these customers that
+you have it's your development team they
+know their language they know exactly
+the you know the little slogans the the
+lingo of of the community they know what
+people want what they what they need I
+love the fact that you kind of keep this
+in the team um how do you avoid like
+pulling people out of their Flow State
+because that's that's something
+developers really need right and your
+customer service conversations they come
+in when they come in so how do you how
+do you keep people focused on their work
+while still being involved in the
+customer service world yeah that's
+something I still struggle a lot you
+know and we've been trying different
+strategies different ways to to handle
+that because the the truth is that we
+cannot just have all the engineers doing
+supports every single day right uh
+otherwise they can't get stuff done and
+as a developer myself I know that I need
+my focused time I need that time block
+uh I can't have like multiple meetings
+in between otherwise I'm going to lose
+context uh so it's something we we have
+a hard time doing it but we we try to
+like come up with different stuff and
+different strategies uh or initiatives
+to to create that culture so uh just
+last week we're all like traveling for
+our offsite we are remote team so
+everybody works from home and we went to
+Mexico for a week and then on the first
+day uh when we were there uh we knew
+that okay the week is going to start and
+we're going to be in meetings all day so
+how can we um like make sure we handle
+all the support load before so we have
+more room to to do all the brainstorm
+sessions so then on Sunday night we all
+sat down and then we're like we're doing
+support night and everybody has to help
+uh so th those are the types of things
+that we do and then you know maybe an
+engineer that is not that involved to a
+support they might be thinking like oh
+yeah oh this is cool interesting oh look
+at all these problems and Engineers are
+lazy right most of them and when they
+see something they're like oh wow like I
+can't believe people are having these
+problems let me fix that for them
+because they they shouldn't be having
+these things so I yeah I feel like it's
+so important but I I wish I had the the
+answer uh to the question because well
+you do and it's trying to make it better
+step by step right that's what it is
+like you just try to figure out how you
+can involve people without like taking
+away their focus time and that is always
+I think it's a unique process for every
+business because first of what you build
+depends that on that depends like how
+focused you need to be and what your
+customers have as problems also impacts
+that right so that that's the unique
+part there you you said you were remote
+that's that's unsurprising I guess in a
+in a post-pandemic world but it is it is
+pretty cool with a team of seven like
+how how distributed are you like is are
+time zones already a problem in the in
+the business at this size or are you
+still waiting for that to be an issue
+later yeah no I I actually think a lot
+about what is the best setup for an
+early remote team and I feel like that
+looks pretty different uh in terms of
+what are the skills you need what are
+the time zones that you that you're open
+to and I had that experience at workos
+when I used to work before and we were a
+team of like 50 people and back then we
+were very strict about what are the time
+zones that we hire so we still didn't
+have people in Europe or or Asia because
+we wanted to keep the time zones in
+between like North America and South and
+and Central America so that's pretty
+much how we we also behave here like
+okay where's m team we we try to hire
+people as senior as possible because we
+don't have too much time for training
+and and developing like we just need to
+get stuff done and and learn as quickly
+as possible and we also need to be able
+to have some sort of uh overlap between
+our work not full overlap we actually
+don't believe that that's the case we we
+very much believe in in working a sync
+and having everything around like async
+work uh but some overlap is good so
+that's how we we try to do so we we have
+like people in North America people in
+in South America today and then we have
+that like four hour gap uh between those
+time zones that's cool that's still it's
+pretty close right it's it's it's not
+the other side of the world but yeah I
+could see that I'm I'm kind of I'm
+mesmerized by the fact that it's just
+seven people because like you went
+through y which is something that a lot
+of people aspire to and I guess a lot of
+people in the in the Hecker world have
+very strong opinions about you know like
+Daniel basalo has written extensively
+about this and a lot of people are
+mirroring the the idea that oh no I
+never would race VC because I want to
+bootstrap and all of that but I see you
+do it and still have some kind of
+sustainability built in and a very a
+strong focus on like team cohesion and
+actually like moving forward in a in a
+kind of less crazy way than what most
+people to the V the VC money world so
+it's great to to get like a glimpse
+behind the curtain here how has going
+into YC impacted the trajectory of this
+business like because you're defying
+expectations on my end right you don't
+have 400 Engineers right now and I
+thought everybody is trying to grow as
+much as they can so what else am I
+missing here what's what's the the magic
+there you know what's super interesting
+uh I I'm an NG hacker you know I only
+started recent because inie
+hackers inspired me inie hackers like Q
+inie hackers like Daniel and so many
+others uh I remember starting Dracula
+Pro and then like going through all that
+journey and then making my first dollar
+online and and being like so puzzled
+about like how can people really you
+know you know uh put their credit card
+information in this thing for me and
+then waking up and seeing the stripe
+notifications or the Gum Road
+notifications which I still use every
+single day uh and selling books uh and
+being inspired by your journey as a
+self-publishing uh alar same same for me
+so I went through that journey and I
+noticed the pros and cons of being an in
+hacker uh and I feel like that's the
+same for the VC route uh there's pros
+and
+cons and when I looked at the business
+that I was building with Dracula for
+example I'm like I I'm pretty sure this
+is a lifestyle business plain and simple
+it's really like how can I scale you
+know selling callers online it's hard
+you know uh and I have so many ideas to
+grow that committed and I still do that
+on weekends and and during the evening
+um but that was a lifestyle business
+that's an indie hacker business great
+when I had the idea for recent I knew
+this is the type of business that
+requires capital I need for as a
+developer myself I really believe I need
+a generous free tier because I want
+Empower other in hackers and I know that
+when they're just getting started they
+need a way to try it out and then if it
+plays out and then okay this is good
+okay then they'll start paying later so
+whenever I see people trashing the VC
+route I'm always surprised by that
+because I feel like they don't really
+understand like for this type of
+business this is the route you should go
+and for that other type there's another
+route versus this is the only way you
+should do it I feel like there's a lot
+of nuance that that folks Miss and I
+remember like uh seeing people like
+saying bad things about y see and
+there's something really interesting
+about you know maybe you don't like the
+person who runs it maybe you don't like
+the idea of an
+accelerator uh or the model that they
+execute uh whatever is the thing that
+you don't like about them I don't really
+care the the the root cause so the main
+reason maybe you were rejected three
+times and now you absolutely hate it and
+you feel like you know I don't like
+those guys are evil okay I don't really
+care uh what I what I don't think is
+nice is when people just think that okay
+every YC company is bad because YC is
+bad you know uh and I remember when we
+had an incident uh with recent and there
+was a lot of attention around that I saw
+that type of behavior and I was like
+kind of disappointed with that um but at
+the end of the day you know everybody
+has their opinions you know and and and
+it's fine uh but I would definitely
+recommend folks that if they either
+think that just the VC route is I it's
+perfect this is the way to go stop for a
+second and think like okay maybe there's
+something on the other side and same for
+in hackers look at that and then think
+like for the type of thing am I that I'm
+building is this the right funding model
+if it is great go for it if it's not
+there's another route uh I personally
+wanted to experience both and I still do
+every single day I I still see all the
+the stripe transactions on recent I
+still see all the Dracula transactions
+on gumroad and all the uh Amazon uh
+thing too uh with with self-publishing
+the book that's right KDP yeah that's
+right the KDP exactly the KDP F I still
+see the the their emails so yeah uh
+there's a lot to unpack there but I I
+feel like uh folks need to experience
+those things by themselves before really
+talking about it yeah I I like that very
+balanced nuanced approach like obviously
+different business models require
+different kinds of funding and different
+Founders have different ways of going
+about business right it's like some
+people can be in the hackers forever and
+be perfectly fine like Peter levels
+comes to mind I don't think he he would
+be the guy that takes on funing but who
+knows maybe there's an opportunity like
+maybe he will find his resent one day
+right like you never know and and I
+don't think you should close off the
+opportunity to to hiring um a lot of
+people and needing a lot of money or
+having high expenses like it's kind of
+what I'm going through with potan right
+now like I need to pay all these GPU
+servers in the cloud and if if I hadn't
+raised some money from the CM company
+fund I would have to like pay this all
+by myself which I probably could but
+then again I don't need to there are
+Funding Solutions in between bootstrap
+NVC as well right there's a there's a
+Continuum and you you I what I love
+about your journey is that you that you
+still are both this is so cool it's so
+cool to see somebody not leaving Indie
+hacking for greener pastures but just
+saying okay I'm going to do this as well
+that's nice that's that's rare I think
+and that's why people have these split
+opinions right because it's either or
+people go do other things but you're
+still you're still in both in both
+grounded in realities and both realities
+there I like that what's really cool is
+that a lot of the way I act today is so
+influenced by my in hacker path and I
+bring that to the team you know like oh
+this mentality like the sense of urgency
+like this sense of uh scarcity like we
+got to ship it like we we don't have
+time like we got to really think about
+this one thing we can do because as an
+NG hacker you're typically working you
+know just these two hours on Friday
+night you know so with those two hours
+you got to be so focused and I bring
+that to the team and and just like the
+the opposite is also true right like now
+that I'm going through that VC route uh
+I see like these Founders that have like
+these super ambitious uh Vision right
+and they're like oh yeah we're you know
+for reent it's like oh we're gonna help
+humans communicate it's so broad it's so
+like uh you know uh inspirational and
+then I'm like you know it's actually
+cool to have that that audacity and then
+I bring that audacity to my inacker
+business so with Dracula I'm like we're
+building the biggest theme on Earth and
+that's what draal is going to be it's
+going to be available everywhere and
+every single developer should use it
+cool so I love that you know that
+opportunity I feel like it's an
+opportunity it it really is and what I
+like like particularly there's a dream
+right there's a dream to help everybody
+communicate or all developers
+communicate more easily you can probably
+like just size it down into NES and it's
+still a big dream and it's still a big
+dream to help every developer out there
+build like better emails or write better
+emails send better emails that is
+already like audacious as a goal and
+then taking this into these small
+projects and small I mean by just like
+tightly scoped that's also great because
+why not make the best theme like dracul
+is great I think I'm a customer I was
+back then and it's like yeah this is
+great this is not like the the the
+biggest revolution in technology but
+it's going to help me be better at my
+job or it's going to make life more
+enjoyable and that is already a lot
+right it's already a lot to have that
+dream to make it a really cool thing
+that people can use and will use every
+day I think dreaming is all right it's
+all right to dream a little bit and take
+that into your business that's so true
+and you said something that that's so
+impactful because I feel like uh we're
+not inventing the wheel here right like
+you you said it before like email
+existed for the past 50 years it's
+probably going to exist for the the next
+50 uh and it's not like there are no
+email Solutions out there there's
+actually plenty of them uh and we're
+trying to take a new spin on an existing
+problem and just trying to solve it for
+this Niche that's something I learned
+with being an N hacker I just got to
+nail down this one niche and if I do it
+then I have the opportunity to grow to
+other niches as well uh so I remember
+for a long time uh I thought that to be
+an entrepreneur you had
+to just like come up with something that
+no one ever thought about it it got to
+be revolutionary or uh and I I learned
+that that's definitely not the case
+there's actually a lot of opportunity
+especially now when so many people are
+looking at AI as this shiny object and
+everybody is like a gold rush uh
+everybody going to that side I I feel
+like there's so much opportunity for
+inja hackers to look at existing
+products and say you know what Google
+analytics is not that good maybe I could
+build an alternative to that oh like I
+don't know jira is not that good maybe I
+can build an alternative to that and you
+see with plausible and with linear they
+took two different paths one is a VCB
+company another is an indie hacker a put
+STP company uh so I don't know I feel
+like uh yeah this is the best time to
+build and uh and it doesn't have to be
+something that no one ever thought about
+yeah I think your approach of like
+really all sweating the details I think
+is the phrase right they're really
+caring about the you can you can see it
+on the recent homepage this is a well
+constructed homepage and it looks cool
+like it just you know like it it
+immediately invites you into like uh you
+can feel that the people who built this
+they probably care about quality product
+and I think that speaks the language I
+think in a marketing sense you did a
+really good job conveying how much you
+care about quality because like
+developers can see this that we we all
+have seen the documentation pages of
+weird software from the 90s like we have
+memories of the shittiest websites that
+have information on them that we could
+barely read barely purse it's
+unstructured it's really bad so we know
+what bad looks like and then you come
+and you provide this wonderful website
+that is clear that has messaging that is
+very approachable to a a logical
+analytical mind that suggests that you
+know what you're doing and I I wonder
+how much work went into that because
+that feels like a lot of effort on the
+website man dude it was so much work and
+there were so many times that we were
+like okay it's been months that we're
+developing this or
+weeks this is getting out of hand uh are
+we doing the right thing or Not by
+spending so much time on the website and
+there were many times were're like okay
+let's launch it next Monday and then
+Monday comes and we're like um it's not
+there yet and then we're like okay next
+Monday then and then um it's not there
+yet and that's something I I truly feel
+like it's an opportunity too for in
+hackers because
+there's this MVP mentality right like
+you got to ship fast you got to validate
+as fast as possible and that's all true
+like I I I don't disagree with that my
+point is that people then cut a lot of
+corners and
+they they miss the opportunity to
+communicate something deeper So speaking
+of freend you go to the website first
+thing you see this crazy Rubik's Cube
+rotating in front of you what's that
+about like what's that related to email
+or developer tools what's the deal with
+that and for me the the important thing
+about that is that it communicates a lot
+of things it communicates that hey this
+is different this is not srid this is
+something else oh this is there's a
+technical Excellence here that I don't
+see elsewhere so if this is good imagine
+what's behind this and the attention to
+detail oh this is a team that cares so
+if I have an issue they they'll probably
+care uh to help me and I could create a
+values page and talk about all the
+things that we care as a team and then
+write that down or I can demonstrate on
+the most important real estate that I
+have on the web which is the first load
+on my homepage and I highly recommend in
+hackers to do the same like how can you
+communicate the things that you value
+and that your audience
+values and there's just a sense of
+giving back that I I cannot articulate I
+wish I could but when you see something
+and you're like oh these people
+care Oh by you just like you also Care
+by by extent that there's just something
+weird about humans I I can't
+explain something I think I think it's
+it's absolutely show don't tell right
+you show them and by doing it you you
+make them aware of it is you don't you
+have to promise something and then maybe
+you fulfill it later like here it is an
+example of your craftsmanship and all of
+that and I think you do this not just on
+the website which is great but also in
+all the Integrations that you have like
+and that you actively pursue like you
+you've been you've been trying your open
+source stuff like all the Integrations
+into different tools that's really cool
+and did I hear something about you going
+more into the world of PHP is that maybe
+something that's going to happen yeah
+that's so true you know like we know
+there's a Revival in in the PHP
+community of some sorts uh PHP has been
+around for a long time and um the
+community is still extremely active
+despite what other communities might say
+about it uh so one of the cool things
+that I'm super excited about is that uh
+Taylor the creator of LEL I I was
+stumbled upon him on an event and he was
+just like on this circle with me and
+then I just mentioned something about uh
+someone that he just had hired and then
+he's like oh so yeah what do you work on
+I'm like oh recent and he's like oh I
+actually uh developed like a a transport
+layer and and I I committed that into
+larl like really he's like yeah I'm like
+when yeah when are you shipping this I'm
+like oh I just need to push the commit
+and then we're we're good like yeah
+let's do it so yeah recent is now uh
+like a a core transport layer on
+laravale and then that was super cool
+because then the folks from Symphony saw
+that and they got inspired by that and
+now and is also part of symphony uh and
+we're just trying to make the lives of
+developers easier whatever you know
+Channel or technology used like another
+case uh is with cloudflare workers uh
+the folks from cloudflare they reached
+out to me last year talking about like
+oh how we can integrate resend uh
+there's a lot of people asking for that
+and we didn't have too much time to work
+anything uh with them so then they came
+this year again they're like man there's
+a lot of people using recent cloudfire
+workers we should do something and now
+we have like an official integration
+with them too they added recent all
+their docs and I'm like just so happy
+that uh we're building this ecosystem
+you know uh as a developer there are
+tools that I love and every developer
+loves a different tool so whatever you
+love we want to be there we're working
+on a rust SDK at this very moment so
+there's a lot of cool stuff coming
+that's cool and again this shows like
+how much you care about this particular
+community and that's that's what what I
+hear like you you could probably have
+just skipped rust you know or skip
+skipped lwell for that matter and just
+went for rails or you know like pick we
+thing but to actually be inclusive and
+give give everybody who has a preference
+a choice of integration that speaks to
+me as somebody who has missed out on a
+lot of these in the past because these
+businesses were way too far gone from me
+right way too way they didn't care about
+me as like the the simple single
+solopreneur developer they only wanted
+to reach other Enterprise businesses but
+you don't do that and I love this and I
+hope you can keep this up for as long as
+possible that's that's really what I
+hope right because the the markets
+change and you have growth expectations
+and all that but I see that that you're
+trying you're trying to stick with devs
+for as long as you can and is really
+cool yeah man yeah FKS a lot arford
+means a lot coming from you for sure
+well I I will keep my eye on un recent I
+I think I I have a free account there
+and I think I might my great pots get
+over to the thing now that also in laral
+as like a baseline thing that's just
+awesome I really love this and I it's so
+funny right that you didn't necessarily
+intend to have this happen but it just
+happened because you were at the right
+place at the right time talking to the
+right people like if there's a lesson in
+there for Founders it's be at
+conferences be at events go to meetups
+like hang out with other makers in the
+space and see what kind of Partnerships
+just happen by random chance right what
+kind of opportunities can come from this
+you have to be present in the space and
+things can happen that's really cool
+sering deity is something that you know
+uh you got to use at your advantage and
+when you're building something from
+scratch uh you just got to use every lit
+opportunity you can to to you know um
+make it better so well I I see you do
+this and I I see you sharing all of this
+in public as well which I really
+appreciate so if people want to find out
+more about recent about your journey
+which has been what since like 2009 or
+something you've been publicly
+communicating this on your blog as well
+like man there's so much here that we
+didn't even get to talk about but if
+people want to follow you and the
+business that you're that you're
+building where should they go yeah so
+I'm super active on Ax so
+a.com zenor roacha uh is where you can
+find me posting random stuff and uh also
+you know resend because I'm super active
+on uh on my personal account I'm also on
+our business account so we're every day
+posting new stuff that we're shipping uh
+so at recent on X and everywhere like
+zenor roach.com you can find all my
+talks all my podcasts articles
+everything I built uh yeah that's cool
+man these are these are great locations
+I highly recommend following in over
+here that's You're great and I'm what
+I'm really really grateful for is that
+you're bringing the Indie Hecker
+mentality into YC and into the world of
+V see I think that's that's quite defeat
+and and something that you're that
+you're actively helping both communities
+communicate more and kind of see the
+good in each other I think that's that's
+something that I really enjoy about your
+work and the way you just explained it
+to me here on the show really appreciate
+it thank you so much for being on and
+and sharing all these Insight that that
+was really cool thank you so much s
+thank you man you've been an inspiration
+for a long time so I'm I'm super glad uh
+we're having this this discussion here
+this that was really cool appreciate it
+and that's it for today I will now
+briefly thank my sponsor acquire. comom
+imagine this you're a Founder who built
+a really solid SAS product you acquired
+all those customers and everything is
+generating really consistent monthly
+recurring Revenue that's the dream of
+every SAS founder right problem is
+you're not growing for whatever reason
+maybe it's lack of skill or lack of
+focus or app in lack of interest you
+don't know you just feel stuck in your
+business with your business what should
+you do well the story that I would like
+to hear is that you buckled down you
+reignited the fire and you started
+working on the business not just in the
+business and all those things you did
+like audience building and marketing and
+sales and Outreach they really helped
+you to go down this road 6 months on the
+road making all that money you tripled
+your revenue and you have this hyper
+successful business that is the dream
+the reality unfortunately is not as
+simple as this and the situation that
+you might find yourself in is looking
+different for every single founder who's
+facing this Crossroad this problem is
+common but it looks different every time
+but what doesn't look different every
+time is the story that here just ends up
+being one of inaction and stagnation
+because the business becomes less and
+less valuable over time and then
+eventually completely worthless if you
+don't do anything so if you find
+yourself here already at this point or
+you think your story is likely headed
+down a similar Road I would consider a
+third option and that is selling a
+business on inquire.com because you
+capitalizing under the value of your
+time today is a pretty smart move it's
+certainly better than not doing anything
+and aire.com is free to list they've
+helped hundreds of Founders already just
+go check it out at try. aire.com arvit
+it's me and see for yourself if this is
+the right option for you your business
+at this time you might just want to wait
+a bit and see if it works out half a
+year from now or a year from now just
+check it out it's always good to be in
+the gome thank you for listening to the
+bootp founder today I really appreciate
+that you can find me on Twitter at
+avitar
+KL and you find my books and my Twitter
+course there too if you want to support
+me in this show please subscribe to my
+YouTube channel get the podcast in your
+podcast player of choice whatever that
+might be do let me know it would be
+interesting to see and leave a rating
+and review by going to rate thisp
+podcast.com founder it really makes a
+big difference if you show up there
+because then this podcast shows up in
+other people's feets and that's I think
+where we all would like it to be just
+helping other people learn and see and
+understand new things any of this will
+help the show I really appreciate it
+thank you so much for listening have a
+wonderful day and bye-bye

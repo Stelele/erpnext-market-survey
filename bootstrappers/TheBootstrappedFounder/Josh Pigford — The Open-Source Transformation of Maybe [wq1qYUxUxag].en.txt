@@ -1,0 +1,1639 @@
+﻿Arvid Kahl: Today, I'm talking
+to Josh Pigford. He is the
+founder of Maybe and he recently
+open sourced the whole codebase
+for this financial software
+tool. He also sold Baremetrics a
+couple years ago for $4 million.
+So this project now is a
+continuation of his interest in
+the financial industry and
+dealing with money. I talked to
+Josh about all kinds of things
+about involving people from the
+community and building your
+product about raising money for
+something that could also be
+bootstrapped and how to manage
+such a thing in a community and
+an industry that is usually
+pretty slow to take up new
+technology. Enjoy this
+conversation between me and
+Josh. The whole conversation is
+sponsored by acquire.com. Now
+here is Josh.
+Josh, thanks so much for coming
+on the show. You've been giving
+a building in public master
+class over the last few weeks
+and I really enjoyed it. Let's
+talk about maybe, what is it?
+Why are you building it in
+public? And why are so many
+people so excited about it right
+now?
+Josh Pigford: Yeah, well, thanks
+for having me on. So maybe it's
+something that started back in
+2021, post exit of a previous
+company and we spent the better
+part of 18 ish months building
+that not in public really,
+launched it and found ourselves
+in a pickle, where we had gone
+the sort of typical VC route,
+hired a lot. And then we
+launched the thing and
+essentially ran out of money to
+be able to see it through to
+grow it. So we found ourselves
+on the spot where we'd be like,
+downsize the whole team to like
+two or three of us and
+ultimately shut it down. And
+then a few weeks ago, I got
+really nostalgic and decided to
+open source the whole thing. And
+that hit a nerve and now it's
+alive again and we've raised
+some more money, but rebuilding
+the company differently this
+time. But yeah, people are
+pretty pumped about Sienna, the
+FinTech software, the insides of
+it. So
+Arvid Kahl: That's the
+surprising part to me, too, like
+FinTech tends to be a very
+closed source ecosystem. And you
+just throwing it out there and
+open source like, how did you
+come to that kind of conclusion
+to just throw it out there?
+Because you could have done many
+different things, right, you get
+to just restarted hired
+outsourced all that, but open
+source, that's a pretty solid
+choice.
+Josh Pigford: I well. So I had,
+I really wasn't thinking that
+anything. In my head, the the
+choice is sort of binary, and
+that either this, this stays in
+a private Git repo, and no one
+ever sees it. The end member had
+no plans of reviving it anyway.
+And so it was that or make it
+open source. And then like,
+maybe somebody can do something
+with it. And it was so complex,
+that it wasn't the kind of it
+was, it was never the kind of
+thing that I was gonna build,
+just grab the repo and like,
+deploy it and have their own
+version of maybe like we had
+sort of over engineered it for a
+multitude of reasons. But it
+was, you know, even now, we're a
+few weeks and have 10s of 1000s
+of people like seeing it and
+like it still is kind of a
+hassle to get it up and running.
+So like, it was more of just a
+Yeah, I'm curious what other
+people will do with it.
+Curiosity more than anything.
+Cool.
+Arvid Kahl: Yeah, I see you
+rehired one of your software
+engineers to me, that's so I
+love this. I love the cyclical
+nature of this. There's,
+Josh Pigford: there's more of
+that. There's more of that
+coming. Oh, wow.
+Arvid Kahl: That's cool. I was
+reading Sachs tweets about it.
+And it was pretty interesting,
+because he gave some very
+transparent insight into the
+back then. And then now of where
+the vision goes. And apparently,
+he was talking about a lot of
+compliance stuff like, version
+one had a lot of requirements,
+because you had a lot of advice,
+financial advice they were
+giving. And version two, the
+open source version doesn't have
+that. Can you just kind of
+elaborate on that choice? And
+why? Yeah.
+Josh Pigford: So when we first
+started, it was the impetus for
+maybe was, was sort of exited
+barometric so that company took
+home close to 4 million like me
+personally. And so what is the
+situation we found ourselves in
+was, us, me and my wife was
+we've got all this money from
+this exit, I want to not blow
+it. So I started working with
+financial advisor. And that was
+the first time first time we've
+ever worked with a new advisor
+or planner or whatever. So it's
+like, I've got this mix of we're
+doing this and I have all the
+free time in the world. And I
+can dig into like, what is what
+does a financial adviser do? How
+do they grow our money? Um, and
+why are we paying them a
+percentage of the assets that
+they're managing? And so that's
+when I like went deep dive into
+this, this that whole world
+realizing like oh, they're not
+doing anything all that great to
+warrant taking a percentage of
+assets. However, it is nice to
+have a third party kind of like
+gut check you on some stuff. So
+the idea was we'll build this
+like modern platform for
+managing You're on finances. But
+with that will tack on and a
+financial advisor as part of
+your account. And that choice,
+though, meant that we've got an
+infinite number of regulatory
+things to comply with. And so
+that added a ton of overhead, it
+meant that we could only be in
+the US. I mean, we could expand
+other places, but like, we would
+have to meet all the regulatory
+requirements and all of those
+countries too. And so that very
+quickly sort of limited us on
+sort of addressable market, how
+fast we can move on things, tech
+choices, because there's things
+like we have to keep, and, you
+know, an unchangeable copy of
+every single interaction for
+like, seven years or something
+like, there's just a lot of a
+lot of tech choices that that
+forced. And so that made
+overhead very high and text that
+complicated, like all sorts of
+stuff, but now we're saying
+we're not doing that anymore.
+There's no advice component, we
+can rip out half the code. Like,
+that's sort of where we're at.
+But
+Arvid Kahl: that's cool. Yeah,
+that's awesome. And I think just
+kind of shaving off complexity
+is generally a good idea, right?
+If you want to revive something
+that was too expensive to run.
+So I kind of I kind of really
+appreciate that that logic makes
+sense to, do you think that
+people are going to build their
+own advice systems on top of on
+top of this, because right now,
+you're kind of just supplying
+the way to gather data
+Josh Pigford: correctly? I guess
+you could, I mean, you know,
+there's, it's not in the current
+sort of most recent commits. But
+like, if you go to the very
+first commit of the thing, that
+open source a few weeks ago, the
+whole like, advice dashboard is
+there. So like, you could build
+and we had built a very full
+featured, a certified financial
+adviser could go in, and it's
+like a whole thing for them to
+manage their clients and
+interact with him, like a chat
+system, uploading videos and
+audio, like tons of stuff.
+That's there, if somebody wants
+to grab it and do something with
+it, but it does, it comes with
+regulatory overhead. And at this
+point, we're not interested.
+Yeah,
+Arvid Kahl: that's, that sounds
+very complicated. And it sounds
+like very hard to monetize as
+well. Because you know, that,
+that just the increase in costs
+and all that, that probably
+makes it hard to get a cut how
+you're going to monetize this
+open source kind of system.
+Yeah,
+Josh Pigford: so pretty typical.
+I mean, you know, the, I think
+the example most people would
+understand are sort of like,
+see, the correlation is like
+WordPress, where, you know, it
+was wide open source for ages.
+And then they did like
+wordpress.com. And so you can
+have your own hosted WordPress,
+essentially the same thing, I
+don't think it's a little less,
+it's a little more consumer, I
+guess. And on our side, where
+we're not gonna, like, talk
+about maybe is like, get your
+own hosted version of like,
+we're not gonna use that
+language, I guess it's just,
+you'll go to the maybe a website
+and sign up for an account. And
+that's that. But there is, it's
+sort of the hosted version that
+you'll pay for, will just be the
+version that you know, most of
+civilization uses. And the open
+source stuff is like, it's
+available for those that want to
+self deploy and all that stuff.
+That
+Arvid Kahl: seems to be one of
+the few but very promising ways
+of monetizing any kind of open
+source project, right should
+keep you keep the core free, you
+keep itself deployable, but you
+kind of have these added
+services or just the
+Josh Pigford: well, there's
+things especially in the
+financial world, where, you
+know, like connecting all your
+bank accounts. There's all these
+different data aggregators,
+plaids, sort of the most well
+known one. And very few, I mean,
+quite literally, probably 99% of
+these aggregators across the
+world don't have an option for
+an individual to use them. They
+just require enterprise
+contracts and stuff. So you
+know, on the on the hosted
+version of maybe that will, will
+offer for pay, that will include
+those data aggregators, where
+you're not having to sort of
+manually import CSVs and things.
+Whereas a self hosted most of
+that will be either manually
+inputting data, or uploading a
+CSV or something like that. So
+so
+Arvid Kahl: there's the upsell,
+now I get it, I was wondering
+just a little bit where that
+value would be of a hosted
+version. But of course, like you
+having the capacity to get these
+aggregators, and I was, I was
+thinking a lot about this,
+because ever since I moved from
+Europe to Canada, like the
+automate, automate ability of my
+financials has just gone down
+the drain. It's like super
+crazy, the kinds of standards
+that Europe has or Germany with,
+you know, the in FinTech, there
+are API's that every single bank
+has to offer, and you can kind
+of fetch data from there does
+not exist here. When I go to my
+bank here in Canada, it's like,
+yeah, you can kind of copy and
+paste it from the website, if
+you like. It's like, it's, it's
+really hard to pull that into
+anything else. So how is that
+like, you come from a place
+where within a day, you can
+build something really cool. You
+can refactor if you want it to
+your whole code base and 24
+hours right? Let's go a tweet at
+you throw out a couple a couple
+days ago. You could and nobody
+can stop you. But working with
+these banks working with these
+particular interstates, and I
+guess if you expand to other
+places like Canada, with these
+very self contained places How
+are you approaching that kind of
+integrability.
+Josh Pigford: So what we're
+working on right now is
+essentially standardizing the
+data model on our side. And
+then, and then everything will
+have to sort of meet that. So
+like, Will will make it so that,
+you know, we build a plan
+integration, even just for us to
+use, but it'll then have, its,
+it'll be sort of self contained,
+and then just pull in and
+process the data so that it
+matches our data model. So, you
+know, it ends up being anybody
+can build a data source sort of
+plug in or something that
+depending on where they're
+located, or whatever, you know,
+eventually this stuff all
+becomes like integrated with
+maybe
+Arvid Kahl: that's interesting.
+It's kind of like a Zapier for
+financial data that
+Josh Pigford: yeah, essentially,
+it is, it's like, a lot of the
+banking data includes more sort
+of detail than is actually
+necessary for the average sort
+of financial application. So
+it's like, we can we can
+standardize or sort of reduce
+the complexity into, you know,
+money and money out kind of
+thing, in most cases. And it
+gets a little bit more
+complicated when you're talking
+about investments and buying and
+selling things and whatever. But
+the idea is, we can sort of
+standardize all that stuff and,
+and simplify the incoming data.
+Todd
+Arvid Kahl: reminds me so much
+of that one XKCD, always about
+like, there's 15 standards for
+this kind of thing, let's just
+implement the standards for all
+standards. And now there's 16
+standards for that kind of
+thing. Right? It's fun, though,
+I think it's just necessary,
+right? If you want to be able to
+integrate with all these
+platforms, and there is no Core
+standard or Central Standard,
+you just have to establish an
+interface for it. I love the
+idea. Because once that is
+established, and is also fully
+documented and communicated to
+your community of contributors,
+and people who are interested in
+using it, they can start
+building these extensions, and
+you can kind of add them to the
+system as they come. And they
+can also be externally
+maintained, which is really
+cool. Is that like an ongoing
+plan to just like, give the
+community the opportunity to
+keep building and maintaining
+these things? Are you going to
+pull them all in? I
+Josh Pigford: think so there's a
+little bit, the only sort of, I
+guess, hesitation or risk of
+having too much external stuff
+is security. When you're talking
+about financial stuff. I think
+the state like linking out to
+stuff that's like, hey, download
+this thing that pulls in your
+banking data, like, that feels a
+little bit feels a little risky.
+So yeah, I feel like we would
+need to have some sort of, you
+know, we have an internally
+hosted is set of Doc directory
+of plugins or something I don't
+know, that's been vetted and
+made sure that it's not, you
+know, scraping your data or
+something. But um, yeah, I don't
+know. I think it may be one of
+those things that the self
+hosting crowd ends up having
+their own sort of lots of
+plugins to choose from. And this
+is kind of the case, again, to
+the WordPress example, like, you
+can install plugins on
+wordpress.com. But like, there's
+some limitations to that, right?
+Like, you're not going to have
+the full breadth of plugins to
+choose from. So yeah, I don't
+know, we're still that's still
+super early. So yeah,
+Arvid Kahl: and I would love to
+just kind of your brainstorm
+these kind of things, I find
+them very interesting. Because
+when you're, when you're at this
+point, now starting just to
+build the potential for a plugin
+marketplace, if that would even
+be the name for it, or just a
+repository that is kind of
+validated and tested and
+secured. Like, there are so many
+different ways. If you look at
+WordPress, the example is great,
+I think you can, you can install
+manually, like any plugin
+anywhere, it can be locally
+installed, but it kind of has to
+go to adhere to the
+restrictions. Or you can just
+choose one of the ones that they
+have pre approved, right, that
+are securely located in there,
+the big list of things that are
+wonderful, and you just click on
+it, and it's right there, right?
+That that kind of duality, gives
+you some choice as a platform
+maintainer, to just want to
+offer and how to secure it that
+that's a really cool thing, too.
+Josh Pigford: Yep. Well, and
+that sort of jumps into another
+way that we're thinking about
+this. And I've tweeted about
+this a little bit like the
+concept of maybe being your
+like, the sort of OS for
+personal finance, where, you
+know, internally, we talked
+about having apps or modules
+such that, you know, you could
+potentially build your own sort
+of module that's got its own set
+of like tools for whatever
+specific stage of life you're in
+or something like that. I think
+we'll have our own stuff that
+we're building, but the idea of
+being able to create your own
+Yeah, watch this thing.
+Arvid Kahl: Yeah. And any kind
+of standardized interface makes
+perfect sense for that. Right.
+That's, that's fun. Yeah,
+standalone. Absolutely. That
+kind of reminds me of a tweet
+that you just sent prior to this
+conversation about once like the
+stuff that Basecamp people have
+been doing. Is that kind of the
+taste that you have for these
+apps just to be just standalone,
+instead of being hosted on
+something else?
+Josh Pigford: Not necessarily. I
+am most curious about the ones
+stuff from a deployment
+perspective, like how easy
+they've made it to sort of self
+host, in this case camp fire
+their first app. I like that
+idea, at least as far as some
+sort of inspiration around
+making the maybe app itself sort
+of self postable. Making it
+where it's, you know, you copy
+and paste this one, literally
+single command into the command
+line, and then it walks you
+through everything else. Like,
+that's, that's sort of, to me is
+like, sort of the gold standard
+for self postable. But also like
+modifiable codebase. Yeah,
+Arvid Kahl: I have some very
+recent experience with that kind
+of stuff in the PHP ecosystem.
+Like my most recent Sass
+projects are both built on
+Laravel. And Laravel, has this
+incredible ecosystem, like there
+are like billing portals and
+back end admin portals and all
+that, that you just pull into
+the package management system,
+you still have to kind of log in
+with your, you know, account or
+API key, if it's a paid system,
+or some of them are free. It's a
+very interesting monetization
+model that too, but it all gets
+pulled into composer, which is
+kind of the the NPM of PHP, for
+anybody working with JavaScript,
+right? The idea is to just have
+it be hosted somewhere, you pull
+it in, and then it's right
+there. And maybe it's kind of
+just a vendor thing, it works in
+the background, but you can
+expose the actual contract files
+and the view files. And you
+know, what the way it looks like
+the what text is in there, just
+how the database is connected
+all of that yourself and just
+keep building on top of it. And
+I think once in the Ruby world,
+that is the idea of having the
+standard on Ruby apps, or it's
+doing the exact same thing.
+It's, it's a very interesting
+approach, and kind of a novel
+and not so novel approach, it
+reminds me very much of the
+beginnings of open source
+software, right, it's kind of a
+cycling back, let's, let's talk
+a little bit about tech choices.
+Because like, I think 40 to 50%
+of your tweets over the last
+couple days have been about
+tech, like just straight up
+JavaScript or rails, like which
+to do to do which to take which
+to choose which not to do is can
+it just kind of give me a
+glimpse into your mind regarding
+to picking a tech stack for a
+project like this? And why? And
+what what kind of concerns you
+have in picking this?
+Josh Pigford: Yeah, so we're in
+a super weird spot with maybe
+where are you know, if I'm
+building something, myself, but
+no one else is involved, I'm
+choosing rails 100% of the time,
+um, and previous company
+Baremetrics were Rails app. When
+I started, maybe, in 2021, I had
+no plans of building any part of
+it. I mean, like, from a coding
+perspective, at least. And, and
+I think that choice at the time
+was coming off of like, I hadn't
+really been building much of
+anything, the prior few years,
+because I was in full on CEO
+mode. And so I think, in part, I
+didn't feel equipped to be able
+to build this financial app at
+the time. And so it was like,
+well, I'll hire some, I'll hire
+engineers, and they can talk
+amongst themselves and choose
+and whatever, like, it doesn't
+really matter to me, because I'm
+not coding any of this. Um, so
+that resulted in React being the
+sort of base for it, react and
+next Jas, and a few other bits
+and pieces. I mean, that's, you
+know, was and still is, on a lot
+of levels, like the the most
+popular sort of tech stack. And,
+and so it was like, Okay, let's
+do that, because there's a huge
+pool of developers, you know,
+available for that, etc. So that
+was the, that was like a choice
+that was made in early 2021.
+And, you know, we just went with
+it. Now, where we're at at this
+point is, we've revived this
+thing, it's still that same tech
+stack. But you know, as we were
+talking, before we started
+recording, that whole world has
+changed drastically since 2021.
+And it's changed drastically in
+the past six months. And so now
+we're at this place of like,
+okay, we're already having to
+rip out a ton of code. Because
+of that, there's so much in
+there for the compliance stuff.
+And the features that aren't
+part of the app anymore, we're
+already having to rip out stuff,
+a lot of the stuff, a lot of
+stuff just doesn't work, because
+like, the JavaScript world
+changes so fast, and whatever
+packages have updated, and
+they're no longer compatible
+with each other and whatever
+else. And so it's kind of a
+dumpster fire from like a
+compatibility perspective of all
+the different bits and pieces.
+So now, the thing we're playing
+around with, in our heads and
+talking amongst ourselves about
+is, what if we, we rebuilt it in
+Rails? Obviously, that reduces,
+and this is the discussion
+that's been happening on Twitter
+for the past 72 hours is you've
+reduced the number of available
+developers, then Bush, my
+argument there is but you
+increase the quality of
+developer Oh, that's what I want
+to be clear. I'm not trying to
+burn Anyone here because I think
+it's the, the reality is so many
+people brand new devs, of
+course, that the tech stack that
+they're learning is the thing
+that's most being hired for. So
+like, I don't fault people for
+that, it's just there happens to
+be a lot of very, very green
+developers in that world. Fine,
+totally cool. Nothing wrong with
+that. Um, but I think that also
+means you end up with a lot
+more. And we've found this to be
+the case already in our OSS repo
+for maybe is like, a lot of the
+discussions are like people sort
+of, you know, arguing semantics
+of code versus just writing some
+code. And it's very easy to
+argue about the way you should
+or shouldn't do things, instead
+of just making decision and
+building the thing. And so, I
+tend to find that most people in
+the Rails world, air towards,
+let me let me ship something
+over, let me like, try to get
+this code in some sort of
+standardized way, or, I don't
+know, like this argue about that
+stuff a lot, a lot less that
+still exists. But either way,
+that's sort of where we're at
+is, like, we already know, the
+data model behind maybe is set,
+like how we organize all the
+data, and then how all these
+things sort of relate to one
+another, I think is very solid.
+And a lot of these big decisions
+have already been made. So then
+it becomes, okay, let's just get
+the infrastructure around it
+rebuilt. And I joked about
+building in 24 hours. But like,
+last summer, when we started,
+like trying to simplify some
+stuff as a proof of concept, I
+rebuilt the maybe like net worth
+dashboard stuff in like five
+days, like, by myself. And so I
+think it's very doable to you
+know, I think one of the other
+tweets I said was like, in 30
+days, I think I could rebuild
+the entire thing. And I do think
+that that's true. Now, you know,
+certainly people disagree with
+that being a possibility, but
+like, Well, I think it's
+possible. And so we're just sort
+of looking into that. I mean,
+you know, later today, we've got
+a call with a number of people
+who have very deep ties in like
+the JavaScript world that can
+potentially, like change our
+minds on some of that stuff.
+But, um, we're just sort of not
+I don't want to, like make a
+keep doing something just
+because like, that's the code
+that's there. And then we end up
+sticking with something we're
+constantly trying to backtrack
+or undo stuff or like, I don't
+know, just just there's a lot of
+overhead that I think comes with
+the JavaScript ecosystem. Yeah,
+Arvid Kahl: for sure this is
+done. And there's the risk of
+just sunk cost fallacy kind of
+behavior, right? You don't want
+that either. Just because you've
+invested time into this doesn't
+mean it's a good choice. And
+honestly, I've been doing a lot
+of JavaScript like I was, I
+wasn't around to the
+CoffeeScript days of 2000, like
+nine and 10, and stuff. And it
+was a good time, and it's stuff
+was developing, and it still is,
+I've never stopped developing,
+right? It's not like there,
+there ever is like an end point
+to where this goes, it's just
+developed so fast. That's just
+what you said, the libraries
+you're using today might have a
+major version update tomorrow
+that requires you to integrate
+TypeScript or whatever, and then
+all of a sudden, you have a
+completely new thing to put into
+your stack. And it just makes it
+brittle, which is, I think, why
+there is this massive discussion
+around best practices, because
+people want to avoid this
+brittleness of their code,
+knowing that over time, it's
+just gonna decay so fast, you
+don't really have this as much
+in the rails or PHP or an in the
+Python community, right? There
+is there's a lot of standardized
+stuff that is just from smartly
+designed language things, that
+JavaScript as a very, you know,
+evolving language just doesn't
+have. But I want to talk about
+something that is just here to
+say like, the outside feedback
+from the the open source
+contribution community, and I
+want to I recently read a book
+called working in public by by
+Nadia Akbar, it's on stripe
+press. It's really nice. It's I
+think I have it right here. It's
+pretty cool. I guess it's a book
+about open source projects. And
+I found a quote in there, which
+I really liked was about people
+who build these projects, if the
+project management is kind of a
+one way mirror, and she she
+quoted somebody else saying,
+like, you wouldn't criticize a
+painter while they're still
+painting that piece. But a lot
+of the people in open source do
+exactly that, as you're building
+the code. They're going in there
+looking at every leg a little
+bit and saying this is not
+right, this is wrong. How do you
+deal with this? How do you deal
+with the inevitable community
+originating feature requests and
+criticism kind of stuff right
+now?
+Josh Pigford: Yeah, I so this
+the stance that I've been taking
+the replies that I sort of give
+to people who are making either
+filing issues on the repo or
+even making pull requests. My
+response is, generally look,
+what's the impact of this
+decision? Like what are how does
+how does the entire repo and the
+community of developers at large
+benefit from this change? And
+that right there, you know, a
+lot of the sort of semantic
+arguments well, you there's no
+it's there's not a response. So
+that says, This is good for
+everyone, it ends up being more
+of like, well, this is my
+preference, okay, well, then I
+don't care what your preference
+here is, like I need, we need to
+have tangible benefit to making
+people change the way that
+they're doing things or to make
+this big overhaul that means
+people have to go and like, you
+know, redownload the whole repo
+and run a bunch of scripts
+again, to get it to update or
+whatever. Like, it's, it's just,
+I need an explanation, like you
+need to be to make the case for
+it. And it can't be well, I like
+doing it this way. Or it can't
+be, well, it compiles faster.
+Okay, what is faster? About
+three milliseconds? Like, I
+don't care? Like, it doesn't
+matter, you know, and that's to
+me as, like, you need to explain
+to me why it matters. And so I
+tend to be a little dogmatic
+about that on my responses,
+which sort of ends a lot of that
+stuff, I think,
+Arvid Kahl: Do you think you
+have enough or like sufficiently
+calibrated tools to deal with
+these kinds of things? They've
+already been in like, what's in
+it the whole open source
+maintenance management tools
+that kind of Oh,
+Josh Pigford: like, does does
+GitHub provide enough? No, they
+don't. I think it's, you know,
+there's a lot of stuff that I
+would love to see sort of built
+around the management of an open
+source project. But it's, it's
+not that bad. It's just like,
+Okay, well, there's a lot of
+people involved. And it's just
+people management and ends up
+being more like the kind of
+tools that you need to manage
+like a Discord server. I feel
+like I need that on GitHub. But
+yeah,
+Arvid Kahl: yeah. How's that?
+What's that looking like for
+maybe like, how are you
+involving the community? Like on
+GitHub, Discord, any other
+places? Or how are these things
+interacting?
+Josh Pigford: Mostly, it's, it's
+yes, Discord, GitHub, and
+Twitter is kind of where
+everything happens. And, you
+know, it's try trying to, you
+know, writing up documents about
+how to contribute, being really
+responsive in discord when
+people ask questions, or say
+they have trouble getting some
+getting something up and
+running, like, okay, let's talk
+through that, that gives us
+feedback over how we can make it
+easier to get up and running
+with the platform. So I don't
+know. It's mainly just being
+present and responsive.
+Arvid Kahl: Yep, that makes
+sense. You've, you've talked
+about just earlier, like funding
+with us. I think that's an
+important part, because
+obviously, this is the bootstrap
+founder podcast. And
+bootstrapping is technically non
+funding activity. But I believe
+that you your funding approach
+is kind of bootstrapper ish. I
+think we had this whole
+conversation, or I guess the
+community had this conversation
+when you sold parametrics. And
+everybody was calling you like a
+bootstrapper? And he said,
+Actually no, brain guys, I will
+look like why do we act like
+one? But you know, this funding?
+Is there. How's that happening
+now with maybe what's what's the
+plan for this?
+Josh Pigford: Sure. So we back
+in 2021, if you'll recall, the
+the landscape was very
+different. And people were just
+throwing money at everything
+under the sun. So it was easy to
+raise money. And we end up
+talking about the bootstrapper
+sort of mentality. So we, we did
+not raise a traditional type of
+VC round we did, we went the
+crowdfunding route using reg CF,
+which sort of allows anyone to
+invest and not have to be
+accredited. So we have, we have
+around 1300 investors, because
+of the craft table, you know, as
+little as like $20 of people are
+involved in. So that was the
+sort of impetus or the
+origination of funding for us.
+So raised 1.4 ish million back
+in 2021 2022. So that was that
+was the original end, like we
+spent, the vast majority of that
+trying to get the maybe product
+out the door and hired a team of
+at most are eight people, eight
+full time people plus
+contractors. So there's a decent
+number of people involved. And
+that was the most expensive sort
+of route to go. But anyway, so
+essentially, we're running out
+of money, shut all this stuff
+down, did a quick pivot, then
+built a tool called detangle.
+That thing makes money or at
+least isn't losing money. But
+then when we open sourced all
+this stuff, again, there's a
+whole other world of people who
+are interested in investing in
+open source projects, at least
+commercial like commercially
+viable open source projects. And
+so yeah, so in the past 10 days,
+we've raised another 1.1 and
+some change million dollars. But
+we're like refocusing like,
+okay, not going to VC typical
+grow at all cost route of
+rehired to people from the
+previous maybe team and and like
+that's essentially our overhead
+is that and so much larger focus
+on like, building the very
+sustainable, profitable
+business. And leaving it at that
+Arvid Kahl: sounds like a con
+business to me like,
+Josh Pigford: Well, that's the
+goal like it's the kind of thing
+I talk about my sort of view of
+Maybe as the kind of thing that
+you start using when you're like
+18 and or 16, or whatever, like
+you get your first job and
+you've got some money. You need
+to figure out a budget it and
+all that stuff until you die and
+you've gotten a state that
+you're like leaving to your kids
+or something like that, right?
+And like all of the stuff that
+happens in between and all the
+different ways that you manage
+your finances. And so, with that
+in mind, we're like building a
+company that needs to be around
+for the lifetime of its users.
+So yeah, so that needs to be
+calm. It can't be, go, go, go go
+go. We're like spending, you
+know, 1000s of dollars to
+acquire a single customer and
+like we need VC money to prop up
+our terrible customer
+acquisition costs. And now it's
+like, okay, we're like building
+a very long play here.
+Arvid Kahl: Is that also a
+choice that you made for
+yourself? Because like post
+exit, a lot of founders kind of
+switch, right? They switch from
+I need to, I need to oh, I might
+or now I don't have to anymore,
+but I'm choosing to do things
+intentionally. Was that baked
+into the fabric of Maybe?
+Josh Pigford: So the thing that
+the Baremetrics acquisition sort
+of allowed me to do is not need
+to do anything, which pros and
+cons to that, for sure. However,
+there's, now not the need for
+some or there's not the pull
+towards some sort of like, exit.
+Like, it's okay if this thing
+takes a long time. It's fine,
+you know. I haven't taken a dime
+from like a salary perspective
+for maybe ever leaving from when
+we had all this funding a couple
+years ago. So like, I can be all
+in on the Maybe stuff. And we
+just see what happens. Like,
+it's like, we can take some like
+a typical risks because I'm not
+having to like, this isn't my
+job in the sense of like, this
+is how I'm supporting my family,
+like, we're fine. So there's
+sort of different outcome needs,
+I guess, pros and cons, though.
+Arvid Kahl: Yeah, and let's
+maybe dive into the cons here as
+well because everybody's going
+for the exit, going for the big
+cash influx. But the time that
+comes after that has a couple of
+challenges too. What you just
+said to me, I reminded me very
+much of my own choices right
+now. The businesses I'm
+building, they don't have to be
+profitable immediately, I would
+like to, but they don't have to.
+I can definitely invest a lot of
+you know, like, capital in it
+myself, having access to it and
+just see it, you know, survive
+long enough to make money. It's
+something that I heard somebody
+called this post economic state
+of mind, right? A state of mind
+where you do not need to think
+of your mortgage, payments, or
+whatever. You think about years
+or decades, you don't think
+about next week or next month.
+And that makes a lot of
+difference. But you were talking
+about challenges of this state
+of mind of this time. What
+challenges did you encounter
+after selling?
+Josh Pigford: Well, I think the
+sort of challenges of not
+needing to make money means that
+you also aren't necessarily
+optimizing for it, or at least
+the speed of it. So I think it
+can also be, you know,
+constraints sort of breed
+creativity, right? And like, if
+you're trying to build something
+that makes money, well, then
+like, you need it to need to
+make money. And so there's less
+urgency with that. And again,
+like, there's trade offs on all
+that stuff and but I think for
+me, it's the con can be like,
+sort of, oh, we'll get around to
+the money making part. Instead
+of like, we have to get around
+to the money making part. So, I
+don't know, sometimes lighting a
+fire under you is a good thing
+and other times, I don't know,
+just depends. But I think for
+me, that's been the harder part
+I think is I don't feel the
+urgency most of the time. And
+sometimes that's good. Sometimes
+it's not. The inverse of that is
+also true. So
+Arvid Kahl: I relate to this
+super strongly, like, my life
+often feels like, oh, I could be
+doing more. Or I could turn this
+into and then some kind of
+monetization idea comes along,
+but then I'm then like, no, I
+don't have to and I would rather
+just be nice and kind to people
+and help them with stuff. And
+then you know, money will come
+as a consequence of helping
+people anyway. It's one of the
+core tenants of what I believe,
+which is why I'm building in
+public and sharing everything
+that I do anyway because I see
+that you know, helping other
+people help themselves best way
+to do it. And you do the same
+thing with what you're currently
+doing in a very cool way. Yeah,
+I think it's definitely a
+challenge to still keep doing
+stuff when you don't have to.
+Have you ever considered and
+this is kind of a metaphysical
+question, but have you ever
+considered what your enough is
+in terms of not necessarily
+money because money, you know,
+scales infinitely, but in terms
+of the contribution, like how
+much time you want to spend
+doing things for other people
+compared to doing things for
+yourself? You know, like, all
+this kind of oh, after I sell,
+I'm gonna sit at a beach and
+drink like margaritas all day
+kind of thinking. That's like,
+obviously, the one extreme. The
+other extreme is, I'm working
+full time, like, all the time
+doing new things. And I think
+most people like you and me,
+we're somewhere in between,
+like, where is that line? Like,
+have you ever consciously
+reflected on that?
+Josh Pigford: So for me, it ends
+up being my core is this sort of
+need to create something now,
+whether that's software, whether
+that's like music or like
+woodworking or anything. That's
+the pole. So at the end of the
+day, I'm sort of optimizing for
+that. That's sort of where I get
+a lot of fulfillment from. But
+that has a lot of different
+flavors. And, you know, it's
+like, currently, I'm doing a lot
+with software. I mean, I've been
+doing that for the better part
+of 20 plus years. And so it's an
+easy way for me to get, like
+some sort of fulfillment, from a
+creativity perspective. But I
+think that changes over time.
+And that's like, a lot of that's
+based on life stuff, right? So
+it's like my kids are older. I
+have one adult kid, couple of
+kids in high school, like the
+sort of time and sort of
+investment in that side of life
+is like, different now than it
+was 10 years ago when they were
+little. And like, I think life
+sort of, like always evolving
+regardless. And so for me, the
+constant is just like, every
+day, I want to create something
+and then that enables certain
+things, right? Something like a
+big exit, gives me more freedom
+to do things with kids and for
+us to have different experiences
+and that kind of thing. So I
+don't know, it's a weird melting
+pot of things. But the way my
+brain works is like, I have to
+make stuff in some form or
+fashion.
+Arvid Kahl: Yeah, that's so
+incredibly noticeable, like with
+you in particular, like, I don't
+remember a time where you didn't
+do something really interesting.
+And we think about detangle as a
+thing of just recently, but also
+Laser Tweets and all these other
+things like over the past, like
+Laser Tweets, you sold that too,
+right? Like these things go come
+into your life and they leave
+your life again, like you have a
+very high churn and the best
+kind of sense, in terms of
+projects that you're working on.
+Do you want to keep doing this
+forever? Like, that's also part
+of this enough question for me.
+Is this just the state of being
+that you always want to do?
+Josh Pigford: Maybe, I mean, so
+I have this list of like, every
+project that I've ever done on
+my website and it's I think I
+was the other day was updating,
+it's like 70 projects or
+something like that. And that's
+everything from just dumb. So I
+start tracking that stuff in
+2003. So that's 20 years of
+making stuff. So like, I don't
+know that it's just a sort of,
+it's not necessarily a fad for
+me, like I don't know that I'll
+stop. Because that's been at
+least half of my life, at least
+from a business perspective, I
+guess. Certainly, as a kid, I
+was making all sorts stuff too.
+So I don't I see it changing.
+But I feel like the hobby side
+of it may change a bit to the I
+said something other day where
+it was like, I want to use
+projects or I want to build
+stuff that like hundreds of
+millions of people use but also
+want to go like live in a cabin
+by myself and never talk to
+another human again. And I
+genuinely feel that where, you
+know, is there a scenario one
+day where, you know, my wife and
+I are often in the mountain
+somewhere and like, away from
+civilization, maybe. I
+personally would love that. My
+wife's not quite as like, anti
+human as I can be. But I, you
+know, I think it morphs over
+time, but as my interests change
+and I think to me, that sort of
+the constant is that it has to
+be something sort of new for me.
+I'll just get bored. And so
+there has to be some sort of
+fresh way to approach it.
+Otherwise, I'll lose interest.
+Arvid Kahl: Which makes this
+whole open source thing such a
+smart idea, I feel. Right?
+Right?
+Josh Pigford: And I think that's
+one of the motivations behind it
+was like, well, why not? No one
+else has really done this. So
+let's give it a try. That was
+the case with Baremetrics, where
+like, we made our dashboard
+public for everybody to see. It
+was early on before it was
+really making much money was and
+I talked to other founders, the
+advice was like, no, don't like
+put that out in public. Like,
+you're shooting yourself in the
+foot with like competition and
+stuff. And I was like, well, I
+don't know why not. Like, I like
+the experiment of it. And I sort
+of feel that way with this open
+source stuff is I like the
+experiment of what happens when
+you make a million dollars worth
+of FinTech software, open source
+for anybody to use and then try
+to build a business around it,
+you know.
+Arvid Kahl: Yeah, that's very
+cool. I love that both of these
+kinds of experiments are kind of
+transparency forward
+experiments. Instead of just
+making things like even more
+secretive and more secluded, you
+just opening up, right? And I
+love that with Baremetrics. You
+kickstart I think in many ways,
+the whole open dashboard thing
+that so many people still do to
+this day, right? There is a time
+in every business is life where
+it's beneficial to have it open.
+And then there is a time when it
+becomes problematic when there's
+too much attention. But still
+for that time, like building in
+public as well as a seasonal
+activity, that is a wonderful
+thing that gets a lot of
+goodwill, a lot of trust
+established in the community of
+people. And that is always good.
+And I really like that that's
+the outcome of this. So with
+Maybe being an open source
+project that you will monetize
+through, like additional
+services, what's the vision for
+this going forward? Like what
+will make you stick with
+something like this for decades
+to come when you're a person
+that always needs novelty?
+Josh Pigford: Yeah, I think that
+it's understanding that software
+hasn't ever finished. I mean,
+depends on what problem you're
+solving. But I think having a
+very lofty sort of goal, that
+where we want customers that
+will use the software for 60
+years, like, if that's the goal,
+there's a lot of work to do to
+sort of meet the needs of in the
+same way that you know, your own
+personal finances are always
+changing, growing whatever or
+not growing, which is its own
+problem to solve. And like, if
+we can build products that help
+people for a lifetime, there's a
+lot of interesting things to try
+to make that happen versus, you
+know, some other more hyper
+specific tool set or something
+like that. So I don't know,
+given the breadth of work to do
+that sort of a never ending sort
+of thing to solve.
+Arvid Kahl: Yeah, it's a field
+that will present you with not
+only throughout the seasons of
+anybody's life that are also
+changing, but even the economies
+of the future are going to
+introduce new things, right?
+Like the whole bitcoins and
+whatnot, like all the crypto
+stuff, that will be an
+interesting challenge to
+integrate. And that will change
+that will be flexible. Man, I'm
+so close to making a joke about
+lifetime payments and lifetime
+prices here. And I don't really
+know what the joke would be. But
+have you thought about
+monetizing with that kind of
+stuff? Because obviously, when
+you think about 60 years, like
+would you ever think about
+selling access to a product for
+that?
+Josh Pigford: I could see if
+Maybe was able to be a sort of
+downloadable product that didn't
+need external data, yes. So the
+problem here with finances
+depends on, a lot of times it
+just needs external stuff. Even
+if you're manually inputting
+data, there's still a lot of
+stuff around the value of
+certain things. So like stock
+market data, for instance, like
+if you've got investments will
+like we need the investment data
+to tell you what the current
+value is of your investments.
+And that is the reason, a lot of
+the reason at least to have a
+subscription fee is like each
+account has costs for us, right?
+And so, you know, as nice as it
+would be to sort of almost go
+this somewhat altruistic route
+of like, let you have a one time
+fee for it. The reality is that
+that's not super possible at the
+moment. Maybe it will be in the
+future. I don't know.
+Arvid Kahl: That's aptly named
+product, I guess, for that kind
+of, you know, unspecific future.
+But I think that's kind of where
+I'm getting with the whole one
+stuff where the base camp people
+like the idea of like selling a
+product once having people self
+hosted and running forever makes
+perfect sense if it's its own
+internal, kind of isolated
+database and you just have, you
+know, people chatting with each
+other and you keep it all on
+your server. But the moment
+there are API integrations that
+you only can provide, like if
+people can run it on their own
+service, that's also fine. But
+if there's stuff that you need,
+obviously subscription model
+makes sense. Yeah. And in many
+ways, your definition of
+lifetime is a very refreshing
+one. Because like most people
+would define lifetime as
+lifetime of the product, right?
+Lifetime of however long they
+want to run their servers. But
+for you, it really is the
+lifetime of the customer. So I'm
+very much looking forward to
+seeing you just go on this
+journey and build something
+really, really cool in front of
+everybody with the help of
+people who are interested in it.
+If people want to follow you on
+this journey, both you
+personally, the product, the
+company, where do you want them
+to go? Where do you want them to
+see the journey, whether you
+want them to contribute? Put it
+all out here.
+Josh Pigford: Yeah, the easiest
+place is Twitter. So just
+@Shpigford, that's where I talk
+too much. So you can go to
+maybe.co, there's some links to
+that stuff that'll change a lot
+over the coming weeks. But that
+sort of ends up being the
+launching pad to not be behind
+on stuff. Anywhere else, I'll
+send you and it'll change in the
+next week.
+Yeah, that's right. Maybe
+tomorrow, who knows? Change is
+the only constant, right?
+That's for sure.
+Arvid Kahl: Thank you so much
+for sharing all of this. I'm
+super excited for you in this
+project that gets really really
+cool not just to see that you're
+building something amazing that
+I might find very useful for
+myself, just to see the just the
+excitement and enthusiasm of
+people in the community that
+over the last like, what 20 days
+or something has just exploded.
+That is so so cool. So I'm
+really, really happy that you're
+sharing this, that you're doing
+it. And thank you so much for
+chatting about it on the show
+today. Thank you so much, Josh.
+Josh Pigford: For sure. It's
+been a ton of fun chatting.
+Thanks for having me.
+Arvid Kahl: And that's it for
+today. I will now briefly thank
+my sponsor acquire.com. Imagine
+this, you're a founder who's
+built a really solid SaaS
+product, you acquired all those
+customers, and everything is
+generating really consistent
+monthly recurring revenue.
+That's the dream of every SaaS
+founder, right? The problem is,
+you're not growing for whatever
+reason, maybe it's lack of skill
+or lack of focus or play in lack
+of interest, you don't know. You
+just feel stuck in your business
+with your business. What should
+you do? Well, the story that I
+would like to hear is that you
+buckled down, you reignited the
+fire and you started working on
+the business, not just in the
+business and all those things
+you did, like audience building
+and marketing and sales and
+outreach. They really helped you
+to go down this road, six months
+down the road, making all that
+money. You tripled your revenue
+and you have this hyper
+successful business. That is the
+dream. The reality,
+unfortunately, is not as simple
+as this. And the situation that
+you might find yourself in is
+looking different for every
+single founder who's facing this
+crossroad. This problem is
+common, but it looks different
+every time. But what doesn't
+look different every time is a
+story that here just ends up
+being one of inaction and
+stagnation. Because the business
+becomes less and less valuable
+over time and then eventually
+completely worthless if you
+don't do anything. So if you
+find yourself here, already at
+this point or you think your
+story is likely headed down a
+similar road, I would consider a
+third option. And that is
+selling your business on
+acquire.com. Because you
+capitalizing on the value of
+your time today is a pretty
+smart move. It's certainly
+better than not doing anything.
+And acquire.com is free to list.
+They've helped hundreds of
+founders already, just go check
+it out at try.acquire.com/arvid,
+it's me and see for yourself if
+this is the right option for
+you, your business at this time.
+You might just want to wait a
+bit and see if it works out half
+a year from now or a year from
+now. Just check it out. It's
+always good to be in the know.
+Thank you for listening to the
+Bootstrapped Founder today. I
+really appreciate that. You can
+find me on Twitter @arvidkahl.
+And you'll find my books and my
+Twitter course there too. If you
+want to support me and the show,
+please subscribe to my YouTube
+channel and get the podcast in
+your podcast player of choice,
+whatever that might be. Do let
+me know. It'd be interesting to
+see and leave a rating and a
+review by going to
+(http://ratethispodcast.com/founder).
+It really makes a big difference
+if you show up there because
+then this podcast shows up in
+other people's feeds. And
+that's, I think where we all
+would like it to be just helping
+other people learn and see and
+understand new things. Any of
+this will help the show. I
+really appreciate it. Thank you
+so much for listening. Have a
+wonderful day and bye bye.

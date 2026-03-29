@@ -1,0 +1,1342 @@
+﻿[Music]
+hey I'm Arvid and this is the boot step
+founder as a software entrepreneur I'm
+wearing so many hats from the coding
+marketing customer service all of these
+things and I have found AI systems to be
+gamechanging Tools in my daily work so
+today I want to share how I use these
+systems for my work particularly the
+large language models like ch and Claude
+to hopefully inspire you to benefit from
+these things yourself this isn't just
+about the tools themselves though but
+about how they have transformed my
+workflows and expanded my capabilities
+as a solo founder and I think you'll
+find that very interesting my approach
+to work today is quite significantly
+different from just two years ago or a
+year ago but let's go back two years let
+me paint you a picture of the before and
+after here so 2 years ago my work as a
+software developer and a SAS founder was
+pretty much AI free sure I use tools
+like grammarly for writing and maybe
+some transcription software here or
+there but most of my Daily Grind was
+just that a grind every line of code
+every marketing email every customer
+support response it all came directly
+from my own fingers and my brain
+hopefully brain first and fingers after
+but you know it was all internal so as a
+self-proclaimed 1X developer and let's
+be honest probably not the greatest at
+customer service or marketing either I
+was stretched fairly thin I was doing
+everything myself from Deep diving into
+database issues to writing product copy
+all of these things had to happen and I
+often felt like I was barely keeping my
+head above the water it was quite
+intense it was a lot of work and I
+always had to really prioritize what I
+would spend my time on because I had to
+dive into it 100% so fast forward to
+today day and the landscape of my work
+has changed dramatically AI permeates
+every single aspect of my business potan
+in particular but also the boots of
+founder everything I do is very much
+impacted by Ai and not only is the
+product itself heavily based on AI for
+data extraction and Analysis when I talk
+about pot scan here but I'm also using
+AI tools throughout my business
+operations at almost every level the key
+shift has been how I view these AI
+systems they're not just tools for me
+they are actually Partners that's how I
+look at every AI thing that I use is as
+a partner I don't delegate tasks to them
+like I would to an employee instead I
+think about it as a collaboration I
+collaborate with them and I use them as
+consultants or guides or I even think
+about them as co-founders sometimes like
+I'll explain why these tools are here to
+help me do the work better not just to
+do the work work for me so let me break
+down the main categories of AI tools
+that have become integral to my workflow
+here because there are three of them
+that are quite distinct and I think we
+should always look at distinct things
+distinctly so now here it goes the first
+one is large language models in in a
+chat context like platforms like chat
+GPT or Claud AI these are my go-to for
+brainstorming tasks or writing or
+problem solving and even some coding
+stuff and I'll get to that because
+coding is also the second Big Tool
+specialized coding assistance tools is
+what I would call them these things are
+integrated directly into my IDE for
+coding I use PHP storm for that and they
+have like jet brains has a jet brains AI
+thing that integrates several different
+LM systems directly into the um the IDE
+I've heard obviously there there are way
+more cursors out there and GitHub
+co-pilot and whatever they might be
+called they all exist they all are
+integrated into systems and they're
+always there ready to help me write
+better code faster and the third thing
+that we're not going to talk as much
+about today but they are also important
+because I already mentioned them are
+tasks specific AI tools right these
+categories um can include things like
+Advanced transcription tools where you
+throw in an audio file and outcomes text
+and that for my podcast processing that
+I personally do this is quite relevant
+but it's only a oneoff kind of situation
+not going to talk about this because
+those things I rarely use but I want to
+talk about the things that I always use
+so let's dive into how I actually use
+these tools in my day-to-day work the
+first use case clearly is brainstorming
+and ideation and that's one of the most
+impactful ways for me to use AI let me
+walk you through a typical scenario here
+say that I'm writing a blog post about a
+new feature in po scan something for
+marketing something to reach out to my
+my current customers and my prospective
+customers for so instead of staring at a
+blank page here's what I do I open up a
+conversation with Claude or chpt it used
+to be more chat upt in the past now at
+this very point it's claw AI because it
+just feels like a better tool for
+conversationalism but every model
+changes that so I go back and forth and
+check it out but right now let's say
+claw and I give it a clear instruction I
+give it a prompt like give me an outline
+for a blog post about and then I talk
+about a specific po scan feature and
+then I tell it to focus on points that
+would resonate with podcast creators
+looking for this kind of solution and
+some times I even tell it the the AI
+system what it is you are an experienced
+writer in a technical field writing
+articles for people who love podcasts
+and then I give it the rest of the
+prompt right sometimes it's important
+also to tell it what it is but that's
+the prompt just say give me an outline
+focus on key points and then the AI will
+provide a bullet point outline and that
+gives me a baseline skeleton of what
+most people want to actually know when
+they read something about this
+particular top topic and from there I
+started filling in my own thoughts and
+priorities I started writing a draft
+because the AI doesn't know the
+intricacies of pocan or my unique
+insights as a founder and a podcaster so
+this is where I at the Special Sauce so
+to say and then I write my little draft
+around this outline and then I put it
+back in because it doesn't stop there
+the this initial idea is not everything
+this this a back and forth process for
+me so after I've written the draft I
+might go back to the AI and then ask it
+specific question about the draft that I
+have written things like what might I be
+missing in this article is there
+anything I skipped or is there a part of
+this post that doesn't quite fit all of
+these are on liners that I just throw in
+and then look at the response from the
+AI and because the context Windows of
+these tools are so huge you can do
+hundreds of these questions and it will
+always remember the actual text I more
+questions I I'm just thinking of a
+couple more sometimes I ask can you spot
+any arguments that could be easily
+defeated I kind of tell the I to
+antagonize me a little bit right what is
+wrong with this article how can I make
+this blog post stronger and more
+convincing I asked that quite a bit
+because you know I want it to be
+something that people think oh yeah this
+is true or this helps me overcome my own
+inhibitions here or my own
+misperceptions and one of the questions
+that I found particularly useful is if
+you were a skeptical reader like
+something in in the AI allows it to take
+a completely wrong or a completely
+opposite perspective
+so if you were a skeptical reader what
+counterarguments would you have to this
+article which I can then defeat by even
+sometimes having the AI tell me what I
+should say to that point or what I
+should at least address so this
+collaborative back and forth process
+helps me write more robust and
+well-rounded content I still write it
+it's just like there's a partner that
+helps me making it better it's like
+having a writing Budd who's always
+available never gets tired and has
+access to a vast amount of general
+knowledge that I might not always have
+the key here is that I'm not using the
+AI to write the post for me I'm not
+prompting it and then taking the text at
+vers verbatim and posting it somewhere I
+would never do this I'm using AI as a
+sounding board a brainstorming partner
+and The Devil's Advocate as somebody who
+can kind of fight with me on the thing
+that I'm writing and the final product
+is still distinctly mine but it's been
+refined and improved through this AI
+assisted and AI guided process cuz let's
+be honest the AI pulls me into certain
+directions that I might not have
+personally found but I see this as a
+benefit because it makes the the
+Articles the posts
+[Music]
+better let's talk about how AI has
+revolutionized my coding process because
+if there is any impact that AI has been
+having over the last couple months and
+weeks particularly with my work on pot
+scan it's that part this is where things
+get really interesting particularly if
+you're also a developer and even if
+you're not this is just really cool this
+is how technology works today let's
+let's look at the old way in the past
+when I needed to implement a new feature
+my process looked something like this I
+thought about the feature and how to
+implement it and then I just started
+writing code I would scaffold like the
+methods and the classes and whatever I
+would frequently pause to look up
+documentation for all the tools that I
+would need I remember from my JavaScript
+days uh I would always have a
+documentation window to low Dash or
+underscore or whatever kind of Library I
+would use for these very useful
+functions over arrays and objects you
+know things that you always use like
+mapping reducing iterating you know
+wrapping like zipping like all things
+that you need to use all the time that
+are not part of the core language
+framework there are libraries for that
+but I always needed to look at the
+documentation because I just did not
+remember the function signatures it was
+just not not in my brain to just keep
+these things in line always set
+documentation up then I would start
+writing I would run into issues I would
+debug rinse and repeat and then the end
+I would get a working version maybe a
+couple hours maybe a couple days into it
+then I would refactor and optimize it so
+I would fit into the system that I would
+be building it for and this would often
+take hours if not days like that for
+even the simplest features just because
+the process was unyielding it was kind
+of hard to get everything right in the
+first try and that never worked so it
+was always very iterative and I would
+write every single line of code myself
+now today my process looks radically
+different and it looks different to a
+point where I'm starting to kind of
+forget how I used to do it in the past
+which is not a good thing and I need to
+kind of struggle with this a bit more
+because it's so easy to use AI systems
+for this but again real example here I
+needed a function to calculate the
+average word count of the last 10 or so
+podcast episodes that I have transcribed
+on pod scan just really need to it's
+it's kind of a monitoring thing and
+observation thing where I want to see
+okay does my transcription stuff still
+work so I always check the last 10
+episodes that came into the system and
+get the average count and if that count
+is very low then something is broken
+that's the general idea so here's what I
+do or what I did for this I guess I
+opened a new PHP file in PHP storm or no
+I think I opened the module that there
+was this was supposed to be in I created
+a new function with a descriptive name
+like calculate average work count and
+then inside that function I wrote a
+comment that described what I wanted the
+function to do something like load the
+latest 10 podcast episodes and summarize
+the number of words in each of its
+transcripts and return that number just
+that's what the function is supposed to
+do and then I hit enter after this
+comment and within a second my coding
+assistant which is obviously AI powered
+generated a solution like under a second
+and the AI generated code there looked
+something like I would pull the latest
+episodes it would start a counter and it
+would would go through each episode
+count the words and add that to the
+counter and then divide it by the number
+of episodes that's I'm not going to redo
+the code here obviously because this is
+a podcast and that would be strange but
+it did exactly what I told it to with
+the exact right module names with an
+algorithm that makes perfect sense to me
+and that I could quickly check and
+verify and test and it worked and here's
+the kicker in about 80% of the cases
+this generated code just from a comment
+is exactly what I need or very close to
+it it usually understands the context of
+my application because like with this
+example it knows what an episode is
+because it lives in the codebase where
+episodes are defined and it knows how to
+query it because it also understands the
+framework which in my case is laral and
+the eloquent framework which allows me
+to send queries to my database and then
+it implemented a straightforward
+solution to the problem but that here
+the thing about AI coding my job isn't
+done at this point I still need to
+review this code and I need to test it
+potentially refine it maybe I want to
+add error handling or perhaps I need to
+account for episode without transcripts
+the AI has given me a huge Head Start
+here but I'm still the one steering the
+ship that's very important but this
+approach has still dramatically changed
+how I think about coding because instead
+of focusing on writing the code as
+quickly as possible to get to a point
+where it kind of works I can now focus
+on writing the most precise and clear
+comment or call it a prompt ahead of
+time as best I can the better my prompt
+the better the ai's initial output and
+the less work that I have to do to
+refine it it's kind of teaching me to be
+clearer in my own
+specifications both to the machine in
+the comment but also to myself in how I
+think about the thing that I'm building
+this particular function the particular
+module the whole product and I think
+this is a valuable skill in itself
+prompting teaches me how to think about
+things in ways that I can communicate
+and the Time Savings are enormous too
+obviously because what might have taken
+me an hour to just figure out often
+takes just a few minutes because the
+figuring out part is largely done right
+I knew obviously I would pull the data
+from the database I would iterate over
+it and then I would kind of condense it
+into an average this is how this works
+obviously this is a very simple example
+but maybe in between fetching the data
+and summarizing it I would have
+forgotten the function signature for for
+each or I would have not known what the
+exact uh name of the attribute is that
+I'm trying to summarize any of these
+things particularly as it gets more
+complicated is always a cognitive effort
+and the Machine has looked through all
+the other things of all the other pieces
+of code in my system and pulled in the
+relevant
+information let's dive maybe into a more
+complex example here that really
+showcases the power of AI um in my own
+software development at least I have a
+little story
+recently um over the last week actually
+I completely reworked what is probably
+the most high throughput hot coat path
+Central system of pot scan like the
+Beating Heart of the system which you
+can probably imagine was quite scary to
+build but you know it it is it is very
+important it's the internal podcast
+queuing system right um pocan is a
+system that pulls in a lot of podcasts
+from RSS feeds 2.5 million of them every
+single day I check these feeds and if
+there's a new item I pull it in and I
+transcribe it right and obviously 2.5
+million podcasts in the world that means
+somewhere between 20 and 40,000 new
+episodes a day all of these things
+trickle in whenever they do and then
+they can be worked at whenever I have
+access to them and I have a fleet of
+servers in the background that do
+nothing but transcribing and they need
+to get this information from somewhere
+so I have an internal queuing system the
+problem was that the existing queuing
+system that I had was a resource trrain
+it was sitting on top of the database so
+that would cause a lot of database cat
+to figure out what is the next item to
+process what is the next episode that
+should now be transcribed right is it a
+high priority episode that I should pull
+in right now or do I have some time can
+I pull in an older one because there's
+no new episodes just yet it was a lot of
+stuff I had to constantly count the
+items in the database to make sure that
+I would fetch the high priority ones
+over the low priority ones and I needed
+to juggle this with the the actual size
+of the model that I would use to to
+transcribe it just a lot of data back
+and forth from the database resource
+drain because in the database right now
+there's over 13 million episodes which
+all may or may not have a transcript
+already so you know that any query that
+tries to figure stuff out over 30
+million items particularly when it comes
+to text items in that particular
+database row will take a while that was
+a problem so and I I wanted a solution
+that
+uses um not the database because that
+would be a round trip over the over the
+net but I wanted to use the redus that
+is already running on my production
+server I wanted to use like a caching
+system that was already there already
+being used for caching super
+fast and I wanted to use that as a queue
+and instead of starting to read up on
+reddis the queuing systems or whatever I
+dived not into coding but into a
+conversation an architectural
+conversation with Claude AI so here's
+roughly how that ation went I might
+actually want to share that at some
+point um because it's just it's just
+interesting to see this Dynamic I
+started with I want to build a queuing
+system for my podcast transcription
+based on redis using the reddis commands
+that are highly performant from inside
+PHP here are the requirements and then I
+listed like a list of six or seven
+requirements the first one was it needs
+to have at least four different kinds of
+priority like high medium low and other
+it needs to grab new items from the
+highest priority first then from medium
+then from lowest then from other right
+if there's none and any left it goes one
+down I need to be able to add new items
+on the fly to any of these lists and the
+collections in which these cues exist
+need to be sorted by date by the date
+where the podcast is posted at or post
+it on so I can always pick the newest
+episode first for each of these cues and
+then I told it I need metrics Q size
+processing time per item estimated time
+to process the whole queue and this
+needs to be a standalone service in a
+larell app I think that was there was
+all of it and then I told it can you
+help me design the system and then it
+took a second and it started it started
+generating code and because I gave it
+such a holistic perspective on what the
+service was supposed to do it created an
+initial version that when I read through
+it made perfect sense to me and I could
+directly copy and paste it into my
+application I could literally press the
+copy button paste us into a new PHP file
+called that file from where
+the requests for the queue come in and
+get the get next function to return me
+an item that I could then send over to
+my servers it was incredible it had
+taken care of all the priorities it had
+even made the system adaptable enough
+for me to add more priorities or remove
+priorities over time it had started a a
+metrics analytics function that I could
+explore and maybe do more with and it
+worked from day one I from second one I
+guess I quickly put it into my my
+servers Uh current system I implemented
+it very quickly and I tested it for a
+couple minutes and it worked the load on
+the database immediately vanished
+because all of this was now in cash but
+obviously just a starting point right I
+said earlier coding is a process of code
+review and constant iteration so we
+continued the conversation and by we I
+mean myself and whatever Claw is that
+magical being on that platform there and
+as we continue that chat I realized I
+needed a couple more things right
+because now my database wasn't quite at
+all anymore but there was still some
+kind of list of items in there that my
+queue was previously in the database so
+it was just ignored right now so I
+needed a way to preload existing items
+from the database into my new caching
+queue and I needed a method to estimate
+processing time based on historical data
+because I wanted to know is the queue
+going faster or slower because that kind
+of decid on what level of transcription
+system I use for certain items right if
+the queue is going fast and I can maybe
+use slower transcription and if the Q is
+going really slowly I need to use faster
+transcription for it to catch up and
+Claude quickly added those features it
+got a preload from database function
+that automatically would load all the
+items that were in the database that
+were potential candidates for the queue
+and it would add my estimate processing
+time and all of that it was really nice
+the result of all of this was that
+within minutes I had built a high
+performance system that is capable of
+handling millions of podcast episodes it
+is mindblowing to me that this critical
+part of my application that is now
+couple days after I did this running
+successfully in production was written
+entirely by an AI system with me
+primarily doing code review and
+providing guidance
+and what's even more impressive at this
+point is the scalability of all this
+Claude helped me to do some quick
+calculations because you can just keep
+talking to it right it creates code for
+you sure but it's still like a person
+you can talk to who just created code
+and I I asked it well how much resource
+drain would that be at scale and we
+found that even if I were to cue every
+single podcast episode that ever existed
+we're talking about 170 plus million
+episodes
+the system could handle it without
+breaking a sweat the memory footprint
+that was calculated was based on the
+number of items 170 million and the size
+of the data right like there's an
+integer for the ID there might be a a
+string that is like five or six long for
+the priority and then some other thing
+and it added them all up multiplied them
+by 170 million and told me this is the
+amount of ram that it would use the
+memory footprint that this would have at
+Max at all the podcast episodes out
+there would still be manageable on my
+existing application server and it would
+use less than 40% of the available RAM
+on that machine like 30 GB at Max which
+is a lot of ram but for a server that
+can handle that and that's that's the
+biggest the queue will ever be because
+over time it will obviously shrink right
+because I will transcribe these things
+into the database and this is a massive
+improvement over the previous system
+that I have because that one would slow
+down to a crawl with just 20,000 items
+now I can finally import every single
+podcast episode out there that I can
+find in the feed that I read every day
+we're talking of millions of episodes
+that I could ingest every day it's
+really cool the impact on Pan's
+capabilities here as you can probably
+tell both from my excitement and the
+fact that these numbers just jump from
+20K to70 million that impact is enormous
+and it all started with a conversation
+with an AI that's the crazy part I could
+just open up a chat window a clot. is
+where I go and then a new window pops up
+I start talking and code happens that is
+mindblowing like this did not exist like
+the last decade and even if there may
+have been a tool kind of like it it did
+not cause these
+results let's switch gears a little bit
+and talk about AI not just as a code
+generator but how it has become my go-to
+assistant for troubleshooting my server
+issues because solo founder right I wear
+all these hats and sometimes those hats
+don't quite fit right particularly when
+it comes to a system administration it's
+something that I've always kind of
+understood somewhat like how to
+administer a server how to install
+software how to keep it running but I
+want to code I want to build things and
+I want to maintain them it's not the
+necessarily the thing I'm best at and
+recently I ran into an issue where I
+just could not connect to one of my
+backend servers the others were fine but
+that one did not work like the SSH
+connects to to that servers sometimes
+worked sometimes didn't and that was
+preventing me from deploying updates on
+that server and as you can imagine
+that's a pretty big problem if you want
+to deploy new data on new code on your
+configuration so here's how I tackled it
+with the help of AI I took the error
+message that I found in my deployment
+system right I'm using larl envoyer that
+just you know takes get up repository
+pushes it onto the server and takes a
+couple steps to deploy and came up with
+a message I copied that message and I
+also tried to manually SSH into the
+server and I copied that error message
+and I opened up a conversation with
+Claude again and I said something like
+this I have a Ubuntu server that I'm
+having trouble connecting to here's the
+error message I'm seeing and I posted
+the error message here's what happens
+when I manually connect to it post that
+message what could be causing this how
+can I diagnose the problem further and
+what are potential Solutions then you
+know takes a second to respond and then
+Claude analyzed the error message and
+suggested a series of steps to diagnose
+the problem it explained each step along
+the way and why it might be relevant
+which is also very cool so I read
+through that and then following its
+advice I checked several lock files
+under servers once I managed to get in
+using you know another s uh attempt took
+me a while but it worked and then I
+checked those locks files I copied
+relevant lines from these locks and I
+pasted them back into claw for further
+analysis so through this back and forth
+Wii and yes this felt like a Wii it was
+very collaborative like there was a
+systems administrator sitting on the
+other side of it we identified the issue
+that it was related to a configuration
+in the SS HD e config file also related
+to the fact that there was kind of an
+avalanche of bots trying to connect to
+SSH so some kind of limit was raised
+which then made the SSH server drop
+certain Connections in random intervals
+and CLA suggested a specific change to
+make before I made the change obviously
+I asked CLA to explain the implications
+and to kind of second guess itself and I
+googled for what this is and what there
+might be what issues might be around
+that stack Overflow is still very
+helpful with that so once I was
+satisfied with that the explanation I
+made the change and voila I could
+connect again but clot did not sto there
+again it went a bit further it suggested
+how I could kind of prevent this in the
+future I should look into activating or
+reactivating fail to ban which is a tool
+that helps protect against these kind of
+attacks and then it walked me through
+the process of setting that up as well
+and making sure that the configuration
+works and again mind-blowing I didn't
+know what fail to B was in the beginning
+I didn't really know what the sshd
+config file looked like but Claud just
+gave me the right commands to inspect it
+and explained it in a way that I felt
+safe to actually execute the commands I
+still checked I always do whenever I run
+a command on a server particularly if it
+is done as a super user I check what is
+this and what does this configuration do
+sometimes I Google the full command
+before I run it just to see if Google
+finds anything wrong with it but I was
+being exposed to the solution of a
+problem immediately it's like somebody
+had seen this problem before and that
+somebody was clawed and then it kind of
+adjusted its description to what I would
+understand was extremely helpful and a
+couple weeks ago I had a different issue
+I was having trouble connecting to my
+reddest instance on my main server which
+is problematic um just for a minute or
+two at 2: in the morning my server had
+an error message that it didn't connect
+so I shared that error message with
+Claude and asked for potential causes
+and CL gave me three or four potential
+causes and the commands to check checked
+the first two didn't find anything
+checked the third one and all of a
+sudden it was like okay there seems to
+be a problem with a recent system update
+and then it advised me to check specific
+log files which I didn't even know
+existed I looked into these logs and
+sure enough there had been an automatic
+software update right before the problem
+started it had restarted the reddis
+system and for those 20 seconds or so no
+connections would go through because the
+system was going down and going back up
+and loading everything into RAM so
+Claude helped me interpret those lock
+entries suggested uh roll back of the of
+the update or how I could prevent this
+in the future and then it guided me
+through the process of adjusting my
+automatic update settings to prevent
+similar shes in the future and what
+amazes me is it's not just that CL could
+help me solve the problem that's already
+pretty amazing but how it walked me
+through the process and it explained
+each step it was like having a very
+patient knowledgeable white bearded
+systems administrator available 247
+willing to explain things in detail and
+never getting frustrated with my lack of
+expertise they actually I think Claude
+enjoys my lack of expertise because then
+then it can explain even
+more one of the challenges of being a
+solo founder is obviously then keeping
+track of all the solutions that you find
+to issues like this right you have to
+keep track of all the processes and
+procedures that you just develop over
+time so after resolving issues like the
+ones I just described I've made it a
+habit to create documentation or an sop
+a standard operating procedure for
+future reference and guess what AI helps
+me with this too process for this I
+draft the document I lay out the steps
+that I took to resolve the issue I
+actually shared this on Twitter the
+other day just to document as I had it
+and then I asked claw to review it I
+might say something like I've written an
+sop for handling SSH connection issues
+can you review it and let me know what I
+may be missing with a future employee or
+future me might misunderstand is there
+anything wrong or any sensitive
+information here that I should not
+include and how can I make this more
+clear or comprehensive and then CLA
+provides feedback and it often catches
+things that I've missed or suggests
+clear ways to explain certain steps
+maybe pull them apart maybe put little
+explainers in there for things that I
+assume but they should not be assumed I
+revise the document based on this
+feedback and then I might ask claw to
+generate a quick summary or a checklist
+based on the SOP which I can then use
+for quick reference and this process
+again helps me create more robust clear
+and comprehensive documentation it's a
+third kind of writing right the first
+writing that I had was for blogs the
+second writing was kind of code for the
+system and now there's one for people to
+execute documentation and it's always
+like having a fresh set of eyes look
+over my work something that never tires
+of finding errors and catching potential
+issues before they become problems down
+the line that's the 24/7 here again
+a lot of my day involves communicating
+with customers and that might be
+responding to support tickets or writing
+marketing emails crafting product
+updates building public tweets anything
+clear and effective communication is
+very important to me because I need it I
+need to be able to communicate very
+clearly very suly what I want to say and
+AI has become indispensable here as well
+as a communication coach of sorts right
+when I receive a customer inquiry or
+support ticket my process typically
+looks like this I draft an initial
+response and all of these are kind of
+the same right I draft the initial thing
+I B just based on my understanding of
+the issue and the solution that I have
+in mind I take this draft and I paste it
+into a conversation with Claude or chat
+upt and I ask like hey I've drafted this
+response to a customer who's having
+trouble with this issue can you review
+it and suggest improvements tone Clarity
+completeness is there anything I might
+be missing or any follow-up questions
+that I should ask then the AI provides
+suggestions for improvement might point
+out an area where I could be clear or
+maybe suggest a more empathetic tone
+which is really helpful when you're
+particularly frustrated with a
+particular customer or it reminds me of
+additional information that I should
+probably include I revised my response
+send it and I make sure to maintain my
+own voice and style throughout the
+conversation and as I use tools like
+crisp chat that has a magic reply
+feature it's also powered by Ai and I
+look at these things immediately new
+customer message comes in I look at the
+AI suggested responses and that g gives
+me a quick starting point because these
+things are always based on frequency
+like here is what has helped people in
+the past so I can look okay this should
+probably be the the the area in which I
+respond to this person I never use these
+things for btim again never ever verb
+them but I use them as a base and I
+modify them to match the specifics about
+this conversation about pot scan and if
+I'm unsure about the modified response I
+might even put it back into claw for a
+final check and again more quick and
+consistent than just randomly typing out
+stuff and wondering if it's okay or not
+putting it into an AI system and getting
+a quick response back always really
+really useful and ensures that each
+response is personalized and genuinely
+helpful marketing emails is another
+thing I think I'm almost done I think
+this is the last thing that I do with AI
+I mean obviously everything is AI but
+for marketing emails in particular again
+I outline key points maybe I even
+brainstorm it with the AI that I asked
+thei to generate a first draft based on
+the tone and once I have that I very
+heavily edit it just to infuse it with
+my voice and add details about pod scan
+that the I would never know and then I
+asked the I to review the edited version
+and look for ways to make it more
+engaging and persuasive obviously
+particularly with marketing emails AI
+systems come up with really boring Bland
+marketing you know catchy headline kind
+of stuff to
+if you don't tell it to have your own
+tone so one thing that I found is if you
+like the copy of Any Given author any
+given person or even yourself if the AI
+knows how you write you can tell it to
+sound like that person right do I want
+to sound like I don't know Justin
+Jackson writing his emails do I want to
+sound like a marketer I know like all of
+these things I can tell the AI to use
+and then it uses that to enhance my own
+abilities and it's not a replacement for
+my own judgment and my personal touch
+but it's having like it's like having a
+really smart friend who's always
+available to brainstorm and provide
+feedback but doesn't know the
+intricacies of my business or my
+relationships with my customers that I
+need to bring to the table myself and
+you might be wondering AR this sounds
+like a lot of back and forth with AI is
+it really worth it is it worth the time
+so let me break down why I find it so
+valuable first of it's cost
+effectiveness at 20 to 30 bucks a month
+for most AI Services it's incredibly
+cheap compared to hiring Human
+Assistance I'm a bootar Founder this is
+a game changer I get to pay 20 bucks and
+I have experts in every single field
+available to me and then don't need to
+pay much more than that and unlike human
+employees or contractors these tools are
+there 24/7 whenever I'm working like
+late or early I can always have a
+capable assistant at my fingertips and I
+don't need to know what time Zone they
+are in because they're in every time
+zone and these tools help me become
+better at everything I do that they help
+me with they make me a better marketer a
+more efficient coder a more responsive
+customer service rep for a solo founder
+with all my hats this versatility is
+invaluable and while it might seem like
+I'm spending a lot of time interacting
+with AI it's saving me time in the long
+run AI handles about 80% of the initial
+work and that leaves me to more time for
+strategic things thinking and refinement
+refinement is what I'm getting better at
+the initial work is outsourced to the AI
+systems and there's so much I don't know
+in all these areas outside my core
+expertise right AI provides immediate
+answers to questions that I might not
+know sometimes I don't even know how to
+ask the question and it guides me to the
+answer like server configurations lock
+file locations who am I to know these
+things but the AI points me at it it's
+like having a team of experts on call
+using AI helps me maintain a consistent
+level of quality across all aspects of
+my work even in areas where I'm less
+skilled because it fills those knowledge
+gaps and interacting with AI almost
+always teaches me new things like it
+taught me about reddis it taught me
+about how you put to update software it
+teaches me how to architect a queuing
+system it teaches me redis commands that
+I've never seen before like whether it's
+coding technique I hadn't considered or
+marketing strategy I was not aware of
+I'm constantly learning that alone is
+worth $20 and don't even need to use it
+professionally just ask it questions so
+AI has become an integral part of my
+workflow but it's not without challenges
+so limitations exist and I've
+encountered a lot of them so here's how
+I deal with them the biggest one I think
+is accuracy and reliability because
+while it's rare AI can provide incorrect
+information or suggest problematic
+Solutions right and this is particularly
+critical for tasks like server
+management security related issues or
+just talking to people you can really
+run into issues there so to mitigate
+this I always verify critical
+information especially for Tech stuff
+and I treat AI suggestions as the
+starting point not gospel it's never the
+end it's never the final result it's
+always the first initial step and I
+never fully delegate tasks to AI as well
+I remain involved in the process always
+I review and I verify outputs it's
+always a step right verification is
+never omitted and this means I still
+need to understand the underlying
+principles of what I'm doing might be
+coding Marketing System Administration I
+still need to get what I'm doing I can
+never give it away completely and that
+because there's a risk there's a risk of
+becoming too dependent on AI tools I'm
+very cautious about this I need to
+ensure that I still understand how the
+work is done so that I can do it
+manually if needed like we've seen these
+outages CLA has been down chat GPT has
+been down it's important to use AI as a
+tool to enhance your abilities but not
+as a crutch and not as a complete
+replacement it's still somebody else's
+platform platform risk really still
+exists here so I'm very careful not to
+over rely on it also probably because AI
+tools are just evolving so quickly
+because what was cutting at a few months
+ago is probably outdated already there
+are people that get into AI now that
+have never heard of GPT 3.5 or anything
+like this the systems before it that
+that only know what mid journey is but
+don't really know what stable diffusion
+is like all of these things are so
+quickly evolving I need to stay aware of
+new capabilities and new limitations and
+that requires ongoing learning and
+adaptation which I try to spend time on
+but I cannot guarantee so it's a it's a
+risky field to over rely even on this
+Tech because they might just roll it
+back one day and you always have to keep
+up with changes even while it's
+incredibly knowledgeable AI does not
+know the specifics of my business or my
+customers so that context I always need
+to bring myself and verify that the AI
+suggestions make sense for my specific
+situation and as it becomes more
+integrated into my work I kind of have
+to be mindful of ethical considerations
+as well particularly around data privacy
+and disclosure so getting customer
+information and copying pasting it back
+into CLA I try to avoid it and I try to
+anonymize things as much as I can I'm
+always transparent with my customers
+about how and where AI is used in my
+process I think I have it in my um
+terms and conditions as well that I have
+used these tools but that's just just
+the reality of today right you have to
+make sure that you don't feed data into
+systems you don't want the data to be in
+and through my journey of integrating AI
+into my personal workflow I developed a
+couple best practices that I might want
+to share with you because those things
+help me get the most out of these tools
+and they probably will help you even
+just conceptually to to get the first
+one prompting understand prompting
+that's the most important thing the
+quality of AI output is extremely
+dependent on the quality of your prompt
+input for Creative tasks I've learned to
+ask for variety in results when I have a
+prompt about like find a headline for a
+blog post or come up with a couple ideas
+for something I always tell it to be
+extremely diverse in the length of the
+sentence in the topics of the theme that
+the way you talk about it to perspective
+you take be diverse have a variety that
+always put those words in and for
+specific test asks I am to be as
+detailed as possible in my prompt to be
+almost exclusionary to tell it need to
+you need to do exactly this and nothing
+else learning how to prompt is a skill
+that improves with practice but you need
+to experiment with it to see what
+different results come out of it and I
+treat AI like a coworker I found it
+helpful to approach AI interactions as I
+would conversations with a very
+knowledgeable colleague I learned how to
+communicate effectively with the system
+like Claude or chpt and I refine my
+Approach based on the results that I get
+just like I would with a human being
+that I have a conversation with number
+three of my best practices is to never
+use results for btim except sometimes
+with code if it's small so whether it's
+a written response or a suggested
+solution I always review test and verify
+AI outputs always and even with code and
+I might use AI generated code directly
+more often but I always review and test
+it
+thoroughly and I have a general workflow
+for this I reflect before I prompt then
+I prompt then I verify the results think
+about what you say say it right and then
+check if what comes back is actually
+what you asked and this helps me using
+AI effectively and not just throwing
+questions at it Hab Hazard L which is
+easy if you can do it all day long and I
+iterate I use AI in multiple rounds for
+single task always back and forth
+initial draft review modify feedback and
+then modify again and I found the best
+results come from combining AI
+capabilities just with my own expertise
+and standing behind what I say
+understanding my business and telling
+stories that I know is better than
+having AI come up with some general
+stuff and I experiment I experiment with
+new ways to use AI all the time
+sometimes that works sometimes it
+doesn't but often it leads to new and
+more efficient processes as
+well so where is this going because as I
+use these AI tools day in and day out
+can't help but get excited about the
+future here so what what I think is
+going to happen is that we're going to
+see very much specialized models I'm
+excited about the potential for more
+specialized models trained on specific
+code bases that's what I'm hopeful for
+the most I imagine an AI that
+understands not just the code in the
+file you're writing but the full project
+like the full code base of the project
+that you're working on and the history
+of your project including all these
+little experiments that didn't work out
+all these little refactorings that you
+did I think that would be incredibly
+powerful for maintaining and evolving
+complex system systems to have models
+that are trained on currently and always
+keeping up with the codebase that you're
+working on that would be an extremely
+interesting Avenue to go down because I
+believe that those models could then
+work for you they could start writing
+code for you behind the scenes
+optimizing code for you behind the
+scenes and test it behind the scenes
+because they know the whole code base
+and all the context in which it
+exists I also would love to see AI
+systems that can analyze code and pull
+in customer conversations and social
+media mentions to start suggesting the
+next steps for your product development
+could be great for people like me to
+make more informed decisions about where
+to focus my limited resources Aid driven
+product planning shouldn't be too hard
+like connecting these couple systems and
+have an AI go over what needs to be done
+what is intended to be done what your
+road map already has and what people
+cannot stop talking about feel like that
+would be a sass in the making that I
+have no time to build so you might when
+I have to build it hey and and just
+generally I think we'll see the job of
+AI operations like devops there will be
+AI Ops a new role something like an AI
+op specialist that orchestrates AI
+systems within an organization that make
+making sure that everybody has the full
+context and things are properly
+integrated like all the all the the the
+task system all the the road map systems
+all the communication systems custom
+emails all of this could flow into a
+central database that AI systems can
+then then take information from this
+could be a crucial role in maximizing
+the benefits of AI in an organization
+it's just to have someone who's at this
+very moment probably more jury riging
+than anything else but just pulling
+things together so that AI systems can
+benefit from data in all these
+systems and software education will have
+ai as a primary component I guess like
+if you start learning how to code today
+you need to learn how to code with AI it
+makes no sense
+to not learn AI coding because it will
+be and already is an integral part of
+software development in the future
+GitHub co-pilot everybody's going to use
+stuff like this we might even see
+programming languages shipping with
+built-in large language models I'm
+looking forward to seeing the first
+programming language that deploys an llm
+that can help you write code in that
+language it's like an extension of the
+documentation of a language is having a
+a large language model that can already
+write codee in this particular version
+of that language like imagine um PHP
+php99 or coming out with an llm attached
+for
+9.0 that can automatically help you
+write code in 9.0 help you migrate code
+from 8 or s or six to 9 and help have a
+conversation with you about how to build
+it right I could see laral do this I
+could see laravel deploying an llm that
+helps you write laravel code there are
+tools that integrate into IDE systems
+for larel in particular that already
+exist so they pull in AI data Maybe in
+the background but maybe the AI itself
+is something that the language could
+come with I would find that very
+interesting and we already see chat
+interfaces and integrated tools I think
+integrated AI assistants will become
+even more comprehensive and they will
+understand your entire deployment and
+development ecosystem much better than
+they do today code review also going to
+be AI assist like obviously uh catching
+bugs suggesting optimizations I think
+Sentry is already doing this like if
+they see an error they try to find where
+the error happens which usually they can
+do because of their tracing capabilities
+and then they have an AI system that
+analyzes the code around this error and
+suggests a new code review for you to
+look at like a new uh pool request I
+guess so that you can review the pull
+request to see if that fixes the actual
+underlying issue automatically it's
+really cool and I guess prompting being
+the thing that it is as AI gets better
+at understanding code and generating
+code we might move towards a future
+where programming is done through
+natural language instructions more
+prompt than anything else what right now
+is a comment that then expands it to
+code might just be something that is
+defined as code but it is spoken word
+don't really know how that's going to go
+but I I see these things kind of
+converging into a place where we type
+way less and we speak way more or we
+think way more speaking is just a way of
+thinking externally I guess so let's get
+back to the actual solopreneur part of
+all this for solo Founders Founders
+entrepreneurs in general I think I
+cannot recommend integrating AI tools
+into your workflow strongly enough like
+this is probably one of the most
+impactful things you can do they will
+significantly impact and shape your
+productivity and capabilities and they
+will allow you to punch above your
+weight in a competitive business
+landscape like you will be much
+better with AI than all the people
+without it much more efficient just more
+polished and that makes a big difference
+when people look at your work and look
+for opportunities to use AI in any task
+involveed writing or problem solving
+whenever you think an AI can help you
+think better whenever you write it will
+take your output and make it better when
+you code that code can be improved
+doesn't matter there's likely a way a I
+can help you do it better and I think
+using AI assistance is a new form of
+early hiring it's like getting
+Consultants that cost you 20 bucks a
+month in aggregate for every business
+aspect that you run into problems with
+it's crazy it's incredibly empowering
+and I'm excited to see how these new
+tools and the system the business has
+built around them continue to evolve and
+support Founders like us remember the
+goal is not to replace your own skills
+and your judgment but to enhance them so
+use AI as a collabortive Ator a
+brainstorming partner a knowledge
+Extender with this approach you can
+achieve things that might have been
+impossible seemed or been impossible for
+a solo founder just a few years ago and
+as we move towards an AI enabled World
+stay curious and keep experimenting and
+don't be afraid to let those powerful
+tools amplify your capabilities there is
+no purism here that's going to help you
+AI tools are here to stay and the future
+of Entrepreneurship is here and it is
+augmented by AI
+and that's it for today thank you for
+listening to the boot founder you can
+find me on Twitter at AIT a KL you find
+my books for my Twitter course set 2 if
+you want to support me in this show
+please tell everyone you know about pot
+scan and leave a rating and a review by
+going to rate thisp podcast.com founder
+makes a massive difference if you show
+up there because then the podcast will
+show up in other people's feeds and I
+would like that any of this will help
+the show thank you so much for listening
+have a wonderful day and bye-bye
+n
+[Music]

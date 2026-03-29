@@ -1,0 +1,51 @@
+{
+  "topic_id": 154424,
+  "title": "When master data changes, which values should forms display?",
+  "slug": "when-master-data-changes-which-values-should-forms-display",
+  "category_id": 11,
+  "tags": [
+    "print_format"
+  ],
+  "created_at": "2025-09-25T04:10:00.874Z",
+  "last_posted_at": "2025-09-25T04:10:01.025Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/when-master-data-changes-which-values-should-forms-display/154424",
+  "views": 25,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Saralrat",
+  "posts": [
+    {
+      "id": 482015,
+      "username": "Saralrat",
+      "name": "Saralrat",
+      "created_at": "2025-09-25T04:10:01.025Z",
+      "cooked": "<p><strong>Problem statement</strong></p>\n<p>Users often update <strong>master data</strong> (e.g., customer name, billing/shipping address, item name/description) while transactions (quotations, sales orders, invoices, delivery notes, etc.) are being created or after they’ve been submitted.</p>\n<p><strong>Question</strong></p>\n<p>When master data changes, which values should forms use?</p>\n<ul>\n<li><strong>A. Latest master data</strong> — always pull current values at render</li>\n<li><strong>B. Document snapshot</strong> — use values saved on the document; never auto-refresh after submit</li>\n</ul>\n<p>Thank you.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/saralrat/{size}/80065_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 10,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

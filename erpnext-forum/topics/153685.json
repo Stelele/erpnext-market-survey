@@ -1,0 +1,51 @@
+{
+  "topic_id": 153685,
+  "title": "Frappe LMS integration with S3 !",
+  "slug": "frappe-lms-integration-with-s3",
+  "category_id": 6,
+  "tags": [
+    "customization"
+  ],
+  "created_at": "2025-09-17T10:05:14.732Z",
+  "last_posted_at": "2025-09-17T10:05:14.854Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/frappe-lms-integration-with-s3/153685",
+  "views": 36,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "OsamaTbaileh",
+  "posts": [
+    {
+      "id": 480939,
+      "username": "OsamaTbaileh",
+      "name": "OTbaileh",
+      "created_at": "2025-09-17T10:05:14.854Z",
+      "cooked": "<p>Is it true that Frappe LMS doesn’t provide any configuration to connect with an S3 instance?<br>\nIt feels quite inefficient to store all files, videos, and images directly on the same EC2 instance. I’d imagine the team has already considered this and might even have documentation for it.</p>\n<p>Does anyone know if there’s an official way to integrate Frappe LMS with S3, or do we need to set it up manually?</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/osamatbaileh/{size}/79597_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 18,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "topic_id": 160500,
+  "title": "Cashier on POS profile not possible to Open POS",
+  "slug": "cashier-on-pos-profile-not-possible-to-open-pos",
+  "category_id": 6,
+  "tags": [
+    "bug"
+  ],
+  "created_at": "2026-02-10T12:30:42.518Z",
+  "last_posted_at": "2026-02-10T12:30:42.642Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/cashier-on-pos-profile-not-possible-to-open-pos/160500",
+  "views": 20,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "exp089",
+  "posts": [
+    {
+      "id": 493900,
+      "username": "exp089",
+      "name": "Exp089",
+      "created_at": "2026-02-10T12:30:42.642Z",
+      "cooked": "<p>Hi Guys</p>\n<p>I’m struggling with POS Profile/Opening Entry. I can’t seem to select a user to open a shift. I’ve already linked the User to an Employee and checked the ‘Applicable for Users’ table in the POS Profile, but the search returns no results for the Administrator or any other user. Any idea what I might be missing? Thanks in advance.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/exp089/{size}/90773_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 9,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

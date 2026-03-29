@@ -1,0 +1,53 @@
+{
+  "topic_id": 161150,
+  "title": "Different naming series conventions for draft and submission modes",
+  "slug": "different-naming-series-conventions-for-draft-and-submission-modes",
+  "category_id": 57,
+  "tags": [
+    "erpnext",
+    "customization",
+    "frappe"
+  ],
+  "created_at": "2026-02-26T07:43:06.580Z",
+  "last_posted_at": "2026-02-26T07:43:06.705Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/different-naming-series-conventions-for-draft-and-submission-modes/161150",
+  "views": 9,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Rangubha_Makwana",
+  "posts": [
+    {
+      "id": 495097,
+      "username": "Rangubha_Makwana",
+      "name": "Rangubha Makwana",
+      "created_at": "2026-02-26T07:43:06.705Z",
+      "cooked": "<p>When creating a Journal Entry, the naming series is assigned upon saving. However, if an incorrect dimension, such as the account dimension, is added and the naming series is selected based on that dimension, the record should not be canceled or removed.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/rangubha_makwana/{size}/64525_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 4,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

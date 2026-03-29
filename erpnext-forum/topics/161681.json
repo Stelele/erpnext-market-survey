@@ -1,0 +1,51 @@
+{
+  "topic_id": 161681,
+  "title": "Getting Negative Amount in Salary Slip Payment Days",
+  "slug": "getting-negative-amount-in-salary-slip-payment-days",
+  "category_id": 6,
+  "tags": [
+    "hr"
+  ],
+  "created_at": "2026-03-25T09:15:26.327Z",
+  "last_posted_at": "2026-03-25T09:15:26.449Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/getting-negative-amount-in-salary-slip-payment-days/161681",
+  "views": 8,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Mohammed_Anas1",
+  "posts": [
+    {
+      "id": 496374,
+      "username": "Mohammed_Anas1",
+      "name": "Mohammed Anas",
+      "created_at": "2026-03-25T09:15:26.449Z",
+      "cooked": "<p>Hi Everyone<br>\nI’m getting negative value for payment days in salary slip<br>\nhow to solve it<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/e/c/ec18b9b455ebc323dce7f32477ce5a25b4e835bf.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/ec18b9b455ebc323dce7f32477ce5a25b4e835bf\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/e/c/ec18b9b455ebc323dce7f32477ce5a25b4e835bf_2_690x266.png\" alt=\"image\" data-base62-sha1=\"xGBEJnUUApdS9T0aNugjfcYQnTN\" width=\"690\" height=\"266\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/e/c/ec18b9b455ebc323dce7f32477ce5a25b4e835bf_2_690x266.png, https://discuss.frappe.io/uploads/default/optimized/3X/e/c/ec18b9b455ebc323dce7f32477ce5a25b4e835bf_2_1035x399.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/e/c/ec18b9b455ebc323dce7f32477ce5a25b4e835bf_2_1380x532.png 2x\" data-dominant-color=\"FCFCFC\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1819×702 41.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p><strong>Version</strong></p>\n<pre><code class=\"lang-auto\">{\n\t\"frappe\": \"15.102.1\",\n\t\"erpnext\": \"15.101.0\",\n\t\"hrms\": \"15.58.3\",\n}\n</code></pre>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/mohammed_anas1/{size}/65291_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 6,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

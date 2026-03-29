@@ -1,0 +1,767 @@
+﻿So, as Rob said, I'm going to talk a
+little bit about our story, um,
+bootstrapping to over two million and
+how to build momentum in your startup as
+you continue to grow. We are almost
+there, I believe, on the last talk of
+the conference. Uh, and, uh, you'll be
+walking out of here soon, hopefully, uh,
+motivated and with some useful tips, but
+if not, at least you'll be walking out
+of here. So, who am I? Uh, for those who
+haven't, uh, met me yet, my name is
+James. I'm the co-founder of Estalty.
+I'm also uh husband to my amazing wife
+and she is at home looking after our
+three kids. And I did just want to give
+a quick shout out to all the partners
+and families that are probably not in
+this room because doing this is
+hard and it takes a toll on your family
+and I think they deserve a lot more
+recognition than what they probably get.
+[applause]
+when I'm not building uh when I'm not
+spending time with my family, I am
+feeding these two which is absolutely uh
+expensive. Probably the second biggest
+bill that I pay apart from AWS each
+month.
+And as you probably know, I am from
+Australia. Uh you might have heard of
+Sydney or Melbourne or even Brisbane.
+[snorts] Uh I'm not from any of those
+towns. I'm from a small country town
+called Dolby. Uh it's about 10,000
+people there and our team is fully
+remote. We've been living there for
+about three and a half years and I
+absolutely love being out of the city.
+Uh so don't think that you necessarily
+need to be in a startup hub to actually
+build a startup.
+So why am I here? Well, Rob uh briefly
+mentioned that I was on the podcast, but
+I actually stumbled across the podcast
+in 2021 when I used to drive for about 2
+and 1/2 hours to the airport to travel
+to uh inerson events and chat with my
+co-founder and things like that. And uh
+I love listening to podcasts and I
+stumbled across startups for the rest of
+us one way or another. And I was
+thinking to myself, what on earth is MR
+and LTV and retention and product market
+fit and all the other SAS terms? I
+actually had no idea, but I was building
+a SAS company. So I thought I better
+listen in a little bit more. And uh and
+obviously there must have been a pitch
+for Microcom. So uh ultimately I booked
+my first ticket to Micro in Atlanta
+2024, excuse me, 2024. which was an
+incredible, incredible event. Uh, and I
+thought I'll really step out of my
+comfort zone and uh, and be a speaker at
+this one.
+So, on Friday, I got in a tin can and
+uh, traveled for about 25 hours all the
+way from Australia to to here. I think
+I'm finally over my jet lag. It's been
+an incredible two days. Thank you to
+Sonia and the whole Micro team. Um, it's
+an incredible event and uh, really
+honored to be here speaking.
+So, enough about me. Uh, and let's talk
+start talking about Astaltty and our
+journey. So, on the podcast, Rob
+actually said Asty is a bad acronym, but
+it is an acronym and it stands for a
+solution that actually listens to you.
+Uh, it's co-founded by myself and Jonno.
+And, uh, the best way to explain it is
+essentially it is a it's it's a HubSpot
+for the NDIS. So, it's a super
+specialized uh, CRM. And what on earth
+is the NDIS? So the NDIS stands for the
+National Disability Insurance Scheme and
+it's essentially a governmentf funded
+scheme that gives funding to people that
+have a disability to then go and uh
+access uh services provided by
+businesses to help them live more
+independently uh to help them at home to
+kind of navigate the NDIS in itself and
+uh and our software essentially helps
+those businesses delivering their
+services to run their whole business.
+And you can see some of the features
+that we uh have down the sidebar there.
+So it is quite a large broad um software
+but within a niche in Australia. So how
+on earth did I even come across building
+such a specialized tool.
+This is a chatbt image which is
+fantastic. But I want to go back to the
+origins of Estalti and Estalty kind of
+started around 2018 but in all honesty
+it started before then. Like all good
+startup founders, I dropped out of uni
+once. Not once, not twice, but three
+times. Uh the first time I failed, the
+second times I dropped out voluntarily.
+And I ended up actually running pubs for
+a few years. And in 2018, I said, "This
+is enough. I was working nights. It was
+not healthy for me, not healthy for my
+relationship. Uh and I decided to call
+it quits." So I was sitting at home and
+thinking, uh, I need to make some money.
+So, I went online and uh there's a
+platform called Air Tasker and it's
+similar to Upwork, Fiverr, kind of a gig
+um a gig, you know, marketplace. And I
+knew nothing about software, but I did
+know about spreadsheets and I did know
+about QuickBooks. And I found this job
+and I thought, great, I can make 50
+bucks. Uh I must have done a good job
+cuz this says 100 when I went and search
+for the screenshot. So, uh I must have
+got a bonus for for doing a good job.
+And the spreadsheet was just a basic
+kind of transformation. But this is a
+very important day because this is how I
+actually met my co-founder Jono O who
+has a business [clears throat] that
+operates within the NDIS.
+So in March uh 2021 we registered the
+company and between 2018 and 2021 I had
+another software company where I was
+doing freelancing and essentially
+building custom tools for businesses. Uh
+but in March 2021, uh we decided that we
+would um or before then, sorry, we were
+joking about how bad software was in the
+NDIS and that perhaps we could build
+something. Uh and ultimately in March 21
+is when we pulled the trigger, which was
+also a busy time. Uh similar to Kevin
+actually. Uh I literally signed the
+paperwork in a hotel room across from
+the hospital uh the same week that our
+first son was born.
+So between then and September uh I was
+winding down my other software company
+and essentially starting to write code
+for a stalty and in September the first
+commit was made to GitHub.
+Like all good software developers, I uh
+perfectly estimated how long taking it
+would build.
+Few technical founders in the room uh of
+course completely underestimated what
+was involved uh and and how long would
+really take. And we initially started to
+build you know everything that we needed
+and we started to realize that we were
+going to do a very poor job of that. So
+we scoped down within the NDIS uh to one
+of the 15 categories called support
+coordination. Uh which essentially uh
+meant that we were building a tool now
+for a segment of a segment. Uh so it was
+a niche of a niche if you like.
+But beyond that we still knew it was
+going to take too long and we wanted to
+start building our reputation and uh
+getting our name out there. So we
+thought uh why don't we build some free
+tools and free resources that allows uh
+customers to really you know to get our
+name in front of them and start trusting
+us and knowing who we are. Uh the NDIS
+has this catalog of of prices you can
+charge for. It's a big spreadsheet. It's
+not that important except for the fact
+that it's super painful to deal with.
+And uh I knew that customers that would
+ultimately use our software must be
+using this spreadsheet because I was
+using it building the software that they
+would use. And I had an idea of building
+a Chrome extension that kind of built
+this spreadsheet into your browser. You
+could search it really easily. Uh and
+this is the first, you know, product
+that uh that we ever built. We launched
+this even pre-AI. I think this took one
+or two days to build and we sent out a
+cold email and uh and it actually did
+quite well. A quick tip for anybody
+building uh free resources, make sure
+you get email addresses at least. To
+this day, we still do not capture any
+email addresses, which is a big regret
+from this extension. Um, in all honesty,
+we probably need to revisit it sometime
+soon. But if you're going to give free
+stuff away, at least capture something
+that can help you.
+This is our chart of usage. Uh, so in
+January 22, we launched the free tool.
+We got a couple hundred users. And then
+in February, we launched a Stalty Light
+V1.0.0. The V1.0.0 did not last very
+long. Uh, we got rid of that super
+quick. design is not my strong point,
+but it was a simple free solution for
+support coordinators. That's what we
+initially marketed it as.
+We had about 340 customers sign up to a
+Stalty Light. And of those, we had a few
+dozen, maybe 30 or 40 customers actually
+engaging with us, telling us what the
+platform needs, what it's lacking, what
+it's doing well. And even though I
+didn't know it at the time, cuz I didn't
+even know what the term was, this was an
+indication of product market fit for us.
+So between then and August 2022, we were
+listening to all of the feedback and we
+were building ultimately what would be
+the first version of our paid offering.
+And in August 2022, in true startup
+style, we launched a Stalty Professional
+the day before we were going to showcase
+it in an in-person event in a
+two-bedroom Airbnb. And this is a photo
+of Jonno and myself uh with a make make
+do desk and couple of laptops.
+So between then and uh October the next
+year, we were simply doing what didn't
+scale. We were going to the inerson
+events. We were literally building
+features on demo calls. Jonno would be
+talking sales. I'd be writing code. By
+the end of the demo, we would have a
+feature and ultimately close that
+customer. We were working anywhere
+between 15 to 18 hours a day. And for
+us, we were doing a lot of phone support
+because none of our competitors offered
+phone support. And we thought if we did
+that, uh we would be able to stand out.
+and I still get phone calls on my
+personal mobile from the earliest
+customers.
+It wasn't until in October 2023 that we
+hired our first full stack developer. Up
+until this point, I had written every
+single line of code and we had about
+a,000 users. Uh so this is roughly I
+don't know 40,000 a month um when we
+made our first our first hire. And this
+is just before we had a massive
+transition. Uh, I completely rebuilt the
+front end of a Stalty, but we're also
+going into the launch of a Stalty
+Premium, which is what I like to call a
+price rise without actually doing a
+price rise. So, what on earth does that
+mean? At the time, uh, Stalty
+Professional was actually $49 per user
+per month. This is an old screenshot,
+but it's the best I could find. And we
+wanted to increase prices, but, uh, I I
+hate conflict. I hate saying no. Um, so
+what we decided to do instead was we
+drew a line in the sand and we said
+every new feature from this point on is
+going to go into the highest tier
+because we knew that they were high
+value features.
+What [clears throat] we did is we then
+introduced a a third tier. We didn't
+launch with three tiers. We just had the
+free and professional. We launched with
+the stalty premium which was an extra
+$15 a month. So instead of increasing
+our prices by say 5 or 10% which is what
+is dictated by our terms, we were able
+to essentially get a 30% increase in
+revenue simply by building things we
+were going to build anyway but putting
+him putting them into a higher tier.
+What we then did is we kept a salty
+professional but increased the price to
+$59 a month. So it's only an extra $5 a
+user and what we found is that 98% of
+all new customers were signing up to our
+highest tier anyway. So eventually we
+just got rid of a Stalty Professional
+and we had a 60% upgrade for existing
+customers. So 60% of all users that
+started actually paying us $29 a month
+because we had an introductory offer
+upgraded to paying $64 a month, almost
+triple what they were initially paying
+us.
+So during this time we really focused on
+these nine things. Number one,
+delivering the best customer experience.
+And this is going to look different for
+every single business, but for us, this
+meant getting back to people extremely
+quickly. Uh we didn't have any support
+platform. It was just email, but we were
+getting back to customers within 15
+minutes. We were in Facebook groups. We
+weren't necessarily pushing our product,
+but our customers, they kind of have
+these Facebook groups. There's probably
+about a dozen of them that they hang out
+and talk to each other. And when we
+stumbled across this, we thought it was
+a fantastic resource. So, we were in
+these groups listening to what people
+hated about their existing software. And
+we would go and build those features,
+reach out to those customers. And now if
+you go into the some of these Facebook
+groups, customers will or potential
+customers will say, uh, what software do
+you use? And, you know, 40 out of 50
+comments are now recommending a Stalty.
+Uh, and I know you can achieve similar
+things in Reddit and other social
+platforms. We were going to all of the
+Inerson events, which does not scale.
+Uh, as a founder, it's extremely tiring,
+especially when you have a young family.
+Uh, but again, it's just one of those
+things that we felt we had to do.
+Uh, we built an affiliate program. We
+also built a partnership program and
+what that allowed us to do was stop
+being a place of no. We are a software
+company. We do not provide legal HR
+advice. We do not build your website for
+you. We don't help you set up your
+emails. But a no for us is quite, you
+know, there's a lot of friction there
+when a customer comes to us said we love
+your software uh but no, we can't do
+that. So instead, we now have a uh
+partnership program where instead of
+saying no, we can say unfortunately we
+don't, but here's a really great uh
+partner of ours that you can go and
+approach. And it just meant that
+customers now trust us. They can come to
+us uh and we, you know, we're very
+approachable and having really great
+customers that are happy to reach out to
+us for any of their issues is very
+important uh to the way that we work.
+We started to grow our uh our LinkedIn
+network by talking more about what we
+do. Uh and I'll talk about that in a
+little bit. We focused on getting
+customers for life. Uh and again, this
+is something that looks different for
+everybody. And I can give two examples
+of of what I mean by this. The first is
+uh we once built a feature in 7 minutes
+for a customer. I was on Facebook uh in
+our community and I was I think I was
+responding to a comment and I saw
+another customer comment about something
+that was super painful and I can't
+remember exactly what it was uh but I
+saw that comment. I had my editor open
+and I literally shipped a feature and
+replied to that comment and it all
+happened within 7 minutes. That customer
+then went into several Facebook groups
+and spoke about this experience. So by
+doing that one thing that cost me, you
+know, 5 10 minutes of time, I've now
+essentially got a viral loop because I
+have a customer now going and telling
+their network and then those people
+telling their network, so on and so
+forth.
+The other thing we did far too late was
+introduce annual pricing. And the way
+that this allows you to move quickly is
+it gives you an influx of cash that you
+can use to execute on expensive things
+like recruitment, consultants,
+compliance, infrastructure, and things
+like that. So by introducing annual
+pricing, we now have a cash influx twice
+a year that really helps us uh execute
+on all of those expensive things uh and
+spending money which most Bootstrap
+founders including myself hate to do.
+It wasn't until April 2024 when we had
+over 1500 active users that we actually
+hired our first customer uh success rep
+to help out with support. Uh, similar to
+Kevin, I probably wouldn't suggest doing
+this, but I do wonder if we weren't
+doing the support ourselves, would we
+have been successful if we weren't so
+close to the four, you know, to the
+feedback that we were getting from our
+customers. Uh, so I do think that it was
+important that we did the support, but
+perhaps we could have hired a lot
+earlier on because doing customer
+support can absolutely take a toll.
+So between then and now, we've really
+just been focusing on scaling the
+business. We're at almost 3 and a half
+thousand active users across 1300
+businesses. Uh, and we're now solving
+other problems such as scaling the team,
+um, scaling communication, other things
+that isn't simply writing code.
+So, we're doing about 2 and a half
+million ARR. We have a small team of 10.
+That's made up of five engineers, two
+co-founders, one in sales, and uh, and
+two in customer success. We do 24
+deployments a day to our production uh,
+application. And this is actually really
+important. There's a book out there
+called Accelerate by Jez Humble about
+software engineering. And there is a
+direct correlation between deployment
+frequency uh and your ability to respond
+to sorry like lead time of building new
+features, meantime to recovery and
+change failure rate. In short, the more
+you deploy per day, the faster you can
+build things and the less bugs you will
+have. We have just over,200 subscribed
+businesses and we have a uh net monthly
+negative churn of minus 2.4%. Which is
+uh you know I think is a uh key
+indicator of our customer experience and
+our customers being able to grow with
+us.
+So what's different now?
+Net revenue retention. Yes, I do mean
+retention. Sorry, that would be very
+scary. Yes,
+I think I had a negative churn and then
+I swapped the number and uh I I didn't
+change the churn, but um
+what is different now than it was 18
+months ago. And for us, the reality is
+not too much. Yes, we have more revenue,
+but more revenue doesn't necessarily
+mean less problems. It just means
+different problems and you can solve
+them a different way.
+So, not much is different. Uh we
+continue to do what works. We continue
+to not do what doesn't work, deliver the
+great customer experience, and build
+really great software. And for that,
+we're rewarded with an MR chart that
+looks like this. And I wanted to take a
+screenshot of this because I wanted to
+indicate that there's no hockey stick
+growth. There's no massive spikes. It's
+just nice, steady, linear growth, which
+can get you into a great spot. However,
+there are some days that still look like
+this.
+It is still hard. There are still
+problems to solve. Um, but it's been a
+great journey and I don't think I'd be
+doing anything else.
+So, how do you actually build momentum
+and continue to move quickly?
+First, I wanted to touch on the
+definition of momentum, which is the
+quantity of motion of a moving body
+measured as a product of its mass and
+velocity. Or in business terms, I think
+it's the capacity for sustained growth
+measured as a product of a company's
+size and the speed at which it can
+execute. So you can have a very small
+company executing extremely quickly and
+we're seeing this so much now with AI
+and I think there's teams like Cursor
+and Lovable and all these teams of like
+10 20 or 30 people doing tens of
+millions of dollars ARR
+but small companies that move extremely
+quickly uh can really punch above their
+weight. But if you have a massive
+company that starts to move really
+slowly, it's startups that are in this
+room that will start eating them for
+breakfast. And what I'm focusing on now
+is making sure that we don't become one
+of these companies.
+momentum compounds. You only need to be
+1% faster every day and you need to do
+that for weeks and months and years. And
+at times it doesn't feel like you're
+moving any faster. But if you continue
+to stick with it, you will absolutely
+see the benefits in years to come. And
+when your startup is successful, you
+will thank yourself for doing the small
+things early on.
+So,
+one thing uh that I pointed out before
+was deployment frequency. You need to be
+deploying often. The only way you can do
+this is by using feature flags in my
+opinion. Uh if you're not using feature
+flags, you should introduce this into
+your codebase as soon as possible. Even
+if you think you won't need it, uh when
+I get to point four about shipping
+straight to production, feature flags,
+feature flags become extremely
+important.
+Keep your infrastructure simple.
+So many people jump into Docker and
+Kubernetes and you know all these other
+complicated things. Uh we ran on a
+single EC2 instance for an embarrassing
+embarrassingly long time to be honest
+and it was only until we had compliance
+requirements to have redundancies that
+we actually even made our infrastructure
+more complicated but it is still
+extremely simple. We have a few servers.
+We deploy using you know um tools that
+are provided. Nothing complicated. Lean
+on managed uh pro providers where you
+can like Laravel cloud, Heroku, Netlefi,
+um Versel platforms like that. Have very
+good seed data. And this is extremely
+important. You can use and when I say
+seed data, I mean you should be able to
+spin up an example of your application
+within 2 or 3 minutes that looks
+completely real just with fake data.
+This helps you move quickly because your
+sales team can use it in calls, your
+support team can use it to build out
+your documentation,
+and you're no longer slowed down by
+having to manually enter things into
+your software to get something that
+looks good.
+This might be a spicy one, but ship
+straight to production. And a lot of
+people that start out probably do this,
+but as you grow, you will feel compelled
+to introduce a staging or a dev server.
+You do not need them. you can ship
+straight into production and you can put
+processes in place to ensure that code
+goes from your local environment and is
+pushed straight into your production
+environment using feature flags,
+automated testing and things like that.
+Uh and again that book uh Accelerate by
+Jez Humble talks about this and why it's
+important.
+Take action. This is simple advice but
+so many people get stuck analyzing
+things and not moving fast. You need to
+be okay with being wrong. When you're
+making decisions quickly, you will
+naturally make more decisions. The more
+decisions you make, the more likely you
+are going to be wrong. And that is
+completely fine. The only way you're
+going to know you're wrong is if you do
+the thing and somebody tells you because
+as a startup founder, you just don't
+have all the answers. Anybody that says
+it does, they're lying.
+Limit the number of one-way doors. Uh I
+think Jeff Bezos talks about this, but
+everything that you do should ideally be
+a two-way door decision. If you make
+that decision, you should be able to
+reverse it and do it the other way. And
+when you limit one-way doors, again,
+it's being it's easier to be wrong
+because you can just go and do the other
+thing.
+This is one of my favorite ones from 37
+signals, but on the side of do I really
+struggled with this as an early founder
+about being an analysis paralysis.
+Should I use Vue or React, PHP or
+JavaScript? And at the end of the day,
+use whatever your gut says in terms of
+building code. Use whatever you can
+build with fastest, but don't get stuck
+in an analysis paralysis. Just do the
+thing and if it's wrong, do the other
+thing. It's no big deal.
+And when you are in that stage of kind
+of choosing whether you should do option
+A or option B, just choose a simpler
+option.
+This is a big one. Uh and this is
+something that I struggled with for a
+long time, probably until the last 12
+months. But you should talk about your
+work. And I don't mean you need to post
+your MR charts on, you know, Twitter or
+X or LinkedIn or or whatever you want to
+use. Um but you should talk about what
+you're building. It builds trust with
+your potential customer base and it
+allows you to give an insight into your
+actual journey and people resonate with
+that. Building trust makes it a lot
+easier to actually close deals.
+Uh involve your family.
+I uh obviously your family is kind of
+along for the ride, but for me
+personally, I didn't actually talk about
+work with my family for a very long time
+until about the last kind of 6 to 12
+months. What I realized by actually
+talking to my family, my wife actually,
+you know, she doesn't really know
+anything about SAS or or or technical,
+but sometimes you get the best advice
+from people that have a completely
+different perspective. Talk to your
+family. Talk to your friends about what
+you're working on. Even if they don't
+understand it, sometimes they do have
+the best advice.
+Keep your channels open and public. And
+when I say public, I don't mean public
+to everybody. Just public within your
+workspace. If you use Slack, have all of
+your channels open. There's no need to
+have siloed information. It just slows
+down the decision-making. If everybody
+can access everything, it means that
+your engineering team can see the pain
+points that customer uh the customer
+support team are seeing. Customer
+support team can see the things that the
+engineering team are fixing and it
+actually gives insight and motivates
+people to move quickly because the
+success and support team can see how
+quickly the engineering team are
+shipping and in turn that makes them
+move quickly.
+Record as much as you can. This is
+extremely easy now with AI transcription
+tools and things like that. And I wish
+we did more of this earlier. I can't
+tell you how many times I've thought
+about a decision that we made two and a
+half years ago. And I thought, I really
+wish we had the transcript or the
+recording for that. Uh because we could
+just use that to then make the next
+decision rather than sitting down and
+being confused about why a decision was
+made, which ultimately just slows you
+down.
+If you can, you should. And I mean this
+with regard to your customers. If you
+can do something, you should do it. And
+the best example is refunding. Uh in our
+terms, we don't refund annual deals, but
+I can't think of a time where we've
+actually declined a refund. If
+somebody's asking for a refund, in my
+opinion, they've already churned. The
+least the the best thing you can do is
+try and have a positive outcome by
+refunding them. We've actually had
+examples where we've had a team of one
+come to us, they sign up, they close
+down their business, we refund them,
+they then went to work for another
+business, a team of seven, that then
+came and used our software anyway. if
+they had a bad experience leaving us. I
+do wonder if that ever would have
+happened. Fix bugs extremely quickly.
+Again, this builds trust with your
+customers and it also means that you
+don't have your engineering team
+worrying about how important is a bug
+and then they again slow in making
+decisions whether they work on or not.
+Every bug for us goes to the top of the
+list. We have a zero bug policy. It
+becomes the most important thing. We
+build that then we get back to whatever
+we were working on.
+Call your customers. I challenge
+everybody here today, within the next
+week when you're at the grocery store,
+on the way to pick up your kids from
+daycare, whatever it is, pick up a
+customer and just call them. It's those
+phone calls where you'll get some of the
+best feedback because at the end of the
+call, they'll say, "Everything's going
+great, but and then they'll tell you
+about something that's super painful
+that you can fix for them that you never
+would have heard of otherwise. And
+lastly, be honest." Again, this just
+makes it faster to communicate with your
+team and with your people. When you're
+always telling the truth, it makes it
+[snorts] a lot easier just to
+communicate.
+If you want to work, work. Again, this
+is one of my struggles and I'm not sure
+how many people fall into this bucket,
+but for so long, I felt guilty for
+working weekends and working nights and
+taking my laptop on holidays. And
+eventually, I just gave into that. And I
+thought, well, it's going to be less
+anxiety for me to check my emails, for
+me to actually do the work than sit
+there and feel bad for, you know, not
+whipping out the laptop. So, if you do
+feel like working, just work. Don't
+worry about the productivity, you know,
+the work life balance police or the
+LinkedIn police coming to uh to jump on
+you for working too much.
+And finally, the goalpost move.
+Everybody thinks that entrepreneurship
+is going up this step ladder from the
+bottom to the top. You reach the top,
+your life's great. Uh the reality is
+goalpost move. For us, it was 300 users.
+Then it was 500 users, then it was 80K a
+month, then 100 grand a month.
+You will always be stuck somewhere
+between where you were and where you
+want to be. And those layers will
+continue to move as you do. So my
+biggest piece of advice is build for the
+journey and not for the destination.
+Thank you. [applause]

@@ -1,0 +1,52 @@
+{
+  "topic_id": 157270,
+  "title": "Change the Home Page for a custom Web Page",
+  "slug": "change-the-home-page-for-a-custom-web-page",
+  "category_id": 6,
+  "tags": [
+    "customization",
+    "web"
+  ],
+  "created_at": "2025-11-25T09:07:00.132Z",
+  "last_posted_at": "2025-11-25T09:07:00.239Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/change-the-home-page-for-a-custom-web-page/157270",
+  "views": 56,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Skynovia",
+  "posts": [
+    {
+      "id": 487407,
+      "username": "Skynovia",
+      "name": "",
+      "created_at": "2025-11-25T09:07:00.239Z",
+      "cooked": "<p>Hi ! So I ask you because I tried but I didn’t succeed, so I want to have is a Custom webpage to have full control over the ERPNext but for also have control over the whole customization of the page (because the default system isn’t very intuitive. I first tried to use the in-built fonction in website settings for the Home page but that never worked (even for workspace or web page) and also the home page for each role that didn’t work eitheir (i’m always getting redirecting on /app/home and not my page). And after that I compiled a new app on  my site (I’m hosting on a VM) and in the hooks.py I changed the home page section but didn’t do anything, i’m aware that it probably from my mistake but this is why I ask you because I doesn’t too much about it but wants to do it right anyway. And also because I can’t find really good instructions on the format that they request for a home page (like if it needs to be a web page, does it need to have the full link or just name, etc…)</p>\n<p>Thank you all for your responses. And if you need me to give more info I can do it (sorry i’m not fluent in english….)</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/e/9/e9e9b4f5deeba4db67616695a2763dc20e1e46d1.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/e9e9b4f5deeba4db67616695a2763dc20e1e46d1\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/original/3X/e/9/e9e9b4f5deeba4db67616695a2763dc20e1e46d1.png\" alt=\"image\" data-base62-sha1=\"xnhXQzjGpMWcvZ8yJrrOCsRr7Ox\" width=\"690\" height=\"191\" data-dominant-color=\"13100F\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">905×251 6.48 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/s/838e76/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 16,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

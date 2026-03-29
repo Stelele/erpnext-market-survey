@@ -1,0 +1,363 @@
+﻿[Music]
+hey it's Arvid and you're listening to
+the boot
+[Music]
+founder today we'll talk about revising
+decisions taking a step back and look at
+what you have and may not have with
+fresh eyes and if you are locked into
+the wrong payment provider paddle the
+sponsor of this episode is one such
+fresh perspective to take a look at I
+use pedal for all my SAS businesses
+because it allows me the breathing room
+to actually reflect and focus on what
+really matters like today's episode so I
+recommend you take a look at it too no
+more dealing with sales tax and all that
+stuff these complicated payment things
+go to pedal.com to check it
+out as pod scan inches ever closer to
+profitability I've come to an
+interesting realization this week what
+got me here won't get me there unlike my
+previous Ventures the media stuff the
+books the courses product I service
+I don't think I can any longer rely
+solely on my personal brand and stuff
+like podcast appearances to generate
+sufficient leads that worked for that
+stuff and it helped jumpstart the
+business over the past six months but I
+don't think it will scale to reliably
+new customers and revenue options
+anymore this realization has forced me
+to confront some quite uncomfortable
+truths about my approach to building pot
+scan and I want to share both with my
+reasoning and the concrete steps that
+I'm taking to address this challenge
+over the next couple months with you
+here
+today so at its core podan is a data
+forward product it's a data Centric
+product it's a data product let's just
+call that the value proposition is
+simple but powerful you get access to
+Reliable and comprehensive podcast data
+at scale plus alerting and all of that
+but the core of it is that there is data
+to alert you from and to search through
+right the data is at the core so whether
+through the alerting system that tells
+you exactly where you were mentioned not
+where you might have been but where you
+have been mentioned our discovery engine
+that helps you find the perfect podcast
+for your topics through all the data
+extraction stuff that we've been doing
+or the API that delivers precise
+information with reliable performance at
+least that's what I'm trying to build
+everything hinges on data Fidelity
+Fidelity is really accuracy relevance
+and completeness correctness that's the
+kind of stuff and therein lies to
+challenge for parts scan while it's easy
+to discuss Brad topics and ideas on
+social media share video clips and
+engage in podcast conversations
+communicating this true wealth and
+specificity of our data is almost
+impossible without showing it it's easy
+to talk about an idea I'm doing this
+right now talking about an idea don't
+have to show you the data behind it I
+can inform you about it and I can talk
+about comprehensiveness all day long but
+until my users see the actual depth of
+information available it remains this
+abstract concept to them and that's not
+very alluring that's not very conversion
+inducing right the idea of something is
+not going to make somebody sign up an
+example now that's the difference and
+for the longest time I've been hesitant
+to make the data that podan has publicly
+accessible pre- signup the rationale
+here was pretty simple and I've
+communicated this several times on the
+podcast protecting this comprehensive
+data collection from being scraped is
+important because the actual value of
+potka lies in its reliability and
+thoroughness and that data is valuable
+now I have watched our competitors make
+significant portions of their public
+facing data freely available while
+keeping the source and the high value
+information stuff like guest appearances
+social feeds contact information behind
+the pay wall and I chose a different
+path hoping that customers would
+discover this wealth of information
+after signing up but that was a
+significant assumption one that I'm now
+revising after half a year of operating
+the business the other way the first
+step in this Evolution was internal for
+me at least I made our platforms
+valuable information more visible and
+actionable for existing users this has
+been like the last month of what I
+talked about on the podcast right
+bringing all the contact information
+forward getting the audience size
+estimator working well and integrating
+all of this data into everything that
+somebody sees everybody that uses pod
+scan to look into podcast will now see
+this information front and center makes
+it more actionable but the real
+transformation is coming in how we
+present ourselves to the world outside
+of the internal dashboard and here's
+where I'm breaking my own rule I am
+going to create landing pages for
+hundreds of thousands of significant
+podcasts and there are quite a lot of
+significant podcasts out there complete
+with an automated sit map for the
+backend and interconnected data points
+between the shows we're talking about at
+least 200,000 podcast with over like a
+thousand listeners or 500 plus platform
+ratings the big shows right not just the
+top 10 not just the top 100 but the big
+200 300,000 shows that people know and
+expect to find information from yes
+someone could then scrape this data and
+this is what I feared all this time that
+somebody might get my precious data and
+you know what I've decided that I don't
+really care anymore at least not this
+much what they will get would be this
+Loosely connected snapshot of podcast
+data from a single point in time like
+this is what we know about this podcast
+today this is the episode that is most
+recent and this is maybe how many
+listeners they have or whatever I'm not
+quite sure exactly what I'm going to put
+there but it's going to be there but the
+real magic that makes potkin valuable is
+something they can't replicate and that
+is the backend accumulation of data the
+data extraction and the continuous
+Updates this interconnect nature of our
+data and the collection system the
+automatic theme extraction and the
+continuous monitoring these are
+incredibly hard to replicate and no
+scraping will ever make this any easier
+and I think the Strategic shift for pan
+coincided with an interesting Market
+development here and that is charts I
+don't know if you know about this you
+may or may not know much about this
+whole podcasting ecosystem but chartable
+is a company that used to have charts
+for all kinds of podcasts charts like
+apple podcast Spotify and all of that
+and they shut down just a couple days
+ago following this Spotify acquisition
+like Spotify acquired them and they're
+probably still doing all of this like
+collecting charart information they just
+do it internally they're not
+broadcasting this information publicly
+anymore and the Gap that they left in
+tracking podcast charts worldwide
+created an opportunity for me and I
+jumped right into it I've rebuilt much
+of this functionality I collect chart
+information from Spotify Apple across
+all available languages and categories
+which is a lot I think there's 111 or so
+Apple categories and
+1070 Apple locations so if you do the
+math that's like 18,000 combinations of
+language and category that's going a lot
+of data but it will be useful it's going
+to become a core part of a public
+offering so what I've been building is
+freely accessible charts with unique
+added value main topics from recent
+episodes that I automatically extract
+and available contact information guest
+speaker identification everything we
+already have in the database and that is
+going to be part of the internal system
+and a more shallow version of that that
+just chose the list of of the chart the
+name of the podcast maybe an indicator
+as to how many episodes they have what
+the frequency is that is going to make
+it into the public realm so that people
+can see this oh this exists then sign up
+to see more and they're inside the
+platform that's kind of the acquisition
+strategy here and for each podcast we
+will not just only show the chart
+position but also maybe where it's
+trending across how many platforms which
+locations and then track whether a show
+is growing or Rising slowing down that
+information I have because it's
+information over time and that I can
+show for free and this is information
+that is invaluable to podcasters and
+agency and businesses alike because they
+get to see what is hip what is important
+to be part of or at least talk about and
+these implications go beyond marketing
+this data feeds back into our platform
+improving The Listener size calculations
+that we have enhancing topic tracking
+and allowing us to do more accurate
+predicting around audience size across
+different podcast categories as well
+because we we know who the big podcasts
+are and we have accurate audience sizes
+for these shows then we can now
+calculate category level insights like
+how many total listeners exist between
+news podcasts or Arts podcasts that kind
+of stuff this is super interesting
+relative sizes of marketing categories
+that can be very interesting to our
+customers as well and to make this data
+more accessible while still protecting
+against wholesale copying I've been
+implementing very careful security
+measures like will expose the
+information in a way that prevents the
+most overt scraping attempts was still
+providing value to genuine users it's
+not very easy to do this but I'm working
+on this I'll talk about this uh in a
+show in the future and I'm particularly
+excited about thinking where this could
+go beyond just a website I think I could
+offer a public API rate limited of
+course like everything else on the
+platform that provides basic podcast
+information for free just like a website
+would so they don't have to scrape it
+and that serves as this entry point for
+users who might later need more and can
+get that from the more current
+comprehensive paid services like the
+paid
+API see how I'm opening up and that was
+a rule that I set for myself to not do
+with this kind of Treasure Trove of data
+but I feel that this is the much more
+scalable approach to marketing the
+information that we have to show people
+what exists because just hoping that
+they follow me on Twitter is not enough
+so looking ahead to 2025 I think poin
+will be a fundamentally different
+platform in terms of how we Market it
+we're opening up most of the basic data
+to the public and we create this
+ecosystem of information that
+demonstrates the value prop through
+action through data rather than words or
+relationship or hoping that people find
+me and through me find the business and
+the SEO benefits of this will be
+significant too because we're going to
+rank for charts we're going to rank for
+individual shows but more importantly
+we'll be providing real value to the
+podcaster community because they can
+find their way to pod scan through one
+of these things and then find the full
+value of pod scan throughout the whole
+platform once they sign into it and
+another thing I'm working on is
+expanding into content marketing like
+creating a Blog that then interlinks
+podcast episodes with data Snippets from
+the platform and talks about different
+ways of how to get onto shows how to
+host a show how to be guests how to
+sponsor how to find sponsors this kind
+of stuff it will specifically Target a
+core audience booking agencies podcast
+agencies and businesses needing to be up
+to dat with podcast information and to
+ex this effectively looking to build a
+team of freelance writers and editors
+who can blend this kind of creative and
+technical writing in this specialized
+field of podcasting so I'm looking for
+those people so if you are such a person
+listening right now or if you know
+somebody who might fit this description
+I'd love to hear from you come on
+Twitter or X as young and cool people
+call it and send me a DM my DMs are open
+I'm looking for somebody who can help me
+kind of mix and match between technical
+precision and reaching out to people who
+care about podcast that's really what it
+is yeah and it's really humbling to
+admit that my personal brand the thing
+that I've been building for many years
+and this has been invaluable in getting
+putts gun off the ground don't get me
+wrong but it's not enough to create this
+guaranteed recurring Revenue stream I
+have to go beyond this I guess that's
+the beauty of building in public I get
+to share this realization and the pivot
+as it happens in public to the people
+who follow me for the stories that I
+tell it's really kind of nice it still
+is valuable and s breaking your own
+rules is pretty much exactly what your
+business needs to grow so the next few
+months will be crucial because we
+Implement these changes and things will
+change that I may not even think about
+so I'll continue sharing this progress
+and learning as I transform pod scan the
+team transforms pod from a data Rich
+platform into a more accessible visible
+and valuable resource for the entire
+podcast ecosystem after all the best
+data in the world is really only
+valuable if the right people can find it
+and use it it's not if you build it they
+will come you still have to tell them or
+at least show them and that's exactly
+what I'm going to be
+doing and that's it for today thank you
+so much for listening to the bootst
+founder you can find me on Twitter at
+AIT a Kahl you find my books on my
+Twitter course there too and if you want
+to support me in this show please tell
+everyone you know about podan FM and
+leave a rating and a review by going to
+rate thisp podcast.com founder makes a
+massive difference if you show up there
+because then the podcast will show up in
+other people's feeds any of this really
+helps the show thank you so much for
+listening have a wonderful day and
+bye-bye
+[Music]

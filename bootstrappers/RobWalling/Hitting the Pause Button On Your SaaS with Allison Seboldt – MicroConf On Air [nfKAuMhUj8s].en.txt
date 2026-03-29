@@ -1,0 +1,853 @@
+﻿And we're live. Welcome [snorts] to this
+week's Micro Comp on Air. I'm your host,
+Rob Walling. Every Wednesday at 1 p.m.
+Eastern, 10:00 a.m. Pacific, we live
+stream for 30 minutes, and we cover
+topics related to building and growing
+ambitious SAS [music] startups that
+bring us freedom and purpose and allow
+us to value and maintain healthy
+relationships. We believe that showing
+up every day, shipping that next
+feature, next piece of marketing copy,
+or closing your next sale is a way to
+build a sustainable company. We don't
+ask for permission to start companies.
+We build and ship real products who sell
+the real customers [music] who pay us
+real money. Welcome to Microphone Air.
+You may be able to hear my dog in the
+background. This is live streaming in a
+pandemic. I have a couple children at
+home as well as a Sharpi who is
+steadfastly guarding the front door.
+Today we are talking about hitting the
+pause button on your SAS. It's a an
+interesting topic and and a new one that
+I don't think I've covered before,
+whether on this uh this show or on other
+podcasts that I've done. So, um I am
+pretty excited to dive into this. My
+guest today is Allison Seabolt of
+Fantasy Congress. She's the founder of
+Fantasy Congress at fantasy
+congress.com. Allison is a self-taught
+developer and a bootstrapping
+enthusiast. After working as a web
+developer for four years, she quit
+corporate life to pursue her passion
+project, which is Fantasy Congress.
+Fantasy Congress is an online game that
+puts fantasy sports puts a fantasy
+sports spin on politics. Players draft
+members of Congress of US Congress. I
+love this. For their team and earn
+points based on legislative activities,
+actions like votes, sponsoring bills,
+and debating on the chamber floor.
+Fantasy Congress is intended to be a fun
+way to connect with friends while also
+helping people stay engaged and informed
+in the political process. So again,
+we're going to be talking today a little
+bit about uh building and launching and
+and putting Fantasy Congress on pause
+for the moment. Um if you have listener
+questions for myself or Allison, please
+do post them into the MicroConf onair
+channel in Microcom connect which is our
+Slack channel of founders and aspiring
+founders around the globe. We have
+approaching 1,600 people in there. It is
+totally free as long as uh you're a
+founder or you're working on something.
+And that is at microconnect.com
+if you want to become a part of that. Um
+and that's yeah, that's it. We're going
+to dive in. So Allison, welcome to the
+show.
+Hey Rob, thanks for having me.
+Absolutely. Um, we were just chatting
+before we we hopped on that I got we're
+we're just uh what a 5-h hour drive away
+from each other here in the Midwest. And
+while I got six hours of of six inches
+of snow yesterday, um you didn't get any
+over in Chicago. Is that right?
+No. But yeah, last year for Halloween,
+we got three inches. So, I'm very
+familiar with this experience of October
+snow.
+Yeah. Yeah. No doubt. Cool. Well, um,
+let's dive into this because I'm I'm
+pretty, uh, pretty intrigued by your
+story. You know, I don't hear a lot of
+people, um, well, a it's an interesting
+you you launched into, you know, a B TOC
+play. Um, and you people can follow
+along on your blog. Actually, what what
+is the URL of of where you're blogging?
+Uh, allison Seabbolt.com.
+Okay. And it's sebolt.
+and I read several of your updates and
+kind of watched watched your
+progression, but really, you know,
+you've as a developer, you you're
+obviously, you know, really leaned into
+this world of of indie hacking. Can you
+tell us a bit about your journey from
+teaching yourself to code? So, we'll go
+from, hey, you already know how to code,
+but deciding, hey, I am going to build
+Fantasy Congress and I'm going to go all
+in on this. You want to talk us through
+how you made that decision?
+Yeah. So, um, I was teaching myself to
+code around like 2012, 2013, and in
+2014, that's when I got my first job.
+And 2014 is actually when I came up with
+the idea of Fantasy Congress. So, I came
+up with it originally. Uh, when I first
+thought of it, I was like, "Oh, that
+would be like such an interesting side
+project to put on my portfolio, but I
+got a job and then I got busy and I
+didn't really think about it." I was
+still obsessed with the idea, though. I
+just I couldn't get it out of my head
+and I was working in the field for a
+while.
+I tried starting it as a side project a
+couple of times and it just didn't
+really work for me. Um, you know, coding
+all day or working 40 hours a week and
+then commuting and coming home. I just
+wanted to rest. Like I didn't want to
+continue coding. And Fantasy Congress
+was a kind of labor intensive side
+project. So, it didn't really work for
+me. Um, I was still obsessed with the
+idea though and in 2017 I was kind of
+thinking about, oh, what I want to do
+next in my career and I decided to save
+up money and just
+quit my job and dive into it. So,
+beginning of 2018, I just dove head
+first into it. Total newbie, had never
+started a business before, had never
+done anything like this before, and was
+just like, "Hey, I'll sink or swim.
+Let's see what happens." So,
+and here we are two and a half years
+later.
+Yeah, that's uh that's interesting. So,
+you didn't want to do it on the side
+because that's obviously the path a lot
+of people take because they do have the
+day job and they want infinite runway in
+essence, which is what a day job gets
+you. Um was it the desire to not do it
+on the side? Was it that you were you
+were tired in the evenings? You felt
+like your focus was split. Um what what
+what went into that? the decision to
+truly quit your job because some while
+some people do that it's you know
+obviously not the most common thing you
+hear developers do.
+Yeah, there were kind of two pieces to
+that. So when I was trying so I did try
+to start it as a side project a couple
+of times and
+I didn't have the time management skills
+I think I have now. So it and it just
+felt too big, you know, I wasn't I never
+felt like I was making progress on it. I
+would come home and just kind of dread,
+oh, I have to do more work. So, it was
+more just I think I have a certain
+amount of coding hours in me per day and
+like doing a side project while also
+having a full-time job kind of uh it was
+too much for me to handle today. Now, I
+think I might have a little bit I have
+better time management skills honestly.
+Like being an entrepreneur has taught me
+time management skills. So, I think I
+would probably it would probably be
+easier for me now. But at the time then
+it didn't really work for me. Um, and
+then the other thing too was I wasn't
+really happy in my current job. So I was
+kind of like, oh, what do I do next? Do
+I go get another job? I don't know what
+if I don't vibe with that team. And I
+just the entire time, you know, for the
+full four years I was working in uh the
+industry. I just I was obsessing over
+this idea and I was like, h, you know,
+I've tried to start this side project
+and it's not working. I feel like the
+only way it would ever actually happen
+is if I worked on it full-time. So, I
+just I kind of decided I was at this
+crossroads and I was going to go for it.
+Yeah. And it's and it's a luxury to be
+able to do that, right? I mean, a lot of
+people, you know, it's hard for them to
+save up enough money to to be able to um
+to do that. So, you know,
+congratulations for, you know, being
+able to pull that together. Um I'm
+curious. I've never heard of I mean,
+when I see the idea for this, it it's a
+no-brainer. It's like, well, of course
+that should exist. Does it exist beyond,
+you know, did it exist before you built
+Fancy Congress or or did you truly
+innovate in this space?
+Uh, no. It did exist previously. Um,
+there's been a few different iterations
+of it. The most popular one was in 2006.
+It ran from 2006 to the end of 2007, I
+believe. Um, and it was started by some
+college kids in California. And they it
+you know, it's funny. I've I've talked
+to the previous founders a little bit
+and they said, you know, it got it
+picked up steam. They moved to DC to
+work on it, but it wasn't profitable and
+I believe they sold it to Politico in
+2008 and Politico kind of like turned it
+into some other game. Um, and then they
+pursued something else. And then there's
+been other people who have started
+similar side projects or done similar
+things on the internet, but none of it's
+ever really taken off. I feel like no
+one no one seems to have treated it like
+a business from my perspective. When I
+when I was thinking about starting this
+as a side project, obviously I Googled,
+okay, this has to exist already. Surely
+somebody else has done this
+and I did find these previous versions,
+but nobody was charging for it. Nobody
+seemed to be like making money off of
+it. They all seem to be just side
+projects like I did this thing and I put
+it up online. or in the case of the
+college kids in 2006, they were
+primarily trying to make money off of ad
+revenue, which didn't work out. So my
+thinking was if I treated this more like
+a business, more like, you know,
+DraftKings, FanDuel, maybe not like
+betting on it, but you know, those are
+definitely businesses. So if I focused
+more on can I get people to pay for
+this, maybe it would be more sustainable
+and grow and become this thing that I
+think it really big thing that I think
+it could be.
+Right. And and is that the revenue
+model? Do you charge like a monthly or
+an annual subscription fee?
+Yeah. So right now I have two audiences.
+So there's recreational players and then
+there's educators because I learned in
+the process of making this that civics
+educators find this very useful tool.
+Um, so for the recreational players, uh,
+they pay a monthly subscription fee and
+then the educators pay a flat yearly
+fee.
+Got it. And what what's the range of
+those fees? Just to give folks an idea.
+Uh, the recreational players right now
+it's $19 a month and then that's so you
+sign up and that allows you to create
+leagues and then you can invite anybody
+to play in your league for free. And
+then uh for the educators, it's $149 for
+a year and you can create as many
+leagues and add as many students as you
+need to.
+Got it. And is that similar to pricing
+of like a fantasy football app like a
+FanDuel or whatever? I I'm I don't I
+don't really watch sports, so I don't
+know much about fantasy [laughter]
+sports. So I don't know if FanDuel is a
+betting thing or fantasy or what.
+Uh it Well, it's like kind of both. So,
+that's how most uh fantasy sports apps
+make their money is based off of um
+betting. So, I you know, I haven't done
+those myself, honestly. I think it's
+usually uh you sign up for free and then
+uh you add your account and put money
+into it or you pay you like pay to enter
+a league and if you win you get like a
+prize or whatever and they take a
+percentage of that money or something
+like that. So,
+I see.
+They're most of them are not paytoplay
+I'll say.
+Right. That's what I was thinking. I
+mean most, you know, there really isn't
+B to B TOC SAS. It's arguable if there
+are any B TOC SAS apps that are at, you
+know, at scale. And so because they just
+tend to use the free model and then have
+some model like that, right? It's either
+going to advertising or it's monetizing
+something that's not the the people
+because consumers are just so cheap. Um,
+did you consider a model like that that
+you know more like the fantasy football
+model where people do you know
+contribute and then take you take a cut?
+Um, so initially I'll say in when I
+first quit my job in 2018, I was
+thinking well originally that version
+too that was my MVP that was based off
+of the midterm elections in 2018 and I
+was thinking okay so it'll be fremium
+because I didn't know any better. I
+thought anything, you know, I thought
+every app had to be premium honestly and
+I was thinking okay it'll be premium and
+then I'll make money. I'll try to follow
+this fantasy sports style. Uh, you know,
+like people can win money off of it or
+whatever. And I consulted some lawyers
+and the lawyers were like, "You
+definitely cannot do that. Do not do
+that unless you have a lot of money to
+spend on licenses and legal fees and
+whatnot." And I was like, "Okay, I won't
+I won't do that then." Um, right. So, I
+then I thought like I'd do the normal
+premium approach, which is where you can
+sign up for free and then if you want
+extra features, you'll pay for them. you
+know, there will be like a a special
+better account that you can sign up for
+and upgrade. Um, I never got to that
+point obviously because Fremium is it's
+so hard just to ship something,
+especially like the very first time
+you're shipping something like this and
+so I never got to that point to like
+create extra features. Um but yeah, so I
+did kind of explore the
+uh the fantasy more traditional fantasy
+sports style aspect of it and walked
+away from it quickly. [laughter]
+Yeah. And that makes sense. And there
+are a lot of businesses that work at
+scale or that work with a lot of funding
+or that work with, you know, again at
+scale with a million users that that
+just aren't they don't make sense when
+you have a hundred or 500 users and you
+either have to monetize them differently
+or or they just don't work. You know,
+there are eBay e eBay doesn't work with
+500 people using it, right? You need
+millions of people. You need the network
+effect. Facebook doesn't work with 500
+people unless it's a really tight-knit
+group. It's only at Harvard or whatever.
+Um, and obviously, you know, fantasy
+sports, a fantasy sports site with only
+a few hundred people on it is probably
+more is it's probably, you know, a much
+more challenging thing to run. But it
+sounds like that there was an inflection
+point as you were building this where
+you became aware of of uh the worth of
+Fantasy Congress for educators and you
+specifically said like civics
+instructors. Um, how did you how did how
+did you find that out first off? And I
+guess perhaps uh you know secondly is it
+is it university or is it uh more high
+school level folks?
+Uh it's more high school focused.
+Although I have I mean I've had
+professors from West Point reach out to
+me. I've had a few different uh college
+professors reach out to me. So there's
+interest there as well. Yeah. Uh, so
+what happened in 2018 was I was trying
+to build this premium app and I got to
+the beginning of the fall and I was
+obviously nowhere. I wasn't in any
+position to start charging for upgraded
+features. Um, so I was kind of like, h
+well, I don't know. I'm just going to
+try to write this out and then figure it
+out after that. And I had always thought
+like educators might be interested in
+fantasy congress. I just didn't know how
+to begin reaching them. I thought that
+they would need like all kinds of crazy
+extra features. So, what happened was
+they actually found me, which is crazy
+because I maybe did like $50 worth of
+Reddit ads and that was all the
+marketing that I did for Fantasy
+Congress in 2018. But somehow they found
+me and Labor Day weekend it got shared
+on a Facebook group of 4,500 AP
+government teachers and they just went
+crazy for it. Uh they all signed up at
+once that Tuesday after Labor Day. They
+were all trying to get their students
+onto the app and I had this like really
+janky draft like live draft app that I
+had written with websockets. I'd never
+used websockets before. So, like all of
+these classes were trying to draft at
+once and they were crashing my app. Um,
+so I kind of just like shut everything
+down, sent everybody an email and I was
+like, "Whoa, I don't know where you all
+came from, but you all found me and we
+just need to take a breather here." Um,
+so I found out they all came from this
+Facebook group. And I kind of just like
+that Tuesday after I shut everything
+down, sent everybody an email, was like,
+"We're having issues. We'll figure it
+out."
+I was just kind of like, okay, this
+seems like an opportunity I need to ask
+for money here because these people seem
+really really motivated. Maybe like
+educators could be part of like I could
+pivot to focusing on educators. If
+they'll pay me, I will pivot to them.
+So, I started asking for money and they
+paid and I was like, okay, this seems
+viable. I think I just I think I just
+validated.
+Yeah, that's a cool story and it's one
+of those that, you know, I often talk
+about like the path to success involves
+hard work, luck, and skill in varying
+combinations depending on depending on
+your story, you know, and it's obvious
+you were putting in hard work to build
+this and you had built up the skills of
+being a developer and then you started
+building up the ability to ship product
+and everything. Um, and you got a little
+lucky with a with someone posting to a
+Facebook group. you know, someone
+discovers you based on $50 of ads or
+maybe it was something entire, maybe
+they just, you know, Googled you and
+found you. So then that leads to now you
+have these two different, you know,
+customer segments. You have the
+consumers that you mentioned earlier, 19
+bucks a month, and you have the
+educators,
+149 a year.
+Um, it brings us to last month where you
+you posted a blog post and you said you
+hit $1,000 in revenue, just over $1,000
+and like 550 of that was recurring
+revenue. Um, but at the end of the post
+you said Fantasy Congress is is still my
+passion, but it's time for a break. I'm
+curious what you mean by a break. Like
+what does a break mean to you and and
+why did you come to that decision?
+Yeah. So, to me, a break means I've I've
+been grinding on this full-time and just
+it's been my one and only. Um, so to me,
+a break means I'm just going to like
+probably, you know, I don't have any
+features planned to ship out in the next
+two weeks. Usually, it's like, oh, I
+know exactly what I need to do today. I
+know exactly what I need to do tomorrow.
+It's work, work, work, work, work. And
+I'm kind of just right now I'm just kind
+of taking a step back to assess and
+reflect on what where you know where
+should I like send my energy next kind
+of. I came to that decision because so I
+was doing like contracting work to
+support myself and that ended in June
+and I thought hey you know I don't have
+anything lined up. I have some savings
+built up. I this environment that we're
+in right now with all the educators
+moving online and the political
+environment and the election coming up,
+it really seems like Fantasy Congress
+could really take off this year. So, I'm
+just what if I, you know, take some time
+to just focus hard and completely on
+Fantasy Congress, go, you know,
+full-time on that. I set a goal to reach
+ramen profitability by the end of
+October. And last month, even though I
+made, you know, almost 1,200 in revenue
+just in last month when I was looking
+about how I made that revenue, I didn't
+feel like I could replicate it and let
+alone like double or triple it uh in
+October. So, it was kind of like, hey,
+I'm not going to reach my goal. So,
+let's just kind of like take a step back
+and reassess what happened and then, you
+know, pick it up in a couple of weeks or
+a month and then go in a new direction.
+Got it.
+Yeah, working for something, working on
+something for two and a half years and
+not having the traction you want is
+hard. And I feel like a break
+um I feel like that could re-energize
+you given how much passion you've had
+for this thing over two and a half
+years. Do you feel like that's what it's
+going to give you if you take a step
+back for a month or two that you'll come
+back uh kind of re-energized? or do you
+think it will offer you, you know, new
+ideas that you come up with while you're
+kind of having that downtime? What do
+you hope to get out of that out of that
+break?
+Uh, this is just like something that
+I've always done.
+Anytime I start to feel burnt out or
+stressed out about something, and not to
+say I was like totally burnt out on
+Fantasy Congress, but you know, when you
+go really hard and you have a goal in
+mind and you don't reach it, like that's
+a bit defeating. So, anytime I've set a
+big goal for myself and been a little
+disappointed that I don't meet it, I
+always just kind of like take a break.
+This is just something, you know, I when
+I was teaching myself to code and trying
+to get a job, I like did this, too. And
+I always felt like my biggest
+breakthroughs came when I was taking
+those breaks. It was kind of like, you
+know, not actually giving up or
+whatever, but just kind of like throwing
+up my hands and just like not thinking
+about it and pouting, you know, and just
+walking away. and then, you know, I'd
+like be washing the dishes or something
+and like a big breakthrough would come
+to me. So, it's more just about letting
+my brain decompress and just giving
+myself time to reflect, too. I think
+sometimes I get too deep into my coding
+bubble and I'm just so focused on
+shipping features or whatever. And, you
+know, in the past like week or two, I've
+kind of been doing just this reflection
+and not not actively. It's always on my
+mind. You know, your business is always
+like in the back of your mind. You're
+always thinking about it, but not
+actively like sitting down with a pencil
+and paper and like trying to figure out
+problems. And I've just kind of like
+been reflecting. It's like, oh, you
+know, I should probably reach out and
+talk to my current customers and get
+some feedback from them. So sometimes
+when you're too deep in the weeds, it's
+hard to see the obvious stuff. So, it's
+kind of just like pulling back and
+taking a break and looking at the big
+picture. I guess that's how I look at
+it.
+Yeah, I think that's good advice. And I
+see I think that's something I do well
+in the short term. Like during a day, I
+find myself fatigued. I walk away. I do
+the dishes. I make lunch. I walk the
+dog. I'm really bad at it uh in the way
+that you're doing it where I if I'm
+grinding on something and I'm not making
+progress for weeks or months for that
+matter. I need to get better. And I
+think if you're watching this or
+listening to it, I think it's something
+to be aware of in yourself is taking a
+week off, two weeks off, three weeks
+off. Maybe it's completely from work or
+maybe it's just from that task or maybe
+it's that project if you have the luxury
+to do it. And you know, if you're an
+entrepreneur, you you you may or may not
+depending on the situation you're in.
+I think that's that's good advice. We do
+have a question from the audience. Po
+actually, we have a couple questions.
+So, Pablo asks, "Did you ever evaluate
+selling it as a as part of a path
+forward?"
+Um, that's something that I would be
+open to eventually in the future, but I
+wouldn't want to sell it right now. I
+haven't I I don't know if anyone would
+want to buy it as is right now. I feel
+like I haven't figured out any of the
+obvious problems that someone who's
+looking to buy a business would be
+looking for. So, I mean, I haven't been
+approached by anybody, but again, too,
+like this is my passion. This is my
+baby. So, I wouldn't want to sell it
+unless I feel like it's in a really good
+place.
+All right. Very good. And then Pablo
+asked another question. and he said,
+"When you were finding uh contracting
+assignments, um how did those potential
+customers or potential clients react to
+you having a startup on the side? Or did
+you not, you know, or did you not tell
+them that you were running Fantasy
+Congress when you signed up to do
+contract work for them?"
+Um, it was a huge benefit to me. People
+loved hearing about it. Honestly, I feel
+like half the jobs I got was just
+because I'm the fantasy congress girl.
+Like it was so, you know, you hear about
+that and like people remember you first
+of all because that's very unique and
+silly and uh people, you know, and then
+you have like this work out there that
+you can show people like, hey, and a lot
+of people who are hiring too are
+business owners, you know, so business
+owners are more likely to trust other
+business owners. I feel um when you're
+doing I don't I don't know if it's so
+much you know in the corporate world. So
+if I was trying to go back and get like
+a full-time job I think people might be
+a little wary because it's like oh is
+she going to quit the job you know in
+six months if this takes off but with
+contract work people were like oh I know
+how long I have you and you know how to
+ship. So
+it seemed to be a huge benefit. People
+people really it really resonated with
+people.
+I remember in my early days of as I
+switched away from uh well it was I
+guess I had been a contractor then I
+took a salary job and I was switching
+back to contracting. This is like 17
+years ago. Um I launched a couple things
+on that a couple small side projects and
+the fact that they were out in the world
+and that they were u being used and that
+they did have some small amount of
+revenue and that they were in
+production, you know, just all these
+things really did impress people a lot
+more than I felt like it should. It was
+like this wasn't actually, you know, at
+least my stuff was stuff I built and you
+know, I spent three weeks and coded at
+nights and weekends and stuff. Fantasy
+Congress, two and a half years, that's
+that's another story.
+I man when I look at Fantasy Congress I
+I see
+such opportunity with like just the
+social media like I the Facebook group
+post you talked about is exactly how I
+think this this virality of this the
+viral potential with these rabid fans
+you know is is how I feel like um like
+the way this has to be grown you know
+when you watch like FanDuel only
+advertises on TV because now they have
+buckets the money, most of it, you know,
+venture capital. I'm guessing they're
+not profitable yet, but even if they
+are, it's cuz they've hit scale. In
+those early days, all these fantasy
+league folks, they they go after um, you
+know, content marketing. They do they
+could do PR. It's something that so many
+B2B SAS founders can't do because we run
+boring businesses. Who what PR what PR
+uh outlet, you know, what news org or
+magazine or um anything wants to write
+about a new email service provider? None
+of them. However, you were just recently
+covered uh or by you, I mean Fantasy
+Congress were just recently covered in
+roll call.com, which is a news site for,
+you know, US government uh stuff. Did
+that did you seek that out or did they
+just discover it and decide to write
+about you?
+This is so funny. Um so in July my big
+thing was my big focus was press because
+I agree like people always tell me oh
+this has such a chance to go viral. What
+I've learned though uh from a little bit
+of research is that virality is actually
+depreciative. So we kind of think
+think of virality as this thing where um
+you know I post something then all my
+friends see it and then they post it and
+it grows and grows. But actually in
+reality when they've studied studied
+virality um it's more somebody with a
+gigantic audience shares it and then
+like from that gigantic audience it kind
+of like putters out you know so like
+people retweet it and people retweet it
+becomes less and less and less. So I do
+think it has like a good chance to go
+viral. Um in July I focused on press. I
+was like soliciting a bunch of
+reporters. I didn't get anything. I got
+a little bit of feedback like oh this
+could be super interesting and then
+nothing ever came of it. Uh this
+reporter for roll call was actually one
+of the people that I solicited and so
+none of that like took off in July and I
+was like I'll go back and visit that
+some other time. You know it's something
+I'll go for some other time. I'll focus
+on some other stuff. Um, and then so
+right after I put up my September blog
+post, um, which was like last week or
+whatever, this reporter reached out to
+me on Twitter, which is where I
+initially DM'd him and he was like,
+"Hey, I was just about to reach out to
+you, but I saw that previously you had
+reached out to me. Crazy. Let's do it.
+Let's So he I don't know how he heard
+about it eventually, but yeah, it was so
+funny. It was me reaching I did reach
+out to him. It didn't do anything, but
+then at some point he came across it.
+So, at least I was targeting the right
+people.
+Yeah, that's right. And that's that's
+the thing. I like your point about
+virality. When I was saying virality, I
+don't mean like, oh, for every person
+that signs up, two more uh, you know,
+are going to are going to sign up for
+it. That's truly a viral loop. And so I
+was misusing the word, but when I think
+about it, I think politics
+is a space that a lot of people don't
+care about, but the few people that do
+or the, you know, I say few, the tens of
+millions, but it's, you know, whatever
+it is, 10% of the population or some
+number, the people that are really into
+it, they're really into it. It's like
+sports, it's like Dungeons and Dragons,
+it's like punk music, you know, it's
+like they're rabid fans. And so I like
+my inclination when I look at this, I
+know you're on a break now, so I don't
+want to uh put a bunch of thoughts in
+your head, but the this this works or
+doesn't work based on really inexpensive
+marketing, right? Because your lifetime
+value and your your monthly costs and or
+monthly fees and all that are just too
+low to do a lot of extensive
+advertising. So, I think of influencers
+like uh I don't know if you've heard of
+Justin Robert Young, but he runs
+politics politics politics.com and he's
+just an independent he's like a blogger
+and podcaster and he talks about
+politics and he also talks about
+technology and all this other stuff. But
+I don't know how many folks like him are
+out there, but he's doing like non-stop
+daily, you know, political podcast and
+and blog posts right now about the
+upcoming election. So, influencers like
+him are what you're talking about with
+that amplification, right? And it's how
+do you get
+how do you get on their radar? How do
+you get Fantasy Congress on their radar?
+As well as uh the PR angle. I think you
+were on the right track with that. I
+mean, I know it didn't work out in July,
+but who has the audience that cares
+about this kind of stuff, you know, and
+it's the press, it's folks like Justin
+Robert Young. Um, even a little I mean
+obviously the the Facebook groups that
+are already built cuz you building it
+one at a time with ads or you know you
+trying to pick off one at a time with
+customers I think is a pretty long road
+with an app like this given the the low
+price point. But finding the people who
+do already have have aggregated those
+people in one place um the journalists
+and and you know but you know you know
+this already because you're reaching out
+to journalists. I know that's a hard way
+to go and it's
+it it's a lot of reaching out and a lot
+of rejection and stuff, but um I do wish
+you the best of luck with it as you uh
+take your break, recharge, and uh figure
+out where to take it next. We are
+actually at time. So, I I really
+appreciate you taking the time to hang
+out with me for 30 minutes today. Folks
+want to reach out to you on Twitter,
+they can see your handle on the screen
+there. your Allison
+Seabolt and of course fantasy Kong on
+Twitter and it's fantasy congress.com.
+Thanks again for joining me today.
+Yep. Thank you, Rob.
+All right, and thank you for joining us
+for yet another episode [music] of
+Microconf on Air. Sometime producer
+Sander and I will go out and figure out
+how [music] many episodes is this? What
+do we think? 40, 50? doing them first
+daily and then bi-weekly and [music] now
+weekly. We have something exciting
+coming up around SAS podcasts. We will
+be uh releasing more information about
+that in the next couple weeks, [music]
+but stay tuned to the MicroM Twitter
+account and our email list. Thanks as
+always to Hey, and Stripe [music] for
+being our headline partners for the
+year. And we're out. I'll see you here
+again next week. Same time, same place.

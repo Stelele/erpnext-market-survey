@@ -1,0 +1,528 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+[Music]
+As I'm building yet another software
+service business after having built and
+sold one back in 2019, I keep wrestling
+with a pretty fundamental question that
+might sound simple, but I think has
+profound implications and that is what
+do I actually own in this business and
+off this business? And before we get to
+this this whole topic, a word from our
+sponsor, paddle.com. They're a great
+example actually for things that I
+consciously delegate to somebody else.
+And I'll get to that particular kind of
+ownership later when I talk about owning
+customer relationships. I use Paddle as
+my own merchant of record. They take
+care of all the taxes, the currencies,
+tracking the client transactions,
+refunds, updated credit cards, so that I
+can focus on dealing with my own
+competitors and not banks, financial
+regulators, and all that kind of stuff.
+So, if you think you would rather just
+want to build your product, check out
+paddle.com as your payment provider.
+Now, what do I actually own? That's a
+question that becomes particularly
+urgent when you realize that most modern
+software businesses exist in this
+fascinating paradox. We're building
+increasingly valuable assets, businesses
+that generate a lot of revenue.
+Hopefully, they grow in value and can
+potentially be sold for quite
+significant sums. Yet, we have less
+direct control over things like the
+infrastructure and other things than
+ever before. We're essentially building
+castles on rented land. And the
+implications of this go far deeper than
+most founders realize.
+Let me start with why this matters so
+much. A business is not just a place
+where you work. And particularly for
+founders, it's very different. It's both
+something that generates this constant
+stream, maybe a salary, dividends, or
+you reinvest the money that the business
+makes into itself. There's some kind of
+revenue here. But in the end, the
+business itself grows in value. And if
+you own that value and if that value is
+capturable by you or maybe somebody else
+in the future, who knows? Then you
+effectively get value twice. You get
+value along the way through operational
+income and then you get the expected
+future value over the course of the
+business running. And that's something
+that people could buy from you and they
+often do. I'm always thinking, how can I
+balance how much value the business
+creates for me today and how much it
+will potentially create for me or maybe
+somebody else in the future. And here's
+the thing that's kind of funny enough to
+be able to sell something. Well, for
+that you have to actually own the asset
+and this becomes a particular problem
+for building software businesses in this
+world of VIP coding and hosted
+everything. If you manage to build a
+profitable business on say lovable or on
+v 0ero or on any of these easy to deploy
+easy to prompt vibe coding platforms
+that kind of spring up every now and
+then one of the interesting questions
+becomes how much do I control how much
+ownership do I actually have here not
+just over the business as a legal entity
+that's a legal question and you should
+have that figured out in the documents
+and all of that but how much control do
+you have over the operational durability
+of your business. We live in a world
+where almost everything you could
+potentially run a software or as an
+underlying foundation for a software
+business exists as a rentable version, a
+much more affordable rentable version
+that somebody else is running for you.
+Thinking about platforms as a service
+stuff like Heroku or infrastructure as a
+service like AWS, Google Cloud or Versel
+where you just chip some code and then
+everything magically runs for you. Even
+for my most recent side projects for
+Podscan, I've started to run things on
+the Laravel cloud, which is effectively
+a platform as a service provider for
+Laravel, my PHP framework that I use. I
+just deploy my code there and they
+automatically spin up the services that
+are needed. They spin up the database,
+they spin up a Reddisk caching layer,
+file systems and none of this I need to
+manage anymore, which is great, but you
+can feel that you don't have control at
+this point. they get somebody else doing
+the stuff and if they do it right that's
+perfect but if they don't well it
+becomes a liability and with pot scan I
+still have some control over the
+infrastructure by choice but that
+infrastructure is also at least in part
+hosted with an infrastructure as a
+service provider so it's not a platform
+as a service provider that I host but I
+have a couple of bare metal machines
+that are mostly running my transcription
+my search engine that analysis and that
+kind of stuff but the main application
+that I for reliability and scalability
+reasons is not hosted on a VPS like
+these bare metal machines are bare metal
+VPS, you know, it's a it's a continuum
+there. You buy something, you still rent
+it, but it's an actual machine that you
+have access to. That's kind of what I
+mean. But my web app is set up on an
+infrastructure as a service provider.
+That's AWS, right? It runs in a virtual
+machine there. And we're becoming more
+and more dependent on these externalized
+services that are deep at the core of
+our businesses. This dependency well it
+both creates opportunities mostly for
+saving and for not having to do a lot of
+work and vulnerabilities for both the
+system that we run and the business on
+top of it that we need to very carefully
+consider. Let me tell you a story that
+really drove this home for me. So, I had
+this technology choice problem with my
+previous business that I sold, FIFA
+Panda, which was built on top of a
+rather rarelyseen web server called
+Phoenix in the Elixir programming
+language. It's a functional language is
+a lot of fun to build software in. But
+in many ways, that choice to build an
+elixir, which was a great choice at a
+time cuz it was the thing that I was
+also using for my day job. Well, that
+quite limited who would be able to buy
+our company or buy our product or asset
+because they would have to have an
+Elixir engineer. And those people are
+pretty rare because everybody has access
+to a lot of PHP and Ruby and JavaScript
+engineers. But elixir devs, they are
+very much in high demand. And the
+engineers that can work with this
+technology, well, they have spent a lot
+of years trying to figure out how
+functional programming works. They are
+more expensive than, let's say, your
+run-of-the-mill Ruby or PHPDF. So, in a
+way, that tech choice probably precluded
+us from several potential buyers just by
+the mere tech choice that we made at the
+beginning. And even though we had this
+wonderful application that we owned or
+we thought we owned, we still did. But
+when somebody asked, well, can I buy it
+from you? What tech do you use? Well,
+that ownership that you have that you
+feel in that moment, not just in terms
+of the software, the code itself, but
+also the decisions that you have to own
+of which kind of code to write. All of a
+sudden, that ownership matters
+tremendously and it fluctuates. And for
+me, scalability and sellability are
+essentially the same thing here. Either
+I scale the business myself or somebody
+else scales it. So, it's kind of the
+same. So the question becomes, do my
+technology and ownership choices work
+for this? Did I make the right choice at
+the right time or do I control enough of
+it for somebody to either build more out
+of it or take it and build something
+bigger from it? And this affects not
+just the code that I write or where it's
+running, but also where my code is
+stored and how do I deploy it? Those
+questions from where I control it,
+version control, to the actual servers
+that need a new version or need a fix or
+need a roll back, right? where I push
+that code to be run in front of people.
+And many a day on Twitter, I see people
+saying, "Well, GitHub is down. I guess I
+can't work today." And as funny as it is
+to see people posting memes about that
+old XKCD comic about code compiling and
+people fencing on their office chairs
+because they have nothing else to do,
+right? An outage of one of these
+infrastructure systems, not of the
+actual running code, but for the
+deployment and development of code.
+Well, that's pretty critical to a
+business that has to deal with bugs and
+new developments every single day. Being
+able to deploy code, not just through
+this abstract faroff pipeline that
+involves a third party service, but from
+your local development system in a
+pinch, particularly for bootstrap
+founders, for people with small soft
+businesses that do not have these
+massive checking of balance of power
+requirements, that's something you still
+need to own. Like I've run into a lot of
+issues not being able to deploy code,
+but I've tried to figure it out along
+the way. You need to still own a way to
+deploy in a pinch to a server even if
+part of your code deployment
+infrastructure is not working. And I
+figured out how to turn off and on, I
+guess, particular parts of my deployment
+procedures that may or may not require
+external servers. I lean heavily into
+caching for things like dependencies so
+that once I have them, I can always
+reinstall the same exact thing on that
+same exact server because it's already
+there. And I lean into being just able
+to skip the installation process and
+copy over old dependency data when I
+need to. Unfortunately, and you might
+have opinions about this, I'm working
+with PHP as my programming language. So
+I have ultimately the final capacity to
+SSH into my production server, go to the
+folder where the PHP file that has a bug
+or should be changed is located and
+manually adjust that file if needed. If
+everything else broke down, if GitHub
+didn't work anymore, if my installation
+system would fail every single time, I
+could still manually correct code like
+it's the '9s. And to me, as weird as
+that is, and as unscalable as that is,
+that is ownership. I still own that part
+of the thing, right? It's not on GitHub
+to tell me when I can deploy or make a
+change. Like that's my choice. And let
+me give you a concrete example of how I
+think about this layered approach in
+software. Like for authentication, for
+example, I use an authentication library
+that allows me to connect to other
+external authentication services. I have
+an authentication system for Potscan and
+the other tools that I'm building that
+works locally on my PHP Laravel
+application. But I could also allow
+people to click a button and log in
+through like Google OOTH or a service
+even like O0. And this is a layered
+abstracted approach where there's always
+a local fallback, right? I do not fully
+want to give my authentication system
+over to a external company even though
+we did the speed feedback panda back in
+the day and it worked pretty okay like
+it was very reliable well until it
+wasn't for an afternoon but that was
+just that one day in the 2 years or so
+one day of of outage that was fine and
+they had a good system to allow people
+to log in with whatever service they
+wanted to so that was a good choice now
+I went for local first plus then other
+stuff on top I have the same thing with
+my AI usage in the back end. Whenever I
+do an AI analysis of a transcript for a
+podcast episode that just came into my
+system, I run the best available local
+language model that I have at the time.
+And if that is busy, I try to go to
+OpenAI. And if OpenAI is throwing errors
+because somebody plugged in the coffee
+machine next to the server again, well,
+then it falls back into a queue. So, a
+local system can take care of it. You
+have to think about what could break
+because it will and what your
+alternatives are because you will need
+them. So what can you fall back on?
+Fallback systems are super important for
+every single thing that you have that
+connects to some external thing and they
+need to be tested. That's kind of where
+the backup situation comes into play.
+Like if you do database backups but you
+never test to restore them, are they
+even backups? Kind of Heisenbergian
+backup situation there. And here's where
+this gets really interesting and I kind
+of promised to talk about money here. I
+use Paddle as my payment provider for
+all of my services and they are my
+merchant of record. So they kind of take
+the customer relationship and they own
+it in a way. But because of this because
+it makes so many things easier. I am
+fine with that. I'm actually quite happy
+about this because they take care of so
+many things that would add extra
+complexity to my business. It's for them
+to solve all the things like chasing
+credit cards or whatever. But being
+aware of them owning the customer
+relationship or at least the payment
+relationship with the customer, I take
+my own precautions. I regularly export
+every single thing from the paddle
+payment platform through their API and
+through existing report features that
+they have exports for reports. I have a
+list of all my customers, all their
+subscriptions, all their emails, all the
+data that I have on their addresses and
+stuff on my Dropbox somewhere in a safe
+location. And we could talk about
+Dropbox and, you know, backuping and
+cloud services, but let's stick with the
+SAS stuff today. And I have it on my
+local computer. So that even though that
+service may own that relationship and be
+closer, more proximate to the customer,
+if they experience problems on occasion,
+well, I always still have control of
+that data and I can connect to the
+people that are my customers through my
+own means. Think about it. We are
+renting on rented land, right? Right? If
+you're building a SAS, you're renting
+your software out as a service to your
+customers and you yourself are a
+software as a service customer to
+somebody else in some way. Like in this
+relationship, you need to make sure that
+you try to own as much of the
+relationship with your customers in
+terms of the actual business
+interaction. You might not want to have
+their payment information in your
+service, right? And that's kind of where
+most people actually have a payment
+platform. You don't want to keep this
+personal identifiable information stuff
+and payment information in your own
+database. Puts a massive target on your
+back. You want somebody else to do this.
+But you need to try to still have a
+strong relationship with your customer
+obviously because that is important for
+your feedback cycles and for retention.
+And you also want to own as much as
+possible the circumstances and the data
+and the operations and the processes of
+your software product on the other side
+of things where it's hosted, where it's
+running, where it's going because you
+need to have as much ownership as you
+can. So here's what I personally have
+learned about navigating this ownership
+paradox. I always ask myself, who would
+not want to buy this business because of
+the choices that I make? because of the
+tech choices, the infrastructure
+choices, the stuff that I'm just
+constantly making, these tiny little
+choices, and because of the presence or
+lack of documentation of these
+processes, who would say no to this if I
+were to offer them this business? And
+why do they do that? What can I change
+for them to then say yes? That's kind of
+my mental exercise that I do. And
+second, I think about ownership really
+as a decentralization of data. Do I have
+a full copy of all my customers with
+their emails and their payment
+information if needed? Or at least a way
+to reach them to set up an alternative
+should my payment provider fail or
+deplatform me or something like this.
+Does this data exist in multiple
+locations? It's kind of like having a a
+Dropbox for your documents and saving
+them on your local computer and maybe
+saving them to a network disc or
+something, right? Are there multiple
+decentralized places where this data
+lives? And third, for every external
+dependency, I need to build a fallback.
+This doesn't mean you need to rebuild
+everything from scratch. It just means
+having a plan B that you've tested and
+you know it works. Whether it's being
+able to deploy code manually when your
+CI/CD pipeline fails or having local
+authentication when your O provider is
+down or maintaining regular exports of
+your critical data and putting that into
+different locations, right? That's all
+very important. It's a fallback. And
+fourth, consider transferability of
+those choices. When you make these
+initial decisions, how do I build my
+authentication system? Do I use a
+library that everybody else uses? Do I
+use a service like Oro? That kind of
+stuff. Think about how easy it is or
+would be to hand over these components
+and these relationships that then you
+have with this external service to a
+potential buyer or even a team member in
+your own business, taking over the work
+that you did before that they now do as
+the business grows. Are these lockin
+choices or are these opportunity
+choices? And for something like O Zero,
+it might be both, right? You're locking
+yourself into this kind of relationship
+where your existing customers are on
+their platform, but they support stuff
+like LDAP, Active Directory. All of a
+sudden, onboarding an enterprise client
+becomes easier. So that's an opportunity
+choice as well. So you kind of have to
+balance these always. That's kind of
+entrepreneurship in a nutshell. But it's
+important to think about what ownership
+do you retain. The option to sell a
+business always exists with a good and
+solid and successful business. But the
+option to grow and to invest in new team
+members taking on that work delegating
+well that means somebody else will have
+to take care of it as well. But it's
+kind of more internal. And even though
+my ownership is retained, it's access
+that needs to be shared at that point.
+And access needs to be shared to the
+point where I don't have to touch
+anything at all anymore. That's kind of
+the ideal position. You kind of remove
+yourself from the operational work in
+your business. And I guess that's part
+of the reality of building software
+businesses in 2025. We're more dependent
+on external services than ever before
+that we may not even own the
+relationship for or have access
+requirements with our customers, with
+our employees, with our consultants that
+work for us, contractors and all that.
+But I don't think that means we have to
+build everything ourselves and sacrifice
+this opportunity to use somebody else's.
+At the same time, we don't have to
+sacrifice ownership entirely as well.
+So, it means that we need to be more
+intentional about what we choose to own,
+what we choose to rent, and how we
+maintain optionality in between. And the
+businesses that we're building today, I
+think they're quite incredible feats of
+leverage. We can create million-dollar
+companies with tiny teams precisely
+because we don't have to own and operate
+every piece of infrastructure. But with
+that leverage comes kind of a
+responsibility. the responsibility to
+understand dependencies, document them
+well to build resilience into our system
+and to maintain enough ownership that we
+can still capture the value we're
+creating. As Bootstrap founders, we're
+not just building products, we're
+building assets here. And an asset you
+don't truly own, that's kind of a job
+with extra steps. The key is finding
+that particular balance, leveraging the
+incredible tools and the services
+available to us while maintaining enough
+control that when opportunity knocks,
+either scaling or selling, we're
+actually in a position to answer that
+door. And that's it for today. Thank you
+so much for listening to the wood
+founder. You can find me on Twitter at
+aidkal arv k ahl. And if you want to
+know what everybody's saying about a
+brand on over 4 million podcasts now,
+podscan.fm FM tracks mentions in near
+real time with powerful APIs that turn
+podcast conversations into actionable
+data. And if you're hunting for your
+next business idea, get them delivered
+fresh from the podcast world at
+ideas.podscan.fm,
+where an AI system extracts the best
+startup opportunities from hundreds of
+hours of expert conversations every day.
+Thank you so much for listening and
+bye-bye.

@@ -1,0 +1,273 @@
+﻿several years ago I saw a multi-million
+dollar SAS acquisition not go through
+because of the level of technical debt
+that the application had now
+Acquisitions getting canceled because of
+technical issues are rare but frankly
+any amount of technical debt that you're
+carrying with you over the years or
+decades you run your business it's going
+to be a competitive disadvantage it's an
+anti-pattern and while every app has
+some level of technical debt if you let
+it stack up over time it's going to slow
+down your feature velocity make it hard
+to retain developers because they don't
+want to work on crappy code and yes it's
+feasible that it could even impact your
+ability to get acquired so in today's
+video I'm going to talk about seven ways
+to get ahead of technical debt and keep
+it under control I'm Rob Walling I've
+started six companies five of them
+bootstrap I've written four books on
+entrepreneurship and I've invested in
+more than 125 startups today I enlist
+the help of my friend Derek Reimer he's
+the founder of savvycal and he's written
+tens of thousands of lines of code in
+his life that have processed literally
+billions upon billions of Records
+database records emails sent all kinds
+of things as he was a co-founder and
+Senior developer on drip as well as his
+other engineering efforts so for our
+first Point Let's have Derek kick us off
+so my first piece of advice for avoiding
+technical debt in your code base is to
+write automated tests now there's a
+couple reasons for doing this the first
+is that it helps you verify that the
+code that you just wrote does what you
+actually expected to do and continues to
+do that over time as you modify the code
+base and update dependencies and so on
+but there's a secondary benefit also and
+it's that practicing test driven
+development actually helps you write
+more maintainable code right so if you
+write your test first and then write
+code to satisfy those expectations
+you're going to inherently produce code
+that has better separation of concerns
+is more focused and narrowed in on on
+the task at hand and you're just going
+to inherently produce code that you can
+extend easier over time and other people
+can reason about easier and so for those
+reasons don't skip writing the tests
+approach number two is something that I
+debated whether I should say it or not
+because frankly I would hope that if
+you're writing production code these
+days this is an absolute no-brainer and
+it's to use Source control when I think
+back even 15 years there were a lot of
+developers that I worked with where if
+they weren't working on a team that
+required it they wouldn't use Source
+control now Source control used to be
+more cumbersome used to be more
+expensive used to be more of a pain to
+use and frankly these days the options
+for amazing Source control packages like
+git where you can use them on GitHub
+which you can consume for I think I pay
+Seven dollars a month for my GitHub
+account there's also get lab there's
+bitbucket there's all kinds of places
+you can go online to get Source control
+and Source control frees you up to make
+bold changes I remember 20 years ago
+coding without Source control and we
+would comment out big pieces of the code
+because in case we needed to go back you
+know we didn't have a history it was it
+was scary and that risk is a lot like
+not having unit tests where you cannot
+make bold changes so your code gets
+crusty so I don't want to belabor this
+point because my hope is that if you're
+watching this video you're already using
+Source control but if you're not you
+need to get on that right away now back
+to Derek for Point number three my next
+piece of advice is to aggressively adopt
+Auto formatters linters static analysis
+tools really anything available in your
+developer ecosystem that can
+automatically look after code quality
+issues for you I recommend installing
+these whenever possible into your local
+development environment so that when you
+save a file any checks that can
+automatically run and correct themselves
+will just do so on Save and then
+anything that does require developer
+intervention will hopefully show a
+little blue underlines the developer can
+address it right there before committing
+the code I also recommend installing
+this in your continuous integration
+service so that any little issues that
+might have slipped past the developer
+get caught before you merge the branch
+into production but in general anything
+that you can automate to help improve
+code quality is a win and I recommend
+Point number four for staying ahead of
+technical debt is to slow down it's from
+the start to prioritize code quality to
+invest in proper coding practices design
+patterns and you know debatable maybe
+some documentation so you can ensure a
+solid foundation for your application
+the mistake I see especially
+non-technical Founders make is they'll
+push developers to ship quickly at the
+sacrifice of code quality at the
+sacrifice of unit tests at the sacrifice
+of all the things that we're talking
+about in this video and in the short
+term that can make you ship a bit
+quicker maybe you ship five or ten
+percent quicker but in the long term and
+by long term I mean by the time you hit
+five thousand ten thousand lines of code
+this might be six 12 months in you start
+to grind you start to slow down you
+start to introduce regression bugs that
+don't really make sense because you
+don't have that unit test coverage and
+you have dependencies that you've never
+undone so one way to avoid that is to
+give your developers enough space to
+write high quality code and to not take
+shortcuts make quick fixes that lead to
+technical debt because cleaning up
+technical debt is one thing but if you
+can help not introduce it in the first
+place or at least introduce less of it
+you'll be in a better position my next
+piece of advice is to regularly budget
+time for housekeeping the truth is
+there's no such thing as perfect code
+and especially if you're moving fast
+trying to deliver value to customers
+quickly you're gonna end up making
+trade-offs in the Moment In The Name of
+velocity and I think that's okay I think
+it's healthy to adopt a better done than
+perfect mindset but if you know you're
+making a decently sized trade-off that
+you would like to address at some point
+in the future maybe you duplicated some
+code and you want to refactor that but
+it's not worth doing in the moment we
+like to file tickets for that in a
+bucket we call housekeeping and on a
+regular basis my team and I will go
+through that bucket and make sure that
+it's not getting too large and that we
+don't have too many things stacking up
+that are affecting our code quality we
+generally spend a little bit of time on
+Fridays working on tickets from this
+bucket and also in between bigger
+initiatives we'll pull tickets out of
+there and just kind of make sure that
+that our debt load is not getting too
+high I like to think of this as carrying
+a debt load and making sure that we're
+not headed towards technical bankruptcy
+tactic number six for staying ahead of
+technical debt is to require code
+reviews such that anyone who commits
+code to production has to be reviewed by
+at least one other member of the team
+usually someone that's more senior than
+them but frankly that doesn't always
+have to be the case something that I've
+learned no matter how senior you are you
+can always have blind spots you can
+always make mistakes you can sometimes
+take shortcuts and maybe not realize it
+or maybe you do and having someone else
+even if they're a mid-level developer
+call you on it is a helpful way to keep
+the quality of your code base up if
+you're a solo developer single founder
+obviously there's no one to review your
+code and in the early days you are going
+to have to commit some code to the repo
+without anyone else around but the
+moment you have a collaborator again
+whether they are more senior or less
+senior than you it's a good idea for you
+to review their code and them to review
+yours and it's for things like
+consistency regressions unit tests I
+mean that's a big one right we sometimes
+skimp on our unit tests and having
+someone else call us out on it can be
+helpful I'm not much of a process person
+I tend to like to move fast and not bog
+things down but even on my development
+teams we've always required code reviews
+to keep the quality of that code base
+High my final piece of advice is to
+avoid procrastinating on version updates
+for your dependencies if you're like me
+you have a love-hate relationship with
+dependencies obviously you need them
+because you don't want to reinvent the
+wheel every time you need to do
+something in your application but the
+drawback is they change over time right
+people discover security vulnerabilities
+or maintainers decide to add new
+features and they release new versions
+and anytime you adopt those versions
+there's potential for something to
+unforeseen to break in your application
+which is a bummer hopefully you have a
+robust test Suite to catch any edge
+cases that may crop up and hopefully you
+have error monitoring in place in
+production to look out for random
+attacks options but in general it's best
+to just tackle it head-on when a new
+version is released treated as a
+housekeeping task and keep tabs
+regularly on your key dependencies as
+they change over time and just roll up
+your sleeves and get down to it because
+it only gets more painful the longer you
+wait thanks again to Derek for joining
+me this week you can follow him on
+Twitter at Derek Reimer in a minute I'm
+going to tell you the next video you
+should watch if I feel like you got
+value from this one but before I dive
+into that Mastermind matching is opening
+the week that this video goes live at
+microcomp we have matched close to a
+thousand Founders across a kajillion
+time zones more than 150 approaching 200
+million in Collective ARR microcont.com
+masterminds if you want to check that
+out applications open May 3rd they close
+on May 12th and matches will be sent by
+May 17th if you feel like you're stuck
+on your journey or like you're doing it
+alone and you want to be matched up with
+a handful of other ambitious bootstrap
+SAS Founders who get where you're at and
+can walk alongside you on this journey
+head to microconf.com masterminds if you
+like this video you're probably always
+on the lookout for tools that can help
+you be a better developer check out this
+video where I cover eight developer
+tools you're probably not using yet
+thanks for watching

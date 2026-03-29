@@ -1,0 +1,51 @@
+{
+  "topic_id": 158364,
+  "title": "Manage Student Fee",
+  "slug": "manage-student-fee",
+  "category_id": 40,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-12-27T06:38:27.762Z",
+  "last_posted_at": "2025-12-27T06:38:27.888Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/manage-student-fee/158364",
+  "views": 37,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "dynovative",
+  "posts": [
+    {
+      "id": 489601,
+      "username": "dynovative",
+      "name": "",
+      "created_at": "2025-12-27T06:38:27.888Z",
+      "cooked": "<p>Hi there I have senerio each student have unique fee so does anybody knows how to manage it in education module</p>\n<p>another thing when i created fee schdule and submited then it show create sales invoice instead of create fee</p>\n<p>i have many confusions regarded to</p>\n<pre data-code-wrap=\"json\"><code class=\"lang-json\">{\n\t\"frappe\": \"15.91.0\",\n\t\"erpnext\": \"15.91.0\",\n\t\"education\": \"15.5.3\",\n\t\"hrms\": \"15.52.5\"\n}\n</code></pre>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/dynovative/{size}/92476_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 12,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

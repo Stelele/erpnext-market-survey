@@ -1,0 +1,52 @@
+{
+  "topic_id": 159803,
+  "title": "ERPNext v16 - New Payment Entry - COMPANY Issue",
+  "slug": "erpnext-v16-new-payment-entry-company-issue",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "bug"
+  ],
+  "created_at": "2026-01-25T09:13:57.125Z",
+  "last_posted_at": "2026-01-25T09:13:57.274Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/erpnext-v16-new-payment-entry-company-issue/159803",
+  "views": 48,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "TestMaster",
+  "posts": [
+    {
+      "id": 492456,
+      "username": "TestMaster",
+      "name": "",
+      "created_at": "2026-01-25T09:13:57.274Z",
+      "cooked": "<p>I have a few users on my ERPNext local server. After updating from v15 to v16, only one user is experiencing an issue. He is unable to create a new entry in “Payment Entry.”<br>\nThis error occurs when the user clicks on <strong>New Payment Entry</strong>.</p>\n<p><strong>Note:</strong> We have three users with the same user rights, permissions, and other access. They do not have this issue on any device, but <em>this particular user</em> <em>encounters the issue on all devices.</em></p>\n<p>Frappe Framework: v16.2.1<br>\nERPNext: v16.1.0<br>\nFrappe HR: v16.1.0</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/7/3/73bbf18f5849114279b237fe78c56b1f1b9c57f2.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/73bbf18f5849114279b237fe78c56b1f1b9c57f2\" title=\"Screenshot 2026-01-24 204212\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/3/73bbf18f5849114279b237fe78c56b1f1b9c57f2_2_690x335.png\" alt=\"Screenshot 2026-01-24 204212\" data-base62-sha1=\"gvPzJEKAWsi76JVEFHcCoDPuWzM\" width=\"690\" height=\"335\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/3/73bbf18f5849114279b237fe78c56b1f1b9c57f2_2_690x335.png, https://discuss.frappe.io/uploads/default/optimized/3X/7/3/73bbf18f5849114279b237fe78c56b1f1b9c57f2_2_1035x502.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/7/3/73bbf18f5849114279b237fe78c56b1f1b9c57f2_2_1380x670.png 2x\" data-dominant-color=\"6D6D6D\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot 2026-01-24 204212</span><span class=\"informations\">1919×932 62.9 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/testmaster/{size}/93451_2.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 29,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

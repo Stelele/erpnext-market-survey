@@ -1,0 +1,51 @@
+{
+  "topic_id": 155520,
+  "title": "How to disable reposting of GL Entry in document Stock Entry(Material Issue)?",
+  "slug": "how-to-disable-reposting-of-gl-entry-in-document-stock-entry-material-issue",
+  "category_id": 6,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-10-15T03:36:43.004Z",
+  "last_posted_at": "2025-10-15T03:36:43.075Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-to-disable-reposting-of-gl-entry-in-document-stock-entry-material-issue/155520",
+  "views": 26,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Pejay",
+  "posts": [
+    {
+      "id": 483999,
+      "username": "Pejay",
+      "name": "Peter John ",
+      "created_at": "2025-10-15T03:36:43.075Z",
+      "cooked": "<p>Hi everybody,</p>\n<p>I have customize make_gl_entry for Material Issue so I want to disable the reposting of GL Entry because it executes the original logic of make_gl_entry not my customize.</p>\n<p>Thank you</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/pejay/{size}/67026_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 11,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

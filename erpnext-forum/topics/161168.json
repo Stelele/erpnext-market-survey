@@ -1,0 +1,51 @@
+{
+  "topic_id": 161168,
+  "title": "How to create connection using override_doctype_dashboard linked in child table",
+  "slug": "how-to-create-connection-using-override-doctype-dashboard-linked-in-child-table",
+  "category_id": 11,
+  "tags": [
+    "customization"
+  ],
+  "created_at": "2026-02-27T05:20:27.025Z",
+  "last_posted_at": "2026-02-27T05:20:27.158Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-to-create-connection-using-override-doctype-dashboard-linked-in-child-table/161168",
+  "views": 17,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Pejay",
+  "posts": [
+    {
+      "id": 495142,
+      "username": "Pejay",
+      "name": "Peter John ",
+      "created_at": "2026-02-27T05:20:27.158Z",
+      "cooked": "<p>Hi guys!</p>\n<p>I am overriding the dashboard of Journal Entry. I want to add Payment Entry in the connection tab, but the Journal Entry ID is linked inside the Payment Entry child table which is Payment Entry Reference. How am I able to implement this?</p>\n<p>I recently tried this but it doesn’t work for me<br>\n<span class=\"hashtag-raw\">#Note:</span> this function has already hooks</p>\n<p>def override_journal_entry_dashboard(data):<br>\ndata[“non_standard_fieldnames”].update({<br>\n“Payment Entry Reference”: “references.reference_name”<br>\n})<br>\ndata[“transactions”].append({<br>\n“label”: _(“Payment”),<br>\n“items”: [“Payment Entry”]<br>\n})<br>\nreturn data</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/pejay/{size}/67026_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 6,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

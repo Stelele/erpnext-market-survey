@@ -1,0 +1,53 @@
+{
+  "topic_id": 154457,
+  "title": "[App showcase] NextAI – Smarter, More Connected, and Transparent 🚀",
+  "slug": "app-showcase-nextai-smarter-more-connected-and-transparent",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "customization",
+    "frappe"
+  ],
+  "created_at": "2025-09-25T08:04:00.383Z",
+  "last_posted_at": "2025-09-25T08:04:00.502Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/app-showcase-nextai-smarter-more-connected-and-transparent/154457",
+  "views": 74,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "erpnextai",
+  "posts": [
+    {
+      "id": 482057,
+      "username": "erpnextai",
+      "name": "ERP Next AI",
+      "created_at": "2025-09-25T08:04:00.502Z",
+      "cooked": "<p>Hi Everyone,<br>\nWe’ve rolled out new updates to <strong>NextAI</strong>, the Frappe custom app that brings Google’s Gemini AI into ERPNext.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/7/5/75cb5f2d6fdf4ccd7b180b59301fad0d1d7190b4.jpeg\" data-download-href=\"https://discuss.frappe.io/uploads/default/75cb5f2d6fdf4ccd7b180b59301fad0d1d7190b4\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/5/75cb5f2d6fdf4ccd7b180b59301fad0d1d7190b4_2_496x500.jpeg\" alt=\"image\" data-base62-sha1=\"gO3AkUToOVsyaUrRuRGYLur8R5W\" width=\"496\" height=\"500\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/5/75cb5f2d6fdf4ccd7b180b59301fad0d1d7190b4_2_496x500.jpeg, https://discuss.frappe.io/uploads/default/optimized/3X/7/5/75cb5f2d6fdf4ccd7b180b59301fad0d1d7190b4_2_744x750.jpeg 1.5x, https://discuss.frappe.io/uploads/default/original/3X/7/5/75cb5f2d6fdf4ccd7b180b59301fad0d1d7190b4.jpeg 2x\" data-dominant-color=\"F0F3F7\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">802×808 97.8 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<h3><a name=\"p-482057-whats-new-1\" class=\"anchor\" href=\"#p-482057-whats-new-1\" aria-label=\"Heading link\"></a><img src=\"https://discuss.frappe.io/images/emoji/twitter/magnifying_glass_tilted_right.png?v=15\" title=\":magnifying_glass_tilted_right:\" class=\"emoji\" alt=\":magnifying_glass_tilted_right:\" loading=\"lazy\" width=\"20\" height=\"20\"> What’s New</h3>\n<ul>\n<li><strong>Community Support</strong> – Join our <strong>WhatsApp</strong> and <strong>Telegram</strong> groups to get instant updates, share feedback, and connect with other users.</li>\n<li><strong>Daily Usage Report</strong> – Track how many AI hits are being used in your ERP.</li>\n<li><strong>Usage Log</strong> – View detailed logs of AI usage for better monitoring.</li>\n<li><strong>Usage Chart</strong> – Visualize daily AI usage directly inside ERPNext.</li>\n</ul>\n<h3><a name=\"p-482057-free-ai-hits-2\" class=\"anchor\" href=\"#p-482057-free-ai-hits-2\" aria-label=\"Heading link\"></a>Free AI Hits</h3>\n<ul>\n<li>Get assured <strong>up to 1500 free AI hits per day</strong> with NextAI.</li>\n<li>We’re planning to improve this to <strong>10,000 free hits</strong>, so you can explore more without limits.</li>\n</ul>\n<h3><a name=\"p-482057-recap-what-nextai-does-3\" class=\"anchor\" href=\"#p-482057-recap-what-nextai-does-3\" aria-label=\"Heading link\"></a>Recap: What NextAI Does</h3>\n<ul>\n<li>Generate ready-to-use content (policies, terms, T&amp;Cs)</li>\n<li>Correct grammar and improve clarity in real-time</li>\n<li>Enhance existing text with contextual AI prompts</li>\n<li>Works across multiple editor fields in ERPNext</li>\n</ul>\n<p><img src=\"https://discuss.frappe.io/images/emoji/twitter/backhand_index_pointing_right.png?v=15\" title=\":backhand_index_pointing_right:\" class=\"emoji\" alt=\":backhand_index_pointing_right:\" loading=\"lazy\" width=\"20\" height=\"20\"> Try it out: <a href=\"https://cloud.frappe.io/marketplace/apps/next_ai\" rel=\"noopener nofollow ugc\">NextAI on Marketplace</a><br>\n<img src=\"https://discuss.frappe.io/images/emoji/twitter/backhand_index_pointing_right.png?v=15\" title=\":backhand_index_pointing_right:\" class=\"emoji\" alt=\":backhand_index_pointing_right:\" loading=\"lazy\" width=\"20\" height=\"20\"> Website: <a href=\"https://www.erpnextai.in/home\" rel=\"noopener nofollow ugc\"> ERPNextAI</a></p>\n<p>We’d love for you to try these new features, join the community, and share your feedback. Your input helps us shape NextAI into a more powerful companion for every ERPNext user.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/erpnextai/{size}/88977_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 34,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 2,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

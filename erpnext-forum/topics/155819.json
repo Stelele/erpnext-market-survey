@@ -1,0 +1,51 @@
+{
+  "topic_id": 155819,
+  "title": "Manufacturing use case",
+  "slug": "manufacturing-use-case",
+  "category_id": 19,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-10-21T11:03:01.578Z",
+  "last_posted_at": "2025-10-21T11:03:01.696Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/manufacturing-use-case/155819",
+  "views": 55,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "DakshKothari18",
+  "posts": [
+    {
+      "id": 484538,
+      "username": "DakshKothari18",
+      "name": "Daksh Kothari",
+      "created_at": "2025-10-21T11:03:01.696Z",
+      "cooked": "<p>I have 3 machines which do the same work cutting, I create 3 operations in BOM for these 3 machines with different workstations. 3 job cards are create on submitting the work order. Now I completed the whole manufacturing quantity using 1 machine rest I submitted as 0 quantity manufactured. so How will I implement this use case in ERPNext. Because Workorder is not allowing me to finish.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/dakshkothari18/{size}/84622_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 16,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

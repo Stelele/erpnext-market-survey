@@ -1,0 +1,886 @@
+﻿[Music]
+all right who has had an interaction
+with the American healthcare system
+lately yes okay so maybe you went for
+yourself maybe for a loved one if you
+went for you do you remember getting a
+survey in the mail afterwards maybe
+email its allegedly under the guise of
+understanding the patient experience
+does it sound familiar anyone get these
+good ok yeah so if you don't or if you
+haven't had the great pleasure of going
+to an American Hospital here are some
+background many American hospitals are
+required to send out these surveys which
+again under the guise of understanding
+and improving the patient experience
+they will ask you questions like was
+your nurse courteous did your
+appointments start on time did your
+doctor explain your medication and if
+you happen to have observed something
+outside the scope of the 32 questions
+survey you get a tiny little line at the
+bottom and that's where you got to say
+there were no signs in the parking
+garage I could not figure out how to get
+to the office that's where you get to
+say there was an error in my medical
+file I don't have that disease that's
+where you get to say hey I came in cuz I
+need a rabies vaccine it's a life or
+death situation and no one could tell me
+how much it cost these surveys are
+required by law and they go out to
+understand patient experience allegedly
+and yet if you receive one while you're
+in the middle of a health crisis how
+does it feel I'll tell you how it makes
+me feel makes me feel angry it makes me
+feel frustrated it makes me feel
+extremely powerless against this
+monolithic bought up multi Hospital
+health care system that no one can tell
+me how much a vaccine costs it's
+extremely frustrating and yes and yet
+many of us are keen to send some of
+these surveys ourselves what she brings
+me to the topic of today's talk which is
+voluntary churn and specifically how we
+investigate an address voluntary churn
+so it's very easy to send out these
+multiple choice surveys anyone sending a
+multiple-choice survey out people cancel
+you say why'd you cancel
+couple of options oh my gosh none of you
+all right well this talks gonna be
+useless you can go have a break we're
+gonna address some of the things that
+you can do instead anyway so one of the
+challenges with how we investigate
+multiple-choice or how we investigate
+churn is that we send out a
+multiple-choice survey with a set of
+finite reasons for why people could have
+cancer and just like that Hospital
+survey that asks you if the nurse was
+nice to you is not actually asking you
+about this entire breadth of your
+patient experience these surveys do not
+give you a full understanding of what is
+happening that causes people to cancel
+now before before we get too far into it
+I want to give you a road map for the
+talk we will have today I want to
+encourage you to reframe your
+understanding of customer research even
+if you're not doing multiple-choice
+surveys just great I want to show you
+how you can gather a set of qualitative
+data instead very similar to what Joanna
+also spoke about and then finally I want
+to leave you with a road map for how you
+can set up these systems for
+understanding and addressing what's
+happening with voluntary churn even if
+you don't have a research team now
+before I get too much further or too
+much further too much further along
+anyway who here was here last year and
+heard Joanna or heard Claire swell on
+tops talk on jobs to be done style
+research yeah so okay now I'm gonna be
+judgey who went home and did the
+homework who interviewed ten customers
+transcribe the interviews extracted the
+insights okay we have some teachers pets
+that's great
+but if you didn't I understand I
+empathize with you I likewise beat the
+drum of interviewing your customers but
+I completely understand that going from
+not having a system for qualitative
+research not getting that data to
+implementing all of the systems can be
+overwhelming and so it becomes a someday
+project someday I will figure out who I
+need to interview
+someday I will decide what questions I
+should ask them some day I'll transcribe
+it and I don't know Google what to do
+with the transcription of a customer
+interview and someday is the timeline
+for most people's research projects
+profit will resist this great benchmark
+study on customer research and
+specifically how few of us do it
+they found that 70% okay so 70% most
+businesses 70% is most do not do
+research do not talk with their
+customers 70% of businesses talk with
+fewer than 10 customers on a monthly
+basis irrespective of revenues
+so we're solo founders maybe we're not
+at 50 million dollars a year but the
+businesses that get there still don't
+talk to their customers now if you're on
+a some day timeline for understanding
+what's happening with voluntary churn
+and if you have some intermediary
+technique maybe your multiple choice
+surveys or maybe you send out an
+occasional email maybe you Google if
+people are bad-mouthing you on Twitter
+or more likely you just have three other
+30,000 other things on your to-do list
+so how are you going to squeeze it all
+in if you rely on these intermediary
+techniques you will not understand why
+people are leaving and why do you need
+to understand why people are leaving if
+you don't understand why they're leaving
+you can't possibly know what to address
+I am an onboarding email writer I am a
+conversion copywriter just like Joanna
+but I am here to tell you that
+onboarding emails or copy of any kind
+may not be the solution if you have
+other things going on that are causing
+churn so if you don't know why something
+is happening you can't adopt the tool of
+the quantifier you need to be an
+investigator if you're an investigator
+or if you're a quantifier that means
+asking these multiple choice surveys
+when you send one of these out and I
+know no one admitted it to sending them
+out but we'll pause and talk about them
+anyway if you send a multiple choice
+survey out with a set of finite reasons
+for why people could have cancelled and
+if you do this at any stage of your
+business whether you're asking
+they signed up what brought them here
+today if you're sending out a
+multiple-choice survey with a set of
+finite answers you create two problems
+in your business
+the first is false confidence and the
+second is working on things that won't
+help the problem so tree illustrates the
+problem of false confidence and invite
+you to think back of the first person
+who broke your young heart and after
+they ended things did you write a survey
+and pass it across the table at study
+hall asking them the reason why of
+course not this would be a completely
+ludicrous way of understanding why a
+relationship between two people has
+ended here's how it builds false
+confidence you could send this survey to
+three of your old significant others and
+they could all tell you it's not you
+it's me and you might think that's real
+useful data but the real answer for why
+people ended it with you wasn't even
+there so you may walk away thinking you
+have an understanding of why people are
+ending things with you maybe you're
+going through a new partner every every
+other month sophomore year but in
+reality you have some more thing you
+need to do on yourself we know these
+surveys are weird and ludicrous nobody
+sends them and yet we're more than happy
+to send them in a setting where we have
+a business relationship the same
+situation applies if you ask people why
+they have cancelled and you give them an
+option to choose between price or not
+enough time or they're not using it they
+may all tell you that they're cancelling
+because of price but what do you do with
+that information do you lower lower your
+price raise your price how do you make
+sense of this without any additional
+context so you build this false
+confidence when you send these surveys
+or when you send any kind of quantifying
+methodology or research methodology
+before you do your investigation the
+second problem that stems from this
+false confidence is that you work on
+things that don't matter
+people are canceling because you have
+problems that you may not be addressing
+like I said copywriting might not fix it
+if you've got some bug problems on the
+flip side if you're just really good
+maybe you're so good that people
+graduate out of your
+and they no longer need you if you sell
+recipes maybe you teach people how to
+cook they come to you hangry and then
+you teach them to boil water to fry an
+egg and then after six months they're
+hosting their France over for thirteen
+course meals every other weekend they
+don't need you anymore if this is what's
+going on having some kind of new email
+funnel even having some new feature may
+not be the factor that's going to
+address why people are leaving okay
+so if having a survey if asking people a
+set of finite questions about what's
+their what their main reason for
+canceling is the tool of the quantifier
+and it is not going to work what's the
+tool of the investigator just like
+Joanna said it's the open-ended question
+you can send it when people sign up
+what's going on in your world that
+brought you here and why did you cancel
+now an open-ended question we didn't
+know one hassle Joanna about it but I
+know some of you are thinking that's
+anecdotal that is open-ended that's not
+that's just one or two people's opinion
+and besides we have to look at their
+behavioral data we can't look out the
+words our customers say if I had to ask
+them what they wanted they would have
+told me a faster horse right we know
+this narrative that we can't be
+listening to our customers but your
+customers know exactly why they
+cancelled and they will tell you and you
+can ask them when you ask this question
+you generate voice of customer data
+before Joanna's talk today or before
+this one who heard this term oh boy okay
+words of customer data is it term I use
+every day and I was so confident that
+everyone else would know it that I
+almost put it in the title until Rob
+talked me out of it
+so I want to explain what this voice of
+customer data is why it's so powerful
+why it's so meaningful why it's so
+impactful for understanding why people
+are leaving how you can use what they
+tell you to address the problems that
+are causing churn then I'm going to show
+you how to manipulate this qualitative
+data because I know you all have very
+long to-do lists and you're not going to
+want to walk away from here not all
+everyone as a teacher's pet who does who
+will just do the work without giving you
+a system so what is voice of customer
+data
+it is the raw it is the unedited it is
+the non summarize expletive it Laden
+grammatically incorrect exact words your
+customers use to describe their problem
+just like Joanna said those words that
+like confidence that can appear when you
+have multiple conversations with people
+they're living in your support these
+this dad is living in your support chats
+it's living in your Twitter feeds it's
+living in your emails that you have with
+people and in your sales conversation
+it's everywhere so I want to talk about
+how you can make this voices deaf
+customer data at work for you you need
+to collect it you need to organize it
+and you need to share it and when you do
+this for your entire business and you
+may have a voice of customer program
+you'll be able to address more problems
+but for starters how you address it for
+churn you can start with your open-ended
+question of asking why did you cancel to
+show you why this is so important I want
+to share an example for my own work
+there is a great SAS product that had a
+very high cancellation rate people who
+stay were happy but people who left were
+unhappy so he sent out a survey that
+said why did you cancel I may have six
+different reasons and in the meantime we
+sent an email from the founder in plain
+text creating a conversation asking why
+did you cancel and we found 29
+completely unique reasons for why people
+were canceling that had absolutely no
+parallel to the reasons we asked them
+about we said is price a factor they
+said I can't find this feature we said
+is the available or the amount of
+content something that's influencing
+your decision they said I'm scared what
+people will think of me if I use this
+product if you do not ask your customers
+why 29 reasons therefore the visual
+learners if you do not ask your
+customers why you will not understand
+how you can address sure so if multiple
+choice surveys if sending finite set of
+finite reasons for why people have
+canceled can give you a sense of false
+confidence and lead you to work on the
+wrong
+things if asking your customers why they
+have done something can allow you to
+work on the right things thank you view
+some actionable data how do you start to
+make sense of it as a bootstrapper as a
+solo founder is this a member of a small
+team someone who doesn't have the kind
+of 50 person research staff or research
+operational team that a fortune 500
+company might have I like to start by
+grouping the reasons that come in into
+different categories of problems I want
+to know is this an us problem do we have
+a problem with our products or people
+telling us that there's broken things we
+need to fix is it a damn problem is
+there something happening on the other
+side of this screen that has nothing to
+do with us or is it some kind of missed
+connection we could help you but you
+haven't figured out how and we haven't
+made it easy for you what are some
+examples I have seen people say that
+they cancel because there are bugs big
+reason crashes I recently started using
+a video software and the time markers
+were very difficult to use so I stopped
+using it it was easier for me to record
+export download edit re-upload than it
+was for me to deal with these two tiny
+little time markers so I cancelled do
+you could have a problem that's
+happening on your customers side my boss
+said no a lot of these are code for
+something else I have no time I'm not
+using it I'm not seeing the value this
+could be a number of different things
+there could be a number of different
+things hiding underneath of what's
+happening here and then finally there's
+miss value problems and these are where
+you can start to see you void these are
+some of your lowest hanging fruit
+because your customers are coming to you
+with a specific problem that your
+product solves but they haven't been
+able to make that connection so when you
+ask people why they have cancelled you
+can get all the responses that come in
+and group them into your product
+problems for customer centric problems
+and your miss value problems
+from there you can start to get a little
+bit more nuanced that's when you can say
+all right should we instead of thinking
+about whether or not we should build
+this new feature ship this new email
+sequence you can say 30% of people have
+told us this one thing is really bad and
+really frustrating when you get really
+advanced you can say 30% of people who
+are on our highest price plan complained
+about this specific thing a hundred
+percent of people who are working on
+lower price plans complain about
+something else
+so how do you investigate how do you
+operationalize this process there's two
+buttons on here and I keep pressing the
+wrong one so there are three things that
+you can do to make this easy so that you
+don't have to obliterate your to-do list
+first you can set up an email it goes
+out every time somebody cancels and
+you're the responses come to you
+now the next step is extremely important
+you must extract all of the responses
+all that qualitative voice of customer
+data that comes in and take it outside
+of your Inbox outside of your type form
+wherever you are collecting it and put
+it someplace where you can manipulate it
+and then finally is where you can once
+you have it out then you can start
+moving it around so here's the email
+that I want you to send any time
+somebody cancels I want you to send them
+an email from you or someone else high
+up with high status and your
+organization may be somebody that
+canceling customers are likely to have
+chatted with I want you to thank them
+for their business and I want you to say
+why did you cancel please respond to me
+and tell me in this situation the call
+to action is not go to a type forum it
+is not go fill out this one question
+survey it's respond to me I am one human
+who had a relationship with you now we
+do not please talk to me and I have
+found very high success rate sending
+this email people really do respond
+after you send it what can you do with
+the responses that you receive when you
+begin setting up your voice of customer
+program when you begin looking into the
+reasons people provide you for why
+they have canceled you're not going to
+have a lot maybe get 50 people maybe you
+get hundreds and you can have a great
+starter voice of customer program where
+you look at the reasons for why people
+have done something you can all live in
+a Google Doc or spreadsheet or an air
+table then you can start saying all
+right as these responses come in more
+and more we can push them out in a
+designated slack Channel so everyone in
+the company sees exactly what's
+happening when people are canceling and
+then finally when you start getting
+really good at organizing voice of
+customer data I strongly recommend
+investing in a research aggregation tool
+this is a relatively new product
+category I love enjoy HQ full disclosure
+I have a phenomenal working relationship
+with this company I get no money out of
+telling you how amazing they are when
+you're when you're able to advance your
+voice of customer program when you're
+able to formalize how you treat that
+qualitative data that you're collecting
+to the same extent that you quantify all
+of your behavioral metrics you're able
+to make more impactful more meaningful
+more customer driven decisions and
+having all of your voice of customer
+data not just the responses people give
+you but everything people say in
+intercom or Zendesk everything that
+people say about you on Twitter every
+time you have an interview with the
+customer and you transcribe it where do
+you where do you put this information
+how do you deal with it how do you make
+sure everyone has it you can put it in
+the tool that everyone can have access
+to but maybe you're not there yet if
+you're not I would strongly encourage
+you to have a hallway conversation with
+Jordan the card or Jordan of card hook
+the card hook team is doing a pretty
+meet in proto voice of customer program
+once a week the customer facing team
+reviews the exact words not the
+summaries the exact words that customers
+use to describe what's going on in their
+world and they share this information
+with the non customer facing teams they
+call it a locus is anyone heard of locus
+this is an idea that comes out of Amazon
+and when you start having programs like
+this you're able to say okay our team
+like jordans was four people now it's 18
+people not everyone is talking to
+customers not everyone understands what
+might be the reasons for why people
+cancel or why we might want to choose to
+fix one problem versus another problem
+okay so I told you earlier that I fully
+recognize that your anecdotal voice of
+customer data may Briss me cause some of
+you bristle a little bit after you have
+collected it then you can quantify it so
+if you come in trying to investigate
+churn by saying I don't know I guess
+it's these reasons or I heard a couple
+of people saying this is why they
+cancelled or this guy dragged us on
+Twitter for this problem that we need to
+address if you start to get a
+significant volume of why of qualitative
+exact phrasing exact pain points that
+your customers use you can say this is
+where we're facing the biggest problems
+maybe one feature is bad maybe more
+multiple features are causing some some
+situations that story I shared with you
+earlier where we sent an email and 29
+different reasons for cancellation came
+back we found that many of the responses
+had two reasons people cancel because
+there was more than one thing they hated
+about it a not unceremonious four
+reasons so when you allow your customers
+to have more than one reason for why
+they're cancelling you can start to
+quantify all these different reasons
+across the spectrum of your whole base I
+will say that I agree with you
+quantifying your reasons for turn is
+extremely important but most people
+either do not choose to investigate it
+or choose to investigate it too early
+okay so if investigating a problem with
+the tool of the quantifier with a set of
+finite options that you force people to
+select because you think it might be the
+reasons for why they're doing something
+if that has its shortcomings
+and if the qualitative data you should
+be collecting instead is the exact words
+people have that reason for why they're
+canceling and if you have these systems
+set up so you're always collecting it it
+can you can set it up in an afternoon
+and you're just always collecting this
+data so you don't have to be constantly
+wondering and worrying about who you're
+going to interview and when it's just
+there doing it and you can pop in and
+monitor as you like then what happens
+for your business the first thing is
+that you can work on things that are
+actually broken if people are canceling
+your product because and then you ask
+them why and they tell you they have not
+had enough time to use it what does that
+mean but if you ask them why and they
+tell you this particular part of the
+user interface was just a nightmare and
+I couldn't navigate it my computer sits
+over here and I'm over here because I'm
+using it to with another with something
+in between us then you can say all right
+well there is more to this problem than
+we understood just like Joanna said John
+is amazing talk it hurt Joanna's
+understanding of voice of customer data
+is greatly influenced mine she's taught
+me a lot of what I know her way of
+saying you need to look at what your
+customers what's going on in your
+customers world applies to investigating
+other problems outside of sales and when
+you do this the hill from Gumroad has
+generously shared this story on Twitter
+it you may need to have a better
+onboarding flow you may have all
+boarding emails that really confuse your
+customers and make it really tricky for
+them to get started but that may not be
+the highest priority area for you to
+spend your time and if you instead
+choose to investigate why things might
+be happening fix some actual problems
+then you can start to see more
+meaningful results so
+with this I I leave you to please go ask
+your customers open-ended questions I
+know I completely empathize with how
+difficult it can be to set up a
+qualitative data program which is why I
+strongly encourage you to build in some
+of these systems so you're automating
+how you collect this data and where it
+goes and what you do with it and who can
+see it and then you'll be able to start
+working on some of the things that are
+truly addressing trim so go find out why
+thank you what do you think about
+forcing your customers to give you
+qualitative feedback like we're not
+gonna allow you to cancel until you tell
+us what to do or if you want to keep
+your trial name and everything while you
+still decide you need to tell us you
+know why you're not continuing right now
+what do you think about you're forcing
+your customers to give you feedback I
+have mixed feelings I mean I would not
+force anyone to do anything as a just
+kind of a matter of principle I would
+not do that I would you can set up the
+systems inside the cancellation process
+so you can say one more thing before you
+go
+I like sending an email because you're
+having a conversation I got an email
+anytime I send an email to someone who
+has a CEO or some very high status and
+they respond to me it just makes my day
+so that's why I like that method but yes
+you can absolutely use the embedded type
+form method that Joanna suggested for
+asking why people signed up a great talk
+Ally we've had like four or five
+different variations of some Oh some
+open-ended question about why did you
+cancel and maybe it's just inherited our
+product but I still always get back no
+longer needed that's like the number one
+thing and so I'm guessing we need like I
+was trying to do some like exit
+interviews so when you're even with
+open-ended questions you're still not
+getting the level of data you need
+what's the next step in what would you
+recommend in that case that is a great
+question I know some of the talks
+tomorrow going to dig into the
+methodology that you could have
+or the methodology for conducting
+interviews what I would suggest is if
+you were having a conversation and
+people are are people truly responding
+with three words like no longer needed
+or are they giving you a like a complete
+sentence or like maybe a little more
+yeah a little bit of both some people
+are lazy and they'll just say no longer
+needed some a little bit more will get
+too expensive which again it's like is
+it
+are we not providing out value or are
+you actually not have the money and so I
+just we just don't get that like extra
+level that we need for it to be
+actionable yeah so the the cool thing
+about having the first point of
+investigation be an email conversation
+is that someone who responds to you is
+much more likely to respond to your
+question to say thank you for sharing
+this piece of information your feedback
+is really important and if you are open
+to it I would I would love to schedule
+some time at your convenience to talk a
+little bit more about your experience I
+have found that people who are
+cancelling have very strong opinions
+they're very keen to share and this is a
+very someone's already told you they
+have an interest and this is a good way
+to get a little bit more thanks Ali on
+that note I was wondering so we did send
+out an email and like a personal email
+asking it was when people subscribed
+asking like hey what what are you
+planning and I'm like what's your
+biggest problem that you're trying to
+solve with our tools right and I go back
+I don't know like a good couple of
+emails spend the next three four days
+answering to all those emails and so
+it's one of those things where you can
+do that once and set up as a campaign
+how do you feel about sending out this
+personal emails but then like not
+actually being able to answer personally
+this is a great point that was in the
+original manuscript and I skipped right
+over a round slide for so when you are
+first starting off this process it's
+relatively manageable if you do not have
+a high volume of people canceling of
+course you will get to a point where you
+have
+a lot now there's two approaches that
+you can take one is if you're getting
+lots of people who are canceling you
+could choose to respond to some people
+you could choose to change the language
+so you're not guaranteeing a response if
+you have another person on your team who
+can respond to those emails on your
+behalf it's not ideal but it's very
+common practice then that can be another
+way to address the volume of intake I
+will say the firt the first time that if
+a CEO is not accustomed to sending out
+emails to the customer the first time
+you get an influx it's gonna take up
+your whole week in the b2b space where
+there could be several users on an
+account and the person who actually
+clicks the cancel button might not be
+the person who's making the decision
+that might have the credit card whatever
+how do you choose how you're gonna
+survey that company to find out where
+that why they're cancelling that is such
+a great question
+when you have all these different
+decision-makers and some are champions
+and I like to call some of the others
+maybe even antagonists how do you decide
+I think it kind of depends which is less
+of a non-answer than it sounds like
+there are a few different ways that you
+could approach it you could start by
+saying alright the person who signs had
+their name on the credit card and they
+canceled maybe they are not the main
+person using it but they may have the
+most information about why you could
+start there you could also look at
+people's behavior who is logging in a
+lot and then all of a sudden stopped
+it's a little bit less automated here
+and there's a little if your email stack
+is it's so advanced that you can have
+all these different filters and set them
+up in such a way then cool
+I would I would start by making this
+kind of a manual process if you have
+teams because there's a lot more
+dynamics that go into it yeah hi Ally I
+thank you again so in a world where we
+were thinking we had six reasons and we
+actually had 29 yeah how do we think
+about prioritizing you know what's
+possible and and you know where to start
+especially when we have limited
+resources
+great question Hannah's going to give a
+really deep dive talk on prioritization
+tomorrow no pressure Hannah what what I
+find is that the first time
+you do this it's immediately obvious the
+very first time you do it many people
+will have the same problem and it's
+likely something that you're already
+aware of somewhere so that's the first
+thing that I look to like to look at
+there's a you the other things I like to
+consider are whether or not this is
+someone who is on a there's a typical
+kind of customer forest is this someone
+who is likely to do they fit the profile
+of who we think we are serving are they
+on a high paying plan were they on a $5
+a month plan hopefully not that's
+hopefully not that's not one you have
+and then starting to see where those
+problems can be the most impactful is
+this how much of this would you say
+would also apply to someone who does not
+have like a SAS business is not dealing
+with churn it's all one-time sales kind
+of thing and someone who maybe wants a
+refund or something like that is that
+your business yeah yeah that's a
+hypothetical as me yeah are you getting
+a lot of free time the only non SAS guys
+it feels like sometimes do you get a lot
+of refund requests no very very few but
+when they come in I guess like sometimes
+the challenge of maybe not so much a
+refund all the time but it's like a
+block or two why they're not buying I'm
+gonna try and get them to go over that
+at that point okay yeah so another
+implication for having some of these
+automation setup where you're asking
+questions and gathering this data is
+being able to say ask people who did buy
+what was going on in your world that led
+you to my product today and also being
+able to send out emails that say hey was
+there something you were hoping to get
+that you did not get that's what I would
+recommend there there's probably there's
+a little bit more to it but we can talk
+about that later
+great
+run robbed run
+thank you so much for a great talk I was
+wondering whether there is an
+opportunity here to be gathering this
+kind of information before the patient
+has died where the were I mean if you do
+have a support function right or have
+you being able to is there a way to be
+trying to gather this data from people
+who are at a point of distress but not
+yet cancellation or is that data going
+to be as valuable as clearer relative to
+like just the post Morton Alice as we're
+doing now yeah okay so the more time
+that you have to spend the more staff
+that you have to investigate this the
+better because there are ways to
+investigate almost any question for this
+one in particular when you have a
+research aggregation tool you can look
+at for example what are the support
+tickets that people had a week before
+they cancelled what was what was the
+thing they were trying to ask us about
+and then we didn't hear from them again
+or they cancelled their payment that's
+where I would start we have time for
+maybe one or two more any other
+questions so one more I find is very
+fascinating and so what if you like you
+have this set up you get this data
+regularly you don't have somebody who's
+dedicated to doing this in the company
+and so and this is definitely something
+that happens with us it's like yeah we
+have those surveys go out and somewhere
+I guess we're using hot Java or
+something but and and then it just so
+how would you go about a system where
+you actually like would you put somebody
+in charge of that are you like
+suggesting to look at it on the regular
+basis like how would you go about
+systematizing the actual looking at the
+data not just the collecting cuz that's
+the easy part
+yes the collection is the easy part
+there are a few different things that I
+have seen work really well one is to
+have one designated time even if it's 15
+minutes a week
+we're like in Jordan's example where
+people are discussing
+data actively another is to have digests
+that go out so anytime you get a
+significant volume of data maybe it's
+after the end of every month you can
+push that out to everyone in your team
+those are the most basic things the more
+the more people who are involved and
+need to be looking at it the more that I
+would encourage people to be have access
+to wherever the data is stored instead
+of some kind of reminder system to have
+people go in and look at it because
+reviewing data is a very cognitively
+easy task you can you get your reminder
+you're going to look at it so it's very
+often having that tiny little thing can
+be can be the difference
+thank you very much Ellie thanks
+everyone
+[Applause]
+you

@@ -1,0 +1,52 @@
+{
+  "topic_id": 160564,
+  "title": "Problem Self Hosted Mercury email server IMAP not able to login",
+  "slug": "problem-self-hosted-mercury-email-server-imap-not-able-to-login",
+  "category_id": 11,
+  "tags": [
+    "erpnext",
+    "installation_problem"
+  ],
+  "created_at": "2026-02-11T12:15:49.981Z",
+  "last_posted_at": "2026-02-11T12:15:50.142Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/problem-self-hosted-mercury-email-server-imap-not-able-to-login/160564",
+  "views": 12,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "GentleRV",
+  "posts": [
+    {
+      "id": 494003,
+      "username": "GentleRV",
+      "name": "GentleRV",
+      "created_at": "2026-02-11T12:15:50.142Z",
+      "cooked": "<p>Are there problems with login for a self-hosted email server?</p>\n<p>Using the mail server Mercury from David Harris (<a href=\"http://pmail.com\" rel=\"noopener nofollow ugc\">pmail.com</a>) it is not possible using erpnext to create email accounts as login to the IMAP server fails with unknown user or password</p>\n<p>Login using a client like thunderbird does not give problems same is valid for Pegasus the email client</p>\n<p>Any one have some advice?</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/gentlerv/{size}/90722_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 5,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+﻿hey it's Arvid and this is the bootp
+founder this episode is sponsored by
+paddle.com
+yesterday I Shrunk the size of my
+production database from 4 terabytes to
+just under 1 tbyte and I know it's still
+ginormous but this change has been very
+impactful for pot scan in several ways
+something interesting happened last
+weekend that made me realize I needed to
+change how I think about scale while I
+was checking my monitoring dashboards I
+noticed a pattern in pots scan's data
+ingestion that would significantly
+change how I approach orchestrating my
+bootstarp business so let me back up a
+bit and give you some context here podan
+has grown to process millions of podcast
+episodes I think we have 15 almost 16
+Millions episodes in the database right
+now and that database now is multiple
+terabytes in size it's 4ish four plus
+something terabytes in size that's all
+just text all transcripts isn't a
+massive Treasure Trove of information of
+conversations of content and it's very
+up toate but just looking at it as a
+Founder this creates an interesting
+tension for me I need to keep the
+business running lean and have low
+expenses while handling this ever
+growing mountain of data and with about
+6 months of Runway left that what I'm
+looking at right now I'm at that
+critical stage where every decision
+about scale really really matters the
+good news is that if if the current
+subscriber growth continues we will hit
+profitability within those 6 months but
+here's the catch we'll only get there if
+I can threat this needle between very
+competing forces growing revenue of
+course right making money while keeping
+the expenses in check or better yet
+finding ways to reduce costs without
+compromising the product and back to
+that weekend observation that kind of
+plays into this I noticed something
+fascinating in the ingestion pattern
+that I have on week days ptan processes
+around 50,000 episodes every day and
+roughly 40 42,000 of them are fresh
+releases that happen on that day but on
+weekends the number of new episodes
+drops
+dramatically sometimes as low as 5 to
+10K on a Sunday or Saturday morning it's
+really crazy like it's 40K during the
+week every single day and then like 5 or
+10 on the weekend nobody releases a
+podcast on the weekend people release on
+Monday because they want to you know get
+people's first thing in the week or they
+release on Friday so people can listen
+to it on Friday on their way home or on
+the weekend but people rarely ever
+release on the weekend so that means
+during the week pocan is processing 25%
+more episodes than necessary right it's
+it's 40,000 data and 50,000 uh processed
+and on weekends we're running at nearly
+full capacity mostly processing
+historical backlog because that's what
+podan does if there's nothing fresh it
+goes into the history of podcast grabs
+one transcribes that goes back in time I
+think when I look at my queue that I
+have for old episodes I think we're like
+two months in the past we're looking at
+what is this like Late July episodes
+right now that that I didn't get to do
+then that's how we run backwards through
+time and that's when it hit me I think
+we're over indexing the resources that
+we have right now on content that might
+never provide value to our users both in
+terms of these older episodes that
+aren't really much interest to someone
+who needs a words for mentions on
+podcasts right now and even within the
+freshly released episodes there's like a
+potential lack of value and this
+realization this thought just having
+this H kind of moment led me to a
+question questioning the core assumption
+that I had about pod scan do we really
+need to process every single podcast
+episode immediately I wanted this from
+the beginning to be the thing that pocan
+does but is that required because our
+users there mainly people tracking brand
+mentions and market trends they're not
+really interested in every type of
+podcast content right I'm scanning
+everything out there but people are
+interested in some kinds that are always
+interesting some kind of podcast
+everybody wants to listen to but others
+not and think about it there are
+thousands of daily Bible readings or the
+Quran or the Torah or church sermons or
+music showcase podcasts poetry and
+that's all wonderful and valuable but
+those things rarely trigger the kind of
+brand mentions or industry discussions
+that the users that pot scan has right
+now actively track yet right now we're
+giving them equal priority in our
+processing pipeline so over the last
+couple months I've been experimenting
+with many different ways of optimizing
+the growing scale of pod scan you've
+been with me for this time like on this
+podcast and my new realizations fit
+right into those prioritization
+Frameworks so I had a couple learnings
+here just in approaching this and
+dealing with it that might maybe help
+you if you ever face similar challenges
+with data the first thing that I learned
+over the last couple months and
+particularly now is that database
+management has to be smart you have to
+understand where your data lives and how
+your data is accessed I discovered that
+I can just run a smallish CPU instance
+like four or just two virtual CPUs with
+like a couple dozen gigabytes of memory
+and a lot of storage obviously that is
+enough because I carefully optimize
+every single crate that hits that
+database
+and this small database performs just as
+nice as throwing thousands of dollars at
+bigger Hardware I could maybe have some
+more leniency with my craes but I don't
+need to it's not about having the most
+powerful database it's about being smart
+with how you use it so every time I look
+up data I pull out data I do this in a
+way where I know that I could never ever
+exhaust the computer that is actively
+hosting that database and it goes as far
+as something that I call chunk siiz
+automation or or dynamicism I chunk
+every query that touches more than 10ish
+database rows at a time so if I do an
+update over a whole lot of things I do
+this in chunks if I read data from the
+database for thousands of episodes I do
+this in chunks as well because every
+single second there are some operations
+happening on my database a lot of
+writing because I get a lot of things
+coming from my back end from my my
+transcription API and they write a lot
+of data I need to chunk this so that
+there's space for other things to happen
+too and for large scale operations I
+have built something that I call A
+self-aware system that automatically
+adjusts the chunk size based on
+processing time so I start with I do 10
+items or 100 items at a time depends on
+what I do like for big heavy computation
+things this may be 10 items at a time
+for just lookups it's 100 or thousand
+items at a time and then I measure how
+long it takes to read or write that data
+and if an operation takes anywhere
+between 1 to 5 seconds I keep the Chun
+size the same is it faster is it done in
+under 1 second I increase the size of
+the chunk by 20% and the next chunk that
+goes in is just a bit bigger so maybe
+that takes a bit longer and hits that 1
+second window so I keep it at that or
+it's still under 1 second so I give it
+20% more right and if it's slower if it
+takes 5 seconds or more I decrease the
+Chong size until it hits that window
+between 1 and 5 Seconds and this is all
+automated it's Dynamic and has been a
+game changer for managing large scale
+operations without overwhelming our
+resources because the performance of the
+moment determines how heavy the load
+will be I think this is called back
+pressure this is a term that exists in
+the industry but it works like give your
+tools the means to understand how they
+perform and let them kind of just slow
+down if they are performing too well and
+the database is overwhelmed and one
+thing I really want to mention this
+because I think this has been my
+crowning achievement in in data storage
+uh one thing I did over the last week I
+was so excited about this is that I
+compressed my data something I had on my
+my backlog forever is to think about how
+I can compress text information better I
+was just writing it into the database
+for now just for easy look up and easy
+working with it but it's probably the
+most impactful change that I did was
+implementing automatic compression for
+large text Fields these are two things
+in the in the Pod scan database it's the
+actual transcript like the whole thing
+with every single timestamp and the
+person saying something and then the
+next person says something you know the
+transcript of a podcast that was just
+text and it's now compressed with gzip
+and then base 64 encoded written into
+the long text or whatever that field
+might be in in the mySQL database and I
+do the same thing with the Json data
+that holds the word level timestamps
+which is a lot of data Jason is pretty
+Robos when it comes to stuff like this
+because keys are often like long words
+and if you just use the raw text there's
+a lot of symbols a lot of quotes and a
+lot of names of keys and brackets and
+all that the moment you gzip it you just
+compress it it goes to like 15% of the
+size and I reduced the storage of all of
+my text which is most of my database by
+around 85% and the beauty of this
+solution is that it's completely
+transparent to users they don't see it
+at all because it happens on the laral
+eloquent level on the orm level right
+where the things that are in the
+database are mapped to models inside the
+application there are ways for Lal um to
+pull out data and manipulate it before
+it is exposed on the model that then
+gets involved in all the operations and
+sent to the front end so there's always
+this little tiny like 1 millisecond
+additional work now for every single
+time that there's a transcript is being
+accessed but it's so worth it bandwidth
+has gone down speed has went up like
+this data lookups are faster because the
+thing is just more compressed more dense
+it's really really useful and my users
+they don't see anything they get the
+same high quality data cuz it's like
+losslessly compressed but I'm using
+fraction of the storage and bwith it's
+really really cool and this has been an
+optimization I'm so proud of because
+it's one of these moments you implement
+it you test it and it works and you
+deploy it to production and it works as
+well one of those rare moments where
+things don't explode it's been really
+really cool if you ever deal with any
+kind of text particularly if there's
+like large Json data that you don't
+really know the structure of or that
+might be big might be small look into
+compression gzip is part of almost all
+Frameworks out there and you can very
+easily implement this on a level where
+people don't even need to see it I'm so
+happy whenever I'm going to add any more
+like Text data to podan in any way I'm
+going to automatically compress it for
+sure why wouldn't I it's a little bit of
+additional computation but I mean my
+main application server has what like 36
+CPU cores I think I can handle a couple
+of gzip operations that should be fine
+so yeah these insights that I had over
+the last couple weeks led to a pretty
+fundamental shift in how I'm approaching
+part scans growth the ingestion side of
+things instead of trying to process
+everything immediately I think we're
+moving more to an intelligent decisive
+system that prioritizes content based on
+user needs that's where I need to be
+this is a boot business this is a sass
+on its way to profitability the high
+goal of every single podcast episode
+I'll get there right now we cut some off
+and if people want a particular podcast
+want to see those things they can always
+manually add it to the system that's
+already part of what pod scan can do so
+if you find a podcast you really want
+the episodes for you just click on it
+it's pretty much what you need to do the
+moment somebody navigates to a podcast
+on the interface or requested through
+the API a little note is made that maybe
+maybe the next episode should be
+transcribed you know maybe just to be
+sure so just by using the platform
+people will kind of show the platform
+what they need and with all of this I
+think I can potentially cut server cost
+right now by up to 50% without
+compromising the core value that we
+provide to customers because we might
+transcribe fewer episodes but the value
+for our customers Remains the Same
+because we still transcribe the right
+ones they might even see results faster
+because now all those non-interesting
+things will they get deferred to later
+so the interesting things get done
+quicker and this experience reminded me
+of the essential truth about
+bootstrapping it's not just about
+building features or even acquiring
+customers like it's all part of it but
+sometimes the most impactful work
+happens when you step back and just
+question your assumptions about how
+things should work what your business
+should look like what your big dream is
+because maybe there's a step that you
+can take that gets you there without
+being the final step for now I'm
+focusing more on sales and Outreach I'll
+share more about this next week some
+cool stuff coming up here while I'm
+implementing these database
+optimizations because patan already has
+all the core features that it needs to
+be a valuable social listening tool like
+its first name that I ever had in my
+mind for podin was Google alerts for
+podcasts and that is exactly what it is
+the challenge right now is not adding
+more features there's always interesting
+stuff and I just released sentiment
+analysis a couple weeks ago but that is
+stuff that is not core to the the actual
+need of the customer which is figure out
+when they are mentioned it helps but
+it's not core and the core things are
+here it's now about making sure that I
+can sustainably deliver value to a
+growing user base and keep it growing so
+I always have to remember that being a
+smart bootstrapper is not about having
+infinite resources that's the dream but
+it's not real it's about being
+thoughtful with the resources that I
+have and then continuously find ways to
+do more with less and sometimes the best
+way to scale is not to build more even
+though I would love to but it's to build
+smarter and one smart thing you can do
+is to go check out paddle the sponsor of
+this show and I use paddle right I'm I'm
+not just pedling it I'm paddle is
+actually what I use to collect the
+revenue that keeps potan running it's
+probably one of the most Dependable
+services that I've ever used for my sass
+they take care of payments and taxes and
+they collect outstanding invoices they
+deal with refunds all that stuff that
+would normally keep me up at night will
+not anymore because with paddle making
+sure that my Revenue comes in every
+month I can now think about compressing
+podcast transcripts and developing
+Dynamic chunking algorithm it's a
+builder's dream because somebody else
+has taken care of all the complicated
+stuff around money so go to paddle.com
+to check them out they have an amazing
+API great Integrations into most
+Frameworks highly highly
+recommended and now back to building
+that's it for today thank you so much
+for listening to the bootar founder you
+can find me on Twitter at avidid KHL and
+you will find my books in my twit course
+2o if you want to support me in this
+show tell everybody you know about podan
+FM particularly if they are a market or
+somebody who really needs information
+from podcasts wants to go on podcast
+wants to have a podcast leave a rating
+and a review for this show by going to
+rate thisp podcast.com founder and it
+makes a massive difference if we show up
+there any of this truly helps me and
+this show thank you so much for
+listening have a wonderful day and
+bye-bye
+[Music]

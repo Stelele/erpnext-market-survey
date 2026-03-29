@@ -1,0 +1,411 @@
+﻿Hey, it's Arvid and this is the
+bootstrap
+[Music]
+founder. Today I want to share something
+that's been on my mind a lot lately.
+That crucial moment when you have to
+look beyond yourself to grow your
+business. And I'm right at that stage.
+This episode is sponsored by paddle.com
+merchant of record that has been
+responsible for allowing me to reach
+this stage and get to profitability just
+a couple weeks ago, almost a month now.
+Paddle truly is more. That's M, Merchant
+of Record, because their product has
+allowed me to focus on building a
+product and building a business that
+people actually want to pay money for.
+And that's why Paddle does so much more
+for you. They deal with taxes. They
+reach out to your customers when
+payments fail when their credit cards
+bounce or something. They charge in
+people's local currency, making it
+easier for you to get conversion. It's
+all these kind of things that I don't
+need to focus on, so I can really be
+present for my own customers and their
+needs. It's amazing. Go check out
+paddle.com to learn
+[Music]
+more. After about a year of building
+Podscan, my podcast platform and social
+monitoring tool that I cannot seem to
+shut up about on this podcast, I finally
+reached that general area of
+profitability. It's that break even
+moment that every founder aims for,
+everybody hopes for. And now I'm at this
+point where I really need to focus on
+things besides building the product.
+That's a problem because I love building
+the product, but there's more to the
+business, right? because the product
+itself is pretty clear. The value prop
+is fairly clear. I know who my customers
+are. I know where to find them and kind
+of how to talk to them as well. So now,
+what should I be focusing on? And I
+think it's talking to as many of
+potential customers as I possibly can.
+And I'm building this business, the
+whole business of Podscan as a
+solarreneur, as a founder of a sodto
+software business. I'm trying to do
+everything at the same time here, right?
+building the business, building the
+product, doing the marketing, the sales,
+operations, customer support, all of
+this. And figure out where to go next
+with the business, I mean, business
+development too, and what the product
+needs to be for that, and what I need to
+do for this, all of that simultaneously.
+And over the last couple of weeks, I had
+a lot of calls with prospects and
+potential customers, lots of demo calls,
+lots of sales calls. And mostly when I
+talked about Podskin, I was positioning
+it as the social monitoring and podcast
+data research platform. These
+conversations have been very very
+enlightening to me because I was talking
+to the kind of perfect customer for the
+product as it is as a platform product.
+And what these calls have showed me is
+that there's really two ideal customers
+for the platform that are quite
+distinct. The first is that there are
+people who actually use the platform as
+a tool in their tool belt to research
+where to place somebody that they want
+to have featured on a podcast or maybe
+their boss or co-orker or somebody
+they've been tasked to put on a show or
+maybe to check what the audience size of
+a particular podcast is because they
+want to sponsor it or place an ad or
+something like this, right? Podcan
+becomes one part of their workflow. But
+there's also another type of customer
+that's actually interested in providing
+the data itself to their own customers.
+the underlying data that Potskan
+provides. And that is a different kind
+of user. It's a data user, right? They
+don't necessarily need to use the UI.
+They don't need to search and query
+stuff and field lists or whatever. They
+just want access to my API and get the
+data that their own customers and
+clients need. So I have platform users
+and I have data users. The data users
+are technical founders, people who run
+technical businesses. People like me.
+These are founders, these are tech
+people, these are developers or at least
+people with the kind of data developer
+mindset that I share. The platform users
+now they come from all kinds of
+backgrounds. It could be PR departments,
+marketing departments, government
+institutions, agencies, general agencies
+in the space that look at social media
+or media in general for all kinds of
+opportunities and are now starting to
+add podcasts to their repertoire.
+I have realized that I'm really good at
+talking to founders about Potcan. I'm
+really good at talking to other
+technical people, business owners who
+want to integrate podcast data into
+their business. I kind of vibe with them
+because I understand what their needs
+are. I know how APIs work. They know how
+APIs work. We know how to talk data, how
+businesses work and how data integration
+works. It usually is very easy for me to
+have a conversation with these folks.
+It's something that comes easy to me.
+It's almost like this nerd to nerd
+exchange whenever that happens. It's
+enjoyable and and simple thing. But my
+challenge is these technical founders,
+they are more like a rare occasion in my
+customer base. the most potential
+customers out there and I mean this both
+in a sense and the most potential
+customers out there and the most
+potential having customers out there.
+They are right now for what Potscan is
+without the need for many integrations
+or anything on top of it kind of the PR
+departments out there the marketing
+departments out there people who really
+care about knowing what's going on about
+a particular topic about a particular
+person in the world of podcasting and
+these are the people that I don't
+necessarily speak the same language as
+because I'm a developer they work in PR
+it's just a very different approach to
+using tools using software for
+understanding even what tools can do and
+all that and my outreach to those people
+has been kind of self-limited really
+because I always believe that I don't
+really know how to speak to these PR and
+marketing people so I didn't speak to
+them at all. I got to try to focus more
+on the developers, people I know how to
+talk to, but I'm realizing that
+obviously these are wonderful customers
+for the product, right? The demo calls
+that I had and the onboarding calls that
+have been going on for the last couple
+weeks in those I've seen that the
+platform is really really good at
+solving these people's problems like
+helping them overcome the challenges.
+And sure, there are a couple kinks here
+and there and a couple things that might
+need to be changed or added. And in most
+of these calls, I left with a somewhat
+short list of features that when
+implemented would immediately make a
+particular job to be done much easier
+for that customer because they shared
+with me exactly what their process was
+and I could kind of pull things together
+or build something very quickly that
+would do it for them. And I've seen
+these things actually be useful for the
+customer base at large outside of that
+particular customer. So these
+conversations, these demos and and
+onboarding calls have been invaluable,
+but I still struggle in those calls,
+demoing the product for nontechnical
+people, like explaining it from a kind
+of benefit analysis point of view, not
+just from telling them what the product
+can do. It's easy to tell a founder,
+here's the API, here's what it can do. A
+founder can immediately translate this
+into their own understanding of what to
+do with that data. Right? If I tell you
+the Podscan API has endpoints to search
+for podcast, search for episodes, search
+for topics, search for entities for
+people and then list them or show
+related data. For a founder, it's
+immediately an opportunity to think
+about, okay, what can I do with this
+data? Okay, what can I kind of pull this
+together? Maybe I have my own data to
+kind of add to this and then I can
+present this to my customers. But a
+marketing department person may not
+think like this. They may think about it
+like I need to build a list of potential
+podcasts to place a person on. Can this
+tool do it? Not is there an API that
+when I connect to it, I could then pull
+this data and throw it into my
+aggregation system or have some kind of
+AI analyze this data. That's not how
+they think about these jobs. At least
+most of them don't. So that is something
+that I cannot assume in these
+conversations and I do not have much if
+any sales experience with nontechnical
+people leading with their challenge
+explaining that the product can help
+them and then getting them to subscribe
+or getting them to try it out. It sounds
+easy but it's really not. And I found
+there are two options for me right now
+at this point. And I think these options
+exist for everybody who is a founder in
+a business maybe with a technical
+background who's kind of facing this
+challenge of marketing and sales. One
+option is that I just keep doing what
+I'm doing. It's always an option and I
+try to become better at it. And that is
+an option that my friend Tyler Shringus
+introduced me in a call recently that I
+had with him last week surrounding the
+current status of Potscan. Right? It was
+a catch-up call because Tyler runs the
+com company fund which invested in
+Potscan. we occasionally exchange stuff.
+He said, "Well, you can always keep
+doing it." But second option that he
+suggested is a more interesting one is
+that I either find somebody who can
+mentor me kind of be a guide a guardian
+along the path of me learning these
+things guide me through sales
+conversations with people from those
+particular industries or that I finally
+hire somebody to do this work for me
+with me maybe but for me someone who
+understands the market who understands
+podcasts too and also understands the
+needs and requirements of marketing
+departments and PR departments so
+somebody who's not me and what Tyler
+suggested and what I'm thinking about
+right now is that since Potscan is at
+this stage where there's a lot of
+experimentation to be done when it comes
+to outreach there are many things when
+it comes to sales that are completely
+untapped even when it comes to marketing
+I should consider a part-time hire for
+that particular activity I need to find
+someone who's capable of selling to
+people in these particular markets who
+understands like what podcasting is
+about and how they can benefit from
+podcast data and what Potcan can do as a
+tool as a product, as a solution for
+somebody's job to be done. I think I'll
+hire them on a part-time basis because
+at this point, I just cannot afford a
+full-time hire. That's kind of where I'm
+at. Or, and I think this is something
+that I might need to actually start
+experimenting with. Hire them on a
+commissionon, part-time basis. And that
+commission based sales is a kind of a
+thing that irks me. But I think there
+are many ways how somebody could do this
+work for me. And commissionbased sales
+is an option, one of the many that
+people can choose to do. I think it's
+interesting because for me as a founder
+paying somebody only if they can
+convince somebody to buy the product is
+quite the reliable outcome. Either the
+salesperson convinces people to buy it
+or they don't. There's no downside
+really for me as the operator of the
+business. I am struggling with offering
+this to somebody though because to me
+hiring somebody means paying them no
+matter what. I think that it's just my
+employment history talking here not what
+I actually need to do right now as a
+founder of a business that's on the
+verge of profitability. with the arrow
+pointing up and to the right like in
+this potential space of let's just get
+across this particular kind of threshold
+you know but there's a lot of my
+personal backstory where I want only the
+finest for the people that I hire and
+not paying them if they don't make a
+sale feels wrong but I believe that a
+really good salesperson can kill it on
+commission sales particularly with a
+mostly untapped sales pipeline at this
+point so what I'm going to be doing over
+the next couple weeks is to tap into my
+network And if you're listening to this
+or reading my newsletter, consider
+yourself potentially tapped. I'm trying
+to find somebody who's really good at
+sales, who really gets podcasting and
+media monitoring in general beyond it,
+like social monitoring, all that kind of
+stuff, and who's interested in reaching
+out to people from the PR companies,
+marketing agencies, anybody who has this
+vested interest in tracking mentions on
+podcasts and finding meta information
+about podcasts in the world out there
+for whatever client or data needs that
+they might have. It's very data focused.
+It's very impact client focused. And if
+you're interested in that, well, let me
+know. And as a founder, you always
+wonder who's going to be your first
+hire, right? There are a lot of options
+out there. Most people hire a customer
+service person if it's kind of a a low
+touch business. And I believe for
+Potscan as it stands right now, because
+it's a B2B product and I'm not a B2B
+salesperson, this will be the person
+that I'm going to be looking for. And
+obviously, this role will grow over time
+when it becomes more effective and more
+financially sustainable for me as I can
+put more resources into this and scale
+things. But that is going to be my first
+hire. And it has to be my first hire
+because customer service load is fairly
+low. Still can handle this. Product is
+straightforward. Nothing really needs to
+be done there. Product development load
+is very low because it already has
+everything that people in this industry
+need. And the last couple months of
+working with my customers has shown me
+that it's all there. They can really use
+it and that doesn't need anything on top
+of it. Don't need a developer right now.
+So business, marketing, and sales are
+the fields where I'm lacking. sales is
+the one that I need to deal with right
+now. So, that's going to be my first
+hire. And I always struggle with hiring
+and this is no different. I'm glad to
+have capable people in my network to
+both help me with finding the right
+person for this job and guide me towards
+knowing what to focus on. So, big shout
+out to Chila Trangis for suggesting to
+look into this particular role right now
+after listening to the state of the
+business. And yeah, if you know somebody
+who's really interested in working at
+this intersection of sales, podcasting,
+and the world of PR and marketing, let
+me know. I have a commissionbased sales
+position for Pascan ready to go. And
+sometimes the best thing we can do as
+founders really and I'm trying to do
+this right now is to recognize our
+limits and find others who excel where
+we struggle. For me that's sales to
+nontechnical customers. So if you have a
+similar challenge as a solopreneur, you
+are not alone and you should really
+think about who could be the
+complimentary person in your business.
+Who could be your first hire for that
+particular thing that you need to get
+done? Could that be the solution to your
+problem? I think so. And I'll see how it
+works out for me. And that's it for
+today. Thank you so much for listening
+to the Bootser Founder. You can find me
+on Twitter at avidka a r v i d k ahl. If
+you want to support me in this show,
+please share potscan.fm with your
+professional peers and those who you
+think will benefit from tracking
+mentions of brands, businesses, names,
+anything on podcasts out there. Podscan
+is a near real-time podcast database
+with a stellar API. So, please share the
+word with those who need to stay on top
+of the podcast ecosystem. Thank you so
+much for listening. If you need a job as
+a salesperson and you're good at it, let
+me know. Have a wonderful day and
+bye-bye.

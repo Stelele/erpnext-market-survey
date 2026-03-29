@@ -1,0 +1,485 @@
+﻿as you build your SAS it's easy to get
+lost in a mountain of feature requests
+not knowing which ones you should focus
+on deciding what to build next and which
+ideas you should not build is actually
+really hard so in this video I sat down
+with Derek ryr one of the best product
+people I've ever worked with to chat
+about how he decides which features to
+build next we talk about real examples
+from the business he's building right
+now called Savvy Cal it's the best
+calendar scheduling app I've ever used
+later in the video we talk about
+specific features he decided not to
+build even though on the surface it
+seemed like a good opportunity and if
+you stick around to the end Derrick and
+I chat about why building everything
+your customers ask for might be a recipe
+for disaster let's dive in what recent
+feature did you ship that you you know
+feel like was the right decision and
+what was the logic behind deciding to do
+that whether it was tons of customer re
+crests or whether you just knew in your
+founder gut or whether it was a compe
+you know there's a bunch of reasons why
+you would do it and then let's touch on
+like one feature or more frankly that
+you haven't built probably aren't going
+to build and why one of my favorite ones
+that we shipped this summer I think it
+was about a month ago um is this feature
+it's it's kind of a simple one but it
+had been on my radar for a little while
+and it's sort of just in in reviewing my
+backlog and I like to keep a backlog of
+things just ideas anytime someone
+requests something I usually log it in
+there and then sort of store up you know
+anytime someone mentions it in a help
+Scout conversation I drop a link to it
+just as kind of a a knowledge Repository
+and this one had been floating around
+and resurfacing for a while um it's
+basically a little feature that allows
+you to toggle on a a setting to require
+approval for new bookings before they
+make it onto your calendar so um you
+know think like if you're if you're
+really busy and say you've um you're
+just a busy person in general and you
+have one reusable link that is just out
+in the wild people use it all the time
+we often have kind of our one multi-use
+link that maybe we store in our text
+expansion or whatever and it's just the
+one that gets shared around usually like
+SL chat after your name right and so a
+lot of times people who are who are in
+really high demand uh we'll just see
+people using their link and grabbing
+time on their calendar and so there's
+something very um visceral with people
+who feel this pain it's like this is
+really a major problem and so they
+either resort to like not having a
+multi-use link or using an unguessable
+URL or just other solutions that just
+don't don't quite feel right and feel
+like we could be doing something on the
+product side to to alleviate this this
+also happened to be like one of the
+favorite features from uh scheduling
+tool called x. that was acquired and
+then shut down uh last year um so I hear
+you know anyone who comes over from x. a
+is likely to request this one right so
+it's been it's been coming up over and
+over but again it's just one of those
+decisions like even though it's just a
+toggle in the UI and just a just a
+slight modification to the booking flow
+it's still not a foregone conclusion
+that we're going to build it um but the
+things that really tipped me over the
+edge on it were were one just strong
+strong visceral demand from a group of
+people who are really passionate and
+like I would say scheduling power users
+you know and we have gradually become a
+tool that I think a lot of people in
+their minds think of it as sort of a a
+scheduling power tool like um you know
+obviously when you're when you're young
+you're you're behind the competition in
+a lot of different ways so it's hard to
+it's hard to Foster that perception
+early on but we've been at it for a few
+years now and have mostly caught up on
+feature parody and now people actually
+see us once they get in the product they
+realize that a lot of our ux is is um an
+improvement over the status quo and they
+can they can do more things to guard
+their time they can use like a ranked
+availability feature and some of these
+things that we have that help people who
+care a lot about shielding their time um
+protect it basically so so this one felt
+like it was philosophically aligned with
+where our product's going um it doesn't
+over complicate the product in in
+confusing ways like most of the
+complexity actually lives under the
+surface and for the user it's just like
+do you want to enable this or not um and
+so yeah it was like Bas combination of
+strong demand differentiation alignment
+with kind of the philosophy of what we
+want Savvy Cal to be and and like I
+always think about too is this
+attracting the right kind of user the
+kind of user that we feel like we're
+able to serve well and I think those who
+care about toggling this
+is an ideal you know user of Savvy Cal
+because of the things we care about yeah
+I really like that I think that's
+something that more founder that I don't
+think that's intuitive for a lot of
+people and the fact that you've just
+called it out I think is a huge a huge
+deal it's like how many people we use it
+and what kind of customer will we use it
+yeah there's a certain I think there's a
+certain magnetism that features have and
+they can draw in more of the people that
+early in the sweet spot for we have
+built some things
+um I'm trying to think if I have a
+specific example I might think of one in
+a minute but feel like there are some
+features that we build that suddenly
+start attracting people who aren't a
+super good fit and that's that's always
+just uh it can be a frustrating process
+for the user because they're all excited
+and they think they think savy is going
+to be the tool for them and then realize
+that we're missing the mark on a number
+of things but they were attracted by
+this one thing so you just I just want
+to be mindful and careful about um you
+know just thinking about that giving
+some thought to that when when marketing
+features and building them how about on
+the flip side a feature or features that
+for the foreseeable future you know it
+is not going to build or every recent
+thing you decided we're not building and
+and what was the thought process there
+yeah so one of the big ones is um SMS
+notifications um so this one does come
+up uh it's certainly requested from time
+to time and it's a feature that a lot of
+other scheduling tools have built into
+them uh think of like classic examples
+in my mind are ones that are like your
+you know going to get a haircut or a
+dentist deployment or something like
+they're often sending text messages um
+to remind you and this is one where I've
+struggled a lot with it trying to
+understand you know why people want it
+because I personally never want to
+receive a text message from a scheduling
+tool and I think I do have even though
+I'm not like a perfect representation of
+my customers I think you know a lot of
+my customers are similar to me and that
+um you know we're using this for kind of
+businessto business meeting scheduling
+and we're near our calendars a lot and
+we probably have Google Calendar
+installed on our phone and we'll get
+like a you know a little notification
+through there so like I don't know just
+the the the need for it kind of eludes
+me a little bit and um and then I've
+spoken to a number of um folks who have
+endeavored to do this actually I've was
+speaking to some former colleagues at
+drip um who and they added SMS support
+into the product and I got to hear some
+War stories about just how much of a
+bear that is to uh to maintain and you
+know things like you know you think you
+think dealing with uh email spam is bad
+wait until you deal with all the
+regulations and constraints around
+sending text messages on behalf of
+people even though there's tools like
+twilio which are amazing and give you a
+nice API on top of the lower level SMS
+stuff it's still um it doesn't certainly
+doesn't solve all of the complexity that
+you have to deal with when doing this
+and so it's just kind of one of those
+giant Iceberg features like you know a
+certain percentage of people would just
+toggle it on like sure send a text
+message yeah why not and maybe not even
+give much thought to it but under the
+covers there's so much complexity to
+maintain um and there are honestly other
+ways around it too people can accomplish
+this with zapier you know there's
+there's different Integrations that you
+can connect to your zapier account so if
+you really need this you can do it today
+and I would kind of much rather push
+that complexity off to zappier for for
+the foreseeable future
+yeah and and with an N of two one being
+you and me being the second one I would
+never use that feature and so I wonder
+if and and you know we uh Tiny Seed
+microcom are obviously a saval customer
+yeah and so does it you know would it
+attract the right kind of customers
+going back to the feature you know that
+you said earlier and obviously you know
+if you listen to this podcast it's like
+two people does not a focus group make
+but it but it is I can imagine you know
+my uncle who's a realtor wanting to turn
+that on right and it's like is that
+where Sav wants to be right now because
+I think more perhaps sophisticated like
+Founders entrepreneurs Executives Tech
+entrepreneur tech tech se you know uh
+senior leaders whatever you know it is
+that you're focused on a saval those
+folks are probably more in our line
+where they you know in our uh situation
+where I I'm also in front of my calendar
+all day and my phone buzzes with a
+little reminder and that's all I need
+and you know y another one that kind of
+comes to mind um is so some people use
+Savvy Cal a very small percentage of our
+customers use Savvy Cal for a lot of
+internal scheduling which you know
+theoretically is a pretty powerful way
+to use it right like you share a booking
+link to someone inside internal to your
+company and they can use that as sort of
+a curated window into your availability
+um even though most most companies of of
+a certain size these days are either
+using the built-in Google Calendar um
+sharing technology Microsoft Outlook has
+it also so there's like a lot of
+sophisticated tooling built up in those
+ecosystems around you know sharing
+calendars with your colleagues and
+adding colleagues and finding times that
+work for everybody and doing Collective
+scheduling like so a lot of these
+problems are sort of already solved
+which is why I've been hesitant to try
+to Bild saval as an ideal solution for
+doing internal scheduling you know it's
+like you can use it for that but it's
+probably not going to be better than the
+built-in bundled um Solutions into into
+the ecosystem and like I had some reest
+the other day from a customer that he
+was asking for the ability for events
+created by saval to be editable by
+anybody added on the calendar invite
+which struck me as curious so I I dug
+into it a little bit and asked him some
+more questions and discovered that he
+was basically using this as a way to to
+put time to use round robin and put time
+on one of their internal team members
+calendars and and then from that point
+that person would sort of take ownership
+of the calendar event and you know
+literally take ownership of the event
+like it would get transferred so that
+would sever our connection to the event
+cuz it would get a new owner in the
+calendar system and then they would add
+external people onto the calendar event
+and reschedule it if needed this was
+just causing all kinds of problems with
+our ability to stay in sync with that
+calendar event and I thought for a
+second like we need to solve some of
+these problems and maybe add a setting
+to allow it to be editable but then
+realize like for anyone who's doing
+the traditional path of like sending a
+link scheduling something with an
+external party you would never want it
+to be fully editable by all parties and
+a lot of these other problems just
+simply don't surface for that for that
+happy path right and when that comes up
+you know you have to say oh is this a
+new market that we should build for like
+is this a use case that no one has been
+paying attention to and this can open up
+a bunch of new customers and are these a
+customers we want to work with can this
+help alter my vision right you have a
+pretty strong vision your product I'm
+the same way and sometimes you get a
+feature request and you're like that's
+not in my vision but should it be is
+this such an opportunity like building
+workflows like building automations you
+know it's like that this could this
+changes the whole Direction but it it
+could be amazing or is this one of those
+things I'm going to add that I'm going
+to regret because one person wanted it
+or the people who do want it are just
+not good fits for us or they're using it
+in a way that really that's not where
+we're headed you know we can grow faster
+we can get more customers through other
+you know other easier wins mhm and
+that's where like yeah it's it's
+important not to get too myopic
+sometimes you do you do want to keep an
+open mind right um and especially I
+think as a pretty horizontally
+positioned product there's all the more
+I guess it's it's more difficult to to
+know whether you're making the right
+decisions in general because you have a
+lot of different you have a variety of
+people using the product most savic Cal
+users care about creating an optimal
+booking experience but they are
+horizontal across a lot of different
+Industries use cases so like making sure
+you're staying in line with what your
+Market needs is extra difficult when
+you're positioned in this way um which
+is why I'm a big fan of of logging most
+things U this is runs counter to that
+traditional like 37 signals wisdom of
+like never write down a feature request
+and just expect it to resurface if it's
+important uh I used to I used to think
+that way but more and more I don't trust
+my own brain to remember when when
+certain Trends start to emerge because
+there's so much noise all the time so I
+like to log these in in a place I use
+our backlog for it some people are
+viscerally opposed to that but you know
+even just a spreadsheet could be a good
+place to just kind of keep track like
+how many times has this come up has this
+come up more recently should I be
+thinking strategically about like
+potentially building this thing and
+that's just helpful and I review it
+periodically and just uh kind of keep it
+fresh in my mind yeah I can imagine much
+like I will take notes on anything
+whether when I used to think of business
+ideas or now I'll think of like oh this
+interesting marketing approach or maybe
+I should write a book chapter about this
+record a podcast episode about this
+crazy topic and I just write all that
+stuff down in notebooks and periodically
+just like it's a backlog it's a backlog
+of ideas and periodically I revisit them
+and usually it's like that's not a good
+idea and here's why but any year it
+might be a good idea because you might
+change direction you know strategy
+changes over time and the direction of
+your product and your vision it can
+change so I can see that being valuable
+in a minute Dereck and I talk about
+using what I call the founder filter to
+find product Market fit but first if
+you've enjoyed this video you're going
+to love startups for the rest of us it's
+the podcast that we pulled this video
+segment from and I've been recording and
+shipping it every week for over 13 years
+on the podcast I go deep into a wide
+range of SAS topics and often answer
+listener questions which you can submit
+on our website at startups forther
+restof us.com check out the podcast on
+Spotify Apple podcast or wherever you
+tune in to your favorite shows all right
+let's get back to the conversation with
+Derek it's the the specifics of those
+examples and hearing
+that both the features you mentioned are
+completely reasonable and then you said
+why right that as I remember being a
+like a brand new baby founder and just
+feature request and was like I just
+build I'm going to just build everything
+people want and that's that's all thing
+that's where I struggle with like the
+customer development or leaning too much
+into just build what your customers want
+and then you'll hit product Market fit
+because I that's not I don't think
+that's actually true you have to have
+that filter that founder filter to to
+keep that Vision in line you know and to
+keep the product going in a direction
+that doesn't just duplicate all your
+competitors which is often what like
+less technical users want so more
+technical users often want you to just
+build that's just way too complicated
+you know and your power users can push
+you in a direction where it's like you
+built an build an unusable product or a
+product that then no one else wants to
+you know there's all these dangers with
+listening to every request uh a customer
+makes there's a reason you're the
+founder and your customers are not of of
+your particular company you know it's
+like you
+have to like much like guarding the
+quality of your code base we have to
+guard the quality of our product right
+the the ux and the Clutter and the the
+overwhelm that can happen by just
+putting a bunch of settings everywhere
+yeah I mean it's pretty it's a pretty
+common Trope but learning when to say no
+is just extremely valuable because you
+can't be everything for everyone and
+it's hard to resist that Temptation
+especially early on when you're just
+clamoring to get any customers to pay
+you and try to get some kind of traction
+like it's it's very difficult um to
+stick to your vision and know when to
+say no to certain things but um
+especially as and I think that part in
+one sense gets a little easier as you go
+and you have more traction you have a
+better sense of who your Market is um so
+it's it's not for the faint of heart in
+the early days to to try to solve that
+equation um but uh yeah that's just an
+important skill to to develop and as you
+said it does get easier it's really hard
+in the early days and then you're a year
+two three in I think the filtering
+process is much easier Tim Cook apple he
+says there will always be more great
+ideas than we can implement we are going
+to have to say no to some great ideas
+and I I think that's being an
+entrepreneur as well I hope you enjoyed
+this video check out this next one if
+you want to learn more about how Derrick
+and I built drip an email automation
+platform that we sold to lead Pages for
+a lifechanging amount of money and make
+sure you subscribe to this channel so
+you get more content like this every
+week see you next time

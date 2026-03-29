@@ -1,0 +1,53 @@
+{
+  "topic_id": 160326,
+  "title": "POS Awesome on ERPNext v16: White Screen Issue with @vue/compat",
+  "slug": "pos-awesome-on-erpnext-v16-white-screen-issue-with-vue-compat",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "customization",
+    "pos-awesome"
+  ],
+  "created_at": "2026-02-05T13:43:21.087Z",
+  "last_posted_at": "2026-02-05T13:43:21.237Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/pos-awesome-on-erpnext-v16-white-screen-issue-with-vue-compat/160326",
+  "views": 69,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "M.Mustafa",
+  "posts": [
+    {
+      "id": 493527,
+      "username": "M.Mustafa",
+      "name": "Mehmet Mustafa BAHADIR",
+      "created_at": "2026-02-05T13:43:21.237Z",
+      "cooked": "<p>Hi everyone,</p>\n<p>We are trying to get <strong>POS Awesome</strong> working on <strong>ERPNext v16</strong> (Frappe v16). We know that v16 uses Vue 3, while POS Awesome is built with Vue 2. We are attempting to bridge this using the <code>@vue/compat</code> (Vue 3 Compatibility) layer, but we are stuck at a persistent white screen.</p>\n<p><strong>Technical Setup:</strong></p>\n<ol>\n<li><strong>Library:</strong> We manually copied <code>@vue/compat</code> (<code>vue.global.js</code>) to the assets folder as <code>vue-fix.js</code> to bypass v16 node_modules restrictions.</li>\n<li><strong>Hooks:</strong> Our <code>hooks.py</code> is configured to load the compat build first, then the config, then the bundle.</li>\n<li><strong>Configuration:</strong> We injected <code>window.Vue.configureCompat({ MODE: 2 })</code> directly into the core Vue file to ensure it executes before the app mounts.</li>\n</ol>\n<p><strong>The Problem:</strong><br>\nDespite the library being loaded, the browser console is full of Vue 2 deprecation warnings:</p>\n<ul>\n<li><code>(deprecation GLOBAL_MOUNT)</code></li>\n<li><code>(deprecation PRIVATE_APIS)</code></li>\n<li><code>(deprecation OPTIONS_DATA_FN)</code></li>\n</ul>\n<p>It seems like <code>configureCompat</code> is not being respected even though it’s injected into the source file.</p>\n<p><strong>Screenshots Attached:</strong></p>\n<ul>\n<li>Our <code>hooks.py</code> file content.</li>\n<li>Browser console errors.</li>\n</ul>\n<p><strong>Has anyone successfully managed to run POS Awesome on v16?</strong> We would appreciate any guidance on how to properly handle the Vue 3 compatibility transition in the Frappe v16 asset pipeline.</p>\n<p>Thanks!</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/e/e/ee28f5367fbed119e21bc36e60847e1438e9dd6f.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/ee28f5367fbed119e21bc36e60847e1438e9dd6f\" title=\"d709e4b2-b811-4d4a-86d8-52209fcbbd81\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/e/e/ee28f5367fbed119e21bc36e60847e1438e9dd6f_2_690x388.png\" alt=\"d709e4b2-b811-4d4a-86d8-52209fcbbd81\" data-base62-sha1=\"xYRoakh0fB6YwHnUddqa92Cp92T\" width=\"690\" height=\"388\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/e/e/ee28f5367fbed119e21bc36e60847e1438e9dd6f_2_690x388.png, https://discuss.frappe.io/uploads/default/optimized/3X/e/e/ee28f5367fbed119e21bc36e60847e1438e9dd6f_2_1035x582.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/e/e/ee28f5367fbed119e21bc36e60847e1438e9dd6f_2_1380x776.png 2x\" data-dominant-color=\"F2F0E5\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">d709e4b2-b811-4d4a-86d8-52209fcbbd81</span><span class=\"informations\">1920×1080 130 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/7/c/7c7d8e4aec5bf2eda7d1b8eef0f6e53ee16dbbf7.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/7c7d8e4aec5bf2eda7d1b8eef0f6e53ee16dbbf7\" title=\"906c0e04-3835-4e63-b0c8-ded1e17bf9b1\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/c/7c7d8e4aec5bf2eda7d1b8eef0f6e53ee16dbbf7_2_690x388.png\" alt=\"906c0e04-3835-4e63-b0c8-ded1e17bf9b1\" data-base62-sha1=\"hLicVkqGSGipfZ6Ti7s5hK9FG4f\" width=\"690\" height=\"388\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/7/c/7c7d8e4aec5bf2eda7d1b8eef0f6e53ee16dbbf7_2_690x388.png, https://discuss.frappe.io/uploads/default/optimized/3X/7/c/7c7d8e4aec5bf2eda7d1b8eef0f6e53ee16dbbf7_2_1035x582.png 1.5x, https://discuss.frappe.io/uploads/default/optimized/3X/7/c/7c7d8e4aec5bf2eda7d1b8eef0f6e53ee16dbbf7_2_1380x776.png 2x\" data-dominant-color=\"10305C\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">906c0e04-3835-4e63-b0c8-ded1e17bf9b1</span><span class=\"informations\">1920×1080 82 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/m.mustafa/{size}/57006_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 27,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 2,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

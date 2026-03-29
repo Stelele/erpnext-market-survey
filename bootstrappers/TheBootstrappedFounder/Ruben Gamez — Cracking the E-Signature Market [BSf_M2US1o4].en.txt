@@ -1,0 +1,1805 @@
+﻿Arvid Kahl: Welcome to The
+Bootstrapped Founder. Today, I'm
+chatting with Ruben Gamez. He's
+a longtime indie hacker, a SaaS
+experts and then all round
+treasure trove, both of
+knowledge and community support.
+He is wonderful. Ruben shares
+with me his approach to
+alternating between low touch
+and high touch during many
+processes, particularly the
+signup process for a software
+product, then also what he
+thinks about the whole call to
+cancel thing and how he deals
+with much bigger competitors in
+his E signature business. We
+chat about customer
+segmentation, if freemium is a
+good idea and we'll even get
+into book recommendations today.
+A quick shout out to the sponsor
+of this episode, acquire.com.
+More about that later. And now,
+here's Ruben.
+Ruben, thanks so much for being
+on the show today. I recently
+talked to Brian Sierakowski on
+this show. And he was the
+unfortunate target of a lot of
+Twitter hate back then a couple
+of years ago must be 2020, when
+he implemented call to cancel at
+Baremetrics. It was a big day in
+the indie hacker community. Man,
+that was rough. And the indie
+hacker community really didn't
+like it. Right? It was just
+there was so much going on
+there. A few weeks ago, I saw
+you tweeting something, not
+necessarily the same. But along
+the similar lines where you said
+you occasionally changed your
+signup, which is obviously not
+canceled, but sign up from low
+touch to high touch
+occasionally, every now and
+then, which I find is a similar
+move. And I was wondering, this
+was very intriguing and
+unexpected because I've never
+seen this done before. Can you
+explain the why and the how
+behind this particular approach?
+Ruben Gamez: Sure. So we do this
+to get feedback, really good
+feedback and to learn things.
+It's basically just data and
+learning. So we understand that
+when we do this, when we change
+it right now, just to give a
+little context. People sign up
+using a like, sign up with
+Google button or they you know,
+click on the link and they enter
+their username and password.
+It's really easy. They're in.
+There's no email verification or
+anything like that. You can get
+started. You can upload a
+document and then send it out to
+get signed. So it's maybe a
+little bit not enough friction
+as far as we don't like even ask
+who you are, what's your use
+cases, you know, that stuff. But
+there are times where depending
+on the metric and the thing that
+we're trying to move or improve
+in the business, we try to get
+data through, you know,
+analytics, through support
+wherever we can get the data.
+And then there's just times
+where we just don't have enough
+data or we don't understand a
+problem enough to help move a
+metric. Let's say it's related
+to onboarding or activation or
+some other use case. What we'll
+do is we'll change the signup.
+And when somebody you know,
+we'll change it to a button and
+they'll say, like, sign up for
+free, they click on the button.
+And instead of a signup form or
+you know, the Google login
+thing, they'll go to a survey.
+So the survey asks them
+questions about what type of
+business there. Like some of the
+initial questions that we're
+trying to segment by or
+understand. And then we'll ask
+them, like, let's say we're
+trying to target teams. We want
+to learn more about teams in the
+onboarding process. So we'll ask
+them how many people are going
+to use this. And if they say,
+just me, then we'll redirect
+them to the self sign up and
+they'll just self sign up. So
+then we only do this for the
+people that we want to learn
+from. And if it's a team, then
+we'll direct them to a basically
+a page to where they can
+schedule their onboarding call
+to get set up and sign up. So we
+understand that we'll lose
+signups. This is a temporary
+thing. But the way that I think
+about it is that it's okay
+because we're paying for data,
+like the cost the price there is
+us learning. That's how we're
+going to learn.
+Arvid Kahl: That's some
+interesting approach that the
+segmentation makes a lot of
+sense. I think that very much
+shifted in similarity to the
+full call to cancel thing
+because, you know, if Brian had
+kind of segmented call to cancel
+by the account type that was
+canceling, that would have been
+interesting too.
+Ruben Gamez: That probably would
+have been right. It needed
+special sort of, like attention
+or time or whatever.
+Arvid Kahl: Yeah
+Ruben Gamez: Yeah, that could
+have been one approach. I mean,
+I'm okay with just saying
+everyone like if we needed to, I
+don't know that we've ever done
+that. But if for some reason if
+I felt like we needed to, I'm
+okay with doing that for we get
+such a large number of people
+signing up, the 20,000 signups a
+month. And so it doesn't really
+take that much. Before we're
+like, okay, we're good. We have
+enough people that say nothing,
+we're gonna learn what we need
+to learn from the, you know, in
+a few hours or whatever or a
+couple of days before
+segmenting, it will be longer.
+Arvid Kahl: Yeah, that's the
+thing. I was wondering about
+like, how long do you keep this
+going? For how long would you do
+such an experiment? Does it
+depend on the actual outcome of
+the calls that you have? Or
+would you just set like a set
+timeframe for this?
+Ruben Gamez: It really depends
+on how many people are going
+through that. So I think the
+last time that we did it, we
+were wanting to learn more from
+people that signed up from a
+specific traffic source. So we
+did interviews with them,
+different types of interviews,
+but then we also wanted to learn
+more about them in the
+onboarding process. So I think
+that one ran for like a week or
+somewhere around there just
+because there was lower volume
+and we don't get that much from
+that traffic source. And then
+you know, just people will,
+they're gonna be, depending on
+who you're targeting. If it's
+team, teams are more likely to
+schedule. If it's a traffic
+source to where it's just like,
+a lot of, oh, it's just an
+account for myself. I like to do
+things myself, then you know a
+lot of those people are just
+gonna look at that and be like,
+what is this? I'm not gonna
+schedule that.
+Arvid Kahl: Yeah, it's kind of
+like a cold email, but in the
+form of a form on the website
+Ruben Gamez: Yeah, a little bit.
+And there's that selects for a
+certain type of user, right? So
+we understand that, like, you
+know, the learning there. It's
+just a data point and kind of
+understand, how is that
+different from the typical user
+that signs up self serve?
+Arvid Kahl: It's very
+interesting. I never thought
+about this. I never thought
+about optimizing the process
+itself. Like I was always
+thinking that I could figure it
+out somewhere else. And then I
+would change the process
+accordingly, but changing the
+process to figure out, to
+optimize, that's just a new way
+of thinking about it. And I was
+wondering, as an indie hacker
+that I consider myself as and
+that most people listening to
+this probably are more like,
+when do you start with this?
+Because this feels like you kind
+of cut into your revenue a
+little bit potentially. So do
+you need to have a certain size
+or like a certain MRR to start
+with this? How would you
+consider or when did you start
+doing these experiments?
+Ruben Gamez: From the earliest
+days, I started from the very
+beginning, even the landing page
+before we launched, right? Like
+you put up a landing page and
+you have an email, like, you
+know, enter your email to be
+notified. They put in their
+email, they submitted the form
+and that went to a survey. And
+then we asked more about them,
+their needs, why they were
+interested, you know, just to
+get a little bit of, because
+they're the most engaged at that
+moment. Right? It's harder when
+somebody signs up to send an
+email and you'll get some
+answers and replies to those.
+But they'll be a little light
+different a lot of times and
+sometimes you'll get good
+conversations. And then we
+asked, would they be willing to
+jump on a call with us to like,
+you know, help us with some of
+the research on this? And a lot
+of people said no, some people
+said yes. And then we added them
+to the early access list. But
+yeah, so before even launching
+basically is the answer. And
+then a little bit, you know,
+after early on, especially early
+on. You know the least about
+your customers, about the use
+cases, about all this stuff. So
+it's tricky because you're
+right. Revenue is a concern,
+right? So that's a tough thing
+to balance it like the more you
+need the money, the more
+selective you have to think
+about that. The reality in SaaS
+at least is that very early on,
+for most of us, we're just not
+going to make that much money in
+the like, the first few weeks or
+whatever, right? So you have to
+weigh that against, like how
+many people are certain, like
+some people are launching and
+they're just getting very few
+people signing up to start with
+and I understand the fear of
+like, well, putting this amount
+of friction up front. They're
+not even like even the very few
+are not even going to be able to
+get into the product and
+experience it and have a chance
+to upgrade. I think indie
+hackers shoot themselves in the
+foot sometimes with some of
+these fears like that. Because
+what tends to happen is let's
+say they get five signups a week
+or something like that, like a
+lower number. So they value each
+one of these but maybe the
+traffic sources aren't that good
+and maybe the you know, the
+signups aren't of the highest
+quality. Some of them are, some
+of them are not. It's always a
+mix. And what happens is that
+people go in there and they kind
+of it's almost like, they remove
+all friction. They try to let
+them sign up really easily and
+use the product and hope they
+upgrade, but they're not
+learning anything in the
+process. What they learn is
+like, oh, almost nobody upgrades
+or very few people upgrade. Why
+is that? I don't know, it's
+super fuzzy, like, all these
+fuzzy areas are a big deal. And
+they're really important to
+learn as, like as quickly as
+possible. And it's not a thing
+of like, well, let's go a few
+months, let's add more like,
+yeah, but how much stuff do you
+not know? And if you knew some
+of those things, how much faster
+could you grow or add the right
+features that will help you
+grow? You know, there is a
+balance there. But I would
+probably encourage people to
+lean towards the direction
+that's a little bit more
+uncomfortable with some of this
+stuff for them.
+Arvid Kahl: Now that you say
+this, I mean, it makes perfect
+sense. Like you learn as much as
+you can, as early as you can.
+That seems to be a very quick
+and tight feedback cycle indie
+hacker thinking. We should
+probably do much of that much
+more of that than we're doing
+right now. But does this also
+hold for exit interviews? Would
+call to cancel actually makes
+sense in this kind of line of
+thinking. But do you utilize it?
+Did you ever utilize it in any
+of your products?
+Ruben Gamez: No, the closest
+that I've that I would. I
+Arvid Kahl: The jobs to be done,
+approach is really powerful,
+wouldn't be opposed to it if we
+were just not learning what we
+needed to. So we never got to
+that stage. We've done so much
+stuff to try to learn from
+people that cancel. And it's
+tricky because by the time they
+cancel, they don't really care a
+right? Because you see the
+underlying reasons not just the
+lot of the time and they're not
+like just you know, going to
+answer your questions and
+they're done. They're moved on
+to their thing. Everyone's busy.
+It's not like, personal, it's
+just, you know, we're all busy
+and everyone's calling for our
+attention. And, you know, we
+have to protect our energy and
+whatever in the moment happened
+that made them cancel, but you
+our time, right? So, yeah, what
+we did everything from, you
+know, the cancel. We email them,
+you know, automated. We email
+them, manually. We search into
+them, let them know that it's,
+you know, the founder, all this
+stuff that when they cancel, we
+send them to a cancel survey and
+you know, they answer questions
+see what led to that moment.
+Which makes me wonder, do you
+and some of that stuff is like,
+ah used to be familiar with this
+stuff, like not using why not?
+Like you know, a lot of times
+they'll describe symptoms and
+not the core issues. And then
+the most useful thing is just
+cancellation interviews. And
+ever ask what you could have
+done to make them stay? It's got
+that's like in the cancel flow
+of offering an incentive to do a
+30 minute call with us. And then
+do the jobs to be done like a
+switch style interview tour. We
+asked them not why you canceled
+but what happened not like, what
+happened? Why did you cancel?
+the kind of feels like asking
+people if they want faster
+More like, when did you first
+start thinking, like, oh, maybe
+I don't need this anymore? What
+happened that day? Do you
+remember the day like you
+basically walk through the
+actual events? And from that,
+you paint the picture. And then
+you don't have to ask why it's
+clear why? What happened? So
+horses, you know that thing. But
+what do you think about that
+that's been the most useful. And
+that's as deep as we've gotten
+as far as trying to get, you
+know, information from people
+that canceled
+kind of line of questioning? Do
+you use that in your customized
+Ruben Gamez: No, because once
+you walk through what happened,
+then it's really clear what you
+could have done to them and why
+they canceled. The reality is in
+SaaS, a lot of the people that
+cancel, they canceled long
+before they actually cancelled.
+Like they just haven't gotten
+around to canceling. And then
+like they'll get an invoice or
+something like that. That
+reminds them and then they'll
+count like we've all kind of
+probably have done that and we
+can think of like things that
+we're like, oh, yeah, like I
+haven't gotten around to cancel
+that yet. You know? And a lot of
+times, it depends on the
+product, of course. But it's
+surprising how many times the
+core reason really has to do
+with what happened upfront.
+Like, not so much. They're using
+it and then something happened
+and they're not happy. And then
+they canceled. That happens, of
+course. But it's really like
+either they never truly started
+using it. Or they're like half
+using it and not completely in
+the way they intend, you know.
+And that's why a lot of times
+time spent on activation
+onboarding can help retention.
+That's a really big lever there.
+Arvid Kahl: for them and they'll
+use it or is this not and they
+don't even get to not use it and
+then cancel. Am I getting this
+right?
+Ruben Gamez: Partly, like,
+there's definitely that part of
+it, for sure. But there's also
+if a lot of people that are the
+right users or could be the
+right users, but they didn't use
+it because you know, something
+was confusing or complicated or
+they didn't think they could do
+something like typical
+onboarding and activation sort
+of issues and problems that can
+be fixed and improved. So
+there's definitely a lot of room
+there for improvement for most
+SaaS products.
+Arvid Kahl: How actionable are
+these interviews for you when
+you do them? Like how quickly do
+you turn those learnings into a
+change in the product?
+Ruben Gamez: Super actionable,
+we document all that stuff. And
+the way that we do it is I'll
+right. So I've done that a few
+ways. And I'll talk about it
+like in terms of like if I was a
+solo founder, almost like the
+you know or very small team. And
+our team is pretty small as it
+is to begin with. But what I
+like to do is do these
+interviews, record the audio,
+take notes in Google Docs or
+whatever. And then I'll listen
+to the audio at a separate time,
+like the next week or something
+like that or the next day and
+I'll go through and I'll you
+know, with fresh ear or whatever
+you call it, I'll document
+stuff. And notice things that
+maybe I missed. And then put my
+takeaways, organize that base of
+like, okay, this is actionable
+stuff that we could do based off
+this one interview. And what I
+like to do is I like to give
+that same audio recording to
+somebody else and have them you
+know, do the same thing
+separately, us not talk about
+it. So then I want to see what
+their takeaways is. Because
+compare them to mine because I
+have certain biases and
+especially if when we're trying
+to improve like a thing or
+metric or something like that.
+We have these ideas of like, oh,
+we think it's this or you know,
+like a direction that really can
+influence what we take away,
+like there's the data and the
+information. But we're still
+translating that into actionable
+stuff. And our bias definitely
+comes into effect. So it's
+really interesting to see take
+somebody who doesn't have that
+bias and see what their
+takeaways are and then compare
+them to ours and see if we're
+like missing something. Oh,
+okay, you know, there's
+something over there that I
+probably should look at. And the
+way that I've done it, is
+somebody else on the team or
+I've done an even tour. I've
+hired or have had a writer that
+was doing just like content for
+us, you know? And asked him,
+hey, I'm doing this special
+project. Would you be up for it?
+So it's not even somebody on the
+team, like, you know, its core
+team is just like a contractor
+that's helping us out with some
+other stuff. And if they're, you
+know, there's usually writers,
+copywriters and all that are
+good about, like, the good ones,
+paying attention to the
+information and then like
+writing down takeaways and
+having, you know, asking them to
+do that and then seeing what
+their report looks like compared
+to us just giving them something
+to write.
+Arvid Kahl: Interesting! That
+actually sounds and feels like a
+product that should actually
+exist outside of just your
+organization. Right? Like bias
+free summaries, I was thinking
+as you were saying it like you
+want to externalize it more and
+more away from the bias, the
+inherent bias in your team. Have
+you ever used like AI tools for
+this like a ChatGPT, which is
+summarize it upfront.
+Ruben Gamez: No, I have not.
+That would be a really
+interesting use for it. Right?
+That's a good that's even maybe
+a better way. Right, definitely
+cheaper. So now you could do
+that. I'd still probably I do
+like, I'd probably do three. I'd
+probably do AI and then have
+somebody else do it as well. And
+then me, you know, because
+sometimes I think that people
+would, you know pick up some
+things as well.
+Arvid Kahl: They would be very
+interesting to see the
+differences. I think there's
+rarely a better way to see just
+how inherent your bias is and
+how maybe even you already kind
+of transported it on to the
+people that work for you. And
+then how there's a completely
+neutral thing that looks at it.
+So, yeah, that'd be really cool.
+Wow. That's a very interesting
+approach to dealing with. It's a
+very elaborate or involved. I
+don't know which one of those
+two words I would use but a
+very, you take it very
+seriously, that's really cool to
+hear just how valuable this
+information is to you.
+Ruben Gamez: Yeah, I mean, you
+asked like, how actionable and
+how quickly do we put into,
+like, as quickly as the next day
+we start doing stuff, if there's
+stuff that's easy for us to do.
+And then some stuff is like, a
+year later, we're still
+referencing, like, we have these
+interviews from this, you know,
+segment here, like, oh, it could
+be useful. Let's see, let's
+refresh our memory and see
+what's there. So we always come
+back to it. And it's just like
+an evergreen sort of resource.
+And sometimes it needs to be
+refreshed if it's been that long
+and the product has changed a
+lot, you know, depends.
+Arvid Kahl: That's very cool. Do
+you do these kinds of interviews
+at other stages of the customer
+journey too? Like, just post
+onboarding or in the middle of
+people using it for a couple of
+months?
+Ruben Gamez: Yeah, so mainly,
+like the switch style ones like
+onboarding and cancellations
+what we've done a ton of those.
+And then sometimes we are, you
+know, trying to learn something
+about a specific feature or
+whatever. And we do those and
+try to follow the same
+structure. I'd say that a little
+bit more like the Mom Test sort
+of approach there when we're
+doing it based off of like, in
+the middle of, let's say, one of
+the ones that we added recently
+was bulk sending, so the ability
+for people to upload a CSV file.
+We want signatures of 300 people
+for this one template. So some
+people would do that manually,
+before we had books ending and
+then we added that feature, but
+to learn how to create a good
+box editing feature we did that.
+We're like, okay, let's talk to
+the people who are doing this
+process. And we interviewed them
+like, what are the steps? Who
+are you sending this to? Why are
+you doing this? And then walk us
+through it. And what do you do
+after? Like the after, I think
+is missed a lot and and super
+underrated and/or before. Like
+the stuff around the edges? And
+why are you doing these things?
+Like you can make your features
+much better based off with that
+information.
+Arvid Kahl: Yeah, workflow is so
+important, right? Like a job to
+be done never stands alone. It's
+always integrated into some kind
+of series of other things. To
+me, it's like, well, if you're a
+software developer, you innately
+understand this if you deal with
+data. Data comes in one format.
+You do something with it. And
+people use that what you do.
+They expect it in another format
+or maybe the same, just with
+different data. So you have an
+input format and an output
+format. I think the same thing
+should always happen with any
+job to be done, like, what data
+comes in? Or what requirements
+come in? And what requirements
+are expected on the outside too.
+It's really cool to see you
+thinking about this, like before
+and after stuff as well.
+Ruben Gamez: Yeah, and same
+thing with triggers, right? Like
+triggers are really important
+thing. Like what triggered this
+whole thing is to start with,
+like, that's an important thing
+to know and keep in mind.
+Arvid Kahl: That's pretty cool.
+Do you use the same playbook for
+both of your SaaS businesses? Do
+you do the exact same things? Or
+is it different between
+Bidsketch and SignWell?
+Ruben Gamez: We do a lot of the
+same things, some things
+differently, but they're very
+different businesses. Even
+though like from a high level, I
+thought they were the same
+thing. It's just
+Arvid Kahl: Yeah, let's talk
+about that too.
+Ruben Gamez: Like, that's a
+really easy trap to get into.
+It's like, yeah, it's basically
+the same thing. Like you have a
+document and you're sending it
+out and somebody looks at it and
+then they just approve or sign
+or whatever. And that's it. They
+both work exactly the same way.
+And these businesses could not
+be like any more different.
+Arvid Kahl: I do want to talk
+about this, like with Sign Well
+and where it came from because
+from what I understand, this
+wasn't even meant to be a second
+business. Is that right?
+Ruben Gamez: Right. Yeah, yeah,
+it was supposed to be the next
+version of Bidsketch and
+Bidsketch is a proposal
+software. And, like, take
+everything that we learned,
+redesign it, improve it, add
+document signing, which already
+existed in it, but a very simple
+form and just say, let's open up
+the market and then we'll have
+the whole document signing
+market as well and support more
+of our customers document
+workflows. And then let's start
+with the document signing and
+make that a different brand and
+build that and then we'll have
+two sites. We can funnel in and
+we'll merge them and you know,
+this is all big plan. And then
+we did document signing and came
+out with that and like the users
+are different. They're asking
+for different things. They were
+pulling us into different
+direction and then it was just
+that decision time. I'm like, do
+I continue with the vision that
+I had? Like, which is different
+than what the pull that I'm
+getting here? Or do we go in
+this direction? Went in that
+direction and then, yeah, so I
+ended up with two businesses
+instead of one.
+Arvid Kahl: I'm still thinking
+it's really cool to just stumble
+into a successful business, but
+I don't think there's much
+stumbling, it's just, you know,
+it was there. And you opened
+that door to that particular
+area.
+Ruben Gamez: With Bidsketch, we
+never promoted it to Bidsketch
+customers or leads or traffic
+sources or anything like that.
+So it was literally building it
+from zero and building the hole.
+And I did that on purpose,
+because I wanted to have to, you
+know, like I said, it would be
+almost like two traffic sources
+and channels and everything just
+merged into one. But I never,
+you know, it just never became
+that thing. And so it was just a
+separate business built from
+scratch and having to have that
+whole momentum stage built
+again. Similar, but also very different.
+Arvid Kahl: How long did it take
+you from like, thinking that it
+was gonna be version two of what
+you already had to understanding
+that it's something completely
+different?
+Ruben Gamez: I think it was a
+couple of months where I was
+like, oh, what's going on here?
+You know, that feeling? And then
+it took a while before I just
+like settled, like, yeah, this
+is not gonna happen. So I still
+had thoughts of like, no, we can
+kind of, you know, do this and
+still and maybe like a year into
+it. And then after, I was like,
+ah this is not. You know, this
+is a different thing.
+Arvid Kahl: It's funny because I
+do wonder you were already quite
+established in, I guess, the
+field of proposals, right? I
+think I looked at your blog,
+your blog post that kind of
+introduces the thing. The way
+you talked about it for the
+first time, I think your first
+blog post on that blog that you
+currently still have is from
+2009. So that's been around for
+a while. Right? And you talked
+about, you had already 10 years
+experience back then. So you've
+been around for a while, but
+kind of you transitioned into
+online signature. So E
+signatures, which to me feels
+like a different field with
+much, maybe much bigger
+competitors, at least from my
+vantage point
+Ruben Gamez: Much bigger
+competitors
+Arvid Kahl: Right? Like, when
+you think about that market, you
+think of the big names and the
+things that the enterprise
+businesses send around all the
+time. What was that maybe a
+reason that you hesitated to
+understand it as something that
+would stand on its own in that
+market?
+Ruben Gamez: No, at that part of
+it excited me. So I like that
+part. It was more about just
+like, the vision that I had
+going into it and like having to
+just let and I'm pretty good
+with just saying, well, you
+know, things are different. And
+it was just more of a strategy,
+right? Like a higher level
+strategy was a little bit
+different than like, your think
+this feature is a good feature.
+So you build it. Like, oh,
+they're not using it, maybe it's
+not that good. Let's delete it
+or let's change it in a way.
+Like all that's been much
+easier. And I think just from a,
+alright, this is how we're going
+to get to this, you know,
+milestone and we're going to
+open up the market and have like
+this higher level strategy and
+vision to where sometimes that's
+easy to change if it's, you
+know, but I felt really good
+about it. And that's when it was
+just like, it took a little bit
+of time, you know, for me.
+Arvid Kahl: Yeah, I guess. Yeah.
+It's mostly an internal thing
+too, right? To position yourself
+for that.
+Ruben Gamez: Yes, exactly.
+Arvid Kahl: Very cool. So having
+big competitors like this, do
+you still consider yourself like
+an indie hacker underdog, doing
+like serving a very small niche
+in that market? Do you have
+ambitions? Maybe that's the
+question. Do you have gigantic
+ambitions to dethrone the big
+Docusign? Or whatever is in the
+Ruben Gamez: Yeah. So we compete
+directly with them. We get
+people switching all the time
+from you know, DocuSign, Adobe
+Sign the big brands in our
+space. So yeah, we're not niche
+and we're not you know, we're
+pretty horizontal and I like the
+way that we're competing. And I
+feel like there's a lot of
+opportunity here because of a
+lot of what they're doing and
+because it's so tough to
+actually compete at the level to
+where mid market and large
+organizations will be okay with
+market?
+switching over to your service.
+It's really at the very low end
+for like freelancers and you
+know, certain really light use
+cases. It's a product that a lot
+of people can build and get
+Is it that bad? What are the
+challenges that made him say
+into. But when you start to get
+into different pricing tiers and
+different types of use cases and
+organizations, then it's done.
+It's a different beast. And it's
+really easy. I talked to several
+founders in the E signature
+space about. Because before I
+did the whole thing, just trying
+to understand like, should we
+even do this in the first place?
+What did they learn in the
+process, like founders that had
+exited or founders that shut
+down their businesses that, you
+know, that had E-sign
+experience? And it sounded
+really tough. I didn't
+understand why from the outside,
+they just look pretty easy. I'm
+like, okay, we're kind of almost
+doing the same thing. I don't
+understand why it's so
+difficult. But yeah, and the one
+that I talked to, they had the
+most success in the space, just
+advise me, don't do it. Like he
+was already out wasn't even
+right. It was just like, yeah,
+it's a payment. Yes, don't do it.
+that?
+I understand now, like, it
+sounds simple. And he was
+talking about, like workflow
+side, challenges having to do
+with workflows and just, there's
+so many like, there are
+technical challenges that are
+just kind of hidden and you
+won't know until you get to it.
+So there's a bunch of that and
+just very time consuming. But
+then there are also things that
+have to do with branding, you
+know, with like, when people are
+talking things that have to do
+with legal. Like, that can be an
+important factor. So you have
+some stuff to overcome there.
+And then there's also security
+and compliance, things that
+larger organizations take very
+seriously and can be a really
+big factor. So it was really
+from several, like perspective,
+several things that he was
+talking about.
+Arvid Kahl: Is it a very price
+sensitive market?
+Ruben Gamez: It can be depending
+on who the customer is. It can
+be not always. Like I saw
+somebody on Twitter talking
+about like, oh, I only use it a
+couple times a year, talking
+about who it was? On Twitter,
+talking about how they would
+never pay for it. There'll be a
+tough business and all that
+stuff. And it's like, yeah, we
+give it away for free for people
+like you. We have a free plan.
+It depends. There are many
+different customer segments.
+Arvid Kahl: Yeah. Your free plan
+is something I've been eyeing
+there on the side for a bit,
+like freemium or I would assume
+it's freemium, right? Like, it's
+kind of, you get the good stuff
+once you upgrade, but you get
+the stuff that you need even for
+free. That's kind of always a
+point of contention for many
+SaaS businesses particularly as
+it is. You know, it's expensive
+sometimes to run a SaaS and
+having a lot of customers that,
+you know, are a drain on
+resources. I think, Josh
+Pigford, we talked about
+Baremetrics earlier. They had to
+shut down their freemium at some
+point because it was just
+destroying the service with all
+the data and just through Stripe
+that they were doing, right? But
+before he sold the business, he
+had that and I think he had
+something similar with maybe as
+well with the next business that
+he was in.
+Ruben Gamez: It's not in like
+for even Baremetrics, right?
+Like, very successful in the
+space was ProfitWell freemium,
+not just freemium, not even
+like, it was like the whole
+thing was free. It is very
+extreme, super interesting
+strategy that they going out.
+You can make it work. The
+question really is and not in
+every space, but like, is it
+worth it? Do you have the right
+strategy to make it work? And
+should you even try to make it
+work and push through? Like,
+especially for like a lot of
+indie hackers that need revenue
+for like, early, like for a
+while you will make less money
+most of the time on freemium.
+And I'm not sure that it's the
+best ideas a lot of times to do,
+depends on what your personal
+goals. Like if you have a day
+job and you're like, okay, I'm
+done with this. And I'm doing
+this nights and weekends and I'm
+trying to get to where I can do
+this full time. Like, maybe not,
+like unless there's a really
+good compelling reason, you
+know, to do it to do freemium.
+And that can be. I would lean
+but I would lean in the
+direction for people in that
+situation towards not doing it.
+Arvid Kahl: Yeah, I think
+everybody just hopes to be
+Dropbox at that point and have
+the kind of viral built in
+referral loop that then gets
+more people on and some of them
+upgrade. You know, it's kind of
+this wishful thinking.
+Ruben Gamez: Yeah, and that's
+the thing. In a lot of spaces,
+the viral component part to it.
+You know, if it's there, a lot
+of times it doesn't even exist,
+like, ideally, you'd have
+something there. But if it's
+there, it's overplayed. It's not
+as effective as a lot of people
+make it out to be, especially if
+the space, the more established
+the space and the more people,
+the more competitors and
+products are doing it already,
+the less effective it tends to
+be. So also the experience of
+the person who can share or you
+know, who can kick that whole
+thing off is really important.
+And like, if they've experienced
+this thing before many times,
+they're less likely to be
+impressed in a way that would
+cause that to happen.
+Arvid Kahl: Yeah, I guess. I
+don't know about E signatures.
+But I certainly I've signed a
+lot of documents in many
+different ways before. So yeah,
+I guess if it's a highly
+disruptive thing like Dropbox,
+which obviously could be built
+in a weekend
+Ruben Gamez: They're always
+talking about the early days of
+that, right? Like, it's
+different now than it was back
+then.
+Arvid Kahl: Yeah, that's true.
+That's a good point, I think,
+yeah, people. And that's the
+thing with these kinds of
+strategies and people only, in
+retrospect, see the value of
+these strategies, but they have
+moved on in many ways, right?
+This viral loop chasing, now we
+are looking at a world where the
+personal relationships between
+you as a founder of a SaaS
+business with your potential
+customers or their customers or
+their clients, like word of
+mouth becomes a much more
+interesting target for many
+businesses, right? Where sales
+is more personalized than not
+even product lead? Have you
+experienced anything like this
+as well?
+Ruben Gamez: Yes, in certain
+segments. So word of mouth is
+super interesting. I think
+people just like, think about
+word of mouth is just this fuzzy
+thing to where it's like, it's
+uncontrollable and it just kind
+of happens. And you just build
+something really good and great.
+And that kicks off word of
+mouth. And the better of a job
+you do that, the better your
+word of mouth will be. And yeah,
+of course, there's some element
+of that. But the truth is, you
+can understand word of mouth and
+you can encourage it. And you
+can do things, too. So for
+example, one of the things that
+we looked at with SignWell was
+we're horizontal so a lot of
+people can use us, but certain
+use cases in certain industries.
+We like, how do those work? So
+we're not going to niche the
+product, but we want to
+understand from a marketing
+perspective, how we can reach
+more people and one of the
+things I mentioned before, I
+think on Twitter or somewhere,
+was education. So it's like,
+okay, we kind of like what's
+going on with education. We're
+mixed on it right now because
+the budgets are always low and
+you know, so, but we're like,
+okay, we've got a little bit of
+word of mouth. How is that
+happening? Why is that
+happening? So it was two things,
+researching like, our own
+customers. And then the other
+part was researching the space.
+It's like, how does education
+work, going into? What are the
+groups where they communicate?
+And it's more about like, not
+all of education, it's like,
+what are the sub networks within
+this, right? And how do they
+relate to each other? And how
+does word of mouth work in
+there? And then analyzing
+smaller brands, smaller
+products, new things that are
+not well known to have caught,
+you know, that caught on that
+started to spread that way?
+Like, why did they spread? So
+like, in that research, we found
+that, yes, their budgets are
+low. And because of that,
+teachers sometimes have to buy
+their own stuff or do you know,
+so they don't have a lot of
+money. But when things are free,
+they really like to share those
+and if things a lot of free
+things, education tend to be
+really crippled and not very
+useful. If things are free in a
+way to where it's like basically
+a paid product like ProfitWell,
+whatever, then that gets really
+interesting to them. And that
+gets shared a lot more. So we
+took our like paid product and
+we said for education. For the
+next year, it will be free. And
+we went to certain groups and
+people and that sort of thing
+helped kick things off. And sure
+enough, like it started to pick
+up just like we'd seen with
+other products and they started
+recommending this school
+district of that, this teacher
+of that and then, you know,
+eventually this is a long term
+play because you know, of
+course, you have to try to at
+some point. But that was just an
+example of like under learning
+how word of mouth works in a
+specific niche and doing things
+to encourage that.
+Arvid Kahl: That's very cool. Do
+you run many of these outreach
+or even just research scenarios
+at the same time? Like, I do
+wonder, where do the ideas come
+from? Who's doing the research?
+Like, how long does it take for
+you to find that kind of
+information about all these
+companies?
+Ruben Gamez: I usually do the
+research myself. Doesn't take
+all that long. So if it's like
+for education, it's literally
+from interviews, we learn from
+customers, maybe what groups
+they hang up on. And then we
+research those groups. And it
+doesn't it's really like, a few
+hours to where you start to pick
+a pile you have to do is just do
+it long enough to pick up
+patterns. You're like, ah, okay,
+I see this pattern here. Right?
+Yeah. And then from there, it's
+kind of like you coming up with
+ideas and things that you think
+will work and then trying them
+out.
+Arvid Kahl: I love that you
+start with interviews like that
+you actually have conversations
+with people. Because like,
+personally, I tried to avoid
+these kinds of things just
+because that's, I think, how I
+was socialized as a, you know, a
+software person. You never talk
+to people. Like in the
+businesses I worked in, they
+never let our customers talk to
+us to the developers. They
+always put like, some marketing
+or customer service guy, just
+out of fear that we would be
+honest with them, you know and
+probably
+Ruben Gamez: And say the wrong
+thing. Yeah
+Arvid Kahl: Yeah, that's kind of
+they didn't train us either.
+They could have just trained us
+to have the right kind of
+conversation with those people.
+But they put different people in
+front of us. So I was
+consistently socialized. That
+was back in Germany. I'm not
+sure if it's all over the world
+like that. But that's just
+that's where I come from with
+the work experience that I have,
+not to talk to people. So that
+kind of still feels like that.
+Even as the business owner, I
+kind of tried to shy away from
+it. I tried to source my
+information somewhere else, not
+from a direct conversation or at
+least that used to be the case.
+Now it's very different.
+Obviously, being very active on
+Twitter and stuff that is
+people, that is interacting with
+people. I can't like shy away
+from that anymore. But as a
+founder back in the day, before
+I was active on social media, I
+would do everything to avoid
+those kinds of calls. So knowing
+that you have to start there to
+get the information, even just
+figuring out where they go to
+the watercooler conversations,
+right? Where they have those,
+that you need to ask. You need
+to actually ask a human being.
+That's really cool. Do you have
+a script for these kinds of
+things? Like do you have a set
+script for these interviews? Or
+is it more of a flexible kind of
+conversation?
+Ruben Gamez: You know, it's a
+combination. It depends, like,
+if it's going to be like a
+really structured like, switch
+style interview, then we have
+those scripts from, you know,
+from that framework. There are a
+couple of really good books on
+there. They have a lot of great
+scripts on there. There's a, I
+mentioned it before.
+Arvid Kahl: Yeah, yes.
+Ruben Gamez: And then there is
+the other one that
+Arvid Kahl: Deploy empathy?
+Ruben Gamez: Yes, that one I'm
+really, really, really impressed
+with.
+Arvid Kahl: Yeah
+Ruben Gamez: I bought it for our
+customer success person. She
+really likes it. What I like
+most about that one, I think is
+the most helpful for founders.
+That it's just like the way it
+talks about it as an ongoing
+process, is, is very, very, very
+good and a great mindset for
+people to get into. And then it
+just gives you the scripts and
+all the things to ask and how to
+ask and all this stuff. I think
+that one's great.
+Arvid Kahl: That's awesome.
+Yeah, like Michele Hansen was
+the first guest on this podcast,
+just want to point out how
+awesome she is.
+Ruben Gamez: Yeah, she's great.
+Arvid Kahl: She's spectacular.
+She sent me like a signed copy
+of the book too. So I'm over the
+moon with the book. I have
+multiple copies of it. And I
+think Rob Fitzpatrick was a
+guest on the show too. Like the
+Mom Test is the older one. I'm
+so lucky to be able to talk to
+amazing people like them and
+yourself as well. Just because
+the knowledge that he codified
+in the Mom Test and the
+knowledge that Michele, she
+started this as a newsletter
+just sharing her experience from
+doing all these many customer
+interviews back in Geocodio,
+right? It wasn't even meant to
+be a book and then people just
+clawed at her. Give us the book,
+give us the book and turned out
+that that's how you write books
+nowadays, apparently. Yeah, it's
+super useful for those of us who
+have a, not too an easy time
+talking to people. Those scripts
+are super helpful, too.
+Ruben Gamez: Yeah, yeah, I love
+stuff like that. Anything that's
+super actionable. I remember
+reading roommate safety's book,
+I Will Teach You To Be Rich.
+That was like, probably my
+favorite part of it was where
+you would just call these
+companies like credit card
+company or whatever. And he
+gives you a script, just tell
+them this. And if they say if
+you missed a payment, just say,
+can you, you know, get rid of
+the fee on that, the late fee or
+whatever, like nobody asks. So
+he has some really simple things
+to just ask. And I remember for
+the first time calling and
+trying it out and was like, oh,
+it just works, just ask. That's
+it. Yeah.
+Arvid Kahl: Well, since we're at
+the topic of books, do you have
+any recommendations for SaaS
+founders indie hackers? I've got
+a really small tangent here
+because I recently looked into
+your blogs because I wanted to
+see like your oldest blog to
+just how far back you went. And
+I think you described the
+business you were founding as a
+micro ISV. You know,
+Ruben Gamez: Yeah
+Arvid Kahl: Remember when you
+still called them independent
+software vendors back in the
+day?
+Ruben Gamez: That's the term.
+Arvid Kahl: That's how far we've
+come, right? And I think now we
+have books out like what Rob
+Walling's latest book about SaaS
+businesses. That's kind of what
+we call them now, right?
+Solopreneurs, SaaS businesses,
+any suggestions in the field for
+people who may be struggling
+with the things we talked about
+mostly real like customer,
+interviews, where we have two
+recommendations there, but just
+like even just understanding how
+to implement these kinds of
+processes in the business?
+Ruben Gamez: Yeah, I think I'm
+glad Rob, he's a good friend, of
+course. And but like, the title
+of it has playbook in it SaaS,
+that's literally what it is,
+legit. It's got a lot of the
+things that people struggle
+with. So I think that one, like,
+it's gotta be. Like nowadays,
+you know, it's one of the few
+because before it just felt like
+you just cobble a lot of books
+together, right? So that one for
+sure. Let's see, I like very
+actionable ones. So one that I
+try to push on people, but
+people don't seem to read it.
+And I'm like, it's really,
+really good. Once you have a
+start to have a team or start to
+work with contractors or other
+people, is called Crucial
+Conversations. And it's, like,
+what it sounds like about having
+difficult conversations in a way
+that's very productive. And, you
+know, like not delaying those
+because a lot of times, they
+just get delayed until things
+get really bad or whatever,
+right? It just gives you a very
+specific framework on like, how
+to handle these conversations.
+And I use it as a guide, kind
+of, like whenever I need to
+refresh my memory and write
+notes. And then, you know, do it
+that way. So I think that one's
+super underrated and underused.
+And I think it depends on the
+type of business that you're
+trying to build because
+different books will be more
+useful for founders of like, if
+you have a sales lead business,
+then I would look at something
+like the Ultimate Sales Machine.
+There's Predictable Revenue,
+which is like outdated and like,
+you know, not much of it is some
+of it applies. But you know, I
+wouldn't recommend it. And then
+if you're like, more product
+lead, you know, there's the,
+it's called the product lead
+book, might even have product
+lead in the title. So it kind of
+depends on what you're trying to
+do. I like Ready, Shoot, Aim.
+Ready, Shoot, Aim. I don't know
+if you've read that one.
+Arvid Kahl: Yeah, I've read that
+one.
+Ruben Gamez: Yeah, so only like,
+I'd say like, just read the
+first three chapters or
+whatever, like, you'll know when
+to stop on that one. It's just a
+type of mindset that is
+interesting that a lot of people
+don't do. I think, Great Leads
+on the copywriting side, a book
+called Great Leads is really
+good as well.
+Arvid Kahl: I love that for
+Ready Set Aim. You suggest just
+to start reading it and then
+decide if you should continue on
+that. That's very much in the
+spirit of the book. Love that.
+And also, I'm really happy that
+Crucial Conversations made it
+almost the top of the list here
+because it just shows like how
+much you care about
+communication in a team. The
+fact that this is a
+recommendation to you know,
+software business owner tells me
+a lot about how you run your own
+team. Now I think your team is
+around six or seven people,
+right? That's currently the size
+of the team. Do you still
+consider yourself like an indie
+hacker? Like a solo
+bootstrapper? Or was there a
+progression towards more like a
+managerial position? Like, where
+do you see yourself? I know you
+have a team and I know you lead
+it, but like, how does it feel
+like internally?
+Ruben Gamez: It's still a very
+small team and everybody that
+joins the team needs to, like be
+able to work independently and
+you know, like be able to own
+projects and contribute in
+meaningful wealth way. So feels
+different than if I had a team
+to where it was just like, I'm
+there and they need direction
+from me at all times. And I am,
+you know, like, a manager
+manager in that sort of way,
+right? So there's like, being a
+manager and managing like, task
+based people. And then there's
+kind of just leading a team. And
+I feel like, I tend to do that
+more than, you know. I do work
+with contractors to where then I
+become a manager to where I'm
+like for a marketing, we don't
+have anybody for marketing, but
+it doesn't mean we don't do
+marketing. We've done a good
+amount of marketing. It's just
+that I'll come up with a
+strategy. And then in the
+earliest days, I will do the
+work to try and get a feel for
+like how this, you know, goes
+and I'll spend the time and then
+it's like, okay, I think I got
+it. And then I'll write some
+stuff up. And then I'll go to
+Upwork or wherever and hire
+somebody to help execute and
+then they'll do the execution,
+right?
+Arvid Kahl: That sounds very
+indie hacker. Like to me still,
+after all these years, that's
+really cool. I like that. That's
+kind of how you approach this
+that you don't like over, you
+know, overgrow, like start to
+have a team of hundreds or two
+hundreds of people. I recently
+had Jason Cohen on the show. And
+like, his business now has its
+own building, right? Like,
+that's a different story. That's
+like, 1000s of people. And he
+seems to be fine with his role
+at the company that he'd be
+found out and stuff. But do you
+have similar aspirations? Or do
+you just want to keep a small
+team and work on things that you
+like?
+Ruben Gamez: I am. Yeah, so I'm
+okay with growing the team up to
+Arvid Kahl: Yeah, that sounds
+reasonable. And I think that's
+a certain size. And then I'll
+see like, I'm not overthinking
+it too much. You know, I'm sort
+of like enjoying the journey.
+exactly what Jason did too,
+right? Like, he hired a CEO for
+And then making decisions like I
+have these ideas in my head
+WP Engine. And the company's
+doing great and he doesn't have
+about what I like and enjoy and
+what things might be at a
+certain size. And I tend to like
+smaller teams. That's just me.
+to do the CEO stuff, the stuff
+he doesn't like, right? So
+But maybe when I get there, I
+might say this is pretty good.
+that's perfect. I really hope
+that you get to enjoy this
+There's a lot that I'm learning.
+I'm growing in a specific way
+that where I want to keep going
+or maybe not. Maybe I'm like,
+journey for as long as possible.
+Because you've been not only
+okay, time to bring in the CEO,
+somebody else to drive this
+have you been enjoying it,
+hopefully. For a long time,
+thing. And then I'll figure out
+if I'm, you know, what my role
+is there or not, you know.
+you've also been sharing a lot
+about it. You've been like
+sharing your insights into this
+not just on podcast, but also on
+Ruben Gamez: I'm never thinking
+about building in public or
+Twitter. Do you consider
+yourself somebody who's building
+in public? Is that something you
+feel you're doing? Or is it not
+enough for that? Because you
+share a lot but it doesn't feel
+like very, you know, you're
+forced just whenever you feel
+like it, you kind of share stuff.
+anything like that. It's just
+it's very freeform. Like, I'll
+share something that I think
+others might find interesting or
+that I've been thinking about or
+some you know, podcasts or
+something like that sparked a
+thought and I'm like, ah, okay,
+like, I need to like, say this
+somewhere. And that's like, you
+know, a good place to say it. So
+that's kind of how I approach
+it.
+Arvid Kahl: Well, I love that.
+And I'm a big, big fan of your
+social media content, obviously.
+You never cease to post
+enjoyable and thought provoking
+things. So if the listener or
+viewer of the show would like to
+find you on the worldwide web,
+where would they go?
+Ruben Gamez: Thanks. Twitter,
+basically or X, I guess now
+like, is this like
+Arvid Kahl: The other name
+Twitter. This has happened.
+Ruben Gamez: Shoot. Yeah,
+earthling works. That's why I am
+on there. And then for, of
+course, document signing needs,
+signwell.com.
+Arvid Kahl: Thank you so much
+for being on the show today,
+Ruben. That was really, really
+insightful. Thanks for sharing
+all your little insights and
+strategies that you have for
+running these really cool
+businesses. I'm very, very
+grateful.
+Ruben Gamez: Thank you. Thanks
+for the invite. And it was great
+talking to you.
+Arvid Kahl: Thanks.
+And that's it for today. Ruben
+talked a lot about building
+solid SaaS businesses, even
+spaces where there are gigantic
+competitors. And a lot of
+founders end up in those kinds
+of places, that can be a lot.
+There's a way to capitalize on
+that position without having to
+fight your way out of it. Let me
+introduce the sponsor of this
+episode, acquire.com. Imagine
+this, you're a founder who's
+built a really solid SaaS
+product. You acquired customers
+and all of this is generating
+consistent monthly recurring
+revenue. The problem is, you're
+not growing for whatever reason,
+lack of focus or lack of skill,
+just plain lack of interest. You
+just feel stuck. Maybe there are
+big competitors around. You
+don't know what to do. The story
+that I would like to hear is
+that you buckled down, you
+figured it out, you reignited
+the fire. You get past yourself
+the cliches and you started
+working on your business rather
+than just in the business as
+people always say. You built
+this audience you always needed
+to build. You move out of your
+comfort zone, do sales or
+marketing, you just do
+everything, right? In six
+months, you've tripled your
+revenue, everybody's happy.
+Reality is not that simple. And
+situations are very different
+for each founder who's facing
+these crossroads. But too many
+times, all stories end up being
+stories of inaction and
+stagnation, until that business
+becomes less valuable or worse,
+worthless. So if you find
+yourself here, where your
+stories likely headed down a
+similar road, I can offer you a
+third option. Consider selling
+your business on acquire.com.
+Capitalizing on the value of
+your time today is a smart move.
+Acquire.com is free to list and
+they've helped hundreds of
+founders already. It's really a
+good idea to just check it out.
+So go to try.acquire.com/arvid
+and see for yourself if this is
+the right option for you today.
+Thank you so much for listening
+to The Bootstrapped Founder. You
+can find me on Twitter
+@arvidkahl. And you'll find my
+books and my twitter course
+there, too. If you want to
+support me and the show, please
+visit the guest that was on the
+show today, subscribe to my
+YouTube channel, get the podcast
+in your player of choice and
+leave a rating and a review by
+going to
+(http://ratethispodcast.com/founder).
+Any of this will really help the
+show. So thanks so much for
+listening. Have a wonderful day
+and see you around. Bye bye

@@ -1,0 +1,53 @@
+{
+  "topic_id": 153991,
+  "title": "I want add a pdf file using api from front-end system into my erpnext",
+  "slug": "i-want-add-a-pdf-file-using-api-from-front-end-system-into-my-erpnext",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "customization",
+    "frappe"
+  ],
+  "created_at": "2025-09-22T11:29:45.145Z",
+  "last_posted_at": "2025-09-22T11:29:45.250Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/i-want-add-a-pdf-file-using-api-from-front-end-system-into-my-erpnext/153991",
+  "views": 32,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Mohammed_Anas1",
+  "posts": [
+    {
+      "id": 481411,
+      "username": "Mohammed_Anas1",
+      "name": "Mohammed Anas",
+      "created_at": "2025-09-22T11:29:45.250Z",
+      "cooked": "<p>Hi everyone,</p>\n<p>I’m on <strong>ERPNext v15 / Frappe v15</strong>.<br>\nI have a frontend system where a PDF file is generated. I want to send this PDF through API and have it uploaded into ERPNext, attached to a specific DocType with some data (for example, Sales Invoice or a custom DocType).</p>\n<p>I’ve seen references to <code>/api/method/upload_file</code> and also examples of creating a <code>File</code> document with <code>decode=1</code>, but I’m not fully clear on the best approach.</p>\n<ul>\n<li>Should I use the built-in <code>/api/method/upload_file</code> endpoint directly from the frontend (with <code>multipart/form-data</code>)?</li>\n<li>Or should I create a custom whitelisted method that accepts a base64-encoded PDF and saves it?</li>\n</ul>\n<p>What is the recommended way to do this? If anyone has a working example (frontend request + ERPNext side), that would be really helpful.</p>\n<p>Thanks!</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/mohammed_anas1/{size}/65291_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 14,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,1250 @@
+﻿[Music]
+so
+our our next guest um is
+the co-founder of hey hey.com and so
+um hey is a a headline sponsor headline
+partner of
+microconf and startups for the rest of
+us um in 2020 and they've been a great
+supporter of ours
+for the past several years and you know
+our next guest jason free joined me
+on stage last year at microcomp growth
+we had a really good
+q a session and conversation where he
+answered questions about
+the early days of base camp he took
+questions from the audience and was
+just very gracious with his time and and
+we really appreciated it
+and uh you know hey has launched this
+year this is the new product coming out
+of base camp
+um and hey has been as i said you know a
+sponsor and they've come alongside to
+to try to help this bootstrap indie
+funded community and and help
+us be able to provide events like this
+to you because these
+types of events we'd have to charge a
+lot more for them
+if we didn't have sponsors like hey um
+so i'd love it if you'd give a shout out
+to hey on twitter and just thank them
+for supporting
+this bootstrapped community and with
+that i'd love to
+welcome jason freed the co-founder of
+base camp to the show
+um you know obviously he's one of the
+original badass bootstrappers that
+has consistently provided guidance and
+good advice to founders for
+going on two decades now several books
+written with his co-founder dhh
+and obviously an outlier that's you know
+taking a stair-step approach to the very
+top
+started building new prep to take their
+companies to new heights it's like he he
+added many zeros to the
+to the formula that i think most of us
+uh ascribe to so this is an
+ama and ask him anything this is here to
+answer all your questions about
+what it was like to build hay how the
+successes of base camp served as a basis
+for the launch of hay
+and really anything you'd like to ask
+them about that i also have a few
+questions um to kick us off but you can
+just use the question button in shindig
+and it's it's down below you and we'll
+try to get to as many of them
+as possible my guess is based on how
+these things normally go with jason
+there will be more questions that we can
+possibly answer but we have about um
+well just under 30 minutes now to roll
+in
+so jason sir thank you so much for
+sharing the stage with me again
+oh it's great to be here thanks for
+having me back yeah it's awesome awesome
+to see you again
+are you uh are you in chicago or
+california
+i'm currently in california yeah but
+primarily
+living in chicago oh yeah it's nice and
+sunny outside there so i was thinking
+you might be on
+on a coast there somewhere so for for
+folks who don't know so
+anyone can email me rob walling hey.com
+if you want to
+hit my hey inbox um but hey is an email
+service
+that doesn't you know so i want to i
+want to set the stage right there's
+gmail
+and then super human launched a few
+years ago and superhuman is built on top
+of gmail so you need a gmail or google
+apps account to use it
+hey is not that hey is is next to gmail
+like you have
+bare bones servers smtp top three
+all that stuff right it's if you have
+you have the entire infrastructure in
+place
+yeah hey is an email service so just
+like when you sign up for gmail you get
+a gmail.com address
+if you sign up for hey you get a hey.com
+hey.com so we are a provider
+you don't need to use google you don't
+need to use outlook you don't need to
+use apple icloud you don't need to use
+any other email provider
+and the reason we did that is because we
+wanted to innovate we wanted to make new
+something new
+and if you're riding on top of someone
+else's platform like most email clients
+sit on top of gmail or whatever smtp
+provider
+you there's not a lot you can really do
+because you're beholden to how they
+do things so if you want to do something
+new you've got to start from the ground
+up
+um you've got to be vertically
+integrated in that way and that's where
+you can really make some changes
+and you know so obviously i mean base
+camp is an amazing success story
+but you know compared let's compare your
+revenue to google microsoft apple these
+other companies you're competing with
+it's there's there's a lot of zeros
+difference there so
+why a lot yeah
+yeah what i guess you know
+what is in your dna you know the dna of
+base camp that convinced you guys that
+hey we can take on these these bigger
+players
+well for one i mean yeah technically
+we're taking them on because a lot of
+our customers
+have switched over from from
+gmail for primarily from gmail over to
+hey so technically yes we're competing
+but not really and what i mean by that
+is i think
+gmail has 1.5 billion email accounts
+on gmail we're not going to have that
+we're not
+looking for that we're not even in that
+realm and we don't want to be you know
+we're a paid service
+so we're not giving email away for free
+and just like with basecamp you know if
+we get a hundred thousand paid customers
+we're in a pretty good position so
+that's kind of what we're looking for
+we're looking for people who really care
+about email who
+are frustrated to no end with it looking
+for something new looking for something
+that's private
+looking for something that's not going
+to mind your data and looking at it
+something that has built-in workflows
+and not workarounds
+and so if we get 100 000 200 000 of
+those kinds of people
+we're in a good place so we don't need
+to match google or outlook or
+or or yahoo different game although
+we're playing the same by the some of
+the same rules and that we're a service
+provider like they are but but our
+approach is very different so
+yeah i mean it's the stupidest thing
+we've ever done and i mean that in the
+most
+you know appealing way um but we're also
+not really trying to we're like for us
+we're not gonna look and go like
+we didn't we didn't get you know we
+didn't beat gmail so we lost like that's
+just not how we look at things in
+general yeah
+here's the other thing i want to say
+about this is that companies have their
+own economics
+and this is something you don't hear
+enough about in my opinion which is that
+people are like well how do you compete
+with them and how do you compete with
+them and well one of the first questions
+i would ask is like
+what are your costs because if your
+costs are a lot less than everyone
+else's costs
+then you can afford to compete in a
+different level like if we had to get a
+billion signups to make this thing
+viable for us well then we're probably
+not going to be
+gmail but we don't need that we need
+tens of thousands or a hundred thousand
+or a couple hundred thousand like over a
+number of years because our cost
+structure
+is is set up completely differently we
+don't need that much to cover our cost
+compared to what
+google does of course when they have you
+know tens of thousands of employees so
+you got to start with that and then then
+you can sort of figure out what makes
+sense for you it doesn't you don't have
+to
+do what someone else does you got to do
+what works for you
+and that's really an important thing i
+think for entrepreneurs
+yeah no i think that's really important
+thanks for calling that out you
+mentioned a couple
+differentiators you know you said you're
+very privacy focused
+uh workflows not workarounds um do you
+want to dive into those two and maybe if
+there are any others that are you know
+common talking points about how you are
+different why you're different than
+these other providers
+yeah for sure let's start with privacy
+um one of the big problems with email
+and i'm going to hit it from a couple
+different angles but one of the big
+problems with email of course is that
+you're not in control of who can contact
+you it used to be that you'd give out
+your email address to someone
+and only that person would have it and
+you that was how you kept control over
+who can get touch with you but
+these days your email address has been
+bought and sold and traded and posted
+online
+it's everywhere so we've stopped being
+in control
+of who can get in touch with us which is
+a problem if someone calls your cell
+phone
+and you don't recognize the number you
+just don't pick it up it's very there's
+very little effort just to go ahead no
+with email anyone who emails you
+basically lands in your inbox
+this is a problem it's a fundamental
+problem with email today
+so with hey you get to decide who can
+email you
+the first time somebody emails you you
+give them a thumbs up or a thumbs down
+and if they're thumbs down you'll never
+hear from them again
+so that's one version of privacy which
+is that you are in control who can get
+in touch with you you're in control who
+can communicate with you
+the other side of course is that we um
+we don't sell ads so we're not minding
+your data we're not looking at your data
+we're not pulling anything out of your
+data
+not interesting to us don't want to do
+that ever and also
+we um we block trackers so
+what a lot of people don't know is these
+days by simply opening an email
+with no indication this is the case if
+you just open an email
+the sender the person who sent it to you
+can receive all sorts of personal
+information about you
+how long you read the email if you
+opened it how often you opened it what
+kind of phone you have what brand
+computer you have what time it was your
+ip address which they can give you
+you know basically get you down to some
+local information that way as well
+we block all that so if someone tries to
+include a tracker an email and you're a
+hey.com customer
+they will not know anything about you so
+we're protecting your privacy on that
+side too so one number one is control
+number two is on the back end we're
+making sure that nobody learns anything
+about you about your behavior no one
+tracks you
+simply by opening an email now that's
+some of the privacy stuff there's a
+bunch of other things as well but
+the the bigger thing though to me is is
+the workflow situation
+what's amazing to me about email is that
+email has not evolved
+for about 16 years 16 years ago gmail
+came out
+and it felt different it had new ideas
+in it
+the thing is is that we're still stuck
+doing the same things we've always done
+and no one's really come up with better
+workflows for example
+simple one someone sends you an email
+and you need to get back to someone
+later
+comment this happens all the time it's
+like yeah i gotta get back to that
+person later so what do you do
+you hack you hack it you like mark it
+unread again maybe you star it or flag
+it
+maybe you maybe you make a folder or a
+label and put some stuff in there maybe
+you snooze it
+none of those things have anything to do
+with
+the mental understanding that i need to
+get back to someone later
+so you're hacking around with
+workarounds to try to remember that you
+need to do something later
+and you're using all these different
+things that aren't quite right so with
+hey which of a button on every email
+that says reply later
+and when you say reply later it goes
+into a nice pile along with all the
+other emails that you said reply later
+to
+then you can go into a mode called focus
+and reply you
+click that it opens up all those emails
+it stacks them one on top of the other
+and lets you simply reply to those one
+after another without being interrupted
+or distracted by
+anything else that's happening and it's
+an entirely different way
+to work on email and it saves you it
+saves me
+hours a week which is significant um
+and it saves me a lot of hassle and it
+allows me to say okay i've got
+like 30 minutes now i'm going to knock
+out all my emails at the end of the day
+i know exactly where they are nothing
+else is going to get my way so
+we've got a dozen or so of those kinds
+of workflows built into hay
+versus workarounds where you're trying
+to make one thing do something else so
+we thought about all that stuff and we
+were so frustrated by the fact that like
+email just hasn't changed in so long
+it's time to do something new and that's
+what hay is all about
+awesome we have a we have questions
+pouring in from the listeners as you
+would expect
+um i want to jump down to one producer
+xander from brian yiddo because it ties
+into something i was going to ask you
+about anyways jason
+this question is how is hayes pushback
+on apple's app store
+terms of service going and if you
+wouldn't mind just giving a
+you know a couple sentences or one
+minute description of what happened
+there with apple
+uh to catch people up and then talk
+about you know has there been a
+resolution and what that's been
+yeah of course um so
+when we launched hey we put 1.0 version
+1.0 in the app store apple app store and
+android store
+both were approved which was wonderful
+and then we were
+we put a 1.0.2 bug release version
+or update into the app store in the
+apple app store a few days later
+and apple rejected it and they rejected
+it even though
+nothing materially changed they rejected
+on the ground that we weren't giving
+them 30 percent of our revenue
+because we were selling a subscription
+service and somehow that slipped by the
+reviewers in the first place is what
+what apple claimed
+um and so we got in this battle with
+apple basically apple said you have to
+give us 30
+of your revenues and we said we're not
+giving you 30 of our revenues
+um and they gave us some other things
+and this basically kind of blew up in
+the press we went to the press over
+because it was a strong arm tactic by
+apple to
+extract 30 of our business which they
+are not entitled to
+um the problem is that on ios of course
+everybody knows you don't have choice so
+we can't sell we can't even mention that
+we can sell our product
+some other way we can't mention billing
+we can't mention credit cards we can't
+mention sign up can't mention all these
+things we didn't mention any of those
+things
+long story short is um we got into a big
+public uh
+battle with apple over this um it was
+all over the press for about a week
+and we we didn't give in on terms of the
+30 we're not paying them 30 percent
+but what we did eventually come to terms
+with with them over was um
+we introduced a slightly well free
+version uh
+of hey that's available on ios which is
+a slightly different version from our
+main product
+and if you still want to buy hey the
+full version you still go to hey.com and
+you buy it there
+but at least when you load the app up
+there's something that you can sign up
+for
+that doesn't require visiting our
+website so it turned out that apple was
+comfortable with that we're still not
+giving them 30 of our revenue
+um but they were comfortable with at
+least the app doing something on
+on launch um but the the bigger thing
+here
+is not there's a few things going on so
+there's the percent which of course
+i think is just you know uh
+usually it's it's it's unfair it's two
+it's too much first of all
+but it's deeper than that and this is i
+think will resonate with with people who
+are who are watching this who are
+entrepreneurs which is that
+i do not believe that a company any
+company should be able to tell me how i
+can service and treat my customers one
+of the big
+unknown things about the app store is
+that when
+if you use the in-app payment system
+that apple requires you to use if you
+sell products through apple
+is that you cannot provide your
+customers a certain level of customer
+service if you have a billing issue you
+have to defer them to apple
+if you want to give them a discount you
+can't if you want to give them half off
+you can't
+if you want to give them a hardship
+discount you can't for example
+when covid first hit a lot of our
+customers on base camp wrote us saying
+hey we're small businesses this is
+really going to get take a big hit this
+is really hard for us we said
+we'll give you a couple months free
+don't worry about it like we'll help you
+out we're here to help you
+you can't do that once you've given your
+customer to apple because you're not in
+control of the billing system
+so now i have two tiers of customers i
+have the customers i can really help the
+way i want to help them
+and i have the customers have to say
+well you got to go talk to apple and by
+the way apple's not going to be able to
+help you because that's not what the
+business apple's in
+it's not apple's right to be able to do
+that to me
+they're a one trillion dollar company
+why should they tell me how i can
+provide service to my customers it's
+completely
+abhorrent to me and i'm not going to
+give in to that so that was another big
+big angle that we pushed all this
+forward and out there and a lot of
+people started to pay attention and saw
+people came out of the woodwork saying
+apple's been doing this to us for years
+apple's been pushing us and bullying us
+for years and i think it created a
+groundswell of of um
+of interest and excitement and then um
+you know apple changed the rules at wwc
+the following week um hopefully
+influenced a little bit by what we did
+and hopefully over time they'll change
+them more and more and more and give
+developers choice
+uh i can go into more detail but i don't
+want to take over all the time but
+that's kind of
+how that happened yeah bravo yeah thank
+you sir good explanation
+um completely another direction we have
+a question from
+quang von and he says is hey using ruby
+on the back end oh yes all of our
+products are built on on rails
+um so yep hey base camp high rise
+campfire backpack everything
+from this point back forward or four or
+backwards and forwards is built on rails
+there's other technologies we're using
+as well but
+rails rails is the predominant uh
+language behind everything
+yep or framework um
+ah i'm trying to figure out if i
+understand this question it's from
+adrian fletcher
+and it says what features were base camp
+hay
+employees really upset to ignore or miss
+out on
+in order to launch the service so i
+think what he's asking is what did you
+leave out of hay
+that maybe team members really wanted to
+be in there but you you just oh my god
+so many things here's the thing about a
+1.0
+version 1.0 of anything is not
+all your ideas it's not the best version
+it's not everything you've ever wanted
+to do it's simply
+what made the cut and there are so many
+things that didn't make the cut
+that will add in subsequent releases
+we've already added some we'll be adding
+more and more down the road we're
+currently working on hey for work which
+will allow companies to use hay
+and all the employees to use hay
+together and host your your company's
+email on that so we're working on that
+right now
+there are so many things um one of the
+features that didn't make it
+that i really liked was simply a feature
+called waiting on
+sometimes you send an email to somebody
+and you're waiting on a reply from them
+and so we had this feature we built the
+feature early on where you'd you'd mark
+something waiting on and it would put it
+into a separate pile so you can keep
+track of the things that you really know
+you need to hear back from someone about
+so you can see you can go to that list
+later and go oh yeah these are the six
+things that i really need to get
+answers back from and then the system
+could potentially send
+out a nag or something to the other
+person saying hey jason really needs to
+hear about this or whatever
+as we started using it we didn't build
+the whole feature we just built
+basically the way to flag something is
+waiting on and it didn't have enough
+bite there wasn't enough value in it
+without
+kind of completing the whole idea which
+is like the the additional system
+going out and helping you out by
+reminding the other person that you need
+something by a certain time
+so since we didn't build the whole thing
+we decided to hold it back
+so we didn't build sort of a half-assed
+piece of software so we held that back
+there's a lot of things like that
+that we that we held back that weren't
+fully formed but the idea is right and
+it's there
+and we'll get to it later when we can
+complete the whole thing and put the
+whole thing out
+but there's a number of little things
+like that but waiting on is one of those
+like
+the first thing that comes to mind is
+something i still want today
+but we didn't really make it useful
+enough to put it out there and i'd
+rather kind of
+make a splash with it when it's actually
+really fully ready
+but there's literally hundreds of things
+we didn't do
+that we're gonna do in 2021 specifically
+is going to be pretty exciting for hey
+we've got a lot of things planned this
+will be pretty fun
+awesome did i read somewhere and correct
+me if i'm wrong but
+i think it was posted in a tiny seed
+slack by just a founder who's commenting
+that
+did you guys release numbers either like
+mrr that you launched to or
+number of customers or number of users
+was it like a hundred thousand users a
+month already
+or something yeah so when hey first
+launched
+we signed up about 200 000 people in the
+first few weeks
+so the the interest was off the charts
+we didn't expect we we knew we had
+something
+really good here um we didn't know that
+it was really going to strike a nerve
+like it did and
+how it's continued to strike a nerve um
+so we're really excited about that we
+had about 200 000 in the first couple
+weeks a lot of this was driven by the
+apple news and the publicity we got
+there
+but a lot of it was driven by pure
+excitement over the product as well like
+people
+were so hungry finally to to do
+something new with email and see email
+in a new light
+and like when they when they watch my
+demo i'd give this 37 minute demo which
+you can find on
+on youtube or if you google like jason
+freed hey demo
+or hey walk through you'll find it when
+people watch that i think it got a lot
+of people really excited
+about the product because i shared the
+philosophy behind the features and then
+walk people through the features at the
+same time
+and i think a lot of product people
+really appreciated that type of work
+walkthrough um and that got people fired
+up and people
+signed up about it and told about it and
+told everyone and we had an invite
+process the whole thing so
+there's a lot of that it's of course
+tapered off as as you'd expect i mean
+it's like boom
+launch tapered off um but you know we
+have tens of thousands of paying
+customers
+um already um conversion rate's been
+pretty wonderful we're pretty happy with
+that
+um it's been more than basic higher than
+base camp which has been great
+um and there's some things that a lot of
+people really really want like for
+example custom domains which has been
+something that a lot of people been
+asking for which we don't offer yet
+everyone gets an at hay.com email
+address
+once we launch custom domains later this
+year i think a lot more people are going
+to jump back in and check it out again
+for a second time so
+we're very comfortable with how things
+are going and it feels really great
+right awesome congratulations on that
+um thank you so deep asks he says i love
+your contrarian way of thinking
+how do you suggest a new founder who
+wants to build a
+company with solid values and a solid
+culture that sticks
+i think he's asking just that like base
+camp has such strong culture and values
+and you've obviously been deliberate
+about that like
+how can how can another founder do that
+in their company
+first off um it's a mindset right so you
+have to believe that
+that that's what you want so don't
+follow us
+you can't follow us or follow anyone
+because that's not you're not being true
+to yourself
+if we if you believe what we believe
+then you're being true to yourself but
+don't don't look to us
+i want to be like them figure out what
+matters to you
+um and it's all about actions so for
+example like
+it's not about what you write down it's
+not about you know
+your handbook it's really about the way
+i like to think about culture is it's a
+50-day
+moving average what have you been doing
+as a company over the last 50 days how
+do you treat people
+what do you do when people are stressed
+out how do you help people what kind of
+criticism or critique do you give what
+kind of feedback do you give how do you
+share how do you
+help people who are stuck like those the
+things
+that make the culture and those things
+can change which is good and bad but
+what
+how the last 50 days been that's kind of
+how i look at it because there's always
+these spikes
+or these moments for example we launched
+hey two weeks of incredible stress
+terrible stress i hated it um it was
+wonderful but i hated it
+but it's unsustainable and so we're past
+that now
+so now we're settling back into how we
+want to be um because we don't want to
+be
+working late at night working on the
+weekends and being stressed out so i
+think it's a matter of how
+you act it's a matter of the last 50
+days or so of how you act
+and understanding what's important to
+you now real quick about this
+um a lot of people like look at our our
+benefits and they look at our handbook
+and they read that and go i want to be
+like that
+it took us 20 years to get to that i
+mean we didn't offer
+most of these i mean we've been layering
+in things that we've been learning we've
+been layering in benefits we've been
+layering in
+the ability to give people more vacation
+time or to give people more
+sabbatical time like we couldn't afford
+to do some of these things many many
+many years ago and i
+for people were just starting out a lot
+of people in your audience
+this is probably the beginning is
+probably not the right time to be
+extremely generous on time off and you
+know
+like wait till you have some some some
+cushion
+some room in the bank and you can layer
+things in as you go so figure out what
+the most important things are and in my
+opinion
+the most important thing to begin with
+is free which is
+make sure you give people more time to
+themselves during the day
+longer stretches of uninterrupted time
+to get their work done that is the best
+benefit
+any company can give any employee um
+and and let them go home at the end of
+the day fulfilled
+satisfied get a good night's sleep come
+back refresh the next morning
+that's a wonderful benefit and that
+doesn't cost you anything
+bravo sir all right so a question from
+justin jackson
+whom you know he says as hate takes over
+the world
+um oh no i'm sorry i was reading wrong
+questions you joked
+saying building hay was the dumbest
+thing we've done on a serious note do
+you regret it at all
+all the drama with apple the scale of
+the app etc
+i don't regret any of it um i'm thrilled
+that we built hay hay's going to make
+base camp better hey it's going to make
+hay better base camp's going to make hay
+better
+i like this thing where we can go back
+and forth now one of the things we've
+learned about launching something new
+is that you launch something new and
+that's the only time you can really
+explore
+really new ideas and those new ideas you
+know of course
+affect the new product you're building
+but they also affect the other things
+that you have so we're
+we've already begun work on base camp
+four which is going to be out next year
+and a lot of those ideas
+came from the things we developed when
+we built hay so hey is going to benefit
+everything
+um i don't regret the the apple uh fight
+at all i i think it was absolutely the
+right thing to do and working we're
+continuing to do so
+um we're supporting a whole wide variety
+of um
+of efforts and initiatives to to to you
+know bring this to
+to the government's you know awareness
+and you know both in in the in the us
+and the eu
+um standing with other companies that
+are fighting and other developers that
+are fighting because this is not
+something you just do and walk away from
+like
+apple's going to be relentless about
+this and you've got to continue to stand
+up for what you believe to be right
+so no i don't regret it that said it was
+a horrible
+it was the most stressful time we've
+ever had in 20 years
+those two weeks were terrible um
+again like exciting and hugely rewarding
+but
+terrible mentally physically
+we aged we aged we didn't feel good
+people were
+sick it wasn't it wasn't a good time um
+so
+um what i would regret is if we stayed
+at that
+pace past the first couple weeks of
+launch
+that would have been that would not be
+worth that would not have been worth it
+but the fact that we've been able to to
+kind of settle back into our normal
+cadence
+we hired like five customer service
+people um really quickly
+that really helped a lot to bring the we
+were getting about 2 000 emails a day
+um when we launched hey so like it we
+just weren't ready for any of those
+things so
+that was a mess but we we remedied that
+and now we're comfortable again but if
+we were not comfortable and had to live
+at that pace i would have regretted it
+yes
+yep all right this is an interesting
+question i actually get this one now and
+again and i sometimes struggle to answer
+it so
+i'm uh i'm curious how you take it so
+the question is from tom biscuit and he
+says
+if you didn't have your brand and your
+resources how would you start a company
+today
+would addressing something as big as
+email be possible without that kind of
+leverage
+um it's a great question
+i would launch the company the same way
+we launched base camp when we had no
+branding and no awareness which is
+slowly
+carefully with no expectations
+um we were a web design firm when we
+when we started we launched this base
+camp thing we built it for ourselves we
+did it on the side we put it out there
+and we waited a while to see if it was
+going to work it turns out it worked
+really well and then we were able to
+stop doing the other thing that we were
+doing
+um so i so so they're like i would do
+the same thing i would always try to
+have
+i wouldn't i don't like putting myself
+at risk i like taking a risk but i don't
+like putting myself at risk
+so um in the case of when we launched
+base camp no one really knew who we were
+we had a little bit of a following but
+like
+you know a thousand people reading our
+blog it was not very big compared to
+today a lot of people have a lot
+larger followings today when they
+launched than we did when we launched um
+it's much harder to reach people back
+than everything but we had we had a
+functional business
+of some sort that was going that could
+fund our endeavors into something else
+and only when that something else did
+better than the other thing that we
+stopped doing the other thing and
+started focusing a hundred percent on
+base camp
+so i would do it the same way and keep
+your cost again
+cost low small team no rent
+one or two or three people to start
+struggle through that
+um before you you make it hard on
+yourself by it
+seems like you'd make it easier on
+yourself by raising money or hiring more
+people but you're actually in some ways
+making a lot harder on yourself so i'd
+start as
+small as you can and and um and
+and keep that you know maybe a little
+bit of money here and there right but
+not a big amount of money which forces
+all sorts of unreasonable expectations
+on you
+as far as tackling email um no we
+couldn't we could not have
+other people might be able to we could
+not have tackled email in the way that
+we chose to do it
+um had we not had um
+probably a big brand behind us to launch
+um it was it took us two years to build
+hay and the
+expertise that we needed we didn't we
+would not have had had we just started
+today
+it took us 20 years to understand how to
+do this how to deal with
+the loads we were gonna we were gonna
+have how to deal with the technology
+that we needed to build
+um all the infrastructure email is
+incredibly complicated it would not be
+the first thing i would ever choose to
+pick off
+so we could not have done it but that
+wasn't about the brand necessarily
+although
+it helped to launch but it was more
+about the understanding and the learning
+and the just the skills and experience
+that we needed to build over the last 20
+years to be able to feel confident
+enough to even take this challenge on
+yep excellent so i think we have time
+for one or maybe two more questions
+uh and we have several pouring in so
+some really good i'm picking the best
+off the top
+this is a really interesting one and
+it's actually one that i've thought
+about and i was going to ask you on my
+own so so i like it it's from
+tim van dyk castile and he says
+you meaning base camp decided for a
+while to only have one product
+because you you know used to have
+several products as you said uh
+yeah i won't name them but whatever it
+was campfire and we all had our list and
+all this stuff
+you actually set it for a while to only
+have one product stopping actively
+developing the other products and
+selling them off
+what made you to decide that you still
+wanted or you want to go back to being a
+multi-product company
+so this is sort of an interesting one
+and i'll try to make it fairly brief
+because i know we don't have a lot of
+time
+we didn't set out to build another
+product actually when we built hay we
+set out to build a new version of
+highrise
+so we set out to build high rise two
+like we built base camp
+two and now we're in base camp three and
+we're building base game four but we're
+going to go back
+and build high rise two as we were
+building higher rise too we recognized
+that
+there was something else going on here
+that we were building that we wanted
+this
+thing that we were making for all of our
+communication not just business
+communication but personal family all
+these things
+and so eventually it split it off into
+its own thing but i think
+we've what we learned about what's good
+about having two things versus one thing
+is again that you get to start from
+scratch again
+more frequently um so we're building you
+know we just built hey now we're doing
+hey for work next year we're gonna do
+base camp four we're going to learn some
+stuff we're going to pull some stuff
+from hay into base camp for when we
+build base camp we'll learn some new
+things that we'll bring into hay
+so i think this idea what we're calling
+it is like tick-tock development back
+and forth back and forth between two
+products is actually a really
+fresh and healthy thing to do i think
+though
+it wouldn't work for us if we had three
+or four or five
+so i think two is
+what we feel right now is probably going
+to be our sweet spot
+it's going to be different for every
+company if you have hundreds of
+employees you can do more things we have
+56 57 58 employees
+in our size at our scale we feel like
+two is right
+and here's one other reason why we think
+two is right
+basecamp's product cycle so we do
+basically do a new version of base camp
+every four to five years
+whole new version from scratch
+essentially and
+the when we launch that new version
+we're all in on it
+but then over the next number of years
+we're basically just making marginal
+improvements around the edges that's
+like technically what happens to mature
+products you're not
+like reinventing the product every year
+like you just kind of
+can't reinvent it every year so what
+ends up happening is you built up this
+all these skills and all these people
+who are really wonderful at making
+products
+and we're putting all those skills and
+just making marginal improvements around
+the edges
+and it's not a really efficient way to
+run a company actually with all that
+talent just tweaking which is what ends
+up happening with mature products
+so by jumping into a new thing we get to
+use all that energy and all that talent
+on something brand new from scratch
+work on that for a while and then jump
+back on the other thing and make a whole
+new version of that so we're going to be
+making new versions of things more
+frequently
+in a staggered way i think which is
+going to just be a healthier perspective
+for us so that's that's
+i mean in a nutshell that's why we
+decided to do it it kind of
+was an accident then we kind of leaned
+into it and now we think it's
+kind of probably going to be the right
+thing to do awesome i'm glad to hear it
+yes sir if you're over time but do you
+have quest time for one more question of
+course yeah cause i've gone long on
+these answers
+no no this is great it's perfect um
+there's a i like this question uh so
+it's from johnny tong and he says
+how does base camp manage employee
+career progression when it favors a low
+head count
+flat structure because you know a lot of
+people want to progress and move up the
+chain and in a larger org right that's
+easier to do so i'd love to hear your
+take on that
+yeah it's a really wonderful question um
+and we've struggled with this over the
+years
+what we basically do is we don't really
+have a managerial track
+so people in most companies people move
+up right
+um at base camp you you move sideways
+by expanding your your ability so for
+example a lot of our designers
+get better by learning programming as
+well
+so they're not just designers but they
+they do all their css themselves they do
+all the visual design they do a lot of
+rails now they do a lot of javascript
+now
+so so they sort of expand outward and
+that's
+typically how most people progress and
+then they move up
+in the organization on our pay scale
+because they have more skills and they
+take more responsibility
+we do have team leads so there are some
+team leads but they're pretty well
+established people who've been here for
+a long time so it's not a very it's not
+like a
+high churn position so those positions
+pretty much sit there
+um but but people sort of expand their
+skill set and then move up in our pay
+tier
+so that's something that's kind of
+unusual actually at companies because
+most people actually
+they get narrower narrower in a sense
+they move into a managerial track where
+they actually
+lose a lot of the skills that they had
+and they atrophy like me i've i've
+atrophied like i i'm
+i'm not as good anymore getting in the
+html and css like i used to like i i'm
+not just
+not that good at that anymore because
+i've been focusing on other things and
+this happens to a lot of people as they
+move up through management but at base
+camp we want people to get better at
+their craft
+and so you know if you could think of a
+someone who's good with woodworking
+loves woodworking they might also expand
+into other materials they might explore
+you know uh metal they might explore
+ceramics they might explore other things
+they're still using the same skills but
+in
+different mediums and i think that's the
+idea here at base camp is that you might
+be a great designer but you might want
+to pick up some programming or you might
+want to be a better writer
+and that's how people expand and that's
+how people get paid more and move up the
+scale
+at our company and then there are some
+people always some people
+who just simply do want to run teams or
+manage people
+and if there's not a position here it's
+totally fair for them to say
+you know base camp doesn't have what
+what what what i want
+and i'm going to move on to go find a
+place that does that and we would gladly
+help them we'd hate to lose them but we
+understand that like it's no
+it's not good for us to keep anyone who
+would want to do something else so we're
+gonna
+we're gonna we're gonna help them find
+something somewhere else that would
+satisfy that we've had a number of
+people who either left to manage bigger
+teams
+or left to start their own businesses um
+and uh that's great
+we're you know happy for them and want
+to support them as well
+sure and i bet they're set up well to do
+it because with base camp on your resume
+you can get hired by
+most of the people that i know so yeah
+it's helpful
+such a such a gentleman thank you for
+taking your time to
+you know to give back to founders um
+i've been i mean this is the kind of
+stuff where if i say it one-on-one it
+sounds
+awkward but like i've been an admirer of
+yours for at least 14 years i've read
+all your books and
+and i just love i love having
+conversations with you because you're
+you're always just dropping knowledge
+and giving back
+founder so thanks so much for you know
+sharing the stage with me again
+well thanks rob this is great and i'm
+happy to by the way answer additional
+questions if people have them
+you can email me at jason hey.com h-e-y
+or on twitter jasonfreedfried
+and i'll try to uh answer there as well
+thanks again jason catch you next thank
+you
+[Music]

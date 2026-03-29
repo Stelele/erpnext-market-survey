@@ -1,0 +1,461 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+[Music]
+We are living through a fascinating
+moment in software development right
+now. I am certainly like I enjoy using
+AI coding tools that build features much
+faster than ever before. These things
+can scan my entire codebase. The context
+windows are just big enough now. They
+spot things that I miss and they
+implement changes that I want them to
+implement across dozens of files in
+seconds. It's pretty much incredible.
+But there's something we need to talk
+about here in all this positive
+perspective. There's something that's
+quietly accumulating in our projects
+right now. While we marvel at how
+quickly we can ship these features, and
+that is called comprehension debt, and
+that's what I'm going to talk about
+today. A quick word here from our
+sponsor paddle.com. I use Paddle as my
+merchant of record for all my software
+projects. They take care of stuff like
+taxes, currencies, and tracking declined
+transactions. They even update credit
+cards in the background like for our
+customers if they expire and then have
+to be re-updated so that I can focus on
+dealing with my competitors not banks or
+financial regulators. I can just focus
+on serving my customers. If you think
+you would rather just build your product
+well do check out paddle.com as your
+merchant of record payment provider.
+[Music]
+Now comprehension debt I think it's
+something just like technical debt but
+it is also fundamentally different like
+conceptually it falls into the same
+category. Technical debt is about
+choices that developers consciously make
+in a certain moment to then defer work
+until a later stage of the business.
+Right? You know you're taking a
+shortcut. You build something that you
+know you will have to come back and fix
+at some point. But you do it anyway
+because you know I'll get to it when and
+if there is time in the future. Right? A
+business that is trying to build a
+perfect piece of software is never going
+to finish because everything in the
+world changes all the time. So you are
+good with what you have and then you say
+I'll come back later and fix it. That's
+traditional technical debt. But
+comprehension debt and that is something
+that I didn't realize until a couple
+weeks ago existed is different. It's
+when we don't comprehend. We don't
+understand what the system does anymore.
+We don't understand it because we never
+built the understanding in the first
+place. That is happening more and more
+with AI generated code. Let me get back
+to where this comes from. There's this
+concept that I came across from Peter
+Ner, the mathematician behind the Bakus
+Nau forum, which if you ever studied
+computer science academically, you will
+have been annoyed by at some point. But
+not only did he invent interesting math,
+he also wrote a paper about theory
+building. The idea here is that code
+implodes when the team that has the
+theory, the mental model for that
+particular piece of code is dissolved.
+That is not what the paper is about.
+It's about like what this theory is. But
+one of the points is that the code will
+keep running and keep producing results.
+Sure if the team leaves but the moment
+you try to modify that code you're in
+trouble because you don't have the
+theory to actually work with it and now
+says that you have to rebuild not just
+the program but also its underlying
+theory that has to be rebuilt by this
+new team so that a new program with a
+new similar theory can get built that is
+then maintainable. So the theory of a
+program is not just the code you write.
+It's the abstraction in your mind that
+you have for what the code should be
+before you code it. And this has always
+been a challenge in software projects,
+right? The teams have dissolved and the
+person responsible for one
+implementation left and now nobody
+understands how it works. Well, that has
+very little to do with the code. It has
+a lot to do with the theory behind the
+code. And AI makes it exponentially more
+complex at this point because here's
+what happens when you use AI coding
+tools. You give it a prompt for a
+feature. The AI then actually assembles
+a very quick and very ephemeral internal
+mental model if we can call it this of
+what needs to be done and what needs to
+be changed. And you see this in all
+these wonderful coding tools, right?
+They pull things together from different
+parts of the codebase and then they say
+something like thinking about they
+figure it out. they then know what to
+change. They even see connections that
+you as a developer might have missed
+because they can scan through the whole
+codebase and keep it all in mind in uh
+quotes and see all the little moving
+parts. So the AI assembles something
+akin to a theory. It's probably
+inadequate in some ways, but it's
+sufficiently adequate for a particular
+task if the prompt is well written.
+Right? It builds a theory of the
+codebase of the product and then
+implements the feature. And if you're
+lucky, if it's in your system prompt,
+you tell it to write tests or document
+the behavior in some way. And then you
+have some system for the agentic tool to
+recover its theory in later steps. But
+the problem is the biggest problem here
+is that the actual model that it
+created, this mental model, the theory
+of the product is never fully persisted.
+It's never written to disk or written to
+RAM. It is immediately lost once this
+chain of prompting is over. Once the
+prompt is run through and the context of
+that conversation is done, this mental
+model is gone and nobody now knows the
+theory of the product. So constantly by
+adding more and more features to your
+product, you are facilitating the
+creation of new slightly different
+mental models every single time you
+prompt because there is no persistent
+path. models are built up, implemented
+through and torn down. And if you don't
+read the code, if you don't understand
+what is added and why, if you don't
+integrate it into your own theory, you
+will never develop this model of your
+codebase of your product as a developer.
+Even if you're the one instructing, you
+will never comprehend the underlying
+theory of the product. And this creates
+a real problem because eventually if the
+AI for some reason is unable to rebuild
+the underlying understanding or that
+model the code base as it had in the
+past then even it will not be able to
+adequately and correctly modify and
+change the system. You won't cuz you
+would have to read every single line of
+code and figure out how things integrate
+with each other. But even if the AI
+can't do it then nobody can. And I think
+one solution that people are working on
+right now that is being developed at
+this moment is context persistence
+within our agentic coding systems. I bet
+that open AAI and anthropic are trying
+to work this out. How can we take
+something that needs to exist not just
+in terms of like kind of describing it
+in a compacted way but actually
+persisting that very thing for later
+use. I don't really know if they're
+working on it, but I bet they are
+because they know that this is one of
+the drawbacks of using their system,
+right? This building up the model and
+collapsing the model over and over
+again.
+It's not just about the prompt that
+you're currently giving, but a deep
+understanding of the codebase maintained
+over time. We actually might have that
+model in our codebase at some point,
+like a document in which you work or
+that structures the knowledge of the
+thing, not just text, but in some kind
+of internal mind representation. that if
+you are a developer who is already
+capable of building mental models from
+reading code then you really have to do
+code review right now. If you just want
+to build something quickly and you don't
+care about it then use AI agentic
+systems to create code for whatever
+reason and for whatever project that is
+fine but you will find that eventually
+the ownership of the theory of the
+codebase is gone if you don't build it
+right it needs to lie with you you need
+to own the mental model of this codebase
+so whenever I have an agent build
+something for me I read every line that
+is changed every line that is added and
+particularly lines that are removed
+because that also changes the theory of
+your product, right? It's very important
+to do code review on these things, which
+is hard on platforms that are
+essentially VIP coding tools because
+they kind of hide away the code from
+you. You don't get to see it. They just
+do something and the product changes,
+but you don't see how it's structured.
+For business reasons here, this is a
+actual problem. This is a really, really
+critical thing if you want your business
+to be acquired at some point or even if
+you want to hire. Don't even have to
+sell your business to run into issues
+here. You have to be able to transfer
+not just the raw codebase over to
+somebody, be that through an acquisition
+or be that if you hire a developer,
+right? You have to be able to transfer
+the internal knowledge of that codebase,
+the underlying theory to that person or
+that business. And usually this happens
+through training. Training somebody to
+replace you in a business or as you
+grow, you hire your CTO, you hire your
+first developer, your lead devs, junior
+devs, you train them on the codebase.
+You show them, hey, this is how it
+works. And everybody who gets to work on
+this codebase is eventually trained into
+it by other people who kind of pass on
+the theory. You transfer parts of or the
+whole mental model to these people over
+time. And you transfer it so that they
+can eventually integrate the model into
+their own brain and keep the theory
+alive. But what happens when you don't
+even have that theory yourself? Well,
+before it was impossible to build a
+functional software business without
+deeply understanding the software of
+your product. But now there's this
+chance that somebody could buy a product
+that nobody understands. If you don't
+own the theory, even the AI won't really
+get it. And this adds a very real layer
+of risk. You have time bombs
+unintentionally built into the product
+that once somebody buys the business. So
+let's think acquisition here will very
+quickly surface because people want to
+make changes to underlying systems,
+structures that the previous owner, you
+that built the thing that prompted it
+into existence, you never thought about.
+When you integrate a new software as a
+service business into a portfolio for a
+private equity company or you integrate
+it into a system of a strategic buyer,
+there are things that you will have to
+touch that the founder of the original
+creator will have never considered.
+That's inevitable. You buy a business
+because it has components that your
+current system lacks and your current
+system has features that this new system
+lacks. So you have to combine them and
+that's usually when these things
+explode. So the chance of quickly
+finding a hidden time bomb is actually
+quite high. And this is likely going to
+be priced into the acquisition, the
+money they pay for it. Right? If you
+cannot show them that either the code is
+well documented, that these time bumps
+are avoided or avoidable or manageable
+or non-existent or that you are still in
+complete control of the codebase and
+have a theory of the codebase that
+you're willing to pass on, then you will
+see that reflected in the valuation of
+businesses in the next years to come. I
+think buyers will be very very aware of
+this particular problem in the future to
+the point that they will be demanding
+not just a code base but kind of a
+documentation system a traceable and
+trackable history of the projects and
+the choices that were made within it.
+They might even want to see the prompts.
+They will need some way to train their
+developers or their agentic systems that
+they already have internally established
+in their portfolio companies. they will
+need to be trained on the correct
+functionality of your codebase and how
+to best work with it. So at some point
+you as a founder will not be available
+to them anymore. If you sell and you
+just hand over the business and you
+leave, well then you're gone. And even
+if you have an earnout or something,
+well you're still going to be around
+only for a while. And maybe it was all
+AI generated. You don't even know how it
+works yourself. So what do we do about
+this here? Well, right now to deal with
+this kind of comprehension debt, I
+highly recommend making part of your
+system prompt for all these agentic
+tools that you might be using to be very
+deliberate in commenting. Put comments
+into the system that facilitate a theory
+and a mental model of your codebase and
+have those comments be created every
+single time code is added. Make it
+maintainable through comments that
+systems or people can read and
+understand the theory better. Add code
+that helps things be more maintainable.
+and make this part of your system
+prompt, right? Tell the prompt to always
+add good comments that then express the
+theory of the underlying choices. I
+think I have this in my system prompts
+as well. Always log decisions that you
+make. Why do you choose this over this?
+Just put it in a log file. Add that to
+that file and then check it in. You have
+to document choices that were made along
+the way. Even put prompts that you added
+to the Aentic system to build features.
+Add those prompts to a document.
+keep them logged so you can step through
+the whole thing historically and see
+what changes were made and what choices
+were made for and through these kind of
+changes. This is also an interesting
+field to actually build a tool in. It
+would be a very interesting choice to
+offer a service or a tool that
+constantly checks the internal theory of
+a product as much as it can read from
+the codebase and deduce from reading
+through it using AI tooling. That's kind
+of the idea, right? You have this
+background process that just grabs every
+change that is made and then tries to
+figure it out is this actually making
+the product more consistent in terms of
+the internal theory or less right it
+would constantly keep the theory both
+available to AI system maybe as an MCP
+or a description code examples code
+locations and over time track when the
+theory changes. So for example, let's
+say you've determined as a programs
+designer that in every list you create,
+people can sort the list, they can
+filter the list and export the list as a
+CSV file. It's kind of the basic stuff,
+right? That's just a choice you made.
+And that's the theory of your product.
+It does this. Every list you have a
+shared component, you have shared views
+and shared design patterns. And if
+there's a list, sortable, filterable,
+exportable. So over time you're
+prompting prompting and all of a sudden
+the AI chooses to build a new list that
+is sortable and filterable but does not
+have an export. So at that point the
+theory of your system changes from every
+list has this feature to some lists have
+this feature and at that point you
+should be either alerted or your agentic
+system is told that there's a
+discrepancy and it should recreate the
+actual theory that existed prior to
+this. think that would be an interesting
+tool that I personally would use as part
+of my agentic tool chain kind of an
+internal error tool like a code quality
+maintenance tool but not about the
+actual code efficiency but about the
+underlying theory we don't really have
+many tools right now that deal with code
+quality before errors happen at least
+not in the web space I think this very
+much exists in the Java and C world
+where the static analysis is a little
+bit easier but for all these dynamically
+typeyped langu languages where
+everything is kind of crazy is harder,
+right? It's harder to really determine
+quality here. But I think this
+consistency internal theory tool would
+be a good one for people to use. So
+maybe comprehension that can be fought
+by a deeper and more obvious
+understanding of the underlying theory
+in software businesses. Maybe that's
+what we should aim for as founders. We
+have to think about the fact that this
+will be an additional risk if we add
+comprehension debt to our product even
+though we get features out much faster.
+and it's something that an acquirer or
+us in the future will have to pay for at
+some point. So really be careful with
+how much of the theory building you
+allow your AI to do and control without
+telling you or at least be intentional
+about how much of this theory you
+actively retain because at the end of
+the day your business isn't just the
+code. It's the understanding of what
+makes that code go. What the code does,
+why it does it, and how it all fits
+together. And that understanding is
+becoming more valuable than ever. Thank
+you for listening to the woods for
+founder. You can find me on Twitter at
+avidkaly khl. Attention founders and PR
+experts and marketing teams. Are you
+missing critical conversations about
+your brand? Well, podscan.fm monitors
+over 4 million podcasts in real time.
+They are alerting you when influencers,
+customers, or competitors mention you
+and you can turn unstructured podcast
+chatter into competitive intelligence,
+PR opportunities and customer insights
+with our powerful API. And if you're
+searching for your next venture, you can
+discover validated problems straight
+from the market at ideas.podscan.fm,
+where AI identify startup opportunities
+from hundreds of hours of expert
+discussions daily, so you can build what
+people are already asking for and
+talking about. Thanks for listening.
+Have

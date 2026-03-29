@@ -1,0 +1,53 @@
+{
+  "topic_id": 161502,
+  "title": "Ledger Preview: Option to Include All Accounting Dimensions",
+  "slug": "ledger-preview-option-to-include-all-accounting-dimensions",
+  "category_id": 7,
+  "tags": [
+    "erpnext",
+    "frappe",
+    "git"
+  ],
+  "created_at": "2026-03-16T08:31:52.166Z",
+  "last_posted_at": "2026-03-16T08:31:52.351Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/ledger-preview-option-to-include-all-accounting-dimensions/161502",
+  "views": 16,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Samad",
+  "posts": [
+    {
+      "id": 495956,
+      "username": "Samad",
+      "name": "Abdus Samad",
+      "created_at": "2026-03-16T08:31:52.351Z",
+      "cooked": "<p>Hi everyone,</p>\n<p>I submitted a PR to improve the Accounting Ledger Preview behavior so that configured Accounting Dimensions can optionally be included in the preview.</p>\n<p>Issue: <a href=\"https://github.com/frappe/erpnext/issues/53405\" rel=\"noopener nofollow ugc\">Accounting Ledger Preview does not show configured Accounting Dimensions #53405</a></p>\n<p>PR: <a href=\"https://github.com/frappe/erpnext/pull/53217\" rel=\"noopener nofollow ugc\">Feat-include-dimensions-in-accounting-preview #53217</a></p>\n<p>Currently, the preview only shows the Cost Center field even when other Accounting Dimensions are configured.</p>\n<p>This PR introduces a checkbox in Account Settings – “Include Dimensions In Preview” which allows showing all configured Accounting Dimensions in the ledger preview.</p>\n<p>Would appreciate any feedback or review from the community or maintainers.</p>\n<p>Thanks!</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/samad/{size}/94321_2.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 10,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

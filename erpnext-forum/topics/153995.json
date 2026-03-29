@@ -1,0 +1,53 @@
+{
+  "topic_id": 153995,
+  "title": "MandatoryError: currency during Data Migration for Income Tax Slab DocType",
+  "slug": "mandatoryerror-currency-during-data-migration-for-income-tax-slab-doctype",
+  "category_id": 57,
+  "tags": [
+    "erpnext",
+    "frappe",
+    "update_problem"
+  ],
+  "created_at": "2025-09-22T12:31:40.226Z",
+  "last_posted_at": "2025-09-22T12:31:40.362Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/mandatoryerror-currency-during-data-migration-for-income-tax-slab-doctype/153995",
+  "views": 20,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "dormant",
+  "posts": [
+    {
+      "id": 481415,
+      "username": "dormant",
+      "name": "dormanie",
+      "created_at": "2025-09-22T12:31:40.362Z",
+      "cooked": "<p>I’m trying to migrate data for the <code>Income Tax Slab</code> DocType, but I’m consistently getting a <code>frappe.exceptions.MandatoryError: [Income Tax Slab, PPh 21 TER Kategori A]: currency</code> error.</p>\n<p>I’ve already checked the following things:</p>\n<ul>\n<li><strong><code>currency</code> value in my data:</strong> The JSON file clearly shows <code>\"currency\": \"IDR\"</code>.</li>\n<li><strong>Currency DocType:</strong> I have confirmed that “IDR” exists as a valid and <code>Enabled</code> currency in my Frappe instance.</li>\n</ul>\n<p>This error is happening during a data import/migration process. Since the currency value is present in my data and is a valid currency in Frappe, I’m at a loss as to why the system is still flagging the field as mandatory and missing.</p>\n<p>Could this be a case sensitivity issue, a hidden character, or something else I’m missing? Has anyone else encountered this problem?</p>\n<p>Any help or insights would be greatly appreciated. Thank you!</p>\n<p>Or is it because</p>\n<pre><code class=\"lang-auto\">{\n  \"allow_tax_exemption\": 0,\n  \"amended_from\": null,\n  \"company\": \"Company\",\n  \"currency\": \"IDR\",\n  \"disabled\": 0,\n  \"docstatus\": 1,\n  \"doctype\": \"Income Tax Slab\",\n  \"effective_from\": \"2025-01-01\",\n  \"modified\": \"2025-09-17 11:10:17.404103\",\n  \"name\": \"PPh 21 TER Kategori A\",\n  \"other_taxes_and_charges\": [],\n  \"slabs\":\n</code></pre>\n<p>the company name? or currency name? because i migrate to other company? but the currency stays the same</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/d/839c29/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 8,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 2,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

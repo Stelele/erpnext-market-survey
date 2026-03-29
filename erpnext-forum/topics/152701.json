@@ -1,0 +1,52 @@
+{
+  "topic_id": 152701,
+  "title": "How to save a document with an attached file from a Vue.js frontend?",
+  "slug": "how-to-save-a-document-with-an-attached-file-from-a-vue-js-frontend",
+  "category_id": 57,
+  "tags": [
+    "customization",
+    "frappe"
+  ],
+  "created_at": "2025-08-26T10:01:23.608Z",
+  "last_posted_at": "2025-08-26T10:01:23.785Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-to-save-a-document-with-an-attached-file-from-a-vue-js-frontend/152701",
+  "views": 24,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "dormant",
+  "posts": [
+    {
+      "id": 478975,
+      "username": "dormant",
+      "name": "dormanie",
+      "created_at": "2025-08-26T10:01:23.785Z",
+      "cooked": "<p>Hello everyone,</p>\n<p>I’m working on a project with a custom Vue.js frontend that needs to interact with a Frappe backend. I’m trying to figure out the correct way to upload a file and attach it to a specific document.</p>\n<p>I’ve successfully uploaded the file and received a response with the <code>file_url</code>, <code>attached_to_name</code>, and <code>attached_to_doctype</code>. I’ve also found the <code>frappe.desk.form.save.savedocs</code> API.</p>\n<p>My question is: <strong>Is it the right approach to use these two separate steps?</strong></p>\n<ol>\n<li><strong>First, upload the file</strong> using the Frappe upload API.</li>\n<li><strong>Then, call the <code>savedocs</code> API</strong> to update my custom DocType, passing the <code>file_url</code> from the first step as the value for my <code>Attach</code> field.</li>\n</ol>\n<p>I’ve seen some examples where the file upload and document save happen in a single step, but I’m unsure if that’s possible when working with an external frontend like Vue.js.</p>\n<p>Any guidance or best practices on this workflow would be greatly appreciated.</p>\n<p>Thank you.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/d/839c29/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 9,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

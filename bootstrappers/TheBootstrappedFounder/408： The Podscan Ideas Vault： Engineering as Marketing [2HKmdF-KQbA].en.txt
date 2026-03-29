@@ -1,0 +1,622 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+[Music]
+Today I'll be talking about a successful
+marketing project within my own software
+business that turned out to be so
+successful that it spawned a business
+built on top of that business. And when
+this episode is released, it'll be one
+day since the platform has been live.
+So, I'll be sharing the most raw and
+most timely insight into what happened
+right now, what the story is, how it
+happened, and how I went about building
+this particular project. This episode is
+sponsored by paddle.com, my
+merchantofrecord payment provider of
+choice, who's been helping me focus on
+Podscan and the project that I'll be
+sharing with you today from day one.
+They're taking care of all the things
+related to money so that founders like
+you and me can focus on the things that
+only we can build. Paddle handles the
+rest. sales tax, credit cards failing,
+all of that. They take care of it. I
+highly recommend looking into it. So,
+please check out paddle.com.
+[Music]
+The thing I built is called the Potskin
+Ideas newsletter. And on top of that
+newsletter now sits the Potscan Ideas
+Vault, which is a platform that tracks,
+scores, ranks, and analyzes all kinds of
+business ideas that it pulls from the
+full transcripts of fresh episodes in
+real time of around 500 podcasts of all
+kinds, mainly focused on the
+entrepreneurial, business, finance,
+philosophy, and science shows out there.
+Now, I know it's not a novel idea to
+extract information from other media,
+right? The whole idea of travel guides
+or re-watch podcasts for that matter. I
+watch and listen to quite a few of those
+is pretty much an indicator that there
+is value just from extracting things
+from existing content created by other
+people. But Podskin in particular has
+been extremely well set up to extract
+information from a whole industry's
+worth of insights and content in a very
+very easy way. And I'm just going to
+share how all of this came to be because
+I have several customers on podscan.fm
+that have lists of podcasts set up with
+a web hook. Whenever a new episode comes
+out for any of these shows, it sends the
+full info about this episode to their
+servers and they send it through a lot
+of cleaning up, right? They take the
+full transcript that I provide with
+every single show. They analyze it, have
+an AI summarize it and do a lot of stuff
+with it, different things for different
+people. and then they generate some kind
+of content from this data and send that
+out or make it available to their
+customers. Imagine I have a couple of
+people just taking podcasts and
+summarizing them and turning that into a
+newsletter. It's really as simple as
+that for some. But there's one really
+interesting one. I have a particular
+customer that works in the medical
+field. He's a doctor who summarizes very
+specific podcasts in a very specific sub
+field of his industry. like a
+subdivision of a particular kind of
+surgery. It's very very precise, very
+specific. And he takes all of the
+podcasts in that particular industry
+that are run by experts. He extracts the
+most relevant information from all these
+shows and then even translates that into
+a foreign language so that the people
+who operate in that field in his
+particular country are able to get all
+the information from all these many
+hundreds of hours of podcasts that come
+out every week at a glance. He even has
+the capacity to show only the episodes
+that are relevant to one particular
+person and their subin interest in that
+sub field of medicine. It's really
+really cool. It's really inspirational
+and it's inspired me to do something
+about it myself because I recently
+thought about what a success story that
+actually is for the platform, right?
+From my own marketing perspective,
+somebody is pulling all this information
+through my API through our web hooks
+that we send out the real time web hooks
+that are activated whenever a new
+episode comes out and we finish
+transcribing it and we sent the full
+transcript to anybody who has an account
+on Potscan and is tracking to particular
+show. So it's super useful and I was
+like this is a great example of how hot
+scan can be used. So why don't I tell my
+audience about this particular use case.
+There's probably a lot of people out
+there which could use this which I then
+did. A couple of weeks later I started
+working on sharing not only that this
+story exists. So I shared that on
+Twitter which is cool but also promising
+that I would build an automation using
+the existing automation tools out there
+things like Zapier or N8N or make just
+to show people how this can be done
+reliably using that platform and
+Podscans API because I wanted to show
+hey Podscan can be easily integrated and
+I wanted to reach more customers right
+that was the motivation behind all of
+this so why not do development or coding
+or integrating as marketing here there's
+a phrase called engineering as marketing
+and I think This falls under that
+umbrella. I'm building something sharing
+the process of building it and then the
+final product so people can see hm I
+could do this too. So I started building
+an automation on N8N which is a very
+highly flexible but more technical
+platform to build integrations in. I
+think Zapier probably I could have built
+this too but Nadn is this whole
+flowchart of all kinds of things. It's
+quite developery right if you're a dev
+you immediately understand what it is.
+If you're not technical, it might be
+more complicated to get into. You'll
+still figure it out, but it has a couple
+of components where you need to
+understand the underlying technology.
+Other platforms are more plug-and-play.
+So, I took my web hook that came from my
+podcast list where I just added a couple
+hundred podcasts from all kinds of
+interesting industries and then I took
+this web hook, pulled it into N8N, and
+generated a summary for each of these
+episodes and saved that in a Google
+sheet. It's really that simple as a
+basic functionality. I just used tools
+that I already had active, right? I
+didn't have some kind of software
+service or a backend or database. I just
+used Google Sheets, OpenAI's APIs, and
+everything else that NAN offered. And
+that was just more logic like if then
+else and switch and summarize and all of
+that. I wanted to create a newsletter
+just like my customer out of this data
+from the podcast. And I thought, well,
+my audience isn't medical, my audience
+is entrepreneurial. Why not take all the
+good ideas that happen to come from all
+of these podcasts? Because people talk
+about, "Oh, I wish this would exist or
+hey, this industry has these kind of
+problems. Somebody really should solve
+it and here's an idea I had. I'm not
+going to build it, but you know, maybe
+look into it." People talk about this
+all the time. So, whenever that comes
+up, an AI can find these things, right?
+Can find these occurrences and take out
+the idea, flesh it out a little bit, and
+present it. So, I could turn it into,
+well, this could be a solution here. You
+could build, I don't know, an AI powered
+marketplace that sells these things to
+these people because it knows exactly
+who they are. Or because both are trying
+to look for sellers and buyers and it
+combines them in an interesting way or
+things like you could turn this into an
+info product because people say, "I want
+to read about this." Well, why don't you
+just build something that facilitates
+that and gives people that information?
+There's a lot of good stuff out there
+that people need and talk about.
+In my workflow on N8N, I took my web
+hook and I generated this idea based
+summary just using OpenAI. I posted the
+full transcript into an OpenAI prompt,
+asked it to take the best three ideas
+out of it. And then I would write those
+ideas one by one into a Google sheet.
+And once a week, I thought initially,
+but it turned out to be once a day. I
+would take all of the items from my
+Google sheet, rank them in some way,
+score them, take the top 10, and turn
+those top 10 into an email, a markdown
+document that also was generated by an
+AI, and feed that markdown into kit.com,
+formerly ConvertKit, kind of an email
+service provider, and just create a new
+broadcast. That's what they call an
+email, and send it out to everybody who
+subscribed to it. That was the idea,
+right? Get web hook, get summary, save
+the sheet once a day, pull all the
+information from the sheet and put that
+into one email. Now, Kit has a really
+wonderful integration. So, you can have
+a landing page where people can easily
+sign up and you can easily tag them so
+you know exactly who wants to read this
+newsletter. I very quickly got something
+working here that just created a nice
+list of the top 10 ideas and had
+additional information for each idea
+like how feasible it is, how much money
+you would need to spend to get there,
+what the challenges are, the
+opportunities, and how you can
+potentially measure the idea if it's
+implemented right. All of this turned
+into a newsletter ready to be sent out
+automatically scheduled even just from
+my incoming web hook information that
+has a transcript for each podcast
+episode. And a couple hours later, you
+know, just kind of ironing out the
+kings, I had a fully workingflow. I took
+a screenshot of this, just the N8N
+workflow page, and I shared that on
+Twitter and got a lot of positive
+feedback. People were like, I didn't
+know that this API could be used in the
+first place, but I didn't know you could
+even do this, like pull information,
+generate a newsletter out of it. And
+people were signing up for Podcan to
+begin with to see if they could
+themselves build something without
+knowing exactly how to do it because I
+only shared the workflow, not how I
+built it. But people were just trying to
+experiment with that. But that was
+already a win for me and for Potscan,
+right? I already had some interest from
+the community on hm I could see myself
+using that API for something. People
+signed up and I got a lot of DMs on
+Twitter and that's the interesting part
+from people that would really like to
+see me walk them through it. so they
+could set it up themselves, something
+like that for their own industry. So I
+decided to make a video out of it. I
+recorded myself explaining the already
+setup process in the Naden workflow.
+Every single thing I talked about the
+full configuration, why it's that way,
+how it happened, and how you can pull it
+together. Here's where the web hook
+comes in. Here the fields you can
+expect. Here's how you can create a
+summary. I even showed the prompts for
+each of these steps. It's in the YouTube
+videos description, both the summary and
+the newsletter generation. And I shared
+which APIs I use, what the kit.com API
+looks like, how to deal with that, and
+what Google Sheets can be used like.
+Obviously, anybody could use whatever
+they want, but I just shared how I
+approached it in the video so people
+could rebuild the exact same thing. And
+I shared that video on Twitter to great
+success. A lot of people signed up to
+Potcan just to see if they could build
+something like this now that they had
+this blueprint. But here's the thing. A
+lot of people were interested in the
+actual outcome, that newsletter. It
+wasn't just an experiment to show how
+Podcan worked. People wanted to actually
+get the business ideas, too. And they
+told me. So, I doubled down and made the
+newsletter generation tool better and
+better. I refined the prompts and all of
+that. Just made it more cohesive, but it
+was still just a newsletter. And people
+started signing up for it. It's really
+great, but just a newsletter is
+wonderful because it's always going to
+be this way for me to advertise POTS
+scan being the source of all this
+information in the newsletter, but
+there's so much missing, right? In 500
+plus podcasts that I currently track for
+the newsletter, there are a lot of
+ideas. Most shows have an idea of some
+sort. I get hundreds of ideas a day, but
+only a couple of them make it into the
+email because 10 is a lot to read
+through in an email. But what do I do
+with the other ideas? people wouldn't be
+able to get them because I just take the
+top 10, but the others might still be
+interesting and they might be super
+niche, but somebody might have the
+perfect idea for them there, right? So,
+I thought, how about I built the
+platform where I save all of these other
+ideas and make them available,
+searchable to anybody who's interested.
+And obviously, this being an extension
+of Potscan because it's sitting on top
+of Podscans APIs and Potscan data, I
+could likely monetize that a little bit
+as well. The newsletter would always be
+free. Cool ideas should be out there,
+but 10 of them for free a day. Every
+single day, that's thousands a year,
+that's wonderful. How about I make
+everything free that happens over the
+last 24 hours, both in the newsletter
+and on the platform. That was my initial
+thought. And if it's older than 24
+hours, it's pretty much an archived idea
+and something that came up last week and
+you want to look at it, something like
+that. I will make it available for a fee
+through a subscription to the platform
+and then some. That's kind of the basic
+idea for the potskin ideas vault. And
+once I started thinking about this, I
+very quickly came up with this idea of
+the newsletter vault. Not just
+newsletter vault, the idea vault.
+Because a vault would be a place where
+all the good ideas are stored and
+stashed where you can search for them,
+search for the ones that are related. Do
+deep analysis on one idea. Maybe you
+could even chat with an idea to see what
+the potential problems are beyond just a
+couple of paragraphs that are in the
+newsletter. Like really dive deep. could
+do a deep analysis where you have a
+really smart system, look into the
+potential pitfalls, all the potential
+little challenges along the way. You
+could even have the opportunity to click
+a button and have the idea be built by
+tools like Lovable, Bolt, Vzero, any of
+these tools that allow you to prompt
+your way into a product. Well, I have
+the prompt because I have the full idea
+like in great detail and I have a system
+that could easily make this available.
+Well, it's probably not going to be a
+big surprise. All of this is possible
+right now because I built this as a
+software as a service platform on
+ideas.podscan.fm
+and it solves exactly this problem. It's
+the podscan ideas vault. It's a really
+simple Laravel 12 project that has been
+completely coded by cloud code. I wrote
+maybe two lines of code in this manually
+and everything else was fully
+automatically prompted into existence. I
+told it to use Laraveville Spark which
+is the paddle integration that I use and
+paddle being my payment provider of
+choice was the thing that I went for
+immediately because I thought yeah I
+want to monetize this as quickly as
+possible so going to use the thing I
+know I used the default Tailwind design
+because it's also very data focused and
+I don't need to have fancy graphics
+anything the whole platform is very much
+focused on the data of ideas and the
+concepts that I'm interested in and that
+founders might be interested in and I
+integrated a couple of web hook
+endpoints where now that I had this
+platform running instead of saving data
+into Google Sheets which I ran into like
+rate limiting issues on occasion this
+application would now host all the ideas
+I would just save them to my own
+database which is it's all hosted on
+Laravel cloud so it's a serverless
+possess database in there very cheap
+very reliable it's very easy to set up
+and Laravel supports the stuff very very
+quickly The database would also host all
+the past newsletter episodes. It would
+be an archive of both the ideas and the
+newsletters that they were in. So my NAN
+automation could then slowly be either
+turned into a completely internal
+process. I'm not there yet. Or at least
+I could use these endpoints of the ideas
+vault to store and fetch information
+from and not rely on the Google Sheets
+anymore, which made it a lot easier.
+It's much easier to query information
+than having to sift through a Google
+sheet. Even though it's possible, this
+just made it easier. I built this over
+two or three days. I created a new
+account on paddle which was verified a
+couple days after and then I started
+integrating all the relevant secrets
+into the project. You kind of have to
+test your payment system and then you go
+for the production system. Very easy to
+do with our Spark. Just a couple
+environment details that I had to add
+and that was it. And now it's a fully
+functioning software platform that hosts
+at this point almost 1,500 ideas that
+were extracted from actual individual
+podcast episodes with quotes from where
+that thing was mentioned with the actual
+location in the conversation where the
+idea came from and what the idea is and
+what founder it's for, how much it might
+take you to get to any revenue, how much
+time it might take and what the initial
+investment might be. All of this
+constantly automatically extracted from
+podcast episodes as they are being
+released in hundreds of shows. It's a
+really cool system, fully automated. And
+I added a function for people to suggest
+new podcasts to track that I can then
+add to the system. I added functions for
+people to chat with ideas, to even
+favorite ideas and have a conversation
+with those. You can see past newsletter
+episodes. All of this is pretty much
+available for free for anything that was
+added in the last 24 hours or so. Yeah,
+it's it's I think exactly 24 hours that
+stuff stays available. Any idea, any
+newsletter episode that is 24 hours or
+younger is completely available to
+anybody who's interested, both if you're
+logged in or not logged in. And the
+moment you want to go to an idea or a
+new starter that is older than this,
+you're asked to purchase a $10
+subscription. It's been very simple to
+build because Claude is highly capable
+of building these kind of CRUD
+applications, right? the create, read,
+update, delete apps that just interact
+with the database and show things from a
+database and then you add comments to
+it, have a couple relationships there.
+Cloud is really good at this. So, it was
+really easy to prompt my way into and
+this has now been operating for a week.
+I was just testing the system, see that
+is reliable. And yesterday, as of this
+episode being released, the newsletter
+itself contains a link to the ideas
+platform, an actual link to the idea
+hosted in the ideas vault for each idea
+in the newsletter. I started sharing
+this on Twitter. I'll see where this is
+going. Like, you're really in the middle
+of this right now. So, I cannot tell you
+more than I know because I don't know
+anything about it just yet. But I think
+this will be an interesting source of
+revenue for Potcan, which it is because,
+you know, this is a database that just
+keeps growing in terms of the value of
+the content, the ideas. I have vector
+search happening in there. So, people
+can find ideas for keywords that aren't
+even mentioned in those ideas, but finds
+it by proximity. I think it's a really
+interesting project just to source
+information from what's already out
+there, but it also has the capacity to
+show people how easy it is to set up
+something that sits on top of the
+Podskan API. So, that's the win-win part
+here, right? All the podcasts, all these
+episodes, all these transcripts, they
+have so much valuable data in there and
+people get to see this. This is just one
+way of showing how this can be used. So,
+it's a business on top of a business. I
+think I'll look into building similar
+things, other ones just like it over the
+next couple of weeks. But because this
+is so heavily automated and it's such a
+daily injection of fresh ideas into the
+community, I think it's going to be
+really a helpful little tool to pull
+information from podcasts out there and
+inspire people to do this for their own
+industries. And in my own numbers, in
+the prospects on Podscan itself, this
+has already shown an uptick. People have
+been signing up. The idea of sharing the
+whole concept of taking podcast content
+and reworking into condensed extracted
+information that you then share
+periodically that's not just my doctor
+customer's idea. It's not just what the
+POTS scan ideas world is about. That's a
+generally applicable concept that can be
+used for podcast data in almost any
+industry. So if you have experts in the
+industry that you serve or that you're
+part of, you can pull all this
+information that they have that they
+share on podcasts out, compress it, and
+share it with the yettobe experts in
+that industry. Any industry can benefit
+from this. And that's so wild, right?
+You could have construction people that
+do like a certain kind of architecture
+or you can have people in biology. You
+can have nerds like Star Trek fans. All
+of this like there's so much in any
+industry. podcasts have some kind of
+info that people are willing to actually
+pay money for. You could turn this into
+automated Tik Toks and monetize through
+that. You could turn it into
+newsletters, obviously paid ones, too.
+Could turn it into individual emails
+that you send out to individual people.
+It really doesn't matter. The data
+source is the same. That's the POSCAN
+API with all these podcasts. We even
+have a fire host that gives access to
+all the podcasts as they are being
+released. So you could technically serve
+every single industry if you were
+building the right platform to determine
+what belongs where. There's a lot of
+opportunity here. So that is what I'm
+trying to do right now. It's engineering
+as marketing and business building as
+marketing. And it's both an opportunity
+to get people to have a subscription on
+ideas and to see the power of Podscan
+and become a subscriber there. So yeah,
+that's my latest project. I think it's
+really fun and it's been a lot of fun to
+build and please do check it out at
+ideas.podscan.fm. FM. You'll see all the
+latest business ideas sourced from these
+shows there for free. And if you're
+looking for a business idea, these are
+really, really cool. And all of them
+link to the podcast where the idea was
+discussed. So you can check that out.
+They're all scored. They're analyzed.
+Might be really interesting to find the
+thing you want to build. I've seen a
+couple really, really great ones. And of
+course, there have been challenges,
+technical challenges in making this tool
+work, making it interesting, making the
+ideas good. I think I'll share more
+about this over time. already had to
+implement quite a lot of things to make
+ideas pop more, to make them more
+valuable, which is, I guess, a trade
+secret at this point. But, you know,
+I'll share more over the next couple
+weeks as I learn more about my customers
+here and what people want to see. And I
+just want to see where it goes. So, let
+me know what you think. I'm always
+excited to hear, particularly in this
+super early stage, where this could go,
+where you want to see it go and all of
+that. So I'm excited about the Podskin
+ideas vault and the power of podskin
+being shown in a real project just
+sitting on top of the API. And that's it
+for today. Thank you so much for
+listening to the founder. Find me on
+Twitter at aka arvid khl. If you want to
+know what everyone's saying about your
+brand on 3.8 million podcasts, podscan
+mtrex mentions with a powerful API that
+turns podcast conversations into
+actionable data. And if you're hunting
+for your next business idea, get them
+delivered fresh from the podcast world
+at ideas.podscan.fm,
+where AI extracts the best startup
+opportunities from hundreds of hours of
+expert conversations every day. Share
+this with anyone that needs to stay
+ahead of the conversation. Thank you so
+much. Have a wonderful day.

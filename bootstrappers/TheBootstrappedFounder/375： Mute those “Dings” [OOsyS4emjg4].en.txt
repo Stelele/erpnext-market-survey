@@ -1,0 +1,312 @@
+﻿[Music]
+hey it's Arvid and this is the bootstrap
+[Music]
+founder when I was running feedback
+Panda back in 2017 2019 I developed what
+can only be described as a pavlovian
+anxiety reflex to error notifications I
+still very vividly feel this and it's
+something I want to talk about um not
+necessarily about what happened then but
+how I'm dealing with it now because
+every ping every email notification
+every SL thing whatever could mean
+disaster back in the day because I was
+the only technical person in the
+business and I was responsible for
+maintaining many Integrations and
+stability of the platform but mostly
+Integrations with a third-party platform
+that we had no formal agreement with so
+they would just change their website we
+were integrating directly into a web
+application so you know how quickly this
+has changed I deploy 20 times a day and
+they did too so whenever they pushed new
+code I had to react and to be able to
+learn when new code was pushed usually I
+would have to wait for an error message
+coming in so this feeling of an error
+message landing and the ding I got the
+notification I got that kind of did
+something to me it was this constant cat
+and mouse game of fixing our integration
+whenever they pushed updates and I had
+Sentry tracking both in the front end
+and backend errors for that platform it
+was an Elixir JavaScript thing so most
+errors that were happening related to
+this particular issue or JavaScript
+errors and you know how quickly
+JavaScript errors can happen I would get
+notified for every single error each
+notification was potentially
+catastrophic because back then being the
+only person running the technical side
+of the business it could signal a change
+that would make it impossible for our
+customers to use the product and that is
+a problem right if they have an
+integration into some kind of web
+application and integration breaks they
+cannot use the product so I would have
+to react very quickly notifications had
+to stay on but over time this vigilance
+in being able to listen to Notifications
+at all times took its toll on me I I had
+physical implications from this I felt
+like physically bad I got ill from this
+and it took me years to get out of this
+and even couple years after selling
+feedback panda in 2019 that anxiety
+still lingered maybe not as strongly but
+it was still there do you know this
+distinctive sound of the intercom chat
+widget that just opens and does this
+little ding that would and still does
+send a jol through my system I still
+feel it viscerally when that Ding
+happens even though now it just opens on
+a page and somebody's trying to sell me
+something right but you know it still is
+there and starting a new SAS business
+certainly didn't help when I started po
+scan and integrated a new customer chat
+Service Tool I Ed crisp this time around
+that didn't really help the anxiety
+isn't as intense as it once was but I
+still feel that urgent pull to respond
+immediately to
+notifications and as podan has grown and
+more customers reach out through all the
+various channels email and that thing
+I've had to make this conscious effort
+to not let notifications overwhelm me
+the reality is that notification
+management is attention management every
+notification interrupts my focus and
+pulls me from what I know I should be
+working on into what somebody else wants
+me to work on their problem their issue
+when the customer email or a chat
+message comes in their problem takes
+priority even if what I'm building might
+have a much higher impact on the
+business and the conventional wisdom out
+there is to Outsource customer service
+or Implement AI systems but in my case
+the volume of inquiries that I get is
+too low to justify that right I get like
+maybe 10 messages a day that's not what
+a person is going to sit in front of a
+computer for but most questions
+come from users with specific technical
+needs about our API Integrations or
+Advanced features and those
+conversations are not really helped by
+an AI just yet as long as I still built
+the software and AI doesn't build it all
+by itself I can respond to these
+questions better and these conversations
+are helpful and valuable they help me
+build deeper relationships with my
+customers and improve the product at the
+same time it's a cyclical dialogue
+between me the owner of the business and
+the users shaping the product and its
+use but still every notification even
+the good ones is an interruption so over
+the past couple weeks I've developed a
+new approach here whenever I handle a
+notification I then examine the
+underlying rule in the medium in which
+it comes if immediate action is required
+like the server is down the domain
+unresponsive or the database failing
+then yes I'll keep the notification and
+I want it to notify me instantly but if
+no immediate action is needed I just log
+it and I turn off notifications and then
+I set regular times to review these logs
+this could mean messages that go into
+slack without notifications or emails
+that don't trigger phone alerts now
+exists where before every single thing
+would notify me the key here what I'm
+trying to do is to protect my focused
+time and only allow truly urgent matters
+to actually Pierce that Veil that
+protective shell around me and my
+attention customer issues critical
+customer issues since system failures or
+bugs that break core functionality yes
+these weren't immediate action and I
+want to know about this but a slightly
+slow database on a big day with a lot of
+customers or a customer responding to a
+week old marketing email that can wait
+that doesn't need to pull me out of what
+I'm currently doing and I've applied
+this thinking to pot scan's various
+Integrations that I have just to do all
+kinds of things related to customer
+acquisition we use koala which is a tool
+for tracking High intent prospects and
+while that's super valuable and always
+interesting to look into none of the
+insights of that tool require my
+immediate attention they can wait for my
+designated review time where I can
+properly process whatever happened into
+actionable tasks I don't need to be
+constantly pulled out of what I'm doing
+by this tool telling me that somebody
+from company XYZ is on the platform
+great and I can strike up a chat with
+them but should this interrupt the
+three-hour debugging session that I was
+in probably not so the challenge is not
+IM muting notifications I think we can
+all do this like everybody knows how to
+turn off a notification and how to not
+be bothered by it it's very simple but
+the real test is to consistently review
+the non-urgent locks and the messages
+without letting them pile up I don't
+know if you're like me but I'm like
+inbox 400,000 not inbox zero like if
+things are not urgent or important I
+just ignore them and then I have a hard
+time go through all of these things at
+any given time because I'm easily drawn
+into the exciting work of product
+velopment or talking to customers and
+all that but maintaining discipline with
+email management is an ongoing struggle
+for me I haven't yet found the perfect
+accountability system to keep me on
+track so if you have any ideas let me
+know some Founders and here's the thing
+that this whole attention management
+thing is about really excel at
+establishing routines like this checking
+in on stuff every couple days while
+others like myself need more structure
+we need more incentives so for those who
+might forget to check you should think
+think about staggered notifications
+things that arrive a little bit later or
+at a certain time like a daily summary
+similar to Apple's notification digest
+that kind of stuff that can provide a
+helpful Middle Ground you don't get
+stuff immediately because it's not
+critical but you still get a
+notification for things that happened
+and I've also learned to be strategic
+with the threshold of what I actually
+monitor because if you run a software
+business or any business that has
+internal metrics which is every business
+you need to look at certain Thresh
+shoulds and see if they're reached or if
+you're still within the good kind of
+numbers or if you're having problems
+right if churn is over 30% you have a
+problem so you might want to monitor
+churn or if your database has outages
+you have had outages before maybe you
+want to see what the latency is right
+and you want to keep within like 200
+milliseconds or something and you
+monitor that there's always stuff to
+monitor so instead of getting alerted
+for every minor fluctuation in my system
+I have set up observers that notify me
+when critical metrics cross important
+boundaries over a floating amount of
+time on AWS just to give you an example
+of how these things work you have
+budgets alerts right for how much you
+pay in a month you can set it up to be
+like I want to spend at Max $1,000 and
+tell me at 80 90% that I'm getting close
+to my monthly budget that you can do and
+you do the same thing for application
+monitoring you track average values and
+90th percentile metrics for things like
+latency or ensuring that you know
+exactly what your computer utation
+efforts are there are many many things
+that I'm informed about before small
+issues become major problems and that I
+want to be informed about before they
+actually escalate and recently another
+thing that I track is internal things
+for pocan I made a very significant
+change because I had a slack Channel
+where all the things that happened on
+the platform would cause a slack message
+and that would always notify me right
+like a new user signs up or I get a new
+subscription or somebody cancels their
+subscription or some creates an alert or
+somebody does an extensive search like
+all of these things would Pile in all
+the time and while it's exciting to see
+things like new users join we're now at
+over 4 and a half thousand users on the
+platform getting pulled out of focus
+every couple minutes every 15 minutes or
+so was not serving the business instead
+I have split my notification streams in
+slack General events like signups alert
+creation deletion team changes they go
+into this log channel that I review
+periodically with notific turned off but
+customer actions that might need
+immediate action like uh cancellation
+subscription changes trial extension
+stuff like that still trigger
+notifications so I can engage at
+critical moments because as much as I
+want to focus on a product my customers
+pay for this so I need to be there with
+them and for them if they do certain
+things and this balance of staying
+informed without being interrupted has
+been quite crucial for me for
+maintaining both the productivity that I
+need to build something bigger and
+better and the piece of mind that I need
+to not go crazy over this it's like
+always about being intentional with our
+attention and recognizing that not every
+ping deserves an immediate response so
+think about how you can reduce the
+number of notifications without reducing
+the Insight that you get from those
+notifications that will really really
+impact how you spend your time how
+focused you are on the things that you
+actually want to be spending your time
+on and what things you actually react to
+because your attention is probably most
+valuable commodity in your business and
+that's it for today thank you so much
+for listening to the booster founder you
+can find me on Twitter at avitar Aid KL
+if you want to support me on the show
+please share pod scan. FM with your
+professional peers and those who you
+think will benefit from tracking
+mentions of their brands businesses and
+names on all podcasts out there podan is
+near realtime database with a stellar
+API or so I'm told by my customers so
+please share the word with the those who
+need to stay on top of the podcasting
+ecosystem thank you so much for
+listening have a wonderful day and
+bye-bye
+[Music]

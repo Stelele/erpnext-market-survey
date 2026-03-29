@@ -1,0 +1,52 @@
+{
+  "topic_id": 157546,
+  "title": "Payment Entry Issue while Submitting",
+  "slug": "payment-entry-issue-while-submitting",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "bug"
+  ],
+  "created_at": "2025-12-02T07:17:19.565Z",
+  "last_posted_at": "2025-12-02T07:17:19.635Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/payment-entry-issue-while-submitting/157546",
+  "views": 34,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "SagarN7",
+  "posts": [
+    {
+      "id": 487918,
+      "username": "SagarN7",
+      "name": "Sagar",
+      "created_at": "2025-12-02T07:17:19.635Z",
+      "cooked": "<p>Recently I am encountering an issue while creating payment entry, an employee has taken advance, and against that employee advance when I am creating payment entry my accounts paid to field is being set as blank while saving and the filter applied is account type should be of payable, the account type I am using is of receivable. I can understand that if I change the account type to payable it will allow me to save, but why is it giving error to selected cases only.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/s/bb73d2/{size}.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 13,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,2300 @@
+﻿Arvid Kahl: Welcome to The
+Bootstrapped Founder. Today, I'm
+talking to Louis Pereira. He's
+the maker behind the audio
+transcription product, Audio
+Pen, which recently became very
+successful after many not so
+great attempts at building other
+businesses. Louis shares his
+insights into how he approached
+pricing and subscriptions to
+validate demand early on. And
+then he dives into the
+importance of building and
+launching products in public to
+grow an audience and gain early
+traction, the true indie hacker
+way. And I use his product every
+week. It's really cool. And the
+story of it is even cooler.
+Before we dive into our chat, a
+quick thank you to our sponsor,
+acquire.com. More on that later.
+Now, here's Louis.
+It rarely happens that an indie
+hacker makes it into TechCrunch
+with their product, but you did
+and your product Audio Pen is
+seeing massive success at this
+point. And it looks like you
+came out of nowhere. It's
+really, really cool. Big
+congratulations on that. And
+before we dive into how you
+perform that miracle of getting
+into TechCrunch and having an
+amazing product that people
+really like, let me ask you
+this. How does it feel to hit it
+this big? Was it a surprise?
+Like how are you feeling right now?
+Louis Pereira: Feeling pretty
+good. Although like, it's like,
+I would have expected it to have
+happened sooner. Like I've been
+at it for a while now. It's not
+that it was my first swing and
+you know, it was a hit. I've
+swung 10 to 15 times maybe more.
+And it was quite a difficult
+journey throughout, you know,
+difficult in the sense like
+lacking monetary success. It was
+enjoyable for sure. And I think
+that's why sort of managed to
+make these whatever 10-15 swings
+until one finally, you know,
+struck whatever gold. But it
+feels good. Like, I know that
+it's rare because at least for
+me, it's rare because I've tried
+so many times and I've finally
+gotten one product that seems to
+be doing quite well,
+unexpectedly, that too. So
+definitely feels good, feels
+extremely grateful, you know,
+that it happened. But like
+having said that, like I feel
+like if you keep swinging,
+eventually, like you will hit
+six, right? Like if you've got a
+dice and you just keep rolling
+it, it's gonna hit six at some
+point. The game is to figure out
+what dice you want to keep
+rolling and what dice can you
+keep rolling without getting
+bored?
+Arvid Kahl: Yeah, I do wonder
+because I looked into your
+previous project. You do list
+them on your website and
+everything, which is really
+cool. You've tried a lot of
+different things, right? You've
+went into, I think niche lists
+the blogging microblogging
+platform. You had a like read
+something great. You had a
+curated articles. Do nothing for
+a minute, that's one of my
+favorites. So I just encourage
+people to do nothing. But I feel
+like with this product, in
+particular, you have found like
+what I would call product market
+fit. There's a real need for
+what you're currently providing
+with Audio Pen. So I would like
+to ask you about what do you see
+being different about this
+particular product? Or maybe not
+even the product, but how you
+approached it that resulted in a
+much, much bigger kind of
+audience for and customer base
+of the product?
+Louis Pereira: Yeah, I mean, I
+don't want to take credit for,
+you know, discovering this
+untapped need of finding product
+market fit through some sort of
+rigorous procedure of feedback
+and stuff because it. Like it
+wasn't very intentional. I've
+said this before. I think most
+people that follow me will know
+that I've said, Audio Pen was
+quite an accident. I was just
+building. I built about five
+tools that week on my own
+website, like tiny tools on my
+own website without any
+intention of making them
+standalone tools or commercial
+tools. I wanted to just learn
+how to use open API's. And I was
+trying to use them in a slightly
+more novel way rather than you
+know, try and you know, just use
+one API and go from A to B. I
+wanted to see what if I combined
+a couple, you know, do a couple
+of interesting things, see what
+happens. And because I'd been in
+the space, it was a bunch of
+factors that came together. Like
+I'd been in the space building
+for a few years. I had a
+relevant sort of Twitter
+audience, not very large but
+quite relevant. I had been
+building publicly for a while.
+People had used my products
+before. And while I was doing
+these experiments, I used to
+talk about them on Twitter. Like
+I just tweet about each one of
+these tiny tools that week. And
+I managed to hit some sort of a
+chord with Audio Pen that I
+didn't expect, like I got a lot
+of sudden positive feedback from
+people in my DMs and not too
+much of it but enough of it to
+make me sort of think twice
+because I personally I'm not an
+audio you know, notes sort of
+person. I don't take voice notes
+very often. Now I do but before
+that I didn't. So I was like
+okay, a bit taken aback as to
+like this seems to have hit some
+sort of a chord with people,
+struck some sort of a chord with
+people. Like maybe I should just
+sort of zoom in and see if I can
+build something out of this. So
+I mean, I don't want to seem
+like I'm some sort of Steve Jobs
+that, you know, figure out what
+the customer wants without the
+customer knowing it. I stumbled
+upon it. But I had been playing
+the game long enough that, you
+know, it worked in my favor.
+Stumbled upon it, but it was a
+function of taking so many
+swings that, you know, I got
+lucky in one of them. So yeah,
+product market fit for me was if
+I've reached it and maybe I
+have. I don't know. If I've
+reached it, it's not for my
+genius or anything. It's just a
+function of playing multiple
+rounds and hitting one.
+Arvid Kahl: Yeah, that does make
+sense. It's a nice and humble
+perspective on being at the
+right place at the right time
+with the right not just idea,
+but also with the willingness to
+just execute it to see if it
+sticks, right? That's a big
+difference because everybody has
+cool ideas, but building it,
+even if it's just a prototype,
+that is too much for most. So
+just having that and other
+things that didn't work. And
+seeing what the market resonates
+with is an interesting approach.
+It is a scattershot approach,
+though, right? It's kind of you
+try all these things and you see
+what sticks. That tends to waste
+a lot of energy and time. And
+but since you did it, the time
+that you invested and the other
+things is not wasted. It's just
+you know, it's now being
+hopefully pulled into the
+product that is actually working
+out the bet that is going well.
+So tell me more about like how
+well Audio Pen actually is doing
+if you're willing to divulge
+these numbers? How many
+customers or users do you
+currently have with the product?
+Louis Pereira: At the moment in
+terms of registered users about
+30,000, including free.
+Arvid Kahl: Right. Okay, well,
+yeah, it sounds like to me, I've
+been thinking a little bit about
+this being a user of the
+product, I obviously want it to
+keep succeeding and sticking
+around, right? That's kind of my
+interest as well. And I've been
+thinking about it from a
+developer perspective, from a
+business owners perspective,
+too. And I was wondering, like
+how you deal with platform risk
+because there is obviously risk
+in building features and
+building the wrong features or
+going onto native platforms and
+building this and that and
+whatnot, that that's one of the
+features that are one kind of
+risks that I guess that you have
+to think about. But the other
+side is the actual platform that
+you're building on, which is
+open API's API, how are you
+protecting your your business or
+your product from your depending
+too heavily on that particular
+API and those with the platform
+underneath it?
+Louis Pereira: See at the
+moment, I'm trying to get like
+backups for it. So for instance,
+for instead of whisper, which is
+the voice model, I also have a
+couple of others that I've got
+access to deep Graham, assembly,
+etc. They're not as good in
+they're as good in certain
+respects, but not in others. As
+a package, I think opening eyes
+is still the best. But I do have
+those backups if you know,
+things change. As far as like
+GBD photo is concerned. I'm
+like, I still don't have a very
+strong backup I have. I have
+like I'm on the waitlist for
+Claude hoping to get that soon.
+I don't think any others come
+close to GBD for yet. But yeah,
+hopefully that gets sorted. I
+mean, fingers crossed. Until
+then, worst case scenario, I'll
+just get like another person's
+API access or something for a
+bit. But I mean, so far, I
+haven't heard of any cases
+where, you know, folks who've
+had API keys revoked or
+whatever.
+Arvid Kahl: Yeah. Well, that's,
+that's kind of, I'm really
+hoping for these these models to
+be able to be used on the edge,
+like on our own self hosted
+systems eventually, I mean, that
+is always going to be more
+expensive, I guess, than just
+you know, accessing the API, but
+to be able to run a GPT four
+model somewhere, right and you
+know, own on your own datacenter
+on your own Kubernetes cluster
+or whatever that would be really
+cool. A whisper is an is an
+example of this, I use whisper
+for my own podcast for this very
+podcast. In fact, I, I use it to
+get like a preliminary
+transcript from which then I
+generate potential, you know,
+like descriptions for the video,
+or tags for the video, all of
+this stuff comes from whisper
+that I run over the the actual,
+you know, the final video files.
+So and that is local, that is
+just a local installation of
+that AI, if you can call it
+right, which is just a machine
+learned the system there. So
+this being available is really
+cool. And having that as a
+backup option is an interesting
+idea. How much of your time do
+you spend on a front end or you
+know, like feature work compared
+to making the business more
+stable or more resilient against
+platform risk? And what's what's
+the split there right now for
+you?
+Louis Pereira: It depends from
+week to week, man, like I'm
+looking I'm a solo builder with
+no team. So like, for instance,
+this week has been terrible
+because I wanted to build a
+bunch of features. A couple of
+days ago, I just like found out
+that like audio Ben had been
+like blacklisted from a couple
+of by a couple of like antivirus
+sites, just because there was
+like a surge in traffic from a
+couple of countries in the
+Middle East. That was very
+unexpected for me. So I don't
+know what sort of traffic it
+was. But I spent the past couple
+of days just like reaching out
+to these people and, you know,
+creating false positive reports.
+And they've just been like, oh,
+sorry, you know, our bad. Like,
+here you go. It's clean. Now.
+We're like, I spent the better,
+half better part of like, what,
+48 hours, just frantically
+responding and trying to clear
+this thing out, like, it's
+almost done now, for no fault of
+mine, like I can't, like I
+didn't do anything wrong. It
+just happened. So like on a week
+to week basis, like, if there's
+no crisis to handle, I would
+prefer spending my time building
+features because that's what I
+genuinely enjoy doing. Of
+course, sometimes I have to
+force myself to sort of create
+content as well, about those
+features. Like I've learned the
+hard way that if you build too
+many features, and customers
+don't know that the features
+exist, it's pointless having
+built those features. So I spent
+some time sort of creating
+videos, you know, text content,
+FAQs, etc, etc. Some tweets
+maybe, so that people can sort
+of get educated about what I've
+what I've built for them. But
+otherwise, if I have the time,
+and if you left me alone, I
+would I would just I would just
+build out build from Warrington,
+I love it.
+Arvid Kahl: Yeah, that's that's
+the the in the hacker life,
+right? If you could just like
+wake up, build cool stuff, go to
+bed and repeat. That's fine. I
+love it. How much? How much
+customer service? Do you have?
+How much conversations or how
+many conversations do you have
+with, with customers or
+prospective customers right now?
+Louis Pereira: Mostly with
+customers. So I don't have a
+chatbot. On the website. I
+almost actually stumbled upon
+this idea as well. And it worked
+out quite well for me, where
+when I launched the MVP, I think
+soon after, or maybe on that day
+itself, I didn't have the time
+to sort of figure out what
+chatbot to kind of add to the
+site and, and stuff. So I just
+created like a simple little
+message box with a button. And
+when somebody sends me in a
+message, it comes to me as an
+email along with that person's
+email id that they've registered
+with. So you need to be logged
+in, in order to chat with or not
+to chat, but to email me. And
+that's been great. Like, I
+don't, I'm not expected to
+reply, instantaneously, I get
+better responses from people,
+like I get better feedback
+longer, rather than just a high
+or, you know, one or two lines.
+Yeah. It's not front and center
+on the app. It's not like, you
+know, on the first page, you
+need to click on the Account
+tab, and then you see it. So
+it's only people that have
+reached a particular threshold
+that they feel like, okay, I
+need to contact this guy that
+contact me. And of course,
+besides that people reply to all
+of the emails, I send them as
+well. So on a weekly basis, I
+send emails to to the users, I
+get a bunch of replies. On
+average, I would say I reply to
+maybe 20 people a day, 25 people
+a day. And that goes up and
+down. depending on you know, if
+I've sent out an email today,
+then that number might become
+you know, 100 for a day or two.
+But otherwise 2025
+Arvid Kahl: How many of these
+are feature requests over
+actual, like bug reports?
+Louis Pereira: 5050? That's
+really, yeah. Because so the
+feature requests always come
+from from Prime users, because
+they've got access to the entire
+feature set. And then they know
+what they want. So that's it's,
+it's sort of limited. If
+everybody had access to
+everything, I'd probably get
+more. And bulk requests usually
+come from like the free users
+because they aren't like sure
+exactly how to do certain
+things, or you know, some things
+at scale, of course, you end up
+getting more bugs than than what
+the Prime users experience. But
+so far, like, yeah, so far,
+there haven't been any like
+crazy bugs, a bunch of minor
+ones, the start the day, I think
+I've sorted out on a couple of
+like recurring ones that I know,
+I can't sort out until I sort of
+go native. Those aren't bugs,
+those are actually just just
+features that people think are
+bugs.
+Arvid Kahl: That's that's also a
+product education thing, right?
+We have to just teach people how
+to use the product. Right?
+That's, that's always that's
+actually
+Louis Pereira: an interesting,
+that's an interesting thing to
+think about, like I spent the
+last week trying to think about
+what sort of content to create
+for people. And then, you know,
+I went, I went on this tangent
+of thinking, Maybe I should
+create a page of like how tos,
+you know, and tell people how to
+do different things on the app,
+like how to, let's say, Change
+Your writing style, how to
+download a note, etc, etc. And I
+almost got started on it. And
+then I was like, you know, if I
+do this, it's going to encourage
+me to create a less intuitive
+app, then I start, depending on
+this page, to teach users what
+to do. That should not be the
+case, I should be reworking the
+app to make it intuitive enough
+for people not to need this page
+in the first place. Maybe Of
+course, I can build it at a
+later date when you have a lot
+of users and they don't have
+time or whatever. But like at
+this URL in the product, like I
+should not be needing that page.
+I should suffer if my product is
+not intuitive enough. And I
+should maybe talk to customers
+directly to explain it to them.
+So at least to have some sort of
+interaction with them to
+understand what they don't
+understand. So I've held off
+from that for now.
+Arvid Kahl: That's great. That
+is a wonderful perspective.
+Thanks for sharing it so
+eloquently. I think the idea of
+having a usable product is so
+much stronger than having a good
+documentation for an unusable
+product, right? Obviously, it's
+just, you know, one level
+further down the complexity
+hatch, right doing the you don't
+want the things to be so complex
+that you need documentation. I
+agree with this, I think that
+the problem there is usually
+that the moment you change you,
+if somebody gets upset, either
+somebody who's already used to
+the old stuff, or somebody who
+wants it differently, like
+everybody will get upset about
+something at some point, which
+is, it's not a solution for the
+for the documentation usability
+problem, but you that people
+tend to not want their UI to
+change once they used to it,
+which is I think, why most
+founders add documentation
+rather than making big changes
+in the interface. But I guess
+you're at a stage where that is
+still Yeah.
+Louis Pereira: I think I might
+have made one or two big changes
+in terms of like moving buttons
+around and stuff. But so far,
+like I've not received, like,
+I've received maybe a couple of
+complaints about it being like,
+Hey, I can't find this. But but
+I'm guessing the others have
+figured it out.
+Arvid Kahl: Yeah, I guess I
+guess they must have. One thing
+that really interests me is the
+subscription level that you have
+to prime users, right? You You
+have paying customers, which is
+great for any any indie hacker
+that actually makes money off
+their product that is already
+quite the accomplishment. When
+did you integrate the
+subscription level? Was it there
+from the start? Or did you add
+it at a later point?
+Louis Pereira: So I actually
+built the first version of the
+product during a hackathon that
+I organized once every two
+months, called half day build.
+And the goal of that Hackathon
+was is rather to go from idea to
+revenue within 12 hours. So I
+was forced to have, you know, a
+payment link on the website, the
+day it went live, like the
+minute it went live. So yeah, I
+mean, I built it on that. And on
+that during our hackathon. And
+it was, in fact, I had invited a
+bunch of beta users from
+Twitter. All right, I just
+tweeted out saying, hey, you
+know, this product seems like
+it's ready to launch. Does
+anyone want to be a beta tester?
+So I got like, you know, 1015
+people that are like, Yeah, I'll
+do it. So I gave them access.
+And a few of them bought it,
+like, it wasn't even live yet. A
+few of them bought it. And
+that's when I was like, Okay,
+I'm gonna, there's something
+here, like, I got to double down
+on this, and keep making it
+better.
+Arvid Kahl: That's cool. Yeah,
+that's a great, great way to
+start, I think, a big lesson
+here, put put a payment link
+into even the first prototype of
+your project, if you want to see
+if people find it even valuable
+enough at that point, right? To
+pay for it. Pricing. How did you
+deal with pricing? How did you
+set the prices, and you earlier
+said that you, you started a bit
+too cheap, and you made it more
+expensive. So tell me more about
+the pricing journey of audio
+PIN?
+Louis Pereira: Cool. Like, I
+like keeping things extremely
+simple. When I started off, I
+wanted to, like I want I thought
+I'd do like a whole
+subscription, you know, monthly
+thing and stuff. And then I was
+just I think I just ran out of
+time to like build a whole
+subscription thing during that
+12 hour. Hackathon. So I said,
+let me just do a lifetime deal
+for early users. And I priced it
+like dirt cheap, it was like $19
+for lifetime, with like, GPD for
+access and stuff, or whatever I
+would pay for at that time.
+Maybe it was GPA 3.5. I don't
+remember. Service, it is very
+cheap. But I was basically
+validating demand. And I know
+people have this, like there's
+this whole debate of like,
+should you have a lifetime deal
+if you have recurring costs. And
+I spent a lot of time thinking
+about it. Because of course,
+like I have recurring costs,
+right? Like every time somebody
+uses the product, I pay a small
+amount. And my solution to that
+was twofold. One is, as I
+increase the number of features
+in a product, or increase the
+amount of ways that a person can
+use or wants to use this
+product, and if I have a
+lifetime deal, I keep increasing
+the price of that lifetime. So
+for context, the lifetime deal
+at once was $19. At the start is
+now 150. And people are still
+buying it because I've increased
+the number of features that I
+offered as compared to what it
+was at launch. And the second
+thing I do is I include an
+annual deal as well. And I play
+with the pricing with the
+pricing ratio of the two until I
+get a split that I'm happy with
+that is sustainable. So for
+instance, right now the annual
+pricing is at $75. And the
+lifetime deal is at one $50. And
+I'm happy with the split the
+number of people picking this
+over that or that over this. So
+I want it to be sustainable like
+at any point of time. I need to
+be able to service people, at
+least morally if you're paying
+for a lifetime deal that is
+worth twice as much as an annual
+deal. I need to be able to
+assure you that I will give you
+at least two years if not More
+at any point of time, if you buy
+today, I have to guarantee you
+two years are not I mean, I'm
+not explicitly guaranteeing it
+to people. But like, morally, I
+feel that responsibility. So I
+make sure that that ratio is
+correct for my costs to sort of
+be sustainable. And of course,
+I'll probably end the lifetime
+deal soon, in a couple of
+months. But until then, I think
+it's a great way to get like
+early supporters on board, get
+people who, once they've bought
+a lifetime deal for your product
+become like vocal advocates of
+it, because they feel like
+they're part of the journey.
+They're not just here for a
+month, or a year, or whatever,
+they're here for life. They want
+to see the product get better.
+So they give you better
+feedback. They want other people
+to know that, hey, you know, I
+was an early believer in this
+product. And I'm part of his
+journey. They tell other people
+about it. So it's, it's got a
+lot of benefits that that I
+think are worth considering,
+even if you have recurring
+costs.
+Arvid Kahl: Yeah. Yeah, great
+idea. I think the lifetime deals
+subsidizes the first, you know,
+the first couple months and
+years of building this business
+where you need to you still you
+have pay, you have to pay your
+expenses, or anything has to
+come from somewhere, and you
+have to be able to invest into
+it. And at a certain point, you
+kind of have to either really
+increase the price, as you said,
+to make it still valuable, or
+just turn off the lifetime
+stuff. Now, now turn it off for
+people who have it, but turn it
+off for new potential customers.
+I do wonder what this lifetime
+mean to you? Because I think
+there's like three or four
+different lifetimes that we
+could talk about your lifetime,
+your products, customers
+lifetime, which one which one,
+Louis Pereira: if you if you try
+to buy a lifetime deal on audio
+panel, very explicitly written
+in multiple places that you will
+have access to the product for
+as long as the product is alive.
+I don't know how long I'll be
+around. Maybe I'm here for 100
+years. I don't know if the
+product could be around for 100
+years, I don't know, maybe you
+will be around for 100 years, I
+can't guarantee you to be there
+for 100 years. If it is great,
+like you'll have access
+throughout. If it isn't then
+like, you know it isn't. But
+I've made made sure that that
+front and center lifetime is
+lifetime of the product. But I
+mean, that's important. Yeah.
+Arvid Kahl: Do a good job, I
+think you have, I think a lot of
+people who run lifetime deals
+are not that specific. And that
+leads to a lot of problems,
+right lifetime, it could also
+just be of that version of the
+product. And I've seen this a
+lot recently in the wizard like
+video and audio tools that, you
+know, like filmora was one of
+them. They had a lifetime deal.
+And for one version up to like
+version 12 or 14, and they
+released version 15. And
+wouldn't honor lifetime anymore.
+And there was this whole outcry
+in the community for a pretty
+established product, right? It's
+a competitor to the DaVinci, or
+Premiere Adobe product. So you,
+you have a sizable community,
+and they were not happy. Like
+there was this whole YouTube
+outrage about this. And you
+don't want to be on the
+receiving end of this for as a
+business, particularly not as an
+indie hacker. So being very
+clear with this, that's, that's
+great. I'm really happy you made
+this very, very clear from the
+start for our lifetime. Yeah,
+Louis Pereira: I mean, the way I
+think about it, like not only
+for this decision, but like for
+anything I decide with the
+product, whatever it may be, I
+really like doing this stuff,
+right? Like I really like
+building like, I've done a lot
+of stuff, like I've
+experimented, you know, I've
+played around, I've done a few
+things in life. And I found this
+one thing that I really liked
+doing actually like building
+stuff, you know, like showing it
+to the world, sharing it to the
+world on the internet. If given
+a choice, I want to do this for
+the rest of my life. Now, if I
+want to do this for the rest of
+my life, I cannot afford to lose
+people's trust, I cannot just
+have them say, Hey, this guy is
+a cheat, right? Like, that's the
+last day, if that happens, I
+stopped being able to do the one
+thing that I really like to do.
+So like priority above whatever
+else, you know, money, whatever
+is just customer trust. Because
+I like like, I lose if I lose
+trust. It's not only that, you
+know, I can run away with the
+money tomorrow. Like, what will
+I do then? Like, I'm going to do
+things I don't enjoy that
+stupid, why would I want to do
+that? So that's like, that's the
+lens I look at all of this stuff
+from so yeah, I mean, just one
+thing that makes me
+Arvid Kahl: makes me so happy to
+hear this. Like this is such a
+such a kind of empowerment focus
+perspective. And also it's it's
+selfish in the best way you want
+to do the thing you love. So you
+will not risk like cheating
+people. Or the you won't cheat
+people just to just to get
+something short term, you want
+to do this long term. It's a
+it's the infinite game theory,
+right? You want to play the
+infinite game of indie hacking,
+instead of just getting short
+term.
+Louis Pereira: It's very, it's
+very difficult. Like I I know
+this because like I've tried a
+bunch of things in life, right?
+I've tried different types of
+products, different types of
+experiments, etc. And it's not
+very easy. Like I have friends
+and you know, family, etc, who
+haven't yet they're still
+trying, they still haven't found
+the one thing they like to do.
+So I know it's not easy to
+stumble upon the thing that you
+want to do, or to even have the
+opportunity to try and find it.
+Like yeah, I'm 30 years old, you
+know, I've spent whatever the
+past, let's say 10 years of my
+career, trying different things.
+And now I found something maybe
+you know, a year ago so I found
+two years So I found something
+that I really liked doing. The
+very fact that I was able to do
+it for two, two and a half years
+without any, you know, major win
+or any major income is because I
+like doing it. Like if if audio
+pen did work, I would still be
+building things online, I would
+still just be building random
+shit and sharing it, because
+that's what I want to do. Like,
+I don't want to not be doing
+that, because it's not paying,
+like the fact that it's paying
+me is like the cherry on the
+cake. I'm like, Great, I'm
+making money from it amazing.
+But if I wasn't, I'd still be
+playing. So yeah, I mean, it's,
+it's, it doesn't have to be
+building, it doesn't have to be,
+you know, writing, it can be
+anything, like whatever you like
+to do, if you find out that
+you'd like to do it, and you
+really enjoy it, you should do
+everything in your power to make
+sure that you can keep doing
+that till the day.
+Arvid Kahl: Yeah, and that's and
+that's where community comes in.
+Right? Because the community is
+the place where you find
+prospective customers where you
+find peers that help you with
+your business decisions or with
+your design decisions are your
+UX decisions, that's where the
+other people come in. And that's
+the thing, why I'm really really
+applaud your choice to put trust
+over anything else over money or
+fame, over wealth, whatever,
+that because if the trust does
+not exist, the community does
+not exist for you. You are an
+unknown untrustable entity in
+the community, and you're doing
+the opposite. You're building in
+public, you're sharing
+everything you do, you're very,
+very open like this, this
+conversation is an example of
+this. You talk about the things
+that you enjoy, and how much you
+enjoy them. And it's really
+noticeable. I'm really happy
+that you're doing this building
+and public has just been
+something that you've that
+you've done for a long time, or
+have you only recently found
+this to be something useful for
+your business building efforts.
+Louis Pereira: I think for as
+long as I've been building on
+the internet, I've built in
+public, mostly influenced by by
+KP show, you know him. I had
+actually. So I think back in
+2020, during the pandemic, I had
+just stumbled upon Twitter, I
+think and you know, see, like
+seen a couple of things there.
+And I was like, this was this
+was a couple of years after I
+had moved back home from the
+city. So I now live in a town
+called Goa, small state in
+India. And I had moved from
+Delhi, which is where I studied
+and worked for a bit. So I had
+seen like my social circle sort
+of shrinking, at least I'd seen
+the interestingness of the
+conversations I was having also
+sort of dropped because most of
+my friends are, you know, all
+over the place in the cities of
+the country and the world. And
+I'd found Twitter as this like
+one new outlet. That was Oh,
+interesting. People are talking
+about interesting stuff. That's
+nice. And then I decided in 2020
+Have I not decided right? I
+thought to myself, Okay, let's
+let's try and do something on
+the internet. Because the
+offline world I like I work with
+my family business during the
+day in the offline world. And I
+I enjoy building things there.
+But it's very high friction,
+right? Like it's everything
+requires permissions and
+investments. And it's
+complicated. You can't go from
+idea to revenue in 12 hours like
+you can on the internet. So I
+decided in 2020, okay, let me
+try and do something online. And
+I decided to start with like
+writing, because that seemed
+like the right or the easiest
+way to enter. Had some moderate
+success, etc. But then I
+realized very quickly that, hey,
+you know, this never gets
+easier. Like you can have 1000
+subscribers, you can have 10,000
+subscribers, it doesn't matter.
+Like you still have to write for
+20 hours a week to put out a
+good post. And it's still hard.
+Like, every time no matter how
+much of an established writer
+you are, you will still want to
+tear your head out your hair
+out. Every time sure you want to
+write a post, it's horrible.
+It's good after you've done it,
+you know, after you've published
+something, you feel good, but
+the process is pretty grueling.
+And I learned that the hard way.
+And I you know, I figured that
+that just wasn't sustainable for
+me. Because although I enjoyed,
+you know, becoming you know, a
+writer and creating stuff
+online, I have a full time job,
+like I don't have 20 hours a
+week, every week that I can sit
+and suffer through. So then the
+next best thing was to start
+building. Coming back to my
+first point, which is why I then
+joined the ondeck they had a a
+no code Fellowship, which KP was
+heading back in, I think 2021 I
+was part of the first cohort and
+it gave me like this nice entry
+point into the indie hacking, or
+the world of people building
+things online, and chatting them
+as well. So that ethos of just
+sharing things online initially
+to not much response kind of was
+born there. But the fact that I
+had that community around me to
+make sure that hey, I would at
+least get some response. It's
+not that I was tweeting into the
+void, like, like three of my
+friends from my focus group
+would would like my tweet, or
+like, share it or something. So
+it was nice, got started. And
+then enjoy the process of just
+building and like building in
+public like I I don't take it
+to, like I don't I don't I don't
+know what the word is. But like,
+I don't try to make it very
+performative. Right? Like I just
+say what I'm doing, like, if I'm
+building something, I just say
+that I'm building this and like,
+Hey, here's what I'm doing. Like
+here's how I'm doing it. Here's
+my rationale behind Let's see
+this decision Oh, that's that
+decision. I like, like most of
+my tweets are just like tweeting
+off the cuff or like a small
+screen recording with a some
+text that's just off the cuff.
+But yeah, I try not to make it
+like another chore. It's just
+like, it's like an update. It's
+like a, it's like a stream of
+consciousness sort of update.
+And it seems to work like people
+seem to like it so far.
+Arvid Kahl: That's great that
+you already had a couple of
+people to interact with around
+this, that makes it so much
+easier to write a cohort, if
+anything, I could be the on deck
+fellowship, or, you know,
+another little community just
+with people that are all
+building at the same time,
+right? People who are just
+sharing their work in progress
+kind of stuff, that makes such a
+big difference. And I love your
+non performative approach to
+what is always kind of a
+performance. Because it is a
+thing you act out in public,
+right? You write about a thing,
+like if you just were building
+and not talking about it to
+anybody, you would never think
+about sharing this particular
+step. So there is this kind of
+conscious choice about its
+intentionality. But it's still
+not an act, you're not not
+changing anything, you're just
+sharing the reality of it, which
+is what building a public is,
+I'm really happy you're doing
+this, you're a great example of
+this with the product that
+you're building, the products
+that you have been building, I'm
+really, really happy to see you
+do this. And the consequence is
+you meet a lot of cool people,
+right? You get a lot of
+opportunities just from sharing
+those stories. So is there any
+particular story about building
+in public that you want to
+share? That was really
+interesting to you?
+Louis Pereira: Well, I don't
+know if I have a particular
+story off the top of my head,
+but like, I think in general,
+like the kind of people that you
+know, I've interacted with
+through Twitter, like you, for
+example, like, yeah, actually
+one story like man product on
+that launch for audio open my
+mind. Like, I didn't know what
+was happening there. Like, I was
+like, What the hell like, I
+don't know why it happened. I
+think a function of it might
+have been that, you know, I had
+been around for long enough that
+people sort of recognized my,
+my, you know, profile picture,
+maybe they sort of knew, Okay,
+this guy's around. He's building
+stuff. Maybe some people, I
+don't know, maybe they're just
+nice human beings. Maybe some
+people just liked the product.
+Maybe they just felt good on
+that day. I don't know what it
+was. I had no, like I had
+expectations of let's say, three
+400 upvotes. That was my goal
+for the day and it crossed 1000.
+Because like you said it a bunch
+of other bigger concerto. I was
+just like, What the hell is
+happening here? Like, this is
+mad. Because like, you don't
+expect that kind of stuff,
+right? Like, you go into this
+stuff, as like a solo guy saying
+like, Okay, I'm gonna give it my
+best up against like, funded
+teams that are putting out their
+products. And let's see what
+happens. You know, like, worst
+case scenario, I'll get some
+traffic on the website, maybe a
+few people will buy my product
+and whatever, that's fine. But
+yeah, that was definitely like,
+a big big moment. I don't I
+don't know what how to express
+it. But like, it was a win very
+big. Like, it's something I'll
+never forget the fact that
+people I did not know, people
+that just saw my stuff on
+Twitter, not only like upvoted
+it but like shared it, like,
+wrote stuff about it. commented
+on the product and page. Like to
+that volume with that much like
+love. Like, yeah, it was, it was
+wild, like very, very grateful.
+Arvid Kahl: That launch was so
+cool. I remember it too. And
+it's not even my product. It was
+so cool. Because they you know,
+that's the thing. Like we have
+this established relationship.
+And I think that's how many
+people feel who follow you on
+Twitter, they see you succeed,
+and they are invested in you.
+And a little bit of your success
+kind of comes back to them
+because they know they've been
+pushing they've been helping
+they've been supporting you
+wherever they are, whenever you
+need a like or retweet or just
+input right? They were there.
+And I was said to and I saw you
+saw that being launched. And I
+saw Wow, product of the day. And
+then second of the week and
+fourth of the month like Dude,
+you just exploded. That was so
+cool. Yeah, it's crazy. I was
+gonna ask you if you had any
+cool strategy, but apparently
+the strategy is to just make
+friends with a lot of people and
+build cool stuff.
+Louis Pereira: Right? So I did,
+like I did prepare for the
+launch in the sense like, you
+know, I created a nice page, I
+spent a lot of time on the copy
+for it. You know, I spent a lot
+of time creating, like images
+and stuff. I don't know if that
+helped. Maybe did like, I
+definitely gave it my best
+before I launched. I spoke to
+Chris Messina, like he had a
+conversation with me. He gave me
+like a few strategies here and
+there. Which I think like I
+don't remember off the top of my
+head, but I've shared them on
+Twitter somewhere. So I had
+prepared for it as best I could.
+But like in no way did I
+anticipate like that what
+happened would happen? Like I
+thought, okay, best case
+scenario, maybe you know, for
+500 votes, not not what
+happened. But yeah, I think it's
+a function of just being like I
+don't think that would have
+happened if I had just joined
+Twitter that day and said, Hey,
+guys, as a school product, it
+wasn't about the product. It was
+about the product that people
+liked and had seen being built
+for a month and a half. Some of
+them had used it. And they had
+maybe seen me around that I
+can't see but
+Arvid Kahl: yes, yeah, that is
+better grateful. Yeah. 100% my
+my impression of ProductHunt To
+Product Hunt is not a product
+display case, it's an audience
+amplification machine. Right? If
+you have an audience already,
+they will come and applaud. And
+I think like India plays a big
+role there, too. I remember both
+of my launches of the books, and
+I don't think they even launched
+books or product. But I had a
+strong enough audience. So that
+my stuff made it there and was
+not immediately bad, which is
+really cool. And I think the
+biggest push that I always had
+was from my, my friends in
+India, because they are the ones
+that are awake the most, when
+it's when it's midnight pm on
+the west coast in the US, and
+they're the first ones and if my
+Indian people by Indian friends,
+if they start uploading you
+shoot up in India is such a
+pivotal thing. Like it's most
+people don't seem to understand
+how important India is for
+Product Hunt, because they are
+the
+Louis Pereira: 12 Noon. Yeah,
+it's like 30 or something in the
+afternoon. That's exactly right.
+Arvid Kahl: It makes a big
+difference. That's something
+that most people don't really
+seem to understand. Because they
+like wake up at nine in the
+morning. And then they start
+like, or eight or six or
+whatever, and then they activate
+their existing audience. But
+that is already six, if not, you
+know, four or five hours,
+depending where you live in the
+States, if you do it into the
+day, where a lot of people had a
+lot of opportunity to upload
+already. So yeah, that's really
+cool. That's important. Yeah,
+for a long time, it's
+Louis Pereira: an interesting
+space, though, I still don't
+think it's a good place to
+launch a brand new product, I
+think it's a good place to find
+more customers. Once you have a
+product that you know, works.
+Like once you have a product
+that has a monetization model
+has a set of like core users
+that like it, and then you go
+then amplified, it's not it's
+not a place to launch a brand.
+No, it's
+Arvid Kahl: and that's, it's
+called, it's called Product
+Hunt. It's not prototype hunt,
+or idea hunt, or, you know, like
+this business idea, maybe let's
+see where this goes hunt. But
+it's really for for things that
+are established and valuable
+enough for people to immediately
+use that are not buggy that are
+that are bug free, hopefully, or
+at least they have social proof
+already around them. Right
+Product Hunt itself has social
+proof, but on product and you
+also need social proof to get
+anywhere up in the list. So
+you're absolutely right. It's an
+advanced late stage launch
+thing.
+Louis Pereira: I learned that
+the hard way as well. Like, this
+was my second launch the
+previous product I launched,
+which was read something great.
+I launched it on Twitter on like
+a Monday and like I think in
+like 24 hours somebody DM me
+saying, Hey, I've hunted your
+product on product and and I was
+like, okay, cool. Like, I don't
+know what that is. But like, go
+for it, man. I'm gonna, I'm
+gonna see what happens. And a
+few friends were like, Dude,
+don't do it. You know, wait till
+the products like whatever, more
+mature. But I was like, hey,
+like, you know, let it be this
+guy seems legit. Let's just do
+it. It did. Alright, it finished
+at like number four, after a lot
+of hustling, but it was like 24
+hours old or something like 48
+hours maybe. But then like from
+then I was like, Okay, this is
+not a place to like, I didn't
+have a monetization model or
+anything. It was just a bunch of
+traffic that came and then went.
+So yeah, I learned I learned
+then that like, okay, don't do
+this again, do it when you when
+you have a more settled product.
+Arvid Kahl: There are also
+certain things that that won't
+perform on Product Hunt that are
+so niche, so specific to one
+particular group of people that
+getting the full attention of
+the tech community, which is I
+guess, who goes to Product Hunt.
+That's that's just a lot of
+attention. That doesn't really
+resonate with the product. Do
+you see this a lot, a lot of if
+you just scroll down, if you
+don't look at the top 10. But if
+you look at the bottom 500,
+that's good launch every day.
+Most of these are really cool
+products, just for a really
+small group of people. That is
+not necessarily the audience
+that goes to Product Hunt,
+right? And that's also a thing,
+you have to go where your
+audience is to launch the thing.
+And you do this so well on
+Twitter. How did you launch
+audio pen? Did you just kind of
+just throw it out there and see
+what happens, like after your
+hackathon? Or was it more of an
+elaborate launch on Twitter for
+you.
+Louis Pereira: So I was building
+those those tiny tools on my
+website the week before the
+hackathon. And like every day or
+so I would launch one of them.
+And the launch would be like
+just basically a tweet saying,
+Hey, I built this thing, you can
+do this thing with it. Go check
+it out. So audio pens initial
+launch, like the one that still
+lives on my website, which if
+you go to Luis Pereira dot XYZ
+you can still find was just a
+link with like, I think maybe a
+couple of lines of of what it
+does. And then after that, the
+Hackathon was about five days
+later. So I kept that hype up,
+where I kept tweeting about
+like, Hey, okay, I'm going to be
+building this for half day
+build, which is the hackathon.
+And then like a day before the
+hackathon, I tweeted out a few
+figma files that I had created
+with like preliminary designs,
+saying, Hey, this is what it's
+going to look like, I spent some
+time thinking blah, blah, blah.
+And then on the day of the
+hackathon, of course, it helped
+me because the community of
+people that were building
+alongside me like as part of
+this hackathon, like all of us
+amplify each other's work. So
+like, that's the purpose of the
+hackathon. It's like, give you
+this short term community that
+comes together for a day or half
+a day. And just like booths,
+each other to build something in
+public and try and go to
+revenue. If you don't go to
+revenue. It's fine, but you got
+to try. Everyone sort of amplify
+As each other's tweets or
+whatever, so that happened as
+well. And I had that community,
+I had a bunch of people that had
+already sort of followed me on
+Twitter. Prior to, to audio,
+Ben, and I had been building a
+little bit of whatever hype or
+anticipation or whatever you
+want to call it. And then yeah,
+and then then on the day of the
+hackathon, typically, what I
+tell participants is create like
+a running Twitter thread of your
+progress. So like, announce your
+product into each one. And then
+as you're building it, tweet
+about your progress, where
+you've reached what you're
+doing, why you're doing it, how
+long it's going to take you how
+much time you have left, you
+know, like ask people if they
+want to be your beta testers,
+within that thread, maybe
+retweet a particular like a
+particular tweet, and ask people
+if they would pay for it, etc,
+etc. So that kind of builds its
+own hype, because every few
+hours, you have like an upgrade
+coming up. And yeah, I mean,
+that's, that's basically what I
+did for the launch.
+Arvid Kahl: Awesome. How often
+do you run these hackathons? Do
+you still run them? Is that
+still happening?
+Louis Pereira: Yep, yep, every
+two months. I think the next one
+is on this. I do the 17th or the
+ninth of September if you go to
+half day build.com You'll see it
+I can I can check later but
+yeah,
+Arvid Kahl: link in the show
+notes this episode at out way
+before that. So you know, it's
+not like it's not
+Louis Pereira: a very like
+formal hackathon. It's just
+literally a discord 17
+September's when the next one is
+it's literally a temporary
+discord that I create, like
+three or four days before the
+hackathon. With a few like
+resources, you know, a place for
+people to interact etc. On the
+day people just help each other
+either in discord help each
+other on Twitter by by sharing
+the link, sharing each other's
+tweets. And then two or three
+days after the hackathon, I
+delete the discord. So people
+don't have like discord bloat.
+They just it feels like a
+sprint. They come in, they make
+friends they build, and then
+they leave. And if they want to
+keep friends, you know, they can
+follow each other on on on
+Twitter or wherever.
+Arvid Kahl: That's cool. Like
+indie hacker speed dating.
+That's awesome. That's really
+cool. Yeah, it's really nice.
+And to, to think that such a
+revenue generating and attention
+generating product came out of
+it. Hmm, isn't? Isn't that
+awesome? What a what a glorious
+example of what can come? Yeah,
+Louis Pereira: I mean, I went a
+couple people. I've been doing
+it for what, I don't know, over
+a year now, two years, maybe?
+Every initially it used to be
+every month, then I switched it
+to every two months, because
+like, it just got too hectic.
+But yeah, like most of the
+products I built during these
+half a bills of like all of them
+have died. Not maybe there's one
+that survived. All of the others
+have died. But yeah, I mean, you
+gotta enjoy the process of
+swinging, right? Like, it's, it
+shouldn't feel like hard work.
+Like, you know, people say
+grind, grind, grind, and you
+will finally make it. But like,
+that's not the point. Because
+then even if you make it, you're
+still going to be grinding on
+the thing that you were grinding
+on. Which, by definition, it
+means that you don't enjoy it,
+you're grinding because you
+don't enjoy it. So you shouldn't
+be wanting to grind. Yeah, you
+shouldn't be wanting to do that
+you should want something that's
+smooth, like something that you
+enjoy doing effortlessly.
+Arvid Kahl: That you know what
+that reminds me of? You recently
+tweeted about productivity porn,
+that was something that you were
+talking about. Because, you
+know, Peter levels posted this
+picture of all these books, like
+the self help books, these are
+books that founders would read
+to learn how to be more
+productive, and you thought
+about it. And you just want to
+say what, what you were thinking
+and maybe the discussion around
+that, that that came out of it?
+Yeah.
+Louis Pereira: Yeah. So for
+context, I mean, there was a,
+there was a picture of, you
+know, a very aesthetic picture
+with a bunch of books that were
+all white in color, for some
+reason, most of which was self
+help books. And the context that
+was shared by the person who
+tweeted out was that, you know,
+you don't need to be reading. If
+you you know, you just go and do
+stuff, like you should just go
+and build. And I agreed with
+that. On first glance, I was
+like, yeah, like, a lot of these
+books are, you know, just, they
+should have been a blog post.
+But there are a couple of
+reasons why I later sort of went
+back on my own thoughts, and
+thought that maybe I was wrong
+with that initial thought. One
+was that I believe in this
+concept of, for I called Bridge
+books, okay, so it's very easy
+for a person who's who's not
+read a particular book. It's
+very easy for a person who's
+read a particular book to feel
+that that book was worthless,
+because he's already crossed
+that bridge is reached the other
+side. But for somebody who's on
+the other side, on the on the
+previous side, that book might
+still be useful, right? So like,
+I know, a couple of books like
+self help books, particularly
+get a lot of hate saying, Oh,
+this is, you know, a waste of
+your time. But you know, what,
+maybe you were the person who
+read this. And that made you
+advance to reading, let's say,
+more complex stuff today.
+Because you read that, you know,
+five years ago, it's not fair
+for you to be to be sort of
+shitting on someone who's doing
+it now. Like, let him go on his
+own journey. Let him cross that
+bridge. So that was the first
+thought I had where I was like,
+okay, you know, this stuff might
+seem like child's play to
+somebody today. But if that
+person I To rewind his own life,
+it might not have been the case
+back then. That was one. And
+then there was like a very meta
+thought I had, which was just
+like we live in a world of
+abundance, right? Like we have
+all of our basic needs met,
+we've got food, we've got
+shelter, etc, at least most of
+us, at least those of us on the
+internet, trying to build
+things. And the purpose of our
+lives right now are what we're
+trying to find is we're trying
+to find meaning, meaning, we're
+trying to feel good about
+ourselves, we're trying to wake
+up and feel like we're doing
+something useful. We're trying
+to, you know, in other words,
+we're trying to optimize for our
+emotional states, at any point
+of time. And if reading a book
+that is about, say,
+productivity, helps you feel
+productive, or helps you feel
+good, even if you don't act on
+it. And you start to say, you
+don't end up being productive,
+or you don't end up implementing
+what that book told you to
+implement. If you felt good
+during the process of reading
+that book, and then you just
+went and picked up another
+productivity book, and you felt
+good again, and you repeated
+this, you know, all the way for
+the rest of your life, until you
+died. And you just felt great.
+You had all of your needs taken
+care of by default, because you
+had a day job or whatever. And
+in your free time, you felt
+good, because you read these
+books, you didn't have to go and
+start building stuff online. If
+you didn't want to, then there's
+nothing wrong with that. Like,
+why what who am I to judge that
+this person is reading
+productivity porn and not doing
+anything? If he's feeling good,
+let him feel good. Like, maybe
+he's reading productivity porn,
+and he's not doing anything but
+feeling good. It's probably
+better than him say, going out
+and, you know, drinking by
+himself by a river or something.
+All right, let him read his
+books. Like, who cares? Anyway,
+we've, we're not, we're not at a
+point where you have to work.
+We're at a point where we want
+to work where we want to do
+things, you don't have to do
+things for most of us.
+Arvid Kahl: That's fine. Yeah,
+it's, it's certainly like most
+of us, I think it's the
+important term because there
+will be people who have to, of
+course, but those those are not
+part of this conversation,
+right? That there are people who
+really have to work, they're not
+thinking about, Oh, should I
+read my productivity book? No,
+they, they need a job they need
+to work. I very much agree with
+this, I found this such a
+compelling thought, the idea
+that in a world of abundance,
+just even considering or, or
+simulating productivity is as
+good as productivity, at least
+in certain under certain
+constraints. I really enjoy
+enjoy the idea because what
+you're what you've said
+effectively is an anti
+gatekeeping argument. That's
+kind of what you made, right?
+Because you shouldn't read your
+short work is also gatekeeping.
+In a way, it's like, oh, no,
+don't read those books. Yeah,
+better just be, you know, bogged
+down and work, work, work, work,
+work, and close yourself off to
+the potential revelation of that
+bridge that the book might
+actually take you, it's kind of
+keeping you where you are. I am
+very much I am a big fan of
+reading. Like I'm a writer, I
+kind of want people to read for
+somewhat selfish reasons, but
+also for for selfless reasons. I
+want other people to help
+themselves. In reading. That's
+kind of what reading books is
+like. And I love the idea of the
+bridge book. That's something
+that I think I had conceptually
+in my mind, but never put into
+words. So thank you for giving
+me this. This idea. It's kind of
+Crossing the Chasm by just
+putting putting like, literally
+a gigantic book over it. Right,
+and then walking over the book
+on the other side, that's that's
+such a cool idea. And the
+keeping people away from books,
+that should have been a blog
+post, I liked that phrase as
+well. Well, the good thing is,
+some people love blog posts. And
+for them, it probably there is a
+blog post out there summarizing
+the book. And other people
+really need it slow and steady.
+And for them, the blog post
+would not have been enough for
+them, the book needs to read the
+book, right? So there's, there
+are all kinds of gatekeeping
+arguments in this you shouldn't
+read but work. So I'm glad
+Louis Pereira: to sort of expand
+on the last point you've made
+like, like, very often I think,
+Okay, this book should have been
+a blog post. But the fact that
+you spent six hours reading
+about the same idea over and
+over again, even if it could
+have been shortened, has meant
+that that idea has had more time
+to kind of, you know, percolate
+into your brain. So even if you
+feel like it was, you know, the
+same idea repeated, you've given
+yourself more time to understand
+the idea, or to kind of flirt
+with its, you know, whatever its
+potential 100%.
+Arvid Kahl: That's why I love
+books that are like really
+thematically focused on one
+idea, and look at it from all
+different angles. Because if
+when I write about something in
+my own articles, I try to look
+at it from at least two or three
+different perspectives, so that
+anybody who has that
+perspective, or that other
+perspective, finds an accessible
+way into my thinking into my
+thoughts into the idea that I
+want to convey, because I know
+that we are living in a very
+diverse, diverse world of many
+people from different
+backgrounds, some things are
+just not gonna resonate with
+certain kinds of people. But if
+I give myself the space and time
+to look at it from all these
+different angles, I can make it
+easier for people to absorb the
+knowledge write a blog post will
+always be opinionated. That's
+the kind of idea of a blog to
+begin with. But a book doesn't
+have to be a book can be quite
+accessible. So in fact, it's
+about accessibility.
+Louis Pereira: Yeah, I mean,
+maybe in the future, you know,
+like just thinking out loud,
+like we might have, you know, AI
+versions of books now. Yeah, but
+like personalized versions of
+books, right? Like, for
+instance, I love if you have
+five angles that you want to,
+you want to kind of cover for
+each of the five different types
+of people. Maybe you buy a book
+on your Kindle, and the Kindle
+knows what angle you deserve to
+read from what angle is best
+suited to you. And it just gives
+you that angle. It doesn't serve
+you the other four, and itself
+someone else differently as
+well. Maybe that'll happen. I
+don't know. But yeah,
+Arvid Kahl: I mean, if there's
+any technology that might make
+this happen, that's the one
+you're currently working with.
+Right? That's, that's what you
+GPT for and all these things are
+doing. They're like contextually
+rephrasing things to sound
+differently, but still say the
+same thing. That is what this
+stuff is really good at. Man I'm
+so I'm so excited about the
+world of like generative AI. And
+the tools that have come through
+it, like audio pen is a great
+example of this, it's a to me,
+just a really small, tiny little
+step on top of existing steps,
+but into the absolute right
+direction. They're making,
+making things easier and making
+things more accessible. I think
+accessibility, that's also an
+important part of taking audio
+and converting it into text
+where people who can't write
+well or who don't enjoy writing
+can still write because what
+you're doing is effectively, you
+allowed me to write with my
+voice. That's what a good audio
+plan is. And this is not an
+advertising for audio. But
+although it might just as well
+be because it's a good product,
+and I use it, my affiliate link
+will be down below. But no, but
+what I'm, what I'm trying to say
+is it is it is so empowering.
+That's the thing that you build
+in this half day, Hackathon is
+opening up writing to people who
+are not necessarily primarily
+good writers. That is what this
+technology can do.
+Louis Pereira: I love this
+again, through my dad, like he
+is exactly what you described,
+like he's a very deep thinker,
+but English is not his primary
+language. So he would always
+write like, he would always, you
+know, type on his his Google
+Keep and send us these long
+essays. But they will always not
+be very well framed, right? Like
+there will be typos, they would
+be, you know, grammatical errors
+here or there. And he would
+still, like share it, he would
+share it, you know, maybe within
+the family because it's like a
+smaller group. Now with audio,
+and he just talks to his phone,
+he gets what he wants. And he's
+more confident to be able to
+share that with anybody. Because
+it's grammatically correct. It's
+well structured. It's easy to
+read, and just ready to share
+from like, the get go. So he's
+probably like power user. Number
+one, the list of users have the
+moment where like, every time is
+every day, creates an order,
+like shares it to everyone.
+Well, he was quite proud of you
+for that. Like that's, that's
+the best gift you could give,
+right? Yeah, accidental again,
+but like great, great, concise,
+Arvid Kahl: I guess you'll take
+it though. The cool thing about
+all human let me let me throw
+this one at is the translation
+stuff as well. Like you can you
+can talk to it in any language
+you want, which is hopefully
+your your, your native tongue.
+And the thing that comes out of
+it can be in any language that
+you like, which is that's also
+what an empowering move this is.
+Now all of a sudden, you're
+turning this into a globally
+critical communication tool is
+kind of like the the
+communicator in Star Trek,
+that's what you're doing. Like,
+you know, the communicator
+between,
+Louis Pereira: I'm just
+facilitating it like GPD for and
+I'm opening eyes, like, doing
+most of the work, but like,
+Yeah, I'm glad to facilitate
+that. Glad to be a channel for
+people to be able to. And it's I
+mean, it's, it's great. It's
+great to be building something
+that like people use that way.
+And like it impacts them. Like,
+you know, forget the money but
+like when when I get like a user
+telling me hey, you know, you
+changed my life because of this.
+I'm like, Oh my God, that's,
+that's crazy. That's crazy to
+hear.
+Arvid Kahl: Yeah, my my example
+here, and I hope this story is
+something that you like a couple
+of weeks ago, I was in a just in
+a thinking mood. And I just
+wanted to write but I didn't
+want to write you know what I
+mean? So I just I think I
+dictated 510 15 minutes, ideas
+into audio pen. And I had had
+five articles done. I took the
+transcripts, I put them into my
+notion documents were headed and
+like within just a couple hours,
+not even, I think, what three
+hours, two hours, it was super,
+super quick. I had to a month's
+worth of writing work. mostly
+done. And that was so cool.
+Knowing that oh, now I can focus
+on all the other things I want
+to do. I don't need to sit down
+for like four days I have done
+this in a couple hours. That was
+such a such an amazing thing
+that I feel I still underpaid
+for the product. Let me let me
+just say this. You know, it's so
+so worth it to have a tool like
+this. I'm excited. You know, I'm
+Louis Pereira: still I've not
+spoken about this to people
+before but like I'm still
+slightly conflicted about
+whether making it easier for
+people to think and to write.
+Whether it's a good thing on the
+whole, like, for instance,
+writing is difficult work right?
+Like, should people wrestle
+their thoughts in order to get
+them out on the on paper? Should
+they be fighting that blinking
+cursor on a blank screen for
+their thoughts to you know, for
+the for their own? Whatever
+structure of that that talks to
+be to be improved? Or should it
+be easy for them to do it like,
+you know, it almost feels like a
+cheat code, like you talk to a
+phone or your computer and it
+creates this stuff for you. I
+don't know, like, I'm still, I'm
+still conflicted about whether
+it's, you know, a net
+Arvid Kahl: thing. 100% I very
+much understand. I think from a
+from a social philosophy
+standpoint, you could argue that
+every kind of technology, it has
+this problem that the typewriter
+was effectively a cheat code to
+writing, because you could argue
+that the hand eye coordination
+of long form writing also
+creates different thinking and
+different sentence structures
+and different you know,
+different texts than if you were
+just typing it. Or if you were
+doing it on a computer with
+like, automatic suggestions of
+words or grammar, correction,
+Grammarly, that kind of stuff,
+all the tools that have come up,
+I think every technology has the
+potential to be achieved, in the
+sense of that it makes something
+that has a certain connection to
+your brain slightly different.
+And I agree with you, I think
+this in particular, just kind of
+skips the writing part all in
+itself. But maybe its purpose is
+not to be a replacement for
+writing. That's kind of what
+what most AI tools are
+misunderstood at as our as
+replacements I don't think they
+are I think they're
+augmentations to the process.
+Like in my process. As a writer,
+I use your tool, or any kind of
+GPT based tool, not as a final
+product generator, I use it as a
+brainstorming tool, I use it for
+the first step that I would do
+anyway, in the way I do it by
+dictating and then taking a
+transcript and writing out
+particular parts of it or taking
+particular parts of that thing
+and turning them into bullet
+points or whatever, your tool
+just facilitates that more
+easily. And I still write the
+article from there, I'm not
+done. Once I've dictated this
+into into audio PIN, I've just
+getting a much better interim
+result from which to write even
+better text. So I think the
+moment we take the notion of
+tools, replacing processes, and
+just look into how tools,
+augment processes, I think this
+becomes less of a problem,
+because you're not replacing
+writing. And you're definitely
+not replacing thinking, because
+thinking still needs to happen
+in the process of you know,
+people talking into their
+microphones. It's just a
+different kind of thinking that
+happens. It's a more fluent one,
+it's less of a wrestling to
+type, you know, whether the
+actual act of typing comes comes
+in. It's a it's a more free
+version of thinking. It's
+different. And I think that's
+all right, you're offering a
+different way of thinking. I
+like that.
+Louis Pereira: Yeah, I mean, I'm
+glad I'm glad you you think that
+way. Yeah, makes me feel better
+as well. Because ultimately, I
+want to make sure that I mean, I
+want to be creating a net
+positive impact, right. So yeah,
+I'm glad you feel that way. I
+definitely got to stop writing.
+I mean, I definitely still want
+to, like build out like some of
+the features I was mentioning
+that I you know, I'm thinking of
+like some of the directions I'm
+thinking of, I still want to
+push people to use this as a
+first draft where they can then
+edit it within Audio pen as
+well, and then maybe even share
+it. So for instance, like the
+focus mode for writing, where
+you go into like a full screen
+mode that's like very minimal
+and sleek. I want people to use
+that to kind of take that first,
+you know, draft that they get,
+and then physically sort of sit
+down and and think through it.
+And let's see, maybe I can nudge
+people in other ways as well to
+use this as a starting point.
+And you know, as you said, kind
+of take it from there.
+Arvid Kahl: Yeah, it's
+definitely going to be an
+interesting journey to watch
+where this product is going. And
+let's maybe close it up right
+here. Where do people go to
+follow that journey? Follow your
+products, your thinking and your
+cool features that open will get
+in the future? Where do you want
+people to go?
+Louis Pereira: I mean, Twitter
+is the best place I have. I have
+a website as well. But I would
+just say Twitter. I'm just at my
+full name. Louis Pereira. No
+spaces. No, no dots, no numbers.
+Yeah, you can find me on
+Twitter. I'm fairly active.
+Arvid Kahl: Yeah, I've used
+certainly aren't, I hope you
+stay that way. I really, really
+enjoyed our conversation here.
+Today. I'm gonna put all of this
+in the show notes, all your
+projects, all your your Twitter
+handle, and even your website,
+which I think is cool. It's cool
+that you have one way to just
+share all the things you've done
+in the past as well, because
+that's important for other
+people to see, too. Man, Louis,
+thanks so much for being here
+today and talking to me about
+your blazing success story and
+your humble perspective on how
+this came to be. That was
+really, really interesting to
+hear. I'm looking forward to
+seeing where this goes. And I'm
+really, really excited for the
+future of your Indie hacking
+journey and your products. Thank
+you so much for being on the
+show today.
+Louis Pereira: Thanks for having
+me, man. Like it's been a it's
+been a pleasure. I didn't think
+I would be talking to you. You
+know, if you were to tell me
+like a few months ago. Yeah,
+it's just it's great to actually
+be able to speak to I'm very,
+very grateful for it. So thanks
+for the opportunity.
+Arvid Kahl: I feel the exact
+same way. Thanks so much. And
+that's it for today. Products
+like audio pen are incredibly
+sellable, right? They're small
+scope. They don't need that many
+employees, if any at all.
+They're completely digital and
+ever Anything is automated.
+Let's be honest, most indie
+hackers want things to stay that
+way. They don't want to hire or
+build multi year sales
+processes. And often that causes
+things to slow down. Now imagine
+this, your founder who's built a
+really solid SAS product, you
+acquired all your customers and
+you have generated just
+consistent monthly recurring
+revenue, things are looking
+good. But the only problem is
+you're not growing for whatever
+reason, lack of focus, lack of
+skill, or just plain lack of
+interest, you feel stuck. And
+you might not even know where to
+go next. Because it would change
+the way that you run the
+business. It would change your
+lifestyle business, and you
+don't know what to do. Well, the
+story that I would like to hear
+at this point is that you
+buckled down and somehow
+reignited the fire you got past
+yourself and your limitations
+and the cliches and you started
+working on the business rather
+than just in the business and
+you start building this audience
+and move out of your comfort
+zone, do sales and marketing all
+these things that six months
+down the road have tripled your
+revenue. Wouldn't that be great?
+Well, reality is not that
+simple. And this situation is
+different for every founder, it
+is facing this particular
+crossroad. Too many times
+though, this story ends up being
+one of inaction and often
+stagnation until the business
+becomes less valuable or even
+worse, worthless. And if you
+find yourself here, or you story
+is likely headed down a similar
+road, I offer you a third
+option, consider selling your
+business on acquire.com At this
+point, because this really about
+your time right you capitalizing
+on the value of your time is a
+pretty smart move. And
+acquire.com will help you with
+that it's free to list and
+they've helped hundreds of
+foreigners already. So go to
+try.acquire.com/arvid and just
+see for yourself if this is the
+right option for you right now.
+Thank you for listening to The
+Bootstrapped Founder today. You
+can find me on Twitter
+@arvidkahl provided that Twitter
+is still around when you listen
+to this and you'll find my books
+and my Twitter course there too.
+And if you want to support me in
+the show, please subscribe to my
+YouTube channel, get the podcast
+and your player of choice and
+leave a rating and a review by
+going to
+(http://ratethispodcast.com/founder).
+This really, really helps to
+show any of this really helps to
+show so thank you very much for
+listening, and have a wonderful
+day. Bye bye

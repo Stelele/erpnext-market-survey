@@ -1,0 +1,456 @@
+﻿[Music]
+hey it's Arvid and this is the bootst
+[Music]
+founder a few weeks ago I came across an
+intriguing tweet by my internet friend
+Jack Alice of fathom analytics about
+deleting your backlog he shared how
+getting rid of this mental technical
+debt not even real technical debt but
+the illusionary kind had been one of the
+most interesting and useful things that
+he had done recently and this resonated
+with me because a backlog to me just
+represents this backward looking
+collection of these perceived needs that
+can overshadow what's actually needed in
+the present and Jack says so himself in
+the Tweet he says if you took away all
+our planning now I could name the top
+five things that we have to do and these
+things change customer support 100% has
+a great Vibe on what needs to be done
+and while completely deleting my full
+backlock feels way too radical I decided
+to significantly prune it down this week
+and at potan I maintain this notion
+Canan board that categorizes features
+into a couple categories I have not
+started possible probable pressing and
+critical that's what I came up with
+after all these years of trying to
+figure out priorities I think possible
+probable and pressing are very
+interesting different urgency tiers and
+those have really helped me see what's
+important and what's not and most items
+sit between possible and pressing
+somewhere in the middle and critical is
+reserved for bugs or directly requested
+features that need immediate attention
+because people are going to pay for it
+so my backlog had balloon to around 120
+items over the last year or so potan is
+at this point like 10 months old so I
+work through a lot of them that probably
+have been 350 on the backlog and 120
+have been left some were thoroughly
+documented with titles and descriptions
+and even code samples others were just
+vague ideas jotted down in moments of
+inspir ation and after a thorough
+pruning session last week I managed to
+whittle it down to just about 15 high
+impact items spread across all these
+categories and I want to share with you
+the decision framework that I used
+because it doesn't really make sense to
+share all the items with you I will
+share a couple but more importantly how
+did I go about either deleting something
+or keeping something and that's what I
+used to transform my backlog and that's
+what I want to share with you today
+let's talk about my deletion rules for
+first because I would rather delete than
+keep so deletion comes first but I never
+actually delete data never anywhere
+really in all my businesses I just
+archive it I archive the tasks in my can
+bound board and I mark them as
+irrelevant and if I can if it makes
+sense at that moment I often add a
+comment explaining why I deleted this so
+that future me can know why this Choice
+was made today I would love if I had
+actually added a comment when I wrote it
+why I wrote it because now me has to
+deal with past me's idea but anyhow any
+comment helps and this helps me track my
+thought process and allows for potential
+Revival if the circumstances of the
+business change like if I get new
+customer needs if I find them or if I
+have partnership opportunities that
+weren't actually prioritizing something
+different so here are my rules for
+archiving or deleting items number one
+is delete if unclear if I couldn't write
+down clearly when the idea was fresh
+what it was about then it's not worth
+future brain power either I found many
+vague notes like UI redesign in my
+backlog what did I mean with this UI
+redesign like the whole thing was it a
+specific component an overall website
+redesign for the front end or the
+dashboard or just implementing a nice
+design thing that I saw somewhere if I
+cannot remember the context or specifics
+if I didn't write them down it's a clear
+sign that the idea was not well formed
+enough to warrant keeping those
+ambiguous items get archived immediately
+I don't even spend more than a minute
+trying to remember what it was about if
+it doesn't make sense I should have put
+in more effort so I deleted my idea
+number two is delete if already solved
+it's a pretty clear one pretty obvious
+and this happens more often than you
+think at pod scan I had this specific
+task for filter alerts by ratings where
+I wanted the keyword mention alerts that
+I track via pod scan to be filterable by
+the number of of ratings that a podcast
+has on Apple podcast or Spotify and I
+had this sitting in my backlog for
+months and then while recently
+overhauling the search interface and
+adding a couple things I ended up
+implementing this comprehensive
+filtering system in search that not only
+covered just ratings but audience size
+and review counts and language and
+Regional filters too and that kind of
+rolled over into alerts right it
+happened in search so I kind of did it
+in alerts at the same time so the orig
+original task wasn't just solved it was
+superseded by a much more robust
+solution that I never really turned into
+a task to begin with so sometimes
+features trickle into existence through
+adjacent work that's what I call it and
+that makes their dedicated backlog items
+obsolete so I delete it straight away
+clearly because it's already finished
+number three rule for deletion is that I
+will delete these uh might feel cute
+might delete later right yes to me these
+are the random thoughts that seem
+brilliant in the moment but lack real
+purpose my favorite example for this in
+my recent pruning session was a thing
+called at a wordcloud for recent podcast
+topics in the podan database and I love
+this idea it would be so cute to have
+this nice wordcloud somewhere on a site
+where people could see like just what
+got added recently but does it really
+fit is it really needed because when I
+dug deeper here I realized that no
+customer ever had expressed a need for
+this or even an inclination towards it
+and none of my competitors saw this as a
+necessary feature in the past it was
+just as wouldn't it be cool if kind of
+features and I think that would have
+consumed development time without adding
+any real measurable value so I archived
+it because it's just a cute idea but it
+doesn't really have the impact on the
+bottom line that I want right now number
+four the next rule probably is the one
+that most Indie hackers fall prey to
+it's called delete potential separate
+businesses and this was an eye openening
+category for me when I realized that
+this was what I was trying to kind of
+archive things into I had this extensive
+feature planned for AI generated content
+detection in podcasts the idea was to
+analyze transcripts as I already do and
+then determine if the content was AI
+written or even AI narrated I could have
+checked the audio and see if like an AI
+voice was in there and this is just as
+an additional little flag to put into to
+the interface to show people is this an
+AI podcast or one by real people right
+and this would be really cool and is it
+technically possible sure but as I
+thought it through for just a minute I
+realized immediately that this would
+require running every transcript that I
+have in a day which is 50,000 or so
+through a complex AI detection system
+which probably involves another AI layer
+to begin with and I have to deal with
+stochastic analysis and building
+something that even dedicated AI
+detection tools right now struggle with
+if you look into Academia where they
+check papers for like AI generated text
+these things have false positives all
+the time do I really want to build
+something and then deal with those false
+positives and having my customers yell
+at me for their podcast be detected as
+AI when it's not when it just sound a
+little bit robotic I didn't really want
+to go there and similarly I had plans
+for competitor keyword analysis inside
+of pot scan and that would amend
+probably 10 to 100 Xing are database
+size just to track potential competitor
+keywords to each customer's brands that
+they already track mentions for and it
+would be so cool to have this and to
+offer this but both of these ideas like
+AI detection and competitor tracking
+those are businesses in itself they
+weren't features at all they were entire
+businesses masquerading as feature
+requests I'm running potan here I'm not
+running pocan and the AI generation
+detection thing right so if I ever want
+to Pivot into these ideas I have things
+written down and that's a future
+strategic decision but it's not a
+backlog item archived gone out of side
+out of mind the next rule that I have is
+to delete High effort low impact items
+and that kind of sounds like these
+wishful thinking ideas but it's from a
+different angle my business runs on
+profitability or hopefully because I'm
+almost there so I can't afford to build
+things that don't either make additional
+money or convince customers to upgrade
+their PL PL to expansion Revenue into
+the
+business a perfect example here was my
+idea to build a 20% faster machine
+Learning System on the back end because
+I had read this article somebody had
+used some new kind of tech and made
+things like 20% faster and I thought oh
+that would be cool that would be
+technically impressive and that would be
+absolutely impressive but would it
+meaningfully improve the customer
+experience beyond the already existing
+accuracy of like 95 to 99% that I have
+there with 20% faster with kind of the
+same accuracy even make a dent probably
+not and the same goes for complex data
+ingestion pipeline improvements that I
+thought really good on paper but would
+not immediately produce measurable value
+for customers and that's what these
+features are supposed to do so if I ever
+find something where the engineer in me
+wants to build it but the business owner
+in me thinks this is completely
+pointless I tend to Archive it because
+that's what the book The eth the
+entrepreneurial myth by Michael E jerber
+says you have to be both the technical
+person and the manager and the Visionary
+of a business you have to be all three
+if not more in one and if one of those
+holes really wants to build something
+but the other two think it's a waste of
+time it probably is a waste of time for
+your solo PR business if you have a team
+and you can dedicate this work to be
+done by somebody who's an expert and can
+really focus on it great but if you are
+the person that has to juggle all of
+this do not do this until you know you
+have the time for this which is why High
+effort low impact items get archived
+immediately when I see them and the
+final rule I have for deletion number
+six is just to delete duplicates
+sometimes the same idea appears multiple
+times in different forms it just comes
+as an idea you phrase it one way and
+then a week later you have a similar if
+not the same idea but it comes from a
+different angle and you phrase it
+differently all of a sudden you have two
+items in your backlog my examples I
+found two separate items one was merge
+to duplicate podcasts the other one was
+build a mark As duplicate podcast button
+in the UI obviously both of them were
+addressing the same problem because
+sometimes podcasts get ingested twice
+because either people update their RSS
+feeds because they change hosts or some
+podcasts have multiple feeds multiple
+RSS feeds even because they have maybe a
+paid version or they forgot that the old
+version is kind of still linked to this
+old feed in any case both cases all of
+these cases I need to keep a kind of a
+duplicate detection system so when this
+happens when I have multiple duplicates
+I keep the more well-developed idea and
+I archive the other this really simple
+rule and those are my deletion rules
+that's what I check every single item in
+my backlog for just to see if it can be
+and should be deleted and just like with
+idea validation which does not really
+work you can only really ever invalidate
+an idea because the counter example for
+your validation strategy or for your
+validation assumption might be out there
+you just haven't found it yet so you
+can't really ever validate anything but
+you certainly can invalidate it by
+figuring out that if you ask 10 people
+and nobody wants it it's likely that
+it's not a good idea and it's the same
+for these backlog items that I have I
+want to invalidate them as much as
+possible first and only then do I ask
+myself why should I keep it so after
+applying all of these deletion rules I
+was left with very few reasons to
+actually keep items in the backlog so I
+have two rules that determines if an
+idea stays like if all the deletion
+rules are kind of ineffective number one
+is keep it if there's proof of desire
+and this is the strongest signal for
+keeping any feature idea for any
+business if I have tangible evidence
+that somebody wants this that could be
+that they wrote about it in an email so
+I find the link to an email put it in
+the in the feature box or it's a tweet
+so I put that link in there or I have a
+screenshot from a customer service chat
+put that in there stays in the backlog
+with this proof of Desire these aren't
+just feature requests at this point they
+documented proof of real user needs and
+I have the evidence and this evidence is
+infinitely more valuable than my own
+speculation about what might be useful
+when a customer takes the time to reach
+out and explain their needs that is a
+signal worth paying attention to Anytime
+and number two of the rules for keeping
+a thing is keep it if it requires data
+preparation that's something that I've
+just found is important for me at potan
+in particular but has always been
+important for any software business that
+I've run some features need groundwork
+laid well before they can be implemented
+and at potan I'm currently working on
+extending the search capabilities search
+engine that we use requires
+synchronizing data over time and across
+millions of podcasts so it takes a while
+for things to snc for instance I wanted
+to enable filtering by the last episode
+release date on podcasts and that was
+not yet in the search engine database so
+I need to start preparing and
+synchronizing time stem data for this
+information now even though the actual
+search feature probably won't be built
+for weeks but I already need to kind of
+let it siphon into the database so that
+when the features are then implemented
+the data is already there and most
+podcasts update weekly so by the time
+that I'm ready to implement the UI and
+filtering logic in a couple weeks all
+the necessary data will already be in
+place and slowly synchronized over the
+weeks if podcast update I do the sync
+right so then data will already in there
+and these types of features stay in my
+backlog because they require strategic
+planning and preparation even if the end
+result is still far off data prep is
+very important so those are my rules and
+the real power of a pruned backlog comes
+from keeping it relevant that's what I
+found and I like it I like it to be
+absolutely trimmed down to just a couple
+a handful of dozen items I now keep my
+backlog open whenever I have a
+conversation with my customers and
+whether that's support chat or
+exploration call doesn't really matter
+always have it on a screen but instead
+of asking them if they want specific
+features cuz I'm looking for this proof
+of desire right I would rather avoid the
+mom test mistake I dig into challenges
+and processes and ask people about the
+underlying problems and for guidance on
+these conversations I highly recommend
+Rob Fitzpatrick's book The Mom test and
+also Michelle Hansen's deploy empathy
+both of these books have shaped how I
+validate feature ideas through customer
+interactions and deploy empathy in
+particular gives you scripts if you are
+having these conversations on how to get
+information out of people like Michelle
+wrote a wonderful book here and it's
+really really helpful if you don't know
+how to have these conversations highly
+recommended deploy empathy and the mom
+test and this pruning exercise this week
+taught me something valuable like a
+smaller focused backlog isn't just about
+having fewer items it's about having the
+right items in there the ones that
+actually hit your bottom line in a
+positive way it's about building
+features that solve real customer
+problems validate shown desire rather
+than chasing every interesting idea that
+crosses your mind because as a Founder
+you're going to have all of these really
+cool ideas what could be done but the
+things you should do often come from a
+place of need that you might not
+understand just as well as your
+customers do so by cutting my backlog
+from 120 to 15 items I've just created a
+lot of space to focus on what truly
+matters for Pan's growth and each
+remaining item has earned its place
+through either customer validation or
+strategic necessity and that's exactly
+how bootp Founders backlog should look
+and that's it for today thank you so
+much for listening to the boots founder
+you can find me on Twitter at aital arv
+ID KHL if you want to support me in this
+show please share podan FM with your
+professional peers and those who you
+think will benefit from tracking
+mentions of their brands their
+businesses and names on out there podan
+is a near realtime podcast database with
+a stellar API I just added like four new
+API routes this week so it's growing
+it's getting more effective and more
+resilient so please share the word with
+those who need to stay on top of the
+podcast ecosystem for their businesses
+thank you so much for listening have a
+wonderful day and bye-bye
+[Music]

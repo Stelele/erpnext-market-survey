@@ -1,0 +1,52 @@
+{
+  "topic_id": 158131,
+  "title": "Real-time notification at exact datetime for Datetime field on Frappe Cloud",
+  "slug": "real-time-notification-at-exact-datetime-for-datetime-field-on-frappe-cloud",
+  "category_id": 6,
+  "tags": [
+    "notifications",
+    "frappecloud"
+  ],
+  "created_at": "2025-12-19T06:44:11.426Z",
+  "last_posted_at": "2025-12-19T06:44:11.520Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/real-time-notification-at-exact-datetime-for-datetime-field-on-frappe-cloud/158131",
+  "views": 21,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Rajshri",
+  "posts": [
+    {
+      "id": 489162,
+      "username": "Rajshri",
+      "name": "",
+      "created_at": "2025-12-19T06:44:11.520Z",
+      "cooked": "<p>Hello All,</p>\n<p>I am working on a <strong>Lead follow-up reminder use case</strong> and need guidance for implementing <strong>exact-time notifications</strong> based on a <strong>Datetime field</strong> on <strong>Frappe Cloud</strong>.</p>\n<h3><a name=\"p-489162-use-case-1\" class=\"anchor\" href=\"#p-489162-use-case-1\" aria-label=\"Heading link\"></a><strong>Use Case</strong></h3>\n<ul>\n<li>\n<p>Doctype: <strong>Lead</strong></p>\n</li>\n<li>\n<p>Custom Field: <code>custom_next_followup_date</code> (Field Type: <strong>Datetime</strong>)</p>\n</li>\n</ul>\n<p><strong>Scenario:</strong></p>\n<ul>\n<li>\n<p>User sets follow-up datetime (e.g. <strong>tomorrow at 12:00 PM</strong>)</p>\n</li>\n<li>\n<p>Lead <strong>Owner should receive a system notification exactly at 12:00 PM</strong></p>\n</li>\n</ul>\n<h3><a name=\"p-489162-issue-2\" class=\"anchor\" href=\"#p-489162-issue-2\" aria-label=\"Heading link\"></a><strong>Issue</strong></h3>\n<ul>\n<li>\n<p>Standard <strong>Notification</strong> does not support exact-time triggers for Datetime fields.</p>\n</li>\n<li>\n<p>Scheduled Server Scripts (Every Minute) run, but:</p>\n<ul>\n<li>\n<p><code>frappe.notify()</code> does not work reliably in background jobs</p>\n</li>\n<li>\n<p>System notification at exact datetime is not consistent on Frappe Cloud</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Scheduler is enabled and workers are running.</p>\n</li>\n</ul>\n<h3><a name=\"p-489162-expected-outcome-3\" class=\"anchor\" href=\"#p-489162-expected-outcome-3\" aria-label=\"Heading link\"></a><strong>Expected Outcome</strong></h3>\n<ul>\n<li>\n<p>A reliable, Frappe-recommended approach to:</p>\n<ul>\n<li>\n<p>Trigger <strong>system notification</strong> at the exact datetime stored in a Datetime field</p>\n</li>\n<li>\n<p>On <strong>Frappe Cloud</strong>, without external cron or custom infrastructure</p>\n</li>\n</ul>\n</li>\n</ul>\n<h3><a name=\"p-489162-request-4\" class=\"anchor\" href=\"#p-489162-request-4\" aria-label=\"Heading link\"></a><strong>Request</strong></h3>\n<p>Could someone please advise:</p>\n<ul>\n<li>\n<p>The <strong>best practice</strong> approach for this requirement?</p>\n</li>\n<li>\n<p>Whether Frappe supports <strong>real-time Datetime-based notifications</strong>, or</p>\n</li>\n<li>\n<p>If this requires a different design pattern (background jobs, reminders, etc.)</p>\n</li>\n</ul>\n<h3><a name=\"p-489162-environment-5\" class=\"anchor\" href=\"#p-489162-environment-5\" aria-label=\"Heading link\"></a><strong>Environment</strong></h3>\n<ul>\n<li>\n<p>Platform: <strong>Frappe Cloud</strong></p>\n</li>\n<li>\n<p>ERPNext / Frappe Framework (latest stable)</p>\n</li>\n<li>\n<p>Scheduler: Enabled</p>\n</li>\n</ul>\n<p>Thank you in advance for your guidance.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/r/b782af/{size}.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 9,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,2573 @@
+﻿Indie hacking is dead. At least
+that's something that my guest
+today, Pieter Levels once
+tweeted about. Of course, it's
+not dead but it is different
+now. And just how different and
+why it's different, that we will
+figure out today on The
+Bootstrapped Founder. Pieter and
+I chat about AI startups,
+dealing with platform risks, and
+why indie hacking isn't even
+hacking anymore, and how to
+build audiences on Twitter in
+2023. A big shout out to the
+sponsor of today's episode:
+acquire.com. More on that later.
+Now, here's Pieter.
+Pieter, thanks so much for being
+on the show. I only have one
+question here. Why is indie
+hacking dead? Can you tell me
+more about that?
+Man, so I tweeted that indie
+hacking was dead. But my point
+was more like I think, because
+it's like a long tweet and the
+first message is like indie
+hacking is dead. And then I
+tried to explain, but nobody
+reads the second line. Like
+TikTok, you know, people only
+watch 10 seconds. So what I
+meant was, like indie hacking
+started I think, like 2016
+because the kind of big, maybe
+2014 with Product Hunt. Because
+before a lot of people would do
+the VC route of doing startups,
+right? Everybody knows this
+story. So I feel like this year
+kind of like became very popular
+and a lot of people are indie
+hacking. And I think also now,
+what you see, what I see on my
+Twitter is that big companies,
+big tech companies, they follow
+me and they follow other indie
+makers, to see what indie makers
+are doing. Like it's become
+finally on the radar of tech,
+you know, a lot of people in San
+Francisco. I saw a tweet by
+Louis, he's making AI startup in
+San Francisco and he lives in
+some parts of sleeping path. And
+he said, I'm in the sleeping
+path, like a hostel in San
+Francisco for $600 per month,
+full of indie hackers trying to
+ship AI startups. And I'm like,
+why? Is this because it's San
+Francisco? It's usually the
+place where you raise VC and
+these indie hackers. So it feels
+like it's a mainstream term now.
+And that's what it means. So it
+means it has become more
+competitive, more saturated and
+more difficult because you're
+competing not just with a lot of
+indie hackers. Now a lot of
+people are doing, it's becoming
+like the standard route. You're
+also competing with big tech
+companies now. And I see this
+with AI startups I do. I'm
+competing with companies that
+raised $500 million, you know,
+like these big AI startups and
+they follow me on Twitter, you
+know and they see what I'm
+doing. So if I launch a feature,
+they ask their developers to
+make the same feature. And maybe
+vice versa, of course, but
+that's what it means. So it's
+dead in a way that like, if
+remote work was called remote
+hacking, you know and then COVID
+happens and remote work became
+normal. It would also be dead
+because it's not hacking
+anymore, just normal now. So
+it's more like
+Yeah, that is exactly the
+difference. Right? Like it used
+to be hacking. It used to be
+hacking. It used to be kind of a
+subculture thing.
+Yeah
+And now it's just the way people
+approach entrepreneurship.
+Yeah
+Indie hacking is just indie
+business or entrepreneurship,
+I think so. And people reply to
+me like, oh, you're in a bubble
+right?
+because you're like in the indie
+hacker bubble, it's not
+mainstream at all. But I do
+think startups, it's very
+present on the radar for a lot
+of people. And a lot of people
+prefer like, man, I have a lot
+of VC funded founder friends.
+And they say their next startup
+is preferably indie. And they
+will do it because they can have
+a lot of people are burned out
+from the VCs, you know?
+Yeah. Well, good. I think that's
+a good thing because there's a
+lot of speculation happening
+there that maybe coupled with an
+economic recession is not the
+best idea.
+Yeah, yeah, yeah
+For people to put their whole
+life energy into something very
+That's a very good point. Like
+the economic recession is a very
+good point because you want to
+do more lean. Lean startup indie
+hacking becomes a necessity
+because there is no money. It's
+hard to get funding. It's hard
+to get seriously be funding, you
+Yeah, that's right. That series
+A or even seed funding, just
+know, maybe
+money has dried up in many ways
+and people are much more
+selective in what they fund.
+It's funny that you mentioned
+like AI startups because there's
+a lot of them going on. And you
+recently tweeted something about
+your own recently, just a couple
+hours ago
+Yeah
+You did about like how you found
+something that you haven't felt
+before with other startups now
+that you are doing AI startups.
+It's kind of the lack of a moat.
+It's a big problem. Yeah, I said
+the F word. But this is a big
+problem. Everybody talks about
+it even like other AI founders,
+VC funded AI founders. We DM and
+everybody does separate
+retention, which is the churn is
+very high. And defensibility,
+like you make something and
+immediately you have a lot of
+clones because everybody's
+working with the same stuff.
+Everybody's using GPT-4 for tech
+stuff almost or the Facebook LM
+but or people use stable
+efficient for image stuff.
+Everybody uses the same so it's
+not proprietary tech, like the
+stuff you do around is
+proprietary, like the way you
+combine all the models and
+everything in your website. But
+everybody can figure this out. I
+would say if you're smart within
+three months, if you're less
+smart, maybe six months to a
+year. So it's very difficult to
+make a startup AI startup now
+Right?
+Yeah. Yeah, that's an issue. I
+guess it's both a benefit and a
+curse, right?
+Yeah
+The curse is everybody can do
+it. The benefit is everybody can
+It's really good for customers,
+right? If you have a lot of
+do it. There is a lot of variety
+and you can build a lot of things.
+people making these apps and you
+get a big pressure on the price
+to go down but difficult for
+business owners because if the
+price goes down like this pure
+economics the profit margin goes
+to zero. And man, my profit
+margins for these AI start ups
+is not high like this week I've
+been charting it and it's like,
+you know, with the cost of GPU
+the profit margin gets really
+really low very quickly. So
+Yeah, I was wondering about this
+like I was looking into your
+your startups, the whole list of
+them and you have several,
+right? Some are going on, Nomad
+List is still around, Remote OK
+is still there. And then you
+have these two AI startups that
+have pretty significant MRR.
+They have a lot of costs
+compared to the others, right?
+Yeah, that's the problem. That's
+the big problem. And man,
+honestly, GPU costs go down.
+It's a difficult business and we
+were thinking GPU costs would go
+down. But then Nvidia said,
+like, there's a kind of
+bottleneck, they cannot produce
+enough chips, it's so popular
+now AI. They cannot produce
+enough chips. And the stock of
+Nvidia, of course, went through
+the roof because of this. So
+people are fighting over GPUs,
+it's insane. It's like you need
+a GPU for it's like a processor
+for people who don't know, it's
+like a CPU, like a computer
+processor, but it's for
+graphics. And somehow it's it's
+very, let's not go too deep. But
+it's very useful, very fast for
+AI stuff, you need a GPU for AI
+pretty much. Otherwise, it's
+very slow. So there's not enough
+GPUs being built like Nvidia
+makes almost all of them. So
+that makes the cost of these
+servers very high.
+It's crazy to think about just
+how much platform dependencies
+back there, right? You have the
+processor that needs to be done.
+And you need those for machine
+learning systems that also are
+run by somebody else. And then
+there's an API that is run by a
+company and you build on top of
+that.
+Yeah
+So you depend on all these
+layers.
+Yeah
+How do you deal with this?
+Because I don't think Nomad List
+is that much dependent.
+No, not at all. No, it's like,
+Nomad List use API to collect
+data for about cities, right. So
+I use a lot of different
+sources. But it's like 100
+robots that collect that scrape
+kind of information. And some is
+paid API's, but it's not
+dependent at all. But with GPUs,
+man, this is a great story. Like
+I cannot name too many names.
+But for example, when so like,
+last year, I started with
+avatars AI avatar AI because I
+was making in theory AI because
+I started doing AI stuff. And I
+was typing stuff like everybody
+in these prompts like to
+generate images. And I found out
+that I could build like, houses
+very beautiful design houses. So
+I made a site called
+thishousedoesnotexist.org, I
+think and it generates random
+houses random design, like house
+born kind of beautiful. And then
+I saw it also made very
+beautiful interior. So I started
+making interior AI, where you
+can generate interiors. And then
+afterwards, you can upload your
+own home interior with image to
+image technology. And it's kind
+of modified and it worked. And I
+made in theory AI and then I
+tried to see if I could fine
+tune and fine tuning is where
+you take the AI model and you
+make it more focused towards a
+specific goal. So for example,
+you want to make interiors
+because they believe fusion,
+this image model can make any
+image, right? You can make
+houses but also plans, people,
+anything. So if you want to
+focus in interior and get better
+results. So I trained with
+interior photos and it gets
+better results. And then I tried
+training with my own photos
+because see what happens and it
+works. And you get like these
+photos of yourself in every
+style. And I was like, wow, this
+is very cool. So I tweeted it.
+And it went viral. Then the next
+day, I was like I need to really
+quickly make a start up for
+this. So I made avatar AI. And
+it was I think the first big AI
+avatar startup. And then these
+big companies were following me.
+So they quickly within a month,
+they did the same and they got
+way bigger, say VC funded and
+they made I think $40 million. I
+think I made like, maybe half a
+million dollars or $400,000,
+lots within a month or so I'm
+getting two months is insane.
+But the funny part, what I want
+to say is that the service I
+used to do this fine tuning. The
+cost of funding was $3. And then
+when they saw my tweets, where I
+was sharing my revenue, that it
+was making so much money with
+this. They said sorry, we need
+to increase the price to $20 for
+training. And I was selling them
+for like $25 or $3. So for like
+a month, they got all the money.
+And I couldn't switch and they
+said as difficult. Maybe they
+were telling the truth. They had
+problems with like getting GPUs
+also. But they increased the
+price and I felt kind of like
+scammed, you know. And so this
+is a good example. You're
+dependent on a supplier who can
+when they see you're successful,
+they increase the price. This
+happens to people who have co
+workers phase too. There's a co
+working space famous who was
+very successful, very cheap
+brands and then when they were
+successful after the one year
+lease and say oh, now it's like
+five times the rent and 10 times
+the rent is what landlords do.
+So these dependencies are not
+nice. So I switched out to a new
+provider. They're much like,
+replicate.com They're very nice.
+They're super helpful. They
+don't change price, they don't
+increase price, they only
+decrease prices. It's amazing.
+So how do you deal with this?
+Man, it's a real problem.
+Well, if there's one thing that
+you can learn from this
+experience is just to think
+about alternatives from the
+start, right? If you have a
+service that you're building on,
+like, you have to find a way to
+abstract it enough so you can
+have another service to plug
+into your system.
+Exactly. So you have to go one
+level higher. So you have to get
+your own feet virtual private
+server with GPUs, you know, but
+then you need to learn to code
+Python and do all this stuff.
+And man, this Python is too much
+for me. These GPUs it's too
+difficult. So I hired an AI
+developer for this to help me
+with these models because it's
+just too difficult for me. I
+cannot like Danny Postma is my
+friend and he makes
+headshotpro.com. And he did it
+himself first. I think now he
+hired more people, but he's
+smarter than me. And he can do
+like Python stuff. And yeah, I
+tried so much, but it's like my
+heads, you know.
+Well, it's kind of one of these
+things that is so specific that
+you know, as a solopreneur,
+kinda dev who just wants to
+build stuff. Like you don't want
+to dive into something that
+takes you three years of
+university to understand, right?
+Man, I think it would take me
+six months of understanding this
+package manager does not be
+five, just too much. I can't get
+it working. It's so difficult.
+But it shows my limits. This
+year, I see my limits. I'm not
+so good at this stuff, you know.
+Did you have a hard time hiring
+for that? Because that's my
+experience when I founded my
+business and I kind of ran it,
+ran it, ran it. I thought I
+could do it all, right? Like,
+you know, the solo tech kind of
+person. Is that the same for
+Yeah, cuz I thought I could do
+everything until this year. I
+I had Danny on the show a couple
+episodes ago. And it was really
+you?
+thought I could. Man, I was
+like, complacent. And I was
+arrogant. And I thought because
+Nomad List and all these start
+ups just work, almost everything
+myself, except customer support
+and like jet moderators and
+stuff. And I have a server guy.
+If the server was on, but that's
+the opposite. And I thought I
+can do everything myself. I can
+do front end, backends,
+everything and I could. And the
+sides always look a little
+interesting. Like his focus on
+SEO, that's just something that
+clunky because I do everything
+myself. But that's like
+something you take for granted.
+It's just where you accept and
+not so bad. But this year, I was
+like, man, there's so many
+things I cannot do like
+marketing. I always rely on
+organic marketing, organic SEO
+stuff. And you get I think,
+Danny Postma made me very fresh
+because man, he's insane SEO
+guy. He's like insane. He makes
+startups just based on the
+keywords like he discovered his
+LinkedIn hashtags worked so
+well. That was most of the
+searches. So he makes this
+service, specifically this
+niche. Because he was also
+making like, advertisers, very
+smart. So I learned about SEO
+more. Now I'm learning about
+TikTok marketing. So I hired a
+guy to help me with man, because
+TikTok is insane. I talked to
+one influencer, he posted about
+photoai.com, my AI photo startup
+and MRR went from 12k to like 40
+or 50k. Insane, right? And it
+stayed that way. And of course,
+it was sharing. And so I also
+worked in but this shows you
+have a really big effect of
+these influence. And it's way
+bigger effect than press. Like I
+also got a lot of press for
+these AI startups. And this
+press does almost nothing, you
+can put the logos on your site,
+but nobody links and clicks on
+these links. It's insane.
+I personally have never done.
+Like it's just something, I had
+word of mouth marketing and my
+things and that was fine. But he
+just diving into the data and
+like pulling out the things and
+building businesses on top of
+that. That's like domaining,
+right? Like finding a domain,
+building a domain on top of or
+business on top of that domain
+name. That's just such a smart
+data driven approach, really
+like that. And Danny too, is
+building a team. He's building a
+studio, right?
+Yeah, yeah
+Building something out there. So
+I guess you're kind of in
+parallel with that, trying to
+expand your capacity beyond just
+yourself.
+100%. And like we always do like
+tech swap because he sees my
+photos that suddenly look much
+better on Twitter, my AI  photos
+and he asked me man, what are
+you doing now? And we give each
+other hands. So they say like,
+man, maybe look at this feature
+and try this, you know, but
+we're not competing because he's
+doing head shots and I don't
+want to do headshots. It says
+like niche. I'm doing more
+general photo studio kind of
+thing.
+Have you ever considered
+actually working together like
+building a business together?
+Yeah, Ithink we both would
+because I think I respect him a
+lot. He respects me a lot. I
+think it's good in the future.
+The man found his technology
+because my code, he doesn't
+trust my code because they'll
+PHP. And he writes I think
+proper, like JavaScript, you
+know, but in general, like, man,
+most of the code is Python in
+the background anyway. Like
+that's where the real stuff
+happens. It's just front end. So
+I think could happen in the
+future. I think it will be fun.
+For example, to if I ever sell
+to try sell, like together or
+something would be good because
+it's something like that. But I
+have a lot of respect. And I
+think it's very cool what he's
+doing. And he shake me up a lot
+because he showed me that
+because first I was making more
+money with avatars. And then I
+think at some point, he was
+making more money with his
+profile pictures and then
+headshots. I was like, damn! And
+I was like, what's going on?
+Like, I don't like this, you
+know, because you want to win,
+you know? And then it was very
+good for me. It was like, okay,
+you need to do a lot of stuff
+like SEO, like marketing, like,
+look at what keywords people
+searching, makes up pages, all
+this stuff I wasn't doing and
+yeah, it's very cool. Yeah.
+Sounds like you have a little
+mastermind group going on there
+with Danny. Nice.
+Yeah. Well, man not every day.
+But like, once every few weeks
+we message. Yeah
+That's awesome. Yeah. I love
+that you just talked about your
+code because to me, like your
+PHP code and all the stuff
+around it and your use of jQuery
+instead of like fancy frameworks
+and all that, that has become
+almost a meme in the community.
+And I mean, it's in the best
+sense, right? Like people think
+it's really funny that somebody
+is still coding, like, it's the
+90s. But also, people think, oh,
+wow, crazy, you can still do
+this and still be successful. I
+love that about how you approach
+technology. Because if I think
+about your tech stack, it's just
+PHP and a little bit of
+JavaScript. That's it.
+Yeah
+Right? Do you do you ever
+consider like actually changing
+Like, if you ever sell your
+business, have you ever thought
+that up? Because you just said
+that, like, if you work with
+somebody else, they don't trust
+your code.
+about that? Like, how
+complicated that might actually
+make selling the business?
+Yeah. Look, the thing with this
+meme is I exaggerated the meme
+for viral effects. So I'd make
+it look like my code is really
+bad. But it's much better, like
+people really think it's really
+bad. And I'm not saying it's
+great. But it's, I mean, it's
+pretty good. It's, it's like
+very clear. Now, it's highly
+commented. It's very, like I
+write in multiple files now, you
+know, this index of PHP was in
+the beginning, you know. I use
+GitHub. There's a very
+structural pattern that I made
+myself, like folder structure
+and files. And like, as workers,
+this, like scheduled work is as
+robust as new stuff. There's
+app. There's a data file with a
+database and stuff. And it all
+uses like SQLite. So it's very
+structured. So I think PHP
+developer can get into and they
+have, like, I had developers for
+small things come on. It's
+pretty, they can find what they
+want to find. So it does work,
+but at least more about a meme.
+It's more it's not about PHP
+jQuery, it's more about the
+point that it doesn't matter
+that you have these developers
+who work in enterprise in
+agencies. And there's this
+agency, MLM I feel like where
+you have a company who doesn't
+know anything about tech. They
+come to the web agency and they
+want like a website or app and
+stuff. And these web agencies
+need to sell like the best
+stuff. So they say we use the
+newest technology, like we use
+some big framework and they need
+to, they use as a sales thing.
+And then these developers need
+to update the skills to use this
+technology. And this is like a
+cycle. And it's a whole economy
+because you have this ecosystem
+of like frameworks now gets
+funded. And they have
+evangelists and like, become
+like versal. I like versal but
+they are very, that's a big
+example. They have evangelist
+who make developers promote the
+stuff all the time and the work
+for them. That's the whole
+thing. And they're VC funde, and
+they need growth and all good.
+But this makes new developers
+think that they need all this
+technology to make stuff. And
+this technology is nice, but in
+many ways, a lot of the new
+technology makes things more
+complicated often. And there's a
+thing called I think Taleb,
+Nassim Taleb always talks about
+Lindy effect, where all
+technology is proven because it
+just works because it's old,
+right? Like PHP is very old just
+works. New technology, you need
+to be a little bit distrustful
+of because it's often breaks
+like, man, I have this when you
+buy like smart home stuff. Like
+I go into Airbnb and there's
+some smart TV or something, you
+know and it's so difficult to
+watch TV now. This kind of Lindy
+effect, like old TV just works.
+It shows it to me and it's
+tested, you know?
+Yeah
+So I think that's my whole point
+of this, like, doesn't matter
+what you use. There's no need
+for this cultism with
+developers. If you are
+entrepreneur, you know, it's all
+about like if you're developer,
+easy share. But if you're an
+entrepreneur and the problem is
+a lot of these developers that
+work as freelancers they want to
+be an entrepreneur. So they
+bring this whole bogash, this
+baggage of having to use this
+stack and over engineering. And
+while this code is so elegant
+and stuff, to something where
+the priority should be getting
+customers and getting people to
+pay money because then you
+survive. You know, you pay your
+rent.
+Yeah, developers and I think we
+both kind of are developers,
+right? We're so tool focused, we
+so we look at the things and we
+want it to be optimal. We want
+it to be the best thing for that
+solution. I'm kind of glad that
+you're showing that you can just
+stick to one tool and just make
+it happen, right? There probably
+is some framework out there that
+is like 2.7% faster in some
+regard. But it doesn't matter,
+right? If you're fast enough to
+bring a thing to market, that's
+when you monetize, not when you
+use the best tool possible. And
+I think you talked about this in
+the beginning, too, it's like or
+that's kind of the tweet that I
+was referring to when you were
+talking about having to deal
+with the lack of moat. And just
+as an AI startup, right? When
+you kind of have to imagine that
+the competitors, just a couple
+of months around the corner,
+like your execution speed is so
+much more important than the
+request speed of the web
+framework that you use, right?
+Yeah, 100%. And man, most
+developers pretty slow to be
+honest. Like, man, I'm not good
+developer. But I'm really fast.
+One skill I have because I don't
+make things too complicated.
+Man, I repeat myself all the
+time. And then I repeat myself
+10 times like, you know, don't
+repeat yourself as the mentor
+then I write a function, but I
+don't. Like people try
+immediately write a function for
+something you repeat twice. It's
+like, man, you know, like this
+kind of stuff. And I think
+especially in beginning when you
+make a startup or when you make
+something new, it's very
+important to not obsess over
+this because you're trying to
+validate something, you have an
+idea, right? Like, when I was on
+this avatar AI. And this was
+man, it wasn't even code. It was
+just a index of HTML, like it
+was just a page. We have
+examples of the avatars you
+could generate and the input
+photos and then a link to type
+form, Stripe checkout, Stripe
+payment link, that was it, went
+to get your avatars Stripe
+payment link and there was
+nothing else. And then I would
+go to Stripe and check the
+email. And on Stripe checkout, I
+had the link after payments is a
+type form. So I went to a type
+form where it collected all the
+photos with file uploads and
+then I would manually so I
+immediately had like, 100
+orders. So manually I did the
+thing is 100 or 200 orders
+myself. So I would download the
+photos and then I would go to
+this platform to do this fine
+tuning. I would upload their
+photos. And then I would
+download the resulting photos.
+Man, it was horrible work,
+manual work. I'd spent like all
+night doing this. And then I
+started automated the second
+day. And after a week, it was a
+lot of work. After a week, it
+finally was automatic.
+Wow.
+So that's an example where there
+wasn't even code, it was just a
+landing page and a tweet.
+That's so cool
+And a payment link. And thenwhen
+it work, you can make the codes,
+you know.
+Right. Yeah, you have a process
+that you can actually implement.
+Right? You have steps that you
+can then automate.
+Yeah, because you prove that it
+works, that there's a business
+maybe and then you can invest
+the time to code something. But
+coding takes a lot of time.
+There's this, you know, the
+cartoon, the XSCD or something.
+XKCD. Yeah
+Yeah. Yeah, you know they have
+this cartoon like, how much does
+a chart like how much time it
+takes to automate something and
+how much time the thing itself
+takes? And often the time it
+takes to automate something is
+hired and the time everything
+takes. So if that's true, just
+do it yourself manually until,
+you know, obviously, if you
+spent all night uploading
+downloading photos, it takes too
+much time. You can automate it
+faster, right?
+Yeah, for sure. I mean, if that
+was one night's work and how
+much did you charge per photo at
+that point?
+$30
+You know, that's like that's
+$3,000 for a night's work.
+That's not too bad, right?
+Yeah. Yeah, yeah, yeah. That's
+great!
+I mean, some people would do
+that for life if they could
+just, you know, it's so pretty
+cool to do this. I really,
+really enjoy that this
+particular way of doing this.
+Particularly with AI, right? A
+tool that is probably hard to
+automate when there is a lot of
+manual figuring things out,
+right? As well with the whole
+fine tuning kind of stuff. So
+it's really cool that you did
+this for a day or a week, until
+you had it all figured out. I
+think that's an indie hacking
+approach to kind of what Paul
+Graham calls the concierge
+approach, right? The idea of
+doing stuff with the white glove
+treatment. I do this for you
+instead of having everything
+automated. A lot of people want
+to build software from day one.
+They want to build a tool, they
+want login, they want to stripe
+integration, they want all kinds
+of things. And then they want to
+make money. But you made money
+by just doing the thing, which
+is really
+Yeah, I think it's also because
+I did it so much wrong. I did it
+I spent man, it took so much
+about I spent like a year on
+some YouTube Analytics startup
+in like 2014 or something. 14, I
+think and nobody paid for it.
+Nobody wanted to be customer.
+And it was just everything was
+amazing, interface was amazing.
+But nobody, you know, so I'm so
+traumatized by this. It's just,
+I'm not going to build anything
+until there's customers, you
+know, generally.
+Whenever I go to Product Hunt
+and I see all these tools there,
+you know, you have the top five
+that are really interesting. And
+I have a couple more that have
+been on, you know, a few
+upvotes. And then you have the
+400 things that are launched
+that day that have no upvotes
+between all these 400. Behind
+every single one of them is a
+developer who spent six months
+building the perfect product.
+Man, exactly!
+That's what I always think
+about. It's so sad.
+Like it's so sad. And like they
+all look really good like the
+landing page is, like beautiful
+design is like a red flag for
+me, you know. This beautiful
+gradients and these borders that
+move.
+It's fancy.
+It's so fancy. If it's too
+fancy, means you spent too much
+time on design or it's some VC
+startup that spent too much
+money on designers. If it's the
+beginning, if it's not validated
+yet, you know and I prefer a
+very ugly webpage in the
+beginning, that just. Man, look
+at Google, look at the beginning
+it was very ugly. Look at
+Facebook first page was very
+ugly. You need to have a very
+ugly, basic beginning page, I
+think to validate something
+first.
+Yeah. That's kind of also what
+the whole discussion about indie
+hacking being dead or different.
+I think different is just a
+better phrase, right? It's not
+dead. It's still there. But it's
+not the same as what it used to
+be like seven years ago, right?
+Seven years ago, it was a
+movement. Today, it's just how
+things are done. It has arrived,
+right? It's kind of what it is.
+But I think that's what indie
+hacking is also doing. And I
+think Danny posted about this,
+like indie hacking is the new
+drop shipping. That's what he
+kind of called it or there were
+people that in the replies to
+your tweet saying, well, yeah,
+people have just higher
+expectations of products now. So
+indie hacking now looks
+different and all that. And I
+think that's important too,
+right? Like for us hackers, we
+can deal with a, you know, with
+a really shitty page that has
+barely any CSS in there. No
+automation, you know, exactly
+that there is a manual
+component, doesn't matter, you
+still want to use it because
+you're an early adopter. But
+with indie hacking going into
+mainstream, I think you crossed
+the chasm as well. And you now
+have all these normal people,
+let's just call them that. That
+one products that are kind of
+proven that have that need
+social proof already. And you
+did this pretty well because you
+are your own social proof, like
+your history of products and
+you're building in public, like
+whatever you launch, you have
+social proof already. Right?
+Like, that's something that
+stands out in particular, in
+your case, now that you're
+reaching like 340,000 followers
+on Twitter, you bring this with
+you, but how would you? If
+somebody were to start any
+hacking today, what would you
+tell them to get to this point?
+What would you tell them to have
+the social proof that they need
+to launch products?
+Man, honestly, this is like very
+controversial. I think you
+should always do the opposite
+everybody else is doing. So now
+if enacting is mentioned, you
+should probably like do
+something completely different.
+You know, I mean, like, you
+should go where nobody's going
+because when I started, man, it
+was almost nobody. It was only
+patio11 Patrick McKenzie was
+bootstrapping startups. And
+everybody else was raising VC,
+it was not normal to bootstrap
+start ups. It was very, very,
+very not normal. And now it's
+normal. So I don't know I always
+feel you need to run away from
+the herd you know, the sheep.
+You need to go somewhere else
+where no, like, look for part of
+the grass where nobody is and go
+there. If you believe in this,
+you know and then spend a lot of
+time spend years on this. But
+about social proof, I don't
+know. I think maybe it's not
+important. Maybe it's just it's
+important you make something
+that's like a problem that's out
+there like you know, look at all
+the sub Reddits. There's a lot
+of problems there like every sub
+Reddit has like a goal and you
+can go see this app or startup
+you can make around that. Like
+somebody does this mean but
+Craigslist, right? Every
+category has become a startup.
+You can do same with subreddits.
+Again now maybe the reddit of
+the day is TikTok, right? Go to
+TikTok, see what's going on on
+TikTok and see what people want
+and make startups around there.
+Maybe this answer start doing
+TikTok. I tell everybody this
+for a year. I don't even do it
+myself a lot myself but it
+should. But do go to TikTok and
+see what's going on there and
+document your journey not on
+Twitter, maybe but on TikTok and
+so hey, I'm Pieter. I just
+starting out, I want to serve,
+want to make some money and pay
+my rent. And everyday I'm going
+to make a video about this and
+what I'm doing and this new
+feature. That would be how I
+would approach it in 2023. I
+wouldn't probably be on Twitter
+X at all.
+Interesting. Yeah, that
+definitely a building in public
+where those people that you want
+to serve actually are, right?
+That is something that I really
+wanted to ask you because we
+talked a lot about AI startups
+and that kind of stuff. And it
+feels to me that the demographic
+for them is a younger crowd,
+right? And then like people who
+they have no problem with AI. I
+don't know if you've seen the
+same but in our community, a lot
+of people are very afraid of AI.
+Right? So there seems to be a
+generational divide there and
+saying TikTok is the new place
+to do this in front of people
+who are willing to accept that
+this is the way to go. Probably
+a good idea. What do you think
+about this whole like AI is the
+end of humanity kind of
+conversation? What's your stand?
+First of all, this generation
+thing is right like Gen Z
+doesn't care. They just use it
+like man, I work now with I know
+the guy from Jenni AI David
+Park, I think and he uses TikTok
+and all these students use this
+app Jenni AI and I think it
+writes papers for you or it
+helps you with writing papers
+and everybody uses this like
+150k MRR, it's insane. Man,
+you're right. Nobody says like,
+is this good or bad? Man is this
+good or bad thing comes I think
+from millennials, like we're
+millennials, right?
+Yeah
+And journalists are also
+millennials. And people that
+want to, you know, maybe it's
+our culture to like challenge
+everything, which kind of good
+and make a problem out of
+everything. And there is, of
+course, fundamental
+philosophical things you can
+talk about. But I don't think
+it's very useful to constantly
+complain in every reply, you
+know, about the problems with AI
+and how it's going to destroy
+humanity. I don't know, I think
+look at the good sides. And look
+how it can benefit everybody. Of
+course, our great leader, Elon
+Musk, you know, is also
+complaining about AI. Right?
+He's like, it's gotta be the end
+of humanity. So what am I
+saying, you know?
+But he's also like, from a much
+older generation, right?
+Yeah, you're right. You're
+right. You're right. No, but of
+course, there's risk. But man, I
+get kind of tired of his whole
+like, negative scene on Twitter
+that started like 2016. And I
+feel died off like when Elon
+Musk bought Twitter and it's a
+very politically engaged scene
+and they're very, like, angry.
+And I don't see them a lot
+anymore. I think they moved to
+Macedon. But this is New
+Zealand, Twitter. I don't know
+you've saw the E/ACC. Like it's
+like, about acceleration. Like
+people are kind of
+philosophical. And they also
+want to they are positive about
+the future of humanity and
+technology, how we can use
+technology to make the future of
+humanity better. And it's E/ACC
+and people have this in their
+nickname and I follow up few
+people like Beth Jezos, like
+Jeff Bezos, he's like the leader
+or something. It's a very
+distinct group of people, very
+positive. And I feel that's man,
+I think positive in general
+works better, you know. I mean,
+I say this after complaining
+about Sony headphones for three
+days straight. But no, but I
+still believe in the future of
+Sony headphones if they fix some
+stuff, but I think positivity
+works better than complaining. I
+feel okay, let's be honest. I
+think there's some powerlessness
+if you cannot code and you see
+this AI stuff happening and
+you're not making money with it.
+And your income is not
+increasing because incomes are
+stagnant now and the government
+is not providing basic income,
+which is like free money for
+people because technology
+replacing a lot of stuff. I
+understand completely that you
+feel bad about this and you're
+gonna complain, like people
+complain about foreigners in
+Portugal, you know or people
+complain about AI. You know, in
+journalism, we are the writer
+strike in America, right? It's a
+big thing. Like the people who
+write the TV shows and the
+movies, they're on strike all
+the time because they think
+GPT-4 replaced them. Man, maybe
+will so I understand the
+problem. As always, I think the
+government should provide basic
+income to most people. And I
+think, I don't know if there
+will be a lot of new jobs
+created actually. I generally
+people believe in that. I don't
+really believe in that.
+It's a whole philosophical or
+societal conversation about
+like, should we even want
+everybody to have to work to
+feel that they're participating
+in society. Right? That's a
+thing. Like the whole, like,
+full employment of a country, is
+that even something we need as
+humans? Or could we just?
+I don't think so.
+Yeah, I agree with you there.
+And I think I'm a big Star Trek
+fan. I've always been a very
+optimistic sci fi future kind of
+person. But it's just recently I
+watched the Terminator movies
+because for some reason, I
+needed to go back to the 80s and
+90s and watch some really,
+really interesting movies. And I
+honestly, I do understand that
+the fear in the 80s and 90s of
+what technology is going to do,
+which is what Terminator is all
+about, right? What if AI
+computers take over? That fear
+is very present in those movies.
+And I think if you're socialized
+with this, if this is how you
+approach a technology, then
+everything you look at is
+potentially something that
+destroys everything around you,
+right? So the fear that it just
+destroys society, that destroys
+your habitat and all that and we
+do see some of this, right? What
+you just said is extremely,
+wonderfully phrased like the
+people who are not able to code,
+who are not able to control the
+machine, they are afraid of the
+machine. That is very, very
+And we are on like podcasts, we
+have AI started with like, wow,
+it's so good. Let's make money
+with it, you know.
+Of course, I'm positive about
+it. No, I 100% agree. But I feel
+That's right
+like, as always, I feel like
+people shouldn't blame the
+scapegoat, like, every
+technology has the same amount
+of bad and good it brings, you
+know an AI too, internet too,
+right? It's brought a lot of
+scams and man people died, you
+know, because of internet and
+people were born because of
+internet. So it's both. AI is
+the same thing. And but I think
+governments should somehow and
+governments are not so
+efficient, you know, in general,
+but they should. They should. I
+think again, they should provide
+basic income. And I think people
+can do voluntary work, for
+example. There's a lot of social
+stuff that has to be done like
+kids need to be raised in more
+like communities, I feel like
+there's a lot of stuff that can
+be voluntary work and
+In all paid work too, right?
+Like just having a basic income
+doesn't mean that people don't
+make money from work. It just
+means that they don't have to
+work to survive. That's the only
+difference, right?
+Yeah, exactly. So I think it
+should be protected, people
+should be protected so that
+technology doesn't destroy their
+income, the basic, you know,
+level of like, having a nice
+house, being able to just buy
+nice, good food and live. I
+think live a good life should be
+the goal for everybody in
+humanity. And but I'm Dutch, you
+know, I'm a little bit
+socialist.
+I'm also a little bit socialist
+because I'm from East Germany,
+man. I'm like socialist by
+birth.
+Marxian communists.
+That's exactly what it is. But
+yeah, I do see a need for this.
+I see a need for people feeling
+safe from this kind of
+technology because they have no
+agency over making it work for
+them. It works at them, it
+doesn't work for them. It kind
+of it's attacking them,
+aggressing them in the way. And
+in a funny way, this kind of
+fear of not knowing what's going
+to happen with the technology it
+also exists for us as founders,
+right? As entrepreneurs, this is
+what you said this tweet of
+yours from earlier. I'm just
+gonna get back to it and back to
+it. Like there is no way for us
+to protect our technology
+because it's not our technology
+to protect, like we only built
+on top of these things. So is
+building an AI startup,
+something you would suggest to
+somebody who just starting out
+as an indie hacker?
+Man, it's so difficult question.
+Right? I think so. I think you
+should always try stuff with
+technology because you can
+combine technology in new ways,
+unique ways that work for you. I
+think you should always like try
+like you could always say that
+you're always too late with
+everything, right? You're always
+too late. Like people said in
+2013-14, I'm too late to do
+startups now because already
+Dropbox, Airbnb became big and
+it's too late now. Of course,
+not too late. It's never too
+late. You just start and you
+never know what's next. Like now
+it's AI. There'll be always
+something next and jump away.
+But man, but this is the reason
+last year when this AI stuff
+started booming, like around
+like I think ChatGPT launched
+and then Stable Diffusion
+launched or vice versa. It's a
+month and it's suddenly people
+like oh shit, this really works
+now. And then I started like
+scrambling. I'm like, man, now's
+the time to build a lot of stuff
+and see what sticks because if I
+wait six months, I'm not going
+to, you know, it's not going to
+stick. Like everybody already
+did everything. So I spent
+insane time making a lot of
+stuff to just catch this wave.
+Now we're like, what? One years
+in, one half years in or
+something. I mean, now it's
+quite late in that sense. It's
+never too late, right? But I
+think you have some kind of
+first mover advantage doesn't
+always work but you have some
+kind of advantage if you catch a
+wave you know. A new technology
+logical wave because people want
+to use technology and the
+technology is always very brutal
+like it's very hard to use for
+people's if you add a front end
+to a new technology, you can
+start using it. I mean nomadism
+was the same, people were
+already nomadic but it was very
+hard to find out where to go,
+what the internet was, what
+these basic things. It was all
+separated on different blogs,
+blog posts, like oh, you should
+come to Thailand. No, you should
+come to Mexico. It was like
+travel bloggers. So collecting
+all that together made it, you
+know, user friendly to become a
+nomad, same thing. You catch a
+wave, make technology easier to
+use and make money.
+Do you still invest a lot of
+time in your old businesses, you
+know, the ones that are pre AI?
+Yeah, Nomad List is still a lot
+like I'm improving it like every
+week and I think soon once the
+other AI startup kind of all the
+stuff I wanted to do still on
+the my to do list with AI stuff
+is finished, I will probably go
+back to Nomad list and improve
+it. Like I've been working on 3d
+globe like Nomad List for the
+last two months like because
+this globe was a map before and
+I was like this 3d globe with
+like lines of like, I went to
+Thailand and to Qatar and
+Holland and Brazil, for example.
+And that kind of stuff. So
+that's my most favorite project
+I think in terms of like, I feel
+it's really like my baby and
+it's you can work on this
+project forever. Like I said,
+just so you can work on this
+until you're 80 because there's
+always a different way to figure
+out what's the best place to
+live like for you personally,
+it's such a difficult problem.
+So you know.
+It's funny how this reminds me
+of what you said earlier with
+the Lindy effect, right? Things
+that have been around for a long
+time they will be around for an
+equally long time. It's kind of
+what that means to me. Nomad
+List is something like this too.
+You've been doing this for a
+while and it's still around and
+you're still improving it and
+it's still finding customers.
+That's very interesting. And
+particularly
+It's very stable
+Contrasted against your AI
+startup set, like up and down
+and super expensive and
+complicated platform risk, an
+interesting lesson to be drawn
+from that, I think, right? The
+long term kind of
+Yeah, I'd never expect to stay
+so long. It's like nine years
+now. And I always expect this
+because I had a YouTube channel
+before, electronic music mixes
+and they went up really fast,
+like 8k per month and then it
+went down also very fast. So I
+thought every business like
+probably hype, so I was always
+traumatized, like, okay, this is
+just for one or two years, need
+to make a lot of money. But it
+keeps going. And it makes man,
+it's average, usually, like 40
+or 50 or 60k per month, a lot of
+money. So, just Nomad List, so
+not a lot of costs. So it's very
+nice business.
+Yeah, definitely. It definitely
+sounds calmer, right? Like less
+crazy than the AI stuff.
+Man! Yeah, I tweet about today,
+like this AI stuff is so
+stressful because you always
+need to stay ahead of the game
+and of competitors. And when a
+new technology comes out, like
+now, it's a little bit slower.
+But last year, every week, it
+was some new thing, new
+breakthrough and you need to
+implement this very fast. And
+it's stressful for sure. Like,
+it fucks with your sleep, you
+know, like
+Would you sell them? Would you
+sell your AI businesses?
+Yeah, I think I'll get it to a
+certain level, like maybe 100k
+MRR for photo AI and interior
+and then like, I got them valued
+recently. And the multiples for
+start ups are very good. Like
+they are very quite high. Like,
+normally for like any start ups,
+you get, like 2-3x or something,
+right? For AI, it can be like
+five or six or even eight
+because it's kind of hype now.
+So I think, again, the problem
+is profit, like the multiples
+are based on profits. So you
+need to cut these costs rapidly.
+And then you need to go to
+broker and then you need to sell
+for like, good amount of money.
+But man, I don't know, it's hard
+to sell. It's always like a nice
+challenge this AI stuff and but
+it is stressful, you know,
+probably gives you a heart
+disease.
+Yeah, I mean, if not like mental
+health issues, right? With
+anxiety and dealing with like
+all these unforeseen changes in
+the platforms, that dependency
+on open AI and all their
+platforms, right? If they
+decided to do the Elon Musk for
+$2,000 a month kind of move. I
+mean, you could probably handle
+it maybe but you know, like, it
+would be such a bastard move
+really.
+Yeah, yeah. Well, the good thing
+with AI is it's very open. So
+when one company will raise the
+prices very fast, you can
+probably easily back then not
+really, but now you can easily
+switch to another provider.
+There's so many providers now.
+So there's no less platform
+dependency now than a year ago,
+you know, because there's a lot
+of API providers now. But yeah,
+but it is stressful, you know.
+But I go gym, I go deadlift, and
+you know, overhead press and
+squats and then it's good for my
+mind. I don't have anxiety a
+lot. And but still, it's
+stressful.
+Yeah, I bet. Yeah, that's the
+thing with these kinds of hype
+startups, right? You really have
+to push. And then you have to
+make as much as you can and then
+go to the next thing. And that
+feels, it doesn't feel like very
+sustainable.
+Such an interesting way of
+thinking about photography. Like
+Not my vibe, you know, I like
+building long term businesses.
+And that's what I had with
+avatars. It felt so skitchy to
+me, so gimmicky. Like, it's not
+really my vibe, like, it's kinda
+it completely removes the act of
+photography
+like too short term, you know
+and this photo AI feels more
+like a photo studio for long
+term. Like it can have
+potentially long but who knows,
+because AI. You don't know how
+Like the act is gone, right? You
+don't need to go anywhere
+long but the intention is to
+have a long term product that
+can stay even if you sell it can
+stay for like 5 years or 10
+years, you know, because the
+philosophy is that you can have
+photography without needing a
+camera, you know. Like, you can
+just train yourself and you can
+make unlimited AI photos
+anywhere in the world from your
+computer, you know, you're on
+the beach or you're in the
+office, you're anywhere.
+anymore.
+Yeah, it's such a cool idea. And
+I kind of love that. It's like
+you and I kinda also hate it
+from a sense of somebody who
+likes to take photos, right?
+It's weird. I'm torn on both
+sides and I love the fact that
+it makes money. I hate the fact
+that it's so easy to build so
+everybody built it.
+It's like Photoshop. Photoshop
+at the same, when I was a kid
+Photoshop came out and the
+newspapers are full of
+Photoshop, like this is gonna
+destroy photography, everything
+is fake now and it didn't. Like
+all it did was the people use it
+for touching up or for art and
+stuff. So it's become a tool and
+I feel with all this stuff it
+becomes a tool for like I
+mentioned, you have a wedding
+photographer. He makes a lot of
+photos and then there's not a
+single good one. Okay, maybe you
+can use AI to train this person
+and you can make some renders
+and then stitch them back into
+the photo, you know.
+That is really cool. That makes
+sense.
+That can be a mix of reality and
+AI, you know, like, that's
+probably the future. So
+I was gonna ask you what do you
+think of AI being the future,
+but I kind of hear the sentiment
+of AI as tools that make actual
+things easier. That is always
+going to be the future, right?
+It's not that the AI is going to
+do everything for us, you know,
+AI's gonna help us do the things
+better. That's how I see it, at
+least.
+Yeah. But I do think that it
+replaces people like I do think
+it can replace photographers. So
+it's like, it is a tool, but you
+will probably need one
+photographer instead of 10
+photographers, you know. You
+need one person who can control
+the AIs. So yeah, it's
+interesting. It's interesting.
+But also for interior designers
+like interiorai.com, it tries
+to, a lot of interior designers
+use it for ideation. So you have
+a client who wants to get an
+idea for like because clients
+don't know what they want. You
+take a photo of the interior.
+And then you give them a lot of
+different styles. And do you
+want this and you can kind of
+move through ideation together
+to find the style that the
+customer wants and show them how
+it looks and but this also
+removes a lot of jobs again
+because you you need less like.
+Like I was looking at real
+estate agencies, a lot of them
+use already people who make
+these renders, especially new
+construction. They use beautiful
+interior renders, so fake and
+this easily you can do with AI
+in man, it takes 10 seconds to
+render a whole beautiful render.
+Normally, it takes what like two
+days for people to make this. So
+that's a real thing. But these
+people can use these tools also.
+It's going to shortcut a lot of
+processes that are established
+already and have like people
+working on them. But that's like
+you said Photoshop is that too,
+right? There used to be other
+tools to manipulate images
+before and it used to be like a
+more physical, it's like
+editing, editing video, right?
+People used to actually cut
+like, physically cut the stuff
+My dad did that
+It got digitized. All of a
+sudden, you do in a second what
+took hours to get done. Right?
+Exactly. Now you can edit with
+your iPhone, you know, like, my
+dad is a big, his favorite thing
+is film editing. And he did this
+with, he has classic film tapes
+and he caught and glues
+everything before. And then he
+had this video, instead of
+professional video, like betacom
+and stuff. And now it's like
+Final Cut Pro. But then I'm
+like, look at my iPhone. Like I
+make videos on my iPhone now. In
+TikTok you can edit even faster
+and it is high quality. So you
+know, it's all changing fast.
+And yeah, we'll keep changing.
+AI is part of that, so.
+Yeah, I find it so interesting
+that you get to see both sides,
+you get the boring project. I'm
+not gonna call Nomad List as
+boring, but it kinda is like in
+terms of the, you know, the hype
+around it. It's just used by the
+people that need it. And that's
+it.
+Yeah
+And you get the hype ish
+projects that get the headlines
+that get like, coverage in the
+press and that kind of stuff.
+Yeah, but this was Nomad List
+before of course. Nine years ago
+no, Nomad List got a lot of
+like, it was in New York Times,
+it was in all articles. I was
+like, oh my God, Nomad's gonna
+go everywhere. So it was hype
+and then hype ends, it becomes
+normal. It becomes mainstream.
+Do you think like, being a nomad
+is still something like,
+obviously I see you traveling
+around the world. My question,
+but it's not like it's still
+around, obviously. Nomadism
+isn't dead, right? But is it
+still something that you
+personally do? Or do you want to
+do this forever? Same like with
+your business, do you want to
+keep being an indie hacker
+forever? Do you still want to
+travel?
+Man, like this problem, this
+idea of the unknown. It's like
+most of them are slow mads and
+they start out very fast. They
+go like, you know, sometimes
+week to week, two different
+place that kind of like
+backpacking, then it becomes
+month to month and then it
+becomes like three months
+usually or six months in one
+place. And I feel and I also
+slowed down a lot like with
+COVID I just stopped. Everybody
+stopped traveling, right? This
+year was kind of crazy with
+travel. But before I was, you
+know, I tried to like keep it to
+like two countries. And I think
+for mental health also like, I
+think you do go crazy if you
+keep traveling so much. I
+personally do. I did, you know?
+Because you don't know where you
+are anymore. Like there was
+literally things with nomads,
+you wake up and there's a thing
+like they don't know, like where
+am I? You look outside. Oh,
+okay. I'm in Croatia or you know
+this stuff?
+Yeah
+Man, it's probably not so good.
+But it's very interesting
+lifestyle. But I think long term
+like man, if you have a
+relationship and if you have
+kids later all this stuff. I
+still think you can move. But
+you probably want to limit to a
+few places, you know and I think
+we just become the same as what
+people like retirees do. They
+are like in America, right? What
+are they called? Like birds like
+winter birds or something like
+Snow birds
+Snowbirds, in the winter, they
+go to Florida and in the summer,
+they go to New York or
+something. This is the setup. So
+it's just it's gonna go to the
+same thing. And I do it already
+like Europe in the South. It
+gets cold in the winter. I try
+to go to Asia, Southeast Asia
+where it's warm. I try and mix
+like the big city Asia with
+small village, Southern Europe
+on the beach. I think this works
+for me. Of course personal works
+here. But yeah, nomadism is
+still very active and lively and
+there's real like spots like
+Bali is still a very big spot
+and Thailand also and Mexico.
+With the Americas now coming in
+because they can work remotely a
+lot of them are by default
+nomads and they live in Mexico.
+But yeah, nomads a lot, probably
+less. You know, but a lot of
+people are living in not their
+original countries now because
+of remote work. And it's kind of
+called digital nomading, right?
+I guess. Yeah. And in a way
+anybody working from a computer
+is a digital nomad, right?
+In another country, like in
+another country, in their home
+country and that's become very
+normal. So I think it's still
+like, I think it's still very
+cool lifestyle. Like, if I was
+20, I would not go probably to
+university anymore. I would just
+go travel with my laptop and try
+little startups and stuff. And
+travel is such a, especially
+solo travel, you have to
+survive, you have to meet people
+like so, everybody has social
+anxiety these days. So you have
+to go out there and talk to
+people and you learn how to talk
+to strangers. And you know, I
+was very probably shy before now
+I'm not because I learned how to
+talk. I learned to go out of my
+room and you know and survive.
+And I think this stuff you learn
+from traveling. Every city you
+go, you can be a new
+personality, you can test your
+personalities, you know, sounds
+a little psychopathic. But you
+know,  your AB test, yeah. You
+know in your hometown, you're
+this certain Arvid. But then you
+go out of your country, you
+become international Arvid.
+You're like, very different. And
+you try this, you know, you try
+to be very extrovert and you
+can, a lot of people test this
+and I think that's very cool
+benefit of nomading.
+That sounds awesome. And it also
+sounds like kind of sounds like
+Twitter to me, where you can
+also be the person that you want
+to be, right? Like you project
+like the best parts, hopefully,
+or the worst parts of your
+personality on to social media.
+How do you deal with that? Like
+you have a pretty sizable
+following now. And with all the
+changes that have been recently
+made to Twitter or X, as we call
+it, right? There's a lot of
+difference in how we approach
+engagement and what gets views,
+what gets like retweeted, what
+gets actually pushed by the
+algorithm. How do you deal with
+this? Because you have a lot of
+reach.
+Man. So I think the algorithm
+has changed with Elon changing
+it and the team because before
+everything would kind of get
+views and likes, right? It would
+take with everything would get
+like you know, get exposure. A
+lot of people would see your
+tweets anyway, whatever you
+wrote and some would go viral a
+little bit. I think they changed
+it more to like, where if
+something goes viral in the
+beginning, it becomes pumped
+maximum. So it goes like before
+I would get like 100 retweets.
+Now if something viral it gets
+1000 retweets, goes very far.
+But on the other side, often
+many tweets get like two likes.
+Yes
+You know and I have 300,000
+followers
+So bizarre. It's weird, right?
+So I think they test in the
+beginning. Once you tweet a
+Yeah, it's really bad. It's kind
+of disappointing, right? Because
+test, does this feed work or
+not? Do people care about it?
+And I think how they test it,
+they check how many seconds you
+if you just tweet something
+honest, that is just you know,
+watch the tweets, the people who
+watch your tweets, you scroll
+through and they they count now
+the numbers, the seconds and
+Elon Musk said this, you know.
+And when this tweet doesn't
+something that comes from a
+place that is not extreme, but
+perform well, they just don't
+show it anymore a lot. So it
+become more extreme. And this of
+course, creates even more
+extreme Twitter because you get
+tweets that have to go really
+far, really extreme to get, you
+know, like. And then they get a
+lot of retweets or nothing.
+it's still important. And it
+gets just like washed away and
+buried beneath all the outrage
+things, kind of makes Twitter a
+less enjoyable platform, at
+least for me.
+Yeah, I think so like product
+updates. They don't really like
+I used to always, I always do
+product updates, like I made
+this new feature. And they used
+to get like, you know, like, a
+lot of views. They get less,
+much less now because it's not
+that interesting. It's kind of
+like yeah, it's kind of nice,
+you know, so the long term kind
+of vibe of Twitter changed a
+little bit. But I do have faith
+in our great leader, Elon Musk,
+you know. He can improve it. I
+think it's a survival thing.
+Like they need to get more
+monthly active users. They need
+to become more like TikTok.
+TikTok is maximus algorithm.
+Like they check every video they
+see if it works or not. And then
+they pump it also. I think he's
+on TikTok a lot and checking
+this and he wants to make
+Twitter very similar. And all of
+the vidoes, of texts, but then
+with the TikTok algorithm. So
+you know, you have OKRs like the
+metric target, which is like
+more users and now I think
+Twitter has a record use like
+500 million active users,
+monthly active users, so it does
+work but it changes the vibe a
+little bit. But I ignored I just
+still tried tweet whatever I
+think and man, if nobody cares
+anymore, I'll keep tweeting
+because I was tweeting and
+nobody cared 10 years ago. I'll
+just keep tweeting, you know.
+That's exactly right
+It's about your own, you know,
+your own. You should enjoy. You
+shouldn't do it for the audience
+maybe
+Yeah. And the people who enjoy
+what you do, they will find you,
+right? Like if you're just
+consistent enough
+They'll go to your profile and
+they read your stuff, right?
+They will maybe not seen in the
+time now, they will go to there
+so I think man, like don't be
+tread boy, you know, like don't
+do like the five things you need
+the five AI tools you needed to
+verse 24.
+Number three will surprise you,
+right?
+Number 3 will shock you. Yeah,
+it's bullshit. Man, what I loved
+one thing interesting. He also
+increased these long posts like
+now you can write blog posts.
+Yes
+These blog posts by definition
+get a lot of view time because
+of seconds. Right? These do work
+really well. So it's almost like
+a blog platform. So man, a lot
+of times I've just started
+writing blog posts now on
+Twitter.
+Yeah, I've seen this too. And
+video too, right? Like any kind
+of medium to long form video
+really does well, like if people
+just keep watching it a couple
+seconds because it's so
+interesting. But that's the
+interesting thing about Twitter.
+Now you need to take YouTube
+ideas, the idea of YouTube intro
+For a seconds, right? You won't
+believe what's next, go!
+Mr. Beast style and you need
+thumbnails and all that stuff
+now on Twitter as well if you
+want to professionalize. It just
+feels it's different. And maybe
+that's the exact same sentiment
+as we had earlier, indie hacking
+dead, nomadism dead, Twitter
+dead. We all that kind of the
+old ones, at least. It's all
+new. Right? It's all just
+different at this point.
+Yeah, it feels like it's but you
+have these time schisms?
+You know, where a lot of things
+change suddenly, for this is
+Yes
+definitely COVID, of course.
+This COVID years and maybe
+effects was more 2021, big
+schism, like we're in a new
+cycle. Now look at the
+recession, also and man
+honestly, the cycles are usually
+seven years. That's why I always
+say seven year cycle, you can
+search on Wikipedia, economic
+cycles usually seven years
+Contracting economic cycles?
+I don't know. Is that the same?
+I think it has name
+Yeah. But also like economic
+cycles are social cultural
+cycles, too.
+Yeah
+Like when there was a recession
+in 2008, you would see these
+hipster coffee shops pop up in
+Amsterdam, I remember this
+vividly. It changed the culture
+to kind of scrappy and hipster
+and it changes fashion. You
+know, it changes everything. So
+there's definitely big cycles
+and we're in a new cycle now. AI
+is part of this new cycle,
+right? So in seven years, it's
+all gonna go full again and
+something new come. So but I
+think yeah, again, don't be
+angry about the changes, just
+embrace and reinvent yourself
+for this new time. And you
+always need to reinvent
+yourself, right?
+Yeah, I think you're right. It
+is an attention economy. Right?
+Now, everybody has very limited
+attention because everybody's
+pulling at it from all sides. I
+talked to Aprilynne Alter about
+this YouTube thing too, right?
+Because she knows how to do a
+good YouTube video. It was
+funny, I had her on the show.
+And the day after that, she
+published a video that went
+viral, it's now had like 200,000
+views or something. She knows
+what she's doing. It was really
+cool. And, like, I watched her
+video on how to do an intro to
+YouTube video. And the whole
+idea is to make it absolutely
+clear what the promise is of the
+video, what you're going to do
+and then surprise people and
+give a bit more than they
+expected. It's really just
+trying to get people to feel
+confident in giving you their
+attention for a longer time.
+But that's like a tweet, right?
+The problem I have, so I thought
+about it and I did this and then
+I solved the problem. Here's how
+to do it yourself. You know, it
+is a formula.
+Yeah. And it's required because
+you need to be able to stand out
+amongst other people who are
+also interested in getting
+attention. It's just a new way
+to communicate. We used to, we
+had a time where we wrote
+letters all the time. And then
+email came along. And then
+social media came along. And now
+we have this. And this is I
+guess, just what we have to deal
+with.
+But the attention economy has
+always become it's always become
+less attention. Like you used to
+have long movies and then it
+became TV shows. And it became
+YouTube videos. Now TikToks.
+Next will be like, just one
+second video or something, you
+know, like, I don't know. But
+it's always been by this. But
+now I feels both because you
+have long podcasts like Joe
+Rogan has three hour podcasts
+and I listen to the whole
+things. And it might take me
+days because I listen a little
+bit here. And next I listen to
+it here. And then you also have
+the clips, you have TikTok clips
+of podcasts. So it works both.
+You have this outlier, you know,
+like, what do you call the
+economy of both sides. So
+Yeah, that makes that makes a
+lot of sense. Like it's kind of
+the you should be zigging when
+everybody else is zagging,
+right? That kind of thing. Now
+you can do long form content for
+the people who really care about
+it. And everybody else needs to
+short term stuff and even for
+the short form content, you can
+still do the clips so you get
+your long form but in short
+Exactly!
+Yeah, it's the more I do like of
+podcasts and YouTube and writing
+and newsletter, whatever I do. I
+do a lot of things, but they're
+all on based on the same
+material. I just use different
+ways of distributing the same
+material. And maybe that is the
+lesson here, right? That's
+depending on the media,
+depending on the medium, like
+the social media platform or
+YouTube or whatever, you just
+have to shape it the right way
+for people to consume it.
+Yeah, I think you can learn a
+lot from these big, big famous
+influencers even if you don't
+like them. Man, they will say
+like, outrageous stuff. Like, I
+don't like this guy, Andew Tate,
+for example. They, he says,
+really radical stuff that's very
+controversial and too much, you
+know and then the long form
+parts is quite balanced. Like he
+kind of softens down. He's like,
+what actually what I think. Man,
+I don't think he's very honest
+but there's something to be
+learned there where if you say
+things that are quite packable
+into shorts, like answers, that
+person that can package their
+answer in the first sentence
+probably well and then go for
+long form, this will get clipped
+and this person will get more
+views than a person who cannot
+make a proper sentence first to
+summarize, you know. So becoming
+good at writing tweets and even
+talking now in a short sentence
+is becoming like an integral.
+Man, it can make you rich or
+not, right? Because if your
+video goes viral, you become
+famous and you sell products.
+So, man, that's like a skill,
+you know? I don't know if I'm
+good at it because I ramble.
+Well, me too, but we're both
+trying our best, right? At least
+we're trying, we're in the arena
+and not on the sidelines. Right?
+Yeah, exactly.
+A lot of the things you say, a
+lot of people have opinions
+about like, just, you know, you
+can get a lot of trolls and you
+get a lot of people to turn your
+stuff into memes. How do you
+feel about that, like in
+particular?
+Man, it's great. It's like, it's
+amazing. Like, these memes are
+amazing. And, man, what do you
+expect? Like you tweet like, you
+know, controversial stuff
+Right
+Yeah, for sure.
+To a lot of people and of
+course, people going to, people
+get like, even like, you know,
+friends of friends, they message
+and chat like, man, what you
+tweeted now it's too much,
+unacceptable. I'm unfollowing
+you. I can't do it. You can't
+say this about this framework,
+you know, because I use it.
+People get really triggered.
+Man, I don't know. I think it's
+really funny. It's like, but you
+need to see it as kind of like a
+game. You know, man, it sounds
+psychopathic sociopathic, but
+it's you cannot take seriously
+like it. It's impossible to see
+it as a normal conversation
+because we have a normal
+But people who are smart, they
+understand, okay, this guy is on
+conversation. But if you have
+now you add 300,000 people on
+the other side is just shouting.
+It's like lynch mob. So and this
+changes you I think and you have
+to watch out doesn't change your
+personality in real life, you
+know, because you become but it
+does a little bit of course. But
+I think the benefits generally
+outweigh the negatives. You made
+a lot of cool people like you.
+Like most of my friends, I met
+via Twitter, you know and we met
+on Twitter. A lot of famous
+people also like people that do
+really cool stuff. They DM me
+and we talk and stuff and it's
+like wow, super cool. Like, man,
+like I talk with DJ Fresh
+because when I used to make
+music, drum and bass music, DJ
+Fresh was very important figure
+in music. Now he makes AI
+startup tool called
+voice-swap.ai, plug it. And we
+DM and we talk about a lot of
+stuff. And I'm like talking to
+my drum, bass idol. You know,
+it's the same. It's like, every
+time I'm still shocked. So and I
+think the more you can even if
+you read controversial stuff
+because it's your real being,
+you get a lot of attention and
+via this, people understand it's
+Twitter, we don't understand.
+It's  like a stage. You know,
+a platform and he's doing a show
+thing. And you have to take
+it's a show kinda
+everything with a grain of salt,
+you know and but at true, I try
+to say things honestly. I don't
+say things just to bullshit, you
+Yeah, I guess, if you have
+controversial opinions, the
+authentic representation is just
+to talk to people about those
+things, right? To share these
+opinions. Like you don't hide
+them. You just you don't become
+like the person that is happy
+know.
+with every single thing or is
+like really, really appreciative
+of every opinion. You just say
+what you say.
+And you try to be honest and
+apparently that's like
+controversial, but of course it
+becomes controversial because
+there's so many people. They
+don't have to be will disagree
+with you. So then it becomes by
+definition controversial, but
+it's not really controversial,
+you know and the problem is if
+you get scared and most people
+get scared of these and then
+they start tweeting like basic
+normal stuff and it's not
+interesting anymore. And I think
+the reason a lot of people
+follow me is because they know
+I'm honest and I'm not perfect.
+And I write whatever I think and
+it's usually crazy. But I also I
+like this yeah, but I like to
+say opinions and then like about
+frameworks or something and I
+say something and then I like to
+hear what people like when
+people reply. I learned from
+that and I changed my opinions.
+Like I have strong opinions
+weekly held. I do change my
+opinions all the time. And but
+it's a stage it's like a podium,
+it's a show kind of. It's
+inevitable that it becomes a
+show. It's very difficult not to
+make it and you have people like
+Lex Fridman, for example. He's
+very cool. And he gets a lot of
+hate also. And he chooses to
+talk more about like, love,
+like, we're all connected one
+world and everybody loves each
+other. And I liked that too. But
+it's not really my personal
+style. My first thought was just
+saying what I think. I want to
+keep being true to myself. I
+don't want to become fake, you
+know. And that seems fake. But
+he chooses love. I choose more
+like, what's on my heart, it's
+on my tongue. Like it's a German
+Dutch expression, I think. And I
+put that on Twitter, I tried to
+keep it in all in sync, you
+know. I don't like to be
+different offline, you know?
+Yeah, that's perfectly fine. And
+that's why I appreciate your
+tweets. I know that when you
+tweet something, even if it's
+controversial, it comes from an
+honest, truthful place. And that
+is the way you think about it.
+And that is the way you will
+talk about it. And I know what I
+get, right? That's the thing.
+It's very, authentically you.
+And I think that is a really,
+really smart way to building an
+audience or whatever you might
+want to call it, or just have a
+Twitter presence or social media
+presence, is just to not hide
+who you are. And kind of stand
+behind the things you say.
+That's so difficult because
+people are getting really angry
+and they hate you for your
+opinions. And people, yeah, you
+see these breakdowns on Twitter,
+right? People just have a
+meltdown because they get so
+much hate. I get this every day.
+Me too. Yeah, I think we both
+follow many, many people through
+lists and followers. And I think
+over the last three days, I saw
+like four people saying, I'm
+gonna need a break from Twitter.
+This is enough, right? And it's
+unfortunate that when it comes
+to that because people and I'm
+the same way, like I post
+something 30 people say, this is
+really cool. One person says,
+this sucks. And all I focus on
+is this one person and not the
+30 other people that really
+enjoyed what I said, right?
+That's typical. Yeah
+Yeah, it's really bad. But hey,
+let's end this on a high note. I
+think your Twitter account is
+awesome. I think you're sharing
+just your honesty, sharing
+things that you encounter in
+your daily coder entrepreneurial
+life. And I think that is
+absolutely worth sometimes
+getting into controversial
+fights with other people who
+have no skin in the game
+whatsoever, but a lot of
+opinions. So where would you
+like people to go to follow you
+if they don't already? But where
+would you like people to go to
+look at what you do, how you do
+it, and the projects that you're
+building?
+I think Twitter, X now you know,
+x.com/levelsio. Yeah. Thank you
+for having me. And I'm big fan
+of your Twitter account, too.
+I'm a big fan of you, man. It's
+so nice. It's taken a couple of
+Thank you, man! It's an honor to
+hear, man! Very nice!
+years for us to have a chat
+finally. But I'm super happy to
+be got to talk about all of this
+today. I'm really, really
+looking forward to seeing like
+where you're indie hacker
+journey, if that is still what
+you consider yourself to be
+It's been a pleasure. Thanks for
+being on the show.
+takes you in the future. And
+thanks for building all of these
+things in public. You're a role
+model to a lot of us. So thanks
+so much.
+Thank you for having me.
+And that's it for today. Pieter
+mentioned that he'd be open to
+sell his AI businesses
+eventually. And I know just the
+right place for him to list
+those businesses. I will now
+briefly thank my sponsor for
+today: acquire.com. Imagine this
+and it's not gonna be hard
+because Pieter just talked about
+this the whole time. You're a
+founder who's built a really
+solid SaaS product, you acquired
+massive amounts of customers,
+you're getting consistent
+monthly recurring revenue.
+That's the SaaS dream, as
+explained and evidenced by
+Pieter's AI tools. The problem
+is you're not growing for
+whatever reason, maybe lack of
+focus, lack of skill, lack of
+interest, and you just feel
+stuck in your business and with
+your business. In Pieter's case,
+it's really unawareness of where
+things are gonna go, right? Is
+the stuff still going to be
+around in a couple months? Can I
+still run this business by
+myself? Or should somebody take
+over? Well, the story here at
+this point, in many cases, is
+that people would love to hear
+that you buckled down, reignited
+the fire. You worked on the
+business, not just in the
+business, you build an audience
+and you marked a new sales and
+outreach growing team and
+whatever. Six months down the
+road, people would love to hear
+that you made all that money,
+right? You've tripled your
+revenue, you've built this hyper
+successful business, but reality
+is unfortunately not as simple
+as this. And the situation that
+you might find yourself in might
+be very different. And every
+founder is facing this crossroad
+in a different way. But too many
+times, the story that follows is
+the same. It ends up being one
+of inaction and stagnation until
+your business itself becomes
+less and less valuable over time
+or worse, completely worthless.
+So if you find yourself here
+already or you think that your
+personal story is likely headed
+down a similar road, I would
+consider a third option. And
+that's selling your business on
+acquire.com. Because
+capitalizing on the value of
+your time today is a pretty
+smart move. It's the only time
+you have. Acquire.com is free to
+list. They've helped hundreds of
+founders already. So go to
+try.acquire.com/arvid and see
+for yourself if this is the
+right option for you and your
+business right now.
+Thank you so much for listening
+to The Bootstrapped Founder
+today. You can find me on
+Twitter @arvidkahl. You find my
+books and my twitter course
+there too. And if you want to
+support me and the show, please
+subscribe to my YouTube channel,
+that would be really
+appreciated. Just get and rate
+the podcast in your podcast
+player of choice and leave a
+rating and a review by going to
+(http://ratethispodcast.com/founder).
+It really makes a massive
+difference for me. Because if
+you show up there, can rate and
+review, then the podcast will
+show up in other people's feeds.
+And that just means more people
+get to learn from people like
+Pieter today. Any of this will
+help the show. Thank you so much
+for listening. Have a wonderful
+day and bye bye.

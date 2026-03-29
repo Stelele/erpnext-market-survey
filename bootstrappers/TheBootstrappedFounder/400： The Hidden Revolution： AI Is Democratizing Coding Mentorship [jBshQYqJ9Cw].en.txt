@@ -1,0 +1,403 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+[Music]
+Today I will highlight one part of the
+AI hype that we're all having to deal
+with right now that is severely under
+reportported on. And I think it's that
+part that I personally believe has much
+stronger long-term impact than all those
+magical video generators and coding
+agents that we see every single day.
+This episode is sponsored by paddle.com,
+my merchant of record payment provider
+of choice, who's been helping me focus
+on Podcan from day one. And they've been
+taking care of all the things related to
+money so that founders like me and you
+can focus on building the things that
+only we can build. Paddle tendles all
+the rest like sales tax and credit cards
+failing. All of that don't have to deal
+with it. They do it for you. I highly
+recommend checking it out. So, please go
+to paddle.com.
+[Music]
+I just had one of those realizations
+that makes you stop and think quite
+differently about everything that has
+been going on around the discussion of
+AI tooling. You know, we talk a lot
+about AI helping us build things faster
+and we talk about automation, but
+whether it's going to replace
+developers, take our jobs, but there's a
+side effect happening right now that I
+think is either completely undervalued
+or just not being observed at all. And
+honestly, it might be much more
+transformative than the automation piece
+that we're all focused on so much. Let
+me paint you a picture of how learning
+to code has worked for well, basically
+forever.
+For the longest time, if you wanted to
+learn how to code, you had pretty much
+two choices, two main paths. The first
+was the intellectual approach. You would
+dive into books and wait through
+documentation and just try to absorb all
+of this abstract knowledge and somehow
+transform it into working code. And the
+second one was the experiential route.
+And that's what most of us self-taught
+developers know intimately. You would
+run head first into every single issue
+one by one. You just figure it out. You
+tap into Stack Overflow when you were
+lucky. maybe find somebody else's
+solution that kind of fit your problem
+or just adopt whatever you were seeing
+to what you needed. And if you could
+handle it, you try to read more
+experienced developers code and then
+reverse engineer how that could apply to
+what you were building. But here's the
+thing, it was always this process of
+consuming information that wasn't really
+code to then produce code. And it was
+always asynchronous every single time.
+You would hit a wall, spend hours
+researching, maybe post a question
+somewhere and then wait for an answer.
+And if you were really fortunate, you
+were part of a team where you would get
+feedback. But even then, the core
+experience was the same. You alone
+diving into a problem, running into a
+wall, and then running into 20 more
+walls over the next couple hours,
+waiting for somebody to help because
+they also were running into their own
+walls at the same time. then you would
+either give up or ask somebody else or
+you'd figure it out just through sheer
+persistence and take that hard learning
+forward into the next thing you had to
+build. So that's how we've been learning
+to be better programmers, better
+infrastructure developers, better
+software architects and all of that for
+decades. But something fundamental is
+shifting with AI software development
+tools. And I want to be clear, this has
+very little to do with this admittedly
+magical capacity of letting AI do the
+work for us. That's a whole other
+conversation that everybody seems to be
+having. So, we don't need to talk about
+that here. But this is about something
+much more profound for the people who
+are still willing to learn how to code.
+And there are still many of those
+people. Because here's what I think we
+all understand deep down. Coding is
+significantly more than telling a
+machine what to do. To be able to judge
+good code, you still have to be able to
+write good code in the first place or at
+least understand what the difference
+between good code and bad code looks
+like. You can't delegate that judgment
+entirely, at least not yet. And I think
+for the foreseeable future, we will
+still need to be able to judge the
+outputs of these machines. So for people
+who want to learn this craft of being
+able to write good code so they can tell
+machines what they need and don't have
+to write the code anymore, something
+remarkable is happening right now. All
+of a sudden, they don't have to do it
+all by themselves anymore. Think about
+this. With AI tools, learners can
+actually look at what an experienced
+person would do and pair program with
+them. Not just occasionally, not just
+when schedules align, but 24/7 whenever
+they want to. They can ask questions of
+that somewhat or very experienced
+developer 24/7 all day long for
+effectively free. Even if they're paying
+20 bucks a month or 200 bucks a month
+for an agentic system, you know, cloud
+code max or whatever the thing is
+called, it is still a 247 relationship,
+always on, always available. And if
+someone's trying to learn how to code,
+they can have this constant AI system
+build code for them. And here's the
+crucial part. Teach them how they did
+it, why they did it, what they thought
+about, what they approached, and how
+they approached things in certain ways,
+why they didn't choose the alternative
+approach here. Right? You can always ask
+the system that is building code for
+you. What happened? What choices did you
+have? And what path did you take and
+why? Explain it. Give me examples from
+the past or code from other projects
+that did this and didn't do it well.
+This is the thing about AI systems like
+this. They're always ready to go that
+extra mile to validate why they did a
+thing to explain themselves. And for
+people who learn by imitation, for
+people who learn by watching other
+people practice their craft, I think
+this is the first time that coding has
+become truly accessible to them at scale
+and for almost zero marginal cost. like
+another person learning how to code from
+a system, an AI system that already can
+teach at this scale. That is zero
+marginal cost right there. And this
+reminds me of what I would call the
+YouTube effect, that phenomenon that's
+been teaching people to do all kinds of
+things for decades now. And yes, coding
+has been on YouTube, too. I know. And
+it's been a great way to learn from
+videos. But YouTube still has this kind
+of asynchronous limitation. You watch a
+video, try to figure something out, try
+to learn something from it. You watch
+another hour of tutorials, then you
+attempt to implement that in your
+system. Still back and forth, right? But
+over an extended time frame. With AI
+systems, both for coding and for pretty
+much every other activity. Something
+different is happening. Coaching, active
+synchronous coaching has become a way of
+getting into things. Not just getting
+much better when you're already in
+there. You can be coached into a thing
+on your own time. And I find this
+fascinating because coaching used to be
+something highly expensive, highly
+exclusive, and honestly very hard to get
+right. Because if you ever worked with a
+coach or a consultant before, maybe you
+are one and you have some stories where
+your customers maybe didn't vibe with
+you. You know the challenges. Most of
+these relationships, consultants,
+coaches may not be the best fit for you.
+Most consultants might not have the
+exact experience that you need for your
+specific situation. And many coaches
+might just have a different personality
+that doesn't click with you and how you
+learn, how you need to get into a thing
+better. It's like finding a therapist.
+It often takes a while to find somebody
+who really works for you because you
+need compatibility. And the same with
+coaches, same with consultants. But AI
+systems, well, they can be all of these
+different people, all of different types
+of mentors just by being prompted to be
+them. you can very quickly establish a
+connection with these tools that would
+have been impossible with real people
+because either because you were limited
+to a certain selection of available
+experts or because these relationships
+were prohibitively expensive.
+And this is really exciting to see not
+just for coding but for all kinds of
+learning activities. Here's something I
+think we don't talk about enough. A
+guided experiential approach that's
+almost synchronous in nature is now
+available. And this is going to do a lot
+for people who learn in ways that our
+traditional education system hasn't
+served them well with. A lot of people
+are not the best readers. They're not
+the best listeners or best abstract
+thinkers when it comes to learning. A
+lot of peeps need to be shown precisely
+what and how in an almost deductive way,
+right? They don't learn inductively
+where you gather all the knowledge first
+and then you synthesize the result. They
+learn by deducing. They need to see the
+result first and then deduce their way
+into understanding its components. They
+disassemble the final product to
+understand the pieces that they will
+need to reassemble it for themselves for
+their own purposes in the future. And I
+think it's a completely valid way of
+learning and understanding the world.
+But it's been incredibly hard to access
+in traditional coding education. So, if
+we look past all this shiny AI is doing
+all the work for me kind of headline
+stuff that we're exposed to or the AI is
+threatening my job anxiety and instead
+we see these tools as these always on
+extremely affordable empowerment tools,
+personal coaches for everything, then
+all of a sudden this technological shift
+becomes even more significant. Yes,
+there's definitely a hype cycle where
+it's all over the place. Don't even need
+to look at Twitter. You can just read
+the newspaper. Even in regular news, AI
+is being hyped and AI companies are
+building products that nobody wants or
+needs. But if we change our perspective
+and see AI as a learning vehicle first
+and foremost and not just as fancy tech
+on GPUs, then we're looking at something
+really interesting. We're looking at the
+democratization of mentorship. It's not
+just about coding either. Of course,
+this same principle applies to design,
+to marketing, business strategy, to any
+skill where learning from experienced
+practitioners has traditionally been
+gatekeep.
+But coding is particularly powerful as
+an example here because it's been such a
+clear illustration of the lone wolf kind
+of learning path and the image of the
+programmer staying up all night banging
+their head against these
+incomprehensible error message that
+we're all exposed to every day. finally
+having the breakthrough moment at 3:00
+a.m. That's kind of been our romantic
+notion of how this works. I've been
+doing this a lot in my own experience.
+And while there's still value in that
+struggle, and you always kind of have to
+struggle to learn anything, sure,
+building persistence and problem solving
+muscles right in your brain, we don't
+have to make the learning process
+unnecessarily isolating anymore. So, if
+you're someone who's been thinking about
+learning the code or you're early in
+your journey and you're feeling
+overwhelmed by the traditional path, I
+want you to know that you now have
+options that simply did not exist a
+couple years ago. Probably didn't even
+exist a couple months ago. Like the
+agentic systems play a big part here.
+And always on is pretty important too.
+You can now have conversations with your
+AI coding mentor. You can ask them why
+did you choose this approach over that
+one. You can say, "I don't understand
+this concept that you just implemented
+here. What is popups? I never heard of
+this before. Can you explain this to me
+in terms?" You can even have it
+explained to you in fun terms like, you
+know, as a I don't know, like as a rap
+or, you know, as a poem or whatever.
+Like the thing will talk to you in a
+language that you want it to talk to you
+in, right? In something you can
+understand. You can request walk me
+through your thought process as you
+debug this. Explain it like I'm 5 years
+old. It's not about replacing
+fundamentals or skipping hard work. You
+still have to do this. But it's about
+having a guide for that hard work that
+works for you. And if you're an
+experienced developer, I think there's
+an opportunity here too to reflect on
+how you learned and consider how you
+might help others learn more effectively
+here too. AI tools are democratizing
+access to mentorship, but they're
+modeling their guidance on the
+collective wisdom of experienced
+developers who've been mentoring people
+before. So, we're witnessing something
+that goes far beyond coding tools. We're
+seeing this emergence of accessible,
+personalized, and always available
+mentorship for any skill we want to
+develop. And I'm not even just talking
+about like OpenAI, Chat, GPT, stuff that
+you use in your browser when you're
+internet connected, right? Think about
+the fact that you can run these large
+language models that power these systems
+locally on your computer in an isolated
+system. You could turn off your
+internet. You could power your computer
+from a battery if the power goes out or
+whatever and it would still be there
+always ready as long as there's
+electricity in some shape or form that
+is quite democratizing as a resource as
+means of access to a thing that is
+really really powerful. So question is
+not whether this will change how people
+learn. It's already changing. Like if
+you look at students right now, they
+work with AI all the time. Not just to
+have it solve their homework, but to
+actually ask it questions. It's very
+very interesting to look at this at the
+university level. That's where people
+have really figured this out too, but
+even with younger students, AI becomes a
+mentor. Not just somebody to delegate
+to, but somebody to learn from. question
+here is whether we will recognize this
+shift for what it really is. It's not
+just about making us more productive
+doing our homework, but it's about
+making learning itself more accessible,
+more personalized, more effective for
+different types of minds. And that's the
+revolution that is hiding in plain sight
+while we're all debating whether AI will
+replace developers. That doesn't matter
+because it will allow us to learn so
+many more things. And honestly, I think
+this learning revolution might be the
+more important story here. And that's it
+for today. Thank you so much for
+listening to the bootstrap founder. You
+can find me on Twitter at avidkal a v
+khl. If you want to support me in this
+show, please share podscan.fm with your
+professional peers and those who you
+think will benefit from tracking
+mentions of brands, businesses, and
+names on podcasts out there. People have
+been using Potscan for lead generation,
+for creating newsletters to send to
+their clients and customers, for finding
+data to remediately act on, for finding
+mentions to do PR disaster recovery
+with. It's really, really useful to hear
+exactly what's being said about a
+certain thing right after it's being
+published as a podcast. So, please share
+the word with those who you know need to
+stay on top of the podcast ecosystem.
+Thanks so much for listening. Have a
+wonderful day and bye-bye.

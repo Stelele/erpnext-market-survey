@@ -1,0 +1,692 @@
+﻿[Music]
+I want to start by saying thank you to
+all of you who have been encouraging to
+me knowing though I'm coming up on the
+stage today it's meant a lot I feel like
+everybody here has been just so friendly
+and in interesting I've enjoyed getting
+now a lot of you and what you're working
+on for example today at lunch I was
+talking with Dan ver Dan for you in here
+yeah so he was telling me that his he's
+you know looking to build a product and
+his interests are programming sailing
+and kungfu so I'm thinking oh that's
+awesome like there's two three totally
+great areas and so I asked him more
+about the programming and I was like
+what about programming like what kind of
+programming do you do
+he's like Python and go now I've heard
+of Python I've never heard of go how
+many people here have never heard of go
+as a programming language all right
+two of you so I'm like the third anyway
+I didn't know about it so I'm just like
+I must not be that many people using it
+so I was like that's perfect it's like
+small it's you know niche and you should
+use that so I went up to my room right
+before this talk and I googled it
+apparently when you search for go
+tutorial there are so many there's
+fifteen million six hundred thousand
+results so and in the whole pages filled
+with like go by example learn go
+programming a tutorial with code
+examples resources for a new co
+programmer so I was like yeah that's
+crowded so here's the thing they're all
+these markets are crowded so many of
+them very rarely will you find a product
+that is like brand-new and never been
+invented before and it actually takes
+off I mean there are people that make
+brand new products they've never been
+invented but there's usually a reason
+why they haven't been invented because
+there's no market for them so I'll talk
+to you a little bit today about harpoon
+which is my app which is time tracking
+an invoicing app for freelancers it is
+certainly not the first one to do this
+nor the only one in the world but we
+decided to do it when we first started
+harpoon it was actually just a way for
+you to track the payments that your
+clients gave you we would track it on a
+calendar on the monthly basis you would
+see how much you've
+brought in minus your expenses and how
+that tracks towards your goal and we
+even showed up at the top what your
+forecasted revenue would be based off of
+the invoices that were outstanding so we
+built that but the only catch was you
+still use tarp or you still use fresh
+books or or harvest or whatever tool you
+were using to invoice the clients we
+just helped you to visualize things in a
+new way we also showed graphs and charts
+showing you you know more information
+about your business we even showed
+vacation days based off of how many days
+you work what you've been bringing in
+and according to your yearly goal how
+many days you could safely not work or
+make any income and still hit your goal
+so we thought people would love this we
+created a landing page that showed what
+the app does briefly kind of vaguely we
+had you know the the ever recommended
+opt-in form there where you put your
+name and email in there and we'll send
+you a lead magnet and we actually got
+many people to sign up we purchased ads
+on email newsletters from people and we
+got about 3,000 signups before we even
+launched the product so we were super
+excited when we did launch we had a
+great launch and a lot of people did
+sign up but they signed up and then
+turned quickly they realized like this
+wasn't the tool for them like what's
+going on here and everybody's response
+was that I don't want to enter my
+payment information twice I don't want
+to enter it into one tool and then come
+over to your tool and enter it again so
+we realized we had a problem we needed
+to create a product that people wanted
+so I googled startups oh well I searched
+on Amazon for startups and this really
+amazing book by some guy named Rob
+walling showed up and so I purchased the
+book brought it home started reading
+start small stays small the developer's
+guide to launching a start-up and in
+there I was thinking how can I get
+advice on building a small business
+online accounting software being a
+self-funded startup
+so I got to this quote in the book
+building a general small business online
+accounting an application is a really
+bad idea for a self-funded startup but
+ironically I thought
+we're not general-purpose we're serving
+freelancers we have a niche which we
+realized was not really a good niche so
+then I was like alright this guy we're
+gonna go ahead and ignore him sorry
+start I find this other guy who's
+writing stuff on the Internet
+it figured like alright we're gonna
+we're gonna build this SAS app time
+tracking invoicing that's going to be
+popular this guy Justin Jackson says in
+many ways those first cred base SAS
+products address books time tracking and
+invoicing were the low-hanging fruit the
+opportunity to be first and those
+segments is past so I did what many good
+entrepreneurs do you just ignore what
+everybody's saying you just go for it
+anyway so I we decided we were gonna
+take on these guys fresh books harvest
+free agent we're gonna build the
+features that they have been building
+either bootstrapped or with with funding
+and having been around for 10 years
+we're gonna try to take them on and as
+we did more research we realized ok
+these actually aren't the only players
+in the space there's a few more tools
+and once we started thinking of all we
+wanted harpoon to do we realized there
+was more perhaps that we're already out
+there solving this problem so we looked
+at this list we knew what we were up
+against and we still decided to go ahead
+and give it a shot
+do I tell you guys hate paint chips as a
+kid so so why did we do it we did it
+namely because we wanted this tool we
+were freelancers ourselves we were
+actually using some of those tools that
+were up on that slide and none of them
+had this like goal setting and tracking
+component that we wanted so we were
+doing all this in spreadsheets in
+addition to what we are getting out of
+the tools that we were using to track
+our time and build our clients and we
+were like if anything we will use it so
+the other reason is like I said we
+thought we had in it
+each niche so with freelancers like a
+lot of these other tools they're
+starting to to serve like agencies and
+small businesses and we thought if we
+just focused on like a freelancer a solo
+user so we didn't have all this added
+stuff like team information and adding
+people we thought we could keep it
+simple and you know that would be the
+way that we niched into it and finally
+we thought we would keep it simple by
+only supporting the US dollar so we
+figured there's enough freelancers in
+America that will just you know support
+the dollar and hopefully all the
+American freelancers will sign up well
+we turned out that on our Google
+Analytics the people coming to our site
+that we're finding out about us and
+signing up for our list we're actually
+all from all over the world this kind of
+shocked us we thought you know like I
+don't know like other parts of the world
+speak different languages like why are
+they even on our site but they wanted to
+sign up but we didn't support any of
+their currencies but then we realized we
+probably could support their currencies
+because the way harpoon works is we tie
+in with stripe and we have them sign up
+for a stripe account and then we just do
+a direct tie-in we don't take any cut
+off the top but they can build their
+clients using straight so we figured ok
+maybe all the currencies of stripe
+supports we can support but there's
+other things in addition to currency
+that we had to figure out that we needed
+to support like number formatting I
+didn't realize this was a thing in some
+parts of the world commas or decimals
+and decimals or commas and 1.000 means a
+thousand I did not know that and
+thankfully our customers let us know
+when they tried to use our app date
+formatting apparently apparently
+everybody does everything a little
+differently so we had to support a lot
+of that even down to clarifying your
+dollar we're like the dollar symbols
+right there and they're like as a
+Canadian is that Australian oh gosh so
+we were a little bit in over our heads
+but we started to solve these problems
+and one by one we got people to sign up
+now these are actual sign ups now not
+just visitors to our site but people
+using the product from was that
+different cities around the world so I
+want to revisit this slide that shows us
+kind of like dropping off in a
+combination of starting to support other
+nationalities and also like building
+these features that would put us on par
+or at least have the feature said of
+harvest and fresh books and the other
+tools that people were using we started
+to see growth it was right around 2015
+the end of 2015 that the feature sets
+that we were releasing started to get
+people back into the app and the more we
+fixed the the bed of the curve became
+and there was one point there at the the
+beginning of 2016 where it looked like
+we were hockey sticking and I was like
+oh my gosh we're gonna be millionaires
+and and then it like rode out and I had
+to tell my wife I was like all those
+dreams I just painted for us we're gonna
+have to hold off on those just a little
+bit because I don't know if that was
+really a hockey stick I just think it
+was a bump so the lesson we learned
+there first of all is build what people
+need we did not build what people needed
+on our first revision and that's why
+everything went flat but it took us some
+time it was not an overnight success it
+still isn't an overnight success it's
+something that we continue to plug away
+at but we've realized that once you
+discover what people need and you do
+that by researching your audience and
+getting feedback and sometimes just
+continuing to put the hard work in
+finally we validated what people needed
+and then the second part of that is to
+find a way to let your customers know
+about your solution so the second half
+of my talk here is going to be about
+marketing your product once you have one
+that that's starting to fit a need even
+though there are competitors that have
+already have bigger audiences already
+have deeper pockets you know why would
+you go into a market that already has
+plenty of people there doing it already
+so I want to remind you you are not the
+first one to do this whatever your idea
+is you are probably not the first one to
+do this and I was reminded on a podcast
+I was listening to a guy named Mike said
+the landscape of SAS business is
+starting to become more crowded most of
+the ideas that people have for an
+sass product have already been done and
+I heard that and I'm like yeah you're
+right so I'm gonna change the subject I
+turned off the podcast I did listen to
+some jazz jazz is something I got into
+since watching lalala and anybody
+watched la-la-land
+alright not that many of you either that
+or you don't want to admit it and that's
+fine too so jazz is a type of music that
+usually starts off with a melody that
+the whole band knows to play and it ends
+with the melody the whole band knows to
+play and in in the middle they just kind
+of go around and each one takes turns
+improvising they stay within certain key
+ranges and you know there's certain like
+rules that they stay within but for the
+most part they just improvise to make it
+up and some of these songs you cannot
+hear the same way twice if you buy some
+of the older jazz albums you'll hear the
+same song played 40 different ways
+depending on the album you listen to and
+I was reading a book about this it says
+jazz can be played on any instrument by
+ensembles of any size when I started
+thinking about that it reminded me a lot
+of building a product and marketing a
+product because it's really just a bunch
+of improvisation of little riffs little
+chords little tricks that you've done in
+the past but like mixing them up in new
+ways adding your own voice to it and
+just like jazz can be big band or it can
+be a trio your product can be you know
+with it with a large team or it could be
+just one person going out there trying
+to make a product so finding out what
+your unique way of doing things is your
+unique combination of tactics will help
+you to have a product that stands out so
+I say in this slide here to embrace your
+unique not just find it but realize that
+that is what is going to help you to
+stay ahead of some of the competitors in
+certain areas so as another example I've
+been talking about time tracking and
+invoicing for freelancers email
+marketing is another very saturated
+market or it's a market that has a lot
+of competitors in it and there are
+certain ways that people have come up
+with new products in the last several
+years that I've been able to compete
+with other stuff that's out there and
+one of which is drip
+like the reason why I like drip so much
+the first time I heard about it was that
+it was a better way to solve my problem
+of email marketing I got into this tool
+and instantly I could figure out how to
+use it it was very simple the tool I was
+currently using was very cumbersome and
+just took a lot it was really hard to
+maintain so I felt like drip was clearly
+better at solving a problem another tool
+that takes a unique approach here to be
+unique in your solution is SendGrid
+SendGrid is another email marketing tool
+that also has transactional email
+capabilities and so by combining those
+two services there they're doing they're
+they're adding features that some of the
+other tools don't have so in that way
+they're unique another way you can stand
+out is by leveraging your advantage my
+friend Nathan berry came out with a tool
+called convertkit and the thing about
+convertkit which was great is that
+Nathan had spent years teaching people
+how to write email sequences and just
+teaching everything he knows really
+writing books and and he became an
+authority and so he came out with this
+product that said I will take my formula
+and already put it into this app for you
+so when you sign up you just have to
+tweak some things and then you know you
+have like his game plan so that was an
+advantage that he had that he leveraged
+to help get his app off the ground Gary
+Vaynerchuk says the only assets you have
+against bigger wealthier competitors are
+raw talent in time corporate America
+isn't as nimble as you of course they
+have deeper pockets but the talent
+you're the only one that has your talent
+they have a different set of talent but
+there are things that you bring to the
+table that are not going to be at the
+bigger competitors and you got to find
+out what those are and try to leverage
+those also time you know sometimes
+companies have investors and things need
+to be done like right now they're you
+know if you're if you're launching a
+product you might have the advantage of
+being able to wait a bit a little bit
+longer or also putting in more hours and
+being a little feisty err by staying up
+late working hard and hustling a little
+harder and maybe getting it out faster
+because the bigger a company is the
+longer it takes for them to make a
+change when your company has thousand
+of customers you can't just go rewriting
+it every few weeks until you find what
+sticks but when you don't have that many
+customers you have that advantage you
+can tweak things and and you know you
+have more leverage in that regard so
+something I've learned that's really
+helpful is to measure everything the
+temptation that I have is to just try
+something and keep keep working at it
+and just going off my gut is that
+working is it not but once I like decide
+I'm gonna measure this I'm gonna
+determine you know scientifically is
+this working or not
+then excuse me then I'm able to know
+what to double-down on
+so at harpoon we have this sheet that we
+make for every one of our marketing
+projects we we start off by asking what
+is the main idea so for example I'm
+going to talk about Facebook Ads so if
+you say what's the main idea of trying
+some Facebook ads to get your product
+out there and I know I'm talking about a
+SAS product for myself but this applies
+to just about everything podcast info
+products whatever it is you're working
+on you know it'll apply so the main idea
+of a Facebook ad is to drive traffic
+well drive sales traffic is worthless
+sales are better so to to get sales
+that's the main idea through Facebook's
+ads
+what are we hoping to accomplish to get
+more sales how are we hoping to
+accomplish this we're hoping to
+accomplish this by and this is usually
+where I say like we're gonna use these
+keywords and we're going to you know try
+to get them over to this page and so I
+maybe pull it out a few specific tactics
+that we're going to do and then I write
+down what are we measuring and this is
+the key part are we measuring click
+throughs are we measuring how many
+people sign up what are we measuring
+defining what that is helps you to you
+know be accountable to actually getting
+that number when you're at the end of
+your trial and what is the time for time
+frame when I say trial it was
+intentional I think every marketing
+activity that you do needs to be a test
+you just because you because things
+change so quickly that you need to be
+trying it measuring it and then you know
+if it works continue double down
+sometimes scale back sometimes new
+opportunities come up
+thank you brother Justin Jackson
+everyone that's better
+all right time frame so you know some of
+these some of these might be two weeks
+some of them might be three months some
+of them might be six months and what is
+the cost for Facebook Ads we decided how
+much are we going to spend on Facebook
+Ads we spend that we write that down
+specifically how do we know if it's a
+success that's when we say you know we
+know about how much we need to pay per
+lead
+so if you know if we're getting this
+range then we'll know it's a success and
+what would failure look like this is a I
+think a really important step is writing
+down like visualizing what failure looks
+like because before you run the task you
+know you'll be able to say like well the
+failure would be you know people
+clicking but not signing up or something
+like that and then when you actually
+realize that's what happened you're like
+okay well this this test failed and
+that's okay
+because a lot of tests will fail and the
+whole point is to find what works and
+then you can double down on that
+and finally what was the result and what
+are the key takeaways so you know what
+to do next time the tool we use to keep
+track of all these is Basecamp we just
+do notes you can use notepad you can use
+word Google Docs Evernote doesn't really
+matter it's nothing fancy we just write
+down the questions and start putting
+bullet points you can also measure these
+on a Gantt chart like what when you're
+running these tests for your marketing
+and any everything even from like your
+Twitter presence it's like alright
+you're on Twitter while you're on
+Twitter like we did one of these just
+for just being on Twitter what are we
+hoping to accomplish how do we measure
+if we're doing that simple stuff so you
+might have a ton of these things running
+at the same time but it's just really
+helpful to identify what they are and so
+I have a little trick to I'm for those
+of you have talked with me before you
+know that I'm the kind of guy that just
+likes to throw a spaghetti at the wall
+and see what sticks so in order to throw
+as much spaghetti as possible I recycle
+everything that I can so I'm gonna give
+you a little formula of something that
+I've tried before which is starting by
+going to Korah in finding your
+a subject matter that you're trying to
+you know write content for you find a
+question you answer that question then
+you take your answer
+and turn it into a blog post you take
+that blog post you put it on medium you
+also put it on Facebook and LinkedIn
+then you take some pool quotes from that
+article put them into an Instagram
+little pull quote then you take that
+little pool quote put it back into your
+medium article you share both of those
+on Twitter then use a tool called Q to
+get it into a bunch of people's
+automatic tweet use and drive traffic
+like crazy and then you could even go in
+different directions with paid
+advertising or combining some of your
+content into guest posts so that you can
+you know increase your exposure so I
+want to show you an example of some of
+the Instagram photos that we did these
+are just some pull quotes we just took
+out we made a Photoshop file that just
+has a gradient over some random
+mountains and put our logo on there and
+then just you know put it put in a quote
+we also found quotes from other people
+that were out there on the internet that
+we would just put together and throw
+them up on Instagram I mean that was one
+of our little tests that we did and
+turned out to work out pretty well so
+looking back at our chart here just just
+as a reminder like if we would have
+stopped there after the first hump when
+it was flat which is what most sane
+people would do you know we would we
+would not have a product today but we
+chiseled away at it there's no secret
+sauce there's not this one thing that
+I'm just like if you just do this one
+thing you're gonna achieve success it's
+uh it's usually a combination of things
+it's determination and perseverance
+so all those quotes that I had from
+other people in one of the episodes will
+start up for the rest of us when they
+talked about how SAS is becoming
+overcrowded Rob also said even though
+that that's the situation I still see
+people executing and just making it
+happen so to you guys I see all of you
+executing on stuff talking about
+products and even if it's in a crowded
+crowded product or a crowded market I
+think a lot of you guys have what it
+takes to execute and make it happen
+it just requires you know measuring
+perseverance trying new things getting
+creative and putting yourself out there
+so I wish you all the best as you gain
+traction yourself and yeah that's my
+talk I'm wondering if you were able to
+get anything from your competitors so
+you're in a crowded marketplace were you
+able to watch what they were doing and
+replicate any of that or is it always
+about coming up with something new um
+there are two schools of thought on that
+some people like Gary Vee says I don't
+even know what my competitors are doing
+because I'm too busy doing it myself
+I think that there's some health to it
+and some danger to it we do keep tabs on
+a few of our competitors just so we're
+smart about what's going on but we don't
+try to match them feature for feature we
+listen to our customers and if enough of
+our customers say I can't use your tool
+because the tool I currently use does
+this then if enough times that happens
+then we listen to that but I'm not going
+to look at what FreshBooks is doing and
+go oh they just came out with this now I
+got to come out with this because how do
+I know that that's what our customers
+want I don't one of here Ryan what's
+some examples of spaghetti you threw at
+the wall that didn't work very well
+Twitter trying a variety of things
+actually last year I talked on Twitter
+automation as an attendee talk it was
+something that we tried for a while and
+while it grew our follower base it
+didn't actually land in people signing
+up for our product so it was something
+that we determined was not worth our
+time to continue to pursue and that's
+just for our product for other products
+I talked to some people that said they
+heard that talk last year they
+implemented it and it was awesome so I
+really think that you can't you really
+can't predict how things are gonna go
+until you try them and test them on your
+own your own stuff
+competing in a crowded market and
+knowing that takes a lot of guts to go
+into business to try to get into that
+market so my question is how did you
+landed your first thing clients and how
+do you convince them that your solution
+was better than the status quo I think
+it started with us doing content
+marketing and paying for ads before we
+launched I mean so even though a lot of
+those people churned we still had people
+on our email list so when it came time
+to reboot harpoon we let all of them now
+we had changed a few things and we're
+back so we by starting with a list that
+that helped us to get our first
+customers but some of them were just
+friends of ours like people we met at
+conferences as freelancers we'd just be
+like hey we have this product now try it
+out and yeah we up but we also did a lot
+of paid advertising and that drove
+people at the beginning too that's how
+we got some of our first customers and
+one last one over here hey so that that
+whole recycling site was amazing by the
+way I'm wondering compared to like the
+more traditional stuff like of course we
+talk about emails here and email feeds
+and everything what percentage would you
+say roughly of your income or your leads
+or really any of that comes from that
+that sort of experimental third party
+like social media like pull in so like
+how much of our customers are coming
+from like that funnel that I showed like
+all the spewing of content all over the
+internet that is something we just
+started doing a couple months ago and we
+have not it's not a great percentage yet
+we still find the best return for us at
+this stage where we're at is launching a
+new feature and then emailing our list
+because inevitably there's people on our
+list that have not pulled the trigger to
+come to harpoon yet because we don't
+have this or that feature and so as we
+continue to plug these feature holes and
+we send it on email saying hey we just
+launched international support you know
+that was like a huge email that
+generated a ton of signups for us
+you know we just launched a Mac app
+there were people that were waiting for
+us to have a native Mac timer before
+they would join in so we launched that
+we sent out our email lists and then we
+get a ton of signups again so for us it
+is the feature completion emails that's
+driving the most sales at this point but
+all the content marketing that we're
+doing is continuing to funnel people
+into our list so that we have more
+people to email when we come up with new
+features so it's all kind of circular
+all right that's it Ryan thank you very
+much thank you
+you

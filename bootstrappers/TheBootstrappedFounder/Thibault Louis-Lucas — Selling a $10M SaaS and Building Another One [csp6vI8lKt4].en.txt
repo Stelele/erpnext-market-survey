@@ -1,0 +1,1518 @@
+﻿Arvid Kahl: Today, I'm talking
+to Thibault Louis-Lucas, a
+serial indie hacker who just
+can't stop building products
+that empower other creators. We
+chat about the joy of building
+and the motivation behind
+continuous entrepreneurship.
+Tibo shares his approach to
+building stable software
+products being acquired and then
+acquiring a SaaS product himself
+and what makes building in
+public so powerful for indie
+hackers with their SaaS
+projects. This episode is
+sponsored by acquire.com. And we
+will be diving into acquisitions
+today as well. So let's get
+right to our conversation.
+Here's Thibault.
+Thibault, you recently sold two
+businesses for over like $10
+million yet you didn't stop
+building. You didn't spend every
+day sipping drinks at the beach,
+like people dream of, right? So
+what's the motivation that
+you're still building stuff?
+What keeps you addicted to the
+hustle?
+Thibault Louis-Lucas: Well, I
+think it's just not money, I
+guess. It's like, for me, it's
+like playing Lego. Like when I
+was five, is it's just the most
+funny, the best thing that I
+would enjoy, I think, for the
+rest of my life, like building
+new thing and this unique
+feeling when people are using
+your products, you know. It's
+the best.
+Arvid Kahl: I know that feeling.
+I was talking to Sharaf or
+probably a mutual friend from
+Twitter just yesterday and I was
+describing what I was working on
+right now. And I got so excited.
+And he said, you kind of sound
+like my two year old, like my
+two year old child that just
+found a new toy. And I feel
+that's kind of what drives indie
+hackers. Right? This joy of
+building. Is that for you the
+best thing possible that you
+could possibly do?
+Thibault Louis-Lucas: I think
+the early stages of any new
+product, like no matter what
+you've built before, it's so
+unique, like this excitement and
+at the same time, like scared as
+of like not finding product
+market fits. It's like, yes,
+it's unique. And I think it's so
+much on the fence that if you
+have lived through this once you
+absolutely, you desperately
+wants to live it again.
+Arvid Kahl: Yeah, I bet. So it
+feels what it sounds like is
+that you kind of crave that
+initial stage. Is that right?
+Thibault Louis-Lucas: Yeah.
+Yeah, definitely.
+Arvid Kahl: Okay. Well, that's
+an interesting thing. Because
+honestly, my own experience,
+like you said, it's a
+frightening stage, right? You
+have to constantly think where's
+this gonna go? You have to do
+all these experiments. How do
+you deal with this pressure? Is
+that something that's just part
+of it for you? Or have you found
+ways to cope with it? And just,
+you know, be hopeful about the
+future outcomes of building?
+Thibault Louis-Lucas: Have you
+read this book, It Doesn't Have
+to be Crazy at Work?
+Arvid Kahl: Yeah
+Thibault Louis-Lucas: This is an
+awesome book. I definitely
+recommend it. It can totally
+change your perspective about
+how it should be at work. But
+for me, it's kinda the opposites
+on my own projects is like this
+pressure that you talked about.
+It's the one thing that we'll be
+looking for to like to motivate
+me on a daily basis to ship new
+things, to try to change how
+people are using my products,
+just look for new growth
+vectors. I don't know like
+everything that can drive new
+perspective, you use it like
+pure excitement. Do you see what
+I mean?
+Arvid Kahl: Yeah, it sounds like
+you just need a lot of variety,
+a lot of variations of the
+things that you do. Is that why
+you sold those businesses that
+grew to a certain point? Like I
+mentioned that you just a couple
+of years ago, I guess, at this
+point, sold both Tweet Hunter
+and Taplio for 10 plus million
+dollars, which is crazy. Is that
+you reached a ceiling and then
+you sold? Is that what happened?
+Thibault Louis-Lucas: This is
+definitely part of it. Yeah. But
+definitely not the only reason.
+The thing is, so my co founder
+wanted to sell a little bit more
+than I did. The truth is, I
+really thought at the time that
+we could go much further. And
+there was like in big decision
+like this, there's a lot of
+rational thing that you need to
+think about how like how we were
+platform dependent and that was
+before the Elon Musk drama and
+how Twitter turned into X. So we
+were very much platform
+dependents. And we were scared
+about that. And at the same
+time, we had this conversation
+with my co founder that the SaaS
+was skyrocketing. But we were
+definitely not getting a big
+money from the SaaS. So at any
+point, everything could
+collapse. And we would get
+basically zero from the success
+of our products. And you
+probably know a lot about
+Twitter and how Twitter has
+changed a lot in the last few
+years. But our second project,
+Taplio, is even more platform
+dependent on LinkedIn. Just
+because what we are doing there
+is a little bit more sketchy in
+the way that we are not only
+using the public API, but we are
+using our Chrome extension to
+get some additional data that we
+need to run the SaaS and it
+could happen that LinkedIn
+succeeded in blocking what we
+do. We don't think that will
+happen because I think they are
+benefiting from what we are
+doing that we are making the
+creator ecosystem on LinkedIn a
+bit bigger, but who knows.
+Arvid Kahl: It's so interesting.
+The browser extension thing is
+particularly interesting to me.
+Like, I remember, in my own SaaS
+Feedback Panda that we've sold
+in 2019, we did the exact same
+thing, like the platform that we
+were on these online schools in
+China, they did not allow us to
+be on but we had like a browser
+extension that would just like,
+go into the, you know, the Vue
+js data model and just extract
+data out of it and send it to
+our servers. So I guess, sketchy
+browser extension, I know
+exactly what it is. And I know
+that that is super dangerous,
+right? Because you're always
+playing with fire.
+Thibault Louis-Lucas: And by the
+way, this is such an indie maker
+thing, this is such a
+solopreneur thing in a way
+that's like, all those big
+companies, they just can't do
+that. Like they just can't allow
+the teams to do some shady dark
+things. And like, as an indie
+maker like, if you are looking
+for an ID something that where
+you would just be totally free
+of competition from the big
+guys, just go for a Chrome
+extension, doing some shady
+stuff with private API's from
+websites. It's a goldmine, you
+can do a lot of
+Arvid Kahl: That's funny. Do you
+ever feel like morally, you
+know, skeptical of that kind of
+behavior? Because obviously,
+shady here just means like
+you're doing stuff that is not
+intended to be. It's not
+criminal, technically. But it's
+kind of, you know, questionable.
+Do you ever wonder if it's okay
+to do these things?
+Thibault Louis-Lucas: Yeah, I
+think it's definitely a good
+question. My limit, my own limit
+is, am I putting at risk the
+accounts of the user that is
+using the products? And if no, I
+think I'm fine. So this applies
+to me, for Taplio as an example,
+to the LinkedIn user who are
+using Taplio are they putting
+their account at risk? And in
+the case of Taplio, the answer
+is no. They are not putting
+their account at risk. So I
+think we are fine. And we are
+making everyone happy there. So
+I will continue to do so.
+Arvid Kahl: Yeah, of course. And
+I think and you do, right? If I
+look at the history with Tweet
+Hunter at this point, I think I
+remember that there was a point
+in 2023 when it was kind of
+banned when Twitter banned the
+API access, probably because of
+automatic DMS, if I remember
+right. Can you tell me about
+that moment? I think it just was
+a week or so that you were
+offline? How did that happen?
+What did you do to get back? And
+how did that play into your, you
+know, risk calculations about
+the platform?
+Thibault Louis-Lucas: That's a
+crazy story. But just for the
+record, this happened after we
+sold Tweet Hunter. So that was a
+moments when we like we lost
+total access to Twitter, to all
+API endpoints. And that was the
+moments where we just told
+ourselves that we were so so
+right for having sold our
+business. But so the full story
+is that I think it was in March
+2023. So almost a year ago,
+Twitter announced that
+developers would need to go pay
+42,000 per month to keep using
+the API. And that was a crazy
+amounts, like it made a huge
+noise on Twitter. Basically,
+that was the end of indie
+hacking on the Twitter API. Only
+the big payers could afford
+that. And the thing is, they
+announced that, they said you
+have 30 days to transition, here
+is a form, fill it. And so we
+did that, we filled the form.
+And then we waited. And I think
+like four days later. So out of
+the 30 days, four days later, we
+got our API access totally cut
+off, like no warning, nothing.
+And we were not alone, like, two
+or three competitors had the
+same and we work together
+actually. That was pretty nice.
+We work together trying to find
+the good person to talk to at
+Twitter. It was crazy days
+because when nothing works, you
+are just refreshing your
+unsubscribe metrics. And it's
+bad. Like it's very bad. One
+thing is, so we had this very
+nice collaboration between the
+Twitter API people like me and
+one of our competitors tried to
+like to win out of this,
+trashing us publicly on Twitter
+and grabbing our subscribers. It
+didn't really work, but kind of
+made me sick.
+Arvid Kahl: It's a competitors'
+space, right? That's crazy.
+Thibault Louis-Lucas: Yeah, very
+and with this competitor,
+especially we don't have good
+relationships. But then like,
+two days later, we finally got
+access to the right person at
+Twitter. We worked together, we
+signed the contracts very fast.
+And we got back our API access.
+And so we got cut off from the
+Twitter API for like, 48 hours,
+I think. So during this time,
+we're just looking at people
+churning. And there was nothing
+we could do.
+Arvid Kahl: Did they come back
+when you had your access
+restored?
+Thibault Louis-Lucas: Yeah,
+definitely. And in the end, we
+just made the calculation and it
+was so so slow, like, I think
+less than 1% of the people
+churn. So it was more than an
+awful feeling than the actual
+truth, you know?
+Arvid Kahl: Yeah, yeah, I mean,
+it feels bad, right? That's the
+thing, once you have something
+like this happen to you and I
+had similar things with Feedback
+Panda, like the Chinese
+companies, they would just
+change their website and our
+integration would break and
+everything would break in our
+product because the data
+wouldn't flow any more. Right?
+It's kind of similar that they
+just cut off access to the API
+because they changed API. And
+once I noticed that, the error
+messages came in and customer
+service messages came in. It
+pulled me down, like my
+emotional status changed from
+happy developer into super sad
+developer. And then I had to fix
+it. And I had to talk to people
+and I had to, you know, like,
+deal with people churning just
+like you did. How did you deal
+with this emotionally at that
+point because a week is still a
+lot of time. Like, how did you
+get through this?
+Thibault Louis-Lucas: I think
+pretty much in the same way. So
+the prim where you are building
+in public, I guess, like we do
+is that you basically become the
+SaaS. So this is like Twitter is
+me, or at least it was me. So
+when Twitter is bad and buggy,
+it reflects on me and I take it
+personally. So I was feeling
+awful, even even if the tool
+already got acquired, like it
+was to me you know.
+Arvid Kahl: Yeah, yes. It's so
+crazy for indie hackers, how
+much identity we put onto our
+products, right? How much of our
+selves they are. I always
+compare this with like, there
+are kind of our children in a
+way that we made them, right.
+And we cared for them and we let
+them grow up. And then that
+makes it especially hard to
+actually give them away, right?
+It's like you offer your SaaS up
+for adoption, if you sell it, if
+you get acquired. Did that
+impact you at all? I mean, you
+stayed with the business, which
+is it's different. I guess you
+still have custody, but did that
+impact your emotional
+relationship with the business
+at all?
+Thibault Louis-Lucas: Not that
+much. Because, yeah, because
+basically, nothing changed in my
+involvements in Twitter. So,
+Tom, my co founder and I are
+still free managing the
+business. And that was one of
+the key points of the
+acquisition. We talked with some
+big players, companies like
+HubSpot and it felt awful to
+like to just project yourself in
+such a big company totally
+losing control on the products.
+And yeah, and just being just a
+little piece in this big
+company, you know, so that was
+like the major topic that we
+discuss with lempire, the
+company which acquired us and
+what made it very easy is that
+we have the same culture, same
+age, we live in the same
+country, speak the same
+language. I don't know if you
+know about that. But that so we
+started talking with lempire
+because their founder, Guillaume
+was basically in middle school
+with me. This is such a crazy
+story.
+Arvid Kahl: I think I remember
+this from a Twitter post that
+you made, like the history of
+the acquisition started, like
+when you were five, six years
+old or something. That's yeah,
+that is so cool. Tell me more
+about this. Like, do you keep in
+touch over the years? How did
+that happen?
+Thibault Louis-Lucas: We
+definitely not. No, we didn't
+stay in touch. The thing is, so
+when I started indie hacking, I
+looked up to this guy, like I
+learned about Lemlist and I
+found their story so crazy, like
+they grew so much. And they were
+a perfect example of how you can
+leverage your personal brand,
+how building in public can work
+so well. And so I reached out to
+Guillaume, just a tweet
+actually, like I tweeted Hi
+Guillaume, I think we were in
+middle school together. Are you
+hop for a coffee? And he said
+yes. And we just I think we had
+like lunch three times together,
+just talking about our products,
+just talking. And then we were
+not selling that at that points.
+And when we got into these
+willingness of selling the
+business, I just mentioned it
+with him. And he said, yeah, why
+not? And so we started talking
+more seriously about it. And the
+crazy thing is, I think we fixed
+all the details about the
+acquisition over whatsapp on two
+weeks. It went so fast. And for
+us, Tom and I, it was a clear
+signal that we were working in
+the same way, talking the same
+language, you know,
+Arvid Kahl: Yeah, that's kind of
+the indie hacker bootstrapper
+way of doing stuff, right? Not
+big lawyers, big contracts,
+meetings, or whatever, you just
+have a whatsapp chat and you
+just get the details figured
+out, that is an important part.
+And it's kind of that allows you
+for alignment, right, that
+allows for the kind of alignment
+that you know that you're going
+to be treated right in the
+future, that the product is
+going to be treated right the
+same way that you want it to be
+treated. And that you know
+everybody benefits from this.
+That's really cool. Now, you
+mentioned that you as a French
+business sold to another French
+business. Would you have sold
+internationally as well? Because
+that is usually more complicated
+to sell, you know, the whole
+business or even the product out
+of a business on a different
+level. Like do you think being
+in France selling to a French
+business made it easier for you?
+Or did you not care about that?
+Thibault Louis-Lucas: So we're
+definitely looking for selling
+internationally. We thought that
+selling to a US buyer would make
+the price way higher. The thing
+is Tweet Hunter and Taplio,
+always had very high churn. And
+those big American players, they
+were so afraid about churn. I
+don't know why but like
+Guillaume was not and like in
+this case, he was so right, just
+a bit of artist. I think when
+lempire acquired us, we were
+below 2 million in annual
+recurring revenue. And I think
+we are nearing between six and
+seven right now. So more than
+tripled the yearly revenue in a
+year and a half.
+Arvid Kahl: How did you do that?
+Thibault Louis-Lucas: So that's
+a very good question. I
+honestly, I don't have the exact
+answer. My strategy right now
+with Tom is do a lot. I really
+do more, ship more in terms of
+feature, SEO contents, social
+media contents. And the thing is
+a lot of those are fading, but a
+few of them are succeeding in
+very big ways. One of the
+examples is this yearly LinkedIn
+and Twitter growth challenge
+that we do, we never expected
+them to work that much. But they
+do like we're doing them between
+January and March, every new
+year. It's been in the third
+year right now. And every year,
+they are bringing so much new
+user who I think for every new
+year, just tell themselves this
+year is going to be the year
+where I'm going to be serious
+about Twitter or serious about
+LinkedIn. And we are trying to
+help them like motivate them on
+a daily basis with a platform
+with brankin with leadership
+with leaderboard and it works
+like it genuinely motivate them
+and it bring new subscribers to
+our products. So just by
+shipping more, doing new
+project, new products, new free
+mini tools, we are bringing in
+revenue.
+Arvid Kahl: That's awesome. Has
+the team increased in size as
+well after the acquisition? Are
+there more people working on it
+now, like feature wise or
+whatever?
+Thibault Louis-Lucas: A little
+bit more but not crazy, like we
+are between 8 and 10 people
+right now. But we have always
+remained very lean with the
+team. And I think that's a part
+of what makes us go very fast.
+And have this ability when we
+have an ID to just jump on D&amp;D
+and make it live, instead of
+going through three levels of
+validation, you know.
+Arvid Kahl: Yeah, for sure.
+Yeah, it does. I think it's so
+important also, once you have a
+small team or as long as you
+still have a small team, people
+understand the whole product,
+right? They understand how
+things are connected. And maybe
+more importantly, they
+understand the customer, the
+people who use it because they
+cannot be far away from it if
+the team is so small, which
+makes these kinds of events like
+you do like the challenge, it's
+just you understand why people
+need it because you understand
+their motivation. I think that's
+great. I think that's something
+you should be retaining for as
+long as possible. I love this. I
+love the idea of like building
+community. That's really cool.
+Thibault Louis-Lucas: And I
+think it was simply not possible
+before. And right now it is like
+thanks to AI and new tech, like
+serverless things like next
+year, so verser. It's definitely
+way more feasible to have a much
+smaller team and have one
+developer doing the work of what
+used to be like 10 developers.
+And it's crazy when I thought
+about, like, one of my previous
+job was CTO as a big scale up
+company. And I used to manage
+that 30 developers and like,
+going to production shipping
+euchre was still something that
+was need to be handled, you
+know, like it was going bad
+sometimes. And sometimes the
+entire production team like 30
+people aware had to work on
+updates because something went
+bad in the dev op process. And
+so this is basically non
+existent right now. There is
+nothing in updates on the server
+process that could go wrong. And
+it saves so much bandwidth for
+the team that we can just work
+on what really matters. And I
+think it makes developers much
+much, much closer towards the
+end user. That's everybody win.
+Arvid Kahl: Yeah, it's
+definitely an interesting
+development. I think I saw a
+tweet that you sent just very
+recently, that somebody from the
+team told you that they looked
+at the code and they were so
+stable, like the whole product
+was so stable. They did not
+expect that because from other
+jobs they had before everything
+was breaking all the time. I
+assume that's also my experience
+with software businesses that
+I've worked for in the past. How
+did you make that happen? How
+did you build a product that is
+so stable? I think you have the
+saying, like ship like it's day
+one, but built like it's gonna
+last forever or something like
+this. Can you elaborate a bit on
+the strategy that you have for
+your software development
+Thibault Louis-Lucas: I'm not
+the one who said that. But it's
+process?
+nice motto. Yeah, I think I'm
+definitely not like Pieter
+Levels in this, like, I'm not
+using these PHP thing and all
+tech. I'm very pro new tech,
+like next year. And I think it's
+like, it's a game changer for
+me. The way you can just update
+your code and have some saves
+words on versary to just warn
+you when something is going bad.
+I think it's life changer.
+What's really interesting about
+Tweet Hunter and Taplio. And I
+think a lot of AI based
+software, something like copy.ai
+does that too, is that it's able
+to provide a lot of value with a
+lot of different small tools,
+which are not too much
+dependence on the one from each
+other. So it creates less tech
+complexity and so way less bets.
+Arvid Kahl: That's an
+interesting observation. That is
+kind of a new thought for me
+because to me, anything I add to
+a project increases complexity,
+but yeah, if you think about
+them as kind of standalone
+things, that definitely just
+yeah, if you can encapsulate
+them. I want to talk to you
+about AI because that's like,
+you know, buzzword hype word at
+this point for a lot of people
+and a lot of the indie hackers,
+indie makers in our space built
+on top of AI and have been
+building on top of AI for years
+at this point, do you see? I
+obviously there's a lot of
+benefits and there's a lot of
+opportunity there. But do you
+see risks? Because that's
+something that as a German, I
+need to know. I need to know
+where the risks are. I want to
+see what the potential drawbacks
+might be. Have you encountered
+any problems with the use of AI
+technology? Or do you consider
+that there might be some in your
+future?
+Thibault Louis-Lucas: So like,
+I'm, I just, I can't stand
+enough the enormous and huge
+opportunity that AI represents.
+I'm not so much thinking about
+AI risk for now. So of course,
+I'm super scared about how AGI
+could go wrong. Andthat's a
+topic that I monitor closely.
+Like, I'm doing some weekly
+research about that about new
+AGI stuff. But like for for
+like, right now, when you look
+at indie makers work, I think
+the only thing where AI could go
+bad is things that you can see
+on Twitter already is that open
+AI goes down. And so basically,
+your product doesn't work
+anymore. Or a user finds a
+loophole in your products. And
+he's about to like generates
+1000s or millions of things. And
+basically, you will end up with
+1000 euros bill to pay to open
+AI. And that's like that's the
+two major issues that I see
+right now. Except from that, I
+don't think anything is
+happening right now that could
+really negatively affects
+developers and indie makers.
+Arvid Kahl: Well, thanks for
+pointing this out. I think
+that's very important, like the
+platform dependency, the
+platform risk on top of open AI
+on one side and the abuse versus
+the financial abuse risks on the
+other. I think if you're as an
+indie hacker want to start
+anything with AI at this point,
+you should definitely try to fix
+both of these before you go
+live, right? Or at least make
+sure that you have ways out of
+them obviously, can't really do
+much about the open AI, although
+local AI is something that I've
+been looking into over the last,
+just myself on my own projects
+over the last couple of weeks.
+I've started to run, you know,
+like llama or Mistral, just LLMs
+on my own computer on my Mac
+Studio. And they're surprisingly
+fast. Like it's not GPT4. It's
+not the multimodal model that we
+know from there that is so
+incredible but you can do a lot
+on your own systems right now.
+Have you looked into this? Have
+you looked into kind of de
+risking that particular platform
+feature if you use open AI at
+all?
+Thibault Louis-Lucas: So not in
+the same way because I really
+don't want to run my own
+servers. But yeah, using Mistral
+with another provider? Like I
+think I've been looking at open
+router. Yes, it can definitely
+save your ass if open AI equals
+done which had happened a few
+times in the last years. So that
+definitely is an eye thing.
+Arvid Kahl: Mistral, isn't that
+also a French company? What is
+it with these amazing products
+coming out of France? That's
+awesome, right?
+Thibault Louis-Lucas: It's like
+that's, I think that's we're so
+proud to be French. It's crazy
+because like when the EU started
+regulating AI, like, I think
+everyone in the EU wanted to
+like leave and was ashamed about
+their own government. Right now
+with this French company doing
+this. I'm so proud to be French
+Arvid Kahl: Yeah, I bet. It's
+really cool. I mean, it's
+again.
+generally interesting. The
+French indie hacker scene, by in
+itself is very interesting. A
+lot of interesting products come
+out of it. And a lot of
+interesting founders are just
+very present in the global
+community as well. I find that
+very interesting. I don't feel
+the same about the German indie
+hacker scene at all. Like there
+are lots of people from there as
+well but it feels like the
+French industry has more impact
+on my life than you know, the
+German industry that German
+indie hacker field has which is
+just an observation that I made
+and you are still located in
+France, right? Have you ever
+considered like nomading around
+to like the Danny Postma and
+Pieter Levels of the world? Is
+that something that you've ever
+thought as indie hacker?
+Thibault Louis-Lucas: I did
+Arvid Kahl: Oh, yeah
+Thibault Louis-Lucas: Like I did
+like I live six months in
+Thailand. I met Pieter Levels
+there. I also lived in Bali and
+I met Danny Postma there and so
+it's a little bit harder for me
+because I have a kid. And so
+like everything needs to be
+consider much more in advance.
+You need to find school. You
+need to find daycare. It's like
+everything is more complicated.
+But yeah, I love nomading. And
+the best people, the most
+interesting people I've met was
+during that time, you know, like
+in Bali, we had this group of
+people between 10 to 30 people
+depending on the week, where
+every week, we were gathering
+together and do some indie
+hacking together. From nine to
+four, we were coding, every one
+on his own thing. And from four
+to five, everyone was demoing
+what he builds and all the
+people there were giving
+feedback. And I enjoyed this so
+much because indie hacking can
+be so lonely, like sometimes
+you're alone dealing with your
+own problems, it's hard to find
+a way out. And sometimes just
+someone there with a small ID
+can pinpoint something totally
+changing your perspective and
+giving you fresh ideas. And so,
+I love that. We went back in
+France because our kid is
+growing and we wanted to be
+closed family. But honestly, I
+missed that.
+Arvid Kahl: Is there a similar
+community? And I guess Paris
+where you live right now, is
+there like an indie hacker
+community that helps each other
+or is that less so than as it
+was?
+Thibault Louis-Lucas: Definitely
+less. I think that the problem
+with Paris and every big city in
+the world is that people grow
+with their own group of friends
+and they are not that very much
+looking for new people to meet.
+And that's definitely not the
+case in Barie. In Barie, you
+just get there and you get like
+30 invitations the first week
+because everyone wants to meet
+new people, which is awesome.
+Arvid Kahl: So cool. It's really
+nice. I've never been in the
+Nomad world because I always
+just been living in my basement
+or you know, sitting in front of
+my computer, never much of a
+traveler, but it sounds like a
+very, very enticing thing. Like
+if I was 20 years old again, I
+probably would do just that. I
+think Pieter always says like,
+it's super cheap anyway. And
+it's kind of an education in
+itself. Right? So you might as
+well do it. So that is cool. Do
+you still travel? Maybe that's
+an interesting question with
+projects that you work for like
+this and new projects, which I
+would like to talk about in a
+minute. Do you still find time
+to travel or is work and golfing
+your life at this point?
+Thibault Louis-Lucas: So I've
+been traveling a lot in the last
+three years, which is pretty
+much the same time at which I've
+been very busy with my projects.
+So my projects were definitely
+not blocking me in my powers.
+Right now, I'm serving way less
+because of family stuff, because
+my wife got a new job. And
+because we have a new kid coming
+soon, which is gonna, I think is
+gonna make us a little bit
+longer in France. But who knows,
+maybe we'll start again nomading
+in the next few years. I don't
+know.
+Arvid Kahl: Yeah, I mean, that's
+the thing with nomading. You
+could just figure it out as you
+do it. Right. That's part of the
+fun of this. But that is
+interesting. So new kid, also
+new side project or new project,
+I guess. I want to talk to you
+about the latest thing that
+you've been spending a lot of
+time on, I guess, and talking a
+lot about. You've been acquiring
+a business, which is, like I
+said, when I opened up this
+whole conversation with why do
+you still code and why do you
+still work? I guess Typeframes
+is the next thing, right? It's
+the next thing you're going to
+be working on and you're working
+on right now. Can you explain to
+me, first of, what got you into
+video creation and where you
+want to take this business?
+Thibault Louis-Lucas: So I've
+been tweeting for like, three
+years right now. And especially
+with coming, I've seen their
+content stencils going from like
+texts to very much media based.
+And I'm pretty sure that
+Twitter, which was not a video
+platform was not an image
+platform is going in that
+direction. LinkedIn is the same.
+And so my feeling is that
+everything is going to be video
+based, basically or at least,
+like more video based than what
+it was before. And I found
+Typeframe. And that's
+interesting story, in the last
+like in the last three years to
+support Twitter interview, we
+acquired like, I think 10 new
+products, tiny products, which
+was mainly the work of indie
+maker for like a day or a week
+or maybe a month. And so all
+those products that we acquires
+have been votes for traffic,
+that's then supported the growth
+of Twitter and Taplio. And one
+day, I found out about Typeframe
+on Twitter. This guy, Liam was
+releasing Typeframe and made a
+lot of noise on Twitter. People
+loves the products and so it got
+released. People that
+subscribed. But then something
+happens. I think the end just
+simply stopped working on
+timeframe. I don't know exactly
+why, like if he got bored of the
+products or if he had stuff in
+his life that made him want to
+focus on other things. But the
+thing is, he pretty much stopped
+working on Typeframe. And that's
+where I reached out. And because
+we acquired a lot of products
+with Twitter during Taplio, I
+knew a bit about how to deal
+with this kind of acquisition,
+like small products acquisition.
+And I found a way to make a deal
+happen with Liam and Liam
+trusted me in acquiring the
+products with a specific kind of
+data where I didn't have the
+money to, I did want to invest
+the money, the full money of
+what I think Typeframe was
+valued. But we find the data
+where we'll get revenue share of
+everything that Typeframe's
+going to generate in the next
+few months or years, depending
+on how much it generates. And so
+that did happen in September.
+Typeframe was not a subscription
+based product. I switched it to
+a subscription based products.
+And from September to December,
+we went from zero to 4k in
+monthly recurring revenue. And
+it's growing.
+Arvid Kahl: That's so cool.
+Thibault Louis-Lucas: So nothing
+is done. Nothing is done.
+There's just a lot of things to
+work on. But it's super
+exciting. Way more tech
+demanding, I guess, that there's
+so much to do when you have a
+video based products.
+Arvid Kahl: Do you consider this
+like a side project? Or is this
+like one of the main projects
+for you? Like where does it fit
+into your existing job or
+existing work that you do on the
+other products that you're going
+to still managing?
+Thibault Louis-Lucas: It's
+definitely a side project for me
+because like my main focus right
+now is still on Twitter and
+Taplio. But thanks to the
+acquisition, I have some money
+around. So I hired a developer.
+And we're working together on
+making Typeframe a little bit
+bigger. So this developer's main
+focus is Typeframe. So we are
+able to sustain a pretty good
+shipping speed. And I hope
+that's with the structure is
+going to be enough to succeed in
+some way in the Twittersphere.
+I'm also trying to like since
+this structure has been pretty
+much successful, like going from
+zero to 4k monthly revenue, I'm
+trying to actually launch a new
+side project on the side so I
+can't say too much right now.
+But I hope that some new things
+can come out in 2024.
+Arvid Kahl: It is so crazy. This
+indie hacker way of just
+launching stuff all the time.
+Like you just started another
+thing. Well, why not build
+something else? I know the
+feeling. I'm working on another
+thing as well just now. I can't
+help myself because it's just so
+interesting, right? The
+technology, the field you're
+operating in. Let's talk a
+little bit about video. I think
+you're absolutely right. Like
+it's not I think unsurprising
+that yesterday as of this
+recording, I think was the first
+Mr. Beast video that was fully
+posted to Twitter. Right? That
+was a big thing like Elon Musk
+posted. I think within three
+hours, the Mr. Beast video got
+18 million views just because it
+was the first like hour was it
+like 15-20 minute long Mr. Beast
+video that was natively put on
+Twitter, not on YouTube. And
+it's like, that is a signal,
+right? Like if people with this
+kind of following and this kind
+of presence celebrity even
+choose this platform for their
+content, that is a very, very
+strong signal. So maybe the
+question is, as indie hackers,
+as people who are super busy
+already launching new products
+all the time, how much energy
+should we put into creating
+video based content? Because
+it's easy to tweet, kind of you
+still have to have something to
+say, but making a video, that's
+a lot of work, scripting and
+recording or using tools to do
+it. Like how much time would you
+recommend for indie hackers that
+are still building to spend on
+video creation?
+Thibault Louis-Lucas: So I have
+to admit that I have a very
+limited knowledge about that and
+probably you know more than me.
+I think my only take would be
+that I think when you are
+starting doing some video based
+contents, we are overthinking it
+in the way that maybe you don't
+need the scripts, maybe you
+don't need to edit your video,
+maybe you just need to play
+starts, mess around with your
+own tool, screen record at the
+same time and pause the video as
+it is. Maybe
+Thibault Louis-Lucas: And I
+think I'm a big believer of
+Arvid Kahl: I love this. And
+it's also more honest, right?
+It's just like building in
+public sharing the actual
+reality of your life, not kind
+of the fancy glossy Instagram
+like, quantity leads to quality
+in a way that's if you if you
+version. I agree with you and
+particularly screencasts if you
+follow a couple rules to make it
+usable. It doesn't have to be
+look at the perfect setup right
+at the beginning, you will
+fancy. It just has to be true.
+simply not start anything, or at
+least 90% of the people will not
+start. And so you just have to
+start with a messy setup, doing
+messy contents, crappy video and
+just ship them and be okay with
+the shame of shipping them and
+use that shame to actually do
+better the next time. But never
+miss a day or never miss a week.
+I don't know what your schedule
+is going to be.
+Arvid Kahl: I love this. Because
+if you listen to the first
+episode of this podcast that was
+just an audio podcast in the
+beginning, I think I got the the
+worst mic I could possibly buy.
+Like the one with the most gain
+and the most background noise,
+the Yeti the Blue Yeti was
+really not for that. And I
+recorded like dozens of episodes
+with that trying to fix the
+crappy audio and post. It was so
+horrible. It's better now. But
+if you listen to this episode
+and you listen to the first one,
+there's a massive difference.
+And honestly, I am proud of that
+difference. Right. And I've
+talked to so many creators that
+are proud of the steps they took
+to become better. And that you
+can still see it. It's like you
+have traces, you leave traces of
+your increasing skill, like
+you're learning in public by
+leaving those artifacts of your
+skill level at every single
+point. I very much agree with
+you. It's better to constantly
+than to always over edit, right?
+Thibault Louis-Lucas: That is so
+true, like this feeling when you
+look at your first tweets
+compared to your last tweets.
+It's insane like this self
+realization of how you got
+better. So actually I think you
+need to ship crappy content at
+the very start just for that.
+Arvid Kahl: I think so too. And
+you can always improve, right?
+There's always, particularly as
+you do it in public, there are
+so many people that have
+opinions that have feedback for
+you, if you just talk to them.
+If you just show it to them, you
+will find something that will
+make the thing better. Because
+hiding away in your basement and
+coding and coding and coding is
+not going to solve the problems
+that you're not aware of. So you
+really have to push it out and
+you have to share parts of it so
+that people can see the whole
+picture. That's something you do
+really well. I think you do a
+great work when it comes to
+building in public and sharing
+those steps along the way. So
+thanks for doing that.
+Thibault Louis-Lucas: I think
+this is something that has been
+game changer for me compared to
+my two first fading startups is
+that when we shipped we're going
+to the support link at the very
+bottom of the page. We're
+redirecting people to my own
+Twitter DMS. And so I got the DM
+in real time and I was checking
+all day long. Like I was
+definitely not doing all the
+very good advice that you can
+see on Twitter right now. We
+should like, check your DMS once
+a day. I was definitely not
+doing that. And I was able to
+listen, see a feedback and try
+to implement the fix in like
+five minutes. And when when I
+was doing that, that few users
+that was watching while I was
+doing it, got super impressed.
+And I think that was like, both
+the awesome feeling that you get
+as a user when you are hurts and
+at the same time, the product
+improvements that was based on
+actual feedback, both of that
+was super, really contributed to
+the success of that.
+Arvid Kahl: Yeah, it's just,
+it's validation, it's people
+solving your problems for you by
+telling you what they need and
+showing where the difference is
+between what your product does
+and what it should be doing. I
+think that's a great idea.
+Honestly, I'm doing the same for
+pod line for my latest thing
+that I've been building like my
+support, it's just my Twitter
+DMS as well. People have a
+problem, they can tell me and
+then I can fix it for them. And
+honestly, I think a quick
+response time to this direct
+message. And then building the
+feature or fixing the bug and
+immediately pushing it to
+production, that feeling and
+that not just for the developer,
+but for the person that had the
+problem, that feeling that
+somebody took you seriously and
+solve your problem right there,
+like within minutes, that is
+something that will make them
+turn them into the biggest
+evangelists you could possibly
+have for your product. Like
+that's kind of a little
+marketing outsourcing that you
+do. This person will talk about
+you and your product positively
+forever. It's really, really
+powerful.
+Thibault Louis-Lucas: That's so
+true. And just something else
+about that is when you hear
+about a lot of people what
+they're saying on Twitter is
+that it's so easy to get started
+a new product when you have 100k
+thousand followers. And of
+course it is that you get an
+acquisition boost at the very
+beginning. But when you have
+zero audience, you have this
+unique advantage is that you are
+reachable. Just look on Twitter,
+see people like Danny Postma or
+Pieter Levels, they just can't
+check their DMS, they just can't
+listen to every user. I think
+when you are getting started and
+when you have new audience yet,
+you can do that. And I was able
+to do that. I'm just not able to
+do it anymore right now.
+Arvid Kahl: Oh, you and me both.
+I think like I have over 100,000
+followers at this point. And
+it's just unmanageable. The UI
+is just not good. And they don't
+give you API access to DMs so
+you can't build something
+better, which is also a problem
+with Twitter at this point,
+right? I guess you can try. You
+can use probably private API's
+to build shady stuff, but it's
+horrible to manage. So you're
+absolutely right, like DMS, if
+you're just under, I don't know
+what? 10, 15, 20,000 followers
+or whatever, you can still
+manage this. After that it
+becomes a bit of a problem. But
+even at that point, it's
+complicated. But yes, being
+reachable is an indie hacker
+advantage that nobody else has,
+right? You are a human being,
+you're a person and you can
+connect with your customer on a
+level that no business ever
+could. That's really cool. Well,
+maybe let's take this
+opportunity to give people the
+chance to connect with you.
+Where would you like people to
+find you and follow you on your
+journey building these big
+projects that you sold already,
+still building them up and
+building new side projects, of
+which I don't even know what the
+next one is going to be? Where
+can people follow you for that?
+Thibault Louis-Lucas: I think
+the best way to follow up about
+like my journey is Twitter. I'm
+Tibo on Twitter. And I try to
+answer to every single of the DM
+I get still. It's hard but I do.
+And I also have a newsletter,
+which is tibo.beehiiv.com. I've
+just started this newsletter. So
+if any one of your listener is
+going to subscribe and if you
+want to, like share any feedback
+about it, feel free to do so.
+That would make my day.
+Arvid Kahl: Well, let me share
+some feedback. It's an amazing
+newsletter because not only do I
+always read it when it comes in,
+which is rare because I tend not
+to check my emails too often.
+But yours is really cool because
+you always have something
+really, really useful in there.
+And we talked about several
+things from your newsletters on
+this conversation, right? Your
+year-end review for 2023 and all
+the little things that happen
+along the way that comes from
+your newsletter as well. So
+thank you for writing this. I
+highly recommend subscribing to
+it. And I will keep following
+you on Twitter because you're
+just a wonderful source of
+inspiration and insight into
+building indie hacker
+businesses, which is really,
+really cool. Tibo, thank you so
+much for being on the show. That
+was a wonderful conversation.
+Thibault Louis-Lucas: Thank you
+very much, Arvid. Thank you very
+much for having me.
+Arvid Kahl: And that's it for
+today. I will now briefly thank
+my sponsor, acquire.com. Imagine
+this, you're a founder who's
+built a really solid SaaS
+product, you acquired all those
+customers, and everything is
+generating really consistent
+monthly recurring revenue.
+That's the dream of every SaaS
+founder, right? Problem is
+you're not growing for whatever
+reason, maybe it's lack of skill
+or lack of focus or play in lack
+of interest. You don't know. You
+just feel stuck in your business
+with your business. What should
+you do? Well, the story that I
+would like to hear is that you
+buckled down, you reignited the
+fire, and you started working on
+the business not just in the
+business, and all those things
+you did like audience building
+and marketing and sales and
+outreach, they really helped you
+to go down this road, six months
+down the road, making all that
+money. You tripled your revenue
+and you have this hyper
+successful business. That is the
+dream. The reality,
+unfortunately, is not as simple
+as this. And the situation that
+you might find yourself in is
+looking different for every
+single founder who's facing this
+crossroad. This problem is
+common, but it looks different
+every time. But what doesn't
+look different every time it's
+the story that here just ends up
+being one of inaction and
+stagnation. Because the business
+becomes less and less valuable
+over time and then eventually
+completely worthless if you
+don't do anything. So if you
+find yourself here, already at
+this point or you think your
+story is likely headed down a
+similar road, I would consider a
+third option and that is selling
+your business on acquire.com.
+Because you capitalizing on the
+value of your time today is a
+pretty smart move. It's
+certainly better than not doing
+anything. And acquire.com is
+free to list. They've helped
+hundreds of founders already,
+just go check it out at
+try.acquire.com/arvid, that's me
+and see for yourself if this is
+the right option for you, your
+business at this time. You might
+just want to wait a bit and see
+if it works out half a year from
+now or a year from now. Just
+check it out. It's always good
+to be in the know.
+Thank you for listening to the
+Bootstrapped Founder today. I
+really appreciate that. You can
+find me on Twitter @arvidkahl.
+And you'll find my books and my
+Twitter course there too. If you
+want to support me and the show,
+please subscribe to my YouTube
+channel, get the podcast in your
+podcast player of choice,
+whatever that might be. Do let
+me know. It'd be interesting to
+see and leave a rating and a
+review by going to
+(http://ratethispodcast.com/founder).
+It really makes a big difference
+if you show up there because
+then this podcast shows up in
+other people's feeds. And
+that's, I think, where we all
+would like it to be just helping
+other people learn and see and
+understand new things. Any of
+this will help the show. I
+really appreciate it. Thank you
+so much for listening. Have a
+wonderful day and bye bye.

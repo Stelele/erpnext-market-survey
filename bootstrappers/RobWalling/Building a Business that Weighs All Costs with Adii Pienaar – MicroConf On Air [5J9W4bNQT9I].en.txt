@@ -1,0 +1,812 @@
+﻿this is live streaming folks it is um
+having a video that you're trying to
+play in the audio just doesn't work
+sometime thanks so much for showing up
+for today's episode of micro Kampf on
+air as always I'm your host Rob walling
+that video that was playing with no
+sound was actually was about a 90 second
+announcement video for the micro video
+vault that we've launched today on
+YouTube and if you head over to
+youtube.com
+you tube comm slash micro conf you will
+see 170 hours of videos taken over about
+just under 10 years of micro comps and
+it's a hundred and ninety four talks I
+believe from attendees and from folks
+you know I have six seven of those
+myself
+I even a to Jason Cohen Joanna Wiebe
+Heating Shaw steli efti you know a lot
+of the household names that you've come
+to know and love and we have talks
+dating back to 2012 and running all the
+way up until micro conf Europe here just
+a few months back about six months ago
+feels like a year ago but it was just a
+few months ago so if you check that out
+if you haven't already we'll be
+uploading new stuff periodically to that
+obviously microphone here gets uploaded
+there but in the future you know as we
+run events assuming we're able to run in
+person events again at some point we'll
+be uploading those videos so give it a
+look you may have received an email as
+well if you are part of the micro conf
+email list so micro conf on air twice a
+week we live stream for about 30 minutes
+and we cover topics related to building
+growing startups that are ambitious and
+fit within the goals of being a
+reasonable human being and having a
+reasonable life and today I'm gonna be
+welcomed in just a moment by ATP and our
+but first I want to let you know if you
+have any questions for me or ad you can
+go into my can go to micro cough connect
+calm and apply to be part of our founder
+and aspiring founder select channel and
+we have I believe more than a thousand
+people now and really good conversations
+going on is heavily moderated and it's a
+really good group of people so if you've
+attended micro comps or your your you
+know even if you haven't frankly you
+should come check it out and just you
+know kind of
+commiserate with other founders the
+micro come on air podcast is live and
+all the pod catchers you can search for
+Michael on air anywhere and you will see
+these at what we're gonna do for now is
+put these episodes of the audio of these
+episodes in the feed and as we go on
+obviously we'll have more you know audio
+content at some point of varying degrees
+as always thanks to Basecamp and stripe
+our headline partners for the year it is
+great having them on board and all it
+just makes all of this easy and all of
+this more possible so today I'm gonna
+welcome my guest 80 P&amp;R he is the co he
+was the co-founder of woo themes later
+became WooCommerce and sold to automatic
+and he started converse EA which was
+email marketing for e-commerce stores
+and he sold it to campaign monitor about
+six months ago he actually came on
+startups for the rest of us and we had a
+really good talk about that if you want
+to hear more about it and 80 and I are
+gonna dig into something he has he has a
+lot of thoughts about cost-cutting
+layoffs how to plan for economic
+downturns that kind of stuff so 80
+thanks so much man thank you come on the
+show thanks having Robin just to note
+about the voltage I got the email
+yesterday about the vault and there's
+actually talk of mine with hims days
+like blast to the past back in 2012
+which is still one of the most memorable
+events and in terms of networking many
+other relationships I made there like
+it's still friends to this day I never
+have played a significant role in my
+life so anyone else out there could
+check out 280 back in 2012 for sooner
+kind of some historic fun man yeah
+thanks and that's a that was a good talk
+I remember back in the day that's the
+first time we met in person yeah it's
+fine like Mike brings us together you
+know so let's let's dive in here um you
+you said to tweet out
+I don't know examiner couldn't bring it
+up in the on screen but if not all just
+already it you sent a tweet out let's
+see
+it was April 15 so it was about six days
+ago and you were talking about Carta
+which used to be known as a shares and
+they have raised a total of like 450
+million dollars over the course of eight
+years but they are they did a big layoff
+right they laid off about 16% of
+their employee base and there it just
+got a conversation going you know and a
+lot of people are thinking about this
+this topic right of should you do
+layoffs what what out of layoffs will
+work when do when do they work how
+should we be treating folks during this
+time so I'm curious to kick us off like
+to hear more of your thoughts you know
+you're thinking behind that idea of us
+cutting in layoffs during a downturn
+like this yeah I think Rob the context
+here with with carton for kind of people
+whatever initially kind of triggered me
+beyond the the kind of the real human
+aspect of this year which i think is the
+more important and kind of broad your
+perspective but what triggered me with
+with Carter here was that this was a
+growing company doing really well that
+raised about three hundred million
+dollars
+twelve months ago and it's supposedly
+just kind of you know going to be a
+crossing T's and dotting eyes on a new
+200 million dollar deal and that struck
+me as this being kind of little bit
+disconnected with the reality of them
+you know within kind of you know say
+three months all right so the pandemic
+and the economic downturn how to layoff
+16 percent of people and I think what
+that's kind of the the reason why that
+triggered me was just this that kind of
+notion of how shareholders in a business
+have very different needs and once from
+that business compared to the actual
+people in the business rights and I said
+I think I went through a whole range of
+different tweets on the matter right
+right kind of ranging from like pure
+kind of outrage to eventually kind of
+you know toning it down a little because
+ultimately I am kind of you know I am
+that you know armchair critic here I'm
+the kind of you know quarterback on the
+on the couch I I do not have all the
+information and I think any kind of lay
+off here is you know having to lay off
+people is always very hard I did the
+same thing as putting for context here
+in about 2017 and of 2017 we laid off
+two people on a small team we were 13 to
+14 people at that stage right which
+probably equates to that same kind of
+fifteen sixty percent what's that what
+it was in the mouth right and the reason
+we did that was I had made a mistake as
+a CEO I had missed started the company
+financially and had left us I think the
+kind of in November 2017 our thank them
+mail bank balance at the end of the
+month was less than ten thousand dollars
+an hour over the kind of your overheads
+were beyond $100,000 at that stage and I
+couldn't pay myself that month right so
+I I can I've been on that side as well
+so I like there's parts we in that
+understand this but I also know that
+kind of sense that points like the the
+kind of the two years after that leading
+up to our acquisition last year I
+changed many things with regards to the
+business and how can we ran the business
+to make sure that that would never
+happen again new to me because I think
+as you know as a co-founder as a shield
+or you know a leader in the business I
+think that experience sucks
+obviously kind of it sucks even more for
+you know the person actually being made
+often you know having their whole life
+you know livelihood and lives basically
+disrupted due to that kind of decision
+that is beyond their control yeah I feel
+like fat as founder CEO there are kind
+of two views that I've heard on this and
+one is I never want to do layoffs I just
+never want to have to be in that
+position and there are other founder
+CEOs who view it as it is a it is just a
+course of doing business like we are
+gonna grow and every X amount of year is
+whether it's a downturn or whether it's
+you know another reason that we are
+gonna have to do layoffs every so often
+have you encountered that as well in you
+know talk to two CEOs or do you hang out
+more with the people like us because but
+you and I are in the same camp I don't
+ever want to have to be layoffs right
+yeah I think so I have actually not been
+around that many people that have had to
+do you forced layoffs right I mean and
+this isn't I think the kind of just
+getting the verbiage right and kind of
+right here like you know lay office
+I think locally in South Africa we call
+it betrayal retrenchment right
+retrenching someone right so it's not
+the same as firing someone for
+underperforming and
+like that might it's essentially a kind
+of a legal container for you to kind of
+get rid of people in the business
+because you need to kind of free up kind
+of your cash flow and expenditure right
+so and most of those does are forced
+right there's very specific rules like
+you know and regulation around what you
+are and aren't allowed to do with those
+things
+so I actually haven't been around many
+people that have done that what is
+interesting is it seems though layoffs
+are a very very big thing in mainstream
+tech media right like we see the and and
+then you ask yourself like what are the
+kinds of companies that generally get
+covered in mainstream tech media and why
+are they laying off people yeah that's
+it is really it's shockingly common
+especially within us in Silicon Valley
+and with big venture funding companies I
+was surprised I'm not sure that all the
+layoffs that I've heard about have been
+covered by mainstream tech and when when
+a company raises ten twenty thirty
+million you know it can't be surprising
+which I think is what you were talking
+about with with the Carter thing
+whenever I hear of a big layoff of a
+company then I have inside info on I
+know they still have a bunch of money in
+the bank I'm always like what is this a
+mistake is this a are they just calling
+the bottom ten percent of the company
+and saying well these folks were
+underperforming or did they make a
+strategic decision you know and I think
+the case we're in today is more of an
+economic potentially the potential of a
+real economic downturn and I think
+that's something that that more
+companies should prepare for i I have
+it's a bit of a knit with me
+when someone who hasn't run a business
+through like a downturn like this cuz
+it's been what 11 years since our last
+if there's people you know there are
+financial advisors who are like in their
+mid-30s advising people who have never
+dealt with a bear market that's crazy
+right and the same thing their startup
+founders who were who were twelve years
+old or fifteen years old during the last
+crisis and it's just such a different
+it's such a different paradigm so I'm
+curious to hear your thoughts like how
+can you plan you know as a founder as a
+business owner what are some ways that
+you can plan for this type of economic
+downturn very you know assuming that we
+don't know if our current downturn is
+gonna send us into a global recession
+it's very likely to but we don't know
+how long that will last right because we
+don't know if it's gonna snap back when
+everyone comes back to work so how are
+you thinking about this and what advice
+would you have for founders yeah and you
+know Rob I think because I think that
+perspective is quite right in terms of
+saying like many many you know current
+day founders entrepreneurs they've never
+experienced this right so this is a new
+thing for many people I mean even like
+it and to get off my own high or here I
+mean routines was found at 2007 just as
+we're getting out of course starting the
+recession riots back then luckily kind
+of booth in Florida wave to that I would
+say somewhat benefited from the
+recession right because we were
+democratizing something it was much more
+expensive back then so it's it even for
+me these are interesting times I think
+if I didn't have that artificial more
+specific event within conversion where I
+had to lay off people and need to make
+the business I probably also would not
+have much kind of perspective and
+experience about this but I think to
+that point is my identity your hopefully
+touch where we never have a pandemic of
+this kind ever again right but I think
+the way I've been thinking about this is
+there's altima t1 needs to consider that
+there might be macro kind of things
+happening in the world around your
+business things you don't have control
+over things you can't anticipate and
+were you thinking about what what
+resiliency looks like you know for a
+business to kind of navigate those times
+as best possible right and I think the
+the way I like to think about that is
+you know the concept of elasticity right
+so we mostly understand that see in the
+context economic context or price
+elasticity for example but really kind
+of thinking about what expansion and
+contraction looks like what kind of
+slowing down speeding out it looks like
+and how you can like most constantly do
+that right so if a reader comes down to
+two things I think it comes down to you
+kind of it's saving money and trying to
+save money every single month in a
+business trying to not run one's
+business at the kind of very very tight
+margin that when things change you you
+suddenly have to kind of take big
+decisions by playing off 16 percent of
+people so I think like really
+sure that there is margin left and you
+say with that money and then the second
+part is for me is around diversification
+and again like neither these two things
+are your concepts that I think
+entrepreneurs are you know but kind of
+estranged too but really diversification
+in terms of what do I do
+as a founder for my personal kind of
+financial situation all right so can I
+diversify some of the this financial
+success that I have in the business and
+not have everything tied up there and
+then the reason I think that is
+important is that if if I know that my
+personal financial situation is secure
+at least I'm also less likely to take
+radical kind of you know almost
+impulsive you know big actions when kind
+of a difficult kind of situation it's
+right so so that the diversification but
+then I think there's also that
+diversification for one's team like
+where there is a way to help one team
+diversify in other ways whether it's
+financially and you help them kind of
+you pay out bonuses if you can do that
+and you kind of coach them through what
+that diversification looks like but
+really kind of making that just that's
+you know helping them be slightly more
+kind of diversified and thus kind of
+resilient in their personal capacities I
+think that's important and I said it
+doesn't it initially have to be monitor
+it could be it could be skills right it
+could be other things that you help them
+accumulates in the good times you know
+in your bull markets that they didn't
+apply when kind of you know things are
+much tougher yeah a couple thoughts on
+that I want to add one thing you talked
+about having cash in the bank and
+running a little little more
+conservative perhaps then then pedal to
+the metal there's been a lot of
+criticism of these public companies a
+lot of airlines and you know fortune
+1000 in general running so close to the
+margin that they're doing the the the
+the CEOs bonus is based on earnings per
+share typically and so they make a bunch
+of money one year and instead of putting
+some in the bank they buy back shares of
+their own stock which reduces the number
+of shares which increases their earnings
+per share and just so they have no cash
+in the bank right or none as an
+exaggeration but they have way way less
+than they would need if you're running a
+real business if you actually work if
+you actually weren't too big to
+fail you know when banks do this and and
+you know airlines do this and certainly
+travel companies do this I mean all the
+things that will likely get bailed out
+you know from from the government they
+do that and that's not something that we
+can I don't think that's right because
+they've basically taken a bunch of money
+off the table kind of artificial you
+know there's some financial engineering
+there and in the government meaning the
+taxpayers kind of get stuck with the
+bill but be we as as SAS founders as
+small company founders like we we don't
+have the luxury of doing that so I
+always kept a pretty heavy store of cash
+and in the bank account and I was
+nervous when it went below a certain
+number depending on what our monthly
+burn was I was always mentally in the
+back of my mind thinking if we if we hit
+a recession right now what does this
+look like how long can we last and
+that's not great it's not a great
+feeling to run a business like that long
+term but I do feel like it it kept me
+being pretty realistic you know so the
+second thing I want to throw in is I
+interviewed the founders of feedback
+panda on startup to the rest of us a
+couple weeks ago and one thing that they
+said is they were just kind of terrified
+the whole time that that this business
+it's to your point that they weren't
+diversified and they had this asset
+worth presumably you know a million two
+million bucks but they had no liquidity
+and if it went under if a recession
+happened if they get what you know
+whatever it goes down for a week if they
+get hacked if a competitor comes if
+there's all these things that can happen
+to where suddenly this thing you've
+worked so hard for goes away and I I I
+do like that
+founders are now having some more
+options with this in terms of like
+there's some opportunities to sell
+minority stakes of your business right
+now on controlling interest I would have
+loved if that was an option I don't know
+if I would have done it back in the drip
+days but it's cool to not have to sell
+your whole company to get cash out of it
+you know you and I both have had
+life-changing exits and I don't think
+either of us really regret those but now
+that we have cash in the bank like I
+tell you what if I started another
+startup I would be in a completely
+different mindset I would not be like
+running for my life the entire time for
+years looking over my shoulder you're
+nodding like you felt that way too right
+I think we've talked about this yeah and
+until you have that that diversification
+where you can just take that deep breath
+yeah it's scary
+yeah and and I think that's
+I think you know for me that is and this
+can sound contradictory but I think
+there's a bit of a detachment that we as
+entrepreneurs should do from our
+businesses I don't think we are our
+businesses first right and to that
+extent I can again that that supports
+the notion that we should diversify
+right but the other part of this is that
+we are still the leaders of this ship
+right and if we're constantly stressed
+as individuals like we're probably
+connecting or performing on a subpar
+level we're probably not at peak
+performance and I think the
+reciprocation is that like if you can do
+that over time and I don't think it's
+something that you can do like you don't
+make this you don't listen to kind of
+speak about this now and tomorrow you
+start diversify right I think it is a
+gradual thing to do over time but by
+doing that I think you create that space
+in your life in your kind of emotional
+and mental well-being which
+theoretically allows you to then well
+either just take that space and apply it
+elsewhere in your life right or be a
+better entrepreneur leader in your
+business and I think that's that that
+should be really okay like we should not
+you know we should not need that
+attached to the business where like
+literally kind of all our eggs in one
+basket and I think crucially and like
+part of this you know and again coming
+back to the kind of the the people cost
+in terms of layoffs right if I can
+self-regulate if I can take care of my
+kind of my well-being as a as a leader
+of this team then I can probably steer
+this business for as long as I possibly
+can which then has that positive effect
+for my team it prevents me from having
+to lay off people right or prevents you
+from having to declare bankruptcy all
+right and just kind of shutting off that
+income for the whole team right and I
+again I don't wanna be glib I understand
+that things happen in business that is
+sometimes unavoidable and you know those
+things are unintentional consequence of
+those things i but it is ultimately a
+risk based kind of calculation of odds
+here which again is if I take care of
+myself
+in theory the odds of us surviving kind
+of and navigating you know kind of
+difficult situations the economic
+downturn
+just more right right because when
+you're calm and you feel relaxed or at
+least confident in the future and what
+you have going even if it's kind of you
+know the world is kind of going into
+crisis around you you have that ability
+to have a calm head a clear head and and
+help your team get through that too
+because they're gonna feel the opposite
+potentially they have less control and
+you know they were gonna be stressed out
+by it so I believe that wholeheartedly
+I'm curious how do you think this is
+different like what we're talking about
+is like build a margin
+you know don't run things right to the
+edge be prepared how do you think this
+is different for bootstrap versus you
+know or I know in metro tracks Bennett
+term I've been using so bootstrap kind
+of self-funded folks or versus the
+venture funded folks yeah so I think if
+we consider the latter first right so if
+you take any kind of external capital
+into a business and I think I like that
+notion of external because you normally
+have like those shoulders are have this
+different consideration to you as a
+founder or the people actually working
+in the business right versus these kind
+of external people that literally only
+have equity on the books and I think the
+the key thing there is they they only
+have simplifying right this might be
+slightly different for different kinds
+of investors right but they mostly kind
+of their primary need and want for you
+kind of in that transaction is around
+maximizing shareholder value right and
+like again like all of us anyone that's
+invested in anything whether it's any
+kind of in the markets and other
+companies it's like that's what you want
+might we want to a reasonable and
+hopefully a great return on that
+investment and that's maximizing
+shoulder value but I think what that
+does is if that becomes the exclusive
+kind of North Star for a business it it
+could pull a bunch of other things out
+of proportion as well right and I think
+what we often see in especially growing
+kind of software and tech companies that
+have cheap access to capital they keep
+growing rights and they I think there's
+fundamental things that get out of whack
+there or could like I think that's a
+risk right whereas I think with with
+blitz
+kind of founders I think I would I would
+imagine that for most entrepreneurs they
+have a version of I am starting this
+business because of a freedom I'm
+pursuing a freedom whether it's the
+freedom to choose on what I work with us
+the freedom to choose when and how I
+work whether it's just kind of you know
+getting away from the man but there's
+some freedom involved in that and I
+think the perspective there is thus very
+different it's not just about kind of
+trying to maximize shareholder value but
+it's trying to to really make kind of
+use of this freedom that that I'm trying
+to cultivate to clients and ensuring
+that the freedom stays in place forever
+that I don't suddenly have to kind of
+you know kind of have to close my
+business down over here and then have to
+kind of go back to your being employed
+for example and then losing some of
+those freedoms that I try to create and
+I think that already takes a bit more of
+a holistic approach where like I want
+this thing to survive as well as not
+it's not just about trying to maximize
+Schelde about I want to maintain this
+for for much longer
+yep yep and you know what I've noticed
+cuz I've now been exposed to and worked
+inside a venture funded company I've
+leadpages that acquired us obviously
+worked in and started a lot of bootstrap
+companies and I'm exposed to a lot of
+kind of the in-betweens that you know
+the the non venture track where it's
+like they raised of just a single angel
+run angel round and they want to get to
+profitability or they raise from you
+know a tiny cedar and indeed not BC and
+it's not the same trajectory and it's
+not the same winner-take-all and at
+least but I have a limited sample size
+in the VCE internal where you know being
+internal but it was definitely funding
+and investors you know it it pretty easy
+for it to become your North Star because
+they essentially the board can fire the
+CEO so the CEO knows you know and it
+really does become that and I I'm
+guessing I know that it's not that in
+all cases like I know that Kickstarter
+for example took a bunch of funding but
+they really had their more of almost a B
+Corp type thing a beneficial Corp and
+they listened to the employees and they
+have you know they there's much stuff
+going on there so I think there are
+exceptions but I do think as a rule if
+once you step on the venture track I
+think in general the the investors
+become a really major stakeholder versus
+people who raised angel rounds people
+who bootstrap people who raised this
+kind of independent funding the tiny
+seed type stuff
+it's they still raise funding but it's
+such a different their Northstar can
+still be building the company that they
+want to build you know and that's has
+that been your experience as well I mean
+and talking another founder yeah
+definitely right and I think that's one
+because I think when when the focus is
+on this freedom instead of just that
+kind of you know maximizing my shell or
+value rights again I just think it's
+there's more there's a wholesomeness to
+it there's like there's no allistic view
+to it that I don't think you necessarily
+get when there's literally kind of
+differing needs right and that makes
+sense it's like you would expect again
+you know kind of if I was a menorah to
+shoulder even if I was the kind of
+founder in a business like the the costs
+of kind of shoulders that owns the other
+95% they would want to return this money
+they they don't recarey domes right so
+that gets totally out of whack as you
+were saying speaking they're the robbed
+like the thing that I think it's
+interesting again here I'd like to cross
+those two kind of different kinds of
+businesses bootstrap versus venture
+track and of yet run on venture track oh
+very attractive easy Beck yeah I think
+when and again using the Carter example
+here is what Clippers offers the the CEO
+put published the memo and the speech he
+gave to his team in terms of announcing
+the layoffs and this is what is
+happening and I already take like I
+think that's part of the problem here
+because he didn't share any other
+context around this and oftentimes we
+look at these kind of really big
+supposedly successful companies and
+successful companies and they publish
+all of their milestones they publish
+their funding kind of a milestone
+flights but they never published all the
+context whereas boost up is very
+different like I think Michael conveying
+you know kind of probably the best
+example of such a community where
+there's a lot of sharing of information
+like where like we
+I can share all the context but there's
+a lot more context around kind of why
+you know why I made the decisions my
+business you know that I did rights and
+I think that context ultimately helps
+and the kind of the Safeway therein back
+to you kind of linking it back to that
+kind of North Star is I think that
+context is important right because we
+don't know we just and that's where I
+think with the perception is there that
+investors start if kind of funding
+becomes your your North Star
+we're probably we are expecting that
+there's investors in those kind of
+meetings that is literally saying you
+know well lay off the people like if
+that maximize Sheryl well lay off for
+people kind of everything right but we
+also don't know that because it doesn't
+get sure but yet you know that their
+whole perception has kind of is I think
+is skewed because it is a bit of a black
+box unfortunately right right and when
+it comes out bad news like this and then
+you see their glass door just get blown
+up by all the people who get laid off
+and you know they get bad reputation
+well sir I feel like we could talk about
+this for hours but we are coming up on
+time so I just want to thank you very
+much for coming on on air if folks want
+to keep up with you your Twitter handle
+is there on screen it's eighty eighty
+III and you blog every now and again
+write essays at eighty dot me thank you
+so much sir and producer Xander I think
+has worked out the audio snafu we had at
+the beginning so as he takes us out here
+we're gonna try to roll that the
+microcon Video Vault announcement again
+hopefully the audio works at this time
+and I will see you same time same place
+here on Thursday
+[Music]
+hi I'm Rob walling I'm the co-founder of
+micro comm I wanted to let you know that
+we've launched our video vault of over
+190 talks from 11 conferences at
+youtube.com slash micro comm with more
+than 175 hours of actionable advice and
+inspiring stories from founders who have
+built their companies from the ground up
+we've amassed one of the largest video
+libraries available for ambitious
+self-funded and indie funded founders
+like yourself from our top-rated talk of
+all time designing the ideal
+bootstrapped business by wpengine
+founder Jason Cohen and not everyone's
+making a bunch of money but actually a
+lot of people are making enough money to
+more than 70 short-form talks delivered
+by micro Kop attendees there's nearly a
+decade of videos waiting to answer
+almost every conceivable question about
+building launching and growing your
+startup we're gonna be curating more
+videos for you whether it be through our
+playlists like the serial speaker series
+featuring our most frequent mainstage
+speakers a newly curated 10 video series
+called building your first SAS ultimate
+crash course and other experimental
+formats we'll be launching in the coming
+months and from here on out all of the
+talks recorded at our conferences remote
+events meetups and so on will be
+uploaded here for free for anyone that's
+looking to learn more about launching
+and growing a successful startup my hope
+is that the micro comm video vault is a
+top resource for you and your team to
+reference for years to come if you
+haven't already please give this video a
+thumbs up and click the subscribe button
+below to get updates on new videos and
+live streamed events we're hosting in
+this channel I hope you enjoy it
+[Music]
+you

@@ -1,0 +1,851 @@
+﻿And we are live. Welcome to Micro Comp
+on Air. This is a weekly show where
+every Wednesday we live stream for about
+30 minutes and we cover topics related
+to building and growing ambitious SAS
+startups. These are startups that don't
+require us to work 8 hour weeks, raise
+millions in venture capital, or drive us
+to the brink of burnout. In this show,
+we seek freedom, purpose, and
+relationships. and we want to maintain
+those values while building interesting
+companies that can have an impact on the
+world or maybe just our little corner of
+it. So, thank you so much for uh joining
+me again this week, whether you're
+joining us live um maybe you're in
+MicroM connect and uh you're going to be
+asking some questions of our guest today
+or even if you're listening
+asynchronously on the podcast feed,
+that's
+micropodcast.com or search for Micromp
+onair in any podcaster that you use. We
+have a pretty cool lineup set up today.
+And I say lineup, it's it's one guest. I
+don't know why I said lineup, but I'm
+excited to uh welcome um Oh boy, I'm
+getting slacked. All right, it's not
+from produ. Whenever I hear the slack
+noise while we're doing uh microphone on
+air, I think producer Xander's, you
+know, tech telling me that my
+microphone's not on or my my flies down
+or something like that. So, but we're
+all good. Um today, I have the pleasure
+of uh bringing Keith Perhack on the
+show. You may know Keith as the founder
+of
+Segmetrics and he is uh you know hailing
+from the Portland area so it's a little
+smoky outside his house right now but
+segmetrics.io if you want to check it
+out. Um they're a team of about 10
+people in the growth stage. Um I was
+talking to him beforehand kind of like
+how can we give people a sense of of
+where the company is? Um and he said
+look we have product market fit and
+we're in the the growth stages. We're
+starting to grow quickly. Um, and that's
+so that's where they are. And yeah, if
+you go to uh segmetrics.io, you can see
+their H1. Um, but in essence, Segmetrics
+is a tool that helps you get 100%
+clarity on where your leads come from,
+how they behave, and how much your
+marketing is really worth. They allow it
+allows you to get a handle on the KPIs
+that matter most for your marketing
+funnels. It's built by marketers for
+marketers. And today, Keith and I are
+going to be talking about how KPIs can
+be misleading when optimizing your
+marketing. So Keith Perhak, welcome to
+Micro Compound Air. Hey, hey, Rob,
+thanks for having me. Absolutely, man.
+Um, the skies look kind of clear from
+what I can see reflecting in your
+window. Is the air quality improved up
+there? It's not bad right now. It was
+really bad last night. It was kind of
+bad this morning. Uh, we'll see. It's
+really weird, you know, as the sun
+starts to set at and at like 3:00 it
+looks like an apocalypse out there. At 2
+o'clock it looks like it's nighttime
+almost. So yeah, knock on wood that it's
+getting better. Yeah, for future if if
+you're listening to this in a year, this
+these are the great uh fires of the
+Pacific Northwest and in California
+happening in fall of 2020. So if you are
+in Microcom connect, go to the MicroM
+onair channel and you can ask questions
+of Keith or myself and we of course will
+tackle those live. But Keith, we're
+going to talk about how KPIs can be
+misleading when you're optimizing your
+marketing. I'm going to define KPIs as
+key the phrase is key performance
+indicators for folks who aren't fluent
+in MBA speak. See, I don't I don't like
+KPIs, so I'm just going to be the hater
+on this one. But key performance
+indicator, I mean, they're they're
+critical and they're needed in larger
+orgs. It's just the stuff as a startup
+founder, I'm always like, get out of my
+way. I want no process, you know. Um,
+key performance indicators are the
+critical indicators of progress towards
+an intended result. KPIs provide focus
+for strategic and operational
+improvement. They create an analytical
+basis for decision-making and help focus
+attention on what matters most. That is
+a definition I took from something on
+Google. So, probably the little the
+little inset with the questions. But to
+me, I've I've realized that it's like uh
+once Drip got acquired and Lead Pages,
+you know, we became a went from a
+10erson team up to a 100 person team
+basically. Um it's like each team needs
+something to focus on and if it's
+numeric, all the better. you know if
+it's um uh for customer success team
+maybe it's it's NPS or maybe it's churn
+or maybe it's trial to paid conversion
+rate and that's the those are the key
+performance they might be looking at it
+for sales obviously it's going to be
+closed deals dollar amount of deals
+closed um Mr growth from sales for
+engineering those ones are always hard
+right I I the the CEO when I left was
+like how can we measure engineering and
+I'm like well it's not bug count and
+it's not number of features shipped and
+it's not lines of it's not lines kinds
+of code shift. So, I I am very skeptical
+of of KPIs with with development teams,
+but that that gives you an idea of um
+you know, if you're listening out there
+and you you've heard KPIs or you really
+didn't know what they are? Um they're
+just numbers that help you kind of guide
+your business, right? And and to drive
+it forward. Does that sound accurate?
+You have anything to add to just that
+definition before I kind of Cool. Yeah,
+I think that's that's fully accurate.
+The one thing I would add on there is
+that the idea of KPIs is kind of like a
+scorecard and like you and that they're
+key. You don't want to have so many that
+you're just looking at a line of
+numbers, but at some point you want to
+know, are we doing better or are we
+doing worse than we were last week or
+last month or last year? And as SAS
+founders, most of us are looking at MR.
+That's our top yep key KPI. It's like
+what's our MR? Is it going up or is it
+going down?
+Yep. Yeah. That's um that was my topline
+KPI too uh when I all my when I was
+running all my SAS companies and
+everything else. But then everything
+builds uh I'm sorry, everything builds
+to that because then I would look at how
+many trials did we get this month? What
+is our trial to paid conversion rate?
+What is our churn? What is our net
+churn? You know, and all those things
+contribute to it. But you're right, the
+number that it builds to is MR. It's
+growth rate. It's that kind of stuff. We
+do have uh we have a comment from the um
+from MicroCom Connect. Tristan Bailey
+says, "Yay, Keith. Smiley face might
+have bias." I assume you might know
+Tristan. Yeah, Tristan and I are working
+together on psychmetrics. So Oh,
+awesome. Very cool. Yeah, cool. So, um,
+first question of the day. All right.
+What are the main KPIs that people
+should be looking at in their marketing?
+So, this is always an interesting one
+for me because it really depends on what
+you are trying to do with your marketing
+um, and what you're trying to improve.
+And so this number, this what KPI should
+you look at is something I get asked a
+ton, but it doesn't have a specific
+answer, but what I like to do is look at
+what you are trying to accomplish. And
+usually that means look at a funnel,
+look at a marketing funnel that you
+have. Let's take it from a SAS uh
+perspective where we have an ad, we have
+maybe an opt-in for some sort of white
+paper or a guide or an email marketing
+course, we have a nurture sequence and
+then we start with the product or the
+trial after that. Um some people skip
+right to the trial, but the idea is the
+same. You have a flow that people are
+going to go down.
+And the main KPIs that you want to look
+for in a marketing funnel like this is
+how many people are coming in. So how
+many visitors are we getting? How many
+optins are we getting? So what's that
+conversion rate? What's the conversion
+rate to
+paid? And then at the end, how much
+money are we making? And everything else
+comes back and can be calculated from
+these just four things. And I think the
+key number that you're looking for is
+from the number of people who come in,
+how much are they worth at the end of
+the funnel? And that's the number that
+you want to improve. So if I get a,000
+people coming to my homepage and I made
+$1,000, each person is worth a dollar.
+So then that and that's my core KPI. I
+want to improve that number. And then as
+I look at different parts of that
+marketing funnel, that's when I'm going
+to build out those secondary level KPIs.
+Right? So, you know, you were talking
+about, okay, each department has
+different KPIs that they're watching um
+and monitoring. Well, if we're looking
+at improving the marketing funnel, that
+nurture sequence, then there's going to
+be different KPIs that we're looking at.
+We're going to be looking at email open
+rates and uh click-through rates and
+retention rates and unsubscribes and
+stuff like that. But that's not the core
+KPIs that we're looking at the top
+level. So when someone says, "What KPIs
+am I looking for?" It really matters
+what's the goal? What are you trying to
+improve in your marketing funnel? And
+like I said, I like to start at those
+those top four or five and then as we
+find a place that we're looking to
+optimize, break down and break down
+into KPIs for that initiative.
+Yep. Makes a lot of sense. I would I
+would follow along with the those KPIs
+of that funnel as well. Um, what is what
+do you see as the number one issue then
+when people start looking at marketing
+KPIs? Because I mean I think our title
+is kind of saying, hey, KPIs can be
+misleading or or there can be
+counterindications or people maybe
+misuse them. So like what what do we
+mean? What do you mean by that? You
+know, when you're when you're saying
+that they can be misused or
+misunderstood. Yeah. And I think
+that people think that KPIs are because
+it's in all the MBA books. Everyone's
+talking about, oh, what are your KPIs?
+It's the number one thing that everyone
+thinks they need to focus on. And I
+don't believe that. I believe that KPIs
+are kind of like what you were saying is
+a great indicator of how you're doing.
+Are you improving or are you not
+improving? Right? Are you going up or
+are you going
+down? And that's all they are. They are
+a great measurement of where you are at
+any point in your marketing or in your
+founder in your SAS journey.
+However, they don't really tell you
+anything other than I'm doing better or
+worse than I was last week, right? And
+that's the key problem that I think a
+lot of people have when they're starting
+to look at KPIs. So, two key problems.
+One, they look at too many. They're
+like, they forget the key. They're just
+like performance indicators. So they're
+like, "Okay, we need to know how many
+leads and how many people opened emails
+and how many clicks and how many people
+click this one little link and how many
+people are named um Sally on Tuesdays
+and like these are all the numbers that
+we think we need to
+know." And as soon as you start
+measuring all of them, you have lost any
+key performance indicator. And so the
+rule of thumb that I always go to is you
+want five at the most. You want five key
+performance indicators for any
+department or any initiative, right? So,
+for example, um if you're the CEO, you
+want probably how is revenue going up or
+down? Um I I don't even know anymore.
+CEO would be it might be net profit or
+it might be money in the bank, you know,
+whatever, right? There's Yeah.
+And then you have your marketing
+department. And your marketing
+department has other goals. And then
+your ad department has a different set
+of goals probably around ad spend and
+cost per
+acquisition. But the CEO doesn't need to
+know, okay, what's our ad spend versus
+cost per acquisition right now. It's not
+his key focus. He has someone in charge
+to look at that, right? And I think
+that's that's the main problem that
+people come to, which is they just want
+they think this is important. So it's a
+key performance indicator.
+So too many. So that's the number one
+issue you see is just too many. Now you
+mentioned something to me about outliers
+and that how important outlier is it
+outlier KPIs or just outlier numbers are
+when trying to measure your marketing
+outliers in general. And this goes back
+to I think what I kind of feel is the
+second problem with KPIs is that people
+think that they can then improve their
+business by looking at those KPIs.
+Right? So, let's take the MR um example
+and we're like, okay, we had a huge dip
+in MR. Okay. Well, we know why because a
+bunch of people canceled, but what did
+that tell us? That didn't tell us
+anything. We just know that we're doing
+worse. So, people have this idea of,
+okay, I'm measuring the KPIs now. I know
+what to do to improve the business. And
+that's not it at all. It's like a
+speedometer. It just tells you kind of
+where you are. It doesn't tell you any
+problems that are going on.
+And oh go ahead. No, can you keep going?
+Sorry, with a delay. Um, so with
+outliers, what I always say is from that
+KPI, you want to find the breakdown of
+people who are doing really well at that
+KPI and people who are doing really
+poorly at that KPI. So a a standard one
+I think of is conversion rate because
+I'm a conversion rate optimization guy.
+I've been doing this for years. Let's
+say you have a marketing funnel. You
+have a conversion rate of 50% on that
+funnel. So 50% of people who come into
+that funnel convert. Awesome. You are
+doing great. But let's look at drilling
+it down one. So you have two traffic
+sources. You have Google ads and you
+have Facebook ads. And let's say Google
+ads are converting at 100%. And Facebook
+ads are converting at
+0%. Well, suddenly that 50% great number
+now has a whole different spin on it.
+Right? We're seeing now that we're
+wasting all of this money on Facebook
+ads because zero of them are converting.
+And this this is not a hypothetical.
+This is something that we actually came
+to in segmentrics where we found that
+Facebook ads had a cost per acquisition
+of I think like $800
+and our Google ads had a cost per
+acquisition of $60. And it's like, okay,
+well, we know where we're going to go
+with this difference. Yeah, it is. And
+fa and Facebook doesn't tell you this
+because they only see their own data,
+right? They're not letting you're not
+able to see this data,
+right? That's that's fascinating. So,
+are you able I I have a couple questions
+actually. Um, I think one one comment I
+want to make is like this goes back to
+the whole
+like when I look at like Amazon reviews
+for example, like I can look at a at a
+review for a new spatula, you know, or a
+new whatever, a pasta, you know, a
+garlic press or something and I can see
+that it's like a three and a half star,
+which isn't very good, right? But I
+always dig into the reviews and look at
+what are the onestar reviews. And
+there's often a bunch of one stars that
+are like this was delivered late and
+this thing when I tried to bang a nail
+with it, it didn't drive it in and it
+broke, you know, and then you'll see
+there's a bunch of five star views and
+the and the knowing that it's three and
+a half is actually not super helpful.
+It's helpful at a at a high level, but
+knowing the details of why there are
+ones and what people like and dislike
+about it, I think are important. And
+that's kind of what you're saying here
+is mixing these numbers. I see this with
+um I've seen this with churn where
+everybody groups hey my churn number my
+monthly churn right now is 5%. And it's
+like oh what's your churn for you know
+the first month uh or the first 60 days
+or what's for the first 60 days of this
+particular cohort you know you can drill
+down those numbers are harder to get to.
+Um I think today with with dashboards
+like uh profit well barometrics chart
+mobile they're easier but um they're
+still it's it's hard to fully understand
+and yeah until you really get in and are
+able to drill down to that level you're
+you're often kind of looking at this
+aggregated data which while that's
+sometimes the best we can do as
+marketers it's kind it's kind of
+dangerous and that's what you're saying
+right exactly exactly and let let's take
+that churn number so I think a lot of
+people have realized recently that churn
+initial just the top level churn is not
+a valid metric because your churn in the
+first month is going to be so much
+higher than standard churn and it
+especially when you have a trial or
+something like that that churn really
+doesn't count I guess but let's look at
+it one different way which is okay so
+now we know we're going to ignore churn
+for the first 30 days we're only looking
+at what we'll call real churn well now
+we want to know what's the churn of ads
+versus organic versus referrals. Right?
+So now we've added a second level onto
+there because we still have that churn
+KPI, but we want to figure out well we
+have a 10% churn. Who's churning? Why
+are they churning? So where do So we
+start asking questions. And this is what
+I think's really missing and what's
+important for marketing analytics tools,
+which is being able to ask these
+questions and in real time where I'm
+saying, okay, I see I have a churn of
+10%. Is it okay? Where are these people
+coming from? Is there an outlier there?
+So, I look at my my uh levels of churn
+for out for uh lead source and I look at
+Google, uh Facebook, organic, etc. And I
+say, okay, no, they all look the same.
+Well, let's ask a different question.
+How about how far they get on the
+onboarding? And suddenly we see people
+who don't complete step two in the
+onboarding churn 20 times as often as
+someone who completes up to step three.
+So being able to ask these questions in
+real time and just see a chart, right?
+Just see a list of numbers of okay no
+everything looks normal or oh look this
+outlier is there and this is either
+really good so we want to spend more to
+do that or this is really bad so we want
+to fix that. And that's to me the power
+of those outliers which is when
+everything's good and everything's
+copathetic awesome you're doing great
+but that's not what you're going to do
+to improve. If everything is good, you
+don't have anything to do. But somewhere
+in that good is something that's not
+performing well or that's performing
+great and you want to do more of that.
+Got it. That makes sense. And is that
+like is there a major mistake that
+people make when they start to look at
+outliers?
+I think they look at
+places where they don't have enough data
+yet or they don't have focus. So, one of
+the big ones that I see, especially with
+overall u conversion rate optimization,
+is so let's say we have that that
+salesunnel. Let's do a a product this
+time and people say, "I'm just not
+getting any sales. We need to optimize
+the sales page, this checkout page where
+they put in the credit card information.
+We really need because that's closest to
+the money. It makes sense. Really want
+to optimize that." It's like, "Okay,
+yeah, there's a lot of things we can
+change on this, a lot of things we can
+do to optimize this." How many people
+are coming to this page? like five a
+week like you're you're never going to
+be able to optimize this because it's
+going to take there's not enough data.
+So yeah, this is really the big issue
+that I see is people start way too far
+down the funnel when they don't have any
+data. So the kind of rule of thumb I use
+is to work backwards from because you
+want to be as close to the money as
+possible but work backwards from that.
+So start at okay checkout. Do we have
+enough traffic there to do we have
+enough people coming to that page to
+make a difference? No. Go to the next
+one. Sales page. How about there? No.
+Emails. No. Opt-in page. Okay. We
+finally have enough people coming to the
+opt-in page, but they're not converting.
+Okay. So, let's fix that first and then
+let's fix the next one. And then let's
+fix the next one. And it's really it is
+a funnel
+because the closest things you can get
+to the money are at the end. But if you
+don't have anyone coming in the top, it
+doesn't matter. Mhm. That's interesting
+because it's, you know, uh, Asia Orangio
+talks about starting your optimization
+at the bottom of the funnel, which makes
+sense because if you get that working
+and as you work backwards, the more
+people you push through it, the more
+you're going to
+convert. But your point is because
+you're, you know, kind of saying the
+opposite. You're agreeing with her and
+also disagreeing with her, I think, and
+and kind of saying, well, until you have
+enough people, you can't really improve.
+How can you really even know how to
+improve, right? How to test, right?
+Yeah. And I think there are of course
+lowhanging fruit that you can do on that
+checkout page. You could make sure it
+has a button. Like there there's there's
+obvious things you can do at the
+beginning at the bottom of the funnel to
+make sure that it is following best
+practices, it works, right? But when
+you're looking to improve, right, rules
+of thumb. But when you're really looking
+to improve, when
+you're not when you're looking for that
+next thing, you have to move up the
+funnel. You have to have enough traffic
+to be able to test. Because I I've
+worked with a number of clients who are
+like, "Hey, we want to test this button
+on the sales page. If it's red or it's
+blue, and this is a small change, and if
+you're not getting enough traffic,
+you're never going to get an answer to
+that question." But if you have
+something that has a th00and 2,000
+people coming to it, you're going to get
+that answer question that question
+answered pretty quickly, right? Yeah. I
+think it's something good for people to
+keep in mind is that we you know I
+remember I I tweeted something this is
+year it was probably five years ago and
+it was just a a random thought I had one
+day but I had realized like I said
+something like making decision I it was
+probably the first time I had said like
+being a founder is making hard decisions
+with incomplete information and then I
+said I find most of the decisions I make
+I can get about most of the decisions I
+make it's like 80% is made on data and
+20% is like rules of thumb and gut feel
+or something like that. And someone came
+back and I don't know who it is, but he
+was like, "No, 100% data all the time. I
+make every decision with data." And I
+remember being like, "Well, then how do
+you build a landing page when you have
+no traffic? You don't have data yet."
+You know, it's like that that's what I
+was trying to imply by that is I use um
+my rules of thumb or other people's
+rules of thumb to do the first cut at
+pretty much everything. you know, if
+it's an email that I'm going to send
+out, if it's a landing page, if it's a a
+product or an ad campaign, it's like,
+how do you decide the first 10 images to
+test test when you have no data? You
+know, what what 10 images should I test
+in the Facebook ad or whatever? And then
+once you have the data, of course, we're
+going to go with that. But there has to
+be something. So, I I gut feel and and
+um if you before so gut feel I think
+comes from experience or just from, you
+know, an instinct or whatever. But I
+think the nice part is rules of thumb
+you can often hear on on shows like this
+or conversations with founders who have
+been doing it long enough that they have
+their own mental rules of thumb, right,
+of what where the conversion should be.
+And I think that that's also important
+when looking and it's it's a dichotomy
+because marketing is part science
+because it's part databased and it's
+part art because you have to know what
+to do and how people think, right? It's
+almost like a like applied psychology in
+a way, right? You have to understand how
+people think. like you can see the data
+all day that okay organic is converting
+really well where Facebook is not but
+that doesn't tell you what you need to
+do to fix it and that's where the art
+and the psychology and the understanding
+um of that is and that comes with
+experience and even the idea of like
+okay what should we look at to find
+those outliers what are some things like
+people aren't they're coming on this
+webinar but they're not converting well
+Facebook ads are not converting because
+they weren't looking to purchase
+anything. They're not. And it's like
+just thinking through that mental
+process of people in each of these modes
+as they're coming through that funnel.
+And that's how you start getting those
+ideas of well, what about this? Oh, what
+about this? And that's I think how you
+build those outliers, how you start to
+identify people who are performing and
+who aren't performing and then figure
+out how you can best um tailor your
+messaging towards them. Yep. Cool. We
+have a question from the live audience.
+So Reasonz, hopefully I'm pronouncing
+your name right. Reason Simone Reasonz
+Simon says, "What is a good traffic
+number to start optimizing for
+conversion?" So I think he's kind of
+asking like how much traffic do I need
+to start split testing things? Right.
+The It's interesting. So I generally
+have around 100 people going through
+something before I um before I start
+optimizing it. So traffic-wise, I would
+actually say that's so traffic is
+different than optimization. So what I
+would say is if you have a 100 people
+filling out the form on a page, you are
+ripe for optimizing that optin, right?
+Yeah. 100 conversions at any step is
+what you should use to say, "Okay, I now
+have enough people to start testing this
+and going through this."
+Um,
+traffic-wise, it's interesting because,
+you know, conversions, especially when
+you're split testing, you have a
+um you have a calculation of
+how statistical significance of that
+test. And what we have seen is that when
+you have small changes, the statistical
+significance is generally very small. So
+if you change the wording on a button,
+uh a lot of times the change is very
+small, the difference is going to be
+very small and it's going to take a long
+time for you to figure out, okay, did
+this really move the needle? Where if
+you have a big change where it's like a
+completely different picture of a person
+or a person versus a robot or like these
+things
+that highly ch or especially H1 changes,
+right? So you're changing the key
+proposition of the page. These are tests
+that we see big differences in
+conversion rates and you're able to get
+that statistical significance much
+quicker.
+Never do multi- rate uh testing when
+you're when you only have a little bit
+of traffic because that will take you
+years. That's what I was saying. Never.
+Yeah. Yeah. And that's um that's a big
+part of it, right? is it's that
+experience level of I know that if I
+change the headline or the design, like
+everything on it, that I'm going to have
+a dramatic difference. And I know that
+if I change some wording in a body
+paragraph or I change one icon or I
+change the button color from blue to
+red, the odds of me getting that big of
+a change are pretty low. So, you need
+more traffic, you know, at that to to
+make these tiny tweaks. I think that's a
+mistake mistake I've seen people make is
+not changing enough or not not making
+drastic enough changes and then you just
+let the test run for a month or two and
+then it's like oh these are basically
+the same thing. Yeah. And if you have
+low traffic generally focus on so there
+is no more fold anymore. Anyone who says
+oh it has to be above the fold doesn't
+exist anymore to a degree but focus on
+that what that hero image that above the
+fold. What is your H1? What is the
+iconography that you're using when
+people first visit the page? That's
+going to be your biggest kind of win
+because that's your first ex this the
+first experience that people are going
+to have with that page. Right. Right.
+Right. Very cool. So sir, um we are
+almost at time, but you have any other
+thoughts? I don't know, maybe best
+practice or thought. Yeah, it all it
+goes so fast. I
+mean, it really does. It's like, hey, we
+answered like three questions. Um yeah,
+thanks everybody in the in the audience
+for asking those. Uh that was a good
+question about conversions, but you have
+any other thoughts before we close?
+I think that I think especially in the
+developer community and in the founder
+community, I think there's a lot of
+people who think oh marketing I don't
+get it or oh it's a dirty word kind of
+thing. I I'm a developer by trade. Um, I
+kind of fell into marketing
+and the biggest successes I've had with
+marketing is thinking about marketing
+the same way I think about development
+where it's not a measma of things I'm
+going to do. I break it down just like
+we were talking about with those funnels
+of we have a start condition, we have an
+end condition, and we have a number of
+steps, processes that are going to go
+through everything. And we just put a
+number on each one. How is this one
+doing? What is the value of people who
+have done this step? What is the dollar
+value of people who have done this step?
+And just writing out I have flowcharts
+for every single marketing campaign we
+have and we put a dollar value to every
+single thing. And that lets us easily
+see where our holes are and we can
+really look at it in a more scientific
+and structured way than I think a lot of
+people who are not in that marketing
+world uh realize that you can do. Yeah,
+I agree. And that's how I mean also a
+developer engineer from you know my my
+most of my life and that's how I view
+marketing too. I've always viewed it as
+a technical marketer a leftrain marketer
+where the numbers and the funnels made
+sense to my brain. Um I've heard
+marketing described as math and human
+psychology and I the math was easy. The
+math is very natural and I think if
+you're a developer lean into the math
+and learn enough of the human psychology
+when you say human psychology it's how
+people make buying decisions the stages
+they go through what cop you know what
+copywriting is and what sales copy
+actually looks like I mean these are the
+things I had to learn and I read all the
+I mean this was 2005 to 2011 when I was
+teaching myself this it was uh there was
+no startup writing on this there was no
+copy hackers at the time it was all the
+um infoarketer guys it was the Dan
+Kennedy and that whole crew which I
+don't love a lot of the stuff they do
+from a person, you know, personal
+perspective, but but because they're
+just too hard driving sales and it's
+money, money, money. And I feel like
+some of them like trick people into
+buying stuff. Um, but they know
+copyrightiting and they know persuasion
+and that was a big thing that I think is
+kind of the other side of it. Totally.
+And then you can learn from them and
+apply it in a way that feels comfortable
+to you. And that's all it is. This is
+not it's not so complicated. It's not
+black magic. It really is. You know, the
+first cop first copy I wrote was crap.
+Didn't convert very well. and the 10th,
+you know, landing page I built was
+really good, you know, and it's just
+it's just learning like the first hello
+world program you write sucks and then
+the, you know, that 20th code you ship
+is is much better. So sir, thank you so
+much for joining me on Microconf on air
+today. Yeah, thank you for having
+wonderful twitter handle is uh there on
+screen. I feel like I'm going to
+pronounce it wrong because it's
+Japanese, isn't it? Is it Harrison Bon?
+Very close. Uh, Haris Senbon. Haris the
+onen. Yeah, got it. Senbon 79 used to
+live in Japan for those who don't know.
+So, thanks again for coming on the show,
+man. Thanks so much, Rob. I had a great
+time. Absolutely. All right. And a
+couple housekeeping items as we check
+out. Thank you so much to Hey, and
+Stripe. They are our uh flagship
+partners with MicroM for the year and uh
+they make everything we do just a little
+easier and we always appreciate being
+partnered up with them. Microcom
+masterminds are happening. Round two of
+our matching. Go to
+microcommasterminds.com. I believe it's
+plural. Uh or you can just head to
+microcom.com and and search around for
+masterminds. If you haven't already,
+head to
+youtube.com/microconf hit subscribe and
+we'll see you next Wednesday, same time,
+same place. microconfonair.com.
+Have a good week.
+[Music]

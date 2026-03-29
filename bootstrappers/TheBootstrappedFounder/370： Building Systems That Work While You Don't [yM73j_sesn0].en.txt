@@ -1,0 +1,235 @@
+﻿[Music]
+hey it's arvit and this is the bootstrap
+[Music]
+founder this week taught me an
+unexpected lesson about entrepreneurship
+and it's been couple weeks since like
+the Christmas and New Year's festivities
+those annual traditions of sharing joy
+and memories and apparently germs that I
+found myself running a fever of nearly
+40Â° that's I think 104 in Fahrenheit and
+for someone who rarely gets sick this
+hit particularly hard and you're
+probably going to hear it in this
+episode so as I lay in bed over the last
+couple days barely able to function and
+I'm still on the verge I realized just
+how crucial it had been for me to build
+the businesses that I have built the way
+I did because they needed to keep
+running right both my software company
+pocan and my media business they needed
+to continue to run smoothly without my
+active involvement I think this is kind
+of the entrepreneurial dream anyway
+right build a thing that does the work
+for you but the four pause of me
+allowing myself to take time off and
+watch Lord of the Rings while coughing
+all the time it became quite a powerful
+reminder of why I chose the
+entrepreneurial path in the first place
+and that's to have control over how I
+spend my time what I do with it and who
+I work with and who I work for and the
+beauty of being an entrepreneur even
+when you're sick is having the freedom
+to say today I'm not working because I
+need to take care of myself and
+paradoxically I talked to some people on
+Twitter about this and I got a a couple
+responses in in that kind of vein it's
+one of the hardest things to do as well
+when you're the one running your
+business if you don't show up often
+nobody does and that's why I have over
+the last year or so in in building potan
+and the couple years before in building
+the bootst founder invested significant
+effort into making my businesses as
+independent of me as possible of course
+with the media business I'm always
+needed which is why I'm sitting here
+super pressing all my coughs talking to
+you but with a software business it's a
+different story every feature every
+piece of infrastructure in pods scan has
+been built with this
+self-healing idea in mind and I've put
+automations in place that handle
+everything from service restarts when
+something is wobbly to scaling resources
+up and down as needed depending on
+traffic and the system is grounded in
+what I consider a somewhat resilient
+architecture I made it resilient and
+it's designed to operate autonomously
+and during my now 2 and a half days of
+being completely out of commission all I
+did was occasionally check my email for
+reports of abnormalities which uh
+fortunately for me amounted to exactly
+zero every usage Spike new customer sign
+up subscription change all these little
+things routine operations they continued
+without a hitch I mean SL business right
+that's the idea but the system just
+worked and it validated all the time
+that I invested in making it robust so
+if you find it interesting for your own
+business and if you maybe struggle with
+this I have a couple ideas is here the
+key to this reliability lies in very
+comprehensive and intentional error
+reporting like since day one I have
+turned on error notifications almost to
+a fault because it might seem annoying
+to receive notifications for every
+single error every timeout every
+disconnect in your software stag this
+granular monitoring is essential because
+as you scale these issues will increase
+and that's going to be very annoying the
+internet is after all a series of leaky
+tubes not every connection will work
+perfectly and not every service will run
+indefinitely without needing a restart
+both your own in your own s and some
+dependency that you have somewhere out
+there right I had some outage a couple
+minutes of outage on my email provider
+last week and my payment provider also
+had a couple minutes of downtime but at
+that point uh once I figured it out it
+was already finished it was already uh
+kind of caught up again but that's just
+the nature of Technology that's just
+happens right we have 99 some per uptime
+never 100 so being aware of how your
+system operates both when it comes to
+normal operations and these kind of
+error cases error States is crucial for
+this peace of mind when you're not
+operating it yourself and that's why I
+built performance monitoring into my
+software stack from the beginning I
+think I've been using um Sentry quite a
+lot particularly with this laravel PHP
+application that I have and on the front
+end in the view components that I have
+so Sentry can kind of report on both
+which is really useful for Elixir back
+in the day I used app signal which was
+really really good it integrated deeply
+into the Elixir stack and I would just
+check it out I think New Relic has as
+APM as well the application performance
+monitoring these things they are not too
+expensive particularly Sentry is like 29
+bucks a month that is an expense that I
+would highly recommend because it always
+allows you to backtrack problems and I
+am particularly excited as a laravel
+nerd about the upcoming laral Night
+Watch tool which was introduced at LaRon
+Australia a couple months ago and that
+looks amazing because it integrates
+directly with L applications hosted
+anywhere both on the new Cloud servers
+that they have and supposedly even the
+ones that we host on our own service
+it's really cool I'm really looking
+forward to using this because it
+promises to make application performance
+monitoring and a tring even more
+accessible first of to me because I run
+the business on laral but also to
+everybody else who chooses to stack and
+I think that's really cool so I track
+the slightest deviations right any tiny
+little error timeouts Beyond normal like
+anything that is an abnormality and if
+you do this you gradually build a more
+stable and reliable system because each
+error notification becomes this
+opportunity to address a potential issue
+at its route right now and that ensures
+it won't cause problems in the future
+and this feels annoying to developers
+and to software entrepreneurs in
+particular because they always chasing
+these little issues but it's absolutely
+worth it because if there then ever is a
+problem that does slip through it's
+usually a novel problem that you then
+solve and once solved it strengthens the
+system even further you're never going
+to be caught up on errors that you had
+in the past because you solve them when
+they happened the recommendation that I
+give people when it comes to your own
+Process Management right if you have a
+conversation with a customer and they
+have a problem and you solve that
+problem you might want to turn that into
+an sop and a standard operating
+procedure right there and then because
+if that problem ever comes up again and
+it's not a problem you can solve with
+code it's something you have to manually
+do now you know the steps you need to
+take and you don't need to do the
+research twice that is the benefit of
+this kind of approach is to always solve
+the problems when they occur so even in
+my current state I feel compelled to
+share this with you and record this not
+because I uh think I need to appeal to
+sponsor obligations or analytics
+concerns for the podcast this episode
+has no sponsor and honestly I couldn't
+here that's about the ratings but when
+it comes to my media business that's the
+other side of things I really want to
+maintain my weekly episode streak and
+that matters to me it's an
+accountability measure and both for
+myself and hopefully for you as well to
+just keep doing the thing you're doing
+and do it every time so consider as a
+gentle nudge to think about how you can
+set up your business to function without
+you and either delegate responsibilities
+to Reliable team members that's the best
+if you're solo prene don't really have
+that at that point you might want to be
+implementing robust automations and
+build a self-sustaining system that
+allows you to step away when life
+demands it whether for Health and Family
+any other reason when you take care of
+yourself without worrying about this
+business crumbling because you always
+need to be at the helm well if you
+remove yourself from that you've built
+something truly valuable and also
+sellable well we talk about this another
+day and that's it for today thank you so
+much for listening to the Boer founder
+you can find me on Twitter at aitar find
+my books on Twitter CET too if you want
+to support me and this show please tell
+the people that you know would be
+interested in looking at the world of
+podcasts and use it for marketing or
+research purposes about pods scan. FM
+that's the business that I'm running and
+I'm always happy about a shout out and
+leave a rating and a review for this
+podcast if you can as well makes a
+massive difference if you show up
+because then the podcast will show up in
+other people's feeds and it helps the
+show thank you so much for listening
+have a wonderful day and bye-bye

@@ -1,0 +1,53 @@
+{
+  "topic_id": 158113,
+  "title": "How to add a web page (URL) link on Desk for all users (not only Administrator)?",
+  "slug": "how-to-add-a-web-page-url-link-on-desk-for-all-users-not-only-administrator",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "custom-app",
+    "permissions"
+  ],
+  "created_at": "2025-12-18T17:16:33.573Z",
+  "last_posted_at": "2025-12-18T17:16:33.649Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-to-add-a-web-page-url-link-on-desk-for-all-users-not-only-administrator/158113",
+  "views": 44,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "vidhin_shah",
+  "posts": [
+    {
+      "id": 489134,
+      "username": "vidhin_shah",
+      "name": null,
+      "created_at": "2025-12-18T17:16:33.649Z",
+      "cooked": "<p>Hi,</p>\n<p>I want to add a web page link on the Frappe Desk that redirects to custom URLs like /hr-documents and /employee-documents. These URLs are not DocTypes or Frappe Pages, they are handled by a custom app route.</p>\n<p>I added a Desktop Icon using the UI and pointed it to the URL. It works fine, but the icon is only visible to the Administrator and not to other users.</p>\n<p>What is the correct way to add a URL or webpage link on the Desk so that it is visible to all users or controlled by roles?</p>\n<p>Also, is Workspace the recommended approach instead of Desktop Icons in the latest Frappe versions?</p>\n<p>Thanks.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/v/3be4f8/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 21,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 2,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

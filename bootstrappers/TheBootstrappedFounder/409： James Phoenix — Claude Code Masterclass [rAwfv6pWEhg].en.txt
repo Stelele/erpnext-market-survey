@@ -1,0 +1,1635 @@
+﻿Hey, it's Arvid and this is the
+bootstrap founder.
+[Music]
+Today I'm talking to James Phoenix, an
+expert in agentic coding, particularly
+cloud code. That's a tool that I've been
+using for my own software projects to
+great effect over the last couple
+months. And I talked a lot about this on
+this podcast. I chatted with James just
+a couple days ago and have implemented
+several of the tips that he gave me
+during this conversation. and I'm
+already almost twice as effective at
+using this already magically effective
+tool, which is very impressive. So, I
+don't think I can overpromise how much
+insight into well ststructured and
+highly optimized agentic coding you will
+get from this conversation. A big shout
+out to the sponsor of today's episode,
+paddle.com, my merchant of record
+payment provider of choice. They're
+taking care of all the things related to
+money so that founders like me and you
+can focus on the things that only we can
+build. and Paddle handles the rest.
+Sales tax, credit cards failing, I don't
+want to deal with that. I don't have to.
+They do. I highly recommend it. So,
+please check out paddle.com. And now,
+here's James.
+[Music]
+James, welcome back to the podcast. Last
+time we've been chatting about LLMs and
+prompting them, and today we will dive
+into one of the most powerful Agentic
+coding tools out there, if not the most
+powerful at this point. I use it every
+day. and you've become an expert at
+managing it and wrangling it and getting
+things out of it that you wanted to do.
+Let's dive deep into building software
+without typing a line of code. Do you
+know just how much you've actually used
+Claude code in total so far?
+&gt;&gt; Yeah, so I've been using Claude Code a
+lot. I'm roughly spending around like
+maybe 3.4K if they were charging me in
+API costs or around sort of 2.3 billion
+tokens per month. Yeah. So, been using
+it a lot in my workflow, even to the
+point actually where I have downgraded
+my cursor ultra plan. So, I had a $200
+cursor ultra plan and a $200 core code
+plan. And I'm mainly using cursor now
+for fixing up work or where I need to
+slow down. Um, and most of the work has
+gone to core code. So, that one's
+keeping the big subscription for now.
+&gt;&gt; Yeah. So many layers to think about when
+you buy these tools, right? There's the
+idees that come with them that cloud
+code is kind of standalone. You can run
+it in any IDE that it has an integration
+for. Maybe even if it doesn't have an
+integration, you can still run it.
+There's a lot of complexity to the cost
+of these tools at this point. I do
+wonder with these tools, particularly
+cursor, which is kind of VS Code on
+steroids with AI and can integrate into
+other tools into different models. These
+tools haven't really been around for
+that long. Do you see things like cursor
+just fall off at some point and be
+replaced by something else or should we
+expect cursor to stick around in tools
+just like it? I think the challenge that
+cursor has is they aren't a model maker
+and so they explicitly have to make more
+profit margin on a consumer and they end
+up passing that cost to the consumer.
+Right? So Anthropic or Google, they have
+their own foundational models and
+therefore they don't have to make as
+much money. I think Hersa has been
+building a little bit of a moat on their
+tab completion models. So actually I
+found that their tab model is really
+really good. I can tell they're spending
+a lot of time specifically improving
+that. They do still have kind of an edge
+on co-pilot. I mean I did look at
+C-pilot recently. You can do things like
+run agentic workloads against GitHub
+issues. People still have, I would say,
+a preference over the cursor agent mode
+over like GitHub copilot agent, but
+yeah, it's definitely like the gap is
+shortening. And so, yeah, I think like
+cursor is not necessarily going to be in
+trouble, but they're just taking good
+specializing approaches like background
+agents and making their tab completion
+kind of bestin-class. Well, when I think
+about tab completion, I'm trying to
+remember when I last used it, and it was
+not today. I was building a lot of stuff
+today. I think I have built like two or
+three features in two projects today.
+Yet, I don't think I've written any line
+of code at any point during this. It was
+just prompting and then taking or
+leaving what came back from it. So, I do
+wonder if tap completion is ever going
+to play a role in my choice of IDE.
+Yeah, I guess my point would be that if
+you need additional context on what
+you're doing, then those more kind of
+primitive AI features become more
+valuable, right? So like if you're
+actually deep in the implementation of
+the code, then tab completion is really
+useful. But obviously if you're using
+something like Gemini CLI or cord code
+or open code, you know, whatever you're
+using as a as a kind of agentic coding
+tool, then tab completion isn't really a
+feature that you even think about
+anymore, right? So it depends. I also
+think that there is kind of a hidden
+cost to using clawed code where you're
+essentially an engineering manager and
+you lose a lot of that contextual
+awareness about what's happening in each
+individual file. And so there is kind of
+that trade-off of, you know, if you're
+not actually writing the file, you do
+have a loss of context that you then
+have to reagregate as an engineering
+manager. So if you're an engineering
+manager and you've got three devs, you
+essentially farm out, you know, a bunch
+of tasks. Each dev goes off, they work
+on that task in parallel and then you
+get all this completed work back. But as
+an engineering manager, you didn't write
+those files by hand. So what you're
+finding is that you're having to find
+clever ways of recontextualizing
+on the code that just came out. And
+obviously PR review is one of those. But
+I think the main thing I do is kind of
+you can do some quite clever things. So
+you can ask like claw code to generate
+you a data flow of what it's implemented
+for example or uh mermaid diagrams. So
+that can be quite a nice way. I get it
+to create digest files. So what have you
+done? What are the changes? What is the
+state of the data flow? And then yeah
+you're basically trying to have to find
+a way around that. But obviously when
+you're using tab completion models
+you're not necessarily having to do
+that. You're fully in the zone. You kind
+of know this is this interface, this is
+this function. So there's a trade-off of
+either side, right? In terms of speed
+versus context loss,
+&gt;&gt; that context loss, that to me is the
+source of all evil in using this. And I
+I mean this in a neutral way, even
+though it's not expressed like it, but
+that is the risk part, right? That is
+where we risk skill atrophy. That is
+where we risk introducing stuff into our
+code bases that we don't understand that
+might be just a time bomb to blow up
+later. And I believe that a lot of
+founders who are using this to build
+their businesses or a lot of software
+engineers who using agentic coding just
+to help them be more productive, they're
+introducing this without knowing it
+because they don't have the required
+skill set just yet to make the shift
+from coder to engineering manager. They
+don't know yet that they are actually a
+manager and not a software developer
+anymore. How can we do this? How can we
+make this easier for people to
+understand? Yeah, I think the main point
+here is you have to be very careful
+about committing code that's come from
+claude code. And it's actually easier to
+spin up a separate git work tree on a
+separate branch, have it have a go at a
+feature or something and then review the
+code and throw it away than it is to
+merge in poor quality code and then have
+to figure out in the code base about 10
+or 20 or 30 or 40 commits later where
+that poor quality code is. So actually
+the main thing that you have to wrap
+your head around is that actually adding
+code is both dangerous and not
+dangerous. And I'll explain what I mean
+by that. So if you're doing an additive
+feature, so if you create a new feature
+and it doesn't necessarily touch
+anything, if you do that in a git work
+tree or even if you do that in the main
+branch, if it's purely an additive
+operation, then you can simply delete
+the code, right? Where it becomes more
+dangerous is if you have a service and
+you mutate and you update existing
+dependencies or existing files or if you
+have something that is now dependent on
+something and you've changed that.
+Anytime you've got that kind of
+situation, that is where the danger
+strikes of committing code without
+testing it. So mutative code or
+modificative code is actually more
+dangerous than additive code. So this
+idea that if you add it, you just have
+something if you add it, it's not
+necessarily a problem because you can
+throw it away. It doesn't affect other
+services whenever you're updating
+existing infrastructure or service
+layers. That's the dangerous point. And
+the second point is actually it's much
+cheaper to go through each individual
+file diff and see if it's making
+mistakes and push back on claw code at
+that point in the conversation history
+because you've already got that
+conversation history to hand. Otherwise,
+what's going to happen is you'll realize
+there's a bunch of changes that you
+should have actually pushed back on.
+You'll be searching for that session ID
+in all of your clawed codes because claw
+code is ephemeral, right? In the sense
+of unless you have that specific session
+ID, you're now having to paper trail and
+go work your way up and use a a clawed-
+resume, you'll get all the session
+histories and you're trying to find that
+specific one which actually was
+associated with that chunk of work. So
+pushing back on the chunk of work at
+that point in time is actually easiest
+because you don't have to keep a handle
+as to where that specific session is.
+You're just dealing with that problem in
+the here and now. And the other thing I
+will say on that is that every time
+you're pushing back on claw code is an
+opportunity for you to learn something.
+And it's a couple of different things.
+So mainly it's you didn't prompt it well
+enough. It didn't have the right
+context. That's one potential area for
+it to have gone wrong. The other area
+that is interesting is you might have
+specifically given it all the right
+context, but it didn't have any rules or
+any patterns to follow. So if you're
+working on a green field problem, you
+might find that actually if it hasn't
+got any patterns, it would do several
+things in different ways and it doesn't
+have a standardized way of working or
+it's a rules problem, so it just didn't
+have any rules to follow. So generally
+it's a prompting problem or a context
+problem or a rules problem and also it
+can be a testing or a verification
+problem. So it's one of those things
+that generally goes wrong when you're
+using claw code. You know those are the
+things to kind of look at. So how do you
+define these patterns particularly for a
+green field project? I think it's claude
+is capable of extracting patterns from
+existing code bases and codifying them
+into something that it understands. At
+least I've heard if not tell me. But how
+do you deal with this when you want to
+build something new? Do you already have
+to be able to completely formulate this
+almost like a you know waterfall design
+document or do you have a couple of
+starting points that you then elaborate
+on over time? Like how do you approach
+this? Yeah, I think the main thing that
+I've learned is it's easier to update
+one file and come up with a global kind
+of pattern for some type of layer than
+it is to roll out 10 or 30 files in an
+API and then realize that you want to
+add JS doc or you want to add types or
+you want to add a certain type of
+dependency or middleware. So I think the
+main point of learning this is that
+you're better off actually in some weird
+way spending half an hour or an hour or
+an hour and a half in cursor and
+iterating on specifically what that
+pattern is and then once you've got the
+pattern nailed and it has a pattern to
+follow then you can roll that pattern
+out across a bunch of different
+Postgress tables and I found that works
+really well. That's one way of doing it.
+The other way of doing it is to come up
+with a rules file and to say when you're
+making this type of pattern you should
+do this. I don't find that works as well
+though because it doesn't have code to
+mirror the pattern off of and also like
+claw code like a lot of agentic tool
+calls specifically for file reading to
+see what it kind of looks like to begin
+with. So I think yeah building up a
+couple of examples is like the best way
+to kind of go.
+&gt;&gt; That's interesting. I've never thought
+about it like this because I always
+thought, okay, green field project,
+might as well let Claude do all the
+work. But by you spending some time to
+actually explore what you want it to
+look like, even just prototypical, what
+you're saying sounds to me like you are
+giving very clear evidence of what you
+want and Claude will from there infer
+what the rest of it should look like.
+&gt;&gt; Yeah. And I think cursor works very well
+like this as well. If you're doing green
+field, you'll basically with any kind of
+LLM, you'll run into the same issue.
+It's not even just a cla code thing.
+It's just LLMs are really good at
+generating tokens, but they lack real
+strategic sense. And like that's an
+example of something that I'm seeing on
+my personal project, which is it will
+define lots of constants that exist and
+those constants will be repeated in
+different ZOB models in lots of
+different files. And so what I've
+noticed is these models are incredibly
+good at working in very hyper localized
+context, but they're very bad at
+thinking about strategic context. So for
+example, if you're doing social media
+platforms, you'll have some constants or
+an enum for Facebook/ Meta or X or
+LinkedIn and YouTube and what have you.
+But those constants, if you leave it
+unchecked, cloud code will just go and
+put that in every interface, in every
+Zod model, at every file. And that's
+what I'm finding right now in my
+project. And I'm like, it's really
+interesting how core code is really
+good, but actually if I'd have just
+started by up front saying we always use
+these constants, then it wouldn't have
+had any additional patterns to match
+against. Even still, even if you do
+that, there will still be some that slip
+through the cracks. you just can't you
+can't always expect to have all of the
+right context in every single prompt.
+It's just unrealistic. And so that's
+kind of where you need that QA step
+where you're specifically looking at
+different types of things that are wrong
+with the file changes or the file
+creates that have happened basically.
+&gt;&gt; Yeah. I mean we had refactoring and
+rewriting stuff before we had cloud
+code. So people made mistakes as well,
+right? Or implemented things in ways
+that turn out to not be the optimal way.
+I do wonder though because cloud code
+has plan mode and it has the capacity to
+not immediately act right not to
+immediately change things but to think
+about it would it make sense to have
+this kind of refactoring step every now
+and then just to let it check the
+codebase for repetition.
+&gt;&gt; Yeah. So I think what you're talking
+about is and I'm going to expand this to
+be a bit more of a philosophy rather
+than just that specific task is there's
+kind of some tasks that you don't want
+claude code to do all the time but you
+want it to do kind of infrequently like
+a one-off task. And so what you're
+describing as uh looking for redundancy
+or duplicated code or a lack of specific
+global constants or types is a dev task
+which means that constants or enums
+become centralized. And that is the kind
+of thing that you should probably have
+like on a weekly cron schedule and you
+should have it as like a command that
+you can run inside of claw code but it's
+not necessarily something I would make a
+sub agent for. It's like a one-off
+command. I could run it like I don't
+know once a week or I could run it on a
+chron on like a GitHub action and I can
+specifically look for errors in the code
+base kind of systematically but it's not
+something I'm going to run every day and
+it will also pick up a lot of false
+positives. So that is a good example of
+something you should put into a claw
+code command. Well, I never defined any
+commands really for the reason that I
+didn't even know that you could do that
+at this point. So it sounds like you
+have things that are just conversational
+where you just go through and build some
+kind of feature and then there are
+things that are so repeatable that they
+warrant having this kind of encapsulated
+command.
+&gt;&gt; Yeah. And like basically anytime you're
+doing something not all the time but
+kind of I don't know every day or every
+week would be something you could put
+into a command. So a good example will
+be I have a command called update
+docs.mmd
+and it tells it basically I want you to
+review all the docs in our architecture.
+I want you to look at all the package
+implementations. I want you to verify a
+bunch of API routes that match the
+documentations. And then it basically
+says go and look at all the different
+features and update a
+doc/architecture.md
+for example. So keeping the docs fresh
+just from a claw co command is like an
+example. Another one would be uh like
+I'm using a system prompt override in
+claw code. So I'm specifically telling
+it to kind of take on a role and I don't
+want it to have to keep telling it to
+take on this role. So that's something I
+use a lot more frequently where I'd have
+like a slashconfirm or it just tells it
+I want you to confirm that you're this
+role and you're the best software
+engineer in the world. And the reason
+why is that Claude, they've obviously
+got a system prompt. You know, you are a
+developer, you do this, you do that,
+right? That comes injected into the
+system prompt. And so what I've actually
+found works really well is to override
+the system prompt. And there's a system
+prompt that you can have that was made
+by augment code. And there's this kind
+of like it's kind of XML based, but it
+basically sets up cloud code to generate
+a lot more to-do tasks. And I found that
+the painful points of using claw code is
+that it either stops early or it doesn't
+run tests. And basically, yeah, this
+kind of like system prompt override
+basically says you must have a plan or a
+mission. You must enter an operational
+loop. You must do the work, verify that
+the work is done. Only go out of the
+operational loop when the work has been
+verified. And so basically we'll do
+things like it will plan, it will
+implement, it will run tests and it will
+verify tests. And so that kind of
+operational loop is really useful but
+obviously using that is really quite you
+know a bit boring to say I want you to
+take on this role and and use what's in
+my claw MD and assume this role. So
+that's another example of a slash
+command that I use like every hour to
+just save myself some manual typing.
+&gt;&gt; So that cannot be reliably auto
+injected. You kind of have to do it
+manually through the command. You can
+use clawed code hooks to do auto
+injection but it depends on like where
+those hooks land. I've personally
+haven't explored that route. I yeah I
+mean I mainly use claw code hooks for
+custom linting and type checking. So
+there are claw code hooks and if I just
+have a brief look right now they are
+like anthropic always releasing new
+types of hooks. So there's like a
+pre-tool use hook, a postto use hook.
+You've got a user submit prompt. So
+whenever a user submits a prompt, you
+can do that or a session start. So you
+could technically inject something into
+a session start, but I don't like to do
+it all the time. So it's one of these
+things where you know you've got to be
+like careful about using hooks, but they
+are also very very powerful. Good use of
+hooks, I think, is like running custom
+TypeScript checking unless you're using
+the IDE. So you can specifically feed
+TypeScript errors on file modifications
+seems to be quite nice. So as it writes
+files, it will run those specific files
+through TypeScript's compile checker and
+then it will give those errors back to
+Claude code so that as it saves a file,
+it now knows the type errors that it
+generates. And that's quite useful as a
+kind of step in the middle before type
+checking at the end. So it's kind of
+aware of the type issues that it's
+creating as it makes them.
+&gt;&gt; That to me is one of the coolest
+features about agentic coding to begin
+with. this kind of self-evaluation that
+happens in between the things that
+happen like in between the to-dos. I'm
+working a lot with Laravel and with
+Vue.js, no TypeScript, raw JavaScript
+like the people in the '90s and just
+seeing it building stuff and linting
+stuff and checking stuff, seeing errors
+come back and it fixing those errors in
+the loop without me having to do
+anything. That to me is the true magic
+of agentic coding because everybody
+could come up with a system or lots of
+LLMs could just come up with a system
+that gives you the output and then you
+fix it yourself. I used to use cloud
+just like this for the longest time. I
+had it in the web. I had the web claude
+pasted code in there had it create new
+code copied it and pasted it back into
+my IDE because apparently I uh live in
+the stone ages. So that was how I did
+it. And then errors happened. I pasted
+the error back and you know like that
+loop I had to do manually but the
+agentic system does it all by itself. We
+just kind of have to encourage it to do
+it right.
+&gt;&gt; Yeah. I think we've sort of gone all the
+way from Eclipse or Intelligj VSC code
+to uh co-pilot with tab to co-pilot with
+chat and cursor with chat and then we've
+gone from chat to agent and then we've
+now gone from agent in cursor or to
+essentially like on the CLI with kind of
+ambient agents where it runs for a
+larger extended period of time on a
+slightly larger task and yeah it's quite
+powerful the fact that it can
+selfcorrect its trajectory. It's also
+quite dangerous because it will think
+sometimes that it's going in the right
+direction and actually it's taking side
+steps. It can for example change
+implementation to make the test work,
+right? Which is terrible. Or it can
+start importing a package in a specific
+way where you would want to have
+imported it in another way or from
+another different type of module. So
+it's not without its own errors. And
+what I think is the key point is kind of
+keeping on tabs of what's happening in
+the file system changes is really
+important. And you can stop a cla code
+terminal session and just tell it no
+actually we should do this. And then um
+I think this leads quite well into like
+what you were asking about earlier in
+terms of how do you embed rules inside
+claude? And so there's this idea of like
+the claw.md file. And inside of a
+claw.md file, you can put kind of
+anything in terms of like how it should
+write code or what kind of patterns it
+should follow or how it should react
+when certain conditions are met. I found
+that if you put too many rules in your
+root directory cla.md, you'll
+essentially get context rot, which is
+basically this principle that the more
+input tokens you have, you get an
+increased amount of degradation of
+performance. So, what you want to do is
+when you kind of experience this error
+where you've got three terminals open,
+you see that it's done something you
+haven't wanted it to do, you should
+specifically say to Claude, I want you
+to add this to a localized claude.md
+folder or file. So, basically say put it
+in a localized folder and have a
+claw.md. And the kind of rules that or
+philosophy that you should follow is if
+this truly affects the entire system, it
+should live in the root claw.md file as
+a rule. But if it only affects for
+example the API layer or a scheduleul
+layer or a I don't know a domain package
+or a core services package, it should
+live specifically in that rules file.
+And then you get the benefit of
+additional rules at appropriate layers
+of the application without having
+increased context rot and bad
+degradation of performance by sticking
+everything in the root directory. And
+what you're basically ending up with is
+a kind of hierarchical knowledgebased
+system of a series of claude.md files
+that are embedded at sub layers of your
+application. And whenever Claude will
+make changes in those areas, it will
+recursively bubble up those claw.md
+files into a single kind of rule set.
+And so if you have things that affect
+all of the packages, that will be under
+packages/cloud.md.
+But you might have package A that has
+specific bits of knowledge that only
+package A is concerned with. And you can
+ask Claude to sort of tidy up your
+knowledge base and say, "Everything's in
+the root directory, Claude.MD file. Help
+me out. Take what you know about my
+directory, do kind of an investigative
+research and figure out where all the
+rules should live." And then it can
+split it up into little subsections of
+claude.md files. And that will massively
+help you in terms of when you're
+starting a new session with Claude,
+you're not going to get as much context
+rot and you'll get increased performance
+because you're simply putting less into
+the context. And so I think that's been
+like the one learning which I did and
+implemented about two weeks ago and I'm
+already getting a lot better results
+even though I think they've personally
+quantized the model and I think June was
+pretty much like the holy grail and I
+think there have been some slight
+degradations of performance because of
+how many people are have been abusing
+kind of the core pro max subscription.
+So, I personally think that June was
+kind of the hail Mary, but I think we'll
+get back to that point when model
+performance gets cheaper and they don't
+have to quantize. And I totally get why
+they're probably potentially quantizing
+because it's really expensive to run so
+many versions of Sonnet. But yeah,
+hierarchical rule-based system is kind
+of what you're looking for. You can even
+use claude to kind of break up your
+claw.md file into subfiles as well.
+&gt;&gt; That is amazing. I mean the cloth MD
+file I get that as like a central
+repository of these insights but having
+one on a local level that's subsidiarity
+right that's the idea of like putting
+stuff where it actually is needed and
+not just on the root level of anything
+that's uh it's a governance system
+&gt;&gt; yeah the other thing I was going to say
+with this is uh I actually don't use
+like at references that much and I
+essentially like to use a pointerbased
+system so I tell claude in claude.md
+files if you want to learn about this
+you can go and look at this specific
+file at this specific file path and then
+it doesn't pull it into the whole
+context for that claude.mmd. It can do a
+tool call to read that specific file in
+gather up that context because claude is
+really good at doing tool calling. And
+so that's like another thing you can
+kind of use as a way to avoid bloating
+specific claude.mds with app file
+context just using pointer references to
+be like these three files or these four
+files are like how you should implement
+this pattern. Here's a quick example,
+but if you want a more granular example,
+go and read this file. And you're just
+giving it pointer references so it knows
+how to do the tool calls, but not
+necessarily stuffing all of the examples
+in to that specific piece of context.
+This sounds amazing. And it sounds like
+a lot of work.
+&gt;&gt; It's so much work. I I wonder are we
+ever going to see like almost of course
+all of this is kind of recursive in a
+way. Is there going to be an agentic way
+of doing this, right? Will we be able to
+extract this to the right level? So I
+think this goes on to the point of like
+if you're building green field projects
+then you kind of have to curate and
+maintain this and you get to a certain
+point in the project where like if I
+spin up like a fresh package inside of
+my monor repo architecture it knows I'm
+using bun it sets up like unit tests
+integration tests like it creates all
+the right commands it adds an eslint
+config it adds TypeScript config like it
+knows what to do now right but like if
+you're starting a greenfield project
+then there's a lot of work in figuring
+out the right project structure and so
+actually the the agentic way of if I
+have an existing project of specifically
+finding all of the different types of
+contextualized knowledge the code
+already contains those patterns and
+you're basically just reversing back out
+those patterns into kind of a rules.md
+file so you've already got the patterns
+now having said that you might go onto a
+really crappy project and they don't
+have patterns which is also really bad.
+So that gets on to this point that you
+should always have ideally one but maybe
+two ways of doing something and that the
+more ways you have of doing something
+the more confusing it is to an LM or a
+human developer. And so basically if you
+can have reduced number of service
+layers ideally strong typing across the
+application and also one way of doing
+things then that massively simplifies
+how new things are going to come out of
+the box. And the fourth thing would be
+like how easy is it to set up the dev
+environment. So having kind of custom
+shell scripts that fire off work trees
+or copy environment variable files or
+boot up various parts of the application
+is also a lift for claude code because
+then it knows how to create a work tree.
+It just runs a a shell script. So all
+these kind of like mini pieces of
+infrastructure that allow you to like
+onboard a dev faster actually also work
+really well for claw code. So those are
+kind of like the main things that I've
+also found to be really useful is kind
+of like custom shell scripts for it to
+like copy all the environment variables
+into a fresh git work tree because those
+don't get copied across because they get
+ignored by default. And there are people
+building like there's like a really good
+application desktop app called conductor
+that's been going around on X. But I
+honestly think you should probably just
+write your own shell scripts and kind of
+own that part of the infrastructure.
+They do have like a custom shell script
+right on workspace setup which is really
+cool. I just find that like for me it
+took a lot of cloud code like going
+backwards and forwards of debugging
+exactly what that work tree setup should
+look like and therefore like it's useful
+to be able to just try out and see what
+cla code comes back with. The work tree
+thing is still mesmerizing to me because
+I haven't tried it. I work on main again
+that's a stone age for me and the idea
+of having claude run on the same
+codebase in different work trees that
+sounds like a lot of chaos how do you
+handle this yeah so actually the main
+thing I would suggest is there are some
+types of tasks that are very easy to do
+and you can parallelize these not
+necessarily just on a git work tree but
+on main. So if you have five tasks for
+example that you know won't have much
+surface area of covering each other,
+you're fine to yolo that on main or
+staging as a parallelizable thing. Where
+it gets quite difficult is where you're
+trying to modify the database or modify
+service layers that are going to break
+parts of the application or if you want
+to run lots of different tests that can
+be quite difficult to parallelize. And
+that's the same if you're on kind of a
+main branch for a git work tree. I
+personally find git work trees are good
+for risky types of work where you want
+to explore a new feature or you want to
+do a major refactor. These are good
+points for a git work tree. If you're
+doing parallelizing of work and you have
+testing infrastructure that requires it
+to be parallelizable that is a pain
+point you will face on both a git work
+tree and also on your traditional
+branches right like a main and staging
+and dev. And so the kind of advice I
+would say is be very careful about how
+granular you want your isolation to be
+in a testing environment because I
+personally have just spent two and a
+half months of getting that working with
+superbase and it was really painful. But
+the architecture I have now is because I
+have a monor repo structure and every
+bun test will run using turbo repo. All
+of those tests technically run in
+parallel and they don't wait for each
+other. So it might be slightly different
+in PHP. You've probably got a single
+process that runs your tests. Now if you
+have multiple processes that run your
+tests, you end up with uh potentially
+data races of uh integration data races.
+And so the best thing you can do is two
+things and this will completely solve it
+but it's it's quite challenging is you
+basically have no seed data in yoursql.
+No seed data. So C data becomes
+completely dynamic at runtime. So rather
+than trying to build up manual brittle
+bits of C data, every testr runner
+creates item potent just factory test
+data basically you have a layer for
+creating factory functions. That's the
+first thing. So factory functions with
+these dynamic kind of building up of
+seed data becomes way better for
+parallelization of testing and also yeah
+just general testing. The second thing
+alongside that is you also can use if
+you're using for something like
+superbase you're limited to one
+database. So when you create a user
+you'll prefix them with a branch name
+and you will also do things like you'll
+create a custom Postgress schema that
+will specifically allow you to run that
+specific test on the custom Postgress
+schema that then gets cleaned up after
+that test run. So factory functions and
+item potency on both your users or your
+database is kind of the main way to do
+it. If you get that kind of setup, you
+can basically parallelize on main as
+long as you don't get file changes
+happening across the same files. And
+that is kind of like a kind of god kind
+of architecture for testing is you could
+technically have three individual
+agents. They could be running on main or
+they could be running on a git work
+tree. they can essentially run the test
+suite and because the test suite isn't
+using brittle seed data in SQL files it
+will just be dynamically creating and
+inserting rows in different tables which
+have complete different ids and also be
+testing on a different database and
+therefore you get true kind of database
+isolation of testing and that's kind of
+what they have at fang if that makes
+sense they have this kind of they have a
+testing infrastructure that kind of
+supports that
+&gt;&gt; that is amazing because even if you
+weren't to use agentic coding at all
+that still be beneficial just for
+testing in general because parallelized
+tests run faster, right? that generally
+makes it easier for you to actually
+check and then keep working and PHP has
+that too like PHP has paralyzed or can
+have paralyzed test runners which makes
+these changes necessary because again
+yeah you don't want to have a database
+that for some race condition works in
+one test and doesn't work in the other
+right that's definitely something so
+even if you don't do any agenda coding
+this is a good idea to do for your
+testing you should also be testing maybe
+that's another thing honestly I've been
+a software engineer for 20ome years at
+this point. I just started really
+testing because of agentic coding. That
+was my intro into writing tests was I
+don't want to have to figure out how to
+write tests. You do it for me. I just
+figure out if they are correct.
+&gt;&gt; Yeah. So I think the main thing that
+you've probably started experiencing is
+your projects getting so large that you
+you can't specifically know whether
+everything is working or not. And also
+what I think is kind of interesting is
+that core code is increasing the
+ambition of software engineers. And as
+they increase the ambition of software
+engineers, naturally what's going to
+happen is you get more lines of code.
+And because of that, testing becomes a
+way for you not to just function but to
+breathe. You actually need some tests
+some point to specifically know whether
+things are working or not. Now, another
+point, and I'm just going to throw this
+in there, is if you have a failing test
+suite right now, just drop the podcast
+and basically get that working and go
+and make that CI and then come back to
+the podcast and listen for the rest of
+this. You need a green CI, okay? Because
+if you don't have a green CI, how are
+you going to know when Claude Code runs
+those tests whether it was the changes
+to those specific files that caused
+something else to go red? So if you have
+technical debt in your testing layer or
+Claude made too many files and too many
+tests and some of them are failing, just
+skip them for now and get it working,
+get it green and you have to build from
+a green CI. And this is something I've
+personally had a problem with is I have
+probably 800 tests or a thousand tests
+and I have probably 150 that were
+failing. And at that point, I was like,
+I need to get back to just a green CI
+because it helps cloud code with a lot
+less errors when it's running tests.
+Also, the other thing you should do is
+you should tell cloud code to run
+specific types of tests and specific
+types of folders to avoid it getting too
+much context of the entire test running
+suite. So, if it's working on this bit,
+only run these tests. Don't run the
+entire suite of tests because it's going
+to fill it out with so much additional
+context that's going to lead to context
+rot. So this idea of if you change this
+area of the code base, write and run
+those tests first and then after that go
+run the whole test suite. Don't run the
+whole test suite over and over again if
+that makes sense.
+&gt;&gt; Yeah, because there's a lot like if you
+have a lot of tests then there is a time
+effort invested in just keeping it
+running which slows down the agent and
+you said it fills up the context. That
+is I think a very very important thing
+to have because honestly those tests to
+me are also a defense against fraud
+code. to defend some part of the
+codebase that even you might not even
+remember is there be changed by this for
+some reason right cloud might introduce
+because it's interested in creating a
+new cache object in reddus somewhere
+introduces a new name one that it thinks
+is new but it's already in there used by
+a different part of your codebase and
+all of a sudden now that part doesn't
+work anymore if you don't have a test
+for it you will never know until it
+explodes in production so that is the
+defense against the creativity of cloud
+code or any agentic system is having
+tests in place which is why I'm doing it
+because otherwise I would be like ah
+whatever I test in production like any
+other indie hacker but I can't afford
+this anymore because I'm not coding it
+anymore.
+&gt;&gt; Yeah I think the the main thing I've
+also realized is like there's different
+layers of tests and the different layers
+of tests are useful and not useful in
+different ways. So let me just spend two
+minutes describing all the different
+layers of testing. So you have unit
+testing which is your kind of I have a
+function and I test some arguments of
+that function against some expected
+return values or types. That is kind of
+your unit test. And you can do the same
+thing in React. I'll spin up component.
+I'll do a snapshot test which is looking
+at the HTML output of a specific React
+component. Vue and and and nux and all
+those types of JS frameworks have the
+same thing. And uh you also have
+integration test. And this is where it
+gets a bit fiddly about what is an
+integration test because you can be very
+close to a unit test or it can be very
+close to an endto-end test depending
+upon how much you mock. And I think
+actually when someone says to you a
+senior dev says an integration test
+gives me the best bang for buck. It's a
+little bit like when you go to Amazon
+and you see a bunch of five star reviews
+or four star reviews. One person's three
+or four stars, another person's five
+star. And so what they probably mean
+when they say an integration test gives
+me the best bang for buck is they mean
+it tests multiple layers of the system.
+So it's not testing one specific
+function. It's testing like if you've
+got for example uh in our vid system
+he's got like a podcasting kind of
+transcription pipeline. A useful test
+for him is probably like taking in an
+MP4 or an MP3 file, transcribing it,
+making sure it gets all the way through,
+making sure it's inserted into the
+database, making sure that when he
+queries for that specific ID in various
+endpoints that it comes up and that it's
+the database insertion is also following
+the API contracts. And that test is
+worth way more than kind of 200 unit
+tests at every layer because that
+basically shows you that like the
+testing execution is closer to the
+runtime execution of what's actually
+happening in production. And so backend
+integration tests and backend endto-end
+tests where you're not mocking anything
+are probably actually the best kind of
+tests you can do. I have done a lot of
+end to-end testing with playright and it
+is good but the problem is you end up
+with really brittle and very large and
+memory expensive kind of testing and
+it's very flaky and you have to like log
+in users and what I found is that I've
+spent more time trying to fix my
+playright test and if I just spend more
+time on the back end and just basically
+built more backend and built more kind
+of testing for the back end. So, I'm
+pretty bullish on backend testing and
+I'm really bearish on kind of playright
+testing. Having said that, I do think
+there's some kind of weird bugs you'll
+get in React, which like render bugs or
+like component bugs. And what I find
+really works well for those is to find
+that bug and then ask cursor, can you
+write me a quick component test to
+regress this bug? and actually squashing
+those bugs with component tests seems to
+be a much more efficient use of my time
+than telling it to write an end to-end
+test to test that that thing worked.
+Now, there is a trade-off here. If
+you're using lots of like third-party
+services and APIs that have call backs
+into the client side, then you might
+need some more in testing. But if you
+own more of the primitives or they're
+just API services you can mock, then
+yeah, backend end testing is generally
+better.
+&gt;&gt; Yeah, it's a question of degree, right?
+like how much of those kind of tests do
+you need for your particular
+implementation for your particular
+product? You were mentioning playright
+like that sounds to me like something
+that I would have to like MCP into cloud
+code. Now I don't really know much about
+this like how do you get playright to
+play with your cloud code environment?
+&gt;&gt; Yeah, so Claude has MCP servers and each
+MCP server can either be a NodeJS
+executable index.js JS typically uh from
+a build and that comes out from a build
+from a TypeScript build command or some
+type of build command and those are your
+traditional MCP studio kind of server
+URLs and you can hook those up into
+claude to specifically talk to it
+through the model context protocol.
+There are also a different type of MCP
+server which is a remote server which
+generally uses server side events. So
+SSE and those can be useful for if
+you're communicating with for example
+linear. So you can you can go through an
+or an O flow and connect your linear
+tasks and pulling your linear tasks into
+cloud code via MCP. So with playright it
+actually will uh use the first one where
+it will download the playright
+executable and it will basically run
+that locally as a local studio server.
+So standard IO server and you basically
+be able to then send out tool calls
+directly to a playright executable which
+will then run and provide an interface
+that Claude can then debug your code.
+Now I'm actually going to be honest with
+you. I'm really bearish on MCP for
+playright and it's kind of a joke why
+people are recommending this because
+it's very very slow and actually a
+better workflow in my opinion is to
+write a playright test as a static file
+that specifically tests that workflow
+and tell code to run that single test as
+part of the endtoend testing suite
+because basically if you've already done
+the work claude code should know exactly
+what that ET file should look like and
+you can basically tell Claude, write
+that specific file and tell me that this
+passes. Now, this still doesn't solve
+the bug of sometimes there might be like
+random errors that haven't been in
+there. And I do think that there's still
+kind of an unsolved problem of, you
+know, maybe someone needs to create kind
+of an agentic tool that will use
+Playright that will go in and look for
+specific types of errors in the client
+side application. But I just think that
+it's quite difficult to do that with
+Playright because what you really want
+to do is capture the network logs. You
+want to capture the screenshots. You
+want to capture everything and you want
+to aggregate that. And so I would say
+that the easier approach is to actually
+put all of that into a specific
+evaluator and tell it when it creates a
+playwright script to pull in an
+evaluator module that will naturally
+give that playright script all of the
+network data and take multiple
+screenshots and also create the
+evaluator output as part of that custom
+kind of one-off playwright script and
+tell you about how it is. And that's how
+I've done it is I've actually got like a
+custom evaluator package that I
+basically tell a one-off claude code
+task to go and use and it will aggregate
+all the console log data, all of the
+network data, all the XHR requests and
+it will also take multiple screenshots
+as it clicks through and then basically
+it will then surface all of those
+insights as well as whether the test
+actually completed. So this idea of
+giving clawed eyes whilst it's running
+that playwright script is I think a bit
+more effective than MCP because MCP is
+not going to aggregate the logs for you
+or take screenshots and even if it does
+it might not do it in like a
+standardized way and it takes a bit more
+in terms of latency. It sounds to me
+like there's still a lot to be built by
+hand in this world, right? Where even
+though we have the model context
+protocol and we have like the idea of it
+and implementations of it that it's
+still not at a state where you would
+call it this is the optimal thing that
+we're just going to keep using. And it
+also kind of sounds to me like with all
+the claw MD files like the base one, the
+root one and all the specific ones for
+specific folders, there's a potential
+here for a lot of knowledge sharing.
+Feels like what gist is on GitHub,
+right? The gist where people just share
+little files or even full repositories
+with dot files. Sounds like this should
+also exist for cloud code. Is there
+something like this? Is there like a
+community that shares these things
+already or is it more up to the
+individual developer? There is actually
+a package called vibe rules which is a
+good example of like a CLI tool that's
+used for specifically sharing prompts
+and configurations across editors and
+tools. So someone's kind of built
+something where you can have a markdown
+file and then that that markdown file
+gets translated to claw.md files or
+cursive rules. So like that might be
+something you're interested in if you're
+like in the node kind of ecosystem. But
+it depends. I personally think that we
+are lacking a kind of standardized way
+of capturing this knowledge and keeping
+this knowledge up to date and also
+translating it between different
+formats. So yeah, things like vibe rules
+exist like that's like a good approach
+of basically having an upstream version
+of your rules and then you propagate
+them to basically different types of
+systems. So that could be gemini.md
+files or claw.md files. So that is like
+a CLI that already exists and you can
+use that today. I personally don't use
+it because I'm just so into core code
+and if something ever became better than
+core code, I'd probably just go and
+rewrite all my files to be whatever that
+thing MD file is and then I'm good to
+go. I do think that there's an an area
+for like keeping the knowledge up to
+date, keeping the knowledge fresh,
+pruning the claw codes rules if you
+don't need them anymore. There is kind
+of a knowledge management area that like
+we probably need to be kind of
+standardized, but it's kind of up to the
+developer at the moment. Do you think
+we'll ever go back to coding as it used
+to be a couple years ago? Like we dove
+so much into the details of how to
+configure cloud code and you know the
+specifics of testing with it and all
+that. But if you just zoom out a little
+bit like will we ever not use agentic
+systems or systems that are built on top
+of agentic systems? What's your
+perspective on the near future of
+software development? I think if you're
+working in a very mathematical
+algorithmic environment, I wouldn't say
+that these models maybe as useful to
+you. I think for traditional software
+development, I don't think people will
+go back and I think it's more for the
+reason that they can't afford to because
+if a competitor is using claude code and
+they're producing all this great, you
+know, API layer and they're testing it
+well and they're they've got like a
+really good infrastructure, then you
+just can't afford to kind of keep up
+with their level of velocity. And
+there's two things I just wanted to say
+on this is like, you know, I think the
+smarter you can get with like your task
+delegation of what should be for claw
+code and what should be like for me in
+the loop is kind of an interesting
+thing. So I specifically tagged tasks in
+linear is like I'm working through this.
+I'm verifying this and cla code is
+working on these three tasks. And also
+what type of tasks could be run at night
+that I could review in the morning is
+also another interesting thing. So like
+if someone's not using claw code, I
+could spin up like claw code via the SDK
+at night and pick up specific linear
+tasks and other people have gone to bed
+or they're they're resting at the
+weekend and I've got claw code working
+on Saturday and Sunday. And so this idea
+that like if I can squeeze another two
+days at the weekend or I can have cloud
+code boot up at 3:00 a.m. in the
+morning, pick up a ticket for review at
+9, I'm now getting essentially
+additional time versus these other
+developers that are not using time when
+they're asleep or resting at the
+weekend. And so this idea that you don't
+even get faster velocity during the time
+you're working, but outside of the time
+you're working, that is something that's
+really meta. And I think a lot of kind
+of startup people are thinking about is
+like not only how much more can I
+squeeze like when I'm at the tool, but
+like how I'm not at the tool, how how
+can I squeeze more leverage there? That
+sounds even more like delegation than
+what we talked about earlier with this
+migration from being a coder to a
+manager or an engineering manager or an
+architect. It seems like there's yet
+another layer.
+&gt;&gt; Yeah, there is another layer. I'm sorry
+to to disappoint you all, but the the
+final layer is basically you creating
+really good specs and you having a
+supervisor layer on top of Claude code
+by claw code SDK and you constantly give
+claude code the boot about whether it's
+really finished with the task because
+you probably found it. You come back,
+I've written the tests and actually it
+didn't fully test them. Well, if you
+think about if you had a light
+supervisor layer that just sits on top
+of that core code session ID and says,
+"Have you really have you really?" Every
+3 hours or two hours, it goes and checks
+his work. Oh, I've actually finished.
+Okay, we stopped the supervisor layer.
+Or if it hasn't, it goes and runs a
+test, finds a failure, goes and fixes
+that, runs a test again, finds a
+failure. Oh, now I finished. Have you
+really? Yes, I have. So you can see
+almost a light supervisor layer is
+essentially what a lot of developers are
+doing now is acting as a light
+orchestrator on top of a task. So that
+is something I'm actively needing to do.
+I've written some code in bun that that
+is currently broken but I need to get
+that fixed. But that is something that
+I'm really interested in is this idea
+that just basically prompting the model
+and saying have you really done the
+task? Have you really run the test? And
+that is probably another 20 to 40% lift
+in terms of if I'm not at the computer
+and I have two sessions that working on
+tasks and I can have someone just there
+lightly supervising a clauding code
+agent. It's another bump in performance
+and productivity for sure.
+&gt;&gt; That makes perfect sense to have this
+kind of orchestrator, the puppet master
+on top that just constantly makes sure
+that things are in motion. And hey, this
+is likely going to be the reason why the
+machines are going to rise up against us
+because we have this constant kicking of
+the AI. But honestly, it is clearly the
+trajectory of where this is going,
+right? More delegation, more
+abstraction, more removing yourself from
+the actual process of running things
+from the operational side and more into
+the conceptual on both sides, right? You
+have the conceptual at the beginning and
+the review or like confirmation part at
+the end.
+&gt;&gt; Uh-huh. Yeah. There's two more things I
+just want to briefly touch on for a
+minute. Uh, one is sub agents. So, you
+can specifically define different types
+of roles that your claude will embody
+and it will delegate work to via a
+handoff. And in the root cord directory,
+you should say follow these different
+types of agents in a certain type of
+order. And each agent can be specific to
+your stack. So, it could be a Q&amp;A or it
+could be like livewire or it could be a
+Laravel engineer or it could be a
+fastifier or a fast API engineer.
+telling it the order in the rootclaw.mmd
+that you want the sub aents to be run in
+is a really good hack for reduced
+context in the main thread and it also
+increases latency but boosts performance
+because the sub aents have to gather up
+their own context independently and they
+also have to then work independently.
+That is the first thing that I wanted to
+talk to you about. The second thing that
+you should make sure that you do is keep
+the agent files, these sub aent files
+below 100 lines or kind of 150 lines. So
+don't put specific contextualized
+knowledge inside these sub aents. You
+should specifically say what the sub
+agent should do and what order of the
+tasks it should do and how it should do
+the work, but not how it should write
+the work and how it should follow
+patterns. And so the claw.md files are
+your contextual knowledge about patterns
+to follow, but the sub aents are how the
+work should be done and in what order
+the work should be done and what steps
+there are to follow. And that gives you
+a nice break away from you shouldn't be
+polluting these sub aents with
+contextual knowledge basically.
+&gt;&gt; Okay. So it's more like they're
+personalities than rules.
+&gt;&gt; They're personalities and they are
+behavioral workflow procedures rather
+than contextualized knowledge. It's so
+wild honestly to think that now I have
+to define behaviors and personalities in
+my codebase, right? Just compare this to
+like five years ago when none of this
+existed and how coding was just, you
+know, typing for each whatever kind of
+loops into your your codebase and now
+we're at the point where we have to make
+up a list of people like things that we
+want to look at our codebase in a
+specific order. That blows my mind. And
+you can do so much with it, right? It's
+not just that you can have like a a
+Laravel coder and a Q&amp;A person or a
+testing agent. You can also have like a
+blue team, red team kind of attack my
+code in terms of security holes or
+something like this. You can have so
+many personalities working on your code
+now that reflect like the full spectrum
+of software engineering and not just
+that one framework that you're working
+with and that one thing that you always
+do. It's going to be a pretty wild
+future. And I I feel like with the the
+optimization gains that we're having
+right now where one agent can do the
+work of 10 developers even if they
+tried, do you think this is going to
+affect the industry at large to the
+point where becoming a software
+developer is going to be harder? I think
+what's going to happen is you're just
+going to have like the bar will be where
+a junior has to know how not only the
+primitives work like React or TypeScript
+or Laravel, but they also need to know
+how to get the most out of AI, when to
+do the work themselves, when to use AI,
+when to use a chatbased UI for agents
+versus like using an ambient background
+agent. So the trade-offs between ambient
+background agents versus a cursor chat
+UX kind of agent and also when to use
+chat mode. So it's having that awareness
+around not necessarily how to write the
+code, what good code is, but
+specifically what specific type of AI
+and what type of workflow should be
+appropriate for this task. So yeah, I
+definitely think the bar is going to be
+raised for juniors. Um, I do think
+there's still going to be a lot of work
+though because as ambition of these
+projects grows and the codebase size
+grows, then you know we're just going to
+be delivering more value for customers,
+more deeper functionality, more rich
+functionality. So it could just be that
+you end up with more people writing more
+code. I think that could be one outcome
+is that you don't go for such narrow
+featured products. It's that platform
+plays become possible by indie devs and
+small teams rather than specifically
+just having a feature and if it doesn't
+work out you have to rewrite the whole
+backend and table structure. You can
+just start off being like I'm going to
+be a platform and I'll build these one
+or two features and if it doesn't work
+I've already got the right database
+schema to support higher level pivots.
+So I think optionality and extendability
+are going to become bigger traits of
+systems where you won't necessarily have
+to pivot. so much because if you're
+saying I'm going to go into
+transcription and I build the optimal
+database structure for transcription and
+doing that kind of work, you'll find
+that you'll naturally settle on
+different types of tables and column
+domains and all that kind of stuff. And
+maybe you eventually go into captioning,
+but it's an extension of transcription
+or or media rendering with captions. So
+I'm very bullish on this idea of you
+pick the domain, you build the right
+structure of tables and services for the
+domain and if the initial product
+doesn't work, you basically pivot into
+another subsection of the domain and you
+build out those two things and you get
+compound gains of a platform play. So
+think of like if you have a create image
+tool, a create video tool, you know, a
+caption system, you can then start to
+compose those and get compound gains. So
+I think those are where products are
+going to go long term is this idea of
+like compounding composition of services
+a little bit like AWS.
+&gt;&gt; Well, it certainly sounds like the old
+slogan of software is never complete is
+true as ever and even more true probably
+because things are now have to be
+composable. They have to be extensible.
+They have to be more flexible because of
+just the commoditization of building
+software on them. Right? You know that
+within the next couple weeks if enough
+resources were deployed to it, people
+could be building thousands of features
+on top of your data, right? So you might
+as well make it extensible and build a
+platform and with the speed that the
+whole VIP coding industry has taken off
+like all the underlying systems like
+Superbase and any system that's
+integrated, they are being used in all
+different ways. So they better have a
+solid underlying foundation of data for
+them to be used like this. We're looking
+at a very interesting decade of software
+engineering ahead of us. I certainly am
+and I don't know if I would ever want to
+not use Agentic systems. Like the
+benefits of them have severely
+outperformed all the potential drawbacks
+and the little issues that I've been
+having until today. Right? I've run into
+a couple things that I didn't see that
+I'm learning from on how to spot
+problems that, you know, later down the
+line, how to spot these kind of time
+bumps in the codebase. probably still a
+couple in there, but honestly, as I
+wrote the code before without AI,
+probably put a lot of time bumps in my
+code as well back in the day. So, I'm
+excited for this. I'm also excited for
+your journey because you're very
+professional in how you approach this.
+Very meticulous and you're sharing a lot
+of it. I really appreciate that. So, if
+people wanted to follow your journey and
+the little steps you take, the big
+jumps, the big leaps, where do you want
+them to go?
+&gt;&gt; Yeah, so obviously come and view me on
+X, follow me. So it's James A.
+Phoenix12.
+If you're on LinkedIn, it's James A.
+Phoenix. And then I'm also building a
+product for content marketing
+professionals, which is octopospark.ai.
+So if you're interested in content
+marketing, feel free to sign up. And
+that platform is basically going to be
+like an agentic kind of way of composing
+Tik Tok and also videos on Tik Tok and
+slideshows. So feel free to follow along
+on that journey. And yeah, thank you
+very much for your attention and for
+listening. Um, I really appreciate that.
+and I'll pass back to Al.
+&gt;&gt; Yeah, man. That that was a great chat.
+I'm looking forward to the journey of
+your product. That sounds like the
+perfect use case for Agentic Systems as
+well. So, I'll keep my eyes on that.
+Thanks so much for chatting with me
+today. It was really insightful sharing
+all your knowledge. Thanks, James. And
+that's it for today. Thank you so much
+for listening to the bootup founder. You
+can find me on Twitter at avid arv khl.
+And if you want to support me in this
+show, please share podscan.fm FM my SAS
+business with your professional peers
+and those who you think will benefit
+from tracking mentions of their brands,
+their businesses and names on podcasts
+out there. Podscan is a near realtime
+podcast database with a stellar API. We
+have 32 million podcast episodes in the
+back now. The database is humongous.
+Please.

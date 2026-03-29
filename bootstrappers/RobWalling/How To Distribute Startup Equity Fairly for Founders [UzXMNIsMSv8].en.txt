@@ -1,0 +1,271 @@
+﻿in this video i'm going to cover how to
+distribute startup equity fairly for
+founders if you stick around until the
+end of the video i'll share a resource
+you can lean on if your situation is
+more complex than what i discuss in this
+video i'm rob walling i'm a startup
+founder with multiple exits author of
+three books on building startups and an
+investor in more than 100 companies i
+want to be clear from the top that this
+video is about founder equity which is
+different than employee equity which
+maybe is a topic we'll cover in a future
+video but think about equity
+distribution for the founders of a
+company to begin everyone even founders
+should vest their equity that means they
+don't get it all up front because
+there's a huge risk with a founder
+taking their equity on day one
+stopping work on the company and now you
+have a problem on your cap table
+standard vesting is a four-year vesting
+period for equity with a one-year cliff
+meaning no one gets any equity for the
+first year after 12 months you get 25
+and then subsequent years you get the
+remaining you know three-quarters of the
+equity basically you don't have to stick
+to that script it's just a typical
+vesting schedule i've seen founders
+invest their equity in less time like
+having a three year equity vesting
+period with a one year cliff or three
+years with no cliff there's different
+ways to do it i want to be clear at the
+top of this video that none of this is
+legal tax or accounting advice it's just
+the opinion of someone on the internet
+who has been around startups for a long
+time and invested in a lot of them and
+so i have some battle scars to uh to
+prove it and i've seen cap tables that
+are well structured and then i've seen
+some that have been decimated by
+unfortunate distribution of founder
+equity i want to say something that
+maybe is a little bit controversial that
+in all honesty most companies should
+probably not split equity evenly between
+the founders and that's because founders
+bring different things to the table
+depending on their experience where they
+are in their career how hard they're
+going to work on the company there's so
+many factors and the default i think is
+to kind of be harmonious and just so if
+there's three founders we each get equal
+split right if there's two founders
+which get equal split and i think in a
+lot of cases that maybe shouldn't be the
+case so let's dive in to maybe some
+formulas that we can look at on how to
+better distribute equity i want to
+introduce you to the talk framework for
+calculating equity it's toc which is
+time opportunity cost and cash
+contributions and those are the three
+factors that you have to weigh as to
+what each founder brings to the company
+so let's start with t which is how many
+hours per week do you plan to work how
+many hours per week does each founder
+plan to work in this company so once we
+have our time commitment we look at the
+opportunity cost and this is how much
+would you each make working at the same
+company in the same location so you
+can't say well i make x and you make y
+if you live in new york city and i live
+in alabama because the costs of living
+are different or you work at facebook
+and i work at general mills because the
+salaries are different so you have to
+give it some thought right and work it
+out like if we both work for the same
+company in the same location how much do
+we think each of us would make and so
+maybe one founder is more senior they're
+a cto or their vp of engineering and
+they would make 160 000 working at a
+company in minneapolis versus a junior
+dev who might make 80 000 working in
+minneapolis so now i want to look at two
+examples to kind of run through numbers
+because look it's we're doing math on
+the internet in a video which is not the
+most riveting thing but this is just to
+get the point across that this stuff is
+pretty complicated and we're trying to
+quantify or simplify it such that you
+have some type of formula to look at
+this is not going to cover every edge
+case or be perfect but as i mentioned at
+the top of the video anything that falls
+outside of here any extenuating
+circumstances you can look at the
+resource that i name at the end of this
+video so for example one let's take
+founder one who as we said above would
+make eighty thousand dollars if they
+worked at the same company as founder
+two so eighty thousand dollars divided
+by two thousand equals forty dollars an
+hour founder two makes a hundred and
+sixty thousand dollars divided by two
+thousand and that equals eighty dollars
+an hour so it's twice as much
+if they're both going to work full time
+then really we just add all the rates
+together 80 plus 40 equals 120 and then
+we find out the percentage that each
+hourly rate gives us so the 80 an hour
+employee is at 66 and two-thirds percent
+and the 40 an hour employee is at 33 and
+a third so it's a two-thirds to
+one-third split now that may seem crazy
+to you know only take a third of the
+company when you're both going to be
+working full-time but what this is
+trying to capture is the idea that
+opportunity costs are different for
+different people that someone making
+hundred sixty thousand dollars is
+probably seven to ten years into their
+career they have a lot that they are
+putting on the line by starting this
+startup versus the person who is a year
+or two in their career they have less to
+risk and so whether you look at this and
+say well maybe 60 40 seems more fair or
+whether you know one founder takes
+compensation and you adjust this formula
+or whether one founder buys in with cash
+contributions as we'll look at below
+that can also adjust this so this is not
+something to take as gospel for your
+equity again not legal advice but it is
+a way to start getting to a point where
+you have some number other than just the
+default well we're gonna split it evenly
+now let's look at example two so in this
+example i'm gonna mix up the salaries so
+founder one let's say they make a
+hundred thousand dollars a year and you
+divide by two thousand you get fifty
+dollars an hour
+founder two hundred fifty thousand
+dollars a year divided by two thousand
+they get seventy five both gonna work
+full time but founder two is going to
+take twenty five dollars an hour out of
+the company so you subtract that from
+their 75 and now we have 50 an hour each
+and the hourly rate basically are equal
+and since the hours are equal as well
+because they're going full time this
+would be more of an equal split and so
+again is this approach perfect i don't
+think so but i do think it's better than
+two founders splitting it 50 50 just
+because that's the default assumption so
+in our talk framework t-o-c t was time o
+was the opportunity cost and c is cash
+contributions what if one founder has
+money in the bank and they want to put
+fifty thousand a hundred thousand
+dollars into the company what you have
+to do here is decide on a company
+valuation and then you figure out how
+much of the company the cash
+contribution purchases so if you decide
+well two people with an idea is worth
+450 000
+and one founder wants to put in 50 000
+then that would give a post-money
+valuation of 10 right you take 450 plus
+50 and now 50 is 10 of 500 000 post
+money valuations are a whole topic under
+themselves i won't go into here but 10
+would basically come pro rata from each
+of the other founders who did not match
+this contribution the challenge of
+splitting up equity in your startup is
+that different people come with
+different things to the table they might
+come with experience and skills that are
+more valued in the market they might
+come with more time available to commit
+to the startup they might come with
+money what i'm trying to do is take
+these numbers and put them into some
+type of framework that can give you a
+general direction of where you should
+head with deciding on equity because i
+have seen founder teams kind of screw
+this up where someone's only going to
+work 10 hours a week and they're working
+a day job and they're not super focused
+and maybe they're a mid-level developer
+and they get an equal share of someone
+who is working full-time on the company
+and has sacrificed a lot and so those
+numbers shouldn't be the same but what
+we hear founders say is but i don't i
+don't want to get the argument you know
+or i don't know how to do this isn't
+there a formula and while there is no
+exact a perfect formula you know as i've
+said a few times i do think this starts
+to get us towards a rough number or a
+rough estimate of how we could divide
+equity now the problem with everything
+i've said so far in the video is it
+assumes that everyone starts working at
+the same time everyone works the hours
+that they say they're going to work
+which doesn't always happen so there is
+a more i'll say it's a more thorough but
+a more complex approach that would
+actually be really cumbersome to go
+through in a video but it handles the
+edge cases that i've mentioned hands a
+lot of edge cases and i'm going to tell
+you about it in a second before i do
+that i want to tell you about our
+community for bootstrapped and mostly
+bootstrap sas founders it's called
+microconf connect it's free it's heavily
+moderated it's an amazing community of
+more than 3 000 founders head to
+microconfconnect.com
+if you want to be part of the community
+and you get support you can ask
+questions it's a fun and knowledgeable
+place to hang out and to ask people
+questions about sas and to share your
+wins and your victories and your
+failures that's microconf connect.com so
+i mentioned a more thorough approach to
+handling equity splits and there's an
+entire book it's called the slicing pie
+handbook it's available for purchase on
+amazon but it is an entire book devoted
+to this topic and it goes even deeper
+than what i've been able to cover in
+this video so if you enjoyed this video
+i'd love it if you hit the like button
+subscribe to the channel we have new
+videos like this coming out every week
+educational videos on detailed sas
+topics sometimes i interview folks
+sometimes i answer listener questions
+live and we have talk videos from all of
+our in-person events eventually make to
+the channel hope you enjoy this video
+i'll see you in the next one
+[Music]
+this
+you

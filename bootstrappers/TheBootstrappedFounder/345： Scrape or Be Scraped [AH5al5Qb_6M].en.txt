@@ -1,0 +1,524 @@
+﻿this is just proper implementation from
+a developer perspective but from a
+business perspective I wouldn't need to
+do this I could just you barrage these
+servers hey I'm Arvid and you're
+listening to the boot step
+[Music]
+founder with my podcast data scanning
+business pod scan I'm constantly
+scraping the web for terabytes of audio
+and metadata but now I find myself in a
+wild C and mouse game trying to protect
+my own valuable data from these very
+aggressive AI companies out there doing
+the exact same thing it's a bizarre
+tight rope walk I need data to be freely
+available for my business but I'm also
+setting up defenses against scrapers all
+while wondering if I could turn those
+digital Intruders into paying customers
+welcome to the weird world of web
+scraping in the AI age potan like I said
+ingests terabyt of audio data every
+month and that's hundreds of gigabytes a
+day so that's quite a bit of data I'm
+constantly checking millions of RSS
+feeds several times a day and I'm
+gathering data from public apis and
+websites out there that just have some
+additional data that I need to enrich
+all the information on pods scan both in
+the web interface and the API and you
+could say that I guess for some intents
+and purposes I am scraping the web I
+mean I'm using certain interfaces that
+are meant to provide this information
+but there are other things that someone
+might consider to be scraping and up
+until a couple of months ago this seemed
+to me like a perfectly fine thing to do
+then all the big AI platforms started
+scraping the web in ways that I have
+never seen before and that changed
+something in me these platforms are
+often disregarding rules put into place
+to protect the content that is owned by
+the people who run the servers that are
+being scraped and that often creates
+traffic on websites that causes people
+to pay thousands of dollars in bills
+just for the traffic before they can
+stop it and that generally is considered
+to be a lot of damage open Ai and
+anthropic and all the big players are
+doing a lot of scraping and I kind of
+get that right you need data for
+training your large language models and
+if you're competing against another
+company that scrapes a lot that gets a
+lot of data from all over the Internet
+because they're trying to build the next
+big model that knows even more than the
+one before trying to compete with your
+model that is also full of information
+that you scraped I get that you would be
+very aggressive about trying to ingest
+more and more data it's kind of a
+competitive necessity in many ways and
+this access to data in some ways I think
+at least has always been part of the
+internet any publicly available piece of
+data is pretty much fair game for people
+who download it without impeding the
+service that it's available through and
+recently there have been several
+interesting lawsuits decided in favor of
+people scraping against companies that
+try to prevent scraping from their
+publicly available platforms right this
+is not somebody hacking into somebody
+system stealing data this just somebody
+running a script over a big platform and
+a directory and getting all the
+information on the platform obviously
+these platforms don't like it for the
+reasons that I outlined earlier it costs
+a lot of money to send traffic and it's
+being used by other people in ways that
+you may not have intended but it's out
+there that's part of the web and if you
+zoom out a bit there's also another that
+has happened very recently and it's the
+kind of the legal back and forth around
+the internet archive and their intent
+and previous action to scan books and
+making them available on the internet
+and that shines yet another light on one
+of the core features of the web that
+both scraping and making stuff available
+are kind of part of to me the internet
+is a gigantic copy machine from the
+early days every interaction on the
+internet was one of duplicating data and
+you do this every day when you go to a
+website every browser requests a copy of
+the site from a server and then
+transferts it over to your computer and
+that mindset was so prevalent when it
+came to making things accessible in the
+beginning so that everything was kind of
+made accessible the tools that were
+built Were Meant to mirror other
+websites if you look into um W get one
+of the basic commands that is used in in
+the command line on many Linux machines
+and on Mac and wherever there is a-m or
+something a mirror option built into one
+of the earliest versions of that tool
+because mirroring a website following
+all the links on the website and trying
+to just copy them all into a structure
+that you can locally browse or that you
+could host again that is part of the
+idea of the internet at least it was in
+the beginning and then the corporate
+world took over and intellectual
+property challenges were finally tackled
+but both sides kind of tackled them
+right it's not just the corporate the
+companies that were building things like
+DRM systems that did make their way into
+the mainstream applications and browsers
+and all of these things but so did tools
+like lime wire or Napster or bit torrent
+come to the front and allow people to
+share going kind of around these
+restrictions so restriction has always
+been fighting with distribution ever
+since and Open Standards that exist to
+this day are still battling
+protectionism and suffocating data
+exchanges I feel torn on this issue
+because to me public availability of
+data and being allowed to download it is
+Central to the business functionality of
+pod scan if you take a larger view here
+the whole podcast ecosystem is built on
+this it's all built on RSS feeds that
+are publicly available and open for
+downloading so it has to be open it has
+to be scrapable or you know downloadable
+if you want to use another term for it
+to even work so it's an interesting
+field of tension that I've only recently
+understood as I've been working in this
+field and I find myself mired in this
+dilemma because I both need the data to
+be available out there and I want to
+make sure that I don't pull more data
+than necessary and I still believe that
+the internet should be a place where
+people use caution and take a an
+approach that is useful to all involved
+parties an approach that is mutually
+beneficial but that's kind of where the
+the whole AI company situation comes in
+these businesses they don't temper their
+aggression when it comes to collecting
+data and that's really what I would call
+it it's very aggressive there's been a
+an article that I read that somebody
+within a couple days had aot from a
+single llm uh provider scrape tens of
+terabytes of data from the website and
+that's not okay right that's that's
+really not the way you should interact
+with the free and open servers out there
+and these companies they understand that
+the more data they ingest the better
+they can create models to be competitive
+so they get that part it's just that
+they don't care about your bill your
+energy bill your traffic bill that to
+them does not matter and consequentially
+all of this has turned into a cat and
+mouse game where people adjust their I
+don't know robot stxt files to show llm
+Bots which parts of the websites they're
+allowed to download and then crawlers
+either ignore these rules or they kind
+of follow them or they create a new user
+agent to bypass the robots file it's
+it's just back and forth all the time
+there are server operator out there that
+even try to actively slow down AI
+crawler with Honeypot tools to make sure
+they don't go on their website or
+somebody else's website so it's it's a
+fight it's a war about data and this
+situation made me think about what data
+I want to make available on pot scan my
+business right that is built on data and
+how I can build it defensively to
+protect all this valuable and expensive
+data that I have collected because all
+the transcripts on my website on podan
+in the database and on the API they have
+been run through a GPU somewhere right
+somehow I paid for every single word in
+there and I don't want this to be like
+just used in some random chatbot that is
+built on GPT 8.0 or whatever I don't
+want this to be out there so I made a
+couple choices and I protect my data in
+some ways I'm just going to explain this
+to you because it's kind of two sides of
+a coin here like this whole conversation
+really is so the first thing that I did
+was to make the choice that there is
+going to be no publicly available
+directory of podcasts on pod scan for
+the time being you can't just go to the
+website and see all podcasts everywhere
+with all episodes and all transcripts
+that does not exist all data on podan is
+behind a login and a user account with a
+trial period so I know that it's limited
+right it prevents Anonymous scraping
+because people need to sign up and it
+allows me to trace and ban suspicious
+accounts I even use a laravel package
+that checks for throwaway email
+providers and does not allow these
+people to sign up to my service and I
+also have verification emails that I
+actively sent so you can't just have a
+random garbage email and then log in and
+do all your thing and then you know
+create a new account does not work so
+I'm trying to prevent this at the source
+at the user level that I at least know
+that somebody out there and this might
+also be a person signing up with apple
+or some kind of anonymizer but at least
+not a completely throwaway garbage email
+and somebody out there I can talk to or
+I can find out more I can ban the IP I
+can you know ban the domain or whatever
+I have some kind of measurable potential
+for action and all of this and this
+extends to how people use the platform
+as well because I also Implement rate
+limiting quite a bit I've implemented
+very strict rate limits on almost all
+pages on all pages by default but very
+strict ones on certain pages of PODS
+scan which makes it unfeasible for
+scrapers to try to download the entire
+database quickly so right now I have
+almost 2.5 million podcasts on there
+with 12 to 13 million I don't even know
+didn't check today episodes so that's
+all in all tens of millions of data
+points and the rate limit I think is 10
+a minute so it would take a million
+minutes to download all of this from one
+account so it's really not feasible to
+try and download the whole thing and it
+kind of stops people to be able to abuse
+the system just to even like make the
+server struggle that doesn't happen rate
+limiting prevents this from the start
+and to disincentivize people even more
+I'm using encoded IDs all throughout the
+system particularly on the API where it
+would be very easy to program something
+to very quickly iterate over numbers
+right usually IDs in databases are
+numbers from 1 2 3 4 5 and so on a new
+item comes in it takes the next number
+but you don't really want to expose that
+to your API because then people could
+just write a script for from one to Z
+one to ,000 try to download all of these
+as fast as you can I don't want this so
+I'm encoding all my IDs I use a hashed
+encoded version of IDs that I can
+synchronously encode and decode for
+podcasts and episodes which makes it
+difficult for scrapers to enumerate
+content very easily it's not impossible
+people could probably figure out how
+things are encoded and decoded but you
+know for somebody who's building a
+scraper that tries to scrape everything
+trying to spend days or weeks to figure
+this out is not worth it so between
+forcing people to log in rate limiting
+and using encoded IDs that is how I
+protect my data in the system as it
+exists and on the flip side as someone
+who needs to collect data myself I try
+to be a good nzen a citizen of the web
+by minimizing repetition and by
+duplicating and figuring out how to
+prevent overloading other people's
+servers and I said I'm checking millions
+of podcast feeds every day so I'm trying
+to be very mindful of what that means I
+spread out my requests throughout the
+day and I use various techniques to
+reduce the amount of data transferred
+and here's kind of what I do I'm just
+going to go through this list to to kind
+of show you what I think web services
+should be doing the moment they scrape
+first off I minimize data flow I have a
+central Q system for downloading feeds
+and audio files both of them and I
+spread out my requests to avoid
+overwhelming servers I have my own
+servers to take care of but I also try
+to never download anything more than
+once so I have a queue PE my backend
+systems pick one and then they do it and
+then never happens again then I have
+access to the data for a while I cach
+things a lot and I try not to overwhelm
+Services because here's the thing um for
+any particular podcast it's fine if I
+check it once a day it's downloading uh
+feed and checking if there's a new item
+that's all right but the servers that
+I'm accessing are not people home
+servers right these are businesses that
+host podcasts like transistor FM where
+this podcast is hosted and the
+transistor servers they host hundreds of
+thousands of podcasts so the moment I
+try to check all of those which I do I
+really have to make sure that I am not
+just barraging the service with requests
+so I spread them out throughout the day
+kind of semi- randomized by the ID that
+these things have in my database and I
+try to do it only once and I also try to
+make sure that that if things haven't
+changed I don't download the feed for
+which I use things like the HTTP
+features like last modified dates
+headers or eags which allows me to send
+even the request with give me this feed
+with the kind of caveat with only sent
+me the full feed if it's been modified
+since yesterday or if it if its contents
+look different than this and then you
+put the eag in there that is very
+helpful I think this has reduced My
+overall traffic by 90%
+because most podcasts don't release
+every day or every couple days even and
+if you just send those headers in a
+request they can just say nope nothing
+new and that's all I get I just get a
+what is it like a 304 or something back
+instead of a 200 megabyte file it's
+really useful it also yeah really
+reduces the amount of data that I have
+to both download which goes into my
+traffic Bill and run through the CPU to
+pars which reduces the amount of uh time
+that it needs to to calculate which
+allows me to use more of my CPU for
+other things which is really useful and
+talking about server responses if I get
+a whiff of the server being overloaded
+which tends to come as a 429 error or a
+503 I back off and I stop requesting
+data from that server for a day that's
+the idea that's like oh okay for this
+podcast I'm not going to check for
+another day this seems to be too much
+that that to me is proper API handling
+but you know it's uh it is to me and
+finally there there something that I
+just want to share because it's so weird
+so RSS the the feed the data feed which
+is just XML has a wonderful
+specification you you can specify the
+days and the hours in in which somebody
+should not check your feed so it's so
+funny because you specify it on the feed
+somebody has to check your feed to read
+that data and then not check again
+during those dates I think this is a
+consequence of some Publishers some
+companies in the past thinking hey if if
+we're not going to be in the office from
+you know 6:00 p.m. to 6:00 in the
+morning why should anybody update from
+our feed because nothing is going to
+happen right so we're just going to put
+the day and the time where we don't want
+people to access the data in there and
+well then hopefully they don't so I
+support this too in my crawlers which is
+funny because so few podcasts use it but
+some do and then you know it just saves
+some bandwidth on all of these servers
+and the the problem with all of this is
+that this is just proper implementation
+from a developer perspective but from a
+business perspective I wouldn't need to
+do this I could just you know barrage
+these servers because they're already
+under some load from all these other
+tools trying to get those RSS feeds and
+downloading these files it probably
+wouldn't even register if I didn't but
+you know in in aggregate our Behavior as
+developers as people who build on top of
+the ecosystem in aggregate it really
+matters so this is to me not just a
+clean implementation it's also an EOS
+system friendly implementation and I
+wish this was the case for these massive
+AI companies but the more people start
+normalizing using AI technology and
+expecting data from all over the web to
+be part of this well the more of this
+will be a problem for every founder who
+wants to create something that people
+come to for free or as a lead magnet
+because these companies are trying to
+vacuum it up it's going to be a big
+challenge to balance providing valuable
+information with protecting your data
+from being sucked up by these AI systems
+and it's a challenge either way right
+it's it balancing this is always going
+to be hard either you protect it too
+much so people don't really get to see
+it because everything that is presented
+to a browser is kind of scrapable and
+people use browsers to look at stuff so
+if the browser can see it people can't
+see it or you're not protecting it
+enough and then it it just winds up
+being part of the next GPT or the next
+CLA so it it definitely is an issue but
+from my perspective as a founder and
+that's something that I haven't really
+seen many people talk about I think that
+an interesting business potential an
+upside there for this situation when I
+detect scrapers from various companies I
+just recently figured this out well I
+can just reach out to them to sell them
+the data directly in a way that works
+for both parties and this could lead and
+hopefully will lead to business
+relationships with AI training companies
+or companies that are hosting or tuning
+AI systems which end up being fair
+relationships where they is exchanged
+not just scraped and collected so what
+I'm right now considering is to to
+implement features to alert me of new
+scrapers appearing on my website and
+maybe even setting up a Honeypot just a
+directory of the top podcast so to
+detect when scrapers start collecting
+this information and then act on it by
+opening up opportunities to sell data
+through the podan fire hose or through
+daily exports maybe that's something
+they would want that they can ingest
+into their latest system training stuff
+whatever so the idea is to when they
+come I can reach out with an actual
+business case
+so scraping presents interesting Avenues
+both for gathering information if you're
+running a software business and for
+facilitating data ingestion in more
+mutually beneficial business
+relationships and for me in pocan I
+think this is very important cuz data is
+the value in my business so as we
+navigate this new landscape and all of
+us have to at some point navigate this
+if you have a public facing website
+people will try to look at it and figure
+out what's going on they probably
+already scraped it I think it's critical
+that we find a balance between
+protecting our valuable data that keeps
+our business running and then leveraging
+it in some way or another for potential
+business opportunities and even when it
+feels like we're moving in opposite
+directions at the same time both not
+wanting to scrape and scraping or not
+wanting to give stuff away but having to
+give it away that's just what it is that
+in essence is the balance that every
+founder has to strike and that's it for
+today thank you so much for listening to
+the boots up founder really appreciate
+it you can find me on Twitter at AIT k a
+KL you have my books my Twitter course
+there and if you want to support me in
+this show please tell everyone you know
+about pods scan. FM and its cool podcast
+alerting features and leave a rating and
+a review by going to rate thisp
+podcast.com founder it makes a massive
+difference if you show up there CU then
+the podcast will show up in other
+people's feeds and that makes me really
+happy any of this really helps the show
+thank you so much for listening have a
+wonderful day and bye-bye
+[Music]

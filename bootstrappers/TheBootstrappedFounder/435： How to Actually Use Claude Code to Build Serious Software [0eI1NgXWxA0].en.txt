@@ -1,0 +1,471 @@
+﻿Hey, it's Arvid and this is the
+bootstrap founder. [music]
+I've been using cloud code for over half
+a year now, pretty much exclusively to
+build my platform. I haven't really
+deviated much to other tools and I think
+I have gathered enough experience with
+the system that it's time to share what
+I have learned about using cloud code
+effectively to build this kind of
+non-trivial software as a service
+application that I am building as well.
+Here's what I found. That's kind of the
+summary of this. A lot of the value of
+cloud code is in its configuration and
+in the correct prompting. When you're
+just starting, you might think that the
+value is really in the code it
+generates. It's kind of true, but
+honestly, most of the value of cloud
+code is in the code it doesn't generate,
+so you don't have to throw it away. The
+better you are at setting a really solid
+system prompt at executing the agentic
+loop correctly with the right
+permissions and the right interceptions
+and restrictions, the better your
+experience with cloud code will be. And
+I will talk about just how those things
+work today.
+&gt;&gt; [music]
+&gt;&gt; First off, any plan of cloud code will
+work for whatever you might need. And I
+mean subscription plans here, right? The
+moment you start using it more heavily,
+if you start using it for feature
+building or for extensive testing, for
+background processing, for other things
+than just creating code, you will likely
+exceed the cheapest plan. I think it's
+20 bucks a month. you want to look at
+the max plan and it tends to be what I
+would recommend at this point because
+then you can just keep it running and
+you will see why this matters in a
+second. Cloud code released an
+integration with Chrome the browser a
+couple months ago. So you can start
+clawed with the d-chrome flag so that it
+connects to your Chrome instance and you
+really just need to install a Chrome
+extension in your browser and then you
+have this bridge to the browser that
+allows Claude to operate within that
+context of the browser for you. So if
+you don't do anything else from all the
+things that I tell you today, do this
+one thing. allow Claude to see your
+application. Use the Chrome flag to
+literally be able to click around in it
+and take screenshots and move things and
+inject things and investigate the DOM
+and all the variables that run within
+it. That is incredibly powerful. It's
+very smart to connect your cloud
+instance to this running version of your
+software with the prompt and within the
+operational loop. It can then be tasked
+with things like look at this page,
+scroll down a little bit and see how
+this one component overlaps with
+another. That's quite literally
+something that I used earlier today to
+fix a display bug. Or you can say
+something like, look at this page,
+inject some data, and see how it shifts
+the layout in weird and unexpected ways,
+which is a bug I had a couple days ago.
+So I just had it add data to the running
+application inside the browser to record
+what happened. And Cloud will do this.
+It will try to recreate the situation,
+take screenshots, and then actually
+investigate what's going on by diving
+into both the visual by using
+screenshots just to see what's going on
+and the hierarchical structure of the
+page by diving into the document object
+model, the DOM, and looking how things
+are arranged, looking at stylesheets and
+all that is very powerful. I've done
+things over the last couple weeks like
+asking Claw to go into the navigation on
+the left and click on each item and see
+if all the first pages that come up
+there look similar or which one looks
+slightly different and might they need
+to be changed to create a consistent
+design language. And Claude is
+incredibly good at this because it can
+navigate your website easily, can click,
+it can read, it can see, and then build
+this internal representation of that
+structure and work with that. It also
+makes it incredibly easy to build
+features that have visual components,
+which a lot of software tends to be,
+right? Instead of hoping that it looks
+right or having to manually check it,
+you can now task claw to build something
+quite literally look at it and then
+refine it. That's super enjoyable just
+even to watch it build like try this out
+in an established codebase and just see
+it manipulate paddings and just checking
+stuff. It doesn't have to imagine it
+because it can just check it out. It's
+very powerful.
+It goes handinhand with one of the
+biggest inventions in agentic usability
+that I have come across over the last
+months ever really since I started using
+this and that is called the Ralph Wigum
+plugin or the Ralph Wigum loop. And this
+might sound surprising cuz obviously
+Ralph Wigum is a character from the
+Simpsons. So what does that have to do
+with agentic coding? Well, Ralph
+embodies this philosophy of persistent
+iteration despite setbacks, right? You
+try something, doesn't work, you try
+again, doesn't work, you try again,
+doesn't work, try again until eventually
+it does. That's the whole idea of this
+loop approach. It's not try it once and
+then stop if it doesn't work. That is
+what a smart person in the world of the
+Simpsons would do. Instead, you set this
+goal, you set this completion promise,
+and until that promise is fulfilled, do
+you repeat working on it forever if
+necessary? If [snorts] you need three
+iterations to get there, that's probably
+one of the best cases. If you need 30,
+okay, maybe that's what it takes. And if
+it needs 300, maybe it takes that. It
+still will keep working on it until it
+reaches that goal state, the desired
+promised state. And it's a very mindless
+but also very thoughtful approach
+because it puts the idea of failing as
+information at the center of its core.
+Failure is a good thing here because it
+teaches us another way of how a thing is
+not to be accomplished. Success is when
+we ultimately reach the state of the
+promised goal. But every failure state
+along the way removes one further
+potential state that we might need to
+check. The way it works is that you
+describe your task like you usually
+would in a prompt and then claude works
+on the task and then once it finds a
+state where it thinks it has something,
+it tries to exit that task and that
+could be because it's done. It could be
+because it ran into a problem or because
+the API didn't work or whatever, right?
+There's a stop, but the Wigum loop, the
+Ralph Wigum loop has a stop hook that
+blocks the exit. And instead of going
+back into the prompting state of Cloud
+Code, the stop hook feeds the same
+prompt that you initially had back into
+the loop. And until the task is
+completed, until this completion promise
+is uttered in the execution of the task,
+that loop just keeps going, right? You
+tell it in the prompt that you want to
+say everything fully finished at the end
+and until it finds everything fully
+finished, it'll just keep going. And
+this is a different approach than what
+cloud code currently does by default.
+Right now, it tries the thing or
+whatever it might be. And the moment
+there's a problem, it exits and asks you
+to do something. The Ralph Wickham
+plugin allows it to keep working and
+iterating on a solution by trying new
+things without your intervention. And I
+have a strong feeling that cloud code
+will adopt this methodology eventually
+into its main loop maybe as a mode that
+it will have. You just turn it on and it
+has this endless loop until you reach
+this final state that you want to
+accomplish. But right now this plugin is
+how you get that behavior. And the
+plugin you can find in the official
+plugins repository. You can just type
+/plugin in your cloud code. And then in
+the official plugins, you can just
+scroll down a little bit or just type
+Ralph and then you will find the plugin
+right there. You install it and then it
+should work immediately. When you run it
+for the first time, it asks you if it
+should be allowed to run and then you
+say yes and then it starts. And allowing
+things and maybe more importantly
+restricting things for cloud code.
+That's the next thing you need to get
+good at. It's pretty critical. You don't
+want to have to be there all the time
+saying yes, you can do this. Yes, you're
+allowed to run this command or saying
+no, don't do that. do something else.
+For commands you know that are perfectly
+fine to run just automatically without
+confirmation, you will want to persist
+them as permissions in the allow array
+in your settings.local.json
+in your cloud code subdirectory. I think
+it might even be in the the main
+directory. Not quite sure. Doesn't
+really matter. Cloud code will
+automatically do this for you. ever if
+you say yes and allow this in the future
+from the options that you might get uh
+if it asks for something it will
+automatically add that line and you
+probably want to have a couple of
+commands in there likely the Ralph Wigum
+command the skill or skills that you
+want to use in the future other things
+like GitHub push or whatever or
+particular build commands in your
+framework of choice but just importantly
+you want to look into the deny array in
+your permission setting there might be
+commands particular Particularly when it
+comes to testing and setting up
+environments, that can be quite
+dangerous. Most of the time, it's fine
+if we wipe the test database, which we
+just created for the sake of testing
+anyway. But your local development
+system might have some state in your
+development database that you want to
+keep cuz you're working on something
+else or you just want to you have
+ingested a lot of data. You want to keep
+it there. You want to prevent your
+framework's tooling from wiping your
+database from remigrating all the
+migrations or stepping back or reeding
+it with data that [snorts] overrides
+what you're currently working with. So
+this will be different for any system
+that you use. But if you're using PHP
+and Laravel like I do, you probably want
+the PHP artisan db wipe or the migrate
+colon fresh or the db anything commands
+in your deny list because the moment
+it's in the deny list, cloud will try
+it. At its worst, it will fail and then
+it will likely stop to ask you what to
+do. So at that point, you can figure out
+what the agent is currently trying to
+do. Is it really trying to delete my
+database or is it just like stepping
+back one thing like one migration to
+test something else? And if so, what is
+it trying to do? Is it working on a test
+database? Is it on my deaf one? That's
+probably not what it should do. Is it
+trying to connect to prod or god that's
+not right? This is what deny permissions
+really help with. Here's something
+important though. Cloud is quite smart
+and it might see that you're blocking a
+command with a rejection. So it might
+try to create a new bash script file
+that contains the command and then tries
+to run that bash file. So if you've
+allowed running all bash files at once,
+it can circumvent your restrictions that
+way. So you have to be both very
+restrictive even in what you allow cloud
+code to run because it might find
+alternative ways around your
+restrictions. I've run into this a
+couple times. I now always have a backup
+of my local database readily available
+in my Dropbox because I know it might
+just break out and destroy stuff. So we
+got to be careful with that. And since
+we're talking about completely agentic
+systems now with the rigum loop, you
+want to have some vigilance. It really
+matters. Now have another tip here. Ask
+your cloud code to write tests for every
+single thing it builds cuz testing is
+something that I never did before. has
+become extremely easy with cloud code.
+Cloud knows how to write tests for the
+language that you work with, for the
+framework that you're running. It just
+knows how to write them, how to execute
+them. This is common knowledge in the
+community and it knows how to safely
+execute them if you define it well. If
+you have a testing environment variable
+and a testing database that's isolated
+from your development and production
+staging systems, which I recommend,
+obviously, that's kind of a best
+practice, then you can ask cloud to test
+for you. If you already have a
+collection of tests, it will just test
+them, see if they still work. And if
+you're building a new feature, you
+should always in the prompt that you're
+inputting or in the system prompt that
+you should have to begin with, ask it to
+create tests and make sure that all
+tests pass after new features have been
+built. One thing that I've learned, this
+is a timing issue really. You tend to
+want to iterate a little bit before you
+add tests. This is not test-driven
+development here. This is agentic driven
+development. And usually it's smarter to
+build the feature first and build it out
+right and then build the tests on top.
+If you go test first with an agentic
+system, iteration becomes problematic
+the moment cloud code starts
+experimenting and tests start to fail
+and it tries to keep them right. It
+becomes this weird interference loop
+where there's more focus on getting the
+tests right than to get the iteration
+closer to your goal state. So let it
+build the feature first and make sure
+that before you commit but after you're
+done with building the feature for claw
+to build tests around it. That's what I
+found works best in my experience. Now I
+mentioned a system prompt just now and I
+think that's something that we tend to
+forget. We start clawed and we just run
+and it works but the system prompt can
+be really helpful and for it to be
+effective it has to kind of stand on its
+own. If you look at the tools provided
+by there's a company called Oxster or
+product called Oxster that's somewhere
+out there. I think it's a it helps with
+agentic systems. They have a repository
+on GitHub that contains the Oxer prompt
+which I've been using as my system
+prompt or as part of my system prompt
+for the longest time. It's a very
+specific system prompt that encourages
+cloud code to run in a loop. Kind of
+like what Ralph Wigum does, but more
+specifically as a definition of what
+good codew writing looks like. It's more
+of a description of the output and the
+person building it like this virtual
+developer than just the process. Raf
+Wigum kind of sits on top of this. And I
+still recommend building a really solid
+system prompt for your project. So,
+let's maybe look at what a good system
+prompt should contain in addition to
+this structural
+system preprompt kind of that the Oxster
+is. I know it's kind of weird, but it's
+like a system prompt for your system
+prompt. Really recommend checking it
+out. It's kind of an XMLshaped
+description of what good code writing
+looks like, what good quality is, what
+the priorities are. It's it's really fun
+to look into and see how these agentic
+systems are to be communicated with. But
+besides that, once you have this basic
+prompt, you should add more. And what
+you should add is first off, a
+description of the product that you're
+building their project and its
+capabilities. And maybe more
+importantly, a description of the people
+who are going to be using it, the ideal
+user. That could be you for your own
+project. It could be your ICP, the
+customer that you really want to serve.
+The better you describe this person, the
+more this will allow Cloud to build
+tools and functionality that are aligned
+with what those people might need. It's
+really helpful for Claw to know who this
+is for because then the automated
+systems that build features have a
+better understanding both of user
+capabilities like what do they know
+already and with their expectations,
+what do they want? And obviously if you
+put all of this together, right, the
+agentic loop and the system prompt and
+the testing and all that, this is just
+right now. This all changes almost on a
+weekly basis. The Ralph Wigum thing is
+like a couple weeks old. But at this
+point with a system prompt that
+encourages testing, a couple of things
+that you allow to be automated, a lot of
+things that you restrict to that nuclear
+local system and then kind of supplied
+with this operational loop like Ralph
+Wigum or even just the Oxar prompt and
+browser access using the Chrome flag. I
+think you're probably going to be in the
+top one or 2% of cloud code users at
+this point if you use this. The real
+insight here isn't any single tip. I
+think it's the value of agentic coding
+that comes from how you configure and
+constrain it, not from the raw code
+generation that you should always check
+anyway. But set up your environment
+right and cloud becomes this genuine
+self-contained collaborator and leave it
+unconfigured and you'll spend more time
+cleaning up messes that building
+features that you actually want to
+build. So I hope this gives you some
+insight into what you can do to level up
+your cloud code workflow. If there's
+more to share as tooling evolves, I'll
+keep you updated. And that's it for
+today. Thank you so much for listening
+to the woods founder. You can find me on
+Twitter at avidkal v khl. If you're
+building a product and you want to know
+what people are talking about or your
+competitors [music]
+in the world of podcasting, that's
+exactly what Podscan does. That's the
+product I've been [music] mentioning. We
+monitor over 4 million podcasts in real
+time and we alert you when influencers
+or customers or competitors mention
+[music] your brand and we turn all that
+unstructured podcast conversation into
+competitive intelligence and
+opportunities and [music] insights at
+potscan.fm. And if you're a founder
+hunting for the next idea, well then
+check out ideas.podscan.fm FM where we
+have a system that surfaces startup
+opportunities [music] like startup
+business ideas from hundreds of hours of
+expert conversations daily because they
+talk about validated problems straight
+from the market. Thanks so much for
+listening. Have a wonderful day and
+bye-bye.

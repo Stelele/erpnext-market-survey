@@ -1,0 +1,51 @@
+{
+  "topic_id": 159589,
+  "title": "Employee Checkin using barcodes",
+  "slug": "employee-checkin-using-barcodes",
+  "category_id": 6,
+  "tags": [
+    "customization"
+  ],
+  "created_at": "2026-01-21T09:32:14.896Z",
+  "last_posted_at": "2026-01-21T09:32:15.015Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/employee-checkin-using-barcodes/159589",
+  "views": 29,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "pdestadler1",
+  "posts": [
+    {
+      "id": 492039,
+      "username": "pdestadler1",
+      "name": "Patrick",
+      "created_at": "2026-01-21T09:32:15.015Z",
+      "cooked": "<p>Good day fellow ERPNext implemetors, users, sys admins…</p>\n<p>I am trying to use a barcode scanner to record employee checkin and out as I’ve seen a Youtube video <a href=\"https://www.youtube.com/watch?v=PNjXZb_aW-E\" rel=\"noopener nofollow ugc\">Attendance with Barcode scanner - YouTube</a>.</p>\n<p>I added a barcode field in the doctype and linked the Code39 barcode to the employee ID. I tried using Co-Pilot and other AI platforms to create a server script to do what it does in the video but nothing works. I have reached out to the owner of the video but no response. Anyone tried this method? If successfully can you please provide the script?</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/pdestadler1/{size}/54314_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 10,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

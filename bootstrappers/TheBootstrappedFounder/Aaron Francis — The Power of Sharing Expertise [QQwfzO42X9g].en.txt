@@ -1,0 +1,1691 @@
+﻿Arvid Kahl: Sooner or later, you
+will have to share your screen
+with your co workers or an
+audience or your boss. Why not
+learn how to do it right? I'm
+talking to Aaron Francis today,
+the man who recently created a
+really, really great
+screencasting course and had a
+spectacular launch with it.
+I'm Arvid and welcome to The
+Bootstrapped Founder. Today,
+Aaron will not only teach you
+why even the most technical of
+us should learn how to present
+their expertise. You'll also get
+a masterclass in building in
+public and a peek behind the
+curtains of someone who juggles
+a full time job, site project to
+family, and a successful creator
+life. This episode is sponsored
+by acquire.com. More on that
+later. Now, here is Aaron.
+Welcome to the show. I've been a
+parasocial online friend of
+yours for quite a while. I've
+really enjoyed all your work
+around Laravel and databases and
+all these juicy yet sincere
+takes on software development. I
+really appreciated those, big
+fan. I was quite surprised when
+I saw you launched very
+recently, creator focus product,
+like an info product to great
+success, too. So how does the
+developer turn into an educator
+with this is kind of a
+spectacular course on
+Screencasting of all things?
+Aaron Francis: Yeah. Interesting
+story arc. Well, first of all,
+big fan of yours. And we've been
+online internet friends for a
+long time. So it's exciting for
+me to finally be here. Yeah, so
+I just launched a course on how
+to record screencasts. And you
+know, make them high quality and
+do it efficiently and
+effectively. But like, my
+background is, I'm a developer.
+And so kind of the story of me
+getting there's I've always
+been, I've always felt like a
+teacher, like I love to teach
+things. I love to learn things
+and then teach them and years
+and years and years ago and like
+a prior life, I was actually an
+accountant. I was a CPA and I
+didn't love it, but I loved it
+in school. And so in school, you
+know, when I was getting my
+Masters in Accounting, I was
+like tutoring undergrads the
+whole time. Like starting I
+think junior year, I started
+tutoring this course in
+accounting. And I was like, this
+is the best course ever. It's so
+interesting. And so then many
+years after I graduated, I
+thought, what if I just took all
+of that tutoring knowledge and
+like, put it on video form? Like
+the course hasn't changed in 30
+years, like there are no new
+advancements in financial
+accounting, you know. And so I
+did that. And that was my first
+introduction to like, oh, I can
+do this kind of like one to many
+thing, this one too many version
+of the thing that I love, which
+is, you know, teaching people
+something that I care about. And
+so from then, you know, I did
+that accounting course, so, so
+long ago and then I did a course
+on a Laravel thing. And now at
+my current job, which is I'm a
+developer educator, which is
+perfect for me. I did a course
+on databases. And after that
+course, people were like, hey,
+your course is really good.
+How'd you do it? Hey, I love
+database stuff. How'd you make
+the course though? How'd you do
+the screen recordings? And I was
+like, wait, maybe this is one of
+those you know how like you and
+Justin Jackson. And everybody's
+always like, you got to listen
+to the market. Like, yeah, I
+don't know what you're talking
+about, man. I thought, wait,
+maybe this is one of those times
+when the market is saying
+something. And so I listened.
+And that's how we got here.
+Arvid Kahl: Oh, that is awesome.
+Yeah, and the market, I think
+has proven you right, right? I'm
+just looking at the numbers that
+I can see. Because I don't think
+at least with me, you haven't
+shared any of your sales figures
+just yet. But I see a half a
+million views on the launch
+tweet.
+Aaron Francis: Yeah, it's really
+interesting to me the past,
+like, you know, the past several
+years of my, you know, my build
+Arvid Kahl: It's nice to see
+this kind of reciprocity
+in public journey have been kind
+of a wild ride until, like, I
+feel like I'm reaching the point
+now where this is the first time
+I've kind of asked for something
+back really. I've been like,
+hey, I'm selling this thing. Can
+you all please help me sell
+Arvid Kahl: Eventually, right?
+At some final point after many,
+happening.
+Aaron Francis: Yeah
+it/buy it? And everybody has
+just been like, yeah, for sure.
+I'll totally help you. And it's
+really, like, it's encouraging,
+many years. I'm glad you get to
+see it because that's something
+you know, first of all, but it's
+just so interesting. Like, I've
+just been, you know, out there
+trying really hard for such a
+I've been trying to tell people
+that this was gonna happen if
+long time. And I feel like I'm
+like, this is like the counter
+of that, like, I put out so much
+stuff and people. Like I feel
+like I have a real connection
+with a lot of people online. And
+now I'm like, hey, can you guys
+please help me? And they totally
+came through. And it's been
+really encouraging to see.
+you just keep giving, right?
+It's nice to see it actually
+happening. And so you have this
+success. I wonder, like, what
+were your expectations as you
+were launching this?
+Aaron Francis: Yeah. So I, you
+know, I put in a ton of effort
+and energy into recording this
+thing. And I kind of knew that
+the launch would be good. But I
+had a range of like, this would
+be okay. And this would be
+fantastic. And I beat the okay,
+so I made, you know, I made more
+than 100 sales, which I thought
+would be okay. And I did more
+than that. And I thought, oh,
+well, that's exciting. It is
+really easy, I think, to listen
+to other creators and people who
+launch courses, who are the
+outliers, like, you know, you
+listen to Adam Lavin talk about
+his old stuff and he'll do a
+launch and it gets like,
+$150,000 launch. And it's really
+easy for me to think, oh, I
+should have done $150,000. And I
+definitely didn't. And kind of
+feel bad about that. But then,
+you know, I've made a thing. And
+I launched it and the goal that
+I set ahead of time, I exceeded
+that, even if I didn't get into
+the range of like retirement
+money, which would have to be,
+you know, a huge amount. But I
+also have this like, with this
+course, there's this great
+comfort of the materials can
+basically last forever, right?
+So I don't feel too bad because
+I know the launch will be a big
+spike. But then over time, I'm
+hoping that I can turn this into
+like a constant evergreen source
+of you know, passive income if
+such a thing exists.
+Arvid Kahl: Well, you still have
+to do some marketing, right? But
+you can at least encourage
+people to market it for you,
+which is nice because I love the
+way you just phrased this
+earlier, when you said you
+didn't just ask people to buy
+it, but also to sell it for you.
+I think that's the new paradigm
+of using social media or
+communities or just your
+audience really, to amplify the
+thing that you're making, not
+just to consume it, but to
+consume and kind of give it to
+others as well. Just really
+cool. And I guess you're
+building a sizable audience.
+What are you like, 25,000
+followers on Twitter?
+Aaron Francis: Yeah, pretty
+close. I think 23 and a half
+right now. So steaming towards
+25.
+Arvid Kahl: Well, in a couple of
+weeks when when this comes out
+after we recorded, we're
+probably going to be there,
+right?
+Aaron Francis: Fingers crossed
+Arvid Kahl: Yeah, that's always
+the thing too, with these kinds
+of points in time when you just
+tell people about something, you
+report numbers or you're going
+to report that the kind of
+feedback that you get from the
+community. And the moment you
+report it, you're already
+getting way more than that,
+right? You put a sales number
+out there and that increases
+your sales. So the next report
+could be like five minutes
+later. That's what I love so
+much, the immediacy of doing
+something in public in front of
+people. And that does ring a
+bell because I've been building
+my courses and my books in front
+of people as well. You are very
+actively building in public and
+you shared a lot of steps for
+this particular product as well.
+I remember tweets of yours
+while, you shared, like your
+editing strategies and you just
+showed how much work it was.
+Like how much effort did you put
+in not just the course but also
+the building in public part, the
+reporting about the process of
+that?
+Aaron Francis: Yeah, it's
+interesting because I don't feel
+like that part is too effortful
+honestly, which I think is a
+clear distinction to what I
+would have said maybe three or
+four years ago. Now I just feel
+like it's a habit. So I'll be
+you know, I'll be working on
+something. And I'll think this
+is interesting or like, oh,
+there's a fun angle here. Or
+there's something clever here
+that I could show. And I just
+kind of like, do the thing and
+put it out there, whether that's
+to record a, you know, 30-second
+video being like, hey, look, I
+just got you know, I just moved
+into a new house. Look at my
+setup. What do you guys think?
+Boom, done or like I'm editing
+and something like I look at the
+timeline and it looks crazy. And
+so I take a screenshot of it and
+you know, send that out and it's
+done. And so for me, I've gotten
+to this point where I'm really
+good at recognizing, like the
+detritus or like the stuff that
+would normally be thrown away if
+the process. I'm good at
+recognizing that and seeing
+like, not everyone is doing this
+all day long. And maybe they
+would find this part
+interesting. And I know from
+being a consumer, like from
+being very online on Twitter, I
+love when people shared behind
+the scenes of a field that I'm
+not even in. It's like, why
+would I ever get to see that at
+any other point in history. But
+now I'm learning how your robots
+pick contact lenses off the
+shelf like, yeah, I want to see
+every single video that you do
+about that. I want to watch it
+because it's cool and that's not
+my world. And so I think I've
+trained myself to realize that
+people want to see behind the
+scenes and I have lowered the
+bar. I no longer am the judge of
+what people will find
+interesting. Like, I think I
+used to think I have to
+predetermine what is interesting
+and what will do well. And now
+I've realized that the game of
+like building in public or the
+game of sharing is so
+unknowable. But it's so cheap to
+play, that the only answer is to
+play more, right? So I no longer
+am like, oh, this is gonna be a
+winner. I just think I'm gonna
+put this out there.
+Arvid Kahl: Yes
+Aaron Francis: And we'll see
+what happens. And the ones that
+I thought were winners were
+losers. And the ones that I
+thought were nothing are the big
+winners. And it's like, that's
+why you're not in charge. That's
+why your job is to share things.
+And not to pre filter or pre
+judge because you'll miss your
+best stuff, if you're pre
+filtering.
+Arvid Kahl: products and now the
+course taking off like this,
+it's the exact same thing with
+anything, right? That you share,
+you're not the arbiter of choice
+or of taste with people, people
+are and their attention or their
+capacity to take their attention
+and apply it to whatever you
+may. That is the arbiter and you
+never known. With a growing
+audience, that's also the thing.
+There are just many more
+variations and diverse ranges of
+people. You never know what
+resonates. And sometimes you
+just need one person to pick it
+up and amplify it to reach a
+massive amount of more people.
+That's great. I use speaking
+from my heart. I'm really,
+really happy you're expressing
+it like this because I feel many
+people, particularly logic
+minded people like us
+developers, right? We look at
+stuff and we judge. That's all
+we do. We are so good at judging
+because we have this very binary
+true false mindset. We are
+Boolean. We're technically
+Boolean machines, right? We
+think this is correct code. This
+is incorrect code. There's
+barely anything in between,
+right? There is no fuzzy code or
+at least not in the mainstream
+approach to coding. It's the
+same with, we take this. It's
+not the same. It's the opposite
+in social media. It's a broad
+variety of anything, of choices,
+of tastes, of perceptions, of
+things that people like things
+that people don't like. We don't
+know this, there is no truth
+there. There is no Boolean true
+or no Boolean false. It's
+somewhere in between. And to
+think that we could apply our
+logic reason minded framework
+that we have for thinking about
+truth and non truth. That's a
+mistake. So I love that you are
+the one that is coming from the
+developer world and taking this
+back into the developer world,
+right? Because it's a creator
+mindset and taking that into the
+developer world. And I love also
+that you're sharing with people
+how to create more. And it's
+kind of what I meant when I
+initially asked like, how come
+developers built a creater based
+product, but it's really not
+just for creators, right? Do you
+want to actively encourage
+developers to be more creative
+in the way that they share? What
+they know or even educate
+people?
+Aaron Francis: Yeah, I think
+there is like this. There's a
+very defensive stance in like,
+developer communities because
+they've been trained that other
+people are going to nitpick or
+criticize or like, well,
+actually beat them to death,
+right? And so it's almost as if,
+like, the dark side of developer
+interactions is proving who can
+be the smartest. And the way
+that you do that is prove that
+the thing that somebody said is
+not entirely true 100% of the
+time or the thing that somebody
+said, you did that three years
+ago when you were working at
+this company. And it's like,
+yeah, okay, well, you know, I'm
+talking about it now. And so
+there's this, I feel like
+there's this learned behavior
+of, I have to be really careful
+of what I share because there
+are going to be a bunch of well,
+actually people out there that
+like, kind of beat me down with
+the criticism. And therefore,
+I'm not going to share and I'm
+not going to put myself out
+there. I feel I don't know how
+common that is outside of the
+developer community. But I am in
+the developer community. And so
+I know how common it is for us
+and that's very common. And so I
+think my like, journey has been
+realizing that I was beholden to
+that and like, allowing myself
+to, you know, succumb to that
+pressure and not putting myself
+out there for that reason
+because I didn't want people to
+pick it apart and prove that I
+was wrong or embarrassed me or
+something. And I think at some
+point, I just realized, like,
+man, the upsides and the
+downsides are not balanced here.
+Like the downside is potentially
+someone online, like tells me
+that I'm wrong or like, makes
+fun of me. Like, okay
+Arvid Kahl: Sure
+Aaron Francis: Okay. So and
+that's the downside of sharing.
+The downside of staying quiet is
+like, man, do I reach the end of
+my career wishing that I had
+lived my life differently and
+like, expose myself to more
+opportunities? Like oof, that's
+like that's a heavy and totally
+imbalanced equation. One time
+you tweeted many, many months or
+maybe years ago, like a stand up
+comedian's worst fear is to not
+be laughed at. What is a build
+in public person's entrepreneurs
+worst fear? And my response was
+to be laughed at, like, to being
+laughed out was for sure, my
+greatest fear because I didn't
+want people to think I was dumb.
+And I finally just like, let go
+of that and realized, oh, man,
+this is your life. Like, the
+things you want are on the other
+side of your fear of
+embarrassment. And if you don't
+let go of that, you're going to
+reach the end of your career and
+realize how little it mattered
+if people thought you were dumb
+and how much you wish you could
+have just like taken a risk. And
+that's what I'm trying to do.
+That's what I'm trying to
+encourage other people to do now
+that I'm on the other side to
+tell them like, listen, I've
+been there. I've been totally
+paralyzed. And it's just for me,
+it wasn't worth it. You got to
+figure out if it's worth it for
+you. And so that's kind of been
+like the, I feel like I'm in the
+community. And I've made the
+crossover from paralyzed by fear
+to just like, I'm doing this no
+matter what. And that's what I'm
+trying to like come on, come
+with me. Follow me.
+Arvid Kahl: Yeah, I'm glad
+you're doing this. And I'm glad
+you're doing it so publicly too,
+right? You had this great talk
+at Laracon just this year, I
+guess, right? When you talked
+about building in public,
+sharing the things you do to get
+attention, but not for
+attention's sake, but for the
+sake of the betterment of
+everybody's work, too. Right?
+That's something that and I
+think you're absolutely right.
+This fear is something really
+very deeply human I feel. Like I
+feel the same way. Whenever I
+put myself in front of people,
+which is funny because this
+podcast literally is putting
+myself in front of 1000s of
+people, but doesn't feel like
+that mostly because of just the
+asynchronous nature of
+podcasting, right? You're not
+doing it in front of people, but
+you've given talks in front of
+people and I've done the same.
+It's a different kind of world,
+right? To stand and get the
+immediate judgment from people.
+That's the thing because when
+you post on social media, that's
+kind of what happens, right?
+You're standing on a stage. You
+kind of by your own volition,
+maybe but you go and elevate
+yourself because you have
+something to say. And then you
+fear all those people that could
+potentially say something
+negative about you. I think, in
+the pre social media world,
+humans just didn't have to deal
+with us most of the time.
+Aaron Francis: Yeah
+Arvid Kahl: Like, when did you
+ever physically go on the stage
+and talk about the thing that
+you knew a lot about you? Right?
+This never really happened other
+than at conferences or whatever.
+So you never get used to just
+being confident in your own
+abilities in front of strangers.
+Pretty much. But you're doing it
+pretty well. Did it take some
+getting used to like to other
+than dealing with negativity,
+but even dealing with should I?
+Or am I even capable? The
+imposter syndrome, that's pretty
+much what I'm asking for. Do you
+still feel it sometimes?
+Aaron Francis: Oh, yeah, for
+sure. I mean, so I work at a
+company called PlanetScale. And
+I'm the developer. I'm one of
+the developer educators there.
+So that means I'm like, making
+videos, giving talks, you know,
+being on Twitter. I'm doing a
+lot of like, forward outward
+facing stuff. The trick is, I'm
+like lower 10th, 5th percentile
+of developer experts at the
+company, right. And so there's
+this weird mismatch of like, we
+have truly some of the smartest
+MySQL brains that have ever
+existed in the industry. Like I
+was looking at, I think I was
+looking at some of the bug
+reports from like, the early
+2000s. And I saw my coworkers
+names listed on there. And I was
+like, what? How am I the one
+speaking on our behalf? And so
+yeah, I feel that all the time.
+I constantly feel that. I feel
+that at work, obviously. And I
+feel that when I'm out on my own
+and there is no like, there is
+no structure or hierarchy or
+like reporting oversight or
+anything. I'm just out there,
+like with screencasting.com, I'm
+just out there, giving you my
+opinions and telling you how I
+do a thing all the while knowing
+that there are people who make
+better, higher quality, more
+effortful screencasts than I do.
+And so there's this weird
+tension between like, I think
+the thing that I'm doing or
+teaching or saying is valuable.
+And because I am an expert in
+some areas, I know that there
+are people that do it better or
+are more expert than I am. And I
+think one of the things I've had
+to come to terms with is like, I
+am not here to teach the people
+who are beyond me, which sounds
+so obvious, right? But in your
+mind when you're thinking of the
+critics and you're thinking of
+the rebuttals, you're thinking
+of all the people you look up
+to. Right? So like when I'm, you
+know, when I'm doing an info
+product launch, I'm thinking, oh
+man, Adam Lavin would have done
+it better. But like, why am I
+like
+Arvid Kahl: That's that three people
+Aaron Francis: Yes, exactly! And
+when I'm like recording a course
+on how to do screencasts, I'm
+thinking, oh, Jeffrey Way at
+Laracasts probably does this
+better. And it's like, yeah,
+he's literally top point 1% of
+screencasters alive. And so but
+those are the people that I look
+up to, right? And so I
+constantly have to remind
+myself, I still have something
+valuable to say even if I can't
+teach the top 10 people in the
+world how to do it. There are a
+lot of other people that I can
+teach. And regardless of like,
+even if we take the vertical,
+good, better, best, worst like
+scale out of it, there's a
+difference scale, right? So
+maybe, let's say for example,
+Jeffrey, this is not true. But
+let's say I'm as good as Jeffrey
+Way. Right? So laracasts.com and
+Aaron Francis totally equals,
+that's fine. I still have a
+different point of view. Right?
+So I still have something
+different to say. And if Jeffrey
+were to teach a course on
+screencasting, he would have
+extremely good and valuable
+opinions. And mine would maybe
+be different. And that's okay.
+And so those are things that
+I've had to come to terms with
+of like, there are going to be
+people who are better than you
+in the audience and they may
+disagree with you. And you know
+what? That's just fine. And
+there are going to be people who
+are as good or worse than you
+who have differing opinions. And
+that's just fine. As long as I
+feel like the thing that I am
+offering is valuable and I've
+done as much work and research
+to make sure that it's true, I
+feel pretty confident. And
+that's another like another
+point on the I will put it out
+there. And I don't judge the
+response. The moment that I hand
+it off to the market, the
+community, the universe, like my
+job is done. And we'll see like,
+hopefully it goes well because
+that would be awesome for my
+emotions. But I've done my
+responsibility. And I feel
+confident in that part.
+Arvid Kahl: Yeah, and there's an
+artifact out there have your
+skill level at that point,
+that's also a thing, right?
+Because you can still improve.
+Like, if you redo the course in
+five years from now, right? You
+will have exceeded the skill
+level that you have right now.
+And from all the feedback you've
+gotten, you're going to make it
+better. Like there's just some
+kind of iteration there as well.
+And honestly, I love the kind of
+multi perspective thing you just
+mentioned. Even Jeffrey would
+probably benefit from your
+perspective and
+Aaron Francis: He might pick up
+some point. Yes, exactly!
+Arvid Kahl: People out there
+still want to learn from other
+people. They are not all of a
+sudden resistant to more
+expertise from somebody else.
+Because they themselves know
+that they don't know everything,
+which is kind of the curse of
+knowledge situation, right? You
+know that you don't know and you
+want to learn, maybe you want to
+find some kind of validation in
+other people's thoughts or you
+want to see just alternative
+ways of doing it yourself so you
+can explore a more creative
+approach, like even Jeffrey
+could benefit from that. But
+you're right. Absolutely,
+there's millions of people that
+are not Jeffrey that are behind
+you on your own journey that
+would love to be where you are
+right now. And I think you can
+kind of generalize this for
+every single person that does a
+job professionally. There is
+always somebody behind you on
+the same journey that you're on.
+Right? It doesn't matter if you
+started coding two weeks ago.
+There are people that are one
+week behind you. And they would
+love to know today, what you
+learned yesterday. That is still
+five days in their future,
+right? It's the math, right? You
+know what I'm saying, right?
+It's just a little bit, but that
+is already valid enough reason
+to share with people. And I love
+that you do it in video. I think
+one of the strongest ways to
+build an actual, like human
+relationship with somebody else
+is to allow them to see your
+face and to allow them to hear
+your voice best in their mind,
+which is why headphones are to
+me, the most magical kind of
+technology. Like your voice
+literally gets put into, at this
+point, hundreds of people's
+brain, just the middle of their
+mind is you keep telling them
+the truth, which is bizarre. But
+you do a lot of video and you do
+a lot of audio, obviously also
+with the podcast that you have
+and all that. How important is
+it for and I'm saying this as a
+developer, somebody who, I guess
+I would call myself an
+introvert. Maybe not right now
+because I'm excited about this,
+but most of the time very
+introverted. How important is it
+for me as a dev to use video and
+audio in the way that I
+communicate with people?
+Aaron Francis: Yeah. Yeah, so I
+also am very much an introvert.
+I would so much rather be at
+home on a Friday night just
+hanging out either with my
+family or alone and you know
+doing whatever, like coding or
+making something. So I feel
+that, you know, in my bones I
+think it depends on what you're
+going for. Right? So you can get
+by and frankly, I'll take it
+back. You can do very well,
+never being a public or public
+ish developer, right? You can go
+into a company, work very hard,
+make your boss very happy and
+get promoted and make a lot of
+money and go home and garden or
+whatever, that's totally viable.
+I think a lot of people
+listening to this show are like,
+yeah, but I don't want to do
+that. So knowing that that's
+totally viable, let's talk about
+the other side. I think in terms
+of like content and publicity, I
+think it is kind of a pyramid.
+And at the very bottom of the
+pyramid is people who do
+nothing, who just who don't do
+anything and that's fine. Above
+that is some sort of like short
+form, publishing. So like
+Twitter, like, you're just
+putting thoughts out there. And
+you can kind of grow a following
+based on that. Some people have
+grown a following hugely based
+on that. But then above that is
+like long form blog posts, which
+take more effort. And then above
+that, I think you start getting
+into video not because it's
+inherently more valuable. I do
+think it is, but not because
+it's inherently more valuable.
+But because it is more
+difficult, right? And so you're
+thinking about, like, how am I
+going to stand out as a
+developer? Well, just tweeting,
+it's gonna be pretty hard. The
+barrier to entry on tweeting is
+like, is very, very low. It's
+still free. You know, at some
+point, it may be $8, but it's
+still free. And like, anybody
+can sign up and tweet 100 times
+a day. So you move up to blogs
+and it's like, yeah, you got to
+sit down and write. What a pain!
+You move up to video and you're
+like, oh, I gotta record video,
+that is a huge pain. And so with
+those different, like, moving
+up, that pyramid of what is
+available, I think also expands
+who is going to consume it,
+right? Because tweets will
+scrolll by, they'll be gone. But
+if you see a video, like you
+just don't see as many
+developers or you know,
+whatever, you know, whatever
+industry you're in, you don't
+see as many people on video. And
+so you attribute outsized weight
+and outsized authority to people
+who are on video because you
+just you don't see it's not a
+recency. It's an availability
+thing. It's an availability
+thing. So you think like, oh,
+there are seven people in the
+Laravel community that I
+regularly see videos for. And
+there are 50,000 that I see
+tweets from. But oh, yeah, those
+seven guys and girls, those are
+the video people. And you just
+somehow give them more credit
+than maybe they deserve. But
+they did, like they put in the
+effort. And so I think one step
+beyond that is showing your face
+on video, truly. I think you can
+get outsized rewards by just
+doing a screencast and just
+showing like, hey, I did this
+thing and then this thing and
+then look at made this. And I
+think you can get pretty good
+benefits from that. I think if
+you are willing to put your face
+on screen, you have further
+separated yourself from even
+people that are making video.
+You are the one that's like, I'm
+going to take the risk to like
+to basically expose myself, my
+human form to criticism and I
+think there's like a connection
+that you can form and like a
+almost like people are rooting
+for you because everybody wants
+to do it. Like everybody wants
+to be out there being the person
+teaching but like, most people
+don't because it's really hard.
+And so if you do, I have found
+from personal experience, that
+people are like, yeah, I'm on
+your team. Go, guy! Go! Good
+job! And it's just, it is a
+cheat code if you can become
+comfortable enough putting your
+face on camera. You get this
+human connection that I think is
+unbeatable.
+Arvid Kahl: Yeah, that is the
+core, right? The core is
+allowing people to form this
+connection with you. And it's
+kind of easy on Twitter because
+you have these little
+interactions but it's a very
+shallow connection if it's just
+on Twitter, if it's just like
+between your little avatar
+picture and their avatar
+picture. It becomes a very
+shallow conversation. But the
+moment people see your like,
+vibrantly talk about something
+that you really enjoy. Like it's
+hard not to be just very
+actively trying to convince
+somebody of the truth or the
+importance of the thing you have
+to say. And when you feel this
+in somebody you think, okay,
+they're doing this from the
+heart. They're not just doing
+this from the wallet, right? Or
+any other part that is just very
+selfish. They're doing this
+because they really think that
+other people need to know.
+That's absolutely true. I like
+the hierarchy you just put up.
+That is a very, very easy way to
+understand why a screencast
+where you share so many things.
+A screencast with your face,
+shares your expertise, obviously
+on the topic, right? It shares
+you as a person, the full human
+being making yourself available
+for connection. And it also
+shares your layout of how you
+code. It shows like how good you
+are at what you actually want to
+do or want to have people know
+that you're good at. There are
+so many layers of just really
+putting out there in a very
+vulnerable way, the work that
+you have for criticism or for
+support, which is probably the
+more important part. That is
+really, really cool. Talking
+about screencasts, let's stay
+there with that. I think I've
+done one, I guess. My Twitter
+course might be a screencast.
+But it's just really a
+presentation with a couple of
+things. So, you know, it's not
+necessarily technically a
+screencast. What are the things
+that I could immediately improve
+my screencastfy? I did a couple
+of coding things back in the day
+when I was still actively
+coding. Now I'm more or less
+just writing all the time, which
+is also coding. But you know,
+can you just tell me a couple
+things other than putting your
+face in there that make it
+better?
+Aaron Francis: Yeah. So in, you
+know, in my experience and
+Arvid Kahl: Yeah
+Aaron Francis: What skill level?
+Are they solo? Are they indie?
+throughout this course,
+basically, my goal is to get
+people to the point where they
+can create a high quality, like
+Are they at a startup? Or are
+they at a mega corp? Like, you
+polished screencast but do it
+quickly. Like the whole angle
+for this course. And I think
+it's important to have an angle,
+the whole angle is like, you're
+an expert at something and you
+want to teach but you don't want
+to become a video editor. Like
+you want to teach the thing and
+get back to work. And so I think
+there are a few things that can
+like that can level up a
+screencast pretty quickly.
+Starting even before you hit
+record is like figuring out who
+you're going to teach. And I
+like, that's really easy to say
+like, I'm going to teach
+developers like, okay, what kind?
+don't have to niche the content
+down too far. But saying
+something like, alright, I'm
+going to teach artificial
+intelligence for Ruby
+developers, like that gives you
+a point of view that you can
+then communicate from. I think
+it also helps to like segment,
+people who are looking at your
+course because they'll be like,
+oh, I'm a Ruby developer. This
+is definitely for me or I'm a
+JavaScript developer. This is
+not for me. And so it cuts both
+ways. But the market is so huge,
+that you kind of want to cut it
+and be like, hey, this one is
+for you, I promise. So even
+before you hit record, figuring
+out who you're gonna teach and
+then figuring out what you're
+going to teach, I think, is very
+important, like figuring out
+what your curriculum is going to
+be. And I think a lot of courses
+could benefit or a lot of even
+individual videos, not even
+courses, but individual videos
+could benefit from taking the
+viewer on a like a linear
+journey or like a path. You
+know, we both know Rob Walling.
+He's always talking about stair
+stepping your bootstrapping
+journey. I think the same thing
+applies to educational material.
+You should stair step the viewer
+into knowledge. So you start
+with like, either a base level
+of understanding that you know
+because you've defined your
+audience. But you start with
+some base level and then you
+say, okay, I'm going to teach
+you one thing. I'm going to
+teach you one single thing. And
+then after that, either in
+another video or continuation,
+whatever you say, hey, remember
+that thing we learned? Let's
+like, let's optimize that. Or
+let's look at where that doesn't
+apply. Or let's look at how we
+can make this you know, better,
+faster, more adaptable, more
+flexible, more abstract. But if
+you go from like, okay, we're
+gonna start at the base of
+knowledge. And while I'm
+teaching you the one thing I'm
+going to teach you when it
+doesn't work and how to optimize
+it and how to make it more
+flexible. You're like, dude,
+just like, teach me one thing.
+And then let's move on. And I
+think that's a big thing that a
+lot of like educators miss is
+they take four steps at a time.
+And I'm left thinking, wait,
+what was the thing we're doing?
+I don't even remember what we're
+doing. And then once you hit
+record, I think there are some
+really easy things you can do.
+And that is hide every single
+thing on your screen, hide
+everything. I don't want to know
+what time of day it is. I don't
+want to know what day of the
+year it is. I don't want to see
+what applications you have open.
+I don't want to see your family
+photos on your desktop. I don't
+want to see icons. I don't want
+to see anything. My attention,
+the viewers' attention, they're
+barely hanging on. That's kind
+of what you have to remember is
+like, okay, they're trying to
+learn here. You must give them
+every advantage possible. So if
+you're teaching Excel, hide
+everything except the sheet
+you're working on. If you're
+teaching them coding, hide
+everything, not only on your
+desktop, but in your editor. I
+don't want to see the file tree.
+I don't want to see what git
+branch you're on. I don't want
+to see the mini map. I barely
+even want to see line numbers,
+honestly. But I just want to see
+the one thing that you're trying
+to show me and then guide me
+along that journey together like
+bring me along. And so those are
+some other things that I think
+about from like, all the way
+back at the beginning, how do
+you figure out what you're gonna
+say to how do we keep these
+people who want to learn? How do
+we help them? How do we keep
+them on track?
+Arvid Kahl: I love this, like
+three kinds of focus: focus on
+the right people, focus on a
+narrative that is actually
+relatable and people can just
+stay in touch with without
+losing themselves in the
+details, and then focus on the
+minimalism of showing exactly
+what they need to see. And
+nothing more. Very cool. I love
+that most of these things have
+nothing to do with yeah, the
+exception of the third part,
+with the actual recording.
+Aaron Francis: Yeah, yeah
+Arvid Kahl: The preparation is
+so much more important than the
+act of recording something on
+your screen. How much time did
+you spend preparing for this
+course? And then, you know,
+doing the script writing and all
+that kind of stuff? I know that
+the outcome is four and a half
+hours, of course, which is
+significant. I would love to
+know how many hours of actual
+recording went in there. But
+even before that, like can you
+give me like a little timetable
+of how much you spent?
+Aaron Francis: Yeah, for sure.
+So I released the MySQL for
+developers course at work for
+PlanetScale. I released that in
+like, early March of this year.
+And that's when I started
+getting like the feedback I
+would love to learn. And so at
+that point, I started like,
+right then when I realized, oh,
+shoot, I should teach something
+about this. I sat down and I
+wrote down every single thing
+that I thought I did well and
+Arvid Kahl: I can feel that. It
+must be so nice. I mean, in
+every single thing I thought I
+did poorly. And every single
+thing I like, learned or trick I
+thought I had or way that I did
+screencasting that I thought
+made me effective. And so that's
+my first, when it comes to
+planning your content, that's my
+first piece of guidance is just
+either in your research phase or
+if like me, your research is
+like from practice, then sit
+down and write down everything.
+It doesn't even have, don't
+worry about structure, don't
+worry about form, modules,
+videos, break down, just write
+down. That one editing thing
+that I do, I think that makes us
+really fast. Good. This one
+trick on you know, flipping the
+video, I should teach them that
+at some point, boom, boom, boom.
+And you know, at the end, you
+end up with 100 line document of
+random little, like, half
+thoughts of, ah! That was a good
+idea. I should put that
+somewhere. And then so like that
+was in March. And then you know,
+I've got you know, two kids and
+a job. And so like over the next
+several months, it just kind of
+percolated in my mind. And that
+was really helpful for me like
+that background information
+processing. Because all that
+time, I'm continuing to make
+screencasts like I'm doing
+YouTube videos for personal
+stuff. I'm doing YouTube videos
+for work. And every time I
+think, oh, this is a good new
+like little workflow thing I
+just learned. Let's throw that
+in the notes document. And that
+is like an unbeatable, that's an
+unbeatable technique. It's hard
+because it takes like, you have
+to put it on the shelf and let
+it cook for a while. And if
+you're on a short timeline,
+that's tough. But letting it
+cook for a little while really
+helps your background mind
+solidify everything. And so then
+when it came time to record, so
+that was like months and months
+and months. And then when it
+came time to record, I pulled
+those notes off the shelf and
+was like, alright, we got a lot
+of raw material to work with
+here. And that's when you just
+start kind of like, oh, these
+two ideas, those kind of go
+together. Oh, this thing down
+here necessarily comes before
+these other. So I'm gonna move
+that line up. And you start to
+see like this linear structure
+kind of like rise out of this
+soup. You're like, oh, wait, it
+kind of just shaped like this.
+Imagine that. And that's where
+you get like the content
+structure of oh, dub, before we
+record, we got to plan our
+content. Let's do that module
+first. And then when you know,
+when I turned on the camera to
+record, it probably took me two
+or three weeks to record most of
+it. And then so I did that in
+like two or three weeks. And
+that took a huge break because
+our family went somewhere for a
+couple of weeks during the
+summer because I live in Texas
+and it's a billion degrees. And
+then when I came home, I kind of
+had a realization that like, I
+think I didn't define the
+audience wrong. Like I defined
+the audience very strictly as
+developers who wanted to learn
+how to teach something. And I
+realized when I came home that I
+had been maybe selling myself
+short. And I could just with a
+few, like different examples and
+a few different words here and
+there, I could broaden that
+audience to content creators.
+And I realized, wait, why am I
+like, I am a developer. But I
+don't have to constantly be
+saying, you know, get checkout.
+Like, I don't have to say that
+kind of stuff. I can use
+examples that are coding
+examples but also talk about the
+person who's really good at
+Excel and wants to teach
+attorneys how to use Excel and
+then it immediately becomes more
+accessible. And so I re recorded
+everything. I re recorded every
+single video when I was about
+80% done. And it took me five
+days and I was up till 2:30. You
+know, after work, I would start
+and I'd stay up till 2:30 each
+night and I just plowed through
+it. So I wouldn't recommend
+doing it that way. That's why
+defining your audience is so
+important. But I also felt like,
+yeah, I was thinking kind of
+small, like, I wonder what it
+would look like to think bigger.
+And that was the answer. And so
+I just re did out of like,
+excitement. I was so pumped. And
+so it was quick the second time.
+retrospect, it makes sense,
+right? To have a trial run, to
+record the whole thing and see
+it. It probably felt weird to do
+it again. But at the same time,
+you knew you'd already done it.
+You know it's possible. You
+know, you can make it happen.
+You can make it even better.
+That is so cool. And I was about
+to ask you, how you handle all
+of you know, your job and the
+projects that you have, the
+family and all that. But I guess
+you just answered. You just like
+didn't sleep, right?
+Aaron Francis: Yep. Yeah. So I'm
+always careful of being
+descriptive and not
+prescriptive. I will describe
+what I am doing. What you do
+with your own life is, of
+course, up to you. But I feel
+like at this point in my life,
+so I have a full time job. My
+wife and I have two year old
+twins. And surprisingly, we are
+expecting twins.
+Aaron Francis: In late November,
+early December. So even on the
+Arvid Kahl: Yep
+family front, there's a whole
+lot going on there. And I think
+I've decided and I made this
+decision maybe, you know, two
+years ago or something that this
+is not my kick back and chill
+phase of my life. I look at a
+lot of people online, like let's
+look at Daniel Vassallo. I look
+at him. And I'm like, he's
+working a little bit. And he's
+making a lot of money. And he's
+building a house and he's going
+down to the beach and like, I'm
+really happy for him. And it's
+hard for me not to look at that
+and say, I need to emulate the
+outcome of what he's doing. And
+not think like, how did he get
+there? Like, these people that
+are like, yeah, you should
+really go snowboarding at noon
+Arvid Kahl: Yeah, wow! Thanks
+for sharing this. And honestly,
+on a Tuesday. It's like, I would
+love to. I truly would. And I
+think I finally released myself
+from the guilt of feeling like,
+oh, I can't work hard because
+these people who have, you know,
+made it in my own made up terms,
+they're telling me that I
+shouldn't work hard. It's like,
+well, yeah, they've made it. And
+so I've decided that for me,
+this is my, I don't want to say
+hustle because it's so laden.
+And so what I've called it is
+like my maximum effort era and
+like, I'm going to do the most
+that I can. And this is not a
+very restful era for me. And
+one, knowing that it is an era
+and eras end, that's really
+helpful. And knowing that this
+is my maximum effort era with
+hopes of there being a semi
+retired leisurely builder era,
+following it. Like, that's
+really helpful for me. And I
+think I've decided that there
+are lots of things that I'm
+willing to sacrifice and a few
+that I'm not like, I can't tell
+you besides foundation, which I
+think I'm like six episodes
+behind on. I can't tell you what
+the newest TV shows are. I don't
+watch professional or collegiate
+sports. Fortunately, I don't
+care that much about them. But I
+also just don't watch them.
+People are talking about
+Baldur's Gate. Some that like
+there are video games, that I
+truly, I don't even know what
+they are. And so a lot of those
+things, I'm fine saying, I just
+don't care. On the other hand, I
+am out of this office at 5:45 or
+6 o'clock because you know what
+happens then? Dinnertime, kids,
+bath time, bedtime. And like,
+sorry, I don't miss that. I
+don't miss that. But you know
+what happens at 7:30 or 8? Back
+to work and that's how I've
+chosen to live my life because
+like a musician who's trying to
+make it, like an author who
+wants the big break like a
+painter who's trying to get
+discovered like, I'm trying to
+make it and it's weird because
+it's like, the thing I do all
+day for W2 money is shaped
+almost exactly like the thing I
+do in pursuit of like my noble
+ambitions and so it feels like
+oh man, you're just a hustle,
+bro. And I'm like, but what if I
+was a sculptor? Like would you
+say the same thing? Like I feel
+like this thing that I'm doing
+in my like effort full hours, I
+feel like this thing that I'm
+doing is the thing I want to be
+doing. It is the art. It is the
+thing that I'm trying to like
+birth into the world. And maybe
+I play, you know, to be a
+musician. Maybe I play in crappy
+bars forever. But maybe I enjoy
+it the whole time. And maybe I
+I think you are the hit, really.
+Like the fact that you so
+get a hit. And like, that's what
+I'm thinking. This is my time to
+try because I'm not getting any younger.
+publicly share all these things
+and the success you just had and
+are still having with this
+launch. I think that's one of
+the many, many signs that you're
+on the right path there, right?
+The feedback that I've seen
+there. Obviously, I follow you
+on Twitter quite a bit. And the
+people who love your work and
+who love both your work and
+watching foundation as I do as
+well, right? It's just so nice
+to see people just interacting
+with you in such an empowering
+and motivating and supportive
+way. And how could you not want
+to keep doing this knowing that
+at this stage, if this is the
+early stage of this, there's
+already so much love and support
+from the people that you have so
+much impact on with the things
+that you share. Right? How could
+you not?
+Aaron Francis: How could I not?
+Yep. And I think that is the
+thing that like, that's the
+thing that keeps me going is I
+feel like one, I just, I'm
+having a lot of fun. Like I'm
+enjoying the actual producing of
+the vessel, like the thing. I
+enjoy making it. And then like
+this one in particular, like a
+lot of my talks and stuff has
+resonated, but I feel like this,
+you know, most recent artifact
+is kind of a culmination of
+like, a lot of what I believe
+about, like putting yourself out
+there combined with some like,
+technical, really nitty gritty
+do this, don't do that. And I
+put it together in this package.
+And I'm like, this is kind of a
+microcosm of the things that I
+care about and believe and
+people like it and it's really
+encouraging. And so yeah, it's
+like, this is good. I get energy
+from this. So I'm going to keep
+going for, you know, for as long
+as I can.
+Arvid Kahl: Yeah, I can tell.
+You are full of energy. And it's
+really nice to see. And I love
+that you're doing all of this in
+public too, right? You could do
+this, just hiding somewhere
+building a product. Obviously,
+you couldn't because it's all
+part of like a presence. But I'm
+glad you're doing it. So if
+people would like to find you
+and follow this amazing journey
+that you're on and see the
+things that you're building as
+you're building them public,
+where would you like them to go?
+Aaron Francis: Absolutely,
+Twitter,
+twitter.com/aarondfrancis, D as
+in Daniel.
+Arvid Kahl: Nice. Well, I
+certainly follow you there. And
+I would highly recommend
+following you there as well. And
+I'm so glad you made this course
+because you could learn a lot
+about presenting yourself and
+building a studio, right? We
+didn't even get to talk about
+all the fancy tech. But I think
+that's for people to find out
+actually in your course or a
+future conversation in a couple
+of months or years from now.
+Man, I'm so so glad you shared
+all of this with me today. And I
+can really feel like from this
+conversation and from all the
+things you've been doing in
+public how much you care and
+that you cannot stop yourself
+from helping people through your
+work. And I appreciate this a
+lot. I bet there's 1000s, if not
+10s or hundreds of 1000s of
+people out there that are
+appreciating this, which is a
+scary thought. But it's also an
+amazing thought. And I just want
+to thank you for your work and
+for everything you do and for
+being here on the show. So thank
+you so much, man. You're
+awesome.
+Aaron Francis: Well, you're
+extremely kind to say so and
+I've been a huge fan and
+follower for a long time. So
+it's an honor for me to be here.
+So thanks for having me.
+Arvid Kahl: I appreciate it.
+Thanks so much.
+And that's it for today. I want
+to briefly thank my sponsor,
+acquire.com. Imagine this,
+you're a founder who's built
+this really amazing SaaS
+product, you acquired customers,
+and all of this is generating
+really consistent monthly
+recurring revenue. The dream,
+right? The problem is, you're
+not growing for whatever reason,
+maybe it's lack of focus or
+skill or lack of interest. You
+just don't know. You feel stuck
+in your business. That's what
+you know. You start with your
+business, what should you do?
+Well, the story that I and many
+other people in our community
+probably would like to hear is
+that you buckled down, reignited
+your fire, you got going, you
+worked on the business not just
+in the business and all these
+things like audience building,
+marketing, sales, outreach, and
+whatever, you did it and six
+months down the road, you've
+made all that money. You've
+tripled your revenue and you
+have the super successful
+business and everybody loves you
+for it. Reality, unfortunately,
+is not as simple as this. And
+the situation that you might be
+in right now is different for
+every founder who's facing this
+crossroad. Too many times
+though, the story here ends up
+being one of inaction and
+stagnation or worse until the
+business becomes less and less
+valuable over time or completely
+worthless in the end. So if you
+find yourself here already or
+you think your story is likely
+headed down a similar road in
+the future, I would consider a
+third option: that's selling
+your business on acquire.com
+It's always a good idea to think
+about the exit, right? Because
+capitalizing on the value of
+your time today, that's a pretty
+smart move. And acquire.com,
+free to list, they've helped
+hundreds of founders already.
+Why not check it out? Go to
+try.acquire.com/arvid and see
+for yourself if this is the
+right option for you, might be,
+might not be, just look into it.
+It's always a good idea.
+Thank you so much for listening
+to The Bootstrapped Founder
+today. You can find me on
+Twitter @arvidkahl. You'll find
+my books and my Twitter course
+there too. Hey, if you want to
+support me and the show, which I
+would really appreciate,
+subscribe to my YouTube channel.
+That would be great. And get the
+podcast in your player of choice
+and leave a five star rating and
+a review by going to
+(http://ratethispodcast.com/founder)
+or wherever you find my podcast
+and your app. It makes a massive
+difference if you show up there
+because then the podcast will
+show up in other people's feeds.
+That's kind of where we want
+them, right? We want to help our
+friends to learn a little bit.
+So any of this really helps the
+show. Thank you so much for
+listening. Have a wonderful day
+and bye bye.

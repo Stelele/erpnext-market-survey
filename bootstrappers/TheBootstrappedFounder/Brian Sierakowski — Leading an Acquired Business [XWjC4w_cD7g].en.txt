@@ -1,0 +1,1797 @@
+﻿Arvid Kahl: Welcome to The Bootstrapped
+Founder. Today, I'm talking to Brian
+Sierakowski. He until recently was the CEO
+of Baremetrics, a pretty well known
+bootstrap company that was acquired by a
+private equity firm a few years ago. Brian
+took over as the CEO after that and had
+quite a few things to deal with. He was
+building trust with an existing team and
+he had to survive a few very intense shit
+storms, dealing with the tanking economy,
+there was a lot going on. Today, you'll
+hear a rare perspective from the other
+side of indie hacking, how acquired
+businesses are ran, keep running and what
+you can do to make that easy and make your
+own business more sellable in the process,
+and just how judgmental the founder
+community can be. A quick thank you to our
+sponsor here at this point, acquire.com.
+More on that later. And now here's Brian.
+Enjoy!
+Brian, you took over as the CEO of
+Baremetrics after Josh Pigford sold the
+business in 2020, I guess. You ran the
+business, you made several significant
+changes. And I guess we'll talk about a
+couple of those too. And now you've left
+your position as CEO a few weeks ago and
+that's quite the journey. Can you give a
+quick introduction into what Baremetrics
+is, how you found your way into that
+company and what you've been doing there
+until just a few weeks ago?
+Brian Sierakowski: Of course, yeah! And
+thanks for having me, by the way.
+Arvid Kahl: Of course!
+Brian Sierakowski: So Baremetrics is a
+SaaS analytics platform. It's where you go
+to plug all of your data, all of your SaaS
+data in. We have a or had because I'm not
+there anymore. They have a number of
+different integrations. Usually it's going
+to be Stripe, so you can plug all your
+Stripe data in. And the point of
+Baremetrics is to give you an interface so
+that you can make good inferences on
+what's actually happening behind the
+scenes of each of your individual
+customers and what they're doing. I came
+to Baremetrics, by way of actually, I'll
+have to back up a little bit. So many or a
+couple of companies prior, I founded a
+company called TeamPassword, which was a
+password manager for teams. I'm not
+exactly a branding genius, but I got the
+job done. And I ran that nights and
+weekends for about two years, then I went,
+they kind of grew to having enough
+customers that I could go full time on it.
+I did that for about five years. And I'm
+happy to we can kind of reverse and talk
+about this more. But kind of the short
+story there is like, I thought that
+running it part time, it was growing at a
+certain speed. I assumed that going full
+time on it was going to grow at that speed
+times like probably times a million was
+my, you know, subconscious expectation.
+But it didn't. That wasn't the case. I
+think it grew a little bit faster. But
+really like everything that I tried to do
+to grow the business didn't really work.
+It just kind of slowly grew over time. And
+if you zoomed out on my chart, my MRR
+chart, you wouldn't have really been able
+to tell what I was doing at all. So I made
+the decision to sell the business. I
+decided that and I don't remember what
+year it was. We can go back and add years.
+But you know, I was like basically like
+January 1, I was like, alright, I'm going
+to sell the business. I did that until
+February 28th. I had sold the business. So
+I actually went through a lightning fast
+sales process, DD, everything finding the
+buyer, which that was actually crazy. At
+the time, I didn't think it was because I
+was inexperienced. And I didn't know how
+long this stuff takes. And so I'm like,
+okay, cool, pretty normal stuff. I worked
+at that acquiring company, the business at
+the time was called Jungle Disk. They're
+now called Cyber Fortress. I worked there
+for two years as their director of
+products. I went from running just my
+business to running portfolio of products
+and about five different products. They
+sold my company, TeamPassword to a private
+equity firm called Xenon, about six to
+nine months before I joined them. So I
+kind of got introduced to the team there.
+And then I was chatting with them and
+like, hey, we're buying this other
+business. I didn't actually know what
+business it was, like we're buying a
+business, we think you'll be great for it.
+And a time I was like, sure. Great. I
+probably should have asked more questions.
+But my goal going into that was, you know,
+I had the experience running my own
+business, then I had the experience
+running a portfolio of products. And then
+it was like, okay, cool. Well, I want to
+sort of see what it's like with multiple
+companies growing and that kind of, I'd
+always kind of heard of the private equity
+playbook. That was something that was very
+interesting and mysterious and appealing
+to me. And I want to just get like a
+higher velocity experience of like, what
+is it like to grow a business that's
+larger? What is it to? I was at a director
+position at the other company, what would
+it be like to be in charge? And that was
+kind of the thing that was promised to me
+as I joined the business. They were like,
+yeah, you're going to learn a lot. And at
+that point of time what I thought learning
+a lot was going to look like was like
+somebody sitting me down and walking me
+through like here's how you solve this
+problem, here's how you solve this
+problem. And in reality, it was more like,
+alright, we're gonna put just a huge
+number of intractable problems in front of
+you and you're just gonna have to like
+barrel through them, you know, headfirst
+and so. So yeah, I learned a lot. So
+that's kind of the quick arc from founding
+my own business all the way through to at
+least joining Baremetrics.
+Arvid Kahl: Well, thanks for that. It's
+funny because, you know, the
+entrepreneurial approach is, you know, if
+there's gonna be problems, they're gonna
+have to face it, but thinking that you
+will get some, like masterful guidance and
+then people just kind of throw even more
+problems at you, it sounds pretty much
+like entrepreneurship, right?
+Brian Sierakowski: Yes
+Arvid Kahl: That's funny but very
+interesting because to me honestly, as a
+founder, it never crossed my mind to
+escape, like, beyond running my own
+business as a founder, right? It's the
+path that you chose, I guess, being kind
+of acquired into another business and then
+figuring out that, oh, I can actually do
+something else with my leadership skills
+and with my CEO experience and going
+through the portfolio. And then going to
+the other side, this is something that I
+think most people who are building
+software businesses or generally indie
+businesses, they don't have experience in
+at all. Like they come mostly from a
+technical background, not from managerial
+background. And even if they come from
+that background, they don't have like the
+kind of overarching director of product
+experience. So it's really nice to hear
+from you here today about all of these
+things. And I'm just going to ask you a
+couple of questions about the journey with
+Baremetrics, I guess and then you know,
+where it ended and where it's going to go
+in the future. But we'll get to that
+later, you know, historically correct.
+We're gonna go chronologically here, I
+guess. I think it's just super exciting to
+think because I cannot imagine what it is
+like to come into a company that was just
+acquired to replace the original founder.
+How did that feel? Honestly, this is, I
+know, this is a wishy washy kind of
+question, but I wanna know because
+entrepreneurship, to most of us, is such a
+dear to our heart kind of thing. How did
+it feel to come into a business that
+somebody else has built?
+Brian Sierakowski: For sure. Yes, it's
+very strange. And I love talking about the
+feelings too. I always joked if I ever
+wrote like a business book, it'd be like,
+"No One Told Me There Were Gonna Be
+Feelings." That would be like, that was
+like, because it's like, 90% feelings as
+it turns out, but yeah, it's a very
+strange experience on a multiple different
+fronts. So yes, certainly. And it didn't
+help that Josh is such a popular and well
+loved member of the community. So, you
+know, there was kind of like, there's
+always pressure, right? Like, if you start
+your own business or even just like, if
+you're, I was gonna say working a regular
+job and that sounds derogatory. You know,
+if you're just like working at a tech
+company or whatever. If you're like a
+mechanic, there's always some aspect of
+like, hey, you have to like you gotta fix
+the cars good. Like, that's the pressure
+that's on you. So, but it felt like in
+this case, the pressure was heightened
+from multiple different angles. So one,
+yeah, it's like, you kind of fill in big
+shoes, you know. And also, the person
+whose shoes you're filling is an active
+member of the community. So in some way,
+it's like, you know, like dating
+somebody's ex, you know, that's still in
+your friend group. It's like, okay, like,
+you know, I have a duty to myself and to
+the team, to the private equity firm, you
+know, kind of to the ownership. But you
+also have a responsibility to the person
+who spent their life building this thing,
+which I kind of maybe had an increased
+sense of because I built my business and I
+had sold my business to somebody else and
+I saw someone else making decisions for my
+business. And I think I did a pretty good
+job at that point of, you know, having a
+sense of separation of like, that's not my
+business anymore. But I still know what
+that feels like to be like, it still
+happens that I saw some. They changed the
+feature in TeamPassword. I'm like, oh, I
+don't know about that on fellas like it
+was really like, I know that's gonna come
+back to bite you for this following
+reason. But that might be wrong. Anyway.
+So yeah, so I think that that is like,
+there's certainly a lot of pressure on you
+from that perspective. And then I think
+it's also it was also a novel experience
+for me coming in as the leader of a
+business that had been in motion for like
+nine years previously. And so it's really
+I found it to be quite challenging, quite
+difficult to jump in, begin operating the
+business while at the same time trying to
+triage and understand where do we need to
+spend our attention most? And how do we
+need to kind of prioritize, you know,
+rebuilding the team, focusing on the
+product and on support and success and
+marketing and sales and kind of all these
+things together. What did our operations
+look like? And also just, you know, again,
+it's a operating business. It's a business
+that's growing and you want to grow it
+faster. So you can't, I wasn't like I
+could just join for a year and kind of sit
+and observe it and be like, okay, cool.
+Now I know everything. The reality was, it
+is like the first like, full time day that
+I was at Baremetrics, I was on sales calls
+and I was talking to customers and I was
+getting out there. And I did not know the
+product fantastically well at that point.
+It was my first day. But I was able to
+lean back on my experience of like, okay,
+well, I know what it is to grow a SaaS
+business and I know what it is to be in
+the space. And so I guess in retrospect, I
+feel pretty bad about whoever I took those
+initial, I should actually probably go and
+look at my calendar and see like, who did
+I take those calls with? And like
+apologize that I probably didn't give them
+the most accurate information. I probably
+gave them a lot of, you know, I'll look
+into that and follow back up with you. But
+I did lean on like, okay, well, what's
+your goal? What are you trying to achieve?
+And what are you doing today? Kind of the
+traditional, you know, foundational
+questions you can ask anybody about what
+they're doing and how they might be a good
+fit for your product. So yeah, it was a
+lot of what's the phrase, you know, kind
+of like building the plane while it's
+flying or whatever, some phrase along
+those lines. But also, everybody's
+watching you do it. So yeah. So that's
+kind of, yeah, I found to be quite
+challenging. It was a pretty tough
+situation.
+Arvid Kahl: Certainly sounds quite
+challenging. Like not only do you have to
+understand the business, you also have to
+kind of integrate into the existing team
+and into a group of people that have known
+each other and the guy who's now missing,
+you know, like the founder that has never
+been replaced for a while. How was that?
+Was it a challenge in itself? Or did it
+just add up to the other challenges that
+were already going on around you?
+Brian Sierakowski: Yeah, I don't know, be
+interesting to talk to some of the people
+because most of the people that were at
+the Baremetrics team at the time of
+acquisition are like, basically all of
+them are at other businesses now. They're
+still in the community. So it'd be very
+interesting to ask some of them what they
+think. My thought is that that was one of
+the easier parts. I kind of like I like
+people. I'm interested in them. And it
+also kind of comes from my background, too
+of like, I don't, I was coming there to
+learn as well. And I was coming to
+experience that, you know and I was coming
+to make improvements. And, you know, I'd
+hope to think that my heart was in the
+right place. And so joining the business,
+it wasn't a mechanism of like, hey, I'm
+this smart guy coming in to like, tell you
+everything that you're doing wrong. It was
+like, hey, like, I'm here now to learn and
+to bring my wealth of experience. But I
+very much respect everything that you've
+done. I have a lot of appreciation for
+everybody's here. I think that we've done,
+you know, from my perspective, looking at
+the outside, we've done like, 95% of
+things right. So, you know, as I tried to
+ramp up as quickly as possible, it was
+important for me to be like, hey, like
+you, everybody here is awesome. Like every
+everybody here rules until we prove
+otherwise. And that was like largely the
+case. I would say like the vast majority
+of people were, you know, at the top of
+their class or whatever. That's not a
+great analogy, but so I didn't find that
+to be very difficult. And I think that
+again, it'd be very funny for you to like
+talk to, you know, reference check this
+and talk to them. Oh, yeah. Brian, when he
+came in, he was awful. I hated working
+with him. But I would suspect more often
+than not, they would probably say
+something like, yeah, like I really
+enjoyed working with Brian. I really
+appreciate what he had to do. I just
+didn't agree with you know, we went from
+being a independently like a private tech
+company into a private equity owned
+business. And there's necessarily
+differences because of the structure of
+how that works. And so that's what I think
+that most of them would say. But again,
+it'd be very funny for you to be like, oh,
+yeah, Brian is like totally delusional.
+Like, he's like, nobody liked him. He was
+very unpopular in his time there.
+Arvid Kahl: Certainly what I remember the
+process of the sale, I kind of followed
+along as it happened. It was pretty much a
+public thing anyway because, you know,
+Josh blogged about it on the company blog
+and it's still there. It's still the post
+of him selling is still up there. And so
+are many new posts that happened since and
+I remember like he paid a lot of attention
+to getting his employees compensated,
+right? Getting the options paid out and I
+think out of the 4 million that he sold it
+for, 300k went to his employees. So he
+took care and he wanted to take care of
+people in the business. Of course, there
+was always the Hacker News backlash of any
+sale, any activity. There's something
+happening on Hacker News, but from what I
+knew he really wanted his employees to be
+well treated. And I would assume that you
+treated them all. But the thing that I
+really want to know because you just
+mentioned this, right? The alignment
+between what a privately owned and private
+equity owned business that kind of, yes,
+slight difference in alignment there. What
+were the things that you immediately
+wanted to change about the business when
+you went into it? Like what things that
+other people hadn't thought about that you
+immediately go for?
+Brian Sierakowski: I don't know to what
+degree that nobody had thought about some
+of the things. Some of it and I don't know
+to the degree that Josh talks about this
+stuff. But I think he was kind of ready to
+like move on by the end. And so I think
+that some of the things that I'm about to
+say, shouldn't be construed as like, these
+are like, huge insights that Josh had no
+idea about, but he might have been like,
+yeah, I just don't want to deal with it.
+So I'll give a couple of examples. So one
+and I'm sure we'll talk a lot about
+pricing and monetization and things like
+that. But like, one thing is that when
+Baremetrics operates off of MRR tiers. And
+so the more money you make, the more money
+we charge you. And that a lot of people
+like that and probably more people hate
+it. But most people hate anything where
+they have to pay more money. For the
+record, I think that's like a really great
+model for the business because that allows
+you to charge a very small amount to the
+smaller businesses and then kind of if
+you're doing your job at Baremetrics, we
+should be helping you grow. And, you know,
+you should feel like we're a part of that
+journey for you. If you feel like you're
+growing despite Baremetrics, then it feels
+predatory. And I understand that. But one
+of the things is that when you upgraded
+from one plant here to the next you had to
+kind of like go through a process to kind
+of like, approve that change for it to be
+like yes, I formally, like agree that I am
+now in this new plant here, which is like
+a very nice kind of thing to do. But the
+fact of the matter is, like 30% of people
+just never click the button that says
+like, I accept. And so they just and there
+was no, like, they just kept using the
+product. So there's like a bunch of like
+little things like that. It's like, well,
+when we upgrade, we should upgrade. One
+other thing and I'll kind of just drop
+this as a quick note. I'm relatively
+confident we'll circle back to that. But
+we introduced called a cancel, which was
+very unpopular. And everybody hated that.
+Arvid Kahl: I tweeted about it, too.
+Brian Sierakowski: Yeah
+Brian Sierakowski: Yes. Yeah, I think
+there were one or two tweets about that, I
+Arvid Kahl: I remember
+think. Maybe three, I don't maybe four? I
+don't know. Maybe 5000? Maybe 5190. Maybe
+we can circle back. That might be a longer
+conversation, but even things like really
+just kind of going across every team and
+kind of figuring out like, what are the
+opportunities here? How can we improve the
+business operationally? So it's like, what
+are we doing in marketing? And how can we
+do like, what's working? What's not
+working? How can we do more of what's
+working? And obviously, do less of what's
+not working. When we bought the business,
+there was one person in marketing and they
+were focused basically exclusively on
+content. So okay, cool. And Baremetrics
+has always had great content. So we did a
+ton of experimentation there from things
+like what if we did like a ton of content?
+What if we like generated content, even
+before the AI world? And then like, what
+do we look like on social? What do we look
+like in paid? What do we look like in all
+these, so kind of just like, taking that
+one team and then splitting that out.
+Like, we were just in content. Let's kind
+of branch out into everything else. Let's
+get on Jeetu. Let's get on, you know, it's
+kind of like, let's start to build out the
+roadmap of how we can begin doing
+experimentations to find additional growth
+channels for the business. Baremetrics
+never had anybody that was like a
+dedicated salesperson. So we hired a sales
+team. And we kind of went through that
+process of like, what would it look like
+if you had somebody who was dedicated to
+you as you signed up to understand what
+your goals were? And help you get the most
+out of the tool? And how would that affect
+your conversion rate? And how would that
+improve retention of you know, if you came
+in and we knew for a fact day one, that
+your goal was to reduce your churn from 7%
+to 4%? Well, that's something we can rally
+around. And we can, you know, we can help
+you work on that. And we can, in you know,
+this team spare time, we can look at your
+account and figure out ways to help you do
+that or find insights for you. Then, you
+know, technically, how are we doing, we
+went through a couple of things like
+replace the Stripe API that we were using.
+We could no longer use for new customers
+so we had to replace that. We also
+migrated our hosting, which was kind of
+like a much larger pain in the ass and I
+think anybody anticipated it was going to
+be in retrospect, we should have
+anticipated that it was going to be a
+gigantic pain in the ass. And we should
+have planned for that accordingly. And
+then we also just kind of overtime because
+the team had focused in a lot of different
+areas, we just kind of had like a backlog
+of books that were like, you know. One of
+the challenges with running a business
+like Baremetrics is that like when I ran
+TeamPassword, if you had a bug, the bug
+would be like, if somebody tries to save a
+password or a note with like a Unicode
+character or whatever non Unicode
+character, it would break. And the reason
+that it would break is because of the way
+the encryption works. And that character
+wouldn't work. So we have to either
+whatever. We had to figure out a solution
+for that. We can write a test. I can write
+a solution for that and then deploy it and
+then it's fixed for everybody. Because
+Baremetrics is so data driven, the problem
+that you're experiencing, might literally
+only exists in your account. So it's like,
+because you are especially working with
+Stripe, there's so many ways that you can
+change your data. And you can have
+discounts at the customer levels. You can
+have discount at the invoice level at the
+invoice item. You can have discounts at
+the product level. You can have coupons.
+You can have dollar off percent or
+whatever. So you just kind of run into
+this multifactorial situation where we
+just accumulated this huge backlog of
+like, issues that were really like only
+one account specific and that bug backlog
+was kind of like ever growing. So that was
+like a huge thing of like, when you sign
+up for Baremetrics, you need to trust us
+for your data. And if the first thing that
+happens is you see something that's wrong,
+we have like, effectively, like 45 seconds
+to fix that before you're like, no, I'm
+not going to trust this, even if whatever,
+even if we can explain it away. We need to
+bring a resolution to that. So that was
+another thing of like, hey, how do we put
+ourselves in a spot where I don't think we
+ever quite got to 45 second resolution
+time, but how can we get to the point
+where we're not in a spot where the bug
+backlog is ever growing? And kind of all
+these weird edge cases things are
+happening? How do we make the big picture
+improvements so that bugs are less edge
+casey and when they can be kind of more
+concentrated? And so we can make changes
+that will improve a series of issues that
+might happen. And then how do we just like
+have like, we hired two engineers, who for
+the past two years have just gotten
+through the bug backlog and just have
+fixed like everything to the point where
+right as I was exiting, they're like,
+yeah, they're like bugs are done. Like
+what? Like, yeah, bugs are done. We're
+through with bugs like, awesome. That's
+really great. So I hope that answers the
+question. I mean, it's a lot of different
+things in a lot of different areas. But
+it's kind of just, I think a lot of it's
+just bringing a new set of energy in. And
+then also, like I mentioned, kind of there
+is like the kind of playbook approach of
+like, hey, here are the characteristics of
+high performing businesses. We are going
+to deploy those practices here. And then
+you need to see if they work or they don't
+work or what changes you have to make in
+order to have success with that for your
+business that has your product, that has
+your customers.
+Arvid Kahl: Were there any existing
+processes or strategic planning systems in
+the business that were completely
+incompatible with this new playbook that
+you brought in? You know, coming from the
+bootstrapping or you know, mostly
+bootstrapped perspective into a more, you
+know, growth oriented world.
+Brian Sierakowski: I don't think I'm
+trying to think back. I don't think there
+was anything that was like, I mean, I
+don't know, I guess it just depends on how
+you think about it, right? Like the fact
+that we want all of our customers to like
+opt into an upgrade versus just being
+moved to the new plan. Like, I mean, you
+can make the argument that that's kind of
+like two different worldviews. It's kind
+of like some, I feel pretty good about
+that change. But you know, it's like, it'd
+be like, you know, like Slack doesn't
+charge you for inactive members and things
+like that. And that's kind of like a
+product mentality. I think, certainly, the
+call to cancel change was like, totally,
+it's not like that. I guess that's like
+very antithetical to the mentality of the
+business previously and they want, you
+know, signup should be super easy and
+simple. And then exiting should be exactly
+the same way. And in fact, we flipped both
+of those. We turned signups so now that we
+do have people that are hired to help you
+do that and there is, you know, white
+glove onboarding, if you want to do that
+and we do have a success team that will
+check to make sure that we're fulfilling
+our promises. So we've added stuff to the
+front end to make it more hands on to go
+in and then we added things to make it
+hands on when you left. So yeah, I would
+say that's pretty not like it doesn't like
+run against like a process. But I do think
+it's like a mentality. Like there were
+just mentality changes that happened from
+when the business was run before to when
+it was my era of the business.
+Arvid Kahl: Okay, well, yeah, like Josh
+had this whole no fuss thing going on,
+right? He just wanted it to be as simple
+as possible. And honestly, I think most
+indie hackers who want to build products
+that they can run a solopreneurs, they're
+just going to have this default, no fuss
+approach to anything because the moment
+fuzz is involved, you cannot solopreneur
+anymore, right?
+Brian Sierakowski: Right, yup!
+Arvid Kahl: You need other people. That
+means you need a sales team. The moment
+you need a dedicated customer service team
+or anything like that, you don't have your
+business anymore, your lifestyle business
+that you want to build. So I think that
+antithetical to that definitely is a more
+hands on approach. But honestly, let's
+maybe talk about call to cancel because if
+I could go back in time than with what I
+know today, I would probably think about
+it less vitriolicly, you know. I would be
+less aggressive about my perspective on
+this. Because the moment you started
+actually publicly talking about it, you
+did a whole lot of, I guess, a couple of
+videos where you talk both about your
+price increase. That was a thing, right?
+And the call to cancel thing and how you
+tried it out, what data you got from it,
+why you did it? I found in retrospect, it
+made some sense, right? It was still maybe
+not what I would have liked, particularly
+as a customer at the time. But you know,
+it was something that from a business
+owners perspective, made a lot of sense,
+which is why I would like you to share
+your reasoning behind making your
+customers call to cancel a product that
+they didn't have to call to sign up for.
+Brian Sierakowski: Yeah, sounds like you
+still might be a little bit frustrated
+Arvid Kahl: I just want to describe the
+actual, there's a European law about this
+about that.
+too, right? So there's this whole thing
+with you cannot be more complicated in
+canceling then in signing up. But there
+was a good business reason for you to do
+it. And I just want to hear about that.
+Brian Sierakowski: Yeah, yeah. No, I'm
+just poking fun a little bit. Yeah. So
+there was a couple of reasons for it. And
+I think in just to kind of address like
+the controversial aspect of it, I think
+that's like, there's no way to look at
+that not 100% on me, especially hearing
+you say, well, hey, once you kind of got
+into it more than I understood or it made
+sense and like, you know, I understand you
+don't have to agree with the outcome, but
+you understood the path to get there. And
+you kind of you could conceptually
+understand and appreciate why we were
+there. And so, you know, I think that
+there's no way to kind of hear that
+without being like, well, the deployment
+of that was totally bungled, like
+communication on that was like, could not
+have been handled worse because it's like
+it once it got down the road, then you're
+like, okay, I understand it now. That
+means that was understandable. And had I
+handled it better in front, I suspect a
+lot of the frustrations could have been
+negated. So yeah, the real purpose for
+doing call to cancel was there's two
+things. So one, again, I'm coming in as
+somebody who's jumping into the plane mid
+flight. And every customer touchpoint is
+like critical, especially people are
+canceling. Like the most important thing
+for me to know as a leading indicator of
+like, where we're going. It's like, why
+are people leaving? And so we used our own
+product cancellation insights. And we
+allowed people to say why they were
+leaving. But I don't know. Maybe it's also
+just a function of like, I don't know
+enough about the business to be like, when
+somebody says, like, oh, I had that one
+bug. Like maybe the previous, maybe Josh
+would have read that and be like, oh,
+yeah, the one bug, like, I understand why
+that is. I don't know what the one bug is.
+So there's a big part of it for me to be
+like, how can I learn as quickly as
+possible? Like, what's going on? How can I
+have conversations with people? And how
+can we kind of like, that should be like
+the biggest input for like, what do we
+decide to do moving forward? I think there
+was a perception that, you know, it's like
+a wind back exercise. And that happened
+literally once the whole time I was doing
+it. I didn't even ask for it. It was
+somebody was like, I think the person was
+just so frustrated and so angry that after
+he kind of like, yelled at me for 30
+minutes about like, how much of an idiot I
+was, he kind of like, he got it all out of
+his system. And then he was like, okay,
+well, we can try this again. Like, turn my
+account back on and we can make it happen.
+So, you know, that was really the primary
+reason why we did it. And it was like a
+crucial learning point. And we did learn a
+lot. Surprisingly, most customers were so
+nobody liked it. Nobody enjoyed having to
+do it. But the majority of people would
+have a conversation on the way out. And
+the vast majority of those conversations
+were very useful and very thoughtful and
+very insightful. And again, it's kind of
+like your mileage may vary depending on
+the type of business that you're running.
+But running a SaaS based analytics
+platform for SaaS companies like for us to
+get feedback from other SaaS businesses
+on, you know, our customers are just very
+articulate, be like, hey, well, here is
+what I was expecting. And here's what I
+saw. And then here is, from my
+perspective, the delta between those two
+things and here are three recommendations
+of ways that I would have solved this and
+if this was done by this date, I would
+have stayed. It's like, great, just like
+and that's more than anybody's ever gonna
+type into a text box. But you know, so if
+you're running a different type of
+business, you might not get as good of
+feedback as we got. But that was really
+the major thing. We also kind of had this
+minor track of like us detaching from your
+Stripe account there were kind of like
+technical things and turn off things and
+exports and other kind of tactical things
+that like made a lot of sense. Like we had
+customers who still had web hooks
+connected to us. Like their Stripe web
+hooks were going through Baremetrics. And
+then we had some sort of like, DNS issues
+and then that caused non customers of ours
+to have their payments fail, which I don't
+really quite know the mechanism for that.
+But I don't know why. Like, it's probably
+a part of a flow anyway. So like, they
+were like, super pissed at us. I'm like,
+oh, well, we need to like, you have to go
+into your account and click X. And then we
+also, we have Baremetrics has an API. So
+there was a period of time where we
+looked, I think we got like, it's like 1.5
+million API requests to all endpoints from
+non customers, which is kind of a spooky
+thing of like, oh, well, they're sending
+us like customer data. We have no contract
+with them. We have no business
+relationship with them. We're paying to
+like, return 200, okay, because we don't
+want to return a non 200 status code in
+case that breaks their software, that
+this, you know, charge customer returned
+non 200. So, they're all those kind of
+like, it's kind of like a cornucopia of
+technical issues. And I think at the time,
+we were more upfront with those technical
+things because that was more painful for
+us because we had just gone through having
+customers be or non customers be furious
+with us that their payments aren't going
+through because of us. And that felt very
+raw. But I really think that the real
+reason and I think the thing that to your
+point, the thing that actually resonated
+better with people, it's like, we have to
+know, we need to have a conversation. And
+we're not trying to save you, we're not
+trying to keep you as a customer. In fact,
+like, again, it's only I mean, maybe it's
+happened more than once. And I think we've
+had people come back after the fact. But
+you know, the number of people that you
+save, like transactionally, in that call
+is like, one was actually numbers. I was
+gonna say zero, but I just told you it's
+one. So I don't think we were all right. I
+don't think and I know that we were not
+clear enough in the communication around
+that. And I don't think I was honest with
+myself. And I maybe, almost internally
+thought like, well, the fact that I need
+to learn like, is that really someone
+else's issue? Is that our customers issue
+that I need to learn and I need to build
+our roadmap? And like, but I don't know, I
+guess I'm at peace with it now. It's like,
+yeah, you know, it's not the case that I'm
+going to know everything coming in here. I
+think it's important for everybody to do
+it, do something like this or I saw on
+tech Twitter. Someone was talking about
+going white glove for their signup, like
+you can't selfserve signup. You have to
+talk to somebody. I think doing these
+things periodically are like, super
+useful. And so yeah, I don't know, I think
+that that's kind of the whole situation in
+a nutshell.
+Arvid Kahl: Yeah, it sounds like you learn
+two things or two kinds of things. First,
+have you learned how not to communicate
+something to your community
+Brian Sierakowski: Learn what not to do
+Arvid Kahl: And what not to do, but you
+also learned the actual thing you set out
+to learn, which is, I guess the price you
+pay, right? The price you always pay as an
+entrepreneur is extra learning. It just
+depends on how painful it is or how useful
+it is at the same time. I do wonder
+because you were effectively competing
+with several solutions in the same space.
+And one of them, I had Patrick Campbell on
+the show and we were talking about Profit
+Well. And I think Profit Well was always
+kind of the free alternative version to
+Baremetrics that everybody used. I
+remember personally from my own experience
+building a SaaS, I had Baremetrics. We
+paid $180 a month or something at some
+point. And we used Profit Well at the same
+time. And we used Profit Well for the
+Profit Well stuff and we used Baremetrics
+for the really good parametric stuff that
+Profit Well didn't have and it was kind of
+almost the same but it wasn't, right?
+There was a clear distinction between the
+two. So I guess what most people that were
+in the industry and we're doing the exact
+same thing using the free product,
+obviously, why wouldn't you? And the
+product that you pay for for the extra
+things, they were like they were feeling,
+oh, wow. They're really trying to keep us
+paying customers there even though that
+there is a free alternative.
+Brian Sierakowski: Right
+Arvid Kahl: I think it's just, you know,
+these shrieks of sentiments and
+expectations that you have in a community
+and I would argue and I wonder if you
+agree with that, that these experts
+expectations are so, they're so subtle and
+they're so noncommunicable by any
+leadership that may be leaving the company
+like Josh having it being acquired, like
+that is something you have to learn by
+just feeling it, right? Going back to
+feelings here.
+Brian Sierakowski: Yeah, I think you're
+right. I think it'd be very, when you go
+through, like a due diligence process to
+understand a business and as you're buying
+it, there's like, you know, like 500 pages
+of documentation. You know, there's a
+whole Google Drive that's created to store
+all of this stuff. And I think it will be
+difficult to get like a customer sentiment
+analysis. I mean, that's actually not a
+terrible idea. But I think it'd be very
+difficult because you can only cover so
+much and you know, also just being founder
+friendly, you need to be like at some
+point, hey, this is our lesson to learn.
+And I even think if Josh was like, hey,
+Arvid Kahl: Armchair founders?
+don't ever do self serve cancellations. We
+might have been like, well, we're gonna
+try anyway. You know, it's like, you know,
+we're gonna give it a shot. I do think
+that it's very interesting that there's
+two different audiences as well. So I
+think that there was the and I understand
+the frustration all around and I also
+received the frustrations. I think I do
+have a really good understanding. But I
+think from the Baremetrics customers,
+people who are using the product, I
+totally get that. Like, everybody's busy
+and like having to do this extra thing for
+this product that I no longer want to use,
+it's like, hey, like, I'm moving away from
+this because it doesn't meet my need or
+it's buggy or because like, I just don't
+feel like using it. Or it's like, we
+thought it was going to be a good idea.
+But we just don't whatever, like your to
+do list as a founder or somebody that's in
+Brian Sierakowski: Yeah, it's like, may be
+their founders that weren't Baremetrics
+a leadership position with a tech company
+is like, if a million things to do, like
+talking with Brian for 15 minutes on a
+Tuesday is not on the list. You know, this
+is like investing time in something that
+is not going to you don't think is going
+to move your business forward. So, yeah,
+absolutely. You know, asking for their
+time is huge. There's also the community
+of people who were not customers and who
+are just like, conceptually mad like this
+like, which is harder.
+customers or people that just felt it was
+morally incorrect to do. One of the things
+that I found and this was like, a very,
+it's not a piece of experience that I
+expected to get, but being kind of what
+Josh calls, you know, I was like, the main
+character of the internet for the day,
+especially with the consideration that
+like our call to cancel thing. Like, we're
+like, hey, like, I'll put like my picture
+up there. It's like, you're going to talk
+to me, this is not like, whatever. And so
+like, my picture was, like, you know, like
+4000 tweets of like, hey, look how dumb
+this guy's face. But like, one of the
+observations I had is that and this is, I
+don't say this to minimize like anything.
+But I realized that a lot of people were
+just having fun. Like, they're just doing
+the drama thing. They're just like, this
+is like, whatever unpopular chain when
+Coinbase is like, hey, like, whatever, no
+politics here or whatever. Like, they were
+like, I think that was actually around the
+same time. I think that actually took the
+heat off of me was Coinbase was like, hey,
+no more politics. And people were like,
+oh, these guys are idiots and I can't
+believe it. And you know, whatever. I
+would go through the replies, which, you
+know or the messages, which I don't think
+was actually a healthy thing to do at the
+time. But then I realized something oh,
+they're just having fun. Like, this is
+just like
+Arvid Kahl: Entertainment, right?
+Brian Sierakowski: Yeah, destroying me.
+And like, this was like, one of the big
+waves was over Christmas. So I'm, like,
+sitting there, you know, Christmas Day,
+watching the family open presents and
+like, you know, it's like 85 new
+notifications, I look again, you know, 300
+new notifications. And, you know, I was
+trying to learn from that. I was trying to
+manage the emotions of that. But, you
+know, I would follow some people. If I
+thought somebody made a good point, like,
+I'll follow them. And then it's like, you
+saw just like, I saw it firsthand how
+quickly they moved on to the next thing.
+This was not a durable concern for them.
+You know, for the first audience for our
+customers like and the people that we
+should actually care the most about, not
+that you shouldn't care about other people
+or whatever. But you know, for the people
+who are actually legitimately affected by
+it, I think that audience was much more
+understanding. And you know, that was the
+audience that like, in fact, it's like the
+only group of people that I could actually
+do something for. But yeah, we had the
+secondary, much larger group, much angrier
+group of people that, you know, it's kind
+of like, I guess, it's probably something
+you know a lot more about of kind of more,
+you know, building with a community and
+kind of like, it's not just about what you
+do. It's kind of like not even necessarily
+what you say about what you do, but
+there's like, you kind of have to go to
+the third level of like, what is the
+perception of, you know, it's going to go
+into somebody else's brain and then
+they're going to process it. And so you
+kind of almost need to, well, you can
+choose not to worry about that, which is
+probably the same thing to do. But you
+know, that's also kind of another level of
+complexity. That kind of goes back to your
+initial question of like, hey, Josh was so
+open, so in public that that was kind of
+ingrained in the DNA of Baremetrics. So to
+some extent, not a surprise at something
+like this. It was probably going to happen
+at some point in time, unfortunately.
+Arvid Kahl: Yeah, when things happen in
+public, reactions tend to be very public
+too, right? And Josh was very public with
+things leading up to this. And people
+either expected it or they just happily
+went after it. Because it was such a, I
+mean, it was easy to rally against.
+Because from a customer perspective, it's
+a nuisance. Obviously, from a business
+perspective, it makes perfect sense. And
+the weird part is that most or if not all,
+of Baremetrics customers are businesses or
+at least, you know, like founders or
+people that are close to the things that
+matter in business. So there was, I think
+that made it also so juicy for people
+because they understood not only okay,
+this is something that bothers this person
+for some reason. But this is a behavior
+that I might also in the future want to
+take. And I'm gonna see somebody else
+experiment with it, right? It's kind of an
+observation of somebody else's experience.
+It's kind of like watching people fail at
+play video games on Twitch.
+Brian Sierakowski: Right
+Arvid Kahl: Like, you use these kind of
+Dark Souls games where people die all the
+time. And your joy is to watch them die in
+many different ways.
+Brian Sierakowski: Right
+Arvid Kahl: I know what you experienced,
+unfortunately.
+Brian Sierakowski: Yeah, I gotta be one of
+those deaths for a period of time. Yeah,
+yeah, yeah.
+Arvid Kahl: Here's the thing, building in
+public, that's just going to happen. And
+you're absolutely right. There are so many
+layers that whenever you think about, what
+did I do? How did I communicate it? How
+was it perceived? How do I now react to
+the perception of what I did and how I
+communicated it? You can go into this
+infinite kind of epi cycles of trying to
+figure stuff out. In the end, the best way
+to deal with it is really just to let it
+pass through and wait for Coinbase or
+Basecamp to do something
+Brian Sierakowski: Whatever the next thing
+Arvid Kahl: Whatever the next thing is. So
+I guess you dealt with that pretty well.
+And that brings me to the question that
+pulls us more into the now or rather the a
+couple of weeks ago because you did
+something else in public. You communicated
+very clearly that you were leaving
+Baremetrics as a CEO and you did that on
+Twitter, which is, I guess, it's not
+unreasonable. But after what happened to
+you before, it's an interesting way of
+asking for it. So
+Brian Sierakowski: Yeah
+Arvid Kahl: Tell me about the maybe not
+necessarily the Twitter thing, but just
+tell me like what happened, like, why did
+you leave the company? And maybe in the
+end, what made you talk about it publicly?
+Brian Sierakowski: It's a great question.
+It's a thing that you say while you're
+thinking about the response. So yeah, I
+think that looking back, you know, my time
+at Baremetrics was like, incredibly
+successful. At least for me, personally, I
+can say that, you know, the whole kind of
+brief for me going there was to get a lot
+of experience and be exposed to a lot of
+new challenges and try new stuff. And
+really, this part wasn't intentional. But
+I really got to see multiple different
+ends of the spectrum. So when I ran my
+business TeamPassword, we spent, I spent
+all my time I actually, like, became a
+developer through building that product.
+So like, all my time was spent building
+the product. And I spent no time on sales
+and marketing. And then I came to
+Baremetrics. And most of the effort was in
+sales and marketing. So I kind of got to
+see like, what is that? What are the
+opposite ends of the spectrum look like?
+And then at TeamPassword, my pricing was
+too low, like our cheapest plan was like
+seven bucks a month. That's like, are you
+going to trust your business's passwords
+to something that's like less than your
+Netflix account? And then, you know, over
+in Baremetrics world, we got were like,
+we're all the way up into premium pricing
+territory. So we're like, all the way on
+the far right hand side of like and, you
+know, like what you mentioned before about
+like, hey, it's like, super easy, super
+transactional, you know, no fuss, that was
+kind of the TeamPassword way. And I got to
+see like, okay, what would the kind of
+more white glove approach look like at the
+Baremetrics side? So and you kind of like,
+you go down the list for basically, what
+does it look like when just I'm the
+engineer? What does it look like when we
+have 10 people writing software for a
+product? What it looks like, when you have
+technical leadership? What does it look
+like when I do everything? What does it
+look like when I have you know, a team of
+directors and those directors have direct
+reports under them? And like, what does
+that structure look like? So that's all to
+say that, you know, I kind of got not that
+I wasn't like super diligent about this.
+But and I think it's more luck than
+anything else. But I got kind of the exact
+experience that I was looking for. And
+going over the course of three years,
+eventually, you get to the point where
+it's like, okay, cool. I'm kind of like,
+doing the same thing over again. I'm
+doing, you know, kind of not necessarily
+repeating, but it's kind of like rhyming.
+And we're kind of like, going through that
+process. So I mean, that was really the
+situation of like, I'm like, okay, cool.
+You know, I've experienced. I've learned,
+not necessarily all that I'm going to
+learn, but we kind of just got to an
+inflection point where it's like, okay, I
+think it makes sense to move on the
+private equity firm agreed, you know. So I
+think it's like they also going back to
+what's their structure and they have very
+specific financial milestones and all the
+governance and what they're expecting to
+see. Like, they have very strong opinions
+about what's going on with the company. I
+have strong opinions, too. And so I think
+it just became almost like as a confluence
+of things. So okay, I think this is just
+like the perfect time to be like, okay,
+cool. I've gotten what I need to get. I
+can make some room, which is like, I
+guess, maybe an extremely polite way to
+put it for saying, like, hey, let's, you
+know, let me step out of the way. And then
+let me kind of, for me, selfishly, to
+figure out, like what's that next level up
+going to be for me and then, you know, let
+the company kind of go on to potentially a
+new or different trajectory. Like, without
+me there, the capability to have large
+changes within the company or even just,
+even from a culture perspective, like,
+it's just way easier because I'm always
+going to anchor Baremetrics to the Brian
+way of doing Baremetrics. The same way
+that Josh did, like with Josh, if Josh
+decided to stay on post acquisition, like
+that would have been way different because
+like, the business is always going to be
+Josh Baremetrics until Josh is no longer
+there. So it's kind of not exactly the
+same thing. Certainly, like my mark on the
+business is not as nearly as large as
+Josh's but, you know, that's kind of the
+general idea of, okay, like, it's kind of
+like, kind of time, I mean, there's no
+perfect time to do stuff like this, right?
+It's not like and this was not like how it
+was exactly written up. But it felt good
+enough and everybody was on board. And so
+I'm like, okay, cool. Let me kind of step
+aside and figure out what the next thing
+is going to be moving forward.
+Arvid Kahl: Well, that sounds like you're
+leaving on good terms, which is that's
+Brian Sierakowski: Yeah, that's a great
+question. And it may not surprise you to
+fun. And that's the best way to leave. So
+what is next for you? I mean, we can talk
+know that I've thought about this too,
+myself. I'm still kind of in the face of
+about what would be next for Baremetrics
+for hours, but I'm actually more
+seeing what's out there. You know, I think
+the kind of like, the big three paths,
+interested in what's happening in your
+life, CEO and acquisition and then CEO of
+paths forward for me are one, you know, go
+into PE again. That would be like the
+another company or a director role. What
+is gonna be the next thing that you want
+easiest, most obvious thing of like,
+joining another firm, being a CEO for one
+to do?
+of their businesses, you know, hopefully
+with kind of material differences. So I
+can continue to learn and kind of expand
+my skill set and what I'm even just the
+different looks that I'm getting. But you
+know, the kind of the pro side there is
+like, yeah, I will be able to step into
+basically any CEO role at any tech
+company, owned by PE firm, do a very good
+job at that. The downside is that I might
+just put myself back in the same exact
+spot that I was before. So it's like, hey,
+like, if I left that, you know, it's easy
+to get to, probably extremely lucrative,
+but like, you know, there's a higher than
+average chance that you just put yourself
+back in the same situation. And if you're
+being honest with yourself and you're kind
+of, you know, you're being a little bit
+career add and you want to get new things,
+you want to kind of move up to the next
+level, putting yourself back in that same
+situation may not be the best decision. Or
+you know, PE is a class or even like, you
+know, just capital allocators in general
+is a class. So there are huge differences
+between those. So I'm not saying there's
+not an opportunity out there. Actually, I
+am saying there's an opportunity out there
+because I'm putting it on my list of
+things that I might do. So that's kind of
+like path one. Path two is like, maybe I
+join another tech company, maybe I join a
+big tech company, I thought. You know,
+I've never worked at a company with more
+than like, 100 people, 200 people before,
+like, I could experience what that's like.
+That would be a very different look. I
+think that'd be extremely, extraordinarily
+different. But, you know, again, that's
+almost a downside too of like, it's so
+different than what I've done before. The
+likelihood that I find myself in the spot
+where I'm like, oh, like, I don't get to
+make all the calls here. I don't get to,
+you know, do what I want to do. That might
+be a little bit of a frustration, but it's
+still kind of on my list to look around.
+Number three, start something new. And I
+think that is that's the one I think
+that's like the biggest fit overall, you
+know, long term. But I think that would
+introduce the most stress to my wife where
+I'm like, alright, we're doing it. We're
+getting back on the road again. You know,
+I think that also kind of looking back to
+my previous experience, I ran you know,
+TeamPassword on the side for two years and
+let it kind of build up and kind of de
+risked the process so, you know, I don't
+know that I necessarily and I also,
+selfishly, I kind of want to enjoy the
+process. So, like, I don't want to like
+build something and be like, okay, I have
+two months to like, prove this out. So I
+need to get to 10k MRR in two months, go.
+Like, that seems like that'd be a very
+stressful and high risk situation.
+Arvid Kahl: Yup, particularly now, right?
+Like, it's not the easiest time to start
+anything and acquisition. Every business,
+many SaaS businesses struggle. It's
+probably something you've seen, both in
+your customer metrics and in Baremetrics
+own metrics that there's a lot of
+struggle, actually.
+Brian Sierakowski: Everybody is terrified.
+And you know, even though Baremetrics does
+not require you to call to cancel, we
+still talk to people on the way out. And
+you know, I had one call with somebody.
+They were like, yeah, I need Baremetrics
+to do my job. They use our recover product
+for gunning. And so they're like, yeah,
+you made us like $75,000 last month and
+this is really, really great. But like the
+CEO said, we absolutely have to cancel
+everything. And so like, I must cancel
+this. I don't know how I'm going to do my
+job after we cancel it, but we just have
+to. And so for me, that was like one of
+the, you know, that's like the
+conversation stands out in your mind of
+like, it's not that we're not delivering
+value. It's not that, you know, it's just
+like, people are just very concerned right
+now and very protective of cash flow. They
+want to be in a very defensive posture. So
+yeah, I mean, maybe now's not the right
+time to build
+Arvid Kahl: Or maybe it's the perfect time
+Brian Sierakowski: Exactly! I think that's
+exactly right, of like, hey, you know,
+you're not going to build something silly
+in this climate. You're going to build
+something that's a real problem that
+people really have a need for. And you're
+probably going to go through some number
+of months of validation and you know,
+getting initial users and testing, you
+know, and maybe you're comfortable giving
+the product away for free until you have
+something that, you know, people indicate
+that this is not something that we could
+live without before you start figuring out
+what it's worth. So yeah, you know, kind
+of, I don't know. Yeah, I think that your
+turn there is kind of how I feel, too is
+like, ya know, it's might be a good time.
+But yeah, I certainly over this period of
+time, I want to, you know, over the next
+couple of weeks, I want to build a couple
+of things and launch a couple of different
+products just because I didn't do that
+while I was at Baremetrics. So even just
+to kind of knock the rust off, have a
+little bit of fun. I've got a bunch of, I
+have a Trello board full of ideas of
+different things that have frustrated me
+or things that weren't available. So and I
+just want to play with, you know, the
+technology world has changed. I'm a Rails
+guy. So like Rails is like totally
+different now than it was before. And I
+played with a little bit. So yeah, I want
+to do some of that.
+Arvid Kahl: Sounds like, it sounds like
+you still have that entrepreneurial bug
+that builder bug that still seems to be
+very active in you.
+Brian Sierakowski: Yeah, that's for sure.
+Arvid Kahl: Well, I do wonder, I would
+assume you have some sort of non compete
+for a while leaving that company, but you
+may or may not be able to talk about it.
+But regardless of that, you can say if
+that's the case or not, but are there any
+fields outside of I would guess insight
+driven actionable business advice, which
+is what I would like to qualify
+Baremetrics as a business around? Are
+there any other fields regarding
+technology or business that you're
+interested in at this point?
+Brian Sierakowski: Yeah, I have no
+noncompete, no non disparagement that they
+were very, very kind to me. And very, you
+know, well, I don't know if that's a
+function of kindness. But, you know, it's
+a very congenial exit. So they didn't
+like, I'm not gonna get sued for talking
+about anything or yeah, I think that I was
+talking to somebody the other day,
+actually, yesterday about this. And he
+made a really good point of he was kind of
+sharing his story and kind of like, how he
+went through all these different angles.
+And he realized that the thing that he
+loved was, it wasn't about necessarily
+about industry or like I don't know, he
+kind of got to this point where he's like,
+yeah, the thing I realized that I love is
+like this whole field of like, sales
+enablement because it's a real problem.
+Nobody ever cancels these tools. I was
+joking with him. It's like the thing of
+like, oh, yeah, this thing, like, manages
+the entire infrastructure for our entire
+product. It's like $25 a month. This is a
+sales tool that automatically adds note to
+our CRM. It's $50 per user per month, paid
+annually, you know. So I'm giving a pretty
+poor rendition of what he talked through,
+but that really got my mind spinning of
+like, what are those kinds of fields of
+like, you know, similar to sales
+enablement. I've always run into problems
+through just running the business and
+being like, you know, what is a
+frustrating thing to run into or that was
+why I had TeamPassword. Like I worked at a
+company where we had a bunch of interns.
+Those interns would quit all the time.
+They had access all these passwords. And
+so basically, like, every third Friday,
+the whole company was like going down on a
+spreadsheet of passwords and changing it.
+I'm like, man, this sucks. So that was
+like the entry point there. So I mean,
+that's kind of my general mentality of
+like, as somebody who's run businesses and
+is run into problems like what do I wish I
+had? I'm a big fan of the product bento
+and if you're familiar with. So like I
+just love that mentality of like, well,
+here's something that's available for a
+lot of money. And it's like super up
+market and has a ton of like extra
+features that kind of makes these more
+expensive things worth it, but kind of
+like not really. So like, I'm going to
+build like the 80% of the features or I'm
+going to build whatever maybe the 20% of
+the features that are going to give you
+80% of the results. I think he probably
+has more than 20% feature parity. But you
+know, kind of like and I'm going to offer
+that for like a reasonable price. So one
+area that I've thought about is like, you
+know, managing like customer success. I
+think it's something that's especially
+right now talking about building in this
+climate, people are very concerned about
+customers churning, being on top of that,
+being on top of annual renewals, knowing
+which customers are going stale, which
+customers usage are falling off. And all
+the tools that exist are either like using
+like, a spreadsheet, which sucks for all
+the reasons and it's great for all the
+reasons that using a spreadsheet is.
+People are trying to use like sales funnel
+like pipeline, you know, management. But
+success, it's not like a straight through
+and then you're done. It's just like a
+circular thing that with lots of you know,
+inner loops or you have something like a
+HubSpot or Gainsight, which kind of go
+into that more premium price that you
+know, a smaller company will be priced out
+of. So that to me is something that is
+like a good shaped problem of like, how do
+we solve this? How do we, you know, build
+the supercharger on the smaller teams that
+are not going to get to hire anybody
+anytime soon? And then how do we like
+defend, like, can this product defend
+itself from the perspective of like, hey,
+this is valuable to your company? Here is
+the turn that you were able to save, here
+is the you know, here are the very active
+users that you know or here's the people
+that reactivated, basically. It's like a
+pre reactivated of like, hey, don't let
+them go dormant and try to win them back,
+like do that while they're still paying
+customer. That's kind of a good example of
+like, something I've thought about a bit
+and there'll be like a good like, category
+of like problem to solve that I'm very
+familiar with it. I wish I had it. And
+it's kind of like, of the time right now.
+And I could build that. I think anybody I
+think, you know, but before this podcast
+ends, half the people listening will have
+built it. But you know, but that's kind of
+like an example of like, the type of it's
+not really a specific vertical or industry
+or anything like that. It's kind of like,
+I guess that's my thesis of like, what I
+wish I had when I was doing previous
+company X.
+Arvid Kahl: It is so interesting to hear
+you explain your thought process. Thank
+you for sharing this in such amazing
+detail because I can feel how you have the
+perspective of a founder from looking at
+it from I need this for my business. And
+the perspective of a business like an
+operator, a CEO, like how can I improve
+these processes within a business, not
+mine but a business. So you have like  a
+nice dual perspective, that's an unfair
+advantage. And I certainly hope that you
+can use that unfairly even more to your
+advantage because it sounds like you've
+given this a lot of thought. And if
+there's one thing that is palpable in this
+description is that you want to get going,
+like it's so noticeable.
+Brian Sierakowski: Yeah. Yeah, it's so
+funny. I've instituted a rule where I'm
+going to do one thing a day. And that for
+me, when I was at Baremetrics. I mean, one
+of the things that's another challenge of
+running the business that's already in
+motion is that I would frequently like if
+I had five to seven meetings a day, that's
+like a pretty standard day. Like it's just
+kind of packed, you have a full team, you
+have multiple things moving in. I think
+that was frankly, a huge failing of mine
+to try to do too much at once all the
+time. So now this is my thing for today.
+And then after this, you know, whatever
+I'll do, I watch some TV or whatever I
+want to get if I want to do a little, you
+know, study or something like that. And
+then you know, when somebody reaches out
+to me, it's like, okay, when's the next
+day and I've found that it's enough that I
+don't feel like so I go to the gym every
+morning as well. I do jujitsu. So I like
+rolling around on the ground and I try to
+choke people and they try to choke me and
+somehow it's a very fun thing to do. And
+then you know and then I do one thing and
+then that doesn't allow my panic to set in
+of like, hey, you're not moving forward.
+But I'm also finding that I'm making such
+quick progress on every it's like actually
+like I've had, you know, a bunch of
+different calls with people that have been
+like, hey, well, let's you know, I'd love
+to work together. What do you think about
+have been open and that was another reason
+to post publicly about it people like
+well, have you thought about something
+like this? I'd love to work with you on X.
+I'm, you know, work Friday. I started on
+Monday and I already had a great bunch of
+great conversations. So I'm kind of like,
+how do I keep this one thing a day? Yeah,
+one of my friends from the gym gave me a
+book, not this book. That's your book
+Arvid Kahl: I like that one.
+Brian Sierakowski: But gave me this book,
+The One Thing.
+Arvid Kahl: Oh, I like that one too.
+Brian Sierakowski: Yeah,yeah
+Arvid Kahl: They look so similar for some
+reason.
+Brian Sierakowski: Yeah, it's funny. I was
+like, yeah, I got this, like, cool new
+idea. I'm just gonna do one thing a day.
+He's like, you should read this book. I'm
+like, oh, what's it called? He's like, The
+One Thing. It's about doing one thing a
+day. Like, you're not a genius, as someone
+has thought of this before.
+Arvid Kahl: Or maybe you are and you're
+just in good company.
+Brian Sierakowski: I like that. I like
+that.
+Arvid Kahl: But yeah, it's focus is the
+miracle drug, right? Like, if you can
+focus on the thing
+Brian Sierakowski: So hard, even and I've
+overbooked myself already. On yesterday, I
+had, I think, three or four calls.
+Arvid Kahl: That's not one thing.
+Brian Sierakowski: You are precisely
+correct. And I said that. I'm like and
+I'm, you know, I'm unemployed. I am, you
+know, I under note that that was, I think
+it's always easy, especially when you're
+working under a board or whatever, like,
+hey, this pressure is coming down on me
+and I need to do this. But I have to
+really look that, you know, square in the
+face be like, you are under no obligation.
+Like there's and in fact, you can't even
+get fired for not doing it. You are not
+employed right now, you know. So it's
+like, so I really have to look at that.
+And that's something that's coming from
+inside that is, has that tendency to want
+to fill up and go as fast as possible. But
+I just told you how nice it feels and how
+much better and in fact, even reaching out
+to you, when I got that response to the
+tweet of like, hey, well, why don't you
+talk about some of the lessons that you've
+learned? If I was slammed back to back, I
+would have probably just answered in a
+quick tweet and moved on. But actually,
+I'm like, oh, let me spend some time to
+think about it. And as I was thinking
+about, I was like, oh, this might be a
+great conversation. And so this
+conversation is a direct result of not,
+you know, having being back to back all
+day.
+Arvid Kahl: I love that. That is really an
+intentionality manifest, right? That's
+what you did. You do the thing you
+actually want to do not just for somebody
+else or something else puts on your plate.
+I really like that. Well, I certainly hope
+that you get to do just one thing a day.
+But if you do, I also hope that you talk
+about it on Twitter more because it's just
+an extreme joy to see you share these
+things and see other people actually,
+like, celebrate you. That was cool in the
+tweet that you sent. Like people said, oh
+cool, congrats. That's awesome.
+Brian Sierakowski: Instead of last time,
+yeah
+Arvid Kahl: Exactly, right? Yeah, there's
+a better way. And beyond the
+congratulatory stuff that, there was also
+people just being interested in what
+you're doing. And for anybody else who's
+listening to this right now and is
+interested in getting more of this seeing
+which one thing a day you do for the next
+couple of weeks and months.
+Brian Sierakowski: Sure
+Arvid Kahl: Where should they go? Where
+should they follow you?
+Brian Sierakowski: Yeah, you can follow me
+on Twitter, @bsierakowski. I'm sure it'll
+be linked. I won't spell it out for you.
+It's exactly like it sounds. But I
+understand that the last name is
+intimidating. So but yeah, I'm on Twitter
+still way too much. So if anybody has any
+questions, my favorite thing at
+Baremetrics was being able to chat with
+customers and like doing like customer
+development or sales or like really like
+any functions, support, success was
+ultimately came down to like helping
+people improve their businesses, like they
+wanted to grow more quickly or solve a
+problem. It's always my favorite thing to
+do to help people like what you mentioned
+about, you know, kind of having that
+external viewpoint of like trying to help,
+I love doing that. So if anybody's
+listening to this and if you'd like to be
+my one thing for a day, I'd love to help
+anybody out. It's just my, I always kind
+of turn it and make it a little bit
+cheeky. But it's like, it's my favorite
+thing in the world to like, talk with
+somebody, hear their problem, give them
+you know, a solution or two or three
+solutions and then send them off and they
+have to do all the work. They have to do
+all the effort and I get to feel great
+that I helped them and then maybe they
+come back in three weeks and like it
+worked. And you know, I get to feel great
+that it worked. And I didn't have to do
+all of that work. So I'm always happy to
+you know, even listen or provide a
+shoulder to cry on and fight if I can
+help. I love doing that. That'd be a great
+use of my greatest of my time right now as
+I'm in between having a full time gig
+soaking up most of my time.
+Arvid Kahl: What a kind offer. Thanks so
+much for that. That is really sweet.
+Brian Sierakowski: It's my pleasure.
+Arvid Kahl: That's wonderful. Well, I feel
+it from my heart. I do the same thing.
+Helping people is the best way to just
+enjoy your life, I guess. And you seeing
+you do this makes me really happy. Thank
+you so much for being on the show today.
+That was a wonderful conversation. Thank
+you so much.
+Brian Sierakowski: Yeah, thanks for having
+me.
+Arvid Kahl: Absolutely.
+And that's it for today. Brian mentioned
+something about Baremetrics kind of
+flatlining, just around the time it was
+acquired. Well, that's pretty common story
+and I think there's a way out. So let me
+just talk about the sponsor of this
+episode. Imagine this: you're a founder
+who's built a solid SaaS product just like
+Baremetrics at that point, acquired all
+these customers and you're generating
+pretty consistent monthly recurring
+revenue, enough revenue to invite the
+attention of an acquirer. The problem is
+you're not growing for whatever reason,
+either lack of focus, lack of skill or
+just plain lack of interest and you feel
+stuck. Well, what should you do? The story
+that I would like to hear is that you
+buckled down and somehow reignited the
+fire. You got past yourself in the cliches
+and started working on the business rather
+than just in the business. You started
+building this audience and move out of
+your comfort zone and finding that sales
+and marketing the way you're supposed to,
+right? And six months down the road,
+you're tripling your revenue and
+everything is great. Well, reality is not
+that simple. Situations may be different
+for every single founder facing this
+crossroad. But too many times this story
+ends up being one of inaction and
+stagnation until the business becomes less
+valuable or worse, worthless. And if you
+find yourself here or your story is likely
+headed down a similar road, I offer you a
+third option. Consider selling your
+business on acquire.com. Capitalizing on
+the value of your time is a really smart
+move here. And acquire.com is free to
+list. They've helped hundreds of founders
+already. So just check it out. Go to
+try.acquire.com/arvid and see for yourself
+if this is the right option for you.
+Thank you for listening to The
+Bootstrapped Founder today. You can find
+me on Twitter @arvidkahl. And you'll find
+my books and my Twitter course there too.
+If you want to support me and this show,
+please subscribe to my YouTube channel,
+tell your friends about it, get the
+podcast in your podcast player of choice
+and tell your friends about it. Leave a
+rating and a review by going to
+(http://ratethispodcast.com/founder). Any
+of this will really help the show. Thank
+you so much for listening and have a
+wonderful day. Bye bye

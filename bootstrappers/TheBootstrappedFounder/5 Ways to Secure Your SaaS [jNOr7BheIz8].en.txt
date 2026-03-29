@@ -1,0 +1,83 @@
+﻿Today, we're going to be taking a closer look at the top five ways to secure your software
+as a service business.
+We'll look into securing your software product, the business, and hopefully your future acquisition.
+Let's get started.
+Number one, building unsecure foundations.
+This means making sure your app is built with security in mind from the very beginning.
+Pick a tech stack that has been around for a while and is being used and maintained by
+security-aware professionals.
+Don't go for the latest hype framework that everybody's talking about.
+You need something solid and reliable.
+Once you build on that solid foundation, then update your dependencies and libraries regularly
+and keep up with at least one or two blogs or YouTube channels where cybersecurity experts
+share the latest threats.
+You need to be aware of these things.
+By starting with a secure foundation, you can prevent many potential problems before
+they even appear.
+And this process includes vetting the services you use.
+I know it's really nice to support your fellow software founders by using their products,
+but when it comes to your critical infrastructure, hosting, sending emails, handing payments,
+you're much better off using well-established businesses.
+I once ran one of my SaaS businesses on a young and hip hosting platform that completely
+went belly up after a few months.
+It was horrible, and I had to migrate my whole product to a major cloud provider overnight.
+Don't add that level of risk to your business.
+One quick tip for every SaaS business out there, use Cloudflare to protect your product
+from all kinds of attacks.
+Cloudflare is free, it's reliable, and it will make you sleep easier.
+They will shield you from DDoS attacks and bots and malware, and they even give you free
+SSL encryption.
+They're not sponsoring this video.
+I just use them for all my SaaS properties, and I've been protected extremely well so
+far.
+It's a no-brainer, it's free, so you might as well use it.
+Number two, always have secure backups in place.
+Make sure you're regularly backing up all your critical data, like your financial documents,
+tax stuff, your business manual, your customer data, and your code base.
+But don't stop there.
+Make sure you've actually tested your backups to ensure they're working properly.
+You don't want to find out that your backups were incomplete or corrupted when you need
+them the most.
+As a general rule, try to have at least one local backup, one offsite backup, and some
+kind of automatically synced cloud backup.
+You might never need it, hopefully you won't, but if you don't have this set up, you're
+one coffee spill over your laptop away from losing your whole business.
+Number three, use strong and unique passwords everywhere.
+Avoid reusing passwords across different accounts, and just use a password manager to generate
+long and complex passwords for each account that you use.
+Two-factor authentication using authenticator apps and or hardware security keys like the
+YubiKey will provide an extra layer of protection that is absolutely worth the hassle.
+So turn on 2FA.
+Remember, your security is only as strong as your weakest password or login method.
+Also make sure that you have encrypted backups of your 2FA keys.
+You don't want to lose your phone or your keychain and then never be able to log into
+anything ever again.
+Test those backups too.
+One massive benefit of using a password manager is that you will have a much easier time handing
+over your whole business if you ever sell it.
+It's nice to have everything in one place and to know that it is secure.
+And security is not just about you.
+Number four, educate your team and your family members about security.
+Even if you're doing everything right yourself, a breach could still happen if someone else
+on your home network is careless with their security practices.
+Make sure that everyone understands the importance of strong passwords, using a password manager,
+how to avoid phishing scams, and then have at least a basic understanding of securing
+their devices.
+Number five, when it comes to how you log into the services that you use for your business,
+make sure that everything is properly separated.
+Don't use your personal Gmail account to sign up for your marketing tool.
+On day one, create a new email for your business purposes, secure it as much as you can, 2FA,
+and use only that for your work.
+It makes the business more resilient and has the nice side effect of making it even more
+sellable too.
+If you use that email only for business, you can hand it over completely once you sell
+that business and acquirers really like that, they will pay more for this.
+So keep things separate.
+And there you have it.
+The top five tips for securing your software business.
+By following these best practices, you can ensure that your business stays safe and secure.
+And if you want to know more about web security, here's an interview I did with Troy Hunt,
+the person behind the password security checking website, Have I Been Pwned.
+Troy is a cybersecurity expert who has seen a lot, and he'll show you how to get maximum
+security with minimal expenses.
+Thanks for watching, and I will see you in the next video.

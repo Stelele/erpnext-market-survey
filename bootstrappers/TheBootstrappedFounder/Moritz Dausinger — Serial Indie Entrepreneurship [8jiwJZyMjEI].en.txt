@@ -1,0 +1,2083 @@
+﻿Arvid Kahl: Welcome to The
+Bootstrapped Founder. Today, I'm
+talking to Moritz Dausinger, a
+serial indie hacker with several
+exits under his belt. Moritz
+most recently pivoted his
+software business refiner after
+18 months of trying to figure
+out a way forward. Well, now
+he's founded. We will chat about
+figuring out how to structure
+sales, how and who to hire, and
+if he really wants to sell this
+business again for a third time.
+And before we get to our
+conversation about all of this,
+let me introduce the sponsor of
+today's episode. Imagine this:
+you're a founder who's built a
+solid SaaS product, you acquired
+customers, and you're generating
+consistent monthly revenue. The
+problem is, you're not growing,
+for whatever reason, lack of
+focus, lack of skill, or just
+plain lack of interest and you
+feel stuck. What should you do?
+Well, the story that I would
+like to hear is that you buckle
+down and somehow re ignited the
+fire, getting past yourself and
+the cliches and you started
+working on your business rather
+than just in the business. You
+start building an audience and
+you move out of your comfort
+zone and you do sales and
+marketing and all the things you
+don't like doing. And in six
+months, you've tripled your
+revenue. The reality isn't that
+simple. Situations may be
+different for every founder
+facing this particular
+crossroad. And too many times,
+the story ends up being one of
+inaction and stagnation until
+your business becomes less
+valuable or worse, worthless. If
+you find yourself here, well
+your story is likely headed down
+a similar road. I offer you a
+third option, consider selling
+your business on acquire.com.
+Capitalizing on the value of
+your time is a smart move.
+Acquire.com is free to list and
+they've helped hundreds of
+founders already. Go to
+acquire.com and see if this is
+for you, if this is the right
+option for you at this time. All
+right, here is Moritz Dausinger.
+Moritz, I really have to thank
+you not just for being on this
+podcast today, but for having
+been on podcasts in the past in
+August of 2017. And this is six
+years ago, which is crazy. You
+went on the Indie Hackers
+podcast and that was episode 24.
+It was barely a couple months
+old at that time. You talked
+about building and selling mail
+parser. And I remember this
+podcast episode so vividly. I
+have like a visual memory of
+this. I was traveling through
+Berlin, just coming home from
+work in the espon right there.
+And I heard you mentioned that
+you sold your business to a
+private equity company. And it
+blew my mind that day. I just
+didn't know, I didn't know that
+was possible. And you also
+mentioned the name of that
+company, which is something I
+will never forget because we
+ended up selling our SaaS
+business to the same private
+equity company two years later
+and in a way that makes you
+responsible for our exit. So I
+just wanted to extend a very big
+thank you to you and just point
+out how powerful it can be to
+share your story in public like
+you did on that podcast. So I'm
+really, really glad you're here
+today as well. So thank you so
+much for that.
+Moritz Dausinger: Man, you can't
+imagine how happy I am to
+hearing this. And now look at
+us, what? Six years later? Seven
+years later?
+Arvid Kahl: Yeah, almost seven
+Moritz Dausinger: And I remember
+when I got asked to speak on the
+indie hackers podcast, I wasn't
+hesitating. It was quite new. I
+knew the website I bet. Well, it
+was kind of a niche experience
+back then this whole indie
+hackers thing. And yeah, lucky.
+I did. I think there's so many
+also from my career and my story
+after coming afterward. So many
+good things came from this one
+podcast, which which was, I
+think, actually my first one
+ever. So now lucky me into the
+right thing, right?
+Arvid Kahl: That's right. That's
+a that's a great start to start
+podcasting, probably in what is
+still the best podcast in the
+space, right, at least the most
+renowned podcasts that I could
+think of when I think about
+indie hacking. So are you still
+an indie hacker? Do you still
+consider yourself an indie
+hacker?
+Moritz Dausinger: Oh, well,
+well, I think I stopped putting
+myself a label on quite a long
+time ago. Because it really
+depends with who I'm talking to.
+Like, for example, if I would
+talk to my parents, I would say
+I'm middle stand it on the name
+like Sherman. I don't know small
+business IT company. So I'm not
+a startup? I'm not. I would
+Yeah, I would say it's a small
+IT company. We are several
+people. So I'm not really an
+indie hacker, but I'm the solo
+founder. At the same time, it's
+mostly self finance. So yeah,
+you could say you could also say
+I'm just a 40 Something guy who
+has an IT company and building
+software, right?
+Arvid Kahl: I guess that's
+that's what most Germans would
+be much more easily You can
+attract it to as a concept they
+would understand like, you know,
+the middle middle student,
+that's what we call it right?
+middle middle class, small
+business thing. That is
+something relatable to most
+people. It is interesting that
+you mentioned this, like you
+said, you're having a team. So
+you're not an indie hacker
+anymore. That I mean, that's not
+exactly what you said. But it's
+kind of, you know, a sentiment
+that once you grow your business
+to a certain size, it feels less
+in the less independent, it
+still might be financially,
+right, you might might still
+have most of your funds coming
+actually from your customers.
+But there is some dependency in
+the business, either for your
+team members, so they have a job
+like a stable income, or to
+customers who really rely on
+you. Now there is a dependency
+in there. That is something that
+I don't hear many people talk
+about, like, what's that
+dependency, that newfound
+dependency in a previously
+independent business is let's,
+let's maybe talk about what
+you're currently building, or
+maybe, okay, let's start with
+that. Because we can talk about
+the things you built in the past
+afterwards. We don't need to be
+chronologically correct. But
+you're currently working on
+refiner. And I think refiner has
+an amazing long and I guess,
+order yes and stressful story.
+Like to hear about it. How did
+that go? Like after selling your
+first few businesses? You
+started refining? What? What
+made you jump into that again?
+Moritz Dausinger: Yeah. So when
+I sold my last company, Doc
+parser, I had an agreement with
+the buyer, where I would stay on
+for a couple of what was one and
+a half years actually. And I
+would readily transition out of
+the company. So his interest was
+basically as long as things are
+going well, I'm getting, I'm
+going to work less and less fine
+for me. However, back then,
+having a wife having kids means
+you're not free to go anywhere
+in the world. So you kind of
+stuck where you are in the
+office still. And so I thought
+why not just build the next one,
+right? I mean, I need to do
+something. And so when I was
+running doc parser, I had this
+need to qualify my signups like
+they would create an account. I
+didn't want to have too many
+questions while they are
+creating their accounts. I
+wanted to them to experience the
+software right away. But I still
+had some questions I would have
+to have answered. And so what I
+did, I was displaying an in app
+survey, five minutes after they
+created an account, asking two
+simple questions. Just for
+context like dog parsers
+document processing software. So
+I was asking the question, how
+many documents are you
+processing per month? What type
+of documents that you want to
+process? And having the answer
+of those two, those two
+questions allowed me first of
+all, making some kind of axial
+and charts and whatever to
+figure out who my customers are.
+And secondly, I could identify
+bigger accounts, I could say,
+oh, this one looks really
+interesting. I want to talk with
+this guy, I want to make sure
+that they are having a good
+experience. And so I like I'd
+worked really well. I liked the
+idea. I didn't find find the
+product doing that. So back then
+I was basically hard coding all
+this. And so I thought this
+would be my next winter. I
+started coding this very simple
+idea. And well, one and a half
+years later, I found myself with
+an enormously complex enterprise
+IT kind of lead qualification
+solution. Nobody was asking for
+literally nobody was asking. So
+even though I created a couple
+of companies before I did,
+pretty classic beginner mistake.
+And you know, the issue there
+was I built a first of all the
+software nobody was asking for
+Secondly, a software where you
+would need to have some kind of
+enterprise sales process,
+something I really don't like
+doing, and so on and so on. So I
+felt like okay, I'm kind of
+stuck somewhere. Let's go back.
+Let's do a kind of Piero and go
+back to this initial simple idea
+of showing surveys inside an
+app. And this is what basically
+refiners today. So throw away
+like 90%, the code launched one
+week before lockdown. COVID
+lockdown in France, perfect
+timing. Bad. Well give me some
+time to like, I don't know,
+like, I think this whole first
+COVID months. It was good. That
+software was quite, you know,
+there was not much going on. So
+I mean, there were other stuff
+to take care of, for example,
+the kits and then after, in
+total, I would say two years
+after starting this new project.
+I was at the point where I had
+significant Mr. of, I don't know
+that was like one or $2,000
+$1,000 per month which was for
+me to sign okay. I And finally,
+after two years I did it. I had
+another software, which was kind
+of working well, yeah, that's
+the beginning of this refinery
+story.
+Arvid Kahl: Thanks for sharing
+this thanks also for just being
+honest, but both to yourself.
+And to me and everybody
+listening about, you know, like,
+even even if you did a couple
+things before and you're
+successful doesn't mean you
+cannot fall into same traps
+again, I do make the same
+mistakes. And it's probably I
+don't know, maybe, maybe I just
+want to ask you this. Did you
+feel like you knew better, you
+know, after having built two
+businesses that you knew exactly
+what your customers need? And
+then you build it? Was that it?
+Some kind of hubris? Some kind
+of oh, yeah, I know better than
+everybody else.
+Moritz Dausinger: Yeah. Okay. So
+like, I mean, at that time, on
+top pass, it was a third product
+I had built and which became
+big. And so I was like, Okay, I
+found my model. I like building
+software. I like the early days.
+So I'm just going to continue
+building one project after the
+other SaaS, product, B2B SaaS
+product, because I figured it
+all out, I know it all. And, ya
+know, what helps you what, like
+the experience I have right now
+definitely helps in the day to
+day operations. It helps with a
+lot, a lot of things I wouldn't
+neglected neglected. But it
+doesn't prevent you from making
+stupid mistakes, it doesn't
+prevent you from not finding the
+MVP you're looking for. And it
+really reminded me that going
+from zero to something is just
+so hard, and you need to have
+luck. And you need to have good
+timing, and you need to exert a
+lot of things checked to be
+there. Once you have something
+in your hand, which I've
+mentioned before, like one to
+$2,000 Mr. Then I think it's
+much much more about execution.
+But before that, it's some kind
+of like magic. Where are you?
+Yeah. Well, some everybody
+that's different. But
+Arvid Kahl: yeah, that's that's
+an interesting point. Once you
+have something, not only is it
+is it just about execution at
+that point, but it's never just
+about anything, right? If they
+you know, entrepreneurship is
+everything at the same time. But
+if you have something, not only
+can you actually put more energy
+into what you know, works, we
+can also show it to other people
+and make other people
+interested. And I think you did
+that, right. Because for your
+first products, you only really
+put your own money into this.
+You just use your own funds. And
+that was it. But for refiner,
+you went a different route. Do
+you want to explain a little bit
+what you did once you reach that
+point? And MRR?
+Moritz Dausinger: Yes. Yeah,
+just to to follow up on this.
+The first one, like, I feel like
+once you have something, then
+that also means yeah, as you
+mentioned, you can show it to
+somebody and you have, most
+importantly, customers. Yeah.
+And once you have, once you have
+10 customers or 50 customers, I
+feel like the shop changes, the
+job is then to listen to what
+they're saying, having your own
+vision as well, and trying to
+match those two things. And so
+I'm definitely not the guy
+saying whatever the customer
+says, I'm going to implement it.
+It's more like whatever they
+say, and it fits my products,
+energy, it's maybe already on my
+to do list, then I'm doing it
+right. So this is why I think
+it's getting not easier, but
+different once you have to know
+50 customers. And to follow up
+on your point about what I did
+once I went to the one to 2k Mr.
+At that time, I already had
+like, nearly two years of own
+money spending and no salary put
+into this company. And I felt
+like I have no two choices.
+Either I do that, again, like
+another year without a salary on
+maybe two years without a
+salary. Or maybe I can get a
+little bit of extra outside
+funding inside his company. And
+you know, like, the reason why I
+never raised before was because
+I didn't really like venture
+capital path. You are set on
+once you raise with a VC which
+means seed round and series A
+Series B and you basically are
+promising everybody, I'm going
+to build a really, really big
+company and good for people who
+want to do that. I didn't want
+to do that. So I'd never
+actually considered the VC path
+something which would fit to me.
+But luckily, during the last
+year, there were a couple of
+funds coming up which are what
+they call themself bootstrapper
+friendly, so you can get an
+investment They definitely are
+funds. So they, they want to
+have a return on their
+investment. But they're not
+necessarily setting you up on
+the path of a typical VC
+startup. And so that made it
+compatible to me. And so I
+raised some money with com
+company fund. And I actually
+really, I can fool hobbies, I
+don't really, I don't really
+regret it, because it allowed me
+to just really accelerate a
+little bit like hiring
+freelancers for marketing, and
+also developer freelancer and
+just go faster. And with not
+many strings attached, they are
+for sure strings attached, you
+are giving away a part of your
+company, right. And then the
+moment you want to sell your
+company, it's also you need to
+give money back to them. So
+you're kind of signing up that
+this is becoming a bigger thing
+than just like a project you
+would sell for, let's say 50 or
+100k. On micro acquire it,
+you're kind of signing up that
+you want to build a bigger thing
+that that's the strings attached
+to it. Yeah, but apart from
+that, I was really quite happy
+about that decision. Also,
+because, you know, as I
+mentioned before, I already put
+in a lot of own money. And I
+felt like if I continue doing
+that, it's just becoming more
+and more difficult to make
+really objective decisions.
+Because it's still a business,
+right? It's not it's, it's a
+business.
+Arvid Kahl: That's what I was,
+that's, that's what I'm super
+interested in. Because you're
+saying, like you with that
+money, you can make objective
+decisions. And without it, they
+would have been more, I don't
+know, fear driven, I guess,
+which is interesting. Because
+most people, whenever they talk
+about raising money, they say,
+Well, now I need to make
+different decisions for my
+investors. But that's where the
+bootstrapper compatibility comes
+in. Can you kind of explain,
+like, the kinds of decisions
+that you didn't want to make
+like to kind of, you know, all
+your money is in there? And now
+I need to, you know, protect it.
+What was that? What was driving
+you at that point?
+Moritz Dausinger: Yeah, it was
+more like, putting too much on
+my of my own wealth into one
+project. And also, you know,
+like that, I think it's really
+interesting to ask the question,
+when are you racing, what
+wouldn't work for me, for
+example, is raising money on an
+idea, because then I would be
+super nervous, like, oh, man,
+this guy just gave me money. And
+now I need to really need to
+deliver and need to build
+something that is working. The
+moment I raised money from Tyler
+from company fund, there was
+already a software product,
+which was working, right, it was
+not profitable, but it was
+working. And there was confident
+enough, giving my previous
+experiences with NASA SaaS
+space, that I thought, okay, if
+I can bring it to KMR, I
+probably going to be able to
+bring it to 20 or more. And so
+yeah, that gave me confidence to
+say, From now on, I can do that,
+but I prefer doing it with
+outside money than my own money.
+So okay,
+Arvid Kahl: that's, that is
+exactly what I love about this
+bootstrapper compatible model,
+like, first of all, they are
+compatible in terms of they
+don't really interfere with your
+decision making, which is
+exactly what you need at that
+point, right. as a, as a solo
+founder, or as an indie founder,
+you want to make your
+independent choices, that's,
+that's what you signed up for.
+And the whole journey, that's
+what you want. And they only
+really take you on, if you've
+proven that the thing you're
+doing works, right. Like if you
+look at tiny seed, or if you
+look at the com company fund or
+whatever other players in the
+field exists, they all want you
+to prove that you can have
+customers, they need you to
+already have customers before
+they give you money, which is
+also complete opposite of the VC
+idea. They want you to just you
+know, have a really disruptive
+idea, and maybe some kind of
+semblance of a product, if at
+all, you know, like some
+products don't even exist, but
+our market it you know, and in
+the VC space, not that there's
+anything wrong with trying to
+disrupt the world. It's also
+interesting, right as a business
+approach, but I think in terms
+of what we are doing as people
+who want to build, and I mean,
+it's in the best sense of the
+word, a lifestyle business, a
+business that allows us to live
+the way we want to live. Having
+somebody who can support us,
+like that is great. And I I have
+to I have to mention it. I have
+a podcast with Tyler, where
+we're building stuff together.
+So obviously, I'm not gonna
+badmouth the idea of the comm
+company fund here. Also being an
+investor in the fund. And also
+knowing that both you and me and
+Tyler we all sold our businesses
+to the same private equity
+company. It's a big family,
+right like and that's that's
+what I kind of love about the
+fund. Like it was initially
+called earnest capital when he
+started and then he renamed it
+to the Kong company Fund, which
+I think is a much better name.
+It comes from a place where
+people really understand what
+the kind of business stead we
+want to build is about right,
+both Tyler and the mentors and
+the investors in the fund. We
+all are effectively solopreneur
+or really small indie business
+owners or have been because we
+sold our businesses, right. So
+we know exactly what this field
+is about. And I'm really happy
+you got some, some funding for
+refiner, because apparently it
+helped you pretty well, right?
+Like, I was looking pretty good.
+Moritz Dausinger: It did. And
+you know, like, I think, I can't
+really remember the, I think you
+can put it like that, like, it's
+really about math, the count
+company fund on similar funds,
+assume that eight out of 10
+investments will work out. And
+which is the opposite to the VC
+model, where it's basically two
+out of 10 will work out and the
+rest, maybe not. And I'm not
+saying this one is better, this
+one is better, I can just say
+this one is more compatible with
+me as more words as somebody who
+likes building software
+products, and like, organizing
+my days, the way I want to and
+so yeah, I'm happy that I took
+that. And, like, really, what it
+really did is that I switched a
+little bit my mindset, you know,
+I was hiring, was able to hire
+freelancers in advance, like,
+you know, like, you're not
+profitable yet. But you can burn
+more money. This is typical,
+three points, and all the
+startups have that they can just
+burn, burn, burn money, and I
+held it. It's really sweet. It's
+really good. But you you Yeah,
+after half a year or one year,
+you're like, oh, wow, I already
+spent half of it what? So you
+need to be careful with it. But
+it did really help in terms of
+product development, and in and
+marketing because SEO like
+content is one of the big
+drivers for a refiner. And it's
+a long term game, you know,
+like, you need to invest a long
+time period of time. It's not
+something where you can just put
+down like 500 euros, and the
+next week, you're going to see
+results. You need to start
+early. And you need to do it
+good. And it will cost some
+money. And a lot of this money
+went into that. And so yeah,
+that wouldn't have happened
+without investment. Yeah.
+Arvid Kahl: Well, that's good to
+know. I'm reminded, as you're
+talking about, like, who you
+hired and the freelancers that
+are working for you, I reminded
+a talk that Rob walling was just
+giving at MicroConf in Denver a
+couple months ago, he talks
+about the first hires that every
+SaaS B2B SaaS business should be
+doing. And I do wonder, in your
+particular case, what is the
+order of people that you hired
+in, in the sense of that you
+hired for part time or full time
+or even just projects? What
+order of jobs did you need to
+hire out?
+Moritz Dausinger: Yeah. So I
+don't want to make a rule out of
+that, and I exploring things as
+I go. But I can just say what I
+did. For the early iteration of
+the early product, I hired
+website designer to make it look
+good. So that I have a nice
+website, I did the product
+myself entirely. So I was lucky
+enough that I could code and
+build some kind of UI, which is
+not too crazy ugly. But you need
+to see that my product has an
+visual part of it. It's the
+surveys. And these ones were
+also designed by a designer. So
+I was able to get a good looking
+product, which was kind of
+important for for my business.
+Next thing was marketing. Like,
+as I said, the SEO person. Its
+power from smashing copy, which
+I really recommend. And after
+that, it was a developer,
+another marketing person. Today,
+we having also that mobile
+surveys of app to mobile
+developers, a salesperson in
+Paris. She's doing basically
+following up and building up a
+process around bigger customers
+so that they because they have
+special needs to get on boarded.
+And who else that's about it.
+Yeah.
+Arvid Kahl: That just that list
+alone raises so many questions
+for me, but I'm trying to
+constrain myself to one at a
+time. First one, how was it hard
+to hire developers for you?
+Because I felt that so strongly
+to hire somebody that was
+supposed to do my work as good
+as I did it. How was that for
+you?
+Moritz Dausinger: Yeah, no,
+like, really, really difficult
+when you're a technical founder.
+And so I was super lucky to find
+Ben. He's also active on
+Twitter. Digital trouble is his
+handle He was over, he is a
+senior person I can trust.
+Nevertheless, you need to do a
+lot of specs, you need to really
+write that down into detail
+because nobody knows your
+product better than you do. And
+secondly, there are parts on the
+products, I think are good for
+outsourcing. And then there are
+other parts where I'm basically
+like, okay, no, I'm the best fit
+for this particular part of the
+product. If one day, I'm in the
+position to hire a full time
+employee who is just doing that,
+for sure you're going to take
+over, but for right for right
+now, these are the parts I'm
+handling. And these are parts,
+for example, in our case, then
+coded the entire dashboard
+section where you could build
+your own custom reporting
+dashboards, like adding a chart
+and resizing and removing, it
+was really a nice project apart,
+which didn't interfere with all
+the rest of the software. So
+that was basically my approach.
+Or they would say, No, I can't
+go outsource all of it. But
+there are definitely still
+things I can outsource. And even
+then it's even then if you have
+a really good person, it's so
+difficult to have the coding
+standards, right? To make it so
+that if I mean, for me, it's
+really important that the code
+base is kind of uniform, you
+know, like, if one day somebody
+else is gonna take over, they
+will find your way because
+everything is done the same way,
+which I value more than the
+perfect way, you know, it might
+not be perfect, but at least
+it's a way for you. So there's a
+system to it. And all this kind
+of stuff is really getting more
+more difficult, more, the more
+people you're putting on the
+project. And yeah, so that's the
+answer of your first question. I
+think some things you can
+outsource some things I'm not
+eager to.
+Arvid Kahl: Man, that is, that's
+a great answer, like to know
+what you need to still do. And
+to to also let go of the things
+that I bet you could do it
+because you have to until you
+hire somebody for it. So how
+much of your day do you still
+spend coding compared to the all
+the other things you have to do
+as a founder,
+Moritz Dausinger: right now,
+close to zero, because and I'm
+saying this with a sad face. For
+those who are not watching, but
+listening, now I really I really
+like holding like a, but I know
+that for the business, I am
+spending a lot of time
+onboarding new customers, I'm
+spending a lot of time doing
+admin stuff like paying bills
+and paying me are paying
+contractors paying moving money
+around and and like, for
+example, also with the bigger
+accounts, there's also always
+legal questions, and there's
+just so much stuff to do. So no,
+unfortunately, I'm not coding
+much these days. And Nick, one
+of the next things on my list
+would be also to hire somebody
+for exactly this the technical
+support, I call it like, it's
+not just supporting the way of,
+Oh, where do I change my
+password, it's more like a
+customer. So customer success
+person who really takes the new
+customer by their hand and make
+sure that they get the most of
+the solution. And I think this
+will free up a lot of time. Once
+I find the right person to do
+so. Because yeah, right now,
+it's really like, less fun than
+before. Let's say like, before,
+there was a lot of coding and
+new features and whatever. And
+right now it's more like showing
+up every day and getting the
+stuff moving. It's part of the
+game, right?
+Arvid Kahl: You can't run a
+business without operations,
+right? You still need to make
+thing make things happen. But I
+was talking to Tyler about this
+on our podcast, he was kind of
+bringing it up because he has
+been talking to a lot of
+founders, obviously in the fund.
+And he heard from a lot of them
+that they just want to be
+contributors to their own
+projects, they still want to
+contribute. They want to be an
+individual contributor to the
+codebase to the actual product,
+and often they can't really find
+it. So find the time to do it.
+Because there's so much so much
+else to do. So what you're doing
+right now, I think is very
+important to even be aware of
+that just because the business
+necessitates all this extra
+work, doesn't mean that you
+cannot find somebody to do it
+for you. Right? You are not the
+only person who can. So I'm glad
+you are you're already thinking
+through how you can get that
+work, offloaded to somebody else
+so you can be best at what
+you're at, which seems to be
+coding at least.
+Moritz Dausinger: Yeah. And I
+mean, I think it's a real real
+issue and what we've been
+probably it's so rare that you
+find somebody who's good in the
+beginning of building a company
+where you need to do well you
+need to contribute, and then he
+kind of switches to Like the
+brothers of stripe, they are
+coders. And then there's they
+switched at a certain point into
+conquering the world. Like, I
+mean, you don't do that by
+continuing coding, I guess you
+do that by hiring the right
+people having the right strategy
+and so on. And honestly, it's, I
+mean, maybe sounds a little bit
+self limiting, but I'm, I'm kind
+of feeling good in this early
+stage world where I'm still
+contributing a lot. And I'm
+curious how far we're gonna go,
+this time, we'll be finer. But
+um, it's not something I'm
+feeling pulled towards to say,
+oh, I really want to be managing
+100 People in two years, it's
+really not something I'm having
+my hands on. I'm waking up in
+the morning, it's more like, Oh,
+I think we should probably
+develop this. And that because I
+feel like that would be a good
+fit for the product. I'm more in
+this world still. Again, maybe
+we talk in five years, and then
+I'm telling you a different
+story. But right now today, I'm
+on this mindset that I am
+showing building products and
+companies. And let's see how big
+we are growing. But let's see
+about that. It does
+Arvid Kahl: remind me not about
+like five years in the future,
+because who knows what's gonna
+happen then. But it does remind
+me of five years in the past
+when I was listening to you on
+the 24th episode of indie
+hackers, and you know, the, the
+mentality you had back then
+kinda sounds like the mentality
+you have today. You want to
+build interesting stuff. And you
+want to grow it to a point where
+you still enjoy building it,
+right? So maybe let's let's talk
+about male parser. And Doc
+parser. You You did sell them at
+some point you did get acquired.
+I do wonder why that is because
+you know, like, we all either we
+want to sell, or we want to
+build something for life. Can
+you explain to me maybe like the
+process of how you figured out
+that you can and wanted to sell
+a business in the first place?
+Moritz Dausinger: Yeah. So when
+I started building, may parser,
+it was meant to be a fun side
+project, were actually really
+not having any ambition there. I
+was working for startups studio.
+And Paris, a very well known
+startups, we're really having
+the best job in the world. It
+was it's called the founders.
+It's really where everybody
+wants to work. And I was able to
+work there. So I had a great job
+there. And yeah, but I still
+built a software, and then it
+kind of took its own life. And
+then there was this moment where
+I had 5k M R on the side
+project, and pretty much the
+same in the salary. And I needed
+to decide where is this going.
+And I decided I want to give it
+a try. I want to see how far I
+can go. And at that time, I also
+read the website, and a website
+about Fe International, which
+was a business broker. And I was
+like, what does this exist a
+business broker? Like, like a
+real estate broker, but somebody
+was just selling online estates?
+And I was like, super fascinated
+by that. And then yeah, somehow
+I saw, okay, what if you, if you
+bring it to this kind of Mr. You
+can sell it for this amount of
+money. And, well, it became
+interesting as an idea. And
+then, yeah, by discovering this
+whole world that this idea was a
+little bit set in my head to
+say, okay, maybe I can bring it
+to a point where I can sell it.
+And, you know, like people
+always referring to this life
+changing money or whatever. But
+sorry to say, but was kind of
+true. It allowed us to do a big
+down payment for an apartment,
+and secure myself as a
+entrepreneur in a way of, like,
+having, like, first of all, more
+self confidence in the dome,
+like, okay, apparently what I'm
+doing, I'm doing it correctly.
+Secondly, most of my apartment
+in one of the most expensive
+cities in Europe is already
+paid. That's good. And if I can
+do it once, maybe I can do it
+twice. So it was really it was
+not the sense of now I'm buying
+big watches in cars and
+whatever. Not at all. It was
+just like, giving me some kind
+of peace of mind and security in
+life. And yeah, so that was
+really attractive as an idea and
+that's why I sold a parser. And
+at the same time, back then I
+had created doc parser, which
+was kind of a sister product.
+And Kevin, the buyer of May
+parser. From Joseph capital,
+back then. Agreed that I could
+continue building up the parser
+and selling me parser to him.
+And it was basically win-win
+Basically a win win situation,
+because what I like to do is
+building up stuff. And what he
+likes to do is buying stuff that
+is already big. I told him that,
+let's let him do it. So I
+continued working on doc parser.
+And once I feel it's time is
+ready and go, we both agree that
+time is ready, I would have, he
+would have right of first
+refusal. So he is not obliged to
+buy but he can buy it. And this
+is how it happened. And so these
+two were basically well, two
+different products, two
+different adventures. But one
+story, right?
+Arvid Kahl: That's awesome. It's
+nice to build that connection to
+the thing you're just saying
+with Kevin, that is that is
+important, right? Because in
+this space, even though there's
+a lot of competition among funds
+and private equity companies, it
+is nice to know somebody that
+you can trust. I very, very
+fondly remember our first
+interaction like around the time
+that we were trying to sell
+panda our business. And also
+we're looking at chose Swift.
+And I did a lot of outreach to
+people like you and Tyler people
+who had sold their businesses
+before, just to make sure that
+there's a relationship that I
+can actually trust with these
+people, because you said it life
+changing amounts of money. And
+that is scary, right? It's scary
+to deal with something that is
+so valuable, your thing, they
+even get to look into it, they
+look into your p&amp;l, they look
+into your you know, all your
+documents, your cash flow, and
+maybe even your database or
+something right, you, you have
+to be really protective. So
+knowing that you already have
+somebody you can trust, and sell
+this next thing to probably give
+you a very different, or at
+least a more secure feeling in
+building that business. Is that
+right?
+Moritz Dausinger: Yeah,
+definitely. Like I mean, the
+first one I sold through Fe
+International. Because of that,
+because I didn't know anyone. I
+mean, yeah, you could I could
+have probably send out an email
+or Twitter tweet, I want to sell
+this thing, give me give me your
+offers. But as you said, You did
+so it's so scary, you're scary,
+you're scared to mess it up. And
+you're scared to have this once
+in a life opportunity to sell
+something valuable. And you
+might end up with somebody who
+tells you the giving you a super
+high price and whatever. But in
+the end, it's just gonna go
+really sideways, and then you're
+having a lot of trouble. And
+this is why I worked with EF
+International in the beginning.
+And then on the second one, I
+already knew Kevin knew he's a
+stand up guy and his word and
+virtual handshake, if we didn't
+do the handshake really is worth
+as I don't know how to say it's
+worth something a lot. Yeah, I
+have, you know, like, just a
+funny story. He's actually in
+Paris next week for a personal
+trip. And we are planning to
+meet because, well, we kind of
+kept the contact and became
+friends more or less. And, you
+know, like, that's just really
+nice, you know, like that you
+can keep those relationships
+over a long period of time and
+build up trust and all those
+kind of things. And then also
+have a good time as some dudes
+walking around in the city and
+talking about life. So that's
+pretty good.
+Arvid Kahl: I'm happy to hear
+that I have the same
+relationship with Kevin. I mean,
+not exactly the same, obviously.
+But we still talk to I actually,
+when this episode comes out,
+it's Kevin's episode will be the
+one before this because I just
+talked to him. Right. So we we
+just chat all the time. And we
+even like this official public
+conversation still, because we
+both have a lot that we want to
+share and talk about in public.
+And you're doing this now to I'm
+really happy about this, which
+kind of brings me to my next
+thought you're not very active
+on Twitter, at least not in the
+moment. But I see you sharing
+all this stuff right here and
+you've written about it, you've
+obviously went on podcasts and
+you are on podcasts? Are you
+kind of getting back into the
+kind of building and public game
+into sharing your story is
+that's what's happening or is it
+just like a fluke right now
+Moritz Dausinger: it is not,
+let's say different. I made a
+break from it. Like I was much
+more active on Twitter. Up
+until, I don't know, maybe one
+and a half years ago, one year
+ago, and there was no real
+reason or real event or whatever
+big decision I just kind of, I
+don't know posted less than less
+and then you know, like, fell
+like I mean this kind of stuff.
+You don't need to you either you
+want to do it or you don't want
+to do it right if you don't want
+to do it. There's no no reason
+doing it. And but yeah,
+definitely a couple of weeks
+ago, I felt like, Okay, why not
+go on podcasts again, that was
+always something I really
+enjoyed doing. Because it's much
+deeper and much more, there's
+much more context in it. And so
+I was got contacted by one guy
+from Germany. It's a German
+bootstrapper. Podcast, happy
+bootstrapping, as you're talking
+German listened to a really nice
+guy. And yeah, I liked it. And I
+thought why not do a little bit
+more? Because sharing is
+important. And it's not really
+sure. I mean, sure, it's nice to
+be invited somewhere and then
+talk and it's nice for the ego
+and whatever. But I wouldn't be
+where I am, without all those
+blog posts, spending hours and
+hours on Hacker News back then,
+and indie hackers and Twitter,
+and this is basically the
+university. I mean, I did study
+stuff, but I studied other
+stuff, different things, right.
+Everything I did, I'm doing
+today, I basically learn through
+that. So I felt like, it always
+sounds a little bit cheesy, but
+I feel like it's the right thing
+to share and give back.
+Arvid Kahl: 100%. That's, that's
+why I'm here. And I guess it's
+also why you're here. So it's
+the perfect example. And I told
+you this in the beginning, if it
+wasn't for you, I don't know.
+Like I you know, I don't know
+what would have happened because
+when Kevin reached out to us,
+and we had shared like our MRR
+numbers or stripe numbers on
+indie hackers, we've kind of
+plucked that in. So he found us
+through indie hackers, and then
+reach out to us through an
+email. I knew exactly who he
+was. And you did that you did
+that for him. And you did that
+for me, right? You connected us
+without even knowing that you
+were connecting us in some
+future scenario. And I think
+that's what at least teaching in
+public, which is what you're
+currently doing here with me
+right today. That is what that
+can do it on such a massive
+scale. And like prior to hitting
+the record button, we were
+talking about this, like the
+indie hackers scene has grown so
+much right? Over the last couple
+of years. When you were in
+Episode 24, it was still kind of
+a niche podcast. And now look at
+the indie hackers podcast and
+look at startups for the rest of
+us or other like podcasts in the
+space that have been going on
+for years, if not almost decades
+at this point. Isn't that
+wonderful? I just I don't know,
+I just want to be share my
+gratitude for people like you
+who were there from the start
+and sharing their story. And I
+think it's important. So I can
+only recommend like doing more
+of this and also sharing more on
+Twitter, because I think you
+have you have a lot of pool, you
+have a lot of people following
+you. And you have a lot of
+interesting insights to share
+from running a business.
+Moritz Dausinger: Yeah, and I
+feel like I mean, there's always
+like let's say like this, I'm
+very convinced like every
+journey is different. And you
+know, when I'm sometimes I'm
+doing mentoring sessions in a
+night, once this situation where
+I was telling somebody,
+something, and then after you
+later they told me, Well, half a
+year later, you told me that and
+it didn't work. And I was like,
+Yeah, I don't know. Like, I just
+said stuff, which worked for me.
+And I feel so I feel like you
+need to be really responsible in
+how you teach and how you share
+things. And again, I can just
+tell my story. I can. I'm 100%
+sure that any hacker who's
+starting today has maybe more
+thing, more opportunities, but
+maybe it's also more difficult.
+I don't know like it's
+different. And different. Yeah,
+that's so the I think there's a
+very how to say it. Like, you
+need to be careful not to put
+yourself there as the Google
+understood everything and look
+at me, like with refiner I had,
+it was the fourth product. I was
+building the fourth startup. And
+I was convinced I was having an
+easy time just executing
+whatever. And no, it didn't
+happen. And so yeah, teaching
+great. But for all people just
+starting out, every be be be
+mindful about that. Every story
+is different than when we both
+started when we both sold our
+company. It was a different
+time. And sounds really like old
+dudes. On the radio. It's kind
+of true. Yeah, that's right.
+Different time.
+Arvid Kahl: Yeah, it's and
+you're 100% Right. Like all
+advice is anecdotal. Like, it's
+all just a story and experience
+that you have, and no advice is
+ever completely copyable in
+different circumstances. I 100%
+agree. And you're right. In a
+way, it's not even teaching.
+It's just sharing. It's just
+sharing a journey. It's just
+giving people just insights into
+what happened. Why you think it
+happened, not why it happened.
+Because you never really know.
+Right? But while you have a
+strong sense that it happened
+for a reason, and then that's
+all you can do, and people have
+to pull from that what they what
+they want to learn and I love
+this. That's why I've been
+asking you questions not really,
+for you to give me answers on
+how to do it. But more answers
+on how you did it. And I, I feel
+you're doing one other thing.
+And I kind of want to get back
+to this because as myself a
+coder as well, a technical
+person. And knowing that many
+people listening to this are
+engineers with, you know, not
+too much patience for marketing
+or for sales, but they they do
+want to build, they do want to
+make things you're doing
+something with refined art is
+really cool. And you kind of
+make your documentation for your
+product, kind of a first class
+citizen of the product. And I'm
+going to kind of ask you like,
+how, how did that come to be?
+Why is that? And how do you keep
+this not just an add on but like
+a core part of your product?
+Moritz Dausinger: Yeah, very
+interesting. Because when I look
+back at the products I was
+building, they kind of reflect
+me as a person in the way that
+they are technical. My audience,
+the users who are using my
+products like 1password, Doc pas
+and refiner, at least tech savvy
+people, they're not coders, but
+technical people who like that
+about the software who like that
+they have lots of options to
+customize everything really the
+way they want to. And so the
+type of products, building our
+but I'm not, I don't want to say
+complex because complex sounds
+difficult, I want them to be
+super easy. Let's say they are
+powerful. And with that comes
+also options and customizations
+and all those kinds of things.
+And I feel like if I would not
+have a really top notch
+documentation, I would, that
+wouldn't fit, right. That would
+feel weird in a way. And
+sometimes I've witnessed that
+with products, they have a
+beautiful website, like really
+shiny, super nice, well made
+website, you sign up. And then
+it's already a little bit, not
+so beautiful, the software. And
+then you realize that it's super
+disappointing, because there's
+not much functionality,
+functionality, or it's super
+complex, or whatever. And I
+don't like this journey. I
+rather prefer having a good
+website, a good product and a
+good documentation and standard
+high. And so So I felt like for
+the type of product I'm building
+and the audience I'm having, I'm
+kind of it's my job to say,
+look, you can do a lot of stuff
+with this software. It's quite
+powerful. And I get it, it's
+maybe not obvious to you. But
+it's obvious to me because I
+built that. But it's definitely
+not obvious to you because
+you're using it for the first
+time. Here's the documentation,
+I'm trying my best that it's
+good for you, which then makes
+my life easier as well. Because
+I feel like with every user
+who's finding their answer in
+the documentation, I have one
+more one less email to take care
+of.
+Arvid Kahl: Interesting. So it's
+kind of it is helping you
+reducing customer service load
+because people kind of help
+themselves. That that does
+remind me you were saying in the
+beginning that the thing you
+built that didn't go anywhere
+initially for refiner was very
+like enterprise, the sales heavy
+or it focused at that. I guess
+now what you've been building is
+more of a low touch kind of
+SaaS. Do you think it I know,
+it's still both. And that is an
+interesting thing. We'd like to
+know how you bridge this, like
+how you build a business that is
+both low touch SaaS ish. And,
+you know, high touch sales. But
+what I'm also interested in, as
+we are still at documentation,
+do you think like having a good
+documentation is actually a
+beneficial part of your sales
+process? Both in low touch and
+and high touch? Like how does it
+fit into this kind of dichotomy
+of sales?
+Moritz Dausinger: Yeah, that's a
+really a lot of good, good
+points in there. So when I
+started out, I started as
+product for startups starting at
+$39 per month. And I over the
+time, it's so obvious, once you
+know it, once you see it, it's
+so obvious, but then I didn't
+see it all the time, I realized,
+actually, companies who are
+getting the most value out of my
+product are bigger. They're not
+early stage startups, because if
+you to get value out of surveys,
+you need to have either a lot of
+users, and I'm talking like
+1000s, and not to hundreds. Or
+end or you have a team, which is
+so big that like opinions or gut
+feeling is not counting that
+much anymore. So basically, you
+you're having you think like,
+you know, like early day or
+early stage founders, often
+driven by gut feeling and
+talking with the users. And then
+it's like, less about really
+like hard numbers. And this
+works really well and I'm still
+doing this, you know, like I'm
+still at that point. But once
+you're becoming a bigger
+company, then you want to have
+some proof before you start the
+machine of implementing
+something. And this is when
+surveys can really, really get
+you a lot Have peace of mind,
+actually. And so I realized that
+the best customers in the sense
+of they are getting the most
+value out of it. More like
+established startups with
+attraction, or even scale ups,
+or b2c marketplaces, all these
+these kind of software
+companies. And with this
+realization came also going with
+the prices up. And so today the
+small price starts at 79, if you
+pay the yearly, but more like
+99, if you pay monthly, and I
+mean, they're their customers
+paying more than 1000 per month,
+like it's really like a spend,
+which is I would call on maybe
+not already mid market, but But
+yeah, definitely not in the
+hackers, no, and no early stage
+startups, or just a sum of them.
+And with this knowledge came
+also the realization that on the
+upper end, they cannot go search
+service, they they cannot go low
+touch. I mean, even if they tell
+me, oh, look, I created an
+account, I understand the
+software, I know what to do,
+they still need to go through
+legal, they still need to pay
+invoices, on a yearly basis,
+they still want to have a
+signature on the terms of
+service, they still want to have
+on security audit, and so on and
+so on. So even if my user, the
+one who is signing up would like
+just to put in his credit card
+and be done with it, they can't
+do that, because they're in a
+bigger company where they have
+other processes. And this is
+where my colleague flurry comes
+in, where she is basically, for
+these kinds of customers, some
+kind of project manager, driving
+the project, project forward,
+following up talking with
+different stakeholders and so
+on. This is why I'm having this
+dual model. If it was up to me,
+let's do low touch, right? I
+mean, there's just this reality,
+if you buy if you sell to, if
+you sell to banks or whatever.
+That's not how it works, right?
+So yeah, and this is why you can
+do both. And some, sometimes
+people are like, oh, I need to
+decide whether low touch or
+sales as sales driven. And I
+feel like yeah, all have it. Our
+customers like it like this, and
+their customers like that. And
+some people like to try it. Some
+people like to talk some people
+like to whatever. And then if
+you want to grow your business,
+then do all of it, right?
+Arvid Kahl: Do you see a
+tendency? Like do you see a move
+more towards enterprise over
+time or like a shot someone?
+Moritz Dausinger: Right now it's
+quite stable, actually, they go
+feel like would need to look it
+up, I would say 1/3, custom
+contracts, custom pricing to a
+third is credit card. As is
+like.
+Arvid Kahl: That's I think like
+that, that immediately makes me
+think of technical
+implementation of that kind of
+pricing structure. I don't want
+to dive into it too much. But
+I'm thinking, if this is what
+can happen to a business, it
+makes a lot of sense to think of
+your pricing structure, when you
+start building your business is
+something very flexible, right?
+Like, how did you how did you
+think about this? Like, how did
+you build?
+Moritz Dausinger: Yeah, there
+was actually one pivotal point
+title, I don't know how to say
+it. But Pivotal, exactly. In the
+beginning, I was charging based
+on survey responses. The more
+survey responses you collect per
+month, the more you pay me,
+didn't work out, because there
+were a huge companies which were
+which were synchronizing all
+their user data to me. So I was
+like, crunching a lot of user
+data just to have like 50
+responses, because they just
+wanted to serve a really tiny
+segment of the user base. So I
+switched the model to what I
+call monthly of what what is
+called, commonly called monthly
+active users. So the more users
+you are having, the more data
+you're synchronizing with my
+app, the more you need to pay,
+which is kind of a better proxy
+for how much value you're
+actually also getting out of the
+software. And this kind of stuff
+is baked in into the code in
+this in a way that I have an
+admin back end where I can for
+each account, say this is their
+quarter, then and also have
+feature flags, for example, they
+can access the translation
+feature, they can do this and
+this and this. And the way
+technically it is done is like
+somebody on a normal plan on the
+essential to growth plan will
+have by default, all the
+settings as written in my config
+file, but I can go in and
+override them. And then there's
+this one special plan which is
+called the Enterprise plan and
+there it's based Usually, the
+default settings are really
+generous. And I can still also
+go in and override for every
+account to thing. And then on
+the billing side I using I'm
+using charge B, which also
+allows me to set for every
+customer on the Enterprise plan,
+a custom amount. And so this is
+where you see comes also this
+all about automation before,
+that I'm dealing with invoices
+and stuff all day long. And the
+downside is really like the
+bigger customers. It's so nice
+if you have suddenly like $500
+Mr. On top, because there's this
+one new customer, but this
+customer needs to have a new
+invoice in one year. So
+whichever reminder in one year,
+you're going to send it and you
+need to send a couple of weeks
+before because they takes them
+some time. And so yeah, there
+comes the ops complexity.
+Arvid Kahl: I guess it's worth
+it. Right. That's that's kind of
+what I'm hearing I keep these
+big customers that their value
+metric is pretty, pretty
+scalable. I do wonder how much
+does this cost to run? Because
+if you ingest all this data, you
+kind of have to have some kind
+of cloud hosting and all that.
+Is that manageable? Like how do
+you manage that cost down?
+Moritz Dausinger: It is an
+issue, right? So my approach to
+the past was always, as a tiny
+team, I'm happy to pay more to
+AWS for managed services, Manage
+Database, manage queuing, all
+the you know, the SQS, the s3,
+the RDS, it's such a really, if
+you just it just it's just
+running. And well, there's a
+price to it. And the price is
+now becoming so big that I could
+actually basically hire
+somebody. Maybe not full time.
+But I could definitely spend
+some money on somebody who can
+help me putting all this on bare
+metal and let it run for her
+know, maybe 1/10 of the cost.
+Because right now I'm at the
+point where I'm between 15 and
+20% of the Mr. Which goes
+straight to AWS. And I know that
+in the past, it was more like
+for my other businesses like
+five to 10, which I don't know
+if there's a benchmark out
+there, but I know there are lots
+of very, very successful
+businesses which are paying a
+couple of $100 per month. So the
+the cost for me right now is
+like really one of the it's
+definitely a topic and with 20%
+of your MRR going straight to
+the hosting provider. It's
+painful. Yeah.
+Arvid Kahl: Oh, yeah, that is
+expensive. It does remind me of
+what we did with Vita panda.
+Because we did hosted database,
+like my managed database stuff
+as well. I think we paid like it
+when we sold. We had 55,000 and
+MRR and I think at least 5000 of
+that was an expense just purely
+to I think Mongo HQ was the name
+of it composed was so was later
+bought by bought by IBM at some
+point. It's just for database,
+which
+Moritz Dausinger: is 10% off to
+present. But that was
+Arvid Kahl: almost the only
+expense we had. So we were good.
+But you know, it's still it's
+substantial. it's substantial.
+And you're right at that point,
+if you if you pay $5,000 a month
+for something that would cost
+you maybe a couple hundreds in,
+like the technical expenses, you
+could pay the remaining 4500 To
+a person to be there all the
+time and dealing with it. It's
+just I always, in my own mind, I
+always thought I'm paying 5000
+To compose because they have a
+team of 20 people that if
+something goes down, it's up
+again, because they're working
+in shifts. If there is like a
+zero day exploit somewhere, they
+immediately patched a system,
+you know, if a server explodes
+or what wasn't that like in I
+don't know if it was in France,
+or something recently, where
+there was this flooding into the
+data center. Like if that
+happens, somebody is swimming to
+my server and making sure it's
+still running. You know, that's
+kind of what you pay for it
+Moritz Dausinger: moment.
+Exactly the approach that I had,
+like, whatever I can the hosting
+sites, give to a managed
+service. And I would really
+recommend that actually, like I
+would definitely not recommend
+trying to save 100 bucks in the
+beginning and then run your own
+database server and rescue
+business because maybe you
+misconfigured it and your
+database is gone. Right. I mean,
+that's risky. That's a major
+risk. And yeah, but as I said
+before, like right now I'm
+coming to a point where I feel
+like something should be done
+about.
+Arvid Kahl: Yeah, you're right,
+though. Like it's not just
+misconfigured. And then it's
+kind of gone because it
+implodes, but also somebody
+might just really get access to
+all your customer data. Right.
+So and the more you move into
+your kind of compliance level
+enterprise sales demo, you have
+to be absolutely clear that the
+thing you checked on their
+checkbox is actually protected.
+Right?
+Moritz Dausinger: Yeah. So for
+the audit. That's another really
+big point, folks. Somebody in
+the GDPR world, we are hosting
+in Europe because of that. And
+AWS allows us to do that.
+Security wise, the data is
+encrypted in transit, and also
+addressed this kind of stuff,
+like, yeah, you can do all this,
+but I am not a DevOps engineer.
+And these guys are super
+expensive. And yeah, as you
+said, you you're not getting
+this level of riobel reliability
+yourself. And this is why I'm
+kind of continuing with it. And
+it's already one year that I'm
+saying I need to reduce the
+cost. But then
+Arvid Kahl: well, you'll find
+you'll find the right time for
+that kind of kind of brings me
+to kind of the the final
+question where, what are your
+future plans for refiner?
+where's this going? What do you
+what do you plan for the next
+couple years? Or do you even
+have plans? I'd like to know,
+Moritz Dausinger: it's a really
+good question. So like, on the
+product side, there are a couple
+of things I could do. Because,
+you know, like with refinery,
+basically in the product, that
+would be a web app or mobile app
+where I'm displaying inside the
+app survey. And a couple of
+other tools exist. They are like
+onboarding, tool tips, or
+checklists, whatever you can,
+you can do a lot of action stuff
+inside an app. So I could branch
+out there. There's another
+opportunity where it could
+branch out more into the data
+crunching and maybe add a layer
+of that you can also send me
+product usage data, then I could
+do stuff like, look, power
+users, more satisfied and no
+power users. And I mean, we can
+do that already today with
+integrations and our customers
+are doing that. But I could
+build that in into my product.
+So there's lots of stuff I could
+do. And at the same time, I'm
+feeling like, well, maybe
+refiner is justice, pro poor
+tool thing. There's very, very
+specific tool, which allows you
+to do the best possible in app
+survey experience. And it's fine
+like that, you know, like, I'm
+not really, I didn't decide on
+that right now. And in terms of
+the company, like, what I would
+like to do, is definitely hire
+support and Customer Success
+people. So that this is off my
+chest like because you know,
+like being in the owner or like
+a solo founder. And everybody
+knows it, right? If there's so
+much freedom, there's so much
+good parts about it. But one of
+the huge downside is you are
+responsible all the time. And I
+can right now, like when I go on
+vacation, I can put it down to
+like 15 to 30 minutes per day on
+the good days. And so I need to
+check him out in the morning.
+And I'm telling myself, well,
+that's fine. That's a good price
+to pay for all the freedom which
+comes along. But I think one of
+the goals would be to be at a
+point where the team is like,
+really bulletproof. And I can
+say, if I don't get an SMS or
+phone call, I consider
+everything is going fine. And I
+said we're gonna go.
+Arvid Kahl: Yeah, that sounds
+like the perfect. It's kind of
+reminds me of what John
+Warrillow was saying and built a
+cell, like the perfect sellable
+business is a business that can
+run without you where you remove
+yourself from operations. So
+that's kind of almost the
+logical follow up questions. I
+know, you're thinking about
+eventually exiting the business,
+is it going to be sold one day?
+What do you think?
+Moritz Dausinger: You know, you
+never know. Right now isn't a
+good time. I think now, it's not
+the right time. For several
+reasons, I think. Not actually
+not for several reasons. It's
+just not at the point where I
+would like to let it go. There's
+really like just so much stuff.
+I can still do. I want to do.
+But yeah, it's talking to us
+again. Yeah, that's
+Arvid Kahl: right. Yeah, that's
+I think that's that's the
+mentality that indie hackers
+just develop at some point.
+Right? We will see also, not now
+maybe, depends on the offer.
+Right? It's always it's always
+combination of,
+Moritz Dausinger: and what you
+just mentioned, right? I don't
+know who said it, like, maybe it
+was also Kevin. A business that
+is easy to run, and business,
+which is easy to sell, like
+basically what you just said
+before, like in different words.
+And it's kind of should be, I
+mean, there are times where
+you're pushing in times where
+you're giving all you have to
+make it grow as fast as
+possible. And I feel like the
+next step for refiner might be
+this well, it's a marathon.
+Let's do cool things down and
+then everything can happen
+right? Then I can run it for 10
+more years because it's cause
+Hackley. Salad, whatever
+Arvid Kahl: I loved, I love the
+idea of like calming it down.
+Because once you're calm, you
+see more things like you're not
+in this kind of chaotic panic
+mode, because every fire needs
+to be doused immediately right
+but you Good. Okay, now this is
+a way I could go or let's just
+slightly move over here. I think
+that is exactly right. I'm, I'm
+super pumped to just follow your
+journey along. And I, I
+certainly hope you're going to
+be more active on Twitter, I'm
+going to try and follow you on
+every podcast you go at any
+point, obviously, but I would
+love to see you share more of
+this because I think the journey
+of a business that had to pivot
+like 18 months in and is now
+profitable, and then growing and
+finding enterprise customers,
+that is a story that is eight
+super successful compared to
+many other people's stories,
+even though you might feel like
+you're still in the middle of
+it, but just look at it from
+somebody who has nothing, right.
+This is a glowing example of how
+it could look like. And it's
+something that I just want to
+see these little steps that you
+take off, I want to see, what
+are you trying here? Are you are
+you branching out to, you know,
+your tooltip kind of onboarding
+thing? Or are you actually
+focusing on just being the
+product that does this? This is
+exciting for me to just follow
+along the journey. So I would
+love for you to do this. And
+that brings me to my last
+question. Where can people find
+more about you? And where can
+they follow that journey that I
+just promised them.
+Moritz Dausinger: So as I'm now
+restarting to use, Twitter is
+the best place definitely like,
+I feel like it's for me, it's
+still the place where I can,
+most easily and most freely, to
+speak my mind about the
+business. And I'm, you know,
+like, also Twitter is for me,
+like pure business. I'm not
+really. I'm not sharing personal
+stuff there. So yeah, please go
+to Twitter and Dow Zinger. I
+guess even a LinkedIn up. And I
+promise, I promise I will be
+more active there.
+Arvid Kahl: I don't I don't want
+to put you on the spot. But I
+would love to see it because I
+think the community can benefit
+so much from you. I think they
+already have I certainly have.
+And again to bring this to a
+close. Thank you so much for
+everything you have done over
+the last six years in being
+there for people sharing your
+story, sharing your knowledge,
+and for keeping hopefully
+keeping keeping at it and
+keeping sharing your story,
+which was a wonderful
+conversation. Thank you so much
+for being on the show.
+Moritz Dausinger: It's my
+pleasure and really mean it and
+thank you for inviting me.
+Arvid Kahl: Absolutely. Thank
+you.
+And that's it for today. Thank
+you for listening to The
+Bootstrapped Founder. You can
+find me on Twitter, if Twitter
+is still there, @arvidkahl. You
+find my books and my Twitter
+course there as well. And if you
+want to support me and the show,
+please subscribe to my YouTube
+channel, get this podcast in
+your podcast player of choice
+and leave a rating and a review
+by going to
+(http://ratethispodcast.com/founder).
+Any of this, will really really
+help the show. Thank you very
+much for listening and have a
+wonderful day. Bye bye

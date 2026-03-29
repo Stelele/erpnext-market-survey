@@ -1,0 +1,52 @@
+{
+  "topic_id": 153392,
+  "title": "How to force a recalculation on a Purchase Order after Purchase Receipt is submitted?",
+  "slug": "how-to-force-a-recalculation-on-a-purchase-order-after-purchase-receipt-is-submitted",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "frappe"
+  ],
+  "created_at": "2025-09-10T21:03:08.501Z",
+  "last_posted_at": "2025-09-10T21:03:08.639Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/how-to-force-a-recalculation-on-a-purchase-order-after-purchase-receipt-is-submitted/153392",
+  "views": 36,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "asifmohtesham",
+  "posts": [
+    {
+      "id": 480403,
+      "username": "asifmohtesham",
+      "name": "Muhammad Asif Mohtesham",
+      "created_at": "2025-09-10T21:03:08.639Z",
+      "cooked": "<p>A Purchase Order <code>PUR-ORD-2025-1</code> has 10 items <code>1000001..1000010</code>.</p>\n<p>Multiple Purchase Receipts have been submitted corresponding to a Purchase Order Item in <code>PUR-ORD-2025-1</code>.</p>\n<p>Of all the 10 items, only 3 Purchase Order Items have their “<code>received_qty</code>” fields set to 0, however, the <code>Purchase Receipt</code> document is correctly submitted and the <code>bench console</code> does output that all the 10 items have been received when checked manually.</p>\n<pre><code class=\"lang-auto\">purchase_order = frappe.get_doc('Purchase Order', 'PUR-ORD-2025-1')\nfor po_item in purchase_order.items:\n    receipts = frappe.get_all('Purchase Receipt Item',\n      filters={'purchase_order_item': po_item.name, 'docstatus': 1},\n      fields=['qty']\n    )\n    received_qty = sum([r.qty for r in receipts])\n    frappe.db.set_value('Purchase Order Item', po_item.name, 'received_qty', received_qty)\n</code></pre>\n<p>The above code results in the Purchase Order being corrected.</p>\n<ol>\n<li>What caused the <code>received_qty</code> fields to become 0?</li>\n<li>How to prevent such behaviour moving forward?</li>\n</ol>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/3/a/3ad0034d9f2d012a62c7468ef2a6849b6a3f421f.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/3ad0034d9f2d012a62c7468ef2a6849b6a3f421f\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/3/a/3ad0034d9f2d012a62c7468ef2a6849b6a3f421f_2_690x354.png\" alt=\"image\" data-base62-sha1=\"8ohmfw7JyuZqY1lzoLnBeEBSgGj\" width=\"690\" height=\"354\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/3/a/3ad0034d9f2d012a62c7468ef2a6849b6a3f421f_2_690x354.png, https://discuss.frappe.io/uploads/default/optimized/3X/3/a/3ad0034d9f2d012a62c7468ef2a6849b6a3f421f_2_1035x531.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/3/a/3ad0034d9f2d012a62c7468ef2a6849b6a3f421f.png 2x\" data-dominant-color=\"F9F9F9\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1255×645 30.9 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>This log shows that the values were updated but changed to 0 by the user, which is highly unlikely. Even if the user did change the values, what are the ways that it can be changed?<br>\n<img src=\"https://discuss.frappe.io/uploads/default/original/3X/7/2/72012fbf91c78f3348b2a1285439b7367d9e35d8.png\" alt=\"image\" data-base62-sha1=\"ggwYn1z650iZJcUAh54gM9Q8fjy\" width=\"690\" height=\"52\" data-dominant-color=\"ECEDEC\"></p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/asifmohtesham/{size}/28440_2.png",
+      "trust_level": 2,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 14,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

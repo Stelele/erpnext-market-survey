@@ -1,0 +1,52 @@
+{
+  "topic_id": 155026,
+  "title": "Upload File Video In LMS Course",
+  "slug": "upload-file-video-in-lms-course",
+  "category_id": 40,
+  "tags": [
+    "erpnext",
+    "frappe"
+  ],
+  "created_at": "2025-10-03T11:54:48.882Z",
+  "last_posted_at": "2025-10-03T11:54:49.024Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/upload-file-video-in-lms-course/155026",
+  "views": 42,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Mack",
+  "posts": [
+    {
+      "id": 482997,
+      "username": "Mack",
+      "name": "Mack",
+      "created_at": "2025-10-03T11:54:49.024Z",
+      "cooked": "<p>in LMS Course Video Embed Link i can upload only youtube link i want my file video upload<br>\nHow I do it</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/mack/{size}/76290_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 11,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap
+[Music]
+founder. Today we're going to talk about
+something fascinating that happened to
+me this week. Something that made me
+completely rethink how we as software
+founders should approach API
+documentation in this wild new era of AI
+powered development. And this is not
+just about technology. It's about
+expectations. This episode is sponsored
+by paddle.com. They're the merchant of
+record has been responsible for allowing
+me to reach profitability just a few
+weeks ago. There truly are more merchant
+of record because their product allowed
+me to focus on building my own product
+that people actually want to pay money
+for and enough to actually make it
+profitable too. And that's why Paddle
+does so much more for you. They deal
+with taxes and reaching out to customers
+when their payments fail. They charge
+people in their local currency if they
+want it and need it. all these things
+that I don't need to focus on so I can
+really be present for my customers and
+their needs. It's really amazing. Check
+out paddle.com to learn
+more. Now, I had this really interesting
+experience with a customer of Podscan
+recently. They reached out saying that
+they were having trouble with
+integration into our API. And this is
+not unusual. Sometimes we get these
+requests and I help them out and check
+out what's going on. But what happened
+next with this person completely changed
+my perspective. I did what I usually do.
+I recorded a quick Loom video and I
+walked them through the basics. How to
+create an API key and make that first
+request to show that it's working and
+then how to search for a podcast and get
+its episode listings. Just a really
+simple 5minute guide to get them started
+and connect with me as a founder. Their
+response they said when I watched it
+something clicked that made me happy.
+But then came the part that surprised
+me. you know, I'm not technical at all.
+That's what they said. I'm just using
+cloud and chatpt and ripple it to build
+some integrations. And then they
+explained to me what they were actually
+building. So, they were taking all these
+podcast episodes, the backlogs, the
+transcripts, feeding it into a what was
+it like a vector database to then run an
+internal LLM on top of and ask questions
+about podcasts in their industry and
+what things should happen and what
+things they shouldn't do. like mining
+the data in these public conversations
+from many many dozens of podcasts to all
+feed into one database and have an AI
+filter out information and that stopped
+me in my tracks. Here was somebody with
+self-proclaimed no technical background
+using AI tools to build what turned out
+to be a super sophisticated system,
+right? Download episodes from an API,
+put them into a database, build this LLM
+to generate insights and verify
+information. That's quite technical and
+this got me thinking about just how
+dramatically things have changed in
+software. Traditionally API
+documentation like the stuff that people
+use to integrate with you was written by
+technical people for technical people.
+That was really it, right? The people
+reading it were developers who knew
+exactly what they wanted to do. They
+were kind of the bridge between my code
+as a product and their code and their
+product and very very technical, very
+focused on a solution. But now we're
+seeing this completely different kind of
+user here. People who might not even
+know what an API key is, who might never
+have even made an HTTP request before,
+but who can use AI tools to build
+surprisingly complex solutions for their
+own needs, their own businesses. And
+this reminded me of an article that my
+friend Stefan showed me on every.TO
+called selfish software with the
+tagline, making software can be fun
+again if you built for the user you're
+most eager to please, yourself. It's
+about people building these tiny pieces
+of non-geneneralizable software. Tools
+that just solve their own specific
+problems without needing to be scalable
+or sellable, just stuff for themselves.
+Just software that works for them, for
+their business, for their projects. And
+here's where it gets interesting. These
+makers are not necessarily developers
+anymore. They're people with problems to
+solve, but now they don't need to tell a
+developer to solve it for them. They
+have AI as the development partner. And
+this creates a fascinating challenge for
+those of us building APIs and products
+that offer data on APIs. Our
+documentation now needs to serve two
+masters here. First, it needs to be
+technically precise enough for AI tools
+to generate working code. And it needs
+to be accessible enough for
+non-technical users to understand the
+basics to even get started. Think about
+it. We've never had to do this before.
+Previously, our documentation was
+already split, but it was human readable
+docs for developers and machine readable
+specs like Swagger and Open API for
+tools, but now we need something that
+works for both humans and AI while being
+accessible to non-developers at the same
+time. It's not that machine developer
+split anymore. Now, it's kind of a
+everybody and machines at the same time
+for both. It's not that easy, but there
+are ways to solve this. And Stripe, as
+usual, is ahead of the curve here.
+They've already started adapting their
+own documentation for this new reality.
+I really recommend checking out the
+Stripe docs. They're just well done in
+the first place, but you can see how
+they interact with LLMs because I bet
+their docs are being used to build AI
+powered things a lot at this point. So,
+they offer an LLM.txt file for their
+whole API docs, essentially like a
+markdown file that helps AI systems
+understand the API structure. the
+navigational structure of the
+documentation and the API that it
+actually documents. They have that file
+on every single page. And here comes the
+very interesting thing. They added a
+feature like copy your page as markdown
+for an LLM and direct links to open
+documentation in chat GPT to each of
+their API doc pages. That is massive,
+right? If one of the biggest buttons on
+the page is copy this for your AI
+system, then Stripe knows how people use
+their API docs and you likely should
+also know that people will use your API
+docs just like this. It's a first class
+citizen to just copy a page and paste it
+into Chat GPT for Stripe. So let's think
+about this. That is different, right? We
+used to read these things, but now we
+just push them into a system and expect
+it to create something for us. What does
+this mean for those of us building APIs?
+Now, I think here are a couple practical
+steps that I will try to implement that
+you might also want to consider. First,
+we need more working examples on those
+pages. AI tools are particularly good at
+inferring patterns from complete working
+code samples. And these examples should
+go from request to response clearly
+explaining everything and being ready to
+be adapted for people's needs. I think
+this is much more important now than
+just having like the structure of the
+API in a swagger document or something.
+That's already great and that is
+something that I guess AI systems can't
+use. It's great for them. They can
+already use it. But good examples are
+going to make the rate of code generated
+that doesn't work go down. and it makes
+the first impression that somebody has
+with your API being something that works
+go up. And we need to be more explicit
+about anything along this line about the
+basics in particular. We cannot assume
+knowledge of REST APIs or HTTP requests
+anymore or what an authorization header
+is or what a bearer token is that kind
+of stuff. Any developer who works in
+this field knows this. But you have to
+remember that our users might just copy
+our entire documentation into chat GPT
+to generate their integration code and
+those are not necessarily developers. We
+have to think that this is the
+experience of non-technical decision
+makers now because now a manager who
+wants to quickly see if our API fits
+their needs is not talking to the
+developer anymore. They expect to be
+able to click a button, have AI generate
+some test code and see results
+immediately. So that's now an
+expectation of our API, the capacity of
+it and the documentation to facilitate
+somebody who has no idea to build code
+that works on first try. And I think
+this shift represents a fascinating
+democratization of technical
+implementation. It's really interesting
+to see that we're moving from a world
+where API integration was exclusively
+the domain of developers to one where
+anyone with a problem and access to AI
+tools can build solutions on our
+products. This is going to heavily
+impact customer service obviously, but
+that's just reality in which we live. So
+for those of us running software
+businesses, especially ones with API
+first products, this is a challenge and
+an opportunity, right? The challenge is
+adapting our documentation, our
+onboarding and customer service to this
+new reality. But the opportunity a whole
+new audience of potential users who
+previously would not even have
+considered using our APIs or tell
+anybody to try. Now they get to now some
+manager somewhere, some CEO, some CTO
+gets to play with this immediately and
+they can make a choice. If this works,
+we're going to buy the $5,000 monthly
+plan. This is now a possibility that
+starts on your API documentation page. I
+think this is just the beginning. As AI
+tools become more sophisticated and
+accessible, we will need to keep
+evolving how we present our technical
+products to the world. The winners will
+be those of us who make their APIs not
+just powerful and useful, but accessible
+to this new wave of AI assisted
+builders. from day one, from the first
+time they read your page, they should be
+able to build something cool on top of
+it and have AI build it for them. I
+didn't even talk about things like MCPs,
+like adding this additional layer, the
+USB of machines talking to other
+machines, this plug-in layer for LLMs to
+be able to use your API. That is
+probably a topic for another day. But
+even just the documentation is a place
+where we can make it easier for AIS to
+use a product in a way that actually
+creates revenue. If you are working on
+API docs or you're building products
+with APIs and you want to go into this,
+I would love to hear your thoughts on
+this and are you adapting to this new
+reality or are you just providing
+something for people to get started? Let
+me know. And that's it for today. Thank
+you for listening to the founder. You
+can find me on Twitter at avidkal a iv k
+ahl. And if you want to support me in
+this show, please share
+potscan.fm with your professional peers
+and those who you think will benefit
+from tracking mentions of brands,
+businesses, and their names on podcasts
+out there. Potscan is a near realtime
+podcast database with a stellar API well
+documented too. So please share the word
+with those who need to stay on top of
+the podcasting ecosystem. Thank you so
+much for listening. Have a wonderful day
+and bye-bye.

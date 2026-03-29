@@ -1,0 +1,505 @@
+﻿[Music]
+hey it's Arvid and welcome to this
+year's final episode of the bootst
+[Music]
+founder this episode is sponsored by
+paddle.com my payment provider of choice
+if you run a software business and you
+don't want to deal with all this sales
+tax stuff and having to integrate every
+single money related thing yourself I
+can really recommend it and in fact
+paddle has been a major partner for me
+in 2024 big shout out goes to all the
+folks over at paddle and particularly my
+dear friend KP who I got to meet this
+year in Atlanta and who kept cheering
+for me throughout this whole journey the
+paddle AI launch pad accelerator that I
+participated in that was also him good
+times looking back at
+2024 well it's been a year of
+significant transitions for me a lot of
+learning curves and unexpected
+opportunities the biggest professional
+shift was the launch of pod scan this
+podcast learning and data platform that
+I've been building and it has become my
+main focus and quite possibly the most
+ambitious project that I've ever tackled
+so far you've likely followed the
+journey on this podcast for the last
+couple weeks and months and if not I
+highly recommend going back to the
+episodes from let's say around June July
+when I started it all out it was really
+really interesting just to explore this
+space in public it's been quite the joy
+to see it grow over time and the Genesis
+of pot scan is actually quite
+interesting and I want to share the
+story with you today in case you don't
+know it started as a marketing clay of
+all things it wasn't a business idea it
+was just an idea for a marketing
+strategy for another project that I
+built last year and that was pod line
+the name of that project podlin FM it's
+still around and it's a podcast
+voicemail tool that I've been working on
+throughout the winter of
+2023 I felt I needed a way to reach
+podcast creators to Market pod line
+because I built this tool for people
+like myself it was an idea that I had
+that there are alternatives out there
+that already do voic mailing and you can
+literally set up a phone line and get
+voicemails in but I wanted to make it
+easy and give people transcribed data
+you give them the data where somebody
+would tell them something through this
+pod Line website and they would get the
+full transcript plus the wave file and
+the MP3 and could easily integrate it
+into their podcast production pipeline
+so I wanted to build it cuz the other
+tools out there did not do this and in
+classic developer fashion I just built
+my own solution you know you know how it
+is you don't C something together you
+just built your s for this and little
+did I know that pod line itself wasn't
+going to be the big thing because when I
+had it built I needed to actually find
+podcast hosts out there who already used
+some kind of voicemail system so I
+thought hm Google doesn't help me here
+really I need kind of my my finger on
+the pulse of the podcasting world I need
+to figure out who is mentioning the word
+voicemail or a name of a competitor tool
+out there somewhere so yeah this
+marketing tool that I built for that
+would very quickly eclipse the original
+project entirely pod line itself ended
+up serving as a technological preview
+for pod scan because it handled voice
+transcription for voicemail messages it
+made them searchable and visible on the
+website and these core Technologies
+would later become very crucial
+components of pot scan's infrastructure
+just at a much larger scale and what
+makes podin fundamentally different from
+my previous Ventures is that inherent
+scale because most SAS businesses and
+most of the ones that I started in the
+past grow gradually like you onboard
+customers one by one and your
+infrastructure needs to scale with your
+user base it scales alongside it in
+almost ill linear fashion but podt scan
+very different it turned this model on
+its head from day one pin needed to be
+able to process every podcast out there
+because when a customer wants to track
+Dimensions they expect to find them
+everywhere not just on a subset of shows
+and this meant dealing with millions of
+podcasts right from the start and that
+was a reality check for me which led to
+one of the biggest mindset shifts of the
+Year despite being a committed
+bootstrapper I realized that some
+businesses simply require a different
+approach and I always knew this but I
+never thought that I would be involved
+with with that so the infrastructure
+costs would be substantial before
+Revenue could catch up again I have to
+deal with millions of shows and
+fortunately I found a bootstrap or
+compatible Funding Solution in the com
+company Fund in around March now I've
+been an investor in the fund for a while
+and a mentor to people in the fund so I
+know kind of how this happens and got
+into conversations with Tyler the CEO of
+the com company fund and a friend as
+well like you are connected in the space
+and it really helped me just look
+outside of bootstrapping like fully
+completely bootstrapping for this
+particular business and see an
+alternative approach and this funding
+that I then got in April has been
+instrumental in helping establish a
+steady operational Baseline for this
+business as I work towards profitability
+because if you have expenses that need
+to deal with the cost of taking in
+50,000 podcast episodes every day that's
+kind of where it is roughly I mean that
+is just the most important podcast pass
+as quickly as possible in the highest
+quality that's kind of where I'm at well
+then you need to be able to pay for this
+and just having a couple customers won't
+cut it another significant change that
+kind of came from the same direction was
+my approach to building the business
+itself instead of trying to do
+everything myself all the time I brought
+on Nick as my designer business strategy
+consultant and customer Outreach
+specialist his work on website design
+and email workflows and customer
+interviews has been invaluable to me and
+it allowed me to focus on the technical
+challenges of building the system that
+has to process 50,000 podcast episodes
+every day that alone is complicated it's
+really nice to have somebody to help me
+with the other things and this was a
+quite dramatic departure from my
+previous I can do everything myself
+mentality where I would just often
+dismiss tasks that I couldn't find time
+for as unimportant Nick has helped me
+realize that sometimes you need someone
+else thinking about different as aspects
+of the business while you focus on your
+own core challenges right it's kind of
+divide and conquer and Nick has previous
+to that helped me a lot with my YouTube
+and my podcast editing and all of this
+so he kind of graduated himself into
+this role in the business by just being
+in my Orbit all this time which is also
+an interesting learning about how to
+find the right people to work with
+they're already there you just have to
+see them and the technical complexity of
+potan that I've been mentioning just now
+has been quite staggering particularly
+around what I have understood is called
+Data Fidelity a concept that I never
+thought much about before I started this
+Venture the open podcast ecosystem is
+built on RSS feeds which is kind of the
+basic technical layer but these feeds
+come in countless variations of
+truthfulness and accuracy and some
+include transcripts others stoned audio
+files might be MP3s or videos some
+people even put jpex in there for some
+reason data is often incomplete
+confusing or duplicated at this to the
+challenge of interfacing with closed
+ecosystems like apple podcasts or
+Spotify and you've got yourself quite
+the technical puzzle the quality of this
+data is very important and it's crucial
+for the customers of podan because
+podcast analytics and market research
+that kind of data needs to be right and
+automating quality control at scale has
+been one of the biggest challenges that
+I've been facing here because you have
+to automate it again 50,000 shows a day
+you can't manually go through these
+transcripts of an hours per transcript
+of podcasting just doesn't work so you
+need automated systems that are good
+enough unfortunately there's technology
+out there because I consider myself
+incredibly fortunate to have started
+this Venture during the age of large
+language models and AI systems because
+pot scan simply would not have been
+possible as a solo founder 3 or four
+years ago maybe with a team of 20 and
+machine learning experts and that kind
+of stuff but not as a solo founder not
+as a SAS solo Indie hacker definitely
+not two technological advances made this
+feasible one is automated transcription
+that's using open AI whisper For Speech
+to Text Plus a couple other open-source
+freely available things and instruction
+based language models for data
+processing for AI work so we call it
+I've integrated various AI models from
+these open source options like llama
+mistol to cloud services from open AI
+anthropic all of this kind of flows
+together and the experience has been
+mindblowing especially when the AI
+themselves help write code and then that
+code interacts with other AI systems
+it's quite bizarre to write code in the
+age of AI where even the AI interface
+code is written by AI it's almost self-
+cannibalizing in a way and this deep
+dive into AI has transformed my
+development workflow and led to a very
+interesting shift in my podcast
+interview strategy as well because I've
+started specifically seeking out guests
+for my show who can help me understand
+the Technologies and strategies that I
+need for pot scan back in the day when I
+started my podcast I just wanted to talk
+to anybody in the Indie hacking space
+anybody interesting and that is great
+that was fun and still is fun I often
+still choose people that I want to talk
+to because I just find them interesting
+but I did a strategic move I made a
+strategic choice to talk to people who
+know things that I don't know yet that I
+need right now so whether it's experts
+in prompt engineering or marketers with
+deep industry knowledge specialists in
+feature flx that kind of stuff I've been
+strategically using my podcast to learn
+from experts while sharing those
+insights with you and the learning curve
+with AI and all the tools and
+Technologies around it has been quite
+steep each new model version requires
+different approaches to how to
+communicate with it and how to structure
+data how context windows work how big
+they are and all the different ways of
+extracting reliable information at scale
+and how to get unreliable information
+more reliable
+I I could talk about this for hours just
+even dealing with data and I might this
+sounds like an interesting topic for a
+podcast in the future but the results
+that I have so far gotten to like slowly
+increased the quality of have been worth
+it because the system podcast system
+ingestion system extraction system
+becomes more more stable and reliable
+every single day just from using these
+Technologies better and having these
+checks and balances to see is it getting
+better is it getting worse should I
+change the prompt here should I change
+this there so there's a lot of
+complexity behind the scenes that
+obviously a customer will never see but
+that just came from learning about this
+technology I highly recommend playing
+with this particularly when you're using
+AI as a platform as kind of this
+interface like you push data in you get
+data out you might become complacent at
+some point with what you get it might
+not be perfect but it's good enough but
+the models change the prompts change the
+awareness of these tools changes and you
+can EXP ment with that and you should
+take time to do this just saying like
+from my own experience and that is the
+technical side of things but obviously a
+business has way more than just the
+technical side of things if you read the
+emyth by Michael E jerber you will know
+that besides being a good technition you
+also need to be a Visionary for the
+business and a manager pulling all the
+operational strings so one other
+significant realization this year was
+about my limitations around personal
+branding for for this B2B SAS cuz that's
+what potkin is it's B2B right I might
+have individual customers but they're
+all businesses in some way and while
+building in public and maintaining this
+personal brand that I've worked for for
+many years on Twitter and all these
+places while that worked well for my
+books and my courses the info products
+it hasn't scaled the same way for pot
+scan it didn't work the same way because
+when you're selling to agencies and
+marketing departments rather than
+individuals you just need a different
+approach it just cannot reliably be a
+leite generator to be present online you
+have to do more and this insight has led
+to a very recent pivot towards more
+scalable Outreach mechanisms old school
+stuff like SEO and content marketing I
+thought I could get away with it not
+doing it but I can't so I have to deal
+with that and it was a hard lesson to
+learn because the same strategies that
+worked for selling books and courses one
+at a time really would not work for a
+B2B SAS product that relies on retention
+and constant purchasing
+well that is a learning and I mean I
+wouldn't be surprised and I shouldn't be
+surprised because people have been
+telling me this all this time
+particularly in one occasion the
+highlight of my professional networking
+this year really and that was attending
+microcon in Atlanta I got to meet so
+many of my fellow founder nerds and I
+even ran into a few potan customers
+there who talked to me about their use
+of the product was really cool and was
+probably the most rewarding conference
+experience that I've had so far even
+compared to my previous speaking
+engagements at micro conf like it just
+gets better every year the connections
+and relationships built within the
+community have been invaluable to me
+just super useful and I'm already booked
+for next year's event in New Orleans
+really looking forward to that and I
+realized I just need to expand my
+conference circuit like it just needs to
+happen not just with the founder
+conferences but I have to include
+podcast industry events I'm running a
+podcast analytics business now and I
+have to admit that to the public be
+present and be present in the podcasting
+Community not just the founder Community
+have to meet agencies and marketing
+departments my customers face to face
+and it has become a clear priority for
+growing pot scan's presence and its
+seriousness because all the businesses
+that I interact with are serious
+businesses so have to present that to U
+the outside world as well yeah that's
+that's the business side of things on a
+personal level turning 40 prompted me to
+take my physical health a bit more
+seriously too and I was inspired majorly
+by Peter level's tweets about Fitness
+and lifting I mean obviously there's a
+lot of meme stuff coming from this
+wonderful person but it is very
+inspirational to see the impact that
+Peter had on a lot of people's Health
+Journeys and I made the choice that it
+is now time to do that for myself I
+established a regular workout routine
+and I made significant dietary changes
+I'm trying to cut out sugar I focus on
+hydration I try to not drink anymore and
+I'm staying active throughout the day I
+try to walk as much as I can all these
+things together has had quite the impact
+it's been remarkable not just physically
+but also in terms of the energy and
+endurance that I have for work and
+family all the other things this
+improved physical condition has I think
+been crucial for maintaining the energy
+levels that I need to tackle pots
+against challenges because it is
+challenging to run this business mostly
+myself on the technical side of things
+so doing something for the body at a a
+aging stage of my life is and has been
+very important and I'm glad that I made
+the choice it's also fun it's fun to see
+results I've been more intentional about
+not just physical health but also mental
+health like I've been reading more
+although um I do this in bursts I don't
+know if that's the same for most people
+out there but sometimes I devour a book
+in half a day two books a day and then
+I'm not reading for weeks at a time it's
+been part of my attempt to create this
+kind of life where different activities
+balance each other out not necessarily
+happening at the same time and the same
+levels but maintaining this health the
+equilibrium between the things that I
+want to do and the things that I need to
+do and I think this approach has been
+kind of an approach of balance and it's
+been very important as I juggle these
+demands of the business with my media
+business the podcast the newsletter all
+of this which I kind of skilled back a
+little bit from two guaranteed episodes
+a week to a more manageable schedule of
+couple of interviews a month maybe one
+maybe two maybe four depending on how
+many people I talk to so the media side
+of things is still very very important
+to me because it is my way not just to
+share with you what I know and what I
+learned but also to have traces of my
+own decisions that I can look back at
+and it's that's why I always recommend
+to people to start a podcast and if you
+need to do one thing in 2025 it is very
+likely just documenting your own journey
+in a podcast format just talking to a
+microphone if nobody wants to listen
+that's fine at least you still have kind
+of a journal and if people listen then
+all of us sudden you have the methods to
+reach people and to have people amplify
+your message to others it's really
+useful so yeah if if you want to make a
+commitment for 2025 start a podcast it's
+really not that hard and for my own
+2025 I'm just excited about pods scan's
+trajectory here it's not just the
+biggest business I've ever built which
+it is but it's also the most complex and
+impactful judging just by the customer
+interactions that I have and the
+downstream effects that I see from them
+the integration of AI tooling into my
+development workflows will become more
+and more crucial like I already code way
+differently than I did a year ago and
+I'm ready to embrace that Future I'm
+Just way more productive and build more
+things for people that they actually
+need and can use it's quite nice so 2024
+has been transformative to say the least
+from launching pod scan to embracing AI
+personal health improvements strategic
+business pivots was all in there it's
+been a year of learning that some rules
+are made to be broken BR whether they're
+about bootstrapping or doing everything
+yourself or just lounging on the couch
+all the time sometimes the best path
+forward is the one you least expect so
+to a wonderful
+2025 and that's it for today thank you
+for listening to the bootar founder you
+can find me on Twitter at aitv KHL and
+you'll find my books on my Twitter CR
+too if you want to support me in this
+show please tell everyone you know who
+could benefit from using it about pocan
+FM and leave a rating and a review by
+going to rate thisp podcast.com founder
+makes a massive difference if you show
+up there because then the podcast will
+show up in other people's feeds and any
+of this will have to show thank you so
+much for listening have a wonderful day
+and bye-bye
+[Music]

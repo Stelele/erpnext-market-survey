@@ -1,0 +1,1077 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder.
+[Music]
+Today I'm talking to Jack Frics. He's
+one of those builders who actually
+solves the problems that they face every
+day. He was spending over an hour daily
+just posting the same exact content
+across multiple social platforms to grow
+his mobile app. And he didn't just
+complain about expensive, over
+complicated tools like we all do. He
+actually built something. PostBridge.
+It's a simple social media scheduler
+that's now helping thousands of creators
+and founders all over the place. What
+started as a personal solution has grown
+into a what is it now 13,000 17 $18,000
+a month business which proves that
+sometimes the best products come from
+scratching your own itch. We talk about
+navigating the noise of social media and
+still staying authentic. this challenge
+in building tools that empower without
+adding to the overwhelm that we already
+experience and how Jack balances AI
+assistance with the human touch that
+makes good content actually connect with
+real people. Also, we dive into the
+solarpreneurs eternal struggle of
+managing multiple platforms and that's
+the arch nemesis of every indie founder.
+We get to talk about that too. This
+episode is sponsored by paddle.com, my
+merchantofrecord payment provider of
+choice. also a great solution to
+managing multiple platforms. They're
+taking care of all the things related to
+money so founders like me and you can
+focus on building the things that we
+actually want to build and Paddle
+handles all the rest. Sales tax, credit
+cards, failing, that kind of stuff. All
+of that, they deal with it so you don't
+have to. I highly recommend it. So,
+please check out paddle.com. All right,
+here is Jack.
+Jack, you're building a social media
+marketing tool and I often wonder about
+the future of social media mostly
+because I'm in it and I have been in it
+for a while. I was there when IRC was
+all the rage. People were in forums and
+kind of communicating like that and then
+everybody went on Facebook and was
+friend with everybody else's mom. And
+now we're in this world where almost
+every conversation, if you're not really
+careful, is extremely volatile,
+explosive. Everybody's trolling, at
+least if you look at Twitter and similar
+media. Where do you see this going?
+Where's social media heading? For me, um
+I wasn't maybe around uh that far back,
+but so far going forward, it has just
+been a place where I've used as like a
+personal public journal. Maybe most
+people are scared of that. That's scary.
+Like putting your thoughts out there
+without even really thinking about it
+sometimes. But like the thing is so many
+things are not human nowadays that if
+you're honest, if you're being yourself,
+if you're being a human, it's going to
+stand out. And that's where I think
+social media is going towards is like
+the people who are being human, who have
+flaws, who clearly show them um and just
+like kind of spit out the raw thoughts,
+those people are going to get attention
+and those people are going to build
+something valuable in a place where
+there's a lot of junk, I guess. Yeah.
+That's where I see it going right now.
+Yeah, I think authenticity is is really
+over the last couple years it's both
+something that that everybody wants to
+be more but also struggles extremely to
+just maintain because it's just so easy
+to not be authentic to follow all of
+these I I don't know a couple years ago
+it was everybody on Twitter was doing
+threads and then you know like the video
+happened for a couple minutes and and
+then people were like in on on Twitter
+spaces. I don't know if that's still a
+thing. Like it feels it feels hard to to
+stay true to yourself as a person when
+everybody's just chasing numbers. Like
+you you personally you have like 40ome
+thousand followers on Twitter which is
+significant. That is is a great
+accomplishment. Do you sometimes feel
+obligated to just do something there? I
+mean to me I never was trying to grow my
+Twitter as a goal like I never wanted
+the followers to go up. Obviously the
+number goes up. That's a nice thing.
+like it's like a, you know, you're on a
+hamster wheel in a sense, but it was
+never my goal to grow on Twitter. It was
+my goal to make something a business
+that's valuable. And along the way, I
+wanted to document it. And Twitter was a
+great place cuz you can just put out
+your thoughts. So, I don't feel
+obligated to post, but I feel like it's
+now part of the game that I'm in where I
+post, I do something, I post, I do
+something, and it grows my business, and
+then as a byproduct, it grows my
+followers, which is kind of like the
+opposite of how some people are maybe
+approaching it where they try to grow
+their followers to grow their business,
+but it doesn't really work because
+they're not doing something interesting.
+people see that it's like they can tell
+like you can tell if somebody's really
+doing something or they're just like
+tweeting apherisms and yeah it's a long
+answer to your short question but I
+don't think followers were ever for me
+like the the goal. Yeah, if that is the
+goal most things you do become
+performative too, right? Yeah. Like
+that's like you said the apherisms like
+it's great when Naval Ravikan tweets
+these things even though I'm I'm not
+sure if I enjoy them as much as I used
+to in the past at this point because
+it's just such a cliche too, right? Like
+you the you immediately get assigned
+kind of a oh yeah, Twitter guru. Okay,
+let's just ignore whatever this person
+is saying. They're just tweeting it out,
+right? They're just talking about stuff.
+They're not doing anything. I like your
+approach. I like um doing things and
+then talking about them and and that
+kind of fuels this this kind of cycle of
+of activity. It's it's it's a momentum
+thing if it sounds very much like that
+when you know that this is your method
+you know everything that gets measured
+gets optimized right that's the thing do
+you sometimes do things so you can talk
+about them is that also part of it yeah
+I feel like I do uh not that I try to
+but it's like it's always the monkey
+brain like getting to me it's like hey
+you need to post about this so you can
+grow your business and you need to do
+this thing so then you can post about it
+so then you can grow it so it's it's a
+weird game, but I feel like uh every day
+I'm trying to find a way to play it
+better that's serving not just my
+business, but like my mental health.
+Like cuz obviously if you're on social
+media and everything's about posting, it
+drains you. It's not fun at a certain
+point. Yeah. I noticed like obviously
+I've been following you for a while cuz
+I'm just super interested in in your
+work and your approach to it. Building
+in public is my thing too. So when I see
+people do it right and do it well, I'm
+I'm immediately attracted to their their
+social feeds. And what I noticed is
+you're kind of edgy without being edgy.
+Like you have opinions, right? You have
+spiky point of views, but you are not
+polarizing. That's something that some
+people in our indie hacker community,
+Peter levels, are doing really well,
+right? Like that they're extremely
+polarizing just by being themselves. But
+you you have a way where it's you have a
+point of view that is strong, but it
+doesn't feel like it's insulting or kind
+of aggravating me. Is is that a
+conscious choice or is it just you? Uh I
+think at some level it's conscious, but
+ultimately I think I am kind of a people
+pleaser in many ways like I don't want
+to offend people. So I've thought about
+that a lot when I make tweets. Um and
+it's be kind I don't have to think about
+anymore. I've realized that people are
+going to be mad what no matter what I
+say, but there's definitely a nicer way
+to say things. And I try to make the
+things I say be objective as well, even
+if they're my opinions, be nice about it
+because I don't want to I don't want to
+make anyone feel like alienated. Yeah,
+it's kind of conscious. It's kind of
+like in the back from however many years
+back into my childhood. But well, I I'm
+similar like this. I I try to be kind
+and friendly mostly because I think if I
+send a message out there that is kind
+and friendly, it's going to attract kind
+and friendly people and I see the same
+in in your work like in in your presence
+as well. For sure. That's that's exactly
+what I'm going for.
+I don't want to attract the wrong people
+to. I guess that's a big part of why I
+try to stay kind and nice and like not
+try to like polarize anyone is because
+like my replies now because of that
+after like a year it shows like
+everyone's very nice to me. I'm very
+lucky. Yeah. Yeah. I guess that is the
+that is a very clear consequence of
+this. If you start insulting people you
+will get to be insulted back, right?
+That's just happen. Yeah. Do do you
+block a lot of things on Twitter? cuz I
+I' I've block a lot of topics just to
+not not have them in my feed. Do you do
+that too? I've never blocked a topic or
+like a word. I've blocked like maybe
+three people. Um but I try to I try I
+usually just mute now cuz it does the
+same thing. But yeah, no, I don't really
+I don't know why I don't block things
+cuz for some reason my feed is curated
+pretty decently just by as you said
+focusing on what I wanted to see more
+of. uh that's kind of like a I don't
+know if you know Visakhan Barame I don't
+know if you know if I said his name
+right but uh he's been a very big
+inspiration for me um that he's just
+like a very positive person and I've
+seen how everyone reacts to him because
+he's showing like he's being nice he's
+being you know kind really and that's I
+think most of what my feed is now is
+like nice people which is which is
+really lucky yeah Visa is a good example
+like that the law of attraction really
+works cuz he's a he's a smart person,
+like an extremely smart person, but he's
+he's always trying to teach without kind
+of being pushy, right? He just explains.
+He's kind of showand tell kind of person
+and that attracts people who resonate
+with that, who are similar to this, and
+it just invites a nice community around
+him. I see this in in your work as well.
+It's really cool. And it is also so
+funny to me that from that perspective
+of being being kind, being friendly, you
+would build a business allowing other
+people to get the same thing done. That
+that to me is really nice. That's that's
+a at least what what I've seen you do,
+how you build PostBridge is that it's
+like you try to build a tool that is an
+empowering tool, but it's it's not just
+like a cutthroat marketing tool because
+that's a it's a hard balance to strike,
+right? you are in an extremely red ocean
+with PostBridge of social media
+marketing tools where a lot of them are
+trying to cut corners but I don't see
+you doing it. It's it's how how do you
+approach building a tool in a space
+where there's a lot of you let's not
+call it exploitation that's not the
+right word but confrontation and
+confrontative uh application design. I
+mean I think it was easy for me because
+I focused on building it for myself. Uh
+maybe that's not the answer to
+everybody's problems. I've said that a
+lot. I It definitely doesn't solve
+everything cuz you could make something
+that, you know, maybe only three other
+people want, but I made it for myself
+back like in October because everything
+else was too expensive. It had too much
+like it had too much features. It was
+too much. So when I made it for myself,
+I made it like as simple as possible and
+as useful as possible for me, which
+turned out to be very useful for other
+people. Like I didn't expect it to
+really do as well as it did because as
+you said, it's a red ocean. Like there's
+so many people making similar tools. So
+my angle was just to make something that
+really gives people a valuable like
+something of value for a very fair
+price. And I don't have to like say,
+"Oh, this is better, that's better, this
+is better." I can just point them to my
+pricing page, point them to the
+features. It does very similar things.
+It works. And I'm someone who's using my
+own tool every day. So I'm incentivized
+to make it better for a certain person.
+Like a certain person right now is like
+mobile app founders. I grew by a mobile
+app with like organic content. I use
+PostBridge to post the content to make
+it easier. This is exactly how I did it.
+It's literally my pin tweet. It's like
+one of my most popular tweets because
+it's actually very useful and then
+people go and use the tool. I don't have
+to compete on like small things. I just
+give something of value. People
+appreciate that a lot and they share
+with their friends oddly enough. Like
+I've never had that word of mouth go as
+far, but in this case it has. That's
+awesome. So how do you use the tool
+every day? Can you walk us through this?
+Yeah. So I originally built the tool
+because you're posting. Say you have a
+mobile app. I had mine. It's called
+Curiosity Quench. Um it was at like
+60,000 downloads and I was getting a lot
+of downloads through organic videos. So
+I make a 6second video and I would post
+it to Instagram, Tik Tok, YouTube
+shorts, Twitter threads, blue sky, like
+everywhere. And that video to post it
+everywhere you have to go manually
+upload it. So I use PostBridge to post
+it all those places at the same time.
+Just saves me like 10 20 minutes a day
+per video. And then later I found this
+format that worked really well. So I
+automated it. You can make it in
+PostBridge and it outputs like the
+video. You just upload basic like parts
+of the template and then I use that now
+like basically every day I make the
+simple template I upload it to all the
+channels for my app and I kind of run it
+on autopilot. It's not exactly
+autopilot, but I use it every day for
+that to market mobile apps and then also
+to just post like if I want to post my
+tweet, I post it Twitter threads. Where
+else? Facebook, LinkedIn, and Blue Sky.
+And then it just makes it easier to
+actually get whatever I'm putting out
+there out there cuz I really only open
+Twitter like if like if if I'm on my
+personal tweets. So, it just makes like
+saves me some time. I mean most most
+tools that have the highest impact on my
+life are the things that save me just
+some time because it just accumulates
+right like everything you do if you say
+five minutes you do it 20 times a day
+that's two hours right that that's
+significant and how do you deal with
+engagement like when you when you tweet
+something out and I use this loosely as
+you just publish something I think
+that's what they want to call it anyway
+onto all these different platforms
+people react differently on different
+platforms how do you make sure that you
+stay kind of in touch with all the the
+feedback that might come there.
+Truthfully, I don't um like I I go to
+Twitter. That's like the one place that
+I open up, I guess, every day. And the
+rest of them, like I'll check like maybe
+once a week, once a month, like if I
+remember, like it's not something I
+really keep track of. I do see that like
+some of the other platforms, they get
+likes, they get attention, but like you
+only have so much time in a day. And
+even if I was to automate that part,
+replying, it would be robotic in a
+sense. Like I think there's there's some
+good in not getting it to it all and not
+managing it all is that like people
+realize you're a human that that's okay
+like you can't get to everything and
+yeah I mean I probably spend too much
+time on Twitter replying to everybody
+but if I did it everywhere else then I
+really wouldn't be able to do anything.
+Yeah that's that's a that's a problem
+right like with all these many different
+platforms like being present on either
+one of them is already a challenge but
+being present on all of them is is
+almost impossible. Like I feel the only
+way I could do this is when somebody
+alerts me that there's something going
+on, right? If if it if I have a tool
+that just tracks comments and if there
+is a significant number, that's when I
+will go into a thing. I will not check
+manually. I I post on LinkedIn, I guess,
+occasionally. I I think last time I
+posted was a week ago. I haven't opened
+LinkedIn since. There's probably a
+comment somewhere in there. I just
+haven't really done anything about it. I
+was the same same shortcoming on my end,
+but it's just impossible to track all of
+these things at the same time. And that
+that to me is kind of why I asked you
+this initial question too about where do
+you think social media going because in
+the beginning it was highly relational
+and highly interconnected, right? Every
+this is kind of what what Nal describes
+um in in his book, The Hook Cycle. The
+idea is that this is an ongoing
+conversation where somebody says
+something, somebody reacts to it, then
+people look at it because they want to
+know what's being said and that triggers
+a notification and then they post
+something and then some some, you know,
+it's a cycle that just keeps going on.
+And that was the beginning of social
+media to me. You post something,
+somebody gets a notification, they post
+something, I get a notification, and so
+on. Now, at this point, like I have
+notifications turned off. Like the hook
+cycle doesn't get me anymore with the
+the trigger because I turn off all the
+triggers. I it's hard to turn this into
+any kind of meaningful insight really
+because that's just what it is. But do
+you think this is problematic for how we
+communicate? I mean, I think it's
+probably for the best. Social media like
+originally
+it was invasive like on humans. Like you
+shouldn't get a notification every 10
+seconds or every minute or every 10
+minutes even for someone pinging you.
+Like cuz you have a real life. Like
+social media is real, but in real life
+you wouldn't have like 15 people talking
+to you in the same day. It's like two
+people. So I think it's for the best. I
+also have social media notifications off
+for everything. Like the only push
+notifications I have is text messages
+from like a few people. That's it. I
+think that's the way it should be. And I
+think like I think that's okay. Like
+there has to be some some type of place
+where you realize that you cannot get to
+everything on the internet. That is such
+an interesting insight. I my my mind was
+like no you should be reachable all
+times. But I was like no no no no. It's
+funny and I really like the perspective.
+It's it's very like humanentric. It's
+not it's not like communication centric
+where everybody's reachable at all times
+and that's great and it's very
+productive or whatever, right? It's very
+like I need to have my own space and
+notifications are intrusions. That's a
+very good perspective. Funny enough,
+earlier today on hacker news, I read
+some somebody commented something about
+ICQ back in the day and they they were
+like they were very early to ICQ back
+when the Do you know what ICQ is? No, I
+don't. Okay. I ICQ a IM were these
+instant messengers like MSN back in the
+day like the um yeah like whatsApp is
+now but in the late 90s or early 2000s
+right that and ICQ was one of them it's
+gone it doesn't exist anymore and your
+your login was a number and that was
+just kind of the ID that you had in that
+database so I had a sixigure number so I
+was among the first like 900,000 people
+that got an account and that was a big
+status symbol back in the day cuz all my
+friends had eight figures numbers. They
+were like a couple millions into it.
+It's like having a Twitter account that
+is like 2005 or something, right? That's
+that's the same signal. And ICQ was one
+of the first that were instant
+messengers where you could get just get
+pinged. And the guy was saying, "When I
+first saw ICQ, I was like, I don't want
+this. I don't want to be reachable at
+all times. People should not be
+reachable." It's funny that you say the
+exact same thing because that is such a
+rare perspective nowadays where
+everybody has their email notifications
+on because you know their boss might
+talk to them at some random point in the
+night and the same goes for Facebook,
+the same goes for WhatsApp or for
+messages or whatever. It is an
+interesting perspective to say that
+social media does not have to be kind of
+synchronous anymore. You don't have to
+jump in when the conversation is
+happening. You can go in when you have
+time for it. Yeah, I think I think
+that's the best part about it. It's like
+that's the whole point. I feel like that
+was the whole point originally of the
+internet is to be able to do things when
+you want them and then it like kind of
+flipped. I don't know when. I probably
+flipped at the beginning and like we're
+just unflipping it now. It feels like or
+at least in my head I'm unflipping it.
+Yeah, I think there might be a movement
+here. Like there might be a change in
+perspective cuz people are just fed up.
+Well, you are building a tool that helps
+add to the noise if if I were to say it
+cynically, right? So, how do you prevent
+that? Like, let's let's just say this,
+like you're building a tool that might
+help adding to the noise if used in the
+wrong way. So, how do you approach
+preventing people from like spamming too
+much or from being like giving just
+canned tweets or for that matter just
+using AI to do everything? Is is that
+something that you're actively working
+against? I mean there's two levels to
+it. There's like a business level is my
+business is trying to provide value and
+allow people to post their content
+whatever that is to everywhere to all
+the social media platforms. There's
+another side of this where the app I
+originally made before PostBridge um
+it's called Curiosity Quench. Its whole
+mission was actually to help people stop
+scrolling on their phones. So, you think
+they're against each other, but really
+the reason I made Post Ridge was because
+I was trying to promote my anti-crolling
+app, but I was having to scroll to
+actually post all these videos cuz you
+get sucked into the loop every time you
+manually manually post. So, not only
+time, but attention was a big thing in
+making PostBridge what it is. And that's
+a place where you can post your videos
+without going to those dreadful
+suck you in apps like Instagram and Tik
+Tok especially.
+I wanted to never be on those. So I
+haven't open those apps. I don't open
+those apps for months at a time now. And
+the thing is, yeah, you're right. I add
+to the noise. people in PostBridge
+posting videos,
+but I don't know like if there's a if
+there's like a way to go about it other
+than not existing on the internet where
+you're not in some capacity adding to
+the noise. Yeah. I think marketing
+generally you have to have some kind of
+cognitive dissonance because you add to
+other people's like ads, right? Quite
+literally. It's just when when you
+market, when you try to present your
+solution to their problem, you might hit
+the wrong people and they might be
+slightly annoyed. They might not want to
+see it, but you will likely also hit the
+right people and they find something
+that solves their problem. I think
+that's something that I had to like
+mentally decode and re-encode in my mind
+because I was like a complete marketing
+enemy for most of my life. And then I
+started building my own businesses and I
+noticed I got to talk about my stuff and
+for the right people this is not
+annoying, right? And for the right
+people, this is the right thing and your
+posts about the app that helps them
+scroll less will reach them while they
+are scrolling. That makes a lot of sense
+to me. That's the perfect point to reach
+them. So I I don't want to sound like
+this is kind of a confrontation or
+anything because most tools can be used
+in a positive and a negative way, right?
+So my question is more like how do you
+prevent abuse? to prevent abuse. It's
+kind of hard because I'm saying that
+what I think is best is best for
+everybody. So, it's not something I
+moderate. I don't moderate content. The
+good thing about it being um connected
+to the official APIs is they do moderate
+content themselves. Obviously, that's
+not going to stop like if this thing if
+this content is very low quality, it's
+not helping, it's not beneficial, it's
+just entertainment, I'm not going to say
+they can't post it. Would I like would I
+post it myself? Maybe not. Is it like
+valuable to anyone? Maybe not. But I
+mean, the algorithms do their job in the
+sense that they're going to put content
+that people really en enjoy in some
+capacity out to more people. They don't
+push like the slop really as much right
+now. Um, obviously that's not absolute
+rule, but I don't really prevent abuse.
+I just kind of hope that people can make
+their own decisions for what they want
+to watch and what they want to post. And
+that's kind of where I leave it right
+now. Makes sense to me. Like that that
+also should probably not be the scope of
+an indie product, right? Like abuse
+prevention and moderation. That feels
+like it's already hard enough for the
+platforms to do it. Like why would you
+have to add to that? Talking about
+scope, I think you build tools like you
+said that are not as kind of overgrown
+and feature stuffed as others. Now, you
+say this having built this for what,
+like a year now, right? Like it's a it's
+a year yearish old the product. Like how
+old is the product? Postbridge. Yes.
+October. So, uh 7 months. Mhm. Yeah. So,
+you're 7 months in. How can you make
+sure that the product stays lean over
+the next couple months and years?
+Because otherwise, your product would
+also turn into one of these kind of
+overgrown kind of kind of featurerich
+things. How do you focus on on staying
+lean and manageable for you as a as a
+solarreneur? I think so far the best
+thing for me has been only building for
+myself in a sense. I do add like if
+someone wants a feature and it's
+something that's like very reasonable.
+It's not going to add a super complex
+like workflow to the tool. I will add
+it. But I mostly build for like what am
+I using this dayto-day? How can this
+make my day simpler and easier? And
+also, yeah, I'm constantly thinking
+everything I do, is this something that
+is going to bloat the software and make
+it less valuable to like a normal
+firsttime user? So, I think about those
+things every time I do something. I
+don't know if I can really prevent
+adding in too much features because it's
+like it's a very weird middle ground.
+The main thing I've always wanted to
+center this center my product around is
+being as simple as possible. So, if it
+still can remain simple, I'll add the
+feature. Like right now, the main thing
+that I'm going to be working on are not
+like complex things. They're like
+content generation, which is kind of its
+own product, but it's not making the the
+base tool any more complex. It's just
+adding more optionality to what they can
+do with the tool. Yeah. This is kind of
+like an an input stream into the tool,
+right? It doesn't change the tool. Let's
+talk about this content generation uh
+usually happens in my brain but more
+recently happens when I just speak into
+my my my uh what do I use is it like I
+think I just use my phone or or any
+microphone and then I use the transcript
+and then I use an AI and then I use that
+to come up with like some stuff but how
+do you approach content generation in in
+the world of AI like in the world where
+people talk to that chat bots all day?
+Um what what's your approach? I mean, so
+if we're talking about content for like
+Twitter, like I'm posting text posts,
+I've never I never use AI any I just
+don't use AI. I don't like really think
+it's needed at the moment for me cuz
+when I'm building something, I have so
+many stray thoughts and if I just go and
+look on Twitter and I see someone else's
+thought, it triggers a thought in my
+mind and I don't filter it. I just post
+what's on my mind. Half the time it's
+like no one sees it, no one cares. But,
+you know, a tenth of the time what I'm
+thinking is just my normal thought is
+controversial. It's like it's a big
+thing. It's not like a big thing for me,
+but like you're going to rustle some
+feathers eventually if you're just
+speaking what you're thinking because
+everybody's so, you know, like everybody
+has different thoughts. So, I don't
+really use for content generation text
+wise. I don't use AI just because I'm I
+got enough going on up here. It just I
+need to get it out. So I use Twitter as
+a journal and that's like my content
+approach. So how how do you think about
+building content generation into your
+product then? So for me I'm thinking
+more video and images and right now like
+you can use AI tools to make content
+like you could you know ask chat GPT the
+image generation to make you this post
+with this idea but ultimately what I
+want to create is something for
+businesses to drive organic growth. So
+like first vision would be here's
+templates that work that have results.
+Here's how to use them. Here's what to
+do to go for to emit um a reaction
+emotion from the your target audience
+and here's some ideas on how you can do
+that with in each scope like different
+niches are going to have different
+things. So just guiding someone to get a
+result that's actually valuable. Like
+getting users to their product, that's
+like the main scope that I'm going
+towards right now. Because if I go too
+narrow or go too wide, it's like no one
+knows what to where to start, right?
+Because you said like you use AI to get
+ideas and to narrow them down. People
+have no idea where to start. So I'm
+trying to provide a starting point with
+AI like with content generation. not
+done for you completely, but like a
+guided approach. Yeah, that that makes
+sense. Like I like that you you have
+numbers to back things up, right? Like
+things that work to me always shortlived
+or at least they have a a kind of a
+shelf life or like a a date there,
+right? Like how often do you change
+these things? Like do do things from a
+year ago still work or is it different
+platform to platform? Um yeah, it
+definitely depends platform to platform
+and I'm always iterating myself. I think
+the best thing you can do if you want
+results like over time is to still be
+always iterating in some capacity. So if
+you have a video format say like just
+use this as an example that video format
+may work for like a year and or maybe it
+works for 5 months but most people don't
+even use it for that long as long as it
+works. They give up because it's
+repetitive even though it's still
+providing results. So there's like, do
+you switch it out because I've been
+doing this for so long or do I switch it
+out because it's not bringing in
+results? And usually people switch it
+out before the results stop drying up,
+which is weird. I mean, I maybe it's I
+understand why like human brain like we
+need something new. We need something
+new. But if you have something that
+works, you keep using it. And if it
+doesn't work anymore, like you said, you
+basically iterate until you find
+something that works again, which is
+easier said than done obviously. But the
+whole approach which I want to take for
+content generation is helping people
+find what's current. And that's a hard
+game to play because everything changes
+so quickly. But I mean I'm not saying
+I'm going to do it perfectly. I'm saying
+I'm going to try which is Yeah. And it's
+already better than having them to have
+to figure it out themselves, right? Like
+that's that's the great idea about
+templating in and tools like this. It's
+like, okay, here's the starting point.
+Now, we can make it our own, but at the
+starting point at least gives us some
+kind of guidelines. I think that's
+that's really helpful and that's the
+kind of content generation that I
+resonate with when there's a shape that
+I get to fill instead of something that
+somebody else does for me. I don't
+really like that. I feel I I need to
+have not control but an understanding of
+the thing that I'm doing, right? And
+that's what what a good template does.
+Interesting that you that you move away
+from like AI as as a text generator.
+That that's wonderful. Do you use AI in
+coding the product that you're working
+on right now? Yeah, I I use Cursor.
+Cursor helps me a ton. Um, I didn't
+really know how to code uh a year and a
+half ago now. I think it's been a bit
+more actually. Like less than two years
+ago, I didn't really know how to code.
+Um, not really like I knew basic HTML,
+CSS, but like AI has really helped me
+learn a lot. Um, I don't use it for
+content generation, but it's it's like
+an amazing tool for just like rapid pace
+learning and understanding because no
+one's judging you, right? Well, people
+judge you for using AI, but the AI
+doesn't judge you. That's for sure. The
+AI doesn't care. Yeah. I think not just
+for coding like for everything. Like if
+you have a if you have a health issue
+that you don't want to talk to people
+about, you talk to the AI and you get
+some insights into it, right? Or if you
+if you struggle with your religion of
+all things, right? like AI will try to
+help you through all kinds of things and
+will never be judgy. I like that too. I
+I really think um it's the most powerful
+non-judgmental teacher that anybody can
+have uh for free, right? That's just
+really what it is. I come from a a
+software development background. I've
+been doing this for 20 years or so,
+which is why it's weird to me to hear
+that a year and a half ago you didn't
+know how to code. Like at least not on a
+on a professional level. But the founder
+and the like bootstrapped indie hacker
+community member in me is like, "Yes,
+that's amazing. That's awesome.
+Congrats." Cuz that would not have been
+possible like four years ago. It's just
+wouldn't right. So, more recently with
+the whole VIP coding thing in our
+community, a lot of people have been
+very vocal about obviously how great
+this is, but also on the other side how
+dangerous it is in terms of
+authentication. And when people build
+stuff that is just so hackable, right,
+so abusable, is is that something that
+you encountered in building your own
+product like that maybe there was a
+moment where you didn't really know how
+to do it, right? Like how did you
+approach those moments when when it was
+like this might be a security issue or
+this might be something dangerous. How
+did you work with that? So early on when
+I was learning, I didn't have much
+users, but I did have a good enough um
+understanding that security mattered to
+like to check things. I don't I think a
+lot of people skip over the checks and
+they can get away with it, but then the
+second you get users, they get hacked.
+And even I got attacked like twice in
+the like the last few months um because
+I was kind of a proponent of Vive
+coding. So people went for me. But
+luckily my sites were secure to the
+point where no user data is harmed. And
+really the biggest thing was just like I
+got a bigger bill from my provider. But
+I've learned a like I basically spedun
+how to secure my sites. Not obviously
+everything is cat and mouse like you
+always have to be keeping an eye on
+things. You can't all you're not always
+100% secure like no one is but like I've
+gotten an understanding of the basic
+securities and I think it's nice to see
+people vive coding but like they should
+know that obviously if you're dealing
+with customer information you should you
+can prompt your way to making something
+decently secure. You should take it into
+consideration. And I think that's I
+think it's a good thing that people are
+talking about it because yeah, it's
+danger it's dangerous if you have a
+business even from like your from your
+risk as a founder and you lose people's
+information or you leak it or you get
+hacked and your business is gone
+overnight. You don't want any of that to
+happen. Not that you should be like
+scared, I get or not that you should be
+like never do anything because maybe
+I'll get hacked, but just like having
+the idea that someone could attack you
+and you should be careful is good
+overall. Yeah. I mean that that is the
+default position of anybody who's been
+in this industry over the last couple
+decades because that is just the
+reality. Like if you put a a server or
+just a computer, if you connect it to
+the internet, you can wait a couple
+minutes and then the first requests are
+coming in trying to probe you, trying to
+see is there any port open that we could
+attack, right? Like it's just it's a
+it's all automated all over the world.
+So everybody is always looking out for
+some way to get access to your system
+for some some kind of thing, right?
+Might be a botnet or whatever. Um so
+that is the default position. there was
+a a glimpse of uh a more utopian
+perspective when VIP coding started
+where people were like ah whatever but
+they found their way back into the
+security centric perspective. So I'm
+glad to hear that that you have paid
+attention from the start but I think it
+would be nice to have a kind of a a kind
+of vip coding academy where people would
+still learn the very important basics of
+building like publicly available
+software. But that that is just me being
+um a wishful thinker at this point. But
+interesting. Do you Do you use AI like
+outside of coding too in your business
+for things like customer service or blog
+posts or anything like that? Honestly,
+no, not really. I I don't know why.
+Maybe I'm anti AI in some cases. Like I
+just avoided it because I like the human
+aspect of a lot of things. It's fun to
+just like to think um through everything
+and even make a lot of mistakes like
+like I make typos and everything like so
+often, but it's kind of like I'm at the
+point where I don't feel like it overall
+improves my workflow, so I don't do it.
+If it's not like a,000% beneficial, I
+don't bother adding anything AI to my
+workflow. And maybe I think that I'm
+probably an odd an odd one out there,
+but I try like even in my product I
+don't really I don't use AI like I don't
+have really any AI tooling inside of it
+and that just keeps things like bare
+bones as possible. I think this is one
+of the reasons why people like you th
+those this much like I think that the
+fact that you don't jump on this
+bandwagon or if if you are you are very
+skeptical about it. I think that that
+level of like focus on the essence of
+humanity inside you, your authentic
+self, that is something that other
+people would give up for money very
+quickly. Yet, you do not, right? That's
+that's what I think is is uh is so
+outstanding about you and that's
+probably also what fuels your Twitter
+presence and your presence on on other
+social media, too. I really like that.
+It's rare. I try to do the same. I have
+a hard time. Like, AI is just so
+alluring to me. I can just make it do
+stuff and then it's done. It's not going
+to be exactly what I wanted to do, but
+it's done. And for a founder, done is
+mostly better than having to do it right
+most of the time. It's it's a it's a
+very uh you can easily compromise
+yourself. And you don't seem to do that,
+which I think is really cool. Thanks.
+Yeah. I mean, it's like I don't think
+it's a bad thing that people use AI. I
+don't have anything against anyone who's
+even writing like helping if it helps
+you write your tweets, like that's good.
+It does help you logically progress
+through things and like come out with a
+better output a lot of the time. I just
+like maybe I'm I don't know. Yeah, I'm
+skeptical. I'm skeptical still. And that
+is a a great perspective to have. That's
+kind of what I meant. You have a spiky
+point of view, but it's it's not
+polarizing, right? Of course, you can be
+skeptical, right? in in a world where
+everybody is is chanting the the AI
+hype, you're trying to you're not
+completely against it, but you're you're
+careful with uh how it might be abused
+and how it might like distort the the
+conversation. It's really cool. So,
+that's why I follow you and that's I I
+think why other people should be
+following you and your journey as well.
+So, for people who want to learn more
+about you, who want to figure out where
+to find you, who want to connect with
+you, maybe even use PostBridge and and
+build their own audience, where should
+they go? Um, honestly just Twitter,
+Jackfricks. And if you want to like
+basically know everything that I've
+figured out in the last, I don't know,
+year or so for building mobile apps and
+using my own tooling, PostBridge, I
+would just check my pin tweet. There's a
+guide there. It's free. If you want help
+growing on your organic socials, just
+tweet me, do anything. I'll probably see
+it. So, yeah, that's it really. Well, I
+appreciate you coming on and uh talking
+to me about your business and your
+perspective on social media. Really
+appreciate it. really nice. Like I I
+learned a couple things today that I
+never thought about before. So I'm I'm
+really appreciative of your insight and
+your perspective. Thanks so much, Jack.
+That was awesome. Thank you. And that's
+it for today. Thank you so much for
+listening to the Bootstrap Founder. You
+can find me on Twitter at avidkal v k
+ahl. And if you want to support me in
+this show, please share potscan.fm FM my
+SAS business with your professional
+peers and those who you think will
+benefit from tracking mentions of their
+brands, their businesses and names on
+podcasts out there. Podscan is a near
+realtime podcast database with a stellar
+API. We have 32 million podcast episodes
+in the back now. The database is
+humongous. Please share the word with
+those who need to stay on top of the
+podcast eosystem.

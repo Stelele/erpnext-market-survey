@@ -1,0 +1,51 @@
+{
+  "topic_id": 156325,
+  "title": "Item Attributes Importing from Excel Sheet",
+  "slug": "item-attributes-importing-from-excel-sheet",
+  "category_id": 6,
+  "tags": [
+    "erpnext"
+  ],
+  "created_at": "2025-11-03T06:03:50.048Z",
+  "last_posted_at": "2025-11-03T06:03:50.172Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/item-attributes-importing-from-excel-sheet/156325",
+  "views": 26,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "that_one_dev",
+  "posts": [
+    {
+      "id": 485441,
+      "username": "that_one_dev",
+      "name": "",
+      "created_at": "2025-11-03T06:03:50.172Z",
+      "cooked": "<p>Hi, ERP Next team. I am writing after so many failed attempts, one of our client has a huge amount of excel sheets dump of products, attributes( Size, colors) etc.</p>\n<p>I made a script that was able to import products, brands, attributes, item templates, groups. I am loading it into warehouses.</p>\n<p>problem!</p>\n<p>once I have created item attributes from csv, then I am not able to import other item attributes (which are different) Like color can have different values, but they are not being imported it says duplicate error even when the attribute abbreviations and values are different for that color</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/t/8491ac/{size}.png",
+      "trust_level": 0,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 7,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

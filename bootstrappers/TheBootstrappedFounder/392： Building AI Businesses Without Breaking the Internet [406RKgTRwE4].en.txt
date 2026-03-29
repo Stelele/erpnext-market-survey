@@ -1,0 +1,627 @@
+﻿Hey, it's Arvid. Welcome to the Boots
+[Music]
+Founder. This episode is sponsored by
+paddle.com, my merchant of record
+payment provider of choice. They're
+taking care of all the things related to
+money, so founders like you and me can
+focus on building the things that only
+we can build. Paddle handles the rest. I
+highly recommend it, so please check it
+out at paddle.com.
+[Music]
+There's a term I've been reading a lot
+about this week that's been keeping me
+up at night. Metaphorically, I do sleep,
+but it is just always on, and that's
+model collapse. And if you're building
+any kind of AI powered business, which I
+guess we have to face at this point,
+most of us are doing these days. This
+should probably keep you up, too. The
+concept is I would almost call it
+deceptively simple because it's kind of
+complicated if you look into it deeply,
+but the implications are staggering.
+Model collapse is what happens when AI
+models are trained on their own outputs.
+The quality of the data that they
+provide degrades over time and that
+creates a feedback loop of declining
+accuracy and truth. So think about it
+this way. Before AI became ubiquitous
+when you looked at data on the internet,
+you had some kind of measurement of
+trust, right? You had the reputable
+source, you had the domain authority,
+and that kind of stuff was generally
+reliable and true, particularly those
+that were legally mandated to be
+correct, like government institutions,
+data that was approved, tested, and
+verified from official sources. That
+stuff worked. But now, even those
+traditionally reliable players use AI
+systems to generate some part of the
+data. And that AI generated content will
+inevitably seep into the training data
+for next generation of models. So any
+distortion that exists today will become
+stronger and more distorted with every
+iteration. And this creates a guaranteed
+decline in quality over time. And that's
+not exactly a promising outlook for a
+technology we're all betting our
+businesses on at this very moment.
+Here's what's fascinating and terrifying
+about this. We might be living through
+this golden age of AI accuracy right now
+and we might not even know it. Like the
+models that were trained around now or
+let's just say a year or two ago are
+probably the least influenced by already
+existing AI generated content. They just
+didn't have the time to scrape it all
+and put it into the models. They might
+not be as performant or as deeply
+interconnected when it comes to
+processing data as those future models
+will be like the GPT6 and 7 and 8 over
+the next couple decades. But they're
+also the least touched by their own
+outputs just because they didn't have
+time to ingest it just yet. So in some
+ways we're witnessing the purest forms
+of these systems, probably also the
+truest form of these systems before they
+started eating their own tail. And this
+reminds me of something that we've
+already seen play out on the internet
+for decades. The rise of programmatic
+SEO. You know exactly what I'm talking
+about if you ever tried to find genuine
+information online and then stumbled
+upon pages and pages of these
+algorithmically generated content
+designed purely to rank. Right? You've
+all seen this. Probably every recipe
+website is kind of this. There's a lot
+of stuff that shouldn't be there, but
+it's there so it ranks. So you see it
+because it ranks. And these are common
+tactics for software businesses to
+generate leads. Like you create websites
+programmatically with certain content
+that search engines find and then rank
+highly. Customers come to you and then
+those customers pay you money. And this
+allows companies to spend more time
+building systems to find more customers
+that way and rank even higher in search
+engines. And we've always called this
+automated content creation. And we don't
+call it wrong or like false content, but
+we recognize it for what it is. It's an
+almost infuriating way of creating
+things just to be found on search
+engines. It's not really a genuine
+expression of art or anything like this.
+It's just content optimized for
+retrievability. And it perverts the idea
+of the search engine being a neutral
+orbiter of information. That's kind of
+what Google was in the beginning, right?
+They were trying to say, "Hey, here's
+page rank. We track the links that pages
+have to each other and the highest link,
+the best content that gets on top of the
+page. Well, first the ad model came
+along and that didn't work anymore. And
+now content just created to rank. Well,
+that just escalates all of this into
+optimization and ranking games. And
+here's the thing, I play this game, too.
+With Potscan, I'm using AI to extract
+and analyze data to build landing pages
+for tens of thousands of podcast
+episodes or rather podcasts with a
+couple episodes there. So, it's just
+listing all the things about the
+podcast, right? That's what I do and
+that's what I use this AI data for and
+that's where I acquire a lot of my users
+and from them some turn into customers.
+That's kind of my my path into
+customership. So, I am contributing to
+the very phenomenon that I'm kind of
+concerned about. I'm adding to the
+training data for future models. And
+that is true no matter what quality my
+data is, right? Everything that I put
+out there will eventually be scraped and
+ingested. So the question is now, well,
+what am I responsible for? And I think
+this creates a responsibility that I was
+not expecting when I started building an
+AI powered business. I thought, oh my
+god, I'm going to use all these amazing
+AI tools and supply data to my
+customers. But I am now finding myself
+asking, am I contributing to model
+collapse? Am I decreasing the overall
+quality of these models just by taking
+AI generated data or AI generated
+information and turning that into
+content out there? I'm not asking this
+question just to justify the existence
+of POTS scan as a service that analyzes
+and extracts and displays data. I think
+that is just a market need and people
+are paying for this because they need
+the information. But I'm asking because
+I want to be able to tell people who
+want to build businesses on AI features
+like yourself might already be doing
+this, not just using AI to write code,
+but integrating this kind of tool, the
+technology into their businesses, how to
+approach this over the long term. I want
+to be able to speak to the long-term
+implications of using AI as a central
+feature or central motivator of your
+business because we can't just be
+building hype based products in a time
+where we're so early in the development
+of this technology because if we don't
+understand the long-term repercussions
+of our work and we can't really be
+prepared to answer questions about it,
+we might not find customers because they
+don't trust that this stuff is going to
+work for us. We might not find investors
+if we ever need them because they don't
+understand what our mode would be if
+this technology would just fall apart in
+a couple years, right? We need to be
+able to respond to questions that we ask
+ourselves for the strategy of our
+businesses. So, if you're building
+something like an image generation
+software, for example, or any of the
+generative AI products that we see
+flooding the India hacker community, and
+I mean this in a neutral way, there's
+just a lot of them. You kind of have to
+ask yourself what do these products do
+in the long term, right? Are they
+enriching the ecosystem or are they
+polluting it? And if you're building
+anything that uses generative AI, even
+just a chatbot or something, those locks
+might end up somewhere. So, are you
+enriching or polluting? And I think it's
+almost always a balance. It has to be
+because on the one hand, you could argue
+that anything nonreal that's supposed to
+be real dilutes reality if you really
+want to pull it down to the abstract
+level, right? If you come up with
+something fake and you could argue that
+any chatbot is a fake person, then any
+discussion that comes out of this is at
+least half fake if it's between a human
+and that robot. But on the other hand,
+generative AI creates possibilities that
+would never have existed without
+services that make creation so
+affordable and cheap and accessible. And
+this leads to incredible accomplishments
+in art and personal development and
+overcoming these very financial
+obstacles that previously prevented
+people from even starting a business.
+And I don't think there's a magical
+solution to this dilemma between it is
+all fake, but it also makes things
+happen that would never have been real
+in the first place. I think there's an
+approach that can help us navigate it
+responsibly. And this is an approach
+that I internally to myself call real
+world enrichment. and you could probably
+project it onto whatever you're doing
+with AI as well. With Potscan, a lot of
+the data that I extract from podcast
+episodes, for example, focuses solely on
+the spoken phrases and and words and
+people inside that episode. What are
+people saying, who's speaking, who's
+mentioned, all of this is part of a real
+conversation out there, right? If you
+just ignore the fact that sometimes
+podcasts are also AI generated, but the
+conversations that we are tracking, we
+try to see the humans in them. And none
+of this is generative to the point where
+it would come up with new things. All of
+this analysis that we do is derivative
+of the humanly produced content that
+already exists in this episode. The
+creative and generative work that
+happens when we do things like
+summarizing. And yes, when you write a
+summary that has never been written
+before, it's kind of a lossy compression
+of the content. And it's still
+derivative of the content and not
+necessarily problematic for pollution
+and potentially model collapse. But you
+can introduce errors if the summarizer
+mistakes words or phrases or
+associations. So there is potentially
+the risk in here for this to be a model
+collapse accelerator. I think the same
+goes for the demographic data that we
+offer to paying customers like stuff
+like audience size estimates and
+audience makeup estimates, demographics,
+location based distributions, assumed
+demographics, right? I'm using the
+inherent bias in the model to extract
+the data. And all of this comes with the
+asterisk of being creative derivatively
+through an AI system that has its own
+internal biases. This is something that
+I recently talked to Rob Walling about
+for a course that he is currently
+creating and we did a little AI session
+there and I think I'm going to put the
+link to this in the show notes here.
+Right. We had an hour or so conversation
+just around what are the problems that
+founders face when they look into
+building something with AI. What are the
+technical issues? What are the
+operational issues? What are cost risks?
+That kind of stuff. Talk to Rob
+extensively about all of this. And one
+of the things I talked about is that any
+AI system has internal bias, right? The
+bias is the data that it was trained on
+is humans with their own individual
+biases. all aggregated into one big
+bias. But for POTS scan, that bias I
+think to a very strong extent is
+actually useful. If my model that I use
+thinks that Joe Rogan mostly has a
+rightle leaningish male audience, that's
+probably somewhat accurate because in
+the model's training data, most mentions
+of Joe Rogan's podcast habit and forums
+on website, social media posts that can
+be clearly associated with conservatives
+and a mostly male dominated subset of
+internet conversations, right? from the
+names that are in there and all of that.
+It's all just kind of guesstimation, but
+it's pretty accurate. And that bias
+becomes useful data that I can then
+present to potential advertisers and
+guests who want to target that specific
+group or target another group, right?
+That data is instructive. So my question
+really is if that model starts to then
+ingest data that might cause it to
+collapse, to overfitit, to
+overgeneralize, can that data ever still
+be trusted? What happens with data that
+becomes inconclusive? Because now the
+model that previously was so correct
+about this ingested data from other
+sources that are not correct and
+corrected itself to be incorrect. I
+don't have a definite answer to this. I
+guess just like last week when I talked
+about, you know, the second brain thing
+and AI being the big brain that we're
+all training, there is no answer. We've
+always had data quality problems in the
+past, even with human sources, too. AI
+just exacerbates this. And people make
+things up. People lie when they are told
+to figure something out. Today, they
+write studies with hidden agendas and
+they write medical studies. They forge
+economic studies. They've all been
+written with specific agendas at various
+points mostly because people want to
+keep their jobs. You know, there is bias
+in there. AI systems, I don't think,
+have an internal express agenda. They
+just mirror the agenda of the content or
+the people that wrote the content that
+they consume. You always have to think
+about this when you use AI for anything,
+right? There is a mirror in there. The
+goal of an AI is to reply to queries
+with data that seems to make sense, the
+most sense, that appears most credibly
+useful to the person asking for some
+kind of inference result from the AI.
+And this is why I believe we have to
+consciously protect the integrity of our
+reality when we build AI based products.
+Maybe the moment you make AI generated
+information public by doing programmatic
+SEO or even just writing emails that are
+cold outreach to your potential
+prospective future customers or you give
+it to intermediaries who then use it to
+make information public like your own
+customers. you suddenly have something
+akin to what I would call almost like a
+journalistic integrity requirement, but
+on a data level because you're
+describing a reality that can't just be
+built upon a prior virtual assumptions
+of said reality. Like you have to kind
+of anchor it. There has to be a true
+anchoring moment here. And for me, that
+anchoring moment means taking data from
+social media profiles where at least
+until recently mostly humans congregated
+and interacted. So for each podcast that
+I have on the platform, I try to pull in
+all the the YouTubes and the Twitters
+and the blue skies and the whatnotss,
+right? All these audiences where real
+people interact. I take sentiments,
+conversations, follower counts,
+engagement numbers, and I feed them into
+a machine learning system to figure out
+things like audience size and
+demographics. I try to not have an AI
+just come up with it, but I train on
+data that is real and based on actions
+or interactions of real human beings.
+And I think this enrichment has its own
+internal verification requirement
+because it's so valuable. So there's
+something that I still have to manually
+do for a lot of my work. I have to check
+if what I'm trying to build at scale is
+actually true. Everything could be
+completely automated to the point where
+there's a constant stream of searching
+and AI assessment and something, but it
+needs to be verification, which I think
+in the near future, funny enough, is
+something that AI can help with through
+tool use and internet lookup. Like I
+could have a system that tries to check
+all the social feeds and get some
+sentiment for that and get some scoring
+going so that can then be fed into the
+machine learning model for its next
+iteration. I think the key if you ever
+need some kind of verification in your
+AI chain is to make verification an
+isolated step with a different goal and
+intent than just creating the data.
+Right? If you tell AI to create data,
+its internal goal, its mission is to
+create as much credible data as
+possible. Which is why we have
+hallucinations. Like AI just wants us to
+feel like, oh yeah, we have all the
+data. Then it comes up with some random
+stuff. But if your intent shifts to
+verifying data, if you give the AI, the
+agent, whatever you want to call it, a
+task to verify, not to come up with, but
+to verify, then the whole mission
+changes and the system will try to
+validate or even better, invalidate what
+you give it, which if done thoughtfully
+and formally correct by checking
+correctly, can actually be quite useful
+for weeding out hallucinations from a
+prior step and therefore prevent or
+reduce future model collapse data. that
+you would be feeding into the world. And
+this whole situation about AI systems
+kind of falling apart, being really cool
+up to a certain point, but then kind of,
+you know, imploding reminds me of
+something that we've already been
+experiencing over the last couple
+decades. And I think it's called the
+dead internet theory. This theory which
+took 20 to 30 years of internet
+development to be established suggests
+that at this point right now much of the
+internet is just automated systems
+talking to automated systems but acting
+like they're human. But we see this
+constantly on social media, particularly
+around very influential accounts where
+there's automated posting because the
+social media teams, they strategize in
+how to communicate with that audience
+and then in the replies you get equally
+automated accounts complying with some
+kind of agendriven argument, right?
+Either political manipulation or they
+attempt to scam you by, you know,
+linking some weird money thing or they
+are just trying to get engagement to
+build their own thing. It's quite
+bizarre. It's bots talking to bots and
+AI systems of the future will be equally
+under threat of AI input being prior AI
+output. Like AI is talking to AI,
+teaching each other and there being a
+loop that does not guarantee
+improvement. It just means degradation.
+And there's nothing inherently wrong
+with this if it happens. But there has
+to be a layer of human discernment or at
+least humanlike discernment. doesn't
+have to be a person, but just look at
+how we consume media. Like we did at
+least consume media when we went to
+school. Like we all read the classics,
+right? Books that have been around for
+sometimes hundreds of years. And we
+learn similar lessons from each of
+these, but we apply them to our own
+lives in the times that we live in. And
+we find new meaning in classic
+literature. And every generation has
+this. There are books that are hundreds
+of years old, but we all pull something
+out of it. There's value in
+investigating the content of a work in
+the context of our own experience and
+that's contrasted against the context of
+the author's experience as well. So we
+learn something about the person. It's
+unclear to me whether AI systems are
+capable of making that kind of
+discernment like the real human
+individual
+experience contrasted against the
+currently existing large I am a big
+model I contain everything experience.
+But I think it's up to us as founders,
+as technologists, as people to guarantee
+a level of data quality and intentional
+verification. The moment we work with AI
+data for our customers, for everybody we
+built this for, particularly if we use
+it in public to generate marketing
+content, write emails or leave any trace
+on reality, we have to assume that this
+is going to make its way into these
+models of the future. So here's what I'm
+proposing as a framework for building AI
+based businesses responsibly. Mostly I'm
+proposing this to myself. I just want to
+keep to these rules. First, prioritize
+real world enrichment over pure
+generation. Like build systems that
+derive insights from existing human
+created content rather than creating
+entirely new content from scratch. Pull
+in the real data. And second, implement
+verification as a separate distinct
+process. Don't let the same system that
+creates data also validate it. create
+dedicated verification loops with
+different intents and goals as agents or
+whatever you might want to do in terms
+of technology. Just separate them. And
+third, be transparent about bias and
+limitations. When you're using AI
+systems, you have to acknowledge their
+biases up front. You have to understand
+that there's bias built in and then
+explain how these biases might actually
+be useful information rather than trying
+to hide them. Like if you do AI stuff,
+tell people you do AI stuff. Their
+expectations kind of hinge on that too.
+Like if you explain that your AI system
+has some kind of error rate, they will
+not use it for their critical stuff.
+They will still use it and probably you
+will use it for their critical work, but
+they will understand that if there's a
+mistake, well, it was just AI. So that
+bias in AI has to be able to be expected
+if your product is being used. And a
+fourth point, you have to maintain human
+oversight, right? You have to at
+critical decision points have the
+capacity of humanity in there.
+Automation is powerful but human
+discernment remains essential for
+maintaining data integrity at large and
+internally as well. Ultimately, you have
+to consider the long-term impact on the
+ecosystem because you have to ask
+yourself whether your product enriches
+or pollutes the information environment
+and then I believe optimize for
+enrichment because I don't want to be
+part of the people that pollute the
+internet even further or at worst
+pollute the world of AI which has been
+so empowering and so cool to be less
+effective. think we're at this
+inflection point where decisions that we
+make as builders determine whether AI
+becomes a tool that enhances human
+knowledge and capability or one that
+degrades gradually just the quality of
+information available to everyone. The
+models being trained right now might be
+the last generation to learn primarily
+from human created content. What we do
+with them and how we choose to build on
+top of them will determine what the next
+generation of AI systems learn. And it's
+wild, I guess, to think about this on
+the individual level because we're not
+Sam Alman. Like, we're not kind of
+deciding what OpenAI is going to train
+their model data on, but every single
+one of us is putting some of that data
+out there, right? It's not just a
+technical challenge. It's a
+responsibility to the future of just
+information itself. And the internet
+didn't have to become filled with SEO
+spam and programmatic content. That
+happened because of the choices
+individual builders made. and they
+prioritize short-term gains over
+long-term ecosystem health. And look
+what we have right now, right? We have
+the chance to make different choices
+with AI as founders. And most people
+won't obviously like SEO, programmatic
+content, people will do this and they
+will do the AI version of that. But if
+we build systems that respect the
+integrity of information, we can create
+a lot of value and a lot of reputation
+for our users and for ourselves and our
+businesses. The question is not whether
+we can build profitable AI businesses.
+We clearly can and still hard and people
+struggle but AI can be used as a tool.
+But the question is whether we want to
+build them in a way that makes the
+world's information environment better
+rather than worse. And I believe we can.
+It's just we have to be intentional
+about it from the start. And that's it
+for today. Thank you so much for
+listening to the BHA Founder. You can
+find me on Twitter at avidka a v khl. If
+you want to support me in this show,
+please share potscan.fm FM with your
+professional peers and those who you
+think will benefit from tracking
+mentions of brands and businesses and
+names on podcasts out there. Potscan is
+a near real-time podcast database with a
+really, really cool API. We got lots of
+interesting stuff like demographics and
+emails and everything. So, please share
+the word with those who need to stay on
+top of the podcast ecosystem. Thanks so
+much for listening. Have a wonderful day
+and bye-bye.
+[Music]

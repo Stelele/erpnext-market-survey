@@ -1,0 +1,51 @@
+{
+  "topic_id": 150845,
+  "title": "Prepared Report Auto-Enable even after switching to Disabled",
+  "slug": "prepared-report-auto-enable-even-after-switching-to-disabled",
+  "category_id": 26,
+  "tags": [
+    "developer"
+  ],
+  "created_at": "2025-07-29T16:00:14.802Z",
+  "last_posted_at": "2025-07-29T16:00:14.944Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/prepared-report-auto-enable-even-after-switching-to-disabled/150845",
+  "views": 53,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "danjeremynavarro",
+  "posts": [
+    {
+      "id": 475642,
+      "username": "danjeremynavarro",
+      "name": "Danjeremynavarro",
+      "created_at": "2025-07-29T16:00:14.944Z",
+      "cooked": "<p>This looks like an open issue already based on some posting</p>\n<aside class=\"quote\" data-post=\"6\" data-topic=\"124065\">\n  <div class=\"title\">\n    <div class=\"quote-controls\"></div>\n    <img alt=\"\" width=\"24\" height=\"24\" src=\"https://discuss.frappe.io/user_avatar/discuss.frappe.io/tufan_kaynak2/48/62050_2.png\" class=\"avatar\">\n    <a href=\"https://discuss.frappe.io/t/why-is-prepared-report-button-auto-enabled-in-frappe-v15/124065/6\">Why is 'Prepared Report' Button Auto-Enabled in Frappe v15?</a> <a class=\"badge-category__wrapper \" href=\"/c/erpnext/reports/26\"><span data-category-id=\"26\" style=\"--category-badge-color: #12A89D; --category-badge-text-color: #FFFFFF; --parent-category-badge-color: #BF1E2E;\" data-parent-category-id=\"6\" data-drop-close=\"true\" class=\"badge-category --has-parent\"><span class=\"badge-category__name\">Reports</span></span></a>\n  </div>\n  <blockquote>\n    I don’t want to sound pessimistic, but I can’t help it! \nThis should be an option for the users working on cloud to optimize their I/O or processing costs. But, can anyone explain me what is the point in delaying the Trial Balance and Stock Balance reports, even the Quick Stock Summary? \nMy expectation from the developers is to be more user conscious.\n  </blockquote>\n</aside>\n\n<aside class=\"quote quote-modified\" data-post=\"6\" data-topic=\"81242\">\n  <div class=\"title\">\n    <div class=\"quote-controls\"></div>\n    <img alt=\"\" width=\"24\" height=\"24\" src=\"https://discuss.frappe.io/user_avatar/discuss.frappe.io/bkm/48/56774_2.png\" class=\"avatar\">\n    <a href=\"https://discuss.frappe.io/t/solved-how-do-prepared-reports-actually-work/81242/6\">[Solved] How do Prepared Reports \"Actually\" work?!?</a> <a class=\"badge-category__wrapper \" href=\"/c/erpnext/reports/26\"><span data-category-id=\"26\" style=\"--category-badge-color: #12A89D; --category-badge-text-color: #FFFFFF; --parent-category-badge-color: #BF1E2E;\" data-parent-category-id=\"6\" data-drop-close=\"true\" class=\"badge-category --has-parent\"><span class=\"badge-category__name\">Reports</span></span></a>\n  </div>\n  <blockquote>\n    Okay… I figured it out. At least the part about how to get any report to become a “Prepared Report” \nIt didn’t matter how hard I tried, I could not get the instructions in the official documentation to work. \nUntil I read this post: \n\n\n. \nWhen you go to that post and start scrolling across to read the first line of the error, you come to: \n'user' : 'Administrator' \nIt was one of those forehead slapping kind of moments. The official instructions do not make any mention of it, but in order to get …\n  </blockquote>\n</aside>\n\n<p>But it seems like when a report is switched to disabled prepared report it will still be automatically set to enable prepared report after a given time. Below is the snapshot of the code from the Report Doctype that is causing this</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://discuss.frappe.io/uploads/default/original/3X/8/1/81ad96fe39b030ef5444bd43a91e2294d66d4f00.png\" data-download-href=\"https://discuss.frappe.io/uploads/default/81ad96fe39b030ef5444bd43a91e2294d66d4f00\" title=\"image\"><img src=\"https://discuss.frappe.io/uploads/default/optimized/3X/8/1/81ad96fe39b030ef5444bd43a91e2294d66d4f00_2_690x395.png\" alt=\"image\" data-base62-sha1=\"ivbvvlxsfE1tsRSPhRJjbyyY6je\" width=\"690\" height=\"395\" srcset=\"https://discuss.frappe.io/uploads/default/optimized/3X/8/1/81ad96fe39b030ef5444bd43a91e2294d66d4f00_2_690x395.png, https://discuss.frappe.io/uploads/default/original/3X/8/1/81ad96fe39b030ef5444bd43a91e2294d66d4f00.png 1.5x, https://discuss.frappe.io/uploads/default/original/3X/8/1/81ad96fe39b030ef5444bd43a91e2294d66d4f00.png 2x\" data-dominant-color=\"252524\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">850×487 36.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>This means that no matter if you disable the prepared report it will still be switched behind you and will still cause the same issues as why you disabled it in the first place.</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/danjeremynavarro/{size}/80588_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 20,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

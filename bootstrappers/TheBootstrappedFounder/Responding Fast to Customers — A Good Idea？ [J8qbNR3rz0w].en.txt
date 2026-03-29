@@ -1,0 +1,225 @@
+﻿Welcome to the Bootstrapped Founder.
+My name is Arvid Kahl and I talk about bootstrapping,
+entrepreneurship and building in public.
+Today, we'll dive into just how quickly you should respond to customer service requests
+and my experience with that,
+having done it a bit too quickly in the past.
+First, let me thank the sponsor of this episode.
+Now, imagine this,
+you're a founder who's built a solid SaaS product,
+you acquired so many customers and the product is generating
+consistent monthly revenue.
+The problem is, you're not growing for whatever reason,
+lack of focus or lack of skill or just plain lack of interest and you feel stuck.
+What should you do?
+The story I would like to hear at this point is that you buckled down and then
+reignited the fire somehow and you got past yourself and the cliches and you
+started working on your business rather than just in the business.
+You start building an audience and you move out of
+your comfort zone and do the sales and marketing stuff that nobody likes to do.
+In six months, you've tripled your revenue.
+The reality isn't that simple.
+Situations may be different for every founder facing this particular crossroads,
+but too many times,
+the story ends up being one of inaction and stagnation until
+the business becomes less valuable or even worse, worthless.
+If you find yourself here or your story is likely headed down a similar road,
+I can offer you a third option.
+Consider selling your business on acquire.com.
+Capitalizing on the value of your time is a smart move and acquire.com is free,
+free to list and they've helped hundreds of founders already.
+So go to acquire.com and see for yourself if this is the right option for you.
+Now, let's talk about customer service.
+I used to think that responding to customer service requests as soon as
+possible was an unequivocally good idea.
+After all, who doesn't want to show their customers that they truly,
+truly care about them, that they would drop everything to help somebody in need.
+But this dedication to responding quickly comes at a hefty price,
+a very, very hefty price and I paid that price in the business that I ran back in a day.
+Today, I will dive into the pros and cons of super quick customer service responses,
+what software tuning has to do with it and how you can approach balancing
+response speed with good business sense.
+Because the balance between reacting quickly to a customer service increase and
+dealing with this myriad of other business issues that you have to do as a founder,
+that isn't something that new founders think about or think about much when they start.
+I certainly didn't.
+When I co-founded Feedback Panda, that must have been around 2017,
+and I was responsible for all the technical questions that our users submitted through
+email and our in-app chat widget, I quickly prided myself on getting
+my average response time during the day to under 30 seconds, sometimes under 10 seconds.
+It was crazy. It became a game to me.
+How quickly can I turn the notification that I got on my phone into a message to the customer
+through their intercom or whatever they kind of use, a chat bubble or an email.
+I wanted to wow our customers and show them that they were my number one priority.
+And that worked.
+They were certainly surprised by it. And many times they told me that nobody had ever responded
+so quickly to them before when they talked to customer service.
+They felt special for being cared for with such urgency.
+At least most of the time after I assured them that I was real, because most customers
+who got this lightning fast reply thought I was just a bot, because in their minds,
+nobody responds this quickly ever.
+And often I would have to prove that I was actually the founder of the business, which
+was also something people didn't expect.
+Nobody talks to the founder.
+They talk to some customer service agent.
+And in a way, my initial speed would cost me several minutes because I had to establish
+that I was the real deal all the time.
+It's ironic to think that had I waited a few minutes, people wouldn't have been so skeptical.
+It all boils down to expectations.
+And as much as I did more than what people expected, my actions looked fully automated.
+That's something a machine would do.
+And I'm a huge automation fan.
+I believe that good documentation and originating within that documentation, automated processes
+are central to building a valuable and sellable business.
+Yet I was doing all of this manually.
+I would drop whatever I was doing to serve the customer immediately.
+And it was a few months into building the business that I noticed that I had betrayed my actual
+priorities as a solo technical founder here.
+I was supposed to build the product, right, to stay in my flow state and work on these
+complex technical implementations that would deliver massively valuable features to every
+customer.
+But here I was jumping up from my code base to help a single customer figure out if they
+should be using their Facebook or Google or Twitter to log into our software.
+I deprioritized my high leverage impact on all customers to prioritize a single customer's
+problem, which often turned out to be pretty mundane.
+This is the Facebook Google thing is a pretty common example.
+I devalued my own time by not prioritizing the things that would improve everyone's experience.
+And sure, this can and does work when you're just starting out, when you're dealing with
+a very shaky prototype that breaks a lot, but you will quickly have to drop this once your
+customer base grows.
+This is quote by Spock from Star Trek, The Wrath of Khan, "The needs of the many outweigh
+the needs of the few."
+And for any low touch software business, this is a core tenant of successful operations.
+You should focus on implementing things that really serve everybody, not just one person,
+which is something that I realized once my developer productivity tanked noticeably.
+I kept doing this for way too long and being constantly interrupted caused all my non-customer
+service work to suffer.
+Coding, product management, marketing, whatever I was working on that required me to build
+this mental representation of a complex plan or concept in my mind, a single intercom ding,
+like the little sound that it makes, could destroy hours of work.
+And it caused my mental health to suffer as well.
+I focused on responding to those intercom notifications so much that I developed waves
+of anxiety when I heard this intercom ding.
+I still have this.
+More than four years now after selling the business, the sound of a chat bubble brings
+it all back and causes my heart rate to rise too.
+This shouldn't be normal, right?
+So maybe optimizing for response times for customer service is not the best idea, at
+least not exclusively, and at least not doing it all by yourself.
+Apart from hiring a customer service rep, which is where this goes anyway, there's a
+way to have your speedy cake and eat it too.
+You might as well embrace the bots that people think you are.
+Your first layer of defense can be tools, and I think they should be tools, because
+tools are always awake and they can respond faster than any human agent.
+And your customers will appreciate that.
+They actually like this because they don't want to talk to a person.
+That's not why they reach out to you.
+They want their problem solved.
+And ideally, you don't even have to be involved because most people prefer to solve their
+own problems all by themselves instead of having somebody tell them how to solve them over
+chat.
+It's a self-confidence builder to be able to figure things out with a little help.
+And if that help is just a video or a few bullet points, well, ever the better.
+Immediate self-service trumps the late hands-on help almost every time.
+And self-service can be very helpful, and I would suggest it to everybody building a
+self-service, particularly when you're good at guiding people through the use of multimedia.
+I have found, in my experience, that people love founder-narrated video walkthroughs, even
+if it's just a few clicks on the UI of your product.
+A demonstration that's easy to follow is something that most people prefer to being hand-helped
+to success.
+Try using images or better video as much as possible when you build your self-service knowledge
+base.
+And here's a tip from my experience with Feedback Panda fulfilling that knowledge base.
+Whenever you solve a problem manually through chat or email for the very first time, and
+then you expect it to happen again for somebody else because it's something that they might
+run into, document it right after you help that person.
+Take the 15 minutes you need to record a Loom or VidGuide video and just integrate it right
+into your help desk.
+Write a few paragraphs, too, to make the solution text accessible and indexable, and you're done.
+Now you have it in your knowledge base and you're able to pull it out.
+You're done for now and you're done for the future because AI tools make it self-service
+particularly easy now.
+They have access to your full documentation and they can automatically suggest suitable
+articles within a second of a customer asking any question.
+And if nothing can be found, these tools can always escalate the conversation to a real
+human being, likely you.
+So you might want to wait even with that.
+Chat GPT-based systems can hand-hold your customers through multi-step processes while
+answering their questions at the same time.
+It helps to have a very elaborate knowledge base for that particular purpose.
+And that's why it pays off to write the article immediately after a solution.
+All future occurrences of that problem will be something your customers can solve themselves.
+I highly recommend it.
+And I know it's time you don't spend on other things, but I would spend it on this.
+Just one warning and a big one here.
+When you use software tools, don't act like your bots are people.
+Be honest and tell people that they're being helped by a smart documentation tool.
+The moment you lie to your customers about who they're talking to, you play with fire.
+People are smart and they will never trust you or your business if you tell them that
+the obvious robot is a real boy.
+Don't do that.
+You don't need them to think your tools are people.
+Consider what your customers actually need when they reach out.
+They have exhausted their capacity to either solve their problem by themselves or find a
+solution that gets them there.
+They probably googled already and they clicked through every part of your software they could
+find trying out everything before they had to jump over the hurdle to reach out.
+Their problem is critical enough to reach out to you and warrant risking this confrontation
+with a person, with a company rep.
+They don't want to talk to people to begin with.
+What they want is workable advice as soon as possible.
+The way they get there matters very little to them in the end.
+What matters is that their problem gets solved.
+It took me a long time to understand that my customers also wanted something that I
+was actively working against by responding as fast as I could every single time.
+They want my business to succeed because they have a business that helps them succeed in
+my business.
+In retrospect, my customers felt more empathy for me than I had for myself back then and
+for my priorities.
+I was scared to leave a bad impression.
+So I overcompensated and that was not a good idea.
+The way out is to set realistic expectations around replies.
+More for yourself than for your customers really.
+They have a much higher tolerance than what you might think.
+They can wait a few minutes.
+In fact, they probably got up and grabbed a coffee right after sending that customer
+service message.
+They don't even see your thing, your 10 second reply for the next three or four minutes.
+Just optimizing for response speed is reductive for you and your business and it can actively
+harm your entrepreneurial impact.
+The exception if you're solving a particularly critical problem.
+But for that you need designated customer service reps that are always on call anyway.
+It's not a founder thing at that point.
+But if your product doesn't need real time answers all the time, a few minutes, a few
+hours delay won't hurt anybody either.
+This is something you can even ask your customers about in a follow up message once they get
+done with what they asked you to help them with.
+How quickly did you actually need that answer?
+Don't jump the gun.
+Consider that as a founder your customer service is just one of the many many hats that you
+wear.
+We all want our customers to be king, sure.
+But a quick reply isn't the only way to do that.
+Another way?
+Building products that need fewer customer service interactions.
+That's another way.
+Or focusing on building features that save your users so much time that they can then
+go read that documentation you wrote thoroughly and help themselves.
+That can work too.
+So when that chat bubble dings the next time, consider that what you're doing right now
+might be the more important thing to do than immediately reply.
+And then once you're done, help your customer.
+And that's it for today.
+Thank you for listening to the Wood's Up Founder.
+You can find me on Twitter @Arvidkahl, A-R-V-I-D-K-A-H-L.
+You'll probably find me on Threads as well if that is still around today.
+You'll find my books and my Twitter course there as well.
+And if you want to support me on the show, please subscribe to my YouTube channel, get
+the podcast and your player of choice and leave a rating and a review.
+That's the most important stuff.
+The most impact you could potentially have on my life is by going to rate this podcast.com/founder
+and pick the platform that you use to leave a rating and a review.
+A kind one would be nice.
+Any of this would help the show.
+And thank you so much for listening and have a wonderful day.
+Bye bye.

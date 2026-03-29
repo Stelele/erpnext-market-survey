@@ -1,0 +1,547 @@
+﻿Hey, it's Arvid and this is the
+bootstrap founder.
+[Music]
+I was reading Brandon Sanderson's latest
+novel, Wind and Truth, when I came
+across a sentence that stopped me cold.
+The sentence was, "A stronger current
+makes for stronger fish." And I thought,
+"Wow, that is it. That's exactly what
+entrepreneurship is. We're constantly
+finding these currents that either help
+us, they facilitate what we want to
+accomplish, businesses we want to build,
+the lives we want to create, or they
+oppose us. They're trying to sweep us
+into more dangerous waters. These
+currents change all the time. They vary
+in strength, and that depends on where
+you are in your journey. And I guess
+they're mostly invisible until we learn
+to actually feel them. And somebody on
+Twitter asked me what my top three
+currents were after I shared this
+thought and this quote. And it turned
+out to be quite a revealing exercise
+going through this trying to assess what
+I'm exposed to, what I'm dealing with,
+and how I'm navigating these forces. So
+let me share with you today what I've
+encountered and discovered about the
+currents that are pulling at me as I'm
+building Podcan. The biggest current
+that I felt over the last year and a
+half as I've been building the software
+business is the rapidly changing
+technological landscape. As a software
+entrepreneur, I think we're just
+permanently exposed to new technologies
+here. And there's always something that
+you might want to learn, always
+something that could give you an edge if
+you figure it out or leave you behind if
+you don't. And when I was a salaried
+software engineer back in the day, it
+was so much easier to get really good at
+the craft of engineering. All day long,
+I was dealing with that one particular
+tech stack and was optimizing my
+approach to it, understanding it better,
+implementing everything that needed to
+be built in that stack. But now as a
+founder, there's this fleeting nature of
+projects and the volatility of early
+stage software businesses. That means
+pivoting from one stack to another is
+actually quite easy. And it's not just
+easy, it's often necessary. And speaking
+of navigating new technologies and
+finding the right tools for growth, if
+you're an app business and you're
+seeking growth channels and strategies
+beyond traditional app stores,
+paddle.com is sponsoring today's
+episode. And they're offering something
+really valuable, a five-part series
+filled with actionable strategies for
+app developers who want to drive revenue
+beyond the app store, which is always a
+good idea if you think about the walt
+garden nature of these things. It's
+essentially a blueprint that they
+present with like modern web
+monetization for app companies. This
+series is limited. So if this sounds
+like something that could help you,
+register now at paddle.com to secure
+your spot. Link is in the show notes.
+Now back to those technological rapids
+that we all face.
+[Music]
+Think about it. When you're building a
+business, you might need something like
+time series data or some kind of vector
+database that may not be as established
+as a technology, but is perfect for
+building with new tech, particularly
+embeddings, vector stores, the AI stuff
+like rags and all of that. You might
+need to learn a whole new language for
+communicating with your database and new
+ways of interacting with data that prior
+to this you probably wouldn't have cared
+about, like a graph connection between
+data, you didn't care. you will just use
+the regular old database and a regular
+old approach to building software. But
+that's not happening anymore. And I
+think the fact that we are looking at
+all these other things that prevents
+mastery that is a big big problem when
+you're constantly incentivized to switch
+tech to learn new tech to implement new
+technology into your business
+immediately when it appears because you
+need to stay on top of what the early
+adopter crowd is interested in because
+that's who you're building for and they
+want new tech, new ways of dealing with
+tech, new ways of presenting data, new
+ways of accumulating data. It makes it
+very hard to become really good at any
+one thing. And this is particularly hard
+when you're in the early stages of
+building a business. You're not only
+exposed to all the potential fancy
+technology, and I don't just mean
+software stacks. I mean things like AI,
+agentic coding, VIP coding, things that
+build software for you, just new things,
+but you just don't know about all of
+these things. You don't know what this
+technology is really like, what the
+nuance is, how exactly it works, and how
+you can use it in an optimized high
+efficiency way. So, how do I resist
+this? Personally, by choosing really
+solid fundamentals for my own business
+adventures. Always have been doing this.
+When I recently built the Podscan ideas
+vault, which is a layer of software that
+started on top of Potscan's web hook API
+that constantly extracts all kinds of
+business ideas from hundreds of podcasts
+all over the world. I needed to build a
+new data storage system for that. And
+there I was thinking, what am I going to
+use? and I kind of fell back into I'm
+just gonna go with what I know. I'm
+gonna go open up a possql database. It's
+going to be maybe a reddis cache and
+that's it. I'm not going to go into
+document-based databases. That could
+have been something because there's a
+lot of JSON data or even like a
+dedicated vector storage because there
+will be embeddings. I'm going to choose
+posgress because it kind of has this
+built-in. You can handle JSON well in
+Postgress. You have PG vector which is a
+vector storage that you can do these
+vector calculations in. But in the end,
+it's always going to be a relational
+database. And that's something that I
+have like 20 years of experience with at
+this point. And it was a pretty good
+choice because it allowed me to just
+build the thing that I wanted to build
+and not feel compelled to yet again
+learn a new thing. Like constantly
+learning new things all the time just
+because we're trying to build this extra
+5% efficiency. It's really not worth it.
+So my recommendation here, and this is
+very personal, but that's how I've been
+doing it. just go with technology that
+hasn't changed based on hype, right?
+That isn't just there because people are
+hyping it up. You should be making this
+choice based on the effect and longevity
+of a piece of technology. If it's been
+around, if it's been safe, then it's
+also a safe choice to make. If you're a
+Rails developer and you want to build a
+new business and you think you might try
+something else, just default to Rails.
+Please just use what you know. And even
+though you could go into PHP and use
+Laravel or go into JavaScript, use
+Next.js or whatever, have fancy new
+automated complicated build systems that
+are super weird. It's all great. It's
+all wonderful. It's great that this
+stuff exists, but could well be a thing
+if you wanted to use it. But you don't
+have to choose this technology because
+it's there and because everybody else is
+kind of using it. You should choose the
+one that you already understand that
+helps you build the thing you want to
+build. And this makes it easier.
+Particularly if you look at how AI
+coding is such a normal thing for most
+people now, right? Even though people
+don't always use agentic tools, they
+will use autocomplete. That's always
+been a thing, I guess, IntelliSense and
+all that kind of stuff. But knowing if
+an autocomplete suggestion is good, if
+it's something that is going to benefit
+your project or break it, well, that is
+only possible if you have an
+understanding of the underlying
+framework and system. For that, you
+should always go with the thing you
+know. Because if you try to autocomplete
+and prompt your way to a stable piece of
+software, you have to kind of rely on
+the AI's understanding of stability and
+that might not be what you need. And if
+you don't know anything about coding, if
+you're just going to start learning the
+technology, learning to code while
+building a business, well then going
+with a widely adopted and widely popular
+system like Laravel, PHP or Ruby on
+Rails probably is a good idea. The
+reverse Lindy effect is real for all
+kinds of new technology. Technology that
+hasn't been around for a while, that's
+rather new, has a high risk of not
+sticking around for longer. Because the
+Lindy effect, its inverse, says that if
+a technology has been around for a long
+time, it will likely stick around for
+equally as long for many reasons, right?
+The inverse of it means if it's rather
+new, then it's volatile. You might run
+into software that just stops working
+after a while because it just didn't get
+the traction people thought it needed.
+Particularly in the VIP coding universe,
+this is probably going to happen. I
+think we saw it with what was it?
+Windsurf that got acquired and then all
+kinds of weird things happened. Now
+that's not necessarily exactly VIP
+coding. It's just AI assisted coding.
+But tools like lovable and bolt they are
+fighting it out. There is an arena and
+only a couple of those are going to
+remain. So if you have a project on any
+of these, you better understand how to
+self-host this or get it hosted
+somewhere else as a backup. These things
+are really new and they might be gone in
+a year from now. Now that's current
+number one. Technology is weird. It's
+pretty much what it is. Technology is
+fast. I can't stop it and it happens to
+me. So I have to deal with it. The
+second current that I feel for myself is
+both a blessing and a curse. Software
+engineering is being heavily
+commoditized. It's so much easier to
+build software now. So much faster to
+create working monetizable prototypes
+and clones of stuff. And this has been a
+boon to the indie hacker community. Solo
+founders can start small niche
+businesses like never before. Like get
+them into a point where the prototype
+can be monetized very early. But here's
+the undertoe to this. It's just as easy
+for anybody working at a larger company
+with deeper pockets to build the same
+thing using the same technology. Your
+idea can be copied, can be duplicated,
+and just outexecuted by somebody with
+more time or resources. The red flags in
+B2B software building are still there.
+People in those companies, they need
+clearance for projects. They need to
+write specs and build integrations or
+whatever, but the barrier to entry to
+even get started with this has dropped
+dramatically. We see this in
+acquisitions too. Like acquisitions of
+software businesses, they just take much
+longer in due diligence because for most
+companies, it's buy or build where in
+the past it's just been do I buy or do I
+not buy. Now they can for the same
+amount of money likely build a similarly
+well-designed piece of software. At
+least they think so. And that impacts
+prices, that impacts negotiation. So
+that is a real thing. It's all being
+commoditized. This makes bootstrapping a
+software business less of a solid
+defensive mode than it used to be in the
+past. Unless, and this is crucial,
+unless you build distribution and a
+public brand around it, you're going to
+have a problem. And that leads me to my
+third current quite directly. The ever
+growing need for attention in this
+increasingly crowded ocean. Now that's a
+current that both pulls me along and
+holds me back depending on where I look.
+The biggest problem for any founder is
+distribution at this point because
+execution is easy and idea is kind of
+easy too. You can have AI get you very
+far with both of these. It is hard to
+find actual human customers for your
+projects. Now, if you don't have the
+marketing dollars to just spend on paid
+advertising or influencer marketing,
+once you have that kind of money, that's
+great. That works, right? It really
+works. But you get solid leads from
+spending money. That's the rule. And if
+you don't have that money, you kind of
+have to do it organically. You have to
+build a brand in public. Share your
+business journey in public. Attract
+people. And building in public is still
+the cheapest way of getting attention on
+yourself and your business. finding
+those first couple customers, finding
+partnerships and evangelists, all that
+kind of stuff. But it is marketing
+and that's where the strongest tension
+is for me. I want to stay authentically
+myself as a founder. I want to
+communicate very authentically what my
+journey is as I build my businesses in
+public, but I also know that every
+single post I make has a marketing
+angle. So, let me share how this
+attention currently plays out in my
+daily routine. Every day before my
+newsletter goes out, the Podskin Ideas
+newsletter, I share one or two ideas
+from it with commentary on Twitter. And
+I've been doing this for the last couple
+weeks. If you follow me on Twitter,
+you've probably seen it. I want people
+to know that first off, there is a
+newsletter that might be interesting to
+them and this is what they might get.
+And it's a marketing activity to share
+what the newsletter does every day. I'm
+quite aware of this. So, it feels
+performative on occasion to post about
+this. Every day at 8 a.m., my newsletter
+goes out and then I check, okay, what's
+in there? What's interesting? What could
+I say about this? And as much as I
+actually like to see all these ideas and
+during the day, I just check it out
+because I'm curious when I get some kind
+of insight into what's being talked
+about in the world that reaching out on
+Twitter, that's still marketing. So
+being a creator on social media will try
+to remain an authentic human being. That
+is a current that sometimes pulls me
+towards my goals and sometimes
+perceivedly away from them. Right? It's
+hard to do marketing and stay authentic.
+And it's hard to stay authentic and do
+marketing if you're not capable of kind
+of unifying these two. And another
+current that I feel very strongly here
+particularly in our community of
+founders online is being a consumer of
+social media. I suffer a hard time
+maintaining a firm grasp on my own
+journey when everybody else's journey
+just seems to be flashing much more
+brightly around me. Social media is
+highly selective and people share the
+good stuff. They rarely share the bad
+stuff. So what we see is kind of this
+echo chamber of positivity. Not
+necessarily toxic positivity, but it's
+selective positivity. People share, oh
+my MR went up. That's wonderful. they
+get a screenshot and you know the graph
+goes to the top right here's that and
+look at this this is how I did it I
+don't really see too many people sharing
+when their MR goes down and with the
+screenshot that comes from that people
+do that occasionally but it's like a
+what is it 9:1 relationship right I
+don't really get to see them that often
+because people don't share them so what
+we do see is that everybody or mostly
+everybody is doing well and you just
+don't get to see the struggles because
+they're not posted and my own reality
+where every day the MR graph goes up and
+down as well. Like there's always some
+movement either way. It's a 50/50
+chance. Well, that's not represented in
+the social network around me. And if
+it's not represented, I cannot perceive
+it accurately. And if I can't perceive
+it accurately, my own journey is colored
+by a distortion. And it doesn't even
+have to be envy or jealousy for this to
+affect you. It's like Plato's cave.
+We're looking at shadows on the wall.
+What we see are mirrors, silhouettes on
+the wall and the reality is something
+behind us that we don't necessarily get
+to see because we only get to see the
+wall and quite literally the Facebook
+wall and the Twitter feed, right? It's
+very selective. This kind of discrepancy
+is a strong current that I feel can
+often motivate me because I see other
+people doing well and I think I can do
+that too. I want to get there too. What
+do I need to do? And then I do it. But
+it can be disheartening in moments of
+doubt and moments of perceived failure,
+lack of success. It's a strong feeling
+when it seems like everybody else is
+doing so well. Final current that I
+found, and this is particularly hard, is
+the pull of work life balance. I try not
+to spend all day working. I've been
+focusing more on balancing my own mental
+stability, which I derive from being
+with friends, family, from reading, from
+having hobbies, playing with my dog. Yet
+combining the lack of technological
+stability with the pressure of social
+media presence, well, that makes me want
+to go and spend more time to reach my
+goals and less time away from work,
+which is also a goal, but one that isn't
+as directly perceived as like sitting in
+front of a computer. So, when I don't
+work, there's always a nagging thought.
+You could be spending time working, even
+though it wouldn't be necessarily
+productive or even helpful, might be
+distracting just working for the sake of
+working. But we all understand now that
+you don't measure the quality of a
+software engineers by lines of code that
+they have written, right? You measure by
+features implement that bugs fixed,
+efficiency gains, maybe sales made with
+the product. You don't measure output,
+you measure impact. Yet there's still
+this output ccentric mindset and I
+suffer from this too. This current that
+says more time working equals better
+results or maybe equals a higher chance
+at better results. It's kind of how we
+massage it into our brains even though
+we know that too much work is actually
+detrimental. And that's a current that
+I'm trying to swim against. So it's just
+hard, right? After 25 years of sitting
+in front of a computer, it's just so
+easy to fall into the same routine,
+check things, try to improve things a
+little. It's really hard to step outside
+and not do that. Your currents are
+probably going to look a little bit
+different from mine. There might be
+overlap and you might have the same ones
+but feel pulled in a different
+direction. You might view these forces
+maybe more benevolently or more
+malevolently. But here's what I think is
+important about all of this. It's just
+realizing that these currents actually
+exist because they're often internally
+validated but they're mostly external
+forces that are acting upon you. People
+will share their MR graphs and stories
+with or without you. It doesn't matter.
+rapid developments in AI and frameworks,
+that's not your fault. The fact that
+this causes more competition, also not
+your fault. The fact that you picked an
+industry that now sees for some reason
+many people trying to build in it, that
+is also not your fault. These are
+external forces, but we make them
+internal when we allow them to sweep us
+away without even knowing that we're
+moving. The important part is to
+understand that these currents exist to
+make them visible to make them present
+so that we can recognize them as
+currents and not as our own failings. We
+shouldn't despair when we get pulled in
+the direction a little bit too much.
+That's just what entrepreneurship is.
+You're constantly torn from one side to
+the other and you have to make different
+strokes to stay swimming where you want
+to be. So, a stronger current does make
+for a stronger fish by the virtue of you
+reacting to it. But only if you know
+that you're swimming. Only if you're
+aware of the water that you're in. So,
+once you recognize the currents, you can
+choose swim against them, swim with
+them, or maybe find the calm eddies
+where you can rest and reassess. Kind of
+take yourself out of it. You don't have
+to constantly follow all tech. You don't
+have to always try to work more or less.
+You can just like set guidelines and act
+on them for a bit and just see what
+happens. The currents will always be
+there. They change with the tides of
+technology, market forces, social
+dynamics, but awareness about them.
+That's your compass. And deliberate
+action. That's your stroke, your swim
+stroke. So, take a moment and feel the
+currents pulling at you. Maybe name them
+so you understand them better. Then
+decide how you want to navigate them.
+Because in the end, you're not just
+trying to survive these waters. You're
+trying to get somewhere, right? to
+trying to build something meaningful and
+knowing the currents is the first step
+to charting your course. Thanks so much
+for listening to the boots of founder.
+Find me on Twitter at Avika Avid KHL. If
+you want to know what everyone's saying
+about your brand on over 3.8 million
+podcasts, podscan.fm tracks mentions in
+near real time with a powerful API that
+turns podcast conversations into
+actionable data. And if you're hunting
+for your next business idea, get them
+delivered fresh from the podcast world
+at ideas.podscan.fm FM where an AI
+extracts the best startup opportunities
+from 500 plus hours of expert
+conversations every day. Share this with
+anyone who needs to stay ahead of the
+conversation. Thanks for listening. Have
+a wonderful

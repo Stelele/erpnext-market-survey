@@ -1,0 +1,454 @@
+﻿Hey, it's Arvid and this is the
+Bootstrap founder. [music]
+There's something deeply satisfying
+about watching the seeds you planted a
+year ago finally break through the soil
+figuratively. Even though I do enjoy
+growing my own tomatoes, today I do want
+to share a few stories from Potscan.
+It's my podcast intelligence platform
+about what happens when long-term
+investments start compounding. Some of
+those took 18 or so months to
+materialize and others became possible
+only because I embraced tools that I
+thought I'd never touch. So, this is a
+bit of a year in review, although
+slightly delayed and probably
+incomplete. But, I think there are
+lessons here that apply to any founder
+playing the long game. Maybe you are
+going to encounter a technology or a
+thought that you may not have thought
+about before. [music]
+Now, let me start with something that
+took real patience because that's the
+hardest thing to do as a founder and
+that was our programmatic SEO efforts
+for Potcan. for a solid year and a half.
+I wasn't sure that they were working too
+well or at all, particularly in the
+beginning, but that's kind of obvious
+because things just take a while. And
+obviously, each new page, particularly
+if it comes with a FM TL like pod scan,
+has some work to do before it's
+recognized as a trustworthy location.
+But that seems to be happening now. And
+more and more people are linking to
+particular shows or particular episodes
+directly using the potscan.fm link. And
+each of these backlinks from major
+newspapers like Wall Street Journal and
+Forbes and other places wherever a
+podcast is mentioned. Each of these
+backlinks increases the quality of the
+domain. the domain rating goes up and
+that obviously means better search
+result placements, higher trust value
+with these anti-PAM systems and
+generally people picking our page to
+link to when they need to reference a
+podcast. Also, it means a lot of people
+email me trying to place their weird
+spammy advertising stuff on my blog, but
+that's a different story. A good domain
+rating gets attention, the good kind and
+unfortunately the bad kind as well. But
+here's what I find particularly
+interesting for my business from the
+kind of business owner perspective.
+Podcasters themselves, like the people
+running the shows, are now putting links
+to their Podskin page into their show
+notes. And some of them, not all of
+them, but some of them have claimed
+their show on the platform as well.
+Others are just collecting links to
+every analytic service out there. Not
+exactly sure why they do it, but I'm
+glad they do. Either way, the name has
+become almost synonymous with podcast
+analytics in certain circles, and that's
+exactly what I wanted to accomplish.
+And this whole SEO effort has proved to
+be a very reliable lead generator. More
+and more of my prospects find their way
+through what is effectively userenerated
+content, the podcast transcripts
+themselves. We just host the content. We
+facilitate already pre-generated content
+on the platform by hosting transcripts
+for shows that other people recorded.
+And for that reason, it's a kind of
+cheap way of generating unique content
+or at least like facilitating the
+discovery of that unique content. Like
+we don't generate it, it's somebody
+else's work, but we point at it so
+people can actually listen to the show.
+And because it's genuinely useful
+content, all these new podcast episodes,
+it is found by people with a vested
+interest in that particular topic. So
+they want to find out more and they
+discover Potcan, they explore the other
+features and ideally they become
+customers. Obviously competitors in this
+field have understood this too and have
+similarly high rated domains but just
+from all the links that they've been
+able to collect over a longer time than
+Potcan has been around. So that comes
+with the territory of being a newcomer
+in a field. But the compound effects are
+real and they extend beyond just search
+rankings. Domain age also helps with
+email deliverability scores. The
+reputation builds up in multiple
+dimensions simultaneously and I like it.
+It's nice. It's nice to see that this
+effort is working. One thing that really
+helped apparently was putting a
+embeddible player into the system. You
+can link to any podcast episode on
+Podcan. You can link to any podcast for
+that matter using a player that you can
+embed on any like HTML based website and
+it will just start playing. I kind of
+felt inspired by the embedible player
+that the Transistor.fm FM platform has
+that I host my own podcast, this very
+podcast on and I thought, hm, I would
+like something like this as well and
+then I built it and then people actually
+use it and play it and embed it. So,
+it's kind of nice. So, that helps to
+have links, right? Because now the embed
+part is linked to from other pages.
+Really cool. Another investment that's
+been paying off has been our integration
+with third party data, particularly with
+open third-party data. We have been
+integrated with OP3. That's an open
+standard for transparent podcast
+analytics. The idea behind OP3 is as
+brilliant as it is simple. You can just
+use it as a prefix for the URL to each
+file that's being downloaded by a
+podcast client. Right? Imagine your
+files live on I don't know
+transistor.fm/youodcast
+name/ episode3.mpp3.
+So now you just put http
+colon/op3.devs
+defe slash in front of that link and you
+have a link that starts with OP3 and
+once it gets there they do the analytics
+magic and then they forward it to your
+old URL and then people get the file
+from there but they track the actual
+download by going through that system.
+It's a pretty wellestablished system.
+It's all open source like you could set
+this up yourself if you wanted to. It
+costs a couple hundred bucks a month. I
+think it's really not that expensive.
+Even though it tracks podcasts with
+millions of downloads, it's really,
+really cool. OB3 collects metrics about
+how often people download episodes, how
+many of these people are real people
+versus bots, where they come from, when
+they download, how much of the file is
+downloaded, all of this information. So,
+we've built an integration that
+synchronizes OP3 data with our existing
+database. And relatively few podcasts
+actually use OP3, but the ones that do
+obviously benefit from us showing their
+real track analytics on their Podscan
+page. But here's where it actually gets
+interesting. We've been collecting so
+much data through OP3 now that we've
+started feeding this data into all our
+machine learning systems and the
+estimation models that we use for
+audience sizes and download numbers. So
+for podcasts that may not have as easily
+traceable information, like most shows
+out there that are completely opaque and
+you don't really know much about them,
+our estimates are now more accurate
+because they're calibrated against real
+data by podcasts like these that we can
+fetch. And this integration benefits the
+user because they see real data for real
+podcasts and it benefits the platform's
+data fidelity overall because it
+stabilizes our estimates across the
+board. And that kind of improvement that
+just takes time to materialize and data
+to ingest, but once it does, yet again,
+it compounds. Was a good idea to pull it
+in. It's just fun because the system
+gets better and better over time because
+more data flows in and better data can
+be used for training. It's just fun
+because you know 2 months from now the
+automation will make sure that the
+training data is even better that we can
+train against. Good times. Now, here's a
+story about how my own work as a
+founder, as a developer, has changed
+over the past year. About 6 months or so
+ago, I really needed to migrate our
+search system. And search is pretty
+massive for Potscan. Like, we try to
+search in millions now dozens of
+millions, almost 50 million podcast
+episodes that we have transcripts for
+for just keyword mentions. It's quite
+the system. So we had to move from a
+setup that included a lot of handcrafted
+Laravel code and Miley search which I
+should say is still a very very great
+search engine for full text search at a
+certain scale but we had to migrate to
+an open search cluster maintained and
+scaled autonomously on AWS.
+The migration obviously had a trade-off
+because Mighty Search in itself is
+incredibly fast. It's one of these
+search engines that does this kind of
+type ahead search really really well,
+right? It has sub dozens of milliseconds
+response speed. It's all in RAM. It's
+super fast. It's great. And we sometimes
+would get results back even under three
+digits in milliseconds, fraction of a
+second for a complicated search. Now,
+open search, which is kind of elastic
+search in AWS's own vernacular, is still
+very fast. It's definitely sub-second,
+but it's not quite as lightning quick as
+the other one. But what we gained was
+reliability and capability because
+Mighty Storage started to struggle with
+ingestion of data cuz it was just
+getting so big. And I was working with
+the team to try and get it to scale
+better, but we were outscaling the
+efforts of them building better scale
+into the tool. It is an open source
+product, right? What can I expect? But
+open search is such a well- tested and
+wellestablished system. It can handle a
+lot of data really well. And because it
+has the elastic search query DSL, the
+domain specific language for expressing
+these search queries of any complexity,
+it's highly configurable. We can get
+exactly the right results in exactly the
+right order for any possible request. So
+yeah, that's where we went. Here's the
+thing though. 2 years ago, I would never
+have touched this. I probably would have
+wanted to try another kind of scaling
+instead than going to an elastic search
+kind of thing. I I was burnt by the
+complexity of elastic search kind of a
+decade ago. Must have been like yeah
+2015 2016 I experimented with that
+stuff. It was horrible. It always
+freaked me out. It was such a complex
+and hard to compose way of quering a
+database. That's actually one of the
+reasons that I initially went with my
+search. It had more kind of an HTTP
+request style of search instead of this
+deep nested JSON object stuff. But what
+I found was that now we have very
+capable agentic coding agents out there.
+And I could just tell the agent what I
+want the query to do and what I want the
+result to look like. And the agent
+having been trained on millions of
+documents, millions of lines of code
+containing elastic search and open
+search queries. Well, that agent
+understands what they do and what the
+results should look like and that is so
+much more capable than I am of crafting
+not just the right query. I'll get there
+at some point, but also building the
+logic that would compose such a query
+reliably and testably. And this has been
+the game changer for me. I've been a big
+fan of agentic coding. just listen to
+the last 10 or 30 or 40 episodes of this
+podcast if you want any evidence of
+that. But the quality of these systems
+isn't just the code they write. It's
+also in the code I don't have to write.
+And maybe more importantly, the actual
+value is in the code I would never have
+written or could never have written or
+never would have wanted to write, but
+they can. And this particular hindrance
+of mine where I wouldn't even have
+touched elastic search would have kept
+me from building the system that is now
+running extremely smoothly. extremely
+reliably is highly customizable and
+powers not only search but now also
+internal reporting and analysis across
+the platform. I just would not have done
+it if I hadn't been able to tell the
+agent to do it for me. [snorts] So big
+big margin improvement over what the
+years before would have made impossible
+for me to build. migration also gave me
+a reason to rework the filter and search
+interface of pot scan which has been
+received very positively. It's more of a
+professional tool now than a quick
+lookup tool because I was trying to kind
+of throw this sub millisecond query
+speed thing into like a professional
+search mask and that never really worked
+well. So if I ever wanted to build a
+simpler quick lookup experience, I can
+then layer this on top with a simple
+query and a solid caching system, which
+is very nice at this point. It's much
+more flexible. And outside of search,
+I've been building a lot of what I call
+semi-automated systems. And I talked
+about this kind of automation before.
+The first 10% of the process is me. Then
+there's 80% AI, and then the last 10% is
+me as well. kind of 20% wrapped around
+80%. And these systems are part of my
+preparation for being less hands-on in
+the day-to-day operations. I've noticed
+that it's getting a lot for me to do all
+the dev work and all the ops work. So,
+I'm trying to automate certain things
+away. You know how it is. Every founder
+wants to be able to focus on things that
+take their full attention, not just
+write emails or sift through databases
+and records to figure things out. So,
+the most helpful automation that I've
+built so far has been a targeted
+mid-trial AI drafted outreach email. Bit
+of a complex thing. It combines data
+about what the user has already
+accomplished in the application, the
+things that they've seen, things that
+they've tried, and it kind of
+congratulates them on having done this.
+Plus, that's the important part, it
+gives them the next highest impact step
+to take. And that's always been helpful.
+It's been quite useful for giving people
+insight into the full platform
+capabilities at scale like with hundreds
+of new users a day but also individually
+because it looks at their full history
+and then kind of figures out how to do
+this. So I'm building a lot of similar
+systems AI assisted scraping and data
+lookup data validation data confirmation
+GPT particularly 5.2 too. And all the
+five fives like five mini, five nano,
+they've gotten so good that they can
+reliably do 80% of the work that I used
+to do before when it comes to data
+acquisition verification. You can pretty
+much trust this. Particularly if you use
+the web search feature in there or if
+you use scraping tools like fire crawl
+to get data to verify what the AI has
+just presented to you. You build your
+own little mini agents really. That's
+what I've been doing. So, if you're
+interested in hearing more about this
+and which of the systems have worked in
+which way. I can dive into the details
+in a future episode, just let me know.
+Reach out on Twitter or send me an
+email. I would love that to know what
+you would be interested in and what you
+might be struggling with when it comes
+to automations. Yeah. And that's the
+overall picture. Long-term investments
+in SEO, they're compounding right now.
+data quality is improving through these
+integrations, automated integrations
+like OP3 and AI assisted 8020
+validations where I still kind of drive
+the effort. It's not everything is
+completely automated. I don't trust AI
+that much, but agentic coding has helped
+me unlock capabilities that I would have
+never attempted on my own. And that's
+the elastic search DSL. If you ever have
+done this like 10 years ago, you know
+how painful it can be. And even if you
+do it professionally now and have always
+done it, you probably know it's not that
+easy to understand. It's not easy to
+build things around it. So having uh
+cloud code do this for me, very cool.
+And then building semi-automated systems
+that are like agents
+that help me get to the 20% that I can
+do and not have to do the 80% that I
+don't want to do. Those are freeing up
+my time for higher leverage work and
+nonwork as well. So it's been a good
+year for Podscan's growth and the data
+fidelity which also fuels its growth. So
+what strikes me most is how these
+improvements kind of feed into each
+other, right? Better data makes better
+search results. Better search results
+makes happier users. They create more
+backlinks and more backlinks improve
+domain authority and the cycle
+continues. Patience, it turns out, is a
+competitive advantage. So is being
+willing to embrace tools that let you
+build things you never thought you
+could. So like I always say, check out
+Cloud Code. It really will change your
+development life. That's it for today.
+Thanks for listening to the Booster
+Founder. You can find me on Twitter at
+[clears throat] Avitka E RV V I D K A
+HL. And speaking of Podscan, if you're a
+founder, PR expert, marketing team
+wondering what people are saying about
+your brand, this is exactly what we
+built. Podscan monitors 4 million
+podcasts in real time and we alert you
+when influencers or customers or
+competitors mention you. It turns all
+this unstructured podcast chatter into
+competitive intelligence and even
+opportunities for PR and customer
+insights. Very helpful. Check it out at
+podscan.fm. And if you're searching for
+your own next venture, the [music] next
+idea, we'll take a look at
+ideas.podscan.fm
+where an AI agent identifies startup
+opportunities from hundreds of hours of
+expert [music] discussions every day so
+you can build what people are already
+asking for. Thanks so much for
+listening. Have a wonderful day and
+bye-bye.
+[music]

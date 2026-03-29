@@ -1,0 +1,321 @@
+﻿Um, today it is a lightning talk and I'm
+going to be going very fast. So pay
+attention or don't and just get the
+slides at the end and I'm going to give
+you a lot of really fast takeaways that
+you can all implement next week and 60%
+of our customers got mention more
+mentions in a week after doing these
+very low hanging fruits. So quickly, how
+many people here uh get a lot of traffic
+from SEO or that's one of your main
+channels? Is that like a common? Okay.
+So, and how many of you are scared that
+uh GBT is going to take away that
+traffic and your business is going to
+fall over?
+So, uh this is going to be mostly quick
+updates to you can do to your existing
+stuff to uh help you get over that hump
+for now. So uh quickly uh my name is
+Jesse as mentioned uh you might have
+seen me on Twitter and I do have uh drop
+and blog which is a headless blogging
+platform. Uh we have about 2,000
+customers and we ran a lot of tests on
+this and we're really focusing on AI
+mentions now. Uh we just rolled out a
+new mention boost kind of analyzer to
+help with post to help you do these
+quick hits to make sure that you're
+putting things in a format that GPT and
+uh AI uh overviews kind of know you
+from. So uh yeah, you might have heard
+me on some podcasts. Like I said, I'm
+new here. Uh, or maybe you saw when I
+accidentally went into the mainstream
+media and got famous as the most uh
+notorious expat in Thailand. But I did
+get a DR91 backlink from that. So, hey,
+all all press is good press.
+And uh, okay. So, getting into the good
+stuff here. Uh,
+we're going to go through a quick uh
+framework uh, which is mostly going to
+be on page stuff. So, as I said, these
+are going to be quick hits that you can
+do directly on your existing posts. And
+then we're going to show you some
+examples as we go of how those worked.
+Specifically, AI overviews and chat GBT
+is what we're going for. And then some
+other quick tips and actionables that
+you can just take a a picture of and
+these are the things you can do
+literally next week. And then I have one
+off-page bonus uh that I'll share at the
+end.
+So we created a little framework called
+AI site
+and this is what it looks like and I'm
+going to run through each of these and
+then at the end I'm going to give a
+better slide that actually tells you how
+to implement them. So don't worry too
+much.
+So number one answer first. In the old
+way, we would start out our blog posts
+with this kind of long fillery uh thing.
+And now GPT wants you to answer the
+question immediately. So for we're
+seeing much higher sighting if you just
+start off literally with a sentence that
+says the thing that you're trying to get
+GPT to know. And uh here's an example of
+this. Uh this is a Bones coffee. Uh it
+says like you know does decaf coffee
+dehydrate dehydrate you in short no he
+just like cuts right to the answer and
+then of course your normal blog post
+formatting. Uh and then you'll see he's
+cited right here in the AI overview he's
+also getting cited in GPT for the
+similar phrase. Uh you'll see on all
+these examples I have the DR in the
+corner. So you'll see some of these guys
+are have like pretty good DRS and some
+of them don't at all. So, one little
+detail that we've noticed is that DR is
+sometimes less relevant for GPT, which
+is pretty cool. So, if you don't have a
+big link building game and you don't
+have a big DR, this is quite good. So,
+these guys are doing really cool stuff.
+Uh, this is a customer of ours called My
+Keys to Music. He actually does this
+first. This is these are both the first
+and second paragraph. He does TLDDR and
+then he does short answer. And they're
+it's the same thing to just directly
+tell uh GPT what it wants to know. And
+they're they're getting cited in these
+uh first answers for these things right
+away. And these again he's a DR6 and
+he's like beating out like uh you know
+people with real uh sites.
+So second is I for intent matched
+headings. So, uh, basically instead of
+having this introduction, first steps,
+conclusion, etc., you want to actually
+describe in the heading what the things
+are. One thing you're going to notice
+that's kind of a a oxymoron, which is
+funny. GPT is like dumber than Google as
+far as like analyzing stuff. So, the
+more structured your data can be and the
+more you can spoon feed it the answer,
+the more likely it is to give it. if it
+has to do the analysis and then output
+an answer, it doesn't do quite as well
+as if you just give it to it because
+it's lazy like humans. So, it wants if
+you can just give it the answer right
+away and structure things a little bit
+better and make it a little easier for
+GPT, then it can do it quicker. So,
+here's an example of uh hair product
+site. They have all this is the, you
+know, H2s and H3s and they're heading
+table of contents. And you'll notice
+it's not introduction, step one, step
+two. It's actually what the things are
+about. Uh, and then they're getting uh,
+cited all over for this uh, hair related
+stuff and they're a DR16. So, it's like
+they're they're beating out like real
+like cosmetic brands into these kind of
+things. So, uh, similar to that, uh, the
+C is clear structure. And this one is
+such a silly easy win. Basically, it
+means put things in unordered lists and
+put them in data tables. So, it's like
+if you just have anything on your on
+your post that is some sort of a step by
+step or a list of something or a top
+five whatevers, put them in a list
+instead of in a paragraph and then GBT
+is more likely to site it. It's it's
+completely wild. So, uh here's another
+example. They put these things into
+lists after we sent out this to our
+customers. And they started ranking
+within a week on some of these uh terms.
+And then this is one of my favorite
+examples. These guys, they have a home
+yoga app. They are trying to rank for
+you know which apps to use. So this term
+best app for beginner yogis. They have a
+table on one post. They have this list
+on another post. And here they are in
+GPT. What's the best yoga app for
+beginners? They're getting listed with
+like some of these heavyhitted VC funded
+like people. And the sighting is I guess
+it's covered up, but you know the little
+bubbles there are the sighting. It's
+them. They're they're the source and GPT
+is putting it in this this list. So it's
+it's pretty pretty easy to do these
+these kind of things. So index schema
+basically anything you can put schema on
+add it if you don't have it on your
+posts already. Uh I'm guessing WordPress
+has a plugin for that if you're using
+WordPress. If you use other platforms
+like ours it might be included. Anyways
+uh
+do it for FAQs or how to uh if you have
+any if you're using how-to stuff do
+how-to schema. Uh it's pretty easy to
+implement and validate. And again, if
+you're seeing the pattern, it's we're
+just feeding feeding the data.
+Uh here's one of the examples from one
+of our customers. Again, this is that my
+keys to music that I brought up earlier,
+the DR6. He's doing all kinds of FAQs on
+all of his posts. And here he is again.
+Uh the the the query is about uh courses
+about Nord. And here, look at all those
+bubbles are him. he is the source to
+talk about what's the best course for
+this Nord music stuff. So you can just
+basically be the source because you're
+formatted better than the guys who are
+currently have a bigger uh SEO team and
+game and uh domain rank. Again DR6 guys,
+this is like so easy. Okay, so uh next
+thing is trusted sources. uh we finding
+that there if you are able to link out
+and show your data actually comes from
+something then the content on your page
+will be more likely cited by uh AI
+overviews etc. So, here's another
+example customer. They're just linking
+out to PubMed for these uh ingredient
+lists that are in in their uh product.
+And now it's they're the ones that are
+getting cited. Again, same type of
+similar examples. Pretty pretty simple
+stuff, but just yeah, just find stuff in
+your posts that could be uh could be
+cited and cite them. Okay, now this
+one's a little bit harder, but can be
+really uh useful for people like Rob
+that like frameworks. Uh so let's say
+for example, uh you wanted to talk more
+about getting mentioned by LLMs and you
+said maybe we should come up with a
+framework called AI site. And so you put
+that together and you put it into a nice
+structured content on your page and you
+put your schema on that blog post and
+then you say, "Hey, are there any uh
+frameworks yet for getting mentioned by
+AI?" And there we are. Number one AI
+site above GEO. [laughter]
+[applause]
+So, it's it's pretty wild that these
+like seemingly obvious old school SEO
+tactics actually you can just implement
+these on all your existing posts and get
+them ranking. So, uh anyways, there's
+the structure. This is the one that you
+want to take a picture of that explains
+what all the things are.
+Again, I'll give the slide thing at the
+end.
+And now I'm going to do some just the
+quick actionables. You can take a
+picture of this one as well. Uh this is
+basically how what you can actually do.
+So go through your top money articles
+that are actually stuff that mention
+your brand, not the BS ones that answer
+questions that don't help lead to your
+brand. You want, you know, what are the
+top five best yoga apps? Okay, you want
+those are the the posts that are going
+to actually lead to you. What's the best
+course for, etc. What's the best app
+that does whatever your thing does. So
+you do that. Find places to add more
+lists and tables into your posts. Add
+your facts. Make sure the schema works.
+And then push some citations. And then
+just th this last one is kind of with
+the same with the ul. Make sure that
+your headings are are legit like that it
+goes in the order it's supposed to. H2,
+h3, etc. All this stuff is like old
+school SEO. And then people kind of got
+lazy on it. And because GPT is just not
+as good as Google, these things matter
+more than ever. So you can go through
+that stuff and next week and like I said
+we literally sent this out to our
+customer base and more than 60% of the
+people that went through their post and
+did this got more mentions and more AI
+overviews on Google in one week. This
+stuff is like very very quick to update.
+So super good wins. Okay, so one free
+bonus for off- page which has been
+really really interesting to find out.
+Uh Google
+owns
+YouTube as you might know. Uh and the
+thing is now everything's going to AI
+summaries, right? And so the AI
+summaries are showing up at the top of
+the Google results. And then they have
+the same problem that everyone else
+does. Where are we going to show them
+ads? Well, guess what? If Google just
+uses YouTube for all of its sources, for
+its overviews, then you go to YouTube
+and then they get to serve you ads
+again. So, Google's doing something
+very, very smart. They are now, oh, this
+is the example, but uh they're now doing
+this where they're transcribing all
+YouTube videos and they're using the
+transcriptions to create the AI
+overviews. So basically all your money
+articles that are how to add a uh or
+what's the best yoga app or whatever
+like you should make the same thing as a
+YouTube video because now those are
+going to get transcribed and put there
+and it's just like this is going like
+really really fast and it makes sense
+because they want to keep people on the
+platform, right? So uh we do this as
+well. We do a blog post uh we do a video
+for every one of our integration
+tutorials and it crushes like here's the
+simple I mean that's a pretty top how to
+add a blog to think ific and look all of
+the siting is not even our article it's
+our YouTube there for that one so like
+uh it's you can you can kind of crowd
+the SER with your uh YouTubes as well so
+that's the bonus and
+SEO is not dead guys. It's just a little
+different before and we got to feed the
+AI.
+That's it. So slides are there. You can
+uh follow me on X or [applause]
+I like to talk about this stuff. So if
+you ever want to message me on X, I'm
+happy to uh riff with you. [applause]

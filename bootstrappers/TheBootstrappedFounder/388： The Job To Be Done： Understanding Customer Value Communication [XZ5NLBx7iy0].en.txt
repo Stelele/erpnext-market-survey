@@ -1,0 +1,343 @@
+﻿[Music]
+Hey, it's Arvid and this is the
+Bootstrap
+[Music]
+founder. Today we're going to talk about
+understanding how to effectively
+communicate customer value. I think it's
+a challenge that a lot of us founders
+face, particularly when it's around the
+product and that product serves
+different audiences with all kinds of
+needs and expectations. So, I'll dive
+into how the jobs tobun framework can
+help me and therefore you better
+understand and communicate with our
+customers. This episode is sponsored by
+paddle.com, the merchant of record that
+has been responsible for allowing me to
+reach profitability just a couple weeks
+ago. Paddle truly is more. That's
+Merchant of Record because their product
+has allowed me to focus on building a
+product people actually want to pay
+money for. And that's also why Paddle
+does more for you. They deal with all
+kinds of things, taxes, they reach out
+to customers when they have failed
+payments. They charge in people's local
+currency. All things that I don't need
+to focus on, so I can really be present
+for my customers and their needs in my
+own product. It's amazing. Check out
+paddle.com to learn more.
+[Music]
+One thing that I really struggle with
+and have been struggling for many years
+is communicating clearly to my
+prospective customers what the value of
+the product is for them. I kind of know
+personally what the value is. It's just
+about communicating it in their language
+and for their expectation setting that I
+struggle with. And there are several
+reasons why this is the case. I'm
+building a product that is both a
+podcast database and a podcast alerting
+system and a podcast forecasting system
+or trend analysis system and an API
+product. So, it has public pages that
+list podcast information. It has private
+things for people to either look into
+the UI or the API and it's getting
+better and better at building reporting
+for all kinds of things as well. There's
+a lot. So there are many different ways
+of using the information that I have
+which then lends itself to many
+different jobs to be done all of which
+need to be communicated differently.
+I've noticed in particular that as I was
+beginning the communication of my
+features and what the data was and what
+the data could be used for was pretty
+much split between marketers people that
+I can understand because I'm a marketer
+as well. I can kind of get what the idea
+is that they're trying to reach like
+where do I find certain information that
+allows me to monetize or where can I
+find information that shows me
+competitors and what they're doing that
+kind of thing and on the other side
+clearly I was also talking to developers
+people who are running businesses like
+entrepreneurs and developers that need
+podcasting data that I could supply
+through my API and those two groups
+initially as much as I myself am a
+developer were both equally easy to talk
+to because it was very clear to me what
+they needed. Right? As a dev, I can talk
+to devs and as a entrepreneur marketer,
+I can talk to marketers. But I talked
+about this a couple weeks ago in opening
+up the data and putting it on the public
+facing parts of the website where before
+I had all this private data that only
+people that had an account could look
+at. Now it's on public pages for each
+podcast that I track. As these things
+are starting to rank more and more on
+Google, which is wonderful, I'm getting
+prospects and customers that are not
+technical at all. And they're also not
+marketing minded at all. They could be
+podcast hosts or researchers or
+journalists like people who find a lot
+of value in the product, but they just
+don't see it the same way and they don't
+speak the same language. The terms that
+I use, the structure, hierarchy, the
+navigation I use does not necessarily
+translate to them as well as it does to
+marketers or developers, people that
+I've kind of aimed it at. So I have
+started trying to understand how those
+people use the product and what they use
+it for. And also at the same time, I
+still try to keep my focus on a main
+target audience. That's not everyone,
+right? It's not everybody who could
+potentially use it. That's not my
+audience. I don't need everybody as my
+audience. Because if I do this, then all
+of a sudden I have a B2C product. If I
+have to or want to talk to every single
+podcast host out there, then all of a
+sudden there are people that want to
+talk to me about particular podcasts or
+particular shows and nuances and data
+that at my scale doesn't really make
+sense for a soloreneur business that is
+just unfeasible. And I recently had a
+conversation through my customer service
+chat with somebody who started a trial a
+couple days ago and then frantically
+told me they wanted to cancel their
+subscription which ended up being I kind
+of checked and I saw that they had no
+subscription at all. They never
+subscribed but they thought by signing
+up with an email and a password that I
+would charge them money which I guess is
+something that we have to thank the
+mobile payment system for where by just
+installing an app on your iPhone or
+whatever starting a trial you're kind of
+going to pay if you don't cancel a
+trial. That's how it works on on these
+devices at least. And I think that
+person thought like that as well.
+Anyway, I had a conversation with that
+person and they were of the older
+variety and the less technical variety.
+They told me that they struggled with
+technology sometimes and they just
+wanted to make sure that they wouldn't
+be charged. And then they went off on a
+completely tangential conversation about
+podcast shows in Canada, something very
+specific, something highly political.
+And I didn't really care about it. But
+it is evidence to me that I need to make
+sure that my application speaks to these
+people in a way that it makes absolutely
+clear what it does and what it's for and
+maybe also what it doesn't and what it's
+not for. I had several conversations
+with my prospects, some customers and
+collaborators over the last couple weeks
+that pointed at the fact that I really
+need to focus on those job to be done
+methodologies in explaining to people
+what the app can do. Which probably
+means that the dashboard, the initial
+part of the product where people go
+needs to be restructured a little bit to
+allow people to do their jobs, right?
+Like if they are journalists, they need
+to do research and get a report on a
+podcast or the charts of a certain
+region. If they are podcast hosts, they
+need to see their analytics for the
+shows that they have kind of verified
+already. And if they're marketers or PR
+people, they need to see their list of
+competitors that they're tracking, see
+where they were mentioned and how much
+and what relationship exists between all
+these things. and I really need to drill
+into these specific kind of category
+dependent jobs to be done and create
+views that are particular to them and
+that's one thing that I learned because
+I've been so focused on aggregating and
+providing data that the views the kind
+of the presentation of this data has
+been somewhat neglected and that is
+where customers see most of their value
+whereas they see the whole product that
+is the view and they can also show most
+of their value to their superiors to
+people who hire them to the people
+they're employed by the people that they
+run a project for, right? There needs to
+be something for them to show. And
+that's something I noticed, which is a
+particular problem for me as an
+entrepreneur who hasn't had a job in 10
+years. It's very easy to forget that a
+lot of people do their work to prove to
+their superiors that they're doing their
+job right. That's an integral part of
+this. They're getting things done. Their
+work is worth it and valuable. They need
+to show this. So, I need to make it easy
+for them to present the relevance of
+their work in how I show my data. And if
+I don't if I don't show that, if I don't
+make it easy for them for the people to
+show to their superiors, their peers
+that they're doing good work and that my
+product is helping them do this or that
+they're doing good work to begin with,
+then they will not see the value of the
+product as easily as they should be. So
+that's one of the things that I'm really
+noticing here. Really dig into the jobs
+to be done that people have and then
+kind of map it out. Make it easy for
+them to report. Make it easy for them to
+get to the result that they need to
+show. I'll need to have a couple pilot
+customers that really understand their
+own reporting needs, for example, and
+then build tooling that makes it
+particularly easy to get exactly their
+reports out of the system that they need
+for either the next step in their
+process or as a validation to even use
+the product in the first place. Look
+boss, this product can do what you asked
+me to do. That's the stuff to even put
+effort and time into trying to
+understand and learn the product. I need
+to already give them something. So I'll
+have to have a good hard think about
+reporting requirements among many
+others. But that's one that I found in
+almost all these segments and the kind
+of needs that my customers have at the
+stage they're in. Be it marketers that
+have to provide certain target numbers,
+researchers that may have to show a
+particular kind of data quality,
+historical analysis, whatever it might
+be. And I will need to brainstorm and
+talk to people about this explicitly at
+some point and have to work with my
+customers to figure out what exactly
+they need. That needs to be front and
+center in the interface in how they get
+to see the data, their view on the data,
+even though it might be of little
+relevance to the complexity of the
+product that it already offers, right?
+They don't know what's going on behind
+the scenes and they don't really care.
+All they see is what they see and that
+needs to be the thing that they need.
+Reporting is something that is usually
+done very easily right now with AI
+tooling and all that where you can just
+quickly have a certain kind of file
+structure or certain kind of data
+structure generated from some random
+data that you throw into chat GPT or
+whatever. Like I might even build things
+dynamically where code generates certain
+kind of output formats that people need
+in the report without implementing them
+specifically where people can just say
+this is the format that I want and then
+in some weird backend magical AI way I
+generate exactly that file. The actual
+implementation of this probably not too
+complicated, not too difficult but
+figuring out what people need that's the
+difficult part and what exactly I can
+present to them at the point is the
+challenge. I'm looking forward to this
+because I know that by making these
+things more obvious it is showing the
+value of the product more easily and
+once that is done it should also impact
+the rate of customer acquisition and
+retention because you know all the
+little software business things that do
+make a difference if they are existing
+in aggregate they impact those numbers
+significantly. So, I'm looking forward
+to finding out more about this and
+understanding my customers a little bit
+more in terms of their explicit job to
+be done or the jobs to be done that this
+is used for and how I can present
+solutions that I already offer in a
+better way or will be offering shortly
+more easily to them. All right? So, they
+can see perceived value because that's
+one of the biggest things in any
+business. You want to be able to show
+what the value of your product is. And
+the quicker you can communicate this
+more reliably, you can make people dig
+into it more easily and find that value
+and draw that value from your product
+and pay for it. That's kind of the
+moment of first value, the first
+surprise. Oh, this is awesome moment.
+The higher retention and word of mouth
+rates will be because people have an
+easier time to describe this, the higher
+the chances that people will stick
+around, become really long-term high LTV
+customer. And that's what I want, right?
+That's kind of what I want in this
+product in particular. I want to make it
+absolutely clear who this is for, what
+they can get out of it. That's the next
+step. And it really got clearer to me as
+I opened up to the kind of customers and
+talk to them that I attracted to Potcan
+through making it public, making it a
+publicly available platform. People
+started sharing what exactly they need.
+And that is precisely what I need right
+now. That's it for today. Thank you for
+listening to the Boots Founder. You can
+find me on Twitter at aka A K A L. If
+you want to support me on the show,
+please share Podscan with your
+professional peers and those who you
+think will benefit from tracking
+mentions of their brands, businesses,
+and names on podcasts out there. Potscan
+is a near real-time podcast database
+with a stellar API. So, please share the
+word with those who need to stay on top
+of the podcasting ecosystem. Thank you
+so much for listening. Have a wonderful
+day and bye-bye.
+[Music]

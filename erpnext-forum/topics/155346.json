@@ -1,0 +1,52 @@
+{
+  "topic_id": 155346,
+  "title": "Embed & Print Multi‑Page PDF Alongside ERPNext Print Format (Merge on Print)",
+  "slug": "embed-print-multi-page-pdf-alongside-erpnext-print-format-merge-on-print",
+  "category_id": 6,
+  "tags": [
+    "erpnext",
+    "print_format"
+  ],
+  "created_at": "2025-10-11T06:54:12.964Z",
+  "last_posted_at": "2025-10-11T06:54:13.047Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/embed-print-multi-page-pdf-alongside-erpnext-print-format-merge-on-print/155346",
+  "views": 64,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "ahmadraadiq",
+  "posts": [
+    {
+      "id": 483683,
+      "username": "ahmadraadiq",
+      "name": "Ahmed",
+      "created_at": "2025-10-11T06:54:13.047Z",
+      "cooked": "<p>Hello everyone,</p>\n<p>I’m trying to implement a feature in ERPNext: I have a <strong>Print Format</strong>  and I also have external PDFs (often multi‑page) attached to the document (for example, terms &amp; conditions, spec sheets, annexures).<br>\nMy goal is:</p>\n<ul>\n<li>When I “Print” the document (e.g. Sales Invoice, Delivery Note, etc.), I want to <strong>render the Print Format</strong> as PDF, <strong>then append all pages</strong> of the attached PDF(s), and deliver a <strong>single merged PDF</strong> to the user.</li>\n<li>I want this to work even when the attached PDF has multiple pages.</li>\n</ul>\n<p>I see a couple of challenges:</p>\n<ol>\n<li>The default Print Format engine (wkhtmltopdf) or Jinja-based printing doesn’t natively support embedding or merging full PDFs.</li>\n<li>Embedding via <code>&lt;object&gt;</code> or <code>&lt;iframe&gt;</code> tags typically won’t render in the final printed PDF, especially for multipage content.</li>\n</ol>\n<p>I’m considering (server-side merge) and I’d like feedback, robustness ideas, or better alternatives from the community.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/58f4c7/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 12,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

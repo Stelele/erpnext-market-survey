@@ -1,0 +1,52 @@
+{
+  "topic_id": 154309,
+  "title": "Error : Dashboard chart",
+  "slug": "error-dashboard-chart",
+  "category_id": 57,
+  "tags": [
+    "erpnext",
+    "frappe"
+  ],
+  "created_at": "2025-09-24T06:18:43.358Z",
+  "last_posted_at": "2025-09-24T06:18:43.510Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/error-dashboard-chart/154309",
+  "views": 17,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "ICHENNAKESAV",
+  "posts": [
+    {
+      "id": 481856,
+      "username": "ICHENNAKESAV",
+      "name": "Ichennakesav",
+      "created_at": "2025-09-24T06:18:43.510Z",
+      "cooked": "<h4><a name=\"p-481856-h-1\" class=\"anchor\" href=\"#p-481856-h-1\" aria-label=\"Heading link\"></a></h4>\n<p>Message</p>\n<p>Error: Value missing for Dashboard Chart: Dynamic Filters JSON</p>\n<p>when i started add dashboard chart in dashboard message is getting like this i unable to add the dashboard</p>",
+      "avatar_template": "/user_avatar/discuss.frappe.io/ichennakesav/{size}/88509_2.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 6,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

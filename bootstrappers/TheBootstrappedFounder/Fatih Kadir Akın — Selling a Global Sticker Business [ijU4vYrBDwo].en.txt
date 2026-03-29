@@ -1,0 +1,1256 @@
+﻿Arvid Kahl: Hello and welcome to
+The Bootstrapped Founder. Today,
+I'm talking to my dear old
+friend, Fatih Kadir Akin or FKA
+for short. We discussed the
+unexpected journey of building a
+successful business out of a
+simple idea. Fatih shares his
+experience with building
+Stikker.net and how he grew his
+audience through community
+building. And we chat about the
+challenges of logistics when it
+comes to shipping
+internationally and how Fatih
+found solutions that worked well
+for him so that it led to an
+exit. But before we dive in, let
+me thank the sponsor for this
+show. Imagine this: you're a
+founder who's built a solid SaaS
+product, acquire customers and
+it's generating consistent
+monthly revenue. The problem is
+that you're not growing for
+whatever reason, lack of focus
+or lack of skill or just plain
+lack of interest and you feel
+stuck. So what should you do?
+Well, the story I would like to
+hear now is that you buckle down
+and somehow reignited the fire.
+You got past yourself in the
+cliches and started to work on
+the business rather than just in
+the business. You started
+building an audience and moved
+out of your comfort zone and
+sales and marketing. And in six
+months, you've tripled your
+revenue, that would be a great
+story. But the reality is not as
+simple. Situations may be
+different for every founder
+facing this particular kind of
+challenge. But too many times
+the story ends up being one of
+inaction and stagnation until
+that business becomes less
+valuable or worse, worthless. If
+you find yourself here or you
+think your story is likely
+headed down a similar road, I
+offer you a third option.
+Consider selling your business
+on acquire.com. Capitalizing on
+the value of your time is a
+smart move and acquire.com is
+free to list. They've helped
+hundreds of founders already so
+you would be in good company. Go
+to acquire.com and see for
+yourself if this is the right
+option for you. And now, here's
+Fatih. It's kind of weird,
+right? Like we worked together
+for a year or so. And back then
+in San Francisco. And then,
+like, we all like everybody
+working at coding the company,
+right? Had their own reasons why
+they left or why they went away.
+And then everybody kind of like
+flew back to where they came
+from. That was one of those
+weird little things that I found
+so notable, like, you went to
+Turkey. I went back to Germany,
+like everybody just went back
+home in many ways. And that
+thing back there. How was that
+for you? Like for me, I just
+went back home and after coding,
+I just had a nap that lasted a
+couple of months. I honestly I
+really needed to relax. Because
+it was so much. The work was so
+much it was so intense. I was
+burned out. And I just needed to
+be home. How did you deal with
+that? Were you similarly?
+Fatih Kadir Akin: I remember
+these days, actually, I was
+working from Turkey remotely.
+And I joined another company in
+Turkey again. And I didn't
+actually give a break. I
+continued working. So then I
+jumped from company to another.
+And you know, as a front end
+developer for a long time,
+actually, I was doing front end
+until last year that's how I
+know how it's gone my site.
+Meanwhile, I built a company
+called Stikker.net. You already
+know about it.
+Arvid Kahl: I was excited about
+this. Like,
+Fatih Kadir Akin: Yeah, I wanted
+to see if I can do a business.
+That's my main, you know,
+motivation. I am a developer.
+And I wonder if I can run a
+business. That's all the story
+actually. And you know, I was
+doing some community stuff in
+Turkey. I organized J Istanbul
+community, which is a JavaScript
+stumbled actually gathering all
+the JavaScript developers
+together and there we are doing
+some meetups, etc. So we were
+collecting stickers as every
+developer do, you know and I saw
+that actually we needed some
+stickers and we had two options
+in Turkey. Either you should buy
+stickers from Sticker Mule which
+located in United States or we
+should go to local print shops.
+So, ordering from Sticker Mule
+is a bit expensive and we should
+wait for the shipping. And it
+was not really easy for us. And
+if you ordered too frequently,
+it will be held in you know the
+customs because the customs
+thinks you are importing things.
+But you have to tell them. Then
+we go to we went to actually
+local print shops but they are
+really low quality. And they
+asked us to print 1000 or
+something you know. I don't want
+1000 stickers because I don't
+need them in that much. So I
+thought there is a you know,
+space there for Turkey market.
+Everyone is asking stickers,
+every company's startups asking
+for stickers. They're ordering
+from Sticker Mule or doing. They
+were going to have print shops.
+So I thought I can do it. And I
+created a, you know, WordPress
+and WooCommerce site. It was the
+easiest, you know, stack for me
+to do. I didn't want to write
+any code, by the way. Because I
+want to try the business. I
+didn't want to try if I can
+write some ecommerce site or
+something. Yeah, that's actually
+how it started. And
+Arvid Kahl: How did it end? How
+did it end? Tell me about that.
+No, honestly the thing that I'm
+excited to hear about is like,
+you know where it got you. But I
+think, oh, it's already so cool
+that you stopped yourself from
+building yet another piece of
+software. Because so many people
+when they think, oh, I'm going
+to build a business, like with
+software mean that they have to
+write everything. That's what
+they think, right? I have to
+write login, software. I have to
+write my password reset and I
+have to build like a payment
+system and whatever, right? I'm
+glad you didn't because
+otherwise, you probably would
+have wasted a year building this
+website for no reason and
+probably wouldn't have worked
+either.
+Fatih Kadir Akin: Yeah, exactly
+Arvid Kahl: How did you
+continue?
+Fatih Kadir Akin: People around
+me criticized me not to write it
+from scratch, you know. People
+were saying to me, you know,
+you're a developer, you can do
+it yourself, why are you using
+WordPress, WooCommerce, etc? And
+I said, okay, well, there is a
+solution there. Why shouldn't I?
+So it was, you know, a fun story
+because everyone wants to create
+same things again and again. And
+as you said, you know, I didn't
+want to write the ecommerce
+system. You know, there are so
+many things I should handle,
+like checkouts, payment systems,
+discounts, is not an easy thing
+to do. I should create a company
+and by you know, hire some
+engineers or something. I
+couldn't do it myself. I didn't
+want something like that big. So
+I was thinking just to try
+myself if I can do business.
+Yeah, that's the actually.
+Arvid Kahl: How quickly did you
+get customers? How quickly did
+you find people to actually, you
+know, buy stickers through that?
+Fatih Kadir Akin: Yeah, that's
+another story. I already have
+followers on Twitter. I'm really
+active on community. People know
+me. The first day I opened my
+sites, I didn't sleep until
+morning to make all the
+stickers, you know, because
+there are lots of, you know,
+orders coming from the site
+because people know me. I
+already have audience. I already
+know people. You know, lots of
+friends and my followers ordered
+so many stickers from there. And
+they gave me feedbacks, like you
+know, the paper is bad or paper
+is not good, but etc. And with
+Arvid Kahl: I did not expect
+that you actually would print
+the feedbacks, I upgraded
+myself, you know. It was a
+unknown place for me, you know,
+the local print shops or you
+know, I don't know it's English
+but the guys who sell paper, you
+know. They're, you know, shops
+sells paper. And I go there and
+I asked, I bring some examples
+from Sticker Mule. And I asked
+them if they have these kind of,
+you know, papers. So they have
+their own jargons. You know, I
+didn't understand anything. So,
+I checked, I bought lots of
+papers from them. And I tried
+one by one, which is the best
+one. Yeah and because, you know,
+they are speaking in, you know,
+paper types. They have some
+jargons in Turkish is not, you
+know. I can't google it, you
+know, it's the jargon in
+Turkish. So when I Google,
+there's almost no result is
+really hard thing for me to
+handle this stuff, the
+production stuff, but somehow I
+figured it out. And I upgraded
+my, you know, papers and I
+bought some new machines and the
+printers and the cutters. So,
+yeah, that become active so
+quickly. I didn't actually wait
+too much because, you know, I
+already have followers. I knew
+communities. And when I go some,
+you know, I was doing some
+speeches around about
+development, because meanwhile,
+I'm already a software
+developer. I didn't quit my job.
+The sticker side is my side
+project. So actually, like an
+Uber driver. I was doing some
+stickers at night and
+development by the day. So
+these stickers and send them out
+yourself. I thought you found a
+way, you know, to have somebody
+else do this. But you becoming a
+sticker expert, now that is news
+to me. So awesome.
+Fatih Kadir Akin: Yeah,
+actually. I had a partner.
+Actually, my wife's older
+brother is my partner because
+it's gotten a little big and I
+couldn't, you know, I didn't
+have time to do that. And he
+asked me to help. And I said,
+okay, let's do it together. And
+he started, he handled all the
+things like shipping, the
+printing. I teach him how to
+print and how to cut the
+stickers, so he helped me a lot.
+So yeah, I had so many customers
+like 17,000 customers.
+Arvid Kahl: Wow!
+Fatih Kadir Akin: Yeah, and
+unique, by the way. Mostly from
+Turkey. Yeah, mostly from
+Turkey. But there were customers
+from Azerbaijan, Cyprus, UK,
+interestingly, UK.
+Arvid Kahl: Weird
+Fatih Kadir Akin: Yeah, it's
+weird to me because some people
+know me. There was a developer
+living in UK. She is Turkish.
+But she you know, she works in
+the UK community, Google comment
+or something. I didn't really
+remember but she knows sticker
+and she told their friends.
+There is a company in Turkey
+printing stickers for really
+cheap, you know, when you think
+about the currencies, you know,
+the pound is really high rate
+comparing to Turkish lira. So
+it's really cheap for them. So
+they started to order from us.
+And it was a win-win thing.
+Arvid Kahl: Yeah, an
+international business. That's
+so cool. That's great.
+Fatih Kadir Akin: Romania
+Arvid Kahl: Yeah
+Fatih Kadir Akin: Yeah,
+actually, this site was in
+Turkish. But people were using
+it with Google, you know, Google
+Translate and ordering from, you
+know, internationally. Yeah,
+that was crazy for me, you know
+Arvid Kahl: I bet. How was the
+logistics of that? Like how was
+like sending packages or little
+letters? Was that expensive for
+you? Or did you expect to send
+yourself outside of Turkey at
+that point?
+Fatih Kadir Akin: Yeah,
+actually, we were sending the
+you know, envelopes because
+we're using stickers. If it's,
+you know, huge order. We were
+using boxes, but mostly people
+are buying 10 or 20 stickers.
+They love, you know, the React,
+Apache etc, something like
+JavaScript. So they were buying
+10 or 20 stickers. So we were
+using envelopes and sending
+envelopes actually categorized
+as documents, you know. So it
+was really cheap for us to send
+in, you know, in Turkey. But in
+outside of Turkey is a bit
+expensive, but you know, we were
+charging customers on shipping.
+So actually it wasn't actually a
+big issue for us. We were
+charging them. So it's okay. And
+actually, for example, UK was
+really expensive from Turkey.
+But according to them, it's not
+really expensive. So they were
+okay about paying the shipping
+costs. So it wasn't a big issue.
+Yeah, actually, I was collecting
+customers from you know. I was
+going to some meetups speaking,
+you know, about development and
+I was collecting customers, you
+know. You know, in every
+community slide, I introduce
+myself to the community, right?
+You know, I emphatically
+recommend I'm a developer and my
+Twitter handle is this and I do
+own a business called
+Stikker.net. If you go to
+Stikker.net and use that code,
+discount code, you will able to
+have a discount. So actually, I
+was doing some
+Arvid Kahl: Marketing?
+Fatih Kadir Akin: Marketing on
+yeah, thanks. Marketing on
+meetups and people love it.
+Actually, it was working. I
+didn't do any Google ads or
+something. Never.
+Arvid Kahl: Wow. It's the
+perfect product for community
+too, right? Everybody, every
+developer loves stickers on
+their laptop on whatever
+periphery they have, like iPads
+and whatnot. And if you already
+are in the JavaScript community,
+not only do you have like
+JavaScript stickers, but you're
+gonna have UJS and you have like
+React and you have whatever new
+framework they invented
+yesterday. You can put a sticker
+out and this is such a gigantic
+amount of projects, right? That
+you can have massive amount of
+potential stickers there,
+genius! Like when I go to
+meetups, I try to find stickers.
+Not that I really need them,
+right? I don't need more
+stickers. Everything is full of
+stickers anyway, but I liked it.
+It's just such a it's almost a
+meme, right? In our community
+that we need those stickers.
+What a perfect match of your
+community contribution and the
+business that you've been
+building. That is really cool.
+Fatih Kadir Akin: Yeah, exactly!
+Yeah, actually, people asked me
+a lot why I'm only, you know,
+targeting developers and
+designers because you know, lots
+of people need stickers. And
+last year, I upgraded my content
+to, you know, target more
+people, you know, not just
+developers or designers. I edit,
+you know, like, some other kinds
+of memes, internet memes or
+something. So actually, I tried
+to expand my target audience.
+But developers are, you know,
+developers and designers were
+actually my biggest customers.
+Yeah
+Arvid Kahl: Yeah, that makes
+sense. It's nice to have a niche
+because you know exactly what
+they want, right? I mean, memes,
+I guess you can quickly figure
+out what memes work but you know
+exactly. I mean, you go to the
+meetups, you see people's
+stickers, you know what they
+already have, right? So you can
+make a pretty sound judgment,
+still good to expand into memes.
+I think it's a great idea to try
+and see, right? How far you can
+go. When did Sticker Mule come
+knocking? When did they express
+interest in your product?
+Fatih Kadir Akin: Yeah, that's
+another story. Actually, we were
+running business in the
+beginning of this year and my
+brother in law, asking me to you
+know, asking me to buy some new
+toners and you know, papers,
+etc. So, we were, you know,
+running business, but for two
+years like, Turkish economy gone
+a bit, you know, bad. So, price
+has gone high and, you know, the
+dollar rate is go really high.
+The Turkish Lira lost its value.
+So, important things become a
+little bit harder for us. And
+the government decided to, you
+know, harder the customs because
+they want to support the local
+producers. So, it was really a
+nightmare for importers to do
+something, actually and you
+know, we don't produce toners or
+printers. So you know, the toner
+prices go really, really really
+high you know. I tried to, you
+know, like I was buying a color
+of toner like 300 Turkish lira
+and it become 5000 Turkish lira.
+You can guess the
+Arvid Kahl: Wow! That's a lot!
+Fatih Kadir Akin: Yeah and when
+I checked the prices, our toners
+finished and there was some
+orders waiting for you know the
+printer to be filled. So, we can
+you know, ship them. My brother
+in law asked me to can you
+please order some toner because
+we need toners. We ran out of
+toner. So, okay, I will do it, I
+said. And I go to the toner
+sites I always buy. So, I
+checked, you know, five color
+toner is like, sorry four color
+toner is like CMYK you know,
+like 20,000 Turkish lira is
+amazing, you know, is too high.
+You know, there are high level
+printers, there were actually
+high level printers in that
+price. So I called back my
+brother in law, I said I won't
+order. Let's close the business
+and he said what? How? Why? And
+I said, okay, let's go high. We
+are doing some business. We can
+increase our prices, you know,
+to make it more you know,
+profitable. So, this is another
+option, but I don't want to, you
+know. I actually was selling
+stickers. When I first started
+the business, I was selling
+stickers just one lira per
+sticker, you know. It's really,
+really low price. So it's gone
+really high and I didn't want
+people to pay really high rates
+for a sticker that, you know, is
+not a need for the people is
+just a pleasure or something.
+You know, I didn't want to.
+Actually, we were earning from
+sidewalks. I didn't want to, you
+know. I'm doing this business as
+my, you know, side project. It
+doesn't actually, you know, I
+didn't live with it. So I said,
+okay, we already spent too much
+time on it. I can't do better
+things to earn money instead of
+running a sticker company and
+earn much more money. So let's
+close the business. This is not
+actually profitable anymore, I
+said. And he said, okay, fine,
+let's do it. Let's close it. And
+I tweeted, actually, I stopped.
+Actually, I didn't close the
+site, but I just disabled the
+payments, payment page. So
+people can view the stickers,
+but they won't be able to order
+them. And I send a Tweet to the
+people saying, okay, guys, in
+Turkish, by the way. Okay, guys,
+I'm closing the Stikker.net
+because it's become, you know, a
+little bit hard to run. So,
+because of the economy and I
+didn't actually want to increase
+the prices, so I decided to
+close it. And lots of people
+mentioned me, replied to me, I
+shouldn't do it, let's support
+you or something, you know.
+People are encouraging me to run
+the business again. And somehow,
+I didn't know how it happens.
+Somebody from Sticker Mule sent
+me a message from LinkedIn and
+said, okay, we saw you decided
+to close your business. Are you
+open to acquiring, you know,
+selling the site to us? And I
+said, actually, I didn't believe
+it at first because, you know. I
+taught someone trolling me, you
+know. The site, I said, it's not
+profitable anymore. And not
+much. And I decided to close
+actually, the business is not
+going fine, you know and so I
+thought someone's trolling me.
+And I checked his profile. I
+checked his, you know, how many
+connections. I was trying to
+convince me if he's a real
+person or not. And I said, wow,
+are you serious? Yes, sure. I
+will sell you. And he connected
+me to the CFO of the Sticker
+Mule. We had two calls with her.
+So we had a deal. And that's how
+it's gone.
+Arvid Kahl: Wow!
+Fatih Kadir Akin: I didn't
+expect just for me, it's just
+like, winning a lottery.
+Arvid Kahl: Yeah!
+Fatih Kadir Akin: Same chance
+for me
+Arvid Kahl: That is so nice.
+What an incredible story,
+particularly because it sounds
+like a movie, right? You're at
+the darkest hour and everything
+fails and nothing works. And
+there is the sun is coming out
+and money comes your way. I'm
+happy for you. This was so nice.
+What a cool ending. I sometimes
+wonder like you said something
+earlier, which really stuck with
+me. Like you already had a
+Twitter audience and you already
+had your community that you were
+part of and that you were
+organizing. Would you ever even
+have started this business if
+you didn't have this audience
+and your community work? Do you
+think you would ever have the
+same level of success?
+Fatih Kadir Akin: I don't think
+so. No, it's yeah, people around
+me say oh my, God! How did you
+do that? You know, it's
+impossible, they probably will
+say and they add because of the
+people you're you know, because
+of the Twitter followers of you,
+it's happened. They say they
+believe actually I believe so.
+You know, audience is really,
+really, really important thing
+for you know, you know, for the
+business like, you know, like
+Stikker.net. I don't know,
+actually for every business
+actually, I believe.
+Arvid Kahl: I think so, too.
+Fatih Kadir Akin: I think it's
+important. And yeah, actually I
+didn't expect that become, you
+know, escalate so quickly.
+Arvid Kahl: I'm happy. That
+makes me happy to hear though.
+That is such a cool story.
+Fatih Kadir Akin: Yeah, I was
+thinking there are many
+printers. I had 12 printers, by
+the way.
+Fatih Kadir Akin: I had 12
+printers and cutters. I was, you
+Arvid Kahl: Wow
+know, making some, you know,
+maths. If I sell these printers
+and the cutters, I had this much
+of no money. And I was trying to
+you know, I was calculating all
+the things, but you know, when
+the sticker comes, is like sun
+shining, as you said.
+Arvid Kahl: Yeah, that's so
+cool.
+Fatih Kadir Akin: And that's how
+it ended. I'm really happy with
+this ending, you know.
+Arvid Kahl: Yeah, that's a good
+ending.
+Fatih Kadir Akin: Actually, I
+think to me first, you know,
+ending your business is a kind
+of, you know, bad thing, right?
+But I'm happy right now.
+Arvid Kahl: That's good. I can
+see it. That's really nice. What
+a glorious ending. I think it's
+just really, I'm very happy for
+you. And I think you made a
+couple of really good choices
+along the way. That kind of
+allowed you to even though it
+didn't work out, that's not your
+fault, right? The fact that the
+Turkish economy has these
+issues, that's not your fault,
+really. But you dealt with it,
+you had to deal with it and that
+somebody else had the vision for
+your existing business to still
+flourish to still go on even
+after you sell it to them.
+That's great for Sticker Mule.
+And what I find so hilarious in
+this is that you said in the
+beginning, Sticker Mule is too
+expensive. I'm gonna build my
+own Sticker Mule and then you
+build your own Sticker Mule. And
+then Sticker Mule buys the
+Turkish Sticker Mule. That is
+just such a funny thing, right?
+It's this idea that you built a
+local, local version of their
+business that doesn't work
+really well in your country, but
+you make it work. And then they
+get to benefit from that too.
+What a perfect story. I'm just
+really happy. And you said
+you're not a front end developer
+anymore. Can you tell me like
+how that transition to I think
+you're now working in what
+developer relations? Is that
+what it is? Or what are you
+doing?
+Fatih Kadir Akin: Yes, I'm
+actually a developer relations
+manager at Teknasyon, which is a
+global company based in Turkey.
+Yeah, actually, because of my,
+you know, communication skills.
+I upgraded in so many years with
+the community stuff. So they
+asked me to last year, beginning
+of this year, actually, they
+asked me to join them as a
+developer relations manager.
+Actually, I didn't know what a
+developer relations manager
+does.
+Arvid Kahl: I don't know either.
+What do you do?
+Fatih Kadir Akin: Yeah, actually
+developer relations manager is
+simply keeping the actually if
+you can think of two parts
+internal and external. Internal
+developer relations is trying to
+make developers life easier
+inside the company like
+improving the developer
+experience, giving space to you
+know develop their selves, you
+know and kind of things
+actually. I had a blog post on
+it, but I didn't release it yet.
+Yeah, actually some kind of
+stuff inside and externally, I'm
+doing some actually, a company
+wants to grow, right? And the
+growth becomes into ways in
+terms of tech, you should
+require, sorry, recruit people
+hire people or you should. And
+actually not all, and you should
+make increase retention. People
+shouldn't leave your company.
+Yeah. So developer relations
+tries to do both of them working
+with CTO and HR. And because we
+should increase the retention,
+make developers happy. And
+meanwhile, I should hire new
+people, hire new talents and so
+to do that, I go to conferences,
+meetups and etc, find people and
+try to hire them. Yeah,
+actually, I'm trying to develop
+strategies to achieve these two
+things. I didn't know if I'm
+clear or not, but
+Arvid Kahl: Oh, yeah makes
+perfect sense. Like internally,
+you make sure that things work
+well. And that people who work
+in the company, get to grow. And
+externally, you attract new
+talent and you retain it. And
+you do that by going to events
+and making sure that the company
+you're working for is visible to
+the outside. I think it's funny
+because that is what you've
+always done, right? By going to
+events and talking. But you were
+talking about technology, not
+necessarily a company, but like
+JavaScript, right? You were
+working for JavaScript this
+whole time. I remember back in
+2012, when I met you, for the
+very first time. My mind was
+blown that you had written a
+book about JavaScript, like that
+was already like I was so happy
+to meet somebody who had ever
+written the book because I had
+not met a technical author
+before. And about a technology
+that back then at least, was
+rather I guess, new ish, like
+novel. There was something about
+JavaScript where it was just
+coming back up, right? Like
+CoffeeScript was around. We
+didn't have TypeScript yet. We
+didn't have we had like, Node JS
+0.6 or something. It was a
+really, really new kind of
+JavaScript on the back end and
+stuff that was all very new. And
+you've always been there. The
+decades that we have, like, not
+worked together now. You've
+always been part of this
+community. You've always been
+bringing more people into
+JavaScript in Turkey. And I
+think worldwide, just looking at
+your Twitter following, you have
+a lot of followers too. That was
+also impressive to me back then.
+You know, like when when we met,
+I had no followers on Twitter at
+all. But you had lots and even
+back in 2018-2019 when we sold
+our business, I always look up
+to you and your Twitter, because
+I had no followers at that
+point, either. But you had like
+25,000. I was always impressed
+by how many people you were able
+to attract to you. I'm not
+surprised that you're now doing
+this professionally, is really
+cool. Do you still get to code?
+Do you still want to code, maybe
+two questions at the same time?
+Fatih Kadir Akin: Yeah,
+actually, I love coding. I still
+actually, we are trying to you
+know, I'm trying to encourage
+people inside the company about
+doing some open source stuff. So
+sometimes I try to you know,
+lead them. So I'm doing some
+code. Actually, last night, I
+had a short session in YouTube.
+So we were, you know, trying to
+build something with Deno, the
+new JavaScript runtime. So yeah,
+I'm still doing code. Actually
+not that much at all times. But
+yeah, I still code. I love
+coding. So yeah and by the way,
+yeah. Now, you know, I'm envying
+you, by the way, you become
+really popular. And people say
+me. And when I say, okay,
+someone sends me, you know, your
+book or something. And I say,
+oh, yeah, I know Arvid for a
+while, like 10 years or
+something. They say, what? Your
+know Arvid Kahl? You know each
+other? You know, you become much
+you become much more worldwide,
+you know.
+Arvid Kahl: Yeah, it's a bizarre
+coincidence, I think. But it's
+like, it's just me, Danielle and
+I building building Feedback
+Panda that was just like with
+you. I feel like it was the
+right opportunity at the right
+moment with both of us co
+founders, I guess. We're at the
+right point to say we're gonna
+build this now. And if it works,
+great. And if it doesn't, well,
+then it was interesting, you
+know and it was a nice
+experience. And then we built
+that and it was successful and
+we sold it. And that just kind
+of escalated my public
+appearance because back in 2019,
+after we sold the business, I
+think I had 400 followers on
+Twitter, like that was
+comparatively nothing, right?
+And those were people who've
+been following me for 10 years
+on Twitter and I never used the
+platform. So I didn't have a
+following at all. But I've been
+working on increasing this,
+obviously, because I am
+teaching, right? Just like you,
+I've now written books, which I
+always felt inspired by your
+work as well. So it's just so
+nice to talk to you, man. It's
+been so long.
+Fatih Kadir Akin: By the way, I
+read half of your Zero to Sold
+book.
+Arvid Kahl: Oh, nice.
+Fatih Kadir Akin: I'm so sorry.
+I didn't finish it.
+Arvid Kahl: Don't worry, it's a
+big book.
+Fatih Kadir Akin: Yeah, you
+wrote a lot.
+Arvid Kahl: Yeah, that's right.
+Fatih Kadir Akin: Actually, you
+are one of the best writers I
+have read, you know, you're
+writing really nice. I think
+it's not a coincidence you have
+too many followers. You know,
+you are a well known person in
+worldwide. So
+Arvid Kahl: Thanks so much!
+Fatih Kadir Akin: Congratulations!
+Arvid Kahl: Thanks, Fatih.
+That's really sweet.
+Fatih Kadir Akin: I'm really
+glad. I feel, you know,
+honorable to know you.
+Arvid Kahl: Me, too!
+Fatih Kadir Akin: Oh, I know
+Arvid Kahl
+Arvid Kahl: I'm equally
+fortunate to have met you. I
+think, honestly, back back, then
+I would have called myself like
+an amateur developer because I
+had worked in software. I built
+some stuff, mostly, you know,
+PHP and all these things you did
+back then, around the 2010 times
+the 2010 mark, but it was in
+working with you. And obviously
+also with the other fine people
+at coding, that I really learned
+what professional software
+engineering can be, right? It
+took me being in a group of
+really good engineers that
+really love building software.
+And being part of that, that I
+always tell people when they
+asked me, was it worth going to
+university for computer science?
+I dropped out, right? So I don't
+know what should I say to begin
+with. But in the two weeks, the
+first two weeks that I spent
+working for coding and getting
+to know like everybody there,
+including you, at some, I guess
+later point, but in the first
+couple of weeks and months, I
+learned more than I ever learned
+in five, six years at the
+university. Because it was just
+such a group of people and this
+shared goal that we had to build
+like an online IDE for coding,
+that's just exploded potential,
+right? I feel to this day, I'm
+super thankful for the
+opportunity. And even though the
+business didn't work out and we
+all went our separate ways at
+some point, I don't think I
+would be where I am now if it
+wasn't for the people that I met
+along the way that taught me
+everything and taught me so many
+things that I would have never
+thought about. So now that you
+work in developer relations,
+what is the next business that
+you're gonna be building? I have
+a feeling you're gonna be
+building something new in the
+future, right? Or is Stikker.net
+the last thing you gotta built?
+What do you think?
+Fatih Kadir Akin: Yeah,
+actually, I have an idea. I
+actually I have an idea for four
+years. I have an idea for four
+years and nobody still didn't do
+that. But it's not an ecommerce.
+You know, I gave up with the E
+commerce. Ecommerce is not
+really scalable, you know. You
+know, the shipping thing is
+really hard. Building things in
+physically is really really
+hard. It has so many blockers.
+It has so many things that you
+should handle with but I have an
+idea, a business idea. Doing
+some SaaS project for the
+companies is for the actually,
+startups. I didn't want to go
+deeper on it. But I have an
+idea, right? But I don't know
+when I will start, you know,
+because Stikker.net was
+occupying too much time of mine,
+too much time. So I gave a
+break. And when I feel myself
+really, I'll try to do some new
+business. And I will try to see
+if I'm doing SaaS business.
+Yeah, if I try it in, you know,
+the E-Commerce. Yeah
+Arvid Kahl: Yeah, I think SaaS
+has many benefits. I think
+obviously, like, it's much more
+scalable if you build it as a
+low touch kind of business,
+where you don't have to do sales
+or you don't have to print
+anything is just, you know, a
+machine doing the work. But it
+does come with a lot of
+pressure, pressure in a sense of
+you need to focus on it a lot. I
+remember this, like,
+fortunately, Feedback Panda was
+low touch and it was highly
+automated. And we could run it
+as a side project for a long
+time. Both Daniela and I, we
+both had full time jobs while we
+built the software on the side.
+But at some point, there was
+this kind of choice that we
+needed to make, like, are we
+going to do it full time now or
+is it just going to be this
+small side project, right? And
+it was making good money at that
+point already. But we had to
+make a conscious choice to not
+get money from our main jobs
+anymore. So we could really dive
+into the business. And one thing
+that I noticed running the
+business pretty much myself as a
+technical founder, Danielle was
+the non technical person and she
+did all the design and all the,
+you know, the business, the
+outreach to sales to marketing
+and I did all the tech stuff at
+that point. There was a lot of
+mental pressure to just keep
+things running. Because if you
+don't have like a DevOps team,
+if you don't have like more
+engineers that are on call at
+night so you can sleep, you're
+always on call and you're always
+responsible for keeping the
+software running. And if you
+write a book and you've written
+the book, you don't care. You
+don't care what Amazon does on
+their book printing store or you
+know or your publisher does. You
+give the book to them, they deal
+with the book and they sell it
+for you and you get the
+royalties. But with a SaaS, man,
+you better be like ready to
+spend a lot of time on it, which
+obviously, in your situation
+where you have a full time job
+and your community work. It's
+probably gonna be hard to just
+side project this. I can see that.
+Fatih Kadir Akin: Yeah, I think
+so. You know, I tried to start
+and I'll see how it goes. I
+don't know, I actually don't
+have any. You know, I can see
+what will happen, but I can't
+feel the pressure, you know,
+because I worked for the SaaS
+companies. I didn't own one. But
+I worked for the SaaS companies.
+And it's like having a baby you
+know. As you said you have
+always have to think of it in
+your mind. And it will occupy
+your time maybe you know, you
+know, as you said you have to be
+on call all the time. It doesn't
+feel you know, really easy but I
+used to you know, used to have
+some experience from Stikker.
+Stikker.net is like actually,
+you know, SaaS business but it
+has pressure too. It's kind of
+you know, people were mailing,
+people were calling by the
+phone. They were ordering and in
+an hour later, they were calling
+if it is shipped or not, you
+know, it's like management
+customers is not really easy
+thing, you know. Yeah, so I can
+feel it, but I'll try to do some
+business and after the Sticker
+Mule acquisition, you know, it
+makes much more confidence, you
+know, to me. I don't know
+actually if Sticker Mule didn't
+acquired it, maybe I would never
+think of it but after Sticker
+Mule acquires, it feels like oh,
+I can do something.
+Arvid Kahl: Yeah, that's right!
+Fatih Kadir Akin: Let's try
+again.
+Arvid Kahl: Yes, that's the
+right mindset right there.
+Honestly, what I would like to
+see is that you started right
+now or tomorrow. Get started,
+man. I mean, what do you have to
+lose, right? You can always run
+your little SaaS project as a
+side project. I mean, you know,
+obviously, you still have to do
+your job.
+Fatih Kadir Akin: Yeah, I mean,
+maybe I've started, no one
+knows.
+Arvid Kahl: You know, I will
+support you. Yeah, you know
+that, right? And you have a
+community of what now 53,000
+followers that will also support
+your efforts. They did support
+you with stickers. So they will
+also support you with the next
+thing. Man, it's so nice talking
+to you. And just seeing you
+smile when you talk about
+business. Because I think for
+both of us back in 2012, when we
+were just regular software
+engineers, neither of us was
+thinking about building a
+business, right? I certainly
+didn't and I don't think you
+were. And now here we are. Isn't
+that cool?
+Fatih Kadir Akin: Yeah. Yeah,
+it's you know, the world is
+small, man.
+Arvid Kahl: It really is. I'm so
+glad that you talk to me today.
+That is such a wonderful thing.
+Where do you want people to find
+you after they listen to this?
+Where do you want people to go
+and check out your stuff?
+Fatih Kadir Akin: Yeah, you can
+find me on Twitter. Actually,
+I'm always tweeting in Turkish.
+Sorry about it. But most of the
+time, I'm making fun. But Google
+Translate works fine, you know.
+You can translate and read my
+tweets. I'm fakdev, like
+developers and fak, my capitals.
+So yeah, they can reach me out
+there from Twitter and they can
+find me on LinkedIn as well.
+LinkedIn is much more, you know,
+the much more you know, English
+based, so yeah
+Arvid Kahl: That's a cool!
+Fatih Kadir Akin: I have lots of
+open source projects on GitHub.
+Use them.
+Arvid Kahl: You also have the, I
+think the shortest twitter
+handle that anyone could have,
+right? You're just F on GitHub.
+Fatih Kadir Akin: Yeah, GitHub.
+Yeah, I have github/f
+Arvid Kahl: That is so bizarre.
+Man, you were there at the first
+hour of GitHub existing to grab
+that handle. That is so cool.
+Man, thank you so much for
+chatting with me. That was
+awesome. And I hope you start
+your next thing immediately. Get
+going, man. I know you'll have
+the support of the whole
+community behind you. Thanks so
+much, Fatih.
+Fatih Kadir Akin: Yeah, I'm
+opening my IDE right now for you
+to find me again.
+Arvid Kahl: All right. Way to
+go. Thanks so much!
+Fatih Kadir Akin: Thank you,
+man.
+Arvid Kahl: And that's it for
+today. Thank you for listening
+to The Bootstrapped Founder. You
+can find me on Twitter
+@arvidkahl. You'll find my books
+and my Twitter course there as
+well. If you wanna support me
+and the show, please subscribe
+to my YouTube channel, get this
+podcast in your podcast player
+of choice and leave a rating and
+a review by going to
+(http://ratethispodcast.com/founder).
+Any of this, will truly help the
+show. So thank you very much for
+listening and have a wonderful
+day. Bye bye

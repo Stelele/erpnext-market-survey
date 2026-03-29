@@ -1,0 +1,518 @@
+﻿[Music]
+hey it's Arvid and this is the bootstarp
+[Music]
+founder before we get to my latest
+positioning efforts a word from
+paddle.com The Merchant of record and
+sponsor of this episode so I've been
+using paddle for everything really
+related to making money with my recent
+businesses and they do more so that I
+have to do less and in fact they believe
+that the world needs more and that's m o
+Merchant of record and I very much agree
+and I also really enjoy a nice nerdy
+word play they deal with sales taxes for
+me and deal with invoices credit card
+charges fraud that kind of stuff so I
+can focus on my own business I get more
+of my time back and they handle more of
+the behind the scenes complexity than I
+ever could so yeah you probably should
+check out paddle.com to learn
+[Music]
+more coming out of microcon I've gained
+some clarity about something that I've
+been feeling for a while I talked about
+it last week in the hotel room room as I
+recorded last week's podcast episode but
+I've had some time mostly because right
+after that I went to the reception and
+talked to so many people and then talk
+to more people and then on the plane
+ride back home I thought a lot about
+that stuff and then came to a certain
+conclusion I think it's time to
+reposition pods scan and I have to shift
+away from this initial stuff that I
+build it as it was kind of Google Alerts
+for podcast that was the initial idea
+alerting and monitoring those were the
+main features cuz they probably were
+also the easiest ones to build initially
+to validate it and I have to move away
+from this a little bit because I have to
+move more decisively towards what is
+already the state of the platform
+comprehensive podcast database I have to
+embrace that what it is over what it was
+built to initially do this is not just a
+cosmetic change it's a genuine pivot
+really in Focus my focus and the
+product's functionality that aligns
+better with how people actually are
+using the product and kind of also
+aiming at who I want to use the product
+more out of the things that I see people
+do with it over the last couple months
+I've watched how customers have
+interacted with the platform the most
+telling indicator for me is the API
+usage because I built this whole
+platform as an API first product
+everything the platform does in the
+interface if you click around and do
+stuff can be done automatically as an
+API call as an automated feature and
+more and more customers are quite
+intensively using the API to access the
+data that potan offers which at this
+point is tracking 3.6 is million
+podcasts with a lot of metadata about
+who's on the show who's hosting the show
+where the show is hosted recency of
+episodes a lot of demographics and that
+kind of stuff plus what is now I think
+27 million actual podcast episode with
+transcripts for a massive majority of
+them just over 20 some million
+transcript scripts in the database
+itself that's a lot of data and that is
+more interestingly accessed through an
+API than it is clicking through stuff
+makes perfect sense right the API is a
+really good source to get specific info
+from this vast amount of data some
+clients are making six figure API
+requests every single day at this point
+that's my ideal customer and that's
+quite significant and it tells me
+something about the importance of the
+product and the value that we're
+providing to those particular customers
+I've been getting feature requests and
+ideas from my customers because they're
+using this to do real stuff to actually
+solve real jobs to be done people have
+been asking more and more about data
+exports and not just a couple things
+from a list that they might have inside
+of podkin but actual data exports of the
+full backlog of transcripts that sit in
+a database and to put that into
+perspective I just run an actual quer we
+have roughly 18 million fully
+transcribed episodes that have passed
+all our completeness checks with many
+more waiting to be processed or they are
+ready for a second pass to improve
+accuracy right that's how I get to the
+20 plus million there when customers are
+asking for this direct access to this
+kind of data volume they're telling me
+something essential about what they
+value and what they need I think this
+mostly is a machine learning effort or
+AI training effort that's probably what
+what this data is going to be used for
+at least those are the companies that
+are asking for it so I see something
+happening there and it's not just me
+wanting them to ask me to do it which
+was the state of mind that I had in the
+past now I'm actually getting these
+emails so this repositioning isn't just
+about how pod scan presents itself to
+the world it's about what I also
+prioritize in development and where we
+focus our resources in the product and
+the shift centers around two key
+principles one is data agility that's
+just how quickly it is available and
+then data Fidelity which is about
+ensuring data is better and more
+reliable more accurate more complete
+that's kind of what Fidelity is about I
+think agility is kind of part of it but
+I want to stress these two because I
+want it to be faster so people get their
+results quicker and I want it to be more
+precise and more accurate so people
+don't really have to do a lot of
+heuristics in terms of detecting errors
+or anything I want to do that for them
+and those principles are now driving the
+development road map for podan much more
+than before I'm focusing on features and
+on things that customers have been
+requesting for a while but that kind of
+felt previously unfeasible or too
+complicated or maybe not worth the
+effort but now that I see people
+actually using this and with the new
+Direction clarified the features have
+moved to the foreground because let's
+just be honest these customers also pay
+more it's a fact that once you use the
+API significantly you have to be on a
+more expensive plan and I recently
+implemented metered billing for plans
+that exceed these 5,000 API requests a
+day which means that for every couple
+thousand API requests I get more money
+so allowing people to get more data and
+putting more interesting stuff in the
+data that wants them to have more data
+is clearly a directional alignment thing
+so for me it's very important to focus
+on features that provide this so what's
+fascinating about this pivot is how it's
+forcing me to focus much more intently
+on the specific ways that my customers
+use that data and that very somewhat by
+customer segment but there are common
+patterns emerging to me one major use
+case that keeps coming up is host and
+guest tracking a lot of the people that
+look into the data try to recognize
+people in those shows right many users
+aren't just interested in the content of
+the conversation which is interesting to
+begin with but they want to know about
+the people behind the voices they're
+asking things like how trustworthy are
+these people that are speaking there how
+can I figure out more about them who is
+saying what what are the credentials of
+this host or this guest and what's their
+background expertise what other shows
+have they been on is their reputation
+somewhere and it's not just the content
+it's about context at this point who
+someone is shapes how we interpret what
+they say so any kind of additional
+information I could give to word that
+end is useful I've actually been
+extracting this kind of information for
+months but in a display only form so for
+every episode that I have I extract this
+data and I say okay this is the host
+this is the guest and I extract the
+names to so Social Links in our profiles
+maybe their website their occupation if
+I could figure it out from the episode
+content which was likely the case and
+that was it and when a new episode for
+that podcast came in I would do the same
+data extraction again sometimes the new
+extraction would be better more precise
+and sometimes a little bit worse than
+previous attempts because it was always
+done on this per episode basis right
+sometimes people would say what their
+occupation is and I could filter it out
+and sometimes they wouldn't and I
+wouldn't really know I would know their
+name but I wouldn't know is is this the
+same person or not so now I'm working on
+something much more powerful and that is
+entity tracking the concept is quite
+simple but gamechanging for the data
+Fidelity and the interconnectedness of
+data if a person can be reliably
+detected by their name on a show then
+the same name with the same social media
+handles may be occupation if they show
+up on another show well it's likely the
+same exact person and this means that I
+can say this one person well they appear
+here as a host here as a guest they
+mentioned in this episode and they
+sponsored this episode allinone one
+entity linked to all these things with
+all these roles entity recognition and
+attribution are becoming core
+capabilities of the data platform and
+I'm super excited about this because if
+you think about the fact that we ingest
+50,000 podcasts every single day which
+have at least one person to each of them
+likely two because there's a guest and
+maybe a sponsor and maybe they talk
+about a couple people that means that
+data just flows into the system is
+highly connected with other things right
+who talked about this person where now
+becomes an actual question you can ask
+of the API or of the data inside the API
+if you phrase it right and you get
+information it becomes very very
+interesting and unlike before where this
+information was just kind of layered on
+top of transcription data we're now
+tracking this stuff as entities in their
+own database and this opens up these
+incredible possibilities like following
+the same person across all podcasts that
+they've ever appeared on or connecting
+appearances on one podcast with mentions
+on other shows that happen right after
+or maybe the most interesting thing
+creating a graph of interconnections
+between people in the podcast ecosystem
+either visualizing to make it
+interesting or as a data model to then
+run queries on if you have a graph
+database very exciting this is extremely
+valuable for people who using podt scan
+for research and Outreach purposes
+imagine being able to query give me a
+list of all people who have been on this
+show and on these five other shows and
+they've been mentioned over there that
+stuff the things that we actually want
+right if we want to find a new guest
+want to find out where they have been
+talked about and where they have talked
+that was super hard to get in the past
+now with ntid tracking it becomes very
+easy and that kind of capability
+transforms po scan from a useful tool
+into an essential data platform for
+other useful tools to be built on top of
+and I want sugar coded here the
+recognition part is surprisingly
+complicated entity recognition is
+generally fraud with false positives
+wherever you look but it's particularly
+hard with data that comes from audio
+gets transcribed and then is analyzed
+there's always a little bit of loss
+along the way because think about a
+scenario like somebody says hey it's me
+I'm John from this kind of podcast and
+they never mentioned their full name so
+there's no additional information no
+homepage no email address or social
+media link it's just John from podcast
+XYZ so I ingest another podcast and it
+says hey it's John from podcast ABC is
+that a different John does one person
+have two podcasts kind of the same John
+or is it a very different John there's
+lots of John right is he the host of one
+show and guest on another it's hard to
+determine this programmatically with
+limited data but this is where the
+approach that we have gives us an edge
+because since we extract so much data
+from podcast episode and the adjacent
+social media profiles we have been able
+to develop really reliable heuristics we
+can say with let's say reasonable
+confidence that we know this person
+we've seen them before on a similar show
+it's quite likely that this is the John
+we're talking about right John has
+hosted this podcast 10 times it's
+probably the same John the system that
+I've currently running in my testing
+environment is quite reliable when it
+comes to this but it took time to set up
+the challenge was really finding the
+right balance of these flexibility and
+precision choices that you need to make
+in a heuristic because you need enough
+leniency to handle slightly different
+data that still belongs to the same
+entity like a sponsor might have
+different tracking links for each
+episode that they sponsor like a
+discount code in a URL but they're still
+the same sponsor I still want to
+recognize them as the same thing but at
+the same time you don't want two people
+with like similar sounding social media
+profile names to be automatically
+attributed to one individual like that's
+just merging too much data so a lot of
+stuff going on a lot of interesting
+little technical challenges but I know
+that there are entire businesses that
+Focus solely on solving these problems I
+have talked to them in the past to maybe
+solve my problems inside of can for me
+but for our purposes right now the
+system works reliably for any kind of
+normal thing like names of brands for
+people with names that are often Mist
+transcribed or very common it became
+less reliable for a bit but that's the
+nature of working with massive data sets
+and I fixed it by just adding the M
+transcriptions or more specifiers to
+theistic and now it detects them pretty
+well I'll just keep refining the system
+to make it better and more accurate the
+goal here is to enable it as a
+searchable feature for everybody on the
+platform and then API Centric stuff for
+people who built automations on top of
+it right you can search for a name and
+find all the episodes they're in all the
+episodes they mentioned in all the
+episodes and so on turning the platform
+more from this alerting monitoring thing
+into a fully data Centric thing and this
+product pivot is a consequence for me
+from being at microcom 2025 this year in
+New Orleans I finally understood who my
+main customer is and should be there and
+in the week leading up to it I had a
+couple conversation with a marketing
+expert that helped me see this more
+straightforwardly
+and that said I'm not abandoning any of
+the existing user segments because I
+think there's still a progression here
+there's a pattern that I've observed
+that is a transition path that customers
+often take because many people start
+using podan manually alone often the
+first person in their agency or
+marketing department to adopt a tool for
+a specific project they just need
+something to track alerts and then later
+they might get others in their
+organization interested they invite them
+into a team and eventually someone turns
+it into a more automated part of their
+business or their project or the job
+that they need done and the agency then
+starts using the API and that's when
+they upgrade to a higher plan because
+that's when the API features kick in
+that they need I've seen several
+customers follow this exact path and it
+tells me that maintaining both the
+manual interface and the powerful API is
+important to get people to be API
+customers features just serve different
+stages of the customer Journey it's a
+journey through the product to a higher
+plan and this repositioning has
+clarified not just what pocan is but
+also what it's not I don't think but
+just a marketing monitoring tool anymore
+I think pocan has morphed into a
+comprehensive podcast data platform with
+quite unique capabilities now around
+entity tracking and relationship mapping
+but just about data
+connectivity and by focusing on this
+this core value prop of having the best
+the most comprehensive podcast data
+platform I think we can make better
+decisions about where to invest
+development time features that enhance
+data quality and comprehensiveness and
+even accessibility are priorities now
+compared to monitoring capabilities that
+have kind of become secondary they're
+still there right I've built this in the
+past it's still working because it
+doesn't ever change but I'm not going to
+refine that too much I'm going to dive
+deep into the data now for existing
+users this means that they would just
+have more powerful data capabilities and
+more reliable information particularly
+for those using the API just richer data
+sets more sophisticated crpe
+possibilities and that's exciting
+because I can also build features on top
+of that but you know that's future talk
+and those who are considering podan
+right now probably have a clearer
+understanding of the value proposition
+well they will soon because I still not
+communicating this too well I incredibly
+excited to move into this direction
+building out entity tracking and
+attribution that's just the right step
+and it aligns with how the most engaged
+users are already using the platform but
+I need to do something about how we
+present it so in the coming weeks you
+will see these capabilities swoll out
+both in the user interface and in the
+API and you'll be able to follow
+entities across shows understand
+connections between these things and
+gain insights that simply were not
+possible before but I have to do
+something about how I present the
+landing page of the product like right
+now it's a mix of everything it's
+focused on alerting it has API stuff it
+talks about every single thing kind of
+on the same level and if the talk given
+at microcon gives me any kind of
+indication then I should be moving the
+landing page toward a very platform
+Centric just projection of what pod scan
+is and move the alerting and all the
+other features down on the page if not
+onto their own landing pages I need to
+make very clear what the main purpose of
+PODS scan is to potential customers so I
+get more that are interested in API
+capabilities and get fewers that just
+want alerting because if I want the
+customer journey to be moving toward
+being an API customer then I should get
+people on board from they one right from
+the first time they see the product so I
+really need to do this very soon moving
+the
+self-determined positioning of the
+product onto how I communicate about it
+on the landing page and I really want to
+get it done within the week so I'm kind
+of tasking myself just to stay
+accountable to get this done before I
+record the next episode of this podcast
+and I guess next week you'll see if I
+have done it or not but I just need to
+move a couple things around to make it
+more obvious but that's thinking work
+and thinking work takes time and the
+right place to do it so yeah that's
+that's my task for myself for this week
+is to shift how I communicate the main
+purpose of podan who the main Target
+customer the main ICP is for this
+product and for the whole business and I
+really want to get it done because you
+know the platform is being developed Ved
+and being becoming better and better and
+I need more people to actually
+understand that this would be for them
+so that's the plan tune in next week see
+what
+happens and that's it for today thank
+you for listening to the boot founder
+you can fight me on Twitter at AIT a
+rvad KL if you want to support me in the
+show please share pocan FM with your
+professional peers who you think will
+benefit from having this amazing data
+API it's a near real-time podcast
+database with a really well-designed
+push and pull API so please share the
+word with those who need to stay on top
+of the podcast ecosystem and present
+data to their own customers thank you so
+much for listening have a wonderful day
+and bye-bye
+[Music]

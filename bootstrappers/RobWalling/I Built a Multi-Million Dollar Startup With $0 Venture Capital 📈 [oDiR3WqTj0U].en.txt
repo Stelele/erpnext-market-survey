@@ -1,0 +1,500 @@
+﻿on July 1st of 2016 I signed a contract
+that finalized the sale of my company an
+email marketing platform called drip the
+following day my life changed forever
+when the acquirer wired millions of
+dollars to my bank account it was more
+money than I had ever seen in an amount
+that meant I would never have to work
+again you probably think that all your
+worries go away when you sell a company
+for that much money but honestly the
+build up of years of stress damage I
+done to my mental health and frankly to
+my closest relationships made it a
+Bittersweet moment I also had to let go
+of the company that my co-founder and I
+had been building for the previous three
+and a half years and during that time
+drip had become a big part of my
+identity and on that day in July I
+handed the keys to someone else in this
+video I'm going to talk about how I
+built a multi-million dollar startup
+with no Venture Capital I'm gonna talk
+through my journey from being a software
+developer making several hundred
+thousand dollars a year for my own
+software products to building a rocket
+ship that changed the course of my life
+and culminated in a financial outcome I
+never would have expected and per usual
+if you stick around to the end I'm going
+to tell you the biggest regret I have
+around building growing and selling drip
+I'm Rob Walling I've started six
+companies five of them bootstrapped I've
+written four books on entrepreneurship
+and I've invested in more than 125
+startups so we sold drip in 2016 but now
+I want to roll the calendar back four
+years earlier to 2012. I had this
+amazing lifestyle business called Hit
+tail it was a SAS application that was
+doing tens of thousands of dollars a
+month in net profit and I was the only
+employee so it was a pretty amazing cash
+flow business hiptail got a lot of
+traffic mostly from SEO and while it had
+a decent trial to paid conversion rate I
+wanted to capture emails on the website
+since I had used email marketing in
+every product business that I had run to
+date and it had always been one of the
+most profitable channels so I hired a
+contractor to help me out he was working
+about 20 hours a week for me and I asked
+him to put an email capture widget on
+every page of this site this is hundreds
+and hundreds of pages and this is before
+this existed as a product now there's
+optinmonster there's Sumo there's a
+bunch of options for email capture
+widgets they didn't exist then so the
+contractor I hired was actually Derek
+Reimer whose name you might recognize if
+you followed me for any amount of time
+he would later write every line of code
+for the first 15 months of drip and he
+became a retroactive co-founder as we
+started to scale the company so it took
+him a week to wire up what I thought was
+a pretty simple request he had to dig
+into open source JavaScript write a
+bunch of custom JavaScript himself style
+the thing post subscribers into
+MailChimp and I thought there has to be
+a better way than this and we looked and
+there was not so I realized that this
+might be a problem other entrepreneurs
+were having which is I have hundreds and
+hundreds of pages on my website I'm not
+going to go and drop an embedded form
+into each page but I want a little
+toaster pop-up widget maybe an exit
+intent we didn't offer exit intent at
+the time but the idea was to get
+something where it's like JavaScript
+into a footer and now I can activate it
+and deactivate it across any or all
+pages on my website didn't exist as a
+product when we started building drip
+and that was the initial idea for it so
+instead of going in my basement and
+coding for six months I went to try to
+validate this I emailed 17 entrepreneurs
+that I knew I asked if they would pay
+for a nice widget plus an email sequence
+11 of them said yes and that was enough
+validation for me I decided to
+productize the widget and at that point
+I called it velvet mail and I'm glad who
+dodged a bullet with that one I'm glad
+uh it later was renamed drip before we
+launched but my contractor Derek agreed
+to work the other half of his week
+because remember he was working 20 hours
+a week on hittail this might show you
+that I had no idea what drip would
+become I was not building it to be some
+multi-million dollar company I literally
+thought it would be another nice
+lifestyle business I wanted it to get
+bigger than hit tail but I had no idea
+how big it could get so Derek agreed to
+work the other half of his week building
+it and we sketched out the basic
+functionality and he started coding all
+that was in there was an email capture
+widget you could install with one line
+of JavaScript then you had an email
+follow-up sequence once someone
+subscribed and that's it there were no
+broadcast emails I don't believe you
+could even be in multiple sequences at
+the same time or switch sequences it was
+it was very very simple and so while
+Derek built I got excited because when
+you're building you know all the
+potential that you have when you're
+gonna launch right it's this really
+exciting time and so he was writing code
+and I was marketing and I went out and
+marketed in every way I knew how I was
+starting to do SEO with blog posts and
+essays I went on every podcast that I
+could get on I use my social media
+following I ran Facebook ads this was
+all going to a landing page back then it
+was at get drip.com and the value
+proposition was we're going to improve
+your visitor to trial conversion rate
+using email marketing that was it I
+didn't go into a bunch of specifics
+about exactly how it would work but I
+was able to gather 3 400 emails for our
+launch list and 3 400 emails I thought
+was pretty good it was probably the
+biggest launch list I'd ever had so six
+months after the first line of code in
+the middle of 2013 we onboarded our
+first two or three customers we did this
+completely manually by hand so to speak
+there was no billing in place there was
+no way to create an account everything
+was manually inserted into a database
+just to get a couple people in these
+were people that I knew we instantly ran
+into several speed bumps too we thought
+we'd covered everything but of course we
+had not so an example of that is if
+someone unsubscribed from drip they
+would still be subscribed on your main
+email list because remember drip was
+almost like an add-on to MailChimp or
+aweber or your other email service
+provider it couldn't do all the
+functionality that ml Champion aweber
+could do it was really an add-on and so
+you had to use both and that instantly
+became a pain point because if someone
+unsubscribed from your MailChimp list
+now are they still receiving it from
+drip and vice versa we started to
+realize that drip was severely limited
+in its feature set and really it
+probably should have been a feature of a
+larger email marketing platform so we
+started building a few features to make
+it into an email marketing platform or
+email service provider to compete with
+the likes of mailchimper aweber although
+we were a light version of that we
+didn't have all the functionality that
+was not the original vision for drip but
+we realized within the first five ten
+customers that we had to change
+something because there wasn't enough
+value for people and this is something
+as an entrepreneur yourself you're going
+to run into where you have a vision and
+you're so sure that it's gonna be a half
+a million dollar product or a 10 million
+dollar product and once a customer
+starts using it you're going to realize
+wow I was wrong and you have to be able
+to take in disparate and often confusing
+and contradictory feedback and make
+these hard decisions with incomplete
+information this was one decision that I
+made which was to turn drip into
+essentially an email service provider so
+we added broadcast emails we added some
+reporting took a month or two and pretty
+soon we were a lightweight email
+marketing platformer the great user
+interface we had about 10 customers each
+paying us around 50 a month then over
+the course of the next several months we
+used a phased launch which I've talked
+about on this channel before we launched
+all 3 400 people on our launch list so
+it was three to five hundred people
+every few weeks we would launch people
+would come in we'd get them onboarded
+we'd build frantically the things they
+needed to not cancel and then we do it
+all over again and so over the course of
+I think it was about four or five months
+we landed almost 200 paying customers
+and our Revenue was just under eight
+thousand dollars of mrr by the end of
+2013. I was stoked eight thousand
+dollars at the time was enough to pay
+for you know mostly full-time employee I
+thought it was a great launch and I was
+ready for rocket ship status and to
+start adding two three four thousand
+dollars of mrr to drip each month but
+that didn't happen what actually
+happened is we hit a massive Plateau as
+Paul Graham says we hadn't built
+something people wanted in today's terms
+you might say we had little or no
+product Market fit I like to think we
+had weak product Market fit what had
+happened is I had the curse of the
+audience I had a bunch of people in my
+audience who wanted to support me wanted
+to help me out wanted to check out what
+I was up to but they didn't really need
+a new email service provider and so
+people would sign up and then they would
+leave we weren't different enough from
+cheaper players MailChimp and aweber
+were cheaper than us at low levels of
+subscribers so I agonized over this
+killed me I was pumping money into ads I
+was doing all this marketing and we were
+leaking our customers up the bottom of a
+leaky bucket churn was too high we did
+not have product Market fit so I spent
+the next couple months watching
+cancellation feedback and having a bunch
+of one-on-one conversations with
+customers a lot via email there was a
+lot of noise like a lot of disparate
+feedback you slower your prices this
+isn't worth 49 a month build a mobile
+app add a CRM and then this would be
+worth it right the months were very
+stressful and I was filled with a ton of
+self-doubt and it was at this time that
+I started really confiding in my
+developer Derek Reimer about the
+direction of the product and we started
+really discussing you know which way
+should this go and I'm gonna be honest
+during this time I had imposter syndrome
+like crazy I don't know if you've heard
+of that but the idea is that you think
+you're an imposter and that you're not
+actually good at something that you are
+good at so I had already built three
+successful companies before this I was
+supposed to be good at this I knew how
+to Market I knew how to code I knew how
+to grow software products but the
+nagging doubt kept creeping in that
+doubt of did I really just get lucky
+with everything before this as I was
+wrestling with this self-doubt over the
+course of several months losing sleep
+anxious stressed there was one piece of
+feedback I got from a couple people it
+wasn't a ton but it was three four
+people and it really resonated with me
+the feedback was build email automations
+turn drip into a marketing automation
+platform and I'm gonna be honest I
+didn't know what that was this was
+probably January or February of 2014 I
+had used several different email service
+providers MailChimp aweber campaign
+monitor but I had never heard of
+marketing Automation and I didn't know
+what email automations were so I buckled
+in and I did a bunch of research so I
+found out they're things like if you buy
+a product let's say through stripe or
+Shopify or PayPal that your marketing
+automation platform gets pinged and you
+tag that subscriber with a customer tag
+or if they click a link in an email you
+can receive a tag that you're interested
+in a particular type of content today
+this is table Stakes right for for any
+email service provider and you they
+wouldn't even call themselves a
+marketing automation provider but back
+then it was kind of like email marketing
+but with more intelligence and more
+sophistication and a little more
+automation baked in and I resisted this
+it sounded terrible sounded complicated
+it sounded boring all the marketing
+automation providers were these big
+Enterprise companies they were crappy
+software and I felt like I was going to
+be entering a space that I wouldn't
+enjoy and it was going to be stressful
+and they had all raised tens of millions
+if not hundreds of millions of dollars
+and then at one point I realized we
+could seriously disrupt these players
+people really disliked the big tools
+these were called entrepur Infusionsoft
+Marketo pardot silver pop they were
+overpriced so we could be cheaper and
+still make a ton of money our ux and
+user interface was far superior already
+and we could maintain that we used a
+self-service model with an optional demo
+they required a whole sales process we
+moved faster we didn't have their
+funding or their brand recognition but I
+felt like our advantages as a Nimble
+startup could when and out against these
+massive incumbents many of whom as I
+said had raised tens or hundreds of
+millions of dollars and in fact that's
+how it played out we obviously didn't
+topple these big incumbents but we
+carved out an incredibly profitable
+Niche and from that point until we built
+a multi-million dollar SAS company was
+less than two years it was a pretty
+incredible journey so rolling back to
+that moment where I just decided we have
+to take this risk I talked to Derek I
+said I think we need to dive into
+marketing Automation and over the next
+seven months we built and launched one
+automation at a time we put them into
+production and with each automation
+launched our trial to paid conversion
+went up and our shirt went down every
+metric of the business changed for the
+better I remember looking in our custom
+dashboard that had all our SAS metrics
+and pointing to the graphs and saying to
+Derek that's it that's what product
+Market fit looks like all the numbers
+just switched from being a flatlined
+business to something that started
+growing by two or three thousand dollars
+in mrr that month and every month there
+after and I want to be clear it wasn't
+just product it wasn't just adding
+features I was marketing like crazy I
+hired a head of marketing and we were
+running Facebook and YouTube ads I
+appeared on every podcast that would
+have me sound familiar hammering out
+articles for SEO we built and
+co-promoted dozens of Integrations which
+brought us a lot of new customers it was
+pedal to the metal on both product and
+the marketing fronts and pretty soon our
+growth accelerated it wasn't just two or
+three thousand dollars a month of mrr by
+the time we hit 40 or 50 000 a month we
+were growing at 5K a month and then
+later on we were growing at ten thousand
+dollars of mrr every month and I'll be
+honest it was hard work and it was
+stressful and I thought about the
+business day and night we expanded the
+team we eventually had 10 people on the
+team completely bootstrapped and we were
+actually Venture beats number one choice
+for marketing automation providers for
+smbs and we made their top 12 list of
+marketing automation providers out of
+hundreds of competitors and the other
+nine ahead of us had all raised Millions
+if not Deca millions in funding I hadn't
+built drip to sell it but we started
+getting a lot of inbound interest both
+of venture capitalists who wanted to
+invest but also people who wanted to
+acquire drip and as it was growing I
+became stressed that I had literally
+millions upon millions of dollars in net
+worth stuck in this one software product
+and by that time I had sold all my other
+products companies whatever you want to
+call them so I was all in on drip and it
+made me nervous over the course of about
+18 months we had five or six pretty
+serious conversations about selling drip
+and the acquisition that wound up going
+through took 13 months from the first
+email that I received from clay Collins
+in June of 2015. during that time we
+negotiated and walked away many times it
+was the most stressful Year of My Life
+by far we were growing the company not
+knowing if we were going to keep it or
+sell it and all the while negotiating
+like crazy for the best deal it took a
+toll on me mentally which impacted how I
+related to my friends and family and I
+really had no space for anyone else but
+kind of my own agonizing thoughts and
+that's one thing that I never want to do
+again when the deal closed in July of
+2016 I called a friend of mine and I
+told him I'd sold the company and I just
+cried I cried on the phone and it wasn't
+sadness and it wasn't happiness it was
+too many emotions to contain and
+honestly it took me months maybe even
+more than a year to decompress and to
+get back to a normal sense of self and
+sense of life after the drip sale closed
+I worked on drip for another 18 months
+after that and when Derek and I left in
+2018 I took six months off as he started
+working on his next startup I played my
+guitar I hung out with my family and I
+read a lot of books it was one of the
+most peaceful times in my life and I
+celebrated the journey you know a
+building and selling drip but one thing
+that never returned it has never
+returned since that moment in 2016 is
+the self-doubt and the Imposter syndrome
+that I felt in the early days of trip my
+building and selling grip I had proven
+to myself permanently at least until now
+seven years later that I could do it and
+I could do it again and that confidence
+is carried on as I've grown my company's
+microconf and Tiny Seed in the stair
+step method drip was my step four
+business the stair step method only has
+three steps but I'd already had a
+profitable Standalone SAS with hit tail
+but drip was that next level the 10x
+business it was a 10x larger 10x more
+competitive and 10x harder and in all
+honesty I've never regretted the
+decisions I made while running drip nor
+the decision to sell it but I do have
+one regret that I'm going to tell you
+about in a minute before I do that I
+want to let you know about my new book
+it contains everything that I learned
+building and growing drip and everything
+before and since as I've invested in 125
+companies you can see the cool cover
+here to my right and I have a preview
+copy here of the hardcover I'm running a
+Kickstarter in April and I'd love it but
+if you would check it out and back it
+you can go to sasplaybook.com to find
+out more about this book that can help
+you do what I did build an incredible
+company without Venture Capital as we
+wrap I want to tell you about my biggest
+regret and it's that I didn't do a
+better job of managing my emotional and
+my mental health I was a wreck for
+months maybe more maybe more than a year
+I was sometimes stressed I was sometimes
+depressed and it really took a toll on
+my relationships as I said above if I
+could change one thing about my
+experience I would have spent more time
+exercising I would have spent more time
+sleeping I would have spent much more
+effort and resources staying sane so
+that I could live a happy life while
+building and exiting such an incredible
+company I hope you enjoyed this video if
+you did please like And subscribe in
+next week's video I'm going to cover two
+new AI tools you've probably never heard
+of
+[Music]

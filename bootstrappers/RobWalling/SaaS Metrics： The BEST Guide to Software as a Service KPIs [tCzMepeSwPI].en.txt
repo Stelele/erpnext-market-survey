@@ -1,0 +1,859 @@
+﻿And we are live. Welcome to today's
+episode of MicroCom on Air. As always,
+I'm your host, Rob Walling. Every other
+Wednesday at 1 p.m. Eastern, 10 a.m.
+Pacific, we live stream for about 30
+minutes. We cover topics related to
+building and growing ambitious SAS
+startups that bring us freedom and
+purpose and allow us to maintain healthy
+relationships. We don't ask for
+permission to start companies. We build
+and ship real products that sell to real
+customers who pay us real money. Thanks
+so much for joining me again this week.
+I'm excited to cover this topic today.
+It's something I think some folks might
+feel is a little boring or it's
+something, you know, that they don't
+want to dig into. But the best SAS
+founders I know are looking at their
+metrics. Whether you call this SAS
+metrics, whether you call it my my
+numbers, whether you call it SAS KPIs,
+which I find jargony because I didn't
+know what KPIs were for for years. I
+thought of as this is MBA term but I'm
+going to define it here in a second.
+Whatever your thoughts are on this I
+have a framework the three high three
+low framework of the six SAS metrics you
+should be covering. So today's topic is
+SAS metrics the best guide to software
+as a service KPIs.
+So, if you've heard of Peter Ducker, he
+is a management expert, management guru
+who has written a ton of books and um
+you know has educated a lot of folks on
+how to run and build companies. And
+something that he is famous for saying
+is what gets measured gets managed. And
+in a SAS app, like any company, we do
+need to know some numbers. And what I
+found is that some folks get overwhelmed
+by it, right? They get overwhelmed to
+the point where they're trying to track
+30 different numbers and keeping those
+numbers, you know, not keeping them in
+your head, but keeping the allowable
+ranges in your head. Um, too many things
+can be too distracting is really what it
+is. So, what I'm going to talk about
+today is my three high, three low
+framework for SAS metrics. And obviously
+in the title of this video, you know, I
+talked about the best guide to software
+as a service KPIs. So you might be
+thinking, what is a KPI? That's just a
+simple acronym for key performance
+indicator. And key performance
+indicators are the things that we are
+going to monitor. So again, whatever you
+call them, even if you don't have to use
+the term KPI, you can use the term
+metrics, you can say our most important
+numbers, our northstar metrics, any of
+these things work. KPI is just a term
+that a lot of folks use and understand.
+So with that said, let's dive into the
+three high, three low framework.
+And we're I'm going to start with the
+three low. So these are three SAS
+metrics that you should be tracking. You
+should know these numbers by heart. And
+you should know the the realistic range
+for your app, where it usually is, where
+it usually falls, and you should know
+where it should be in the broader, you
+know, SAS ecosystem.
+kind of the rules of thumb that I often
+talk about, you know, um, you know, the
+the state of independent SAS survey and
+report that we do every year has ranges
+and has a histogram of how many
+companies fall into, you know, which
+bands for a lot of these metrics as well
+as if you have experience with across
+multiple SAS companies, um, you or
+you're in Microsoft Connect, you can ask
+opinions. I'm always happy to weigh in
+on on rules of thumb. um you know
+knowing these metrics and then knowing
+the kind of the rule of thumb ranges you
+should be in this this is what you want
+to do if you want to optimize and grow
+your SAS company faster. So let's take a
+look at the three low. We'll start with
+the first one. It's the cost to acquire
+a customer. It's often pronounced CAC
+because it's CAC.
+This number in a perfect world you want
+to be low. And now what you'll notice is
+that a lot of these KPIs are in
+opposition to each other. their
+intention. So, right now I'm going to
+say cost to acquire a customer should be
+low or you want it to be as low as
+possible. Um, and then when we talk
+about things that we want to be high,
+I'll talk about, you know, annual
+contract value needing to be high. And
+oftent times the higher that is, the
+higher it is to acquire a customer
+because they're worth more. So, you will
+see that these things are intention. But
+again, in a perfect world, the three
+high, three low framework has three of
+these you you're trying to push up. you
+want them as high as possible and three
+that you're trying to move you move
+lower. So the cost to acquire customer,
+what are some ways that you can
+essentially lower it? And I don't just
+mean little tactics, but like if you're
+deciding whi which app to build or what
+industry to build in, that can have a
+major impact on your cost to acquire a
+customer. So, one way to have a low CAC
+is to enter a large market with an
+incumbent, usually a large incumbent
+where people are looking to switch away
+from that incumbent. Maybe that
+incumbent has raised their prices so
+much over time that people don't feel
+like they're getting the value and they
+it just feels outrageously expensive for
+what they're getting. Maybe that
+incumbent is not innovating anymore and
+their product is lagging. Maybe the
+product is really buggy. Maybe the sales
+process is annoying and people just have
+a bad taste in their mouth.
+You can imagine uh examples with a big
+incumbent like Salesforce, right? It's a
+big company started 20 years ago I think
+now. And so the product is obviously
+kind of kind of tough to work with. It's
+very expensive. The sales process is
+ownorous. It's all the things that make
+people dislike a company and not want to
+use their software. So you can imagine
+Pipe Drive and Close.com which are
+Salesforce um competitors. They've they
+probably have a pretty easy time picking
+away people, refugees I used to call
+them. They're they're Salesforce
+refugees who really want to get out and
+they are looking to switch actively
+because when people are not looking to
+switch, it's harder to find them. With
+Drip, which was an ESP that I built and
+sold in 2016, we looked at Infusionoft
+and Entreport, which were these
+marketing automation platforms, and
+people did not like them. The software
+was awful. It was buggy. The sales
+process was rough. They were expensive.
+It's all the things that you wanted and
+we found it very easy to pull refugees
+from them. You can imagine uh intercom
+these days. I think intercom's product
+offering is still really good, but I get
+the feeling and I'm hearing, you know,
+the kind of the word on the street is
+that their pricing feels a little high.
+Their pricing feels a lot high to a lot
+of SAS founders and they're looking to
+switch away and figure out intercom
+replacements. And so a company like user
+list who does part of what intercom does
+is is reaping the benefit of that.
+Right? So this is one way to have uh low
+cost to acquire a customer. Another way
+is to really double down on organic on
+content and organic search. Organic
+search and ranking in whether it's
+Google, whether you rank in Amazon,
+whether you rank in WordPress plug-in
+repo, whether you rank in YouTube.
+Organic search is a way to get free
+traffic. And I put free in quotes
+because really it's free except for your
+time. You know, I'm assuming you're a
+founder, you're early stage, you're
+going to be doing a lot of this
+yourself. Organic search is actually
+quite expensive if you have to hire a
+team to do it, but there are companies
+um in Tiny Seed, the startup accelerator
+that I've run, who have really mastered
+the art of SEO and are ranking very high
+for terms that apply to their business.
+And one example of that is, and they've
+been very public about this, is Scraping
+B. And they have um they are now a
+seven-figure business. Again, they're
+public about this. um and they have done
+a tremendous amount of that through
+content and SEO and they have a low cost
+to acquire a customer because of it.
+When you get into things like
+pay-per-click ads, you know, Adwords and
+such, um that is where things get
+expensive. I'm not saying you shouldn't
+do them, but I am saying your cost to
+acquire uh will go up. In a lot of
+spaces, having a high cost to acquire is
+a necessity, right? If you're marketing
+into construction uh firms or you're
+marketing into government or education,
+you know, there's a lot of things where
+the cost acquire is going to be really
+high. Um, but another way to keep your
+cost to acquire low is to enter a space
+with lots of online chatter. There's a
+lot of forums, there's a lot of Facebook
+groups, etc. that are already talking
+about them. If people are already
+online, they can tend to be easier to
+reach if you hang out in those groups
+and you have conversations. And the
+fourth way that I was uh as I was
+brainstorming this uh to have lowcost
+acquire is if there are people with
+audiences talking about the problem that
+your tool solves.
+So there are a lot of people already
+with podcast audiences, YouTube
+audiences, you know, blog followings
+that are talking about marketing,
+entrepreneurship, startups. And so if
+you have a tool for one of those
+audiences, you can get in front of their
+audience. It's other other people's
+other people's audiences, right? That is
+a way to kickstart or quickly get a lot
+of customers at low cost. You know that
+there are many fewer big audiences
+podcasts and such with audiences of like
+CEOs of large construction firms or
+heads of government agencies. I'm sure
+they exist but you know that it's not
+going to be as easy to reach those folks
+and therefore the cost to acquire is
+going to be higher. So that was cost to
+acquire. That's our first one. Second
+one is sales effort. This is when we
+want to keep low. So I'm defining sales
+effort as both like how many calls, how
+many touch points you have to make in
+order to make a sale and how long the
+sales cycle is. So it's duration plus
+effort or it's duration plus uh number
+of touch points and I'm calling that
+sales effort. How can we keep this low?
+What are ways to to keep it low? So the
+first one is to enter a space where you
+can have selfservice sign up and
+onboarding. I often call this lowtouch
+or no touch sales process. And so
+examples of this are lowcost tools like
+snappa.com
+which does social media images. And I've
+interviewed the founder Chris Gimmer and
+he said, "Yeah, our churn is higher than
+we'd like it to be, but it's really easy
+to get new customers. It's not
+expensive. They going back to that low
+cost to acquire. They're really good at
+SEO and they have a self-serve signup
+and onboarding process." And so Snappa
+has taken advantage of really low sales
+cost. Squadcast.fm,
+which is where I record all three of my
+podcasts. It's podcast recording
+software. And while they do have big
+enterprises coming for, you know,
+multi,000 deals, they also have $9 a
+month, $14 a month plans. And so they've
+built out self-service signup and
+onboarding.
+another way to hey, you know, if you
+can't do there's spaces where you just
+can't do self-s serve sign up and
+onboarding, it's just not going to work.
+But a lot of spaces um and a lot of
+industries and a lot of customer types,
+you can do a one call close and trying
+to get to the point where the the
+decision is not made by committee. Maybe
+it's made by a founder or a developer or
+a single developer manager. That's when
+you can do a one call close. If the
+decision is made by multiple people and
+they can't all be on one call, then it's
+always going to be a call and a back and
+forth and you you needing to provide
+more sales material, usually a second
+call, and that's when sales effort
+increases. So again, I'm not saying that
+you can't succeed if you don't have a
+one call close because there are many
+companies that I'm intimately familiar
+with that do, but they spend a lot of
+their time trying to shrink that sales
+effort because it's expensive and it's
+timeconuming.
+All right, the third uh metric, third
+KPI in our three low category is churn.
+Churn is the percentage of people that
+are cancelling each month. Right? This
+churn is is the Achilles heel of SAS. It
+is what kills SAS apps. And
+how do you know how do you get your
+churn low? That's a huge goal. If you
+can get your churn low, you can grow
+infinitely. Just incredible. Um, and
+you know, you can get your turn low by
+having product market fit, which I know
+is not helpful because that feels like
+more jargon, but product market fit is
+that you've built something that people
+really want and are willing to pay for.
+And once you hit that point and then
+you're finding the right people and
+you're turning away the wrong people,
+oftentimes with positioning or with
+raising your prices or with even a
+qualification process, a demo only. You
+know, I've seen companies do all kinds
+of things.
+You can uh drive your churn down
+overall, but there's some other ways to
+do it, too. There is um like having
+exceptional onboarding that gets people
+to that aha moment quickly. So, if you
+go to useronboard.com, you can see
+Samuel Hulich reviewing a bunch of uh
+big, you know, onboarding flows and you
+can get some best practices from there.
+I call it the minimum path to awesome,
+MPA. And it's what's the minimum path to
+where that customer is basically getting
+value out of your product. Um because if
+people don't onboard, they're going to
+churn, right? That's the first step.
+Product market fit will give you low
+churn over the long term. Like it will
+it will it means people won't leave in 6
+months, 12 months, 18 months. You have a
+very long lifetime value of that
+customer. But if they're not getting
+onboarded in the first place, product
+market fit doesn't help you very much.
+It helps you a little because people
+will be motivated to try, but if your
+onboarding isn't good, you're still
+going to have churn. So having things
+like easy setup, couple clicks to import
+from their old tool, they don't need a
+consultant to get set up. These are ways
+that you can cut that first 60 or 90day
+churn, and then having, you know,
+product market fit really gets you that
+post 60 to 90 days. So there's two
+different factors in there.
+Last one I thought of for keeping churn
+low is having product innovation so that
+you don't become that stodgy incumbent
+that I mentioned above. As much as you
+know we want to raise prices over time
+with SAS, I mean that's like a a great
+secret. Um it's that's like a great
+secret of SAS. You also don't want to
+become the the company or the app who's
+raising prices and not innovating
+because you will come and get chewed you
+you get chewed on from below the
+innovator's dilemma and people will will
+take you know take advantage of that.
+All right. So, those were our three
+high. I'm sorry, those were our three
+low. And now we're going to look at um
+our three high, which are the three
+metrics, KPIs that we want to increase.
+The first is ACV,
+annual contract value. Way to keep your
+ACV high is to sell to businesses. And
+usually it's the larger the better. And
+so this is one of those that I was
+talking about is intention with cost to
+acquire a customer because usually
+selling to larger customers requires
+more sales effort and you know has uh
+requires more um a higher cost to
+acquire but selling to businesses not
+consumers. Um and then you know the
+larger the businesses are usually the
+the more they're able to afford um to to
+pay more. There's a balance here because
+if you do want to go self-s serve and
+you know you want that one call close,
+well, you can't you can't sell to
+massive Fortune 5,000 500 companies,
+right? Because they're not going to not
+going to be doing it. Another way to
+keep your ACV high, annual contract
+value high is to price based on value
+metrics. And that of course is the high
+the more value the customer gets out of
+your product, the more they should pay
+you. And usually with let's say an ESP,
+an email service provider, this is based
+on the number of subscribers they have.
+Or if you're using CRM software, it's
+based on the number of seats, number of
+salespeople because the more sales
+people you have, you're likely getting
+more value from the software. So pricing
+based on value, pricing based on value
+metric is another ways another way to
+raise ACV.
+And as every micro ever has told you,
+and hopefully I've told you this enough
+over the years, you should raise your
+prices over time. That's just the
+natural progression of SAS. It's a
+natural progression of the economy,
+right? That money becomes less valuable
+over time. So even uh you know the
+dollar store is going to raise their
+prices to a buck 25 for everything
+because because you just have to because
+even small amounts of inflation will do
+that. And uh not only that but SAS is
+evolving and getting better over time
+and so you you you are providing more
+value and therefore um you should raise
+prices. So ACV was the first in my um in
+my three high expansion revenue is the
+second one. So every business wants
+subscription revenue because it is the
+business cheat code. This is my my
+quote. I've been saying this in all my
+pricing talks. Every business wants
+subscription revenue because it's the
+business cheat code. But we get that for
+free with SAS because we have
+subscription revenue built in. In SAS
+expansion revenue is the cheat code.
+That's the thing that we aspire to do.
+The way to get expansion revenue is that
+as customers get more value out of your
+product that automatically poof they pop
+up into a higher tier or they pay you a
+little more. Right? So this comes back
+to the value metric I talked about
+earlier. But you can do it with a value
+metric, you can do it with feature
+gating or you can use uh both. And in
+fact I just gave a talk about this
+that'll we'll probably have up on
+YouTube um here in the next couple
+months. But um there's a lot more to go
+into. Obviously, I don't have time to to
+talk about now, but um the fact is you
+want to charge more. You want to charge
+more to your customers, but you want to
+charge more to your right customers. And
+you have different segments of customers
+that are willing to pay more. And for
+those folks, um you got to figure out
+what is that value metric or the feature
+gate to get them there. And lastly, the
+sixth KPI, it's the third and the three
+high is referrals. And so you want there
+to be a lot of referrals because that
+natural flywheel of virality or of of
+constant referrals is a huge it can have
+huge conversion rates and in fact word
+of mouth at over time can become one of
+your biggest drivers and one of
+certainly one of your highest converting
+drivers. So with referrals like truly
+having a viral loop is best. So, if you
+uh you know, if you know of Savvy Cow,
+it's a Calendarly competitor. Truly, if
+you I'm I I'm a customer of Saval, and
+when I send out my SavvyCal link to
+people to book time on my calendar, they
+look at it and they think, "Oh, I wonder
+if I could use Savvy, right? They're on
+a page. It says powered by Savvy." Like,
+that is a true like built-in virality.
+It's pretty cool. Same thing with
+Signwell, uh which used to be called Doc
+Sketch, but it's electronic signature
+app. you send out the link and people go
+to sign it and they say, "Oh, this is a
+really nice app. Maybe I'll try it."
+Right? So, having that built in is
+pretty incredible. If you can't do that,
+if there's no way for you to get some
+type of virality, um you can ask for
+referrals. Usually, if you see people
+converting and being really happy with
+your product, getting onboarded um at 60
+to 90day range, then within a few weeks
+of that, I would have an automated email
+that goes out and says, "Hey, we you
+know, so much of our business and is is
+based on referrals. If you're really
+enjoying it, could you please refer a
+customer, could you please pass this
+along? Could you please make an, you
+know, you get figure out your ask there?
+Um, there is a way to measure virality
+and it's the viral coefficient, right?
+It's a number of new customers generated
+by one satisfied customer. A lot of
+businesses, hard to bake the virality
+in, but um but that that's where we are.
+So again, the six SAS metrics KPIs you
+should be tracking. There's the three
+low, which are cost to acquire customer,
+sales effort, and churn. And then the
+three high is annual contract value,
+expansion, revenue, and referrals.
+Thanks so much. We have some great
+questions from the live stream audience.
+Chris from microcom connect. Yeah, if
+you're not in micro connect, you should
+head to microcom connect.com. There's a
+microcom on air channel and that's where
+we are hanging out and producers is
+monitoring for questions. I think if
+you're also watching live on YouTube,
+you can post um comments or there's a
+chat there. All right. So, Chris asks,
+"What's a good tool for calculating one,
+three, and six month churn?" So, any of
+the major metrics dashboards should do
+this for you. Um, profit well, um, bare
+metrics, chart mogul are the three most
+common. And
+yeah, if you're using, especially, you
+know, if you're using the Stripe
+subscriptions, I wouldn't build this
+myself anymore. We we with my last SAS
+app, we did build it oursel. Um, what
+you really want, you don't just want
+one, three, and six month churn. You
+actually want a churn grid or a
+retention grid where you see, you know,
+each week people signed up and then how
+many people are left or sometimes it's
+done monthly. And you start to get
+familiar with that and uh and learn to
+to do that. I'm not sure that all three
+of those metrics dashboards that I named
+have that, but I know two of them do and
+I don't remember which one. Sorry. Come
+into Microsoft Connect and ask what
+people are using or how you can get a
+churn grid. All right. Leo for Microsoft
+Connect. Presumably, most people use a
+spreadsheet initially, but at what point
+do you need a tool to help you manage
+your metrics? When you were running
+Drip, what did you use? Yeah, that's a
+great question. So, most of these like,
+yeah, cost to acquire would be a
+spreadsheet, sales effort is going to be
+a spreadsheet, churn is going to be
+metrics dashboard, right? You're going
+to wire up Stripe. Uh, annual contract
+value will be metrics dashboard,
+expansion revenues, metrics dashboard.
+They should all report on that. And then
+referrals would be a spreadsheet if if
+you're able to track it well. So we did
+use spreadsheets. We also built a custom
+dashboard um that we call I think we
+call yeah it was called faucet um
+because drip get it funny they so we
+used we built a custom thing to pull
+what data we could when we couldn't get
+it from our other metrics but um yeah
+that's that's where it is. So
+spreadsheets is where you start with. Um
+Chris from Micro Connect said that
+profit well doesn't do the 136 month
+churn so it must be um chart mogul or
+bare metrics if you're looking for that.
+Zach from YouTube says with a B2B SAS
+that just started out and at around $600
+MR that wants to apply to tiny seed.
+What KPI metrics are most important?
+That's funny. Nice way to tie that in.
+Um, yeah, the first pass, honestly, when
+I look through applications,
+all I look at are numbers. I I'll click
+through to the homepage and be like,
+okay, I get get a feeling. I want to
+make sure this is B2B. Like, if you're
+really serving consumers, you you get a
+ding against you. I don't think we've
+we've funded a company yet that is we we
+do have some very like VSB very small
+business uh oriented but um so the most
+important K KPIs that I look at are
+churn growth over the past six months
+because we ask you about that churn
+and average revenue per user we ask for
+it per month but in in essence I multip
+I usually multiply my head to get ACB
+Right. Uh expansion revenue we don't ask
+for because a lot of people don't track
+but that is something I ask about in the
+interviews. Um yeah so really the six
+things I've listed here I either look at
+in the application or I usually ask in
+the interviews. So if you have high
+lifetime value that means you have low
+churn. If you have high average revenue
+per user that means you can potentially
+run ads and get a payback. That makes
+sense. Um, low churn and I think is that
+it? I mean there's number of customers
+and growth and all that but those are
+kind of some yeah you know it it all
+ties into one another right because
+lifetime value is just calculated from
+the monthly price and churn and the
+monthly price calculates um your average
+revenue per user calculates to annual
+contract value right by multiplying by
+12. So, the numbers are all related, but
+that was a good question, Zach. See if
+we have any additional questions at this
+point.
+No, I think that's it. I think we uh it
+was a good show. I'm enjoying these
+formats. We've done a this is the second
+one we've done now where it's more of a
+teaching
+deep dive into something. We don't have
+a guest. We haven't had him on the last
+couple couple um live streams, but I'm
+able to really dig into a topic and
+essentially just talk about it in a way
+that I think wouldn't necessarily make
+sense to do. Maybe it'll make sense on
+the podcast, but oftent times like, you
+know, that gets a little dry for people.
+Um, but I do like the idea and the
+concept of having these more teachable
+uh videos every now and again. I do
+still think we'll have some some guests
+on as well. But with that, let's Oh, no.
+Another question. Oh, saved by the bell.
+Yeah, we still have four minutes, so I
+was going to wrap early. All right. Red
+Tooth from YouTube said, "Is dunning
+important for lowering churn rate or
+it's more about product market fit that
+leads to lower churn?" It's a real good
+question, Red Tooth. I'm glad you
+brought it up.
+It's both. So, Dunning is is saves you
+from um what's it called? It's
+involuntary turn. And so, yes, set
+setting up Dunning is a is a no-brainer,
+right? You can use there's Churn Buster.
+I think Barometrics has an offering.
+Profit well. Um, these things are all
+great. That's involuntary churn. That's
+when it's like, oh, my credit card
+expired, you know, and I didn't come
+back and and add it. So, that's a
+no-brainer, but that doesn't save you
+from like the broader if you don't have
+product market fit, Dunning isn't going
+to save you. If you don't have product
+market fit, onboarding improvements are
+not going to save you. You know, it's
+like they'll get you a little better.
+Like they get a few more people to
+convert or a few few fewer people to
+cancel their account because oh, they
+did get reminded and they came and
+updated their credit card. But if you
+don't have product market fit, you're
+going to lose them eventually anyway.
+And so that is why, you know, product
+market fit is so um such a necessity,
+I'll say. But I'm glad you I'm glad you
+brought that up because it's definitely
+something folks should have set up. We
+built our own dunning. Of course,
+showing my age. I don't think any of
+these tools had Dunning built in. I'm
+pretty sure there was none of Maybe
+Churn Buster was the only one that was
+there because they've been around the
+longest, but we built our own with Drip.
+Um Leo from Micro uh for MicroM YouTube,
+how do metrics requirements change as
+you grow?
+Yeah, that's interesting. Usually,
+usually in the early days,
+in the early days, your churn is high
+because you don't have product market
+fit. Your cost to acquire can be
+tremendous because it doesn't matter.
+You're just trying to scrape and claw
+and get enough customers that you can
+have some type of data. Your sales
+effort might be through the roof because
+the founder might spend 20, 30, 40 hours
+closing a sale because you're just
+trying to learn from these customers.
+You know, an annual contract value might
+be low because you don't have a brand.
+No one knows who you are. And so your
+your average, you know, your pricing is
+low when you start out. It doesn't have
+to be, but the these are ways like your
+metrics can be really ugly the first,
+you know, six months of a product or a
+year until you start getting more people
+in and then you are able to um start e
+edging that pricing up, right? and you
+learn how to sell it better and you
+learn, oh, we can do a one call or a
+zero call close or we only do calls with
+people who are going to pay us at least
+500 a month and everyone else goes
+straight to um you know a video demo
+where they they self onboard
+and and then you learn some channels and
+you start building them where your cost
+to acquire goes down. Oh, we our
+content's starting to catch. We we're
+getting a little SEO love, you know,
+organic love from Google. Suddenly our
+cost to acquire goes down. So that's
+usually what happens if things are going
+right. If they're going wrong, then they
+don't change and it stays a mess. Like
+it stays a hot bag of garbage uh the
+whole time and you just can't you kind
+of can't pull them out. But what you'll
+find is that if you know, let's say we
+have these six metrics and if um most of
+them are moving in the right direction,
+most of them are getting better, you can
+build a pretty good business. And if all
+of them are getting better really
+quickly, that's when you we're able to
+build a rocket ship. You know, it's
+where you tap into, boy, my cost to
+acquire just plummeted because we're
+just nailing killing it with SEO.
+Everyone's self onboarding. We have
+product market fit, so there's no churn,
+and we're e, you know, edging our
+pricing up. So, our ACV is going up and,
+uh, we have expansion revenue. It's like
+that's that's a rocket ship, right? And
+virality add to that. Um, very few
+businesses hit all of those. And you
+don't have to you don't have to to build
+a great business. You know, can you
+build a half a million dollar million
+dollar SAS company without all of these?
+Absolutely you can. Uh without, you
+know, without all these being in really
+good shape, you can. Um but it just
+these m these will help you grow faster
+is really what the the end result is.
+Thanks to Leo, Chris, Zach, and Red
+Tooth for your questions. Those were
+awesome. Um it's just helpful to hear
+things that I missed, you know, because
+I put together this outline out of my
+own head, but it's it's these are really
+good and helpful questions and and I
+appreciate you uh showing up and I
+appreciate you asking them. So with that
+we are going to wrap for the day. I have
+um a couple videos I want to recommend
+for you if you want to dig more into
+this topic. The first is called stay on
+top of your SAS metrics know what to
+measure to maintain sustainable growth.
+That's from Craig Hewitt. This is in the
+micro YouTube channel. If you're not
+already subscribed you should head to
+youtube.com/microcom
+and hit the like button on this video
+for sure if you're watching it if it was
+helpful and then subscribe to our
+channel. Um, and oh, both these video
+I'm going to recommend two videos. Both
+the names are in the show notes as well
+for this episode. Second one is lessons
+from SASmetrics of 1,500 companies and
+that's from Patrick Campbell, the
+founder of Profit Well. Videos are in
+the show notes. We are having a Black
+Friday sale. Black flat Black Friday is
+just two days from now. Our Microconf
+Europe videos from what is this? Just
+two months ago, one month. Yeah, it was
+from last month. Man, time's going so
+fast. They are going on sale on Friday.
+They're not previously available. And
+you can get 10 talks covering topics
+from hiring, growing to 5 million AR in
+two years, pricing strategies, and more.
+Head over to microcom.com to get on the
+mailing list and you will get an email
+for 50% off the videos on Friday. Again,
+those are not available today. We are
+literally launching them on Friday with
+a 50% off sale. And then once Black
+Friday is done, they're going to double.
+They're going to double in price
+essentially. So, if you want those
+videos, I'd recommend it. And as always,
+thank you to Hey and Stripe. They are
+our headline partners. They were our
+headline partners in 2020. They're
+headline partners in 2021. And we look
+forward to continuing to work with them
+again throughout 2022. And their
+sponsorships allow us to to pay for
+salaries and and tools to do live
+streams like this. Obviously, the live
+stream is free. The YouTube videos, all
+the, you know, the those are free. And
+so, um, we really thank our headline
+partners for supporting independent SAS
+founders. It's great talking to you
+again this week. Hope you enjoyed it and
+we will be back again next week.
+Actually, we'll have another episode.
+So, talk to you then.
+[Music]

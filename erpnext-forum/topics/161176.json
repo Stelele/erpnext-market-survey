@@ -1,0 +1,52 @@
+{
+  "topic_id": 161176,
+  "title": "Version 16 Customization",
+  "slug": "version-16-customization",
+  "category_id": 6,
+  "tags": [
+    "customization",
+    "frappe"
+  ],
+  "created_at": "2026-02-27T10:52:06.708Z",
+  "last_posted_at": "2026-02-27T10:52:06.886Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/version-16-customization/161176",
+  "views": 81,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "Ashirbad",
+  "posts": [
+    {
+      "id": 495157,
+      "username": "Ashirbad",
+      "name": "Ashirbad",
+      "created_at": "2026-02-27T10:52:06.886Z",
+      "cooked": "<p>Hii, I want to make separate Landing Page based on Roles now its by default coming to desk can someone please help me to do it</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/f1d935/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 35,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

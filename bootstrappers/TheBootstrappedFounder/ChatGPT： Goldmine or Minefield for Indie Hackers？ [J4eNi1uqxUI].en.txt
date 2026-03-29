@@ -1,0 +1,174 @@
+﻿Today I'll talk about what bootstrappers can expect from a future full of systems like chat GPT
+We'll talk about the good the bad and the unexpected
+The wave of AI tools is just building up somewhere in the very very blue ocean
+We better get ready for the tsunami that will hit us once all of this becomes a mainstream part of building a business
+Everybody in the indie founder community is talking about chat GPT. Some founders discover
+how powerful it is as a writing tool and others have it built their products and then some
+entrepreneurs are even building businesses on top of OpenAI's conversational chat-based AI.
+Beyond that, it's also a meme now. Everyone is talking about how everyone is talking about it.
+It's taking the business world by storm and where there's change there is also opportunity
+and risk. Potentially massive risk. So a warning here. Just like most of the things that chat GPT
+hallucinates, none of what I will talk about here is the factual absolute truth. It's future talk,
+a prediction at best. I've seen a few things come and go and I believe that what follows
+is a likely scenario, but it is a prognosis nonetheless. And another thing, while I talk
+about chat GPT specifically here, we'll see new versions and variations show up over time.
+I'm referring to the whole lot, all of them, not just what we get to work with right now.
+So let's gaze into the crystal ball. Here's what a future with chat GPT will very likely mean for
+you as an indie founder, your business and the reality of your customers. The first thing,
+congratulations, you just found a co-founder that never sleeps. No matter how much you involve
+chat GPT in your life, it will always be available. Rare downtime, windows excluded,
+but conversational AI will soon be as ubiquitous as the internet already is today. And while it is
+already a two-sided chat, it will soon become much more than that. Once chat GPT becomes an agent
+that can interact with the live internet through reading or posting to websites, making calls or
+moving files around, you will have a digital demon ready to do your bidding. Anything it could
+possibly do for you within milliseconds of you uttering your wishes, immediately. As open AI
+rolls out their plug-in ecosystem, more and more chat GPT powered tools will remove obstacles from
+our days. From personal scheduling, through negotiating and booking customer interviews,
+to helping you solve business strategy problems, you'll likely always check in with chat GPT first.
+The interesting challenge will be to learn where and when chat GPT cannot be relied upon.
+The conversational AI is effectively gaslighting you. It's a gaslighting machine. It's trained to
+create believable and convincingly detailed responses to any questions you might ask,
+which means that you will need to be careful with anything the system tells you to do.
+At some point, you'll need to involve an actual human being to ensure you're not just blindly
+following the whisperings of the ghost in the machine. And that will be the defining competency
+of a whole generation. Judging the commands and the results of an interaction with conversational
+AI systems. It's like how we grew up to be good on the internet to understand things natively,
+that will happen with AI too. It's a skill, just like using Google. Using chat GPT is just
+another skill, so don't miss out on it. Those who ignored search engine optimization now struggle to
+keep up with being visible on the internet. Even if you learn just the basics of SEO, you'll quickly
+outrank those who don't. Conversational AI, and AI in general, will be just the same.
+Understand that it is a tool that facilitates the transformation of data. It's an always-on
+assistant that's effectively free and growing more powerful daily. Why would you not learn to use
+such a powerful tool? One thing is obvious, though. Things will change incredibly fast.
+They already do. Barely four months have passed between chat GPT's release in November 2022
+and the arrival of the massively improved GPT-4 in March 2023. The interfaces are changing,
+the prompts we use to communicate are shifting around, and new mind-bending use cases are
+discovered every single day. It's almost impossible to keep up with the best practices
+as they evolve daily too. I personally AD20 this. I check in regularly with the newest developments,
+but I don't waste time on staying on the edge. I have more pressing things to do. And I recommend
+not over-investing your time into this either. Because the speed at which the landscape changes
+is a problem. We cannot build long-term businesses on constantly fluctuating technology.
+Sure, we can exploit this massive surge of interest right now, and some people do, but nobody
+enjoys building a business that lasts a few months before another quantum leap makes it obsolete.
+So, is all lost? Should we just ignore this business opportunity as bootstrappers? Well,
+let's see. There is one massive benefit to chat GPT. It is a platform that drastically lowers the
+barrier to entry and empowers non-technical founders to build incredibly complex software
+prototypes. But there is also an extremely problematic drawback to chat GPT. It is a platform
+that drastically lowers the barrier to entry and empowers non-technical founders to build incredibly
+complex software prototypes. Same deal. Let's dive into the dual nature of each point of this argument
+here. It lowers the barrier to entry. Even at its current early incarnation, chat GPT will happily
+converse with you about the steps you need to take to come up with business ideas or validate
+them in your market of choice and how to turn them into a sustainable business. All these steps,
+the machine knows because it has read all the books and articles on the subject and it can tell
+you. It's never been easier to get up to speed on what to do to get started. The problem here,
+chat GPT has this very conversation right now with another eager founder to be, probably a couple
+hundred people at the same time right now. It's becoming easier for everyone. It also makes software
+prototypes incredibly easy to build. Now, no code made prototyping very easy already, but chat GPT
+might even remove that abstraction. It will speed up prototyping even more. An example? I don't know
+how to code Swift. I mean, I know how to code, but Swift on macOS? I don't know that. But I wanted to
+build a little tool that would automatically backup my SD cards whenever I plugged them into my Mac.
+I asked chat GPT to help me write the code for this tool. And line by line, the AI told me where
+to download Xcode, how to create a new project, and then fed me exactly what code to put into which
+file. 15 minutes later, I clicked run and I had a working version of what I wanted. Now, I'm a
+developer and I grasp these things quickly. I could swiftly take it from here and add in-app purchases
+to turn this into a business or something like that. But even a non-coder can reach that prototype
+stage within hours. Real products, not just pitch decks. Chat GPT is powerful. So expect competition
+even earlier than before. And it's also a platform. Building on top of chat GPT using either its API
+or building plugins for it is a massive opportunity for first movers and creates an equally massive
+platform risk over time. You'll probably get a lot of attention when you're the first to build a
+particularly powerful AI-powered tool, but expect it not to last for too long. Between competitors
+eating into your profits and OpenAI being in complete control of just how much, and if at all,
+you can use their interfaces, you're constantly exposed to more risk than if you could run an AI
+like this on your own infrastructure. And we'll talk about that later. But monetize accordingly.
+Charge up front instead of over time, diversify as much as you can, and actively watch open-source
+implementations to see if you can spin them up yourself as a backup or alternative should you
+ever be de-platformed. This is sobering. Maybe AI isn't a good fit for bootstrappers after all.
+Here's the way out. Make AI an ingredient, not a dish. AI as a feature will be the more
+sensitive long-term perspective for bootstrappers rather than built-on AI. If using an AI system
+improves your overall product, it becomes less of a liability and more of an amplification engine.
+Not everything needs to be AI-based either, not all work is smart, and some things benefit from
+simplicity and clear structures which can traditionally be accomplished by straightforward
+software tools. Now, how would you then evaluate this situation? What is AI suitable for and when
+should it be avoided? The answer is context. Your product solves a specific problem among the many,
+many challenges that your customers have. Every software product is part of a specific workflow.
+Sales data goes in, a PDF report comes out, an unedited video file goes in, a ready-to-upload
+transcript and a download link to a subtitle file come out. Your product is a value transformer,
+and anything that helps it transform the inputs into the outputs better is a good place to be
+enhanced by AI. But if you have to train your customers to use a new feature just because it
+contains AI, completely outside their existing workflow too, you're reducing their overall value
+perception of your product. Even if you think this new feature is great and will revolutionize how
+people work, you won't likely convince more than a few early adopters to change the way they work,
+and that's alright when you're just starting out, it's kind of how most businesses try to get into
+the door somewhere, but any sustainable business operates through sustainable practices. So
+understanding the value flow around your product's real-world use is way more important than slapping
+the AI-powered sticker on the box. But no matter if you integrate AI into your product or just
+building traditional software, ChatGPT will be a helpful co-programmer. Its capacity to write code
+is just as impressive as its skill at composing compelling headlines, convincing articles,
+and even clever jokes. When you pair up with a conversational AI, all writing will be much easier,
+which means you should most definitely write, or start writing if you're not already.
+Founders benefit immensely from communicating with their peers and customers through the written
+word. ChatGPT is a powerful catalyst for those of us who generally shy away from writing.
+And it has gotten really good at writing, so good that it's already taking the jobs
+of experienced writers, particularly in the freelance field. If a free AI tool can do that,
+not integrating it into your writing routine feels almost negligent. Sure, you should never
+use its output verbatim, but it can be an amazing brainstorming tool early in the process. And that,
+I believe, is its actual superpower. It might not be good at math, and it comes up with things that
+are entirely untrue, but the conversational nature of this AI system will make it a widely used
+companion for all kinds of activities. Obviously, copywriters will use it for fresh content ideas,
+that's what everybody's doing right now, but you will find a version of ChatGPT that will find its
+way into doctors' offices, therapists' couches, and all over the fitness industry. We will see
+judicial applications just as much as there will be salespeople asking ChatGPT for the perfect pitch
+for that one person just before they walk up to that person's front door. It will be everywhere.
+And those things tend to be very hard to contain. It will leak into everything. We're already
+experiencing ChatGPT taking over the world by storm, and not just the business world. Over the
+recent Easter holidays, several of my peers reported chatting about ChatGPT with their
+non-technical relatives. I did a poll on Twitter, it's like 45% of people talked about this over Easter,
+and their relatives already knew about it before. It's seeping into the professional world and the
+private world as well. And there's a different kind of leaking happening here too. The actual
+technical implementation and the weights of the LLAMA model, or more simply the code and
+configuration behind a research version of conversational AI like ChatGPT, have been leaked.
+And that's spurred a massive avalanche of open-source implementations. And once the cat's
+out of the bag, people will jump at the chance to build things and use them for themselves.
+We will see this accelerate even further. Some projects have even been built and released into
+the open-source world voluntarily, like OpenAI's Whisper. That's a tool that generates preliminary
+captions and transcripts for this very show as well. I use that AI tool for my own content. So
+once people have the tools to train their own language models, we will see something else that's
+super interesting. We'll see a Cambrian explosion of AI diversity. We'll have AI systems exclusively
+trained on decades of content from one particular community forum. Researchers will expose inherent
+biases stemming from how we select training data and then figure out ways to unbias the AIs of the
+future. It's going to be wild. And this development will be crucial to AI adoption. We need to move AI
+systems from centralized services, such as OpenAI server clusters where ChatGPT and GPT-4 and all
+these things currently reside, towards the edge of phones or tablets and our home computers.
+AI needs to be usable offline and it needs to be air-gapped to the device that it's being used on.
+Otherwise, privacy regulators will make it unusable, and rightfully so. We had an incident
+already. Samsung employees recently leaked trade secrets by using ChatGPT for their work tasks.
+And no business will take this lightly. Unless we can be absolutely sure that our inputs remain
+out of the hands of tech giants, we will see these tools banned swiftly, first in corporations and
+through regulation country-wise. They are too alluring not to be regulated. But once we can
+run a full ChatGPT on our phone, AI will allow for privacy-sensitive use cases. Businesses will
+run an on-premise version where business-critical, confidential data is actively fed into the system
+to then train models that can automatically suggest business strategies and onboard new employees
+and detect inefficiencies in a way that makes the models themselves a valuable item,
+not just the data. AI model protection will be a job. I can already imagine this James Bond movie
+where the villain is trying to steal the model so that they can be one step ahead of the secret
+service which uses AI for threat detection stories write themselves. Almost literally.
+We'll see models for all kinds of specific use cases pop up and this will strongly affect the
+expertise as well. The more AIs are trained on what's already out there, the more general expertise
+will be absorbed into the AI systems of the future. What's left for the human experts are all
+the non-generalizable things. You will become even more of a niche subject matter expert if you want
+to be able to provide more than ChatGPT and its successors can provide. Dive into your niche,
+nerd out without restraint. If AI systems have to appeal to a general public, well then you must
+lean into the not-so-general public of your fellow niche inhabitants. As you can probably tell,
+I'm quite optimistic about this. Other voices like Les Rong's Eliezer Yudkowsky are terrified
+of the AI systems of the future and they have solid arguments to be cautious. Realistically,
+we could debate AI's usefulness and ethical implications for weeks and during those weeks,
+researchers will have made great strides forward towards better models and clever entrepreneurs
+will have leveraged that technology to build something meaningful that others are willing to
+pay for. So, focus, right? Don't let yourself be dragged away from the pragmatic nature of these
+tools right now because of all the hype or your staunch dismissal of all things AI. It's not worth
+to take a stance here. If you're annoyed by AI because everyone is talking about it, well, you
+should ask yourself why this is such an important topic. Because not all hype is unfounded, particularly
+when it's not just something abstract. The tool is right here. You can use it, literally, to write a
+book about anything that you're interested in within a few hours. That is significant. If you
+ever wanted to give in to your FOMO, this might be the best time to do it. Learn how to use Chachapiti
+for yourself and your business. AI will stick around and if you understand it, well, so will you.

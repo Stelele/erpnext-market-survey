@@ -1,0 +1,621 @@
+﻿Hey, it's Arid and this is the bootstrap
+founder.
+Today I will share my insights into the
+podcasting universe at large from a
+software founder perspective. There are
+so many untapped opportunities in the
+space where budgets and expectations are
+growing massively right now. So why not
+just talk about the most challenging
+issues and what could be gained if those
+were solved. The episode is sponsored by
+paddle.com, my merchant of record
+payment provider of choice, who's been
+helping me focus on Podscan, my own
+podcasting business from day one.
+They're taking care of all the things
+related to money so that founders like
+you and me can focus on building the
+things that only we can build. And
+Paddle handles all the rest. Sales tax,
+credit cards failing, all of that I
+don't have to take care of because they
+do. I highly recommend it. So, please
+check out paddle.com.
+[Music]
+Over the last 18 months or so, I've been
+building Potscan, which is a business
+that processes millions of podcast
+episodes every month, tens of thousands
+of new episodes every day with 33
+million episodes right now in our
+database. It's quite something. We
+transcribe everything and do AI based
+analysis and allow for search and
+mention tracking for brands, marketers,
+PR people. That's kind of what this
+business is about. And here's what I've
+learned. The success stories in
+podcasting, they happen despite the
+infrastructure of the space, not because
+of it. Podcasting is not making it easy.
+And podcasting is clearly having a
+moment. It's a $2.1ish billion industry
+in advertising revenue alone. And that
+number is oscillating a little bit,
+which is one of the challenges that we
+actually have in the space. I'll get to
+that later, but there's hundreds of
+millions of people in the US listening
+to podcasts every month. Acquisitions
+are happening all the time and
+everywhere in this industry, but
+underneath all of this momentum is a
+technical infrastructure that feels like
+it's held together with digital duct
+tape and 20-year-old protocols that were
+never designed for what we're asking
+them to do right now. So today I want to
+break down the biggest technical and
+social problems holding this particular
+industry back because every single one
+of these problems represents this
+massive opportunity for founders who
+want to build something meaningful. And
+I'm right in there with my own solution
+to some of them. But let's start with
+the foundation here. Podcasting is built
+on RSS feeds. It's surprising really if
+you look into the space for the first
+time because you wouldn't expect that
+something that is so central as a
+concept, right? The podcast as an idea
+to be just so wildly distributed all
+over the place. And RSS is just that.
+It's a tech from the year 2000 that was
+designed around block syndication. It
+was meant to distribute text files or
+links to blog posts that were easily
+digestible as text. And now we're using
+it to distribute gigabyte audio files to
+millions of people all the time all over
+the place. So think about that for a
+moment. We're taking this protocol
+designed for sharing lightweight text
+content and we're asking it to handle
+massive audio distribution at scale. Now
+this audio stuff is not in the RSS feed.
+It's just linked from there. But there
+is so much data exchange happening
+around these feeds that I don't think
+they're built for it really. And this
+shows there's little standardization in
+the whole podcasting ecosystem. Even
+with efforts like podcasting 2.0, which
+is a kind of a protocol or kind of a
+convention of using certain tags inside
+this RSS feed for podcast stuff like
+transcripts or categorization like
+iTunes, whatever that those kind of
+things. Episode numbering is
+inconsistent or sometimes missing
+entirely. Description are often
+malformed. People just put HTML into
+fields that should be text or they claim
+to include some kind of transcript but
+actually dump a full HTML page into that
+field too. Publish dates are completely
+arbitrary and different platforms handle
+and interpret these RSS feeds by
+themselves differently as well. I'm
+exposed to all of this with Podscan
+because I'm following these 3.8 million
+RSS feeds that currently exist in the
+podcasting universe every single day.
+I've seen everything all kinds of weird
+things in there to this point. And every
+podcast hosting company like all the
+companies where you can upload your
+audio file, distributed to all these
+like services and to your listeners
+eventually, they have their own way of
+providing and updating and caching these
+feeds and the information within. and
+everything is decentralized, which
+sounds good in theory, but it obviously
+creates chaos in practice because people
+just do what's easy, not what is best
+for this community. So that's the one
+side of podcasting. It's already quite
+complicated. And then on the other side,
+you have the walled gardens. You have
+Apple and Spotify, YouTube, those
+places. These are proprietary systems
+with their own internal hosting and
+listening apps, right? The Spotify app
+only plays Spotify content. Apple
+podcast is exclusive to Apple's
+ecosystem. And from a founders
+perspective, these platforms are quite
+difficult to work with. Like it's hard
+to authenticate against. It's hard to
+rate limit. And it's hard to have just
+consistent access to their APIs because
+they don't want you to. It's their
+stuff, right? They want to keep it. And
+when you process podcasts at a scale
+that we do at Podscan, edge cases become
+the norm. All those weird little
+podcasts with their individual quirks,
+they just add up to become systematic
+problem. Here's what I mean. Over 60% of
+shows are missing basic metadata like
+proper categorization. And even if they
+have categorization, it's not
+necessarily correct because people self-
+select into categories. And so they pick
+the ones that they think are going to
+get the most listeners, not the ones
+that are actually accurate to the
+content of the show. They don't have
+good descriptions. they just copy and
+paste something or they have an AI draft
+something that doesn't really know what
+the show is about or maybe worse that
+doesn't speak the language of the
+listener. So you have a description that
+doesn't accurately reflect what people
+are going to get from the show and
+contact emails are often hit or miss so
+you can't really reach the show. Show
+titles, episodes are formatted
+completely differently across different
+platforms. Some people use markdown,
+some platforms do, some don't. some HTML
+or some use no formatting at all. So you
+see all the formatting if you copy and
+paste markdown in there. Horrible data
+is a problem. Data quality is a problem.
+So that's kind of my my number one
+problem in the field that I see that
+should be worked on in a little bit is
+data quality. Language detection is
+another example. And I'm just rattling
+off all these examples here. But this is
+stuff that I have come to have to deal
+with in ingesting all of this data that
+I think if solved might actually be a
+net benefit to the podcasting ecosystem
+at large and individual contributors as
+well. Right? We've processed episodes
+that claim to be English- speakaking but
+are actually Spanish or the other way
+around. And there's no reliable way to
+determine explicit content as well
+without actually analyzing the audio
+itself, which is what we do at POTSCAN.
+But there's also something quite devious
+in there in terms of data quality, which
+is duplication. Like popular podcasts
+that are out there and have been out
+there for years, well, they likely have
+switched hosting companies over their
+lifetime. Often that leads them to a
+point where they have duplicate feeds.
+You will have one feed with the first
+200 episodes of a show and then at that
+point they switched providers and
+created a new feed and then brought over
+most of their older episodes and then
+the new episodes are on there. So you
+have slightly overlapping duplicate
+content scattered across multiple feeds
+and there's no clear way to dduplicate
+or connect them because people just
+forget about it or they don't update
+them anymore because they nudge their
+listeners to go to the new feed and most
+of them do and that's fine. So there's a
+lot of legacy data in the ecosystem as
+it stands that is just duplicate
+information and it's hard to figure this
+out in an automated fashion. But why I'm
+saying this is there's probably a way
+that AI could detect this, right? You
+could even like if I think about it, you
+could probably go into the Podcan API
+and fetch a lot of podcasts and
+dduplicate it just from the data that we
+have in there already. We don't do this
+behind the scenes because that is not
+the idea of the platform. We just track
+all the feeds out there. But there could
+be a service in just dduplicating this
+and making this kind of information
+available. But that's just the data
+quality side of things. I think what is
+an even bigger and maybe even more
+frustrating problem for anybody in the
+field is when they're trying to build a
+business around podcasts. Because in web
+content, you can track exactly like how
+much somebody reads on a website, which
+parts of your page they engage with,
+right, of a blog, how long they spend on
+each section. This can be easily
+gathered, this kind of information with
+JavaScript tooling, there's screen
+recording, all these things exist in the
+world of the web. And if you look at
+videos, it's the same. And YouTube knows
+precisely where somebody started
+watching, where they paused, how long
+they stayed engaged, if they started
+scrolling through the comments. Like,
+they get this. But podcasting has a
+measurement black hole. With RSSbased
+distribution, there's no way around this
+right now. All you know as a podcast
+owner, as a publisher, is that someone's
+device requested the MP3 file. That's
+all you get in terms of analytics. You
+don't know if they actually listen to
+it. You don't know how long they
+listened. You don't even know if it was
+a human that listened because Podcan,
+for example, technically downloads all
+these files for analysis, which is one
+of many automated systems that are
+crawling podcast feeds. And maybe
+someone subscribes to your show, but
+never actually listens. Or maybe they're
+your biggest fan and listen to every
+episode immediately. You have no idea.
+You don't know because there's no
+unified way to report listening
+behavior. And Apple and Spotify have
+this information. They do know who
+listens and where and for how long and
+where they stop and where they restart.
+All of this because they control both
+the file delivery and the player in
+which the file is played. They know
+everything when you pause, when you
+skip, whether you're using headphones or
+whether the app is in the foreground or
+playing in the background. But this
+information stays locked in their walled
+gardens. That's why they are so
+aggressively acquiring companies to get
+more data in is to make it available to
+themselves and their users but nobody
+else. And the rest of the ecosystem is
+trying to get this data from somewhere.
+And they rely on this complex chain of
+tracking links like URLs that bounce
+through multiple analytics companies
+before finally delivering the audio
+file. It's like a digital RP Goldberg
+machine. It's really wild. It's the only
+way to get any measurement at all at
+this point. Look at this. If you ever go
+to a website that hosts podcast
+episodes, like just as an MP3 or that
+has links to them, like any large
+podcast that has a website where you can
+listen to these files online, check out
+the actual URLs of where the audio file
+is hosted. And you will see this cascade
+of 8 to 16 services that all have
+domains that can bounce the link from
+one domain to the other for each to have
+a tracking event happen. It's wild. Some
+for marketing, some for distribution,
+some for I don't know what. Like there
+are just the wildest services out there.
+Sometimes domains that you don't even
+know what service they belong to just to
+get some kind of analytics happening in
+this field. And that is incredibly hard
+for people to deal with because this
+measurement, this information does not
+exist. It's really hard to get by. And
+to just find this information, you often
+have to either go to the the big
+platforms or you have to do estimation,
+which is what we do at Potscan just to
+get some semblance of analytics in this
+field. And this has side effects, right?
+It makes it harder to know exactly what
+a podcast is and who is it for and where
+should we place it if people were
+searching for it. So discovery in the
+podcasting universe is also a
+fundamentally broken issue here. Most
+podcast platforms right now can only
+search titles and descriptions. That's
+where discovery is right now. You have a
+keyword and you find it in the title and
+the description. If not, you wouldn't
+know. But what if I don't know your
+competitors mentioned at minute 23 out
+of a 45minute episode? How are you going
+to find this? How are you going to find
+this kind of content on established
+platforms? So at Podcan we solve this
+right now because we are transcribing
+everything like every single podcast out
+there and we make the full content
+searchable both for humans to actually
+type and search and for automated
+systems to do alerting on keywords and
+semantic search as well. But imagine the
+possibilities if this was available
+everywhere. If this kind of search was
+facilitated for discovery, you could
+search semantically like I want to find
+a podcast for kids that talks about
+dinosaurs and how they came to be. Like
+you wouldn't need exact keyword matches
+for specific dinosaurs. You could just
+say this and the system would understand
+the intent and context. This would be a
+really interesting tool to have and to
+build other tools upon. And this
+discovery problem extends to competitive
+intelligence too. If you want to look at
+more from a brand angle, if you're
+trying to understand how your
+competitors are perceived, what brands
+are being discussed even around you in
+your ecosystem, or what kind of themes
+are trending in your industry, you're
+essentially flying blind unless you have
+sophisticated transcription and analysis
+tools. Again, that's what I'm trying to
+build here. But I'm not the only person
+to solve this. And there are other ways
+of solving this, too. So, I just want to
+give you this problem of discovery as
+something to think about. There's so
+much valuable data buried in podcasts,
+both in the conversation and in the
+consumption around it. Demographics
+based insights. That's not enough. There
+is more. There's themes and entities and
+sponsors and relationships and topic
+trends, but it's all locked away because
+we can't and don't yet do effectively
+search or analyze the actual content of
+podcasts.
+And that has a cascading effect which is
+probably the biggest financial hurdle in
+this whole industry because monetizing
+in podcasting is so limited right now.
+Making money with a podcast is so much
+harder than making money with a
+newsletter or making money with a blog
+or making money on YouTube. Right now
+you have injected ads and sponsorship
+reads like inside the episode and that's
+basically it. Maybe there's Patreon as
+well where you can have people pay for a
+subscription to a podcast, but that is
+hard to do for shows that are, let's
+say, less niche where you can tap into
+communities that already exist. And I
+think the limitation stems directly from
+the measurement problem that I just
+described, right? We're stuck in a CPM
+world like a cost per mill, cost per
+thousand impressions when we should be
+moving towards a CPC world, a cost per
+click or even better cost per
+conversion. But you can't optimize for
+clicks or conversions when you don't
+even know if people are listening to the
+thing that you want to track, right?
+Spotify is again example of doing that
+work like they're doing interesting work
+here with their mobile app. I listen to
+it a lot um to podcasts on Spotify and
+so when there's an ad you can now click
+through directly and Spotify can track
+that engagement and see if the ad
+actually worked. But this doesn't exist
+in the broader more chaotic world of
+RSSbased podcasting. And I always have
+to look at this both from the side of
+somebody working in this field and as a
+consumer. As a consumer, I don't
+necessarily love ads and I don't love
+injected ads, like randomly injected
+ads. But if there were ads in a podcast
+that then makes this podcast possible
+for me to listen to, then I would like
+those ads to be thematically relevant. I
+would like them to actually mean
+something in the context of the show,
+not just, you know, a bank telling me
+that I could put my money in their vault
+somewhere because they know that people
+have money and anybody listening to a
+podcast episode might have some money to
+put into their bank. That's not specific
+enough. If I'm listening to, I don't
+know, a Warhammer podcast, which I
+sometimes do. I listen to my my nerd
+stuff. I want nerd ads. Why don't I get
+ads for other podcasts in the gaming
+space for example, right? Why does this
+have to be read directly like through a
+sponsorship agreement between these two
+podcasts? Why can't that also be
+automatically injected and facilitate a
+good connection between the targets for
+ads and the people who run them? I think
+that should be possible. And right now
+all we have is demographic targeting.
+And that is rough right now at best like
+basic age, gender, location if that even
+works. But there's no behavioral or
+interest in interestbased targeting here
+because it's so hard to gather that
+information. And context of these shows
+and of the audience of these shows is
+completely ignored. Ads are mostly
+inserted without understanding episode
+content. And that's honestly pretty
+stupid. If somebody's talking about
+productivity tools, that would be a
+perfect time for a productivity app ad,
+right? It feels right to have this, I
+think, particularly in the context of
+podcasts where there is so much context.
+Brand safety, another problem still
+unsolved. There's no reliable way to
+ensure that ads don't appear next to
+inappropriate content for that
+particular company. And ROI tracking,
+forget about that completely. You don't
+know how many people actually hear your
+ad, let alone acted on it, cuz there's
+no way to trace this. Or the people that
+are working on this still struggle and
+the infrastructure doesn't make it easy.
+There are ways, but it's hard and I
+think we need more ways that make it
+easier. So, here's why I'm excited about
+these problems because I'm just
+complaining, right? But every single one
+of these represents a massive business
+opportunity. I believe the companies
+that will solve these infrastructure
+problems, particularly measurement
+problem that seems to be centric the
+core problem for all the other ones too.
+They will enable the next wave of
+innovation in the podcasting ecosystem.
+Just like Google enabled the innovation
+in search by thinking about monetizing
+it through ads. We might not like ads
+but they facilitated Google giving us
+the knowledge of the world which is now
+being completely absorbed into LLM
+systems and AI companies. But that's a a
+different conversation for a different
+day. I think we're still in the early
+days of what's possible in podcasting
+when the podcast content becomes fully
+searchable and analyzable. So just think
+about the applications you could be
+building, right? You think about
+recommendation engines that are based on
+actual content, not just the metadata,
+not just the title and a description,
+but the vibe of a conversation or real
+competitive intelligence for brands
+monitoring dimensions. And we're
+building this at podscan.fm. Obviously,
+it's not an ad for pods, although this
+whole podcast might be at this point,
+but it is something that can be taken
+even further in this space. Contextual
+advertising that actually makes sense.
+That's something I would really like to
+see because I hate non-ontextual ads.
+content intelligence that reveals trends
+as they happen, which then also
+facilitates better contextualization for
+marketing efforts, for sales efforts,
+for activism, for outreach. But if you
+know what people are talking about and
+you want to find your people and do
+stuff in this world, then having tools
+that can pull this out of the
+conversations as they happen, that's
+valuable. And ultimately, tools that
+help creators understand their audience
+better and improve listener retention,
+that's a benefit to everybody involved.
+Listeners get more of what they want.
+Creators get more listeners. And anybody
+between these facilitators, sponsors,
+advertisers get better access to the
+people that actually might need what
+they offer. So with better
+infrastructure and tooling, we could get
+much better at understanding the content
+that's out there and actually use it
+more effectively. Monitoring for brands,
+tracking social movements, figuring out
+who should be a guest on your show,
+emerging trends. All of this becomes
+possible with the right foundation. And
+here's something that I've learned from
+processing 33 million podcast episodes,
+which is wild if you think about it. The
+more podcast data you process, the
+better your understanding becomes. Even
+though every feed has its own quirks,
+but individual show analysis, just
+downloading all episodes of one show,
+transcribing them, and whatever, this
+could never reveal the insights that
+emerge from processing data at scale.
+So, every company that gets deeper into
+podcasting data is building a data mode
+at this point. the patterns, the
+connections, anomalies, outliers, they
+only become visible when you're looking
+at the entire ecosystem. So for these
+problems that we're experiencing in this
+field, the question is not whether
+somebody will solve them. It's who will
+solve them first and who will be
+positioned to benefit from the market
+that then emerges on top of this.
+Because podcasting is growing. It's
+happening right now. And despite all of
+these massive technical limitations,
+people still tune in more and more. So
+imagine what becomes possible when we
+fix the foundation or when we improve
+upon it. I think about this every day as
+I'm building Potscan. Every one of these
+problems is solvable with the right
+technical approach and the willingness
+to acknowledge that it won't be perfect
+from the start or maybe ever. But we can
+build something that enables new
+solutions to be built on top of the old
+ones. So, if you're looking for a space
+to build something meaningful to solve
+these real problems that affect millions
+of creators and at this point probably
+billions of listeners, the podcasting
+infrastructure as a space is wide open.
+The industry is ready for solutions. I
+think the market is here. So, the
+problems are real and well defined. The
+question really just is going to step up
+and solve them. And that's it for today.
+Thank you so much for listening to the
+Bootstounder. You can find me on Twitter
+at avidkal a v k ahl. If you want to
+support me and this show, please share
+podscan.fm with your professional peers
+and those who you think will benefit
+from tracking mentions of their brands,
+businesses, and names on podcast out
+there. We're a near realtime podcast
+database with a really good API and a
+lot of interesting use cases like
+competitive intelligence and urgent
+crisis management. So, please share the
+word with those who need to stay on top
+of what is being talked about in the
+podcast ecosystem. Thank you so much for
+listening. Have a wonderful day and
+bye-bye.
+[Music]

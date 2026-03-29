@@ -1,0 +1,1655 @@
+﻿[Music]
+today I'm going to be talking about my
+most recent app that I launched
+it's called drip and what I want to talk
+about are specific tactics that I took
+on validating the idea and then building
+the launch list working out the
+onboarding and launching and we hit
+recurring revenue of $7000 in the first
+month and there's a lot that went into
+it that's very specific that I haven't
+spoken about in the detail that I'm
+going to talk about today so even if
+you've heard me on an interview talk
+about this even if you've heard me talk
+about on the podcast I'm gonna be giving
+away like exact emails that I sent and
+some of the thought process behind that
+as well as screenshots and other things
+I'm so hope to make it worth your while
+I always like to give away as much as
+possible at micro comp because you know
+people have come here here to see the
+exact details of it so what's in it for
+you whenever I consume media audio books
+podcasts blogs I know that I'm
+evaluating like why am i listening to
+this again why am i giving why are you
+giving me 45 minutes of your time and so
+I'm gonna cover four topics today so if
+you are whether you're in early stages
+or whether you are already launched I'm
+hoping to touch on something for
+everybody to add to that list of tactics
+that you can take home and change your
+change your business so the first one is
+I'm going to give you an approach to
+idea validation it's the approach that I
+use that seems to have worked with drip
+it's not the only approach but I think
+it's a good one I'm gonna go into detail
+on that I'm going to talk about how to
+build your launch lists and this is
+perhaps the most common question I get
+because I had thirty four hundred emails
+on the launch list it's the biggest
+launch list I've ever had and I was kind
+and once AI was fumbling my way through
+up and I didn't know I forgot if I got
+to five hundred or a thousand I was
+gonna be happy with it and by the time I
+was thirty four hundred I was pretty
+impressed with where all the stuff came
+from so I'm gonna show you exactly where
+each you know where the five hundred
+came from and the next nine hundred and
+all that I'm gonna talk about the
+benefits of a slow launch and this is
+the term I use for instead it's kind of
+the opposite of what Josh Pickford
+talked about where he said he wants to
+he built launched 30 days
+we built for five months and then
+launched for three or four months like
+we were in just constant customer
+development and then actually launching
+in these waves and maybe them in a five
+month launch this is the opposite of
+that but we learned a ton from it this
+that is allowing us to start scaling up
+pretty quickly and then the last thing
+is onboarding I'm gonna walk through
+onboarding it can make or break your
+launch I can make or break your business
+certainly because it impacts how many
+people get value out of your app and how
+many people actually stick around and
+don't bleed out of your funnel so you
+know if even if you have an app now
+you're probably knowing all the people
+in here you're gonna launch another one
+in the next year or two a lot of us do
+that even if you aren't the onboarding
+piece I think works for will at least
+lend some insight for everyone here in
+the room so these are my kids it was
+Santa I just added that in because and
+then I is the Wi-Fi working
+insulting
+Hostel just like Christmas
+copy that - one - Romeo come 400 for the
+upper parts of a rogue site in this
+sector but so far no content copy out
+get eyes on anything
+so we won't watch the whole thing what
+they do is they they shoot the gates of
+Vietnam thing right they shoot the guy
+and they run up and it's a webpage and
+then they say code 500 the server is
+down so that is an actual a 404 page if
+you go to nosh n oh Sh is that what it
+was and oh Sh comm slash whatever it's
+bla right it W for for and that video is
+there I thought that was so cool I love
+stuff like that alright so I'm gonna
+cover I have four parts today each one
+is gonna be between nine and ten minutes
+so we'll be out of here in about 40 42
+minutes and part one how I'm gonna talk
+about how to scratch your own itch and
+how not to scratch your own itch how
+touching on on both sides of that can
+can lead to to success so we all know I
+probably everyone in this room has heard
+that we need to start with problems
+right we you don't start with the
+technology and say what can I build with
+this maybe if you're an explorer you do
+but you don't start with your idea of
+what someone might have a really cool
+app idea right that's if you're here at
+micro comm self-funding you probably do
+that but I want to tell you a story
+about a friend of mine who started with
+the problem and it was a blog search
+submission he had a bunch of blogs he
+kept creating this is about seven or
+eight years ago and he built this
+service to submit because he had a
+problem every sec scratch my own itch if
+I need it
+everyone needs it right so he goes and
+builds this spends a couple months
+launches it actually gets a pretty good
+chunk of traffic and it works for him it
+works for several thousand other people
+but he was never able to get anyone to
+pay more than about a dollar or two
+dollars for it he made started making
+about fifty bucks a month from it and
+that was it and so after about six
+months of nights and weekends
+he really it wasn't a success there were
+some learning but it didn't work so he
+started with a problem he scratches on
+it it's just one story but that's what
+can happen and that friend was actually
+me so this is I built this in 2005-2006
+let's go feed shot and I think it's
+still live on the internet I don't
+actually own it anymore someone bought
+off me but this is what I call the
+scratch your own it's fallacy okay it's
+not the scratching of an itch can't work
+but I think it works a lot less than
+then it used to I'll put it that way
+because a lot of us are in these same
+circles a lot
+subscribed a lot of our own itches and
+37signals it worked great for them in
+2005-2006 but we've all built now 900
+bug trackers we've all built 900 CRM
+systems we've all built 900 project
+management suites now there you can
+always improve on it but scratching your
+own itch is it's getting harder and
+harder and so you know that you're in
+this this spread the scratcher and it's
+fallacy zone if you have a problem that
+you you desperately have this problem
+right I totally need to fix this and no
+other software fixes it the way I want
+it fixed very commonly heard with
+project management software you know
+exactly how you want to solve it you
+can't wait to start coding because
+that's what we do we build right we
+create and you don't validate the market
+so this is the piece the validating the
+market that I'm going to talk about here
+and again there multiple approaches to
+it but this is the approach that I use
+so problems this is an actual list this
+is the this is the mul sky notebook
+tattooed on my arm and it's the list of
+problems that got me to start drip and
+you probably can't read them from back
+there but top one is started with
+problems that startups have startups
+need blog content startups need an MVP
+creator you lean startup right startups
+need virtual assistants startup need
+email marketing startups need a sales
+website startups need to retain
+customers and each of those I went off
+and started sketching out well how so
+how would I solve that problem what are
+potential ways to solve these problems
+the reason I started with startups and
+by startups I mean self-funded software
+maybe venture backed the reason they
+started theirs because I do have some
+reach I decided for the first time ever
+I was gonna maybe have some reach into
+my market because apprentice Limon jobs
+and dotted invoice and wedding toolbox
+and even hit tail none of those were
+markets that I ever had an audience in I
+never had reach and so when I was
+starting from scratch on this realizing
+I was gonna spend a couple years on it I
+thought I might as well take a little
+bit of a competitive advantage for the
+nine years that I've invested you know
+to build the audience and do all that
+stuff so that that's what I started so
+you may not start with startups you may
+start with countertop installers and you
+may have to cold call we have to cold
+email you may have to cold it's a cold
+snail mail and that's okay you may not
+have reach into the audience but either
+way it can work so I was able to email
+some folk
+that I know whereas Robert Graham who's
+here when he went after whitetail deer
+ranchers he literally I mean it yeah he
+cold called and he had a hundred percent
+success rate of getting people on the
+phone of getting ranchers on the phone
+and being able to find out what is your
+problem he built software it was
+successful
+it wasn't until there was a regulatory
+lobbyist passed something that actually
+shut it down but he had a successful
+business and the white-tailed deer niche
+that he really didn't have any reach
+into he later wrote a book cold calling
+book net about his whole experience
+doing customer development there and I
+really recommend it Ted Pitts and Harry
+Hollander are in the countertop
+installer niche they did this same thing
+they had no reach into this market they
+sent out snail mail right cold snail
+mail and which is just crazy we would
+never think of that but but they did it
+and they pulled it off in there eleven
+years into a very successful business so
+it can work online obviously if you have
+to reach into a market and you know
+their problems it is easier but don't
+think that just because you have a
+problem because you talk to a few people
+who have a problem that you validated
+the market so once I had the problem I
+picked it out and I started writing code
+right away all right good someone did
+someone say no somebody was listening so
+market first approach this is what I go
+after right I want to try to find the
+market is are there enough people that
+want it and how am I gonna how am I
+going to find those people in the future
+right so my goal was to get to find 10
+founders 10 software product owners 10
+people really who wanted to who were
+willing to pay ninety nine bucks a month
+for one of those items on my problems
+list that you saw in that moleskin
+notebook now by this time I had narrowed
+it down I looked at each of them and
+realized like startups may want virtual
+assistants but it's kind of stretched
+it's a behavior stretch some people do
+some people don't I want to get into a
+market where I was doing too much
+education I knew that there was a lack
+of maybe a lack of of really good email
+marketing tools for startups because I a
+bunch of folks I had talked to we're
+saying MailChimp wasn't cutting it
+Aweber wasn't cutting it infusion stuff
+wasn't cutting it there's like no middle
+ground so I I felt like there was a
+niche in there somewhere so I went after
+founders price point was 99 bucks a
+month and I emailed 17
+people over the course of eight weeks I
+did two at a time and I emailed some
+founders I emailed some info product
+folks that I know and I emailed a couple
+bloggers I kind of ran the gamut I was
+trying to just do research here this is
+exact email I sent and oh I'm gonna give
+you a link at the end you can download
+all these slides so you I know you can't
+read this but the four people that I
+didn't know really well
+I said hey question about an idea I'm
+working on that's what the subject line
+is and then I go into a question for you
+it's about an idea and I say I'm not
+really looking for general feedback but
+more of a quote would you pay X dollars
+per month for the service I can send
+over a more thorough explanation if
+you're up for it Cheers
+so this is the email I sent to Todd
+garland of buy sell ads and I also
+emailed other people in this room I mean
+I could Patrick McKenzie Rubin Jeff from
+ambassador just folks that I had at
+least some of them I knew pretty well in
+which case I skipped this whole
+pleasantry thing because Todd I you know
+haven't seen in a few years so I at
+least wanted to get in just want a cold
+email and with this big email people I
+knew well I just skip right to this one
+which I know you can't even come close
+to reading but at the top it says thanks
+I appreciate it as he had said yeah send
+it over and I talked through a couple
+things I said here's the idea and it's
+in one sentence and it's called courier
+at the time it wasn't called a drip and
+then here's the problem and it's about
+email marketing and then here's an
+example of it working because we already
+had a prototype working on hit ale that
+have been doing a little well for us
+here the benefits here's the price
+important here's the price because I
+don't want to know if this is
+interesting I want to know would you pay
+$99 for it there's a big difference
+between those two things and then the
+last question is that's the idea would
+you pay for it
+try it out and see what kind of ROI it
+provided even if you just reply with it
+yes or no that would be helpful because
+I know everybody's busy
+everybody replied with paragraphs of
+text which is really way more valuable
+than anybody's 99 bucks a month because
+the people I was talking to or a pretty
+knowledgeable and product pretty
+knowledgeable in yeah just didn't get
+something going so over the course let's
+see yeah so emails 17 and I got 11
+commitments at 99 bucks a month took me
+two months to do it and
+all of the people who who said yes were
+software they were either said there
+were other SAS there was downloadable
+software all the people who said no were
+bloggers info product and there was one
+other and I forget but it was really
+quickly
+I saw what and the the reason people
+didn't want to buy was price they said
+it's not worth 99 bucks I can cobble
+this together with other tools people
+who saw the value in it really said 9
+bucks is a no-brainer well that was
+right who I was going after right let's
+let's make that work so we started
+coding December when I say we I mean
+Derek who's out here it's in rails and I
+don't know rails so December 1st 2012
+this is our github code activity thing
+and it starts on December 1st so a lot
+of code went into that that was my
+validation and you'll see later that it
+worked and that it was leading me down a
+path but I want to conclude this part
+with the lessons so the lessons are
+start with problems right I had the most
+kind list problems with an itch now you
+can do a mejores say it was a safari the
+sales safari amy who does it you can do
+cold calling book net like Robert Graham
+you can do customer development Patrick
+Velasco Fitz's he wrote a book on it
+there there are other ways to do it if
+you are in a niche it's easier to come
+up with it just by having some
+conversations niche down I mean anytime
+you hear me say anything and involves a
+niche right that's my whole deal is to
+start small get the wedge get I was
+going after software SAS and then we're
+gonna expand into into other things but
+for you
+you don't want to solve it for all
+contractors everyone who does
+construction you want to solve it for
+countertop installers you don't want to
+solve it for every rancher in the world
+you want to solve it for whitetail deer
+ranchers because then you can own the
+market and if you're one two people with
+no funding that's what you have to do
+you have to do that first in the email
+you want to describe the value you will
+provide not screenshots
+don't jump to code screenshots data
+models specifics don't get too specific
+and if I have a criticism of what I've
+done that email was too damn long like
+as I read that I'm like who the hell
+what these guys waited through this like
+thank you you know if I sent this to you
+thank you for not
+responding with an expletive because it
+was just a long email like I really
+should have boil it down a little little
+tighter I think so go for the value the
+value of drip at that point was hey I'm
+gonna try to help you get more
+conversions through email easy email
+capture there's some other stuff valium
+drip is not then there's this screen
+where you can enter a user's like no one
+cares at this point
+write a name a price
+if you don't name a price you're really
+not getting at the core of who is going
+to pay because if I hadn't named that
+price there were those other six they'd
+have been on the fence they would have
+said yeah maybe I wouldn't really have
+learned very much and I would have been
+going after bloggers and info product
+marketers and other other folks and then
+hold your idea loosely this was the last
+thing because as I received feedback I
+started to realize ah the idea is good
+but it's not exactly what people want
+and that was the valuable part right
+hearing back from from Todd Garland or
+from Jeff and Rubin and these guys who
+were saying yeah I could use that but it
+really needs to do this as well in order
+to be worth 99 it's like okay I can't be
+married to what I thought was a
+brilliant idea and even though we all
+know we're not supposed to be it's
+pretty it's pretty easy to be so I had
+to alert change it real quick so in the
+end we what we built was really a
+Minimum Viable Product no like buttons -
+there was no delete buttons you could
+create all this stuff and you couldn't
+delete anything you can barely edit
+things you know it was just all like
+really rudimentary but the idea behind
+drip is there's a JavaScript snippet
+that you can install in every the footer
+of every page of your site it gives you
+this little widget it's like a ole arc
+pop up either in the bottom left or on
+the ride or whatever and you can time it
+and say pop up after nine seconds and if
+someone closes it don't show it to him
+again for 12 days and all that's
+configurable so it's just a way to
+instantly everyone your site get
+captured without having to start
+embedding forms you know and then we
+actually helped we have a concierge
+service and this I'm touching on later
+because it's have been a big big win for
+us is we help folks we ought to give
+huge templates of you know here's five
+emails here's an entire email
+mini-course paste your content in poof
+you're done or give us a link to five
+blog posts we will paste them in for you
+for no charge poof
+okay and that's that was something the
+whole last section is on on that and
+then we do metrics all types of this
+typical metrics and then we track
+conversions and this has been a big one
+there's an actual screenshot of what
+drip does for hit tale and this was
+after a few months so drip is very
+successful with the hit tale customer
+base so it's made hit tell a lot of
+money just being an autoresponder
+sequence so this is why the initial
+scene came up and you can see why we
+built this thing for hit tail as a
+prototype and I said boy it solved the
+problem holy crap it's making us a lot
+of money code go code code but I didn't
+do that right I still went out and it
+was actually pretty hard to be honest to
+not go out and just start building the
+damn thing and derick up Sam when are we
+gonna build this when we're gonna build
+this and I was like we gotta get 10 or
+11 people so that was the validation
+this next thing that I did I said derec
+boom
+start coding here's what I want and
+here's the idea
+and let's get a landing page up that was
+the next thing and I figured to be
+honest that I would get like I said five
+hundred to a thousand people and so the
+question I get is how did you get thirty
+four hundred emails this is the
+concentric circle marketing which I have
+talked about before there's I see it as
+concentric circles in terms of your
+reach or your involvement with them and
+so the first concentric circle is your
+audience so everyone here has even 100
+or 200 Twitter followers most people
+here have a blog with even a few hundred
+or a few thousand visitors most people
+maybe some people maybe have a podcast
+some people maybe have just a network a
+mastermind group it's anybody who who
+you have their ear and you're not trying
+to sell you're trying to gauge interest
+and so what did I do
+actually my skip to the what did I do
+I'll do on the next slide but circle one
+is the innermost circle and concentric
+circles go out so that's what circle one
+is I got about 500 emails from that they
+did not convert very well because a lot
+of people were just like hey I just want
+to see what you're up to and that's cool
+right they wanted to see how I was
+marketing it and learn from that and
+that's fine but that converted so so I
+got 600 emails from circle to
+and this is your friends and colleagues
+networks right so you have friends and
+colleagues who have blogs podcasts
+Twitter feeds tumblr you know this
+anything Pinterest and that was another
+600 and I didn't go out cold spamming my
+friends and saying can you do this for
+me but you'll see on the next couple
+next slides what I did and then there
+was about 500 that was pressed I'll talk
+about that that's kind of erratic 900
+from Facebook Ads which was really the
+initial thing I was going to do because
+I Facebook ads are pretty pretty good
+for this and then I wound up getting 900
+from a powered by link in the bottom of
+the drip widget so when I walk through
+each of those briefly circle one as I
+said is my audience podcast blog micro
+Kampf just wherever else I just did a
+few talks and stuff so I've got 500
+which actually to be honest isn't that
+many considering how like how many
+interviews I do and how many podcast and
+all that stuff and they convert it okay
+but so I but it was no I was gonna be
+talking about at creating content
+anyways I mean you're gonna be tweeting
+about stuff anyways so write it don't
+just write a post hey I'm launching a
+new app but write like something I've
+learned about launching this new app
+right and then that people want to read
+that everybody in this room wants to
+read something like that circle - like I
+said friends I was going on foolish
+adventure anyways I was going on cap
+Brian castle had invited me to come on
+his podcast and texting and product
+people so while I was on there actually
+they were asking it like I heard about
+drip what is and I'm like I don't want
+to talk about it yet because we're like
+two weeks into development but the more
+I talked about it the more traffic it
+sent to this landing page and then
+Patrick McKenzie was happy you know cool
+enough to mention it in one of his email
+blasts and I think he'd seen screens by
+then and then Brennan done was an early
+user and so he wrote it up just kind of
+mentioned in plan scope and so it was
+again I didn't really ask for these you
+could though but it was why not being
+about 600 out of that that thirty four
+hundred the press was an interesting one
+I don't press it's just not my thing
+I've never gone after it I don't see it
+as a repeatable scalable I'm just not
+that good at it but the more people the
+more influencers that I let in
+people would email me so as I was
+getting the list started building then I
+started emailing screenshots of what was
+going on I started getting these replies
+so when the list was about a thousand I
+start again like I'd send out a blast
+here's what we're building I'd get
+thirty replies that would be like oMG I
+totally want to use this if I didn't
+know the person that doesn't I don't
+know why I can't let you in now but
+someone like you know Brennan done or
+just someone that I knew and knew who
+would give it give me great feedback and
+who would probably actually use it and
+be willing to pay for it would email and
+I'm like well yeah of course
+once you just check out what we have
+it's pretty much alpha right now the
+more that that happened people just
+start started talking and so they have
+influencers in using your product early
+is a big pretty big deal and I hadn't
+thought of this before and in retrospect
+it's like well of course of course it is
+right yeah you want influencers in there
+but I didn't realize I guess how quickly
+it would spread so Mashable who have
+never pitched the next web Cris Leymah
+beta list is something you can do anyone
+could be ready just submit to bait a
+list and then Mark Marcus marker Marcus
+just posted I think I got two or three
+hundred emails from that converted so so
+but that was another 500 and then
+advertising this is really where I was
+going after Facebook Ads because AdWords
+too expensive right now and for what I
+was shooting after LinkedIn ads are okay
+but I mean I tested the crap out of the
+headlines out of the how many people in
+these different niches because they're
+kind of three different groups of people
+who could use drip it was the software
+and startup people it was the email
+marketing people and it was online
+marketers right you know SEO and digital
+marketing and that kind of stuff and I
+tested different headlines with each of
+them I sent them to all these landing
+pages I was just doing all types of
+stuff I got 900 emails but I wore of
+Howie Bolden probably is 900 is by the
+time I got to launch I knew okay
+here's who's gonna be getting value out
+of this here's who's most interested in
+which features and here's how much it's
+going to cost to reach them if I want to
+run more ads so I spent a twenty five
+hundred bucks to get nine hundred emails
+but more than importantly to learn about
+it the last one is this viral loop that
+I did not count on and to be honest this
+paid for micro come for me last year
+because Heaton Shah stood up and
+said if you have something with a UI you
+know UI component have a powered by link
+on your on your lower-end plans that
+people can get rid of if they have a
+higher plan and as that happen I was in
+the back of the room holding the mic for
+QA and I walked up to Derick and I said
+are you you know I said are you noting
+this down and he said I'm building it
+right now
+so because we both of us it was like how
+did we not think of this so this that's
+a big deal right 900 out of 3400 so if
+you do have a UI component there's a
+couple ways to do at a UI component on
+your users site or if you're sending out
+emails on their behalf some people put
+it in the footer like you see MailChimp
+do this you see in fresh books you know
+it's a fine line in terms of letting
+people buy out of it or opt out of it
+but there's there's it's been very
+valuable for us and that just keeps
+going red that actually scales because
+the more customers we have the more
+traffic we get in for that we and it
+isn't if it is an affiliate link so when
+so the person whose website they click
+through so let's say Brennan done has it
+installed on plan scope someone clicks
+thrown plan scope and signs up he does
+get a commission just so it's not like
+we're keeping all the money and they can
+get rid of it you can get rid of it on
+high plans as well like I said you can
+buy out of it the there's two valuable
+pieces to having this list one is the
+three four hundred people that you can
+eventually launch to and hopefully get
+you know a few thousand bucks in early
+revenue because that makes you feel
+really good and it makes it sustainable
+a space for someone's salary the other
+thing is it tying in to Sherry stock
+it's a few months into building drip
+though I started talking to more people
+and I had this I had this qualitative
+data right of these ten or eleven
+founders I'd emailed with but then we
+kind of went radio silent for a few
+months well starts creeping in doubt
+just starts going into the back your
+mind and you start thinking am I really
+building something that people want
+anymore
+have I just wandered off the track you
+have a few conversations hey you're
+gonna include marketing automation
+you're gonna include you know behavioral
+email you're going to include an Android
+app and you're just like no no no I'm no
+suck we're going down right so it's like
+there's no you start losing confidence
+so the other thing I did is I but when
+we got it's about twenty five hundred
+emails poof I sent him a survey and this
+was a little bit for my own anxiety to
+assuage it but also to confirm
+that I was still on track had
+quantitative dick way like qualitative
+data from those early get from that 11 I
+wanted quantitative data yeah alright
+I'm not swapping those quantitative data
+right I actually wanted true survey and
+true numbers see I know you can't read
+this it's a Google survey I put it
+together well you put it together in two
+minutes but it takes it 30 minutes to
+write it right you gotta be very careful
+with the wording and this is what I
+learned from it the first thing is I
+asked them what email marketing problem
+do you really hope drip will fix and I
+gave him very fixed choices because I
+didn't want people just fill it in a
+text box I was really trying to guide
+him towards things and I learned that
+folks wanted more website conversions a
+heck of a lot more than they wanted more
+leads right this thing's are similar
+they're related but they're not the same
+thing more conversions versus more leads
+it's different language I also learned
+that but email workflow like behavioral
+email was pretty important to people but
+we couldn't build it it's like a four
+month feature to be able to move people
+in and out of lists based on their
+behavior we're actually launching that I
+means a year later now we're launching
+that in two weeks
+it just it took forever to build but I
+saw how important it was early on
+I also learned well some stuff we were
+already building was gonna nail it for
+people I said anything else trip needs
+to do in order to crush it for you and
+41% said split testing of emails and
+sequences BAM we had most of that bill
+another one was Analytics conversion
+tracking BAM that was a core you know
+piece of the product already and then 13
+percent said they liked our cool pop-up
+opt-in form so I that kind of that was
+like all right I got this dialed in a
+little bit and then the other things
+were which email marketing platform do
+you currently use and it was like a huge
+percentage so only about 62% like use
+MailChimp but then everything else was
+just scattered and so I knew that
+integrating with MailChimp could be a
+win for us and the next question then
+was are you planning to jump wholesale
+to drip or are you gonna stay with drip
+I'm sorry to stay with like MailChimp
+and you just want us to feed leads into
+to MailChimp and 77 percent said yeah I
+really kind of want to stick with drip
+for a while I'm sorry stick with
+MailChimp for a while and feed my stuff
+into drip so kind of have their feet on
+both islands right they didn't didn't
+trust us as a start-up yet which is fine
+but this instantly meant we
+to do a MailChimp integration now this
+is where I stumbled a little bit here
+because now that we're at a place where
+we are more of a standalone app it's not
+great to basically be placed second
+fiddle to other people and have people
+always canceling because they say well
+everything's in MailChimp anyway so
+there's really no you know it's not that
+hard to switch and in addition yeah it
+confused users early on they said well
+what's the use case of this integration
+cuz why am i paying MailChimp 50 bucks
+and then now I'm paying you 50 bucks
+what more value do you add so they're
+add a lot of complexity there and then
+the last thing I asked was how do you
+spend your days because I wanted to find
+out who were the founders who were the
+email marketers who were the online
+marketers and then I could segment and
+say how did the founders respond to all
+of these questions how did the email
+marketers and online marketers and it
+was just one more data point so this
+actually lifted my spirits quite a bit
+and this is the second value like I said
+there's two pieces of value in having
+this large list number one is hopefully
+you'll be able to provide value to a lot
+of them and have a nice first month the
+second thing is that you can keep your
+confidence up and get some qualitative
+data points on what the hell should we
+build so I'd like to have intermissions
+in my talks because well just because
+and it's to kind of break it up so that
+I'm not just I spit out a lot of
+tactical stuff and it's overwhelming I
+know so anyone heard of Dollar Shave
+Club all right so I like this it's just
+a startup that did they send well you'll
+hear what they do but I like the way
+they did it and this went viral and it's
+just kind of funny hi I'm Mike founder
+of dollarshaveclub.com what is
+dollarshaveclub.com well for $1 a month
+we sent high-quality razors right to
+your door yeah a dollar are the blades
+any good no our blades are great each
+razor has stainless steel blades and
+aloe vera lubricating strip and a pivot
+head it's so gentle a toddler could use
+it and do you like spending twenty
+dollars a month on brand-name razors 19
+go to Roger Federer I'm good at tennis
+do you think your razor needs a
+vibrating handle a flashlight a
+backscratcher in ten blades your
+handsome-ass grandfather had one blade
+and polio
+looking good pop up stop hand for shave
+tech you don't need and stop forgetting
+to buy your blades every month Alejandra
+and I are gonna ship them right to you
+we're not just selling razors we're also
+making new jobs Alejandra what were you
+doing last month not working what are
+you doing now
+waking I'm no Vanderbilt but this train
+makes hay so stop forgetting to buy your
+blades every month and start deciding
+where you're gonna stack all those
+dollar bills I'm saving you we are
+dollarshaveclub.com and the party is on
+[Music]
+so that video cost them like nothing to
+make that is an AK Alejandra's an actual
+employee of his I mean it David did it
+in a way you know it's like awesome and
+it was it was millions of views so that
+gives you a break from hearing about
+this for a minute all right two more
+parts this one's about the slow launch
+then we're gonna dive into onboarding
+and how valuable it was and what we did
+with it so this slow launch that I'm
+talking about comes in two parts the
+first part is more you might think of it
+as customer development it's like we're
+launching to one of the shortlist member
+the 11 that I got to say yes we're
+launching to one at a time and we're
+building what they need and then moving
+on to the next and finding out do we
+have everything yeah well we need one
+more thing okay let's do that so that
+you think of that more is like still
+building the product then the second
+part is this slow launch to the 3400
+people because you can't just email
+3,400 people and actually get them in
+your app and having a healthy experience
+at once unless you have a staff and we
+don't have staffs because we're
+self-funded so the keys to the slow
+launch are I think I have three here
+first one is to pick the right early
+customers this is huge if you pick the
+Rif I'd pick the blogger as my first
+early customer would have been
+catastrophic for me so you really have
+to figure out who is going to be easy
+enough to work with that's not gonna
+demand that's not gonna be really
+disappointed if I don't build if I don't
+build a feature that they want me to
+build who's gonna throw a tantrum who is
+is gonna have the patience to work with
+me for a month trying to kind of get on
+board because it can easily take a month
+to get your first customer on
+if you really have built kind of a
+minimum viable thing so picking the
+right early customer is critical second
+one you essentially become a developer
+for hire you are like a unpaid
+consultant and this is the way we did it
+and I don't know how else we could have
+done it Derek basically worked 40 hours
+a week just on this one customers
+feature requests and I work 10 or 15
+just emailing skyping figuring out what
+we're building how we were gonna build
+it that kind of stuff and the third step
+or the third key is to rush but to take
+your time and the idea here is that you
+rushing as fast as you can through the
+features they're asking stacking them
+together it's doing sprints but take
+your time in getting the next person on
+don't be in a hurry to get customer 2 3
+&amp; 4 on that's easier said than done so I
+had this list of 11 and I picked a
+friend of mine Ruben here's here in the
+audience the reason I picked him is
+because he fit all the criteria he knows
+product I know he's not gonna be upset
+you know if we don't build something and
+I felt like he could help help guide it
+so we spent a month just listening to
+Ruben say he already has his whole email
+marketing thing he's already using
+MailChimp and we said all right here's
+drip and he looked at me he said dude
+you don't even have an embeddable HTML
+form seriously and so we had to build
+that right it took a week because all we
+had was our little pop-up we did you we
+didn't have a way to embed into HTML
+poof so we built that then he said wait
+you can't send broadcasts all you are is
+an autoresponder thing and I was like
+yeah well it was this cool idea and he's
+like oh I'd send broadcast like once a
+week okay so we got to build that that
+takes a week or two then he says I kinda
+need to pause something and I'd like to
+delete a couple of these things because
+again we had no buttons to do anything
+so we spent a week doing stuff like that
+and then he was still had enough people
+in MailChimp through some other reasons
+that we did we did build the MailChimp
+integration for him so that he could get
+leads through drip have him in drip
+getting a sequence and then pop him in
+to MailChimp for his that was kind of a
+central repository for email and then
+after a month we hit a big roadblock and
+a big rock so this is one of those times
+where you feel like you get punched in
+the stomach because you spent a month
+and you've already spent five months six
+months building
+and you get someone in you spent a month
+building everything they need and you
+still don't you can't get them using the
+app you're like for crying out loud I
+want one customer to be paying me but we
+couldn't do it and it involved a
+complexity he was using MailChimp's api
+to like send different welcoming rewards
+to different people based on landing
+page it was just too complicated we
+didn't even have an API and so at one
+phone call I was like oh my gosh we
+totally let you down and he said I think
+you should not build this and he said I
+think I'm too complicated
+not not build rip he said I don't think
+you should build this feature that I
+need I think you should find another
+customer it's not you it's me he didn't
+say that but I took the hit so so we did
+so we moved on and customers two and
+three were actually the first two
+customers have dripped we're a jeff from
+ambassador and this awesome picture of
+Brennen done look at that sorry Ben and
+that was a man that was the biggest
+picture I could find if you I know you
+look all goofy in it but anyways these
+guys what was interesting as we moved on
+and I was all downtrodden because I
+thought whoa we just pissed a month away
+but it turns out both of them needed
+embeddable HTML forms broadcasts the
+ability to pause things MailChimp and
+you know they were both using that early
+on and so we hadn't wasted any time even
+though it that first month was kind of a
+failure in my eyes as a founder so we do
+have to build a few things to get from
+there until we actually started getting
+all 11 folks on this is kind of our list
+from fog bugs of features we implemented
+so it's it's not it's this is why it's
+called this slow launch like you have to
+build if you're gonna start at this
+point and then I started sending the
+emails drip is ready for you that was
+the subject line and boy that's really
+small I'm gonna let you just read that
+later but it was basically to be honest
+I honed this email it got shorter and
+shorter and this is to John Pocket risk
+and it basically says we have no on
+boarding in this email it says that we
+have no on boarding but here's your
+three steps you need to go install the
+tracking code you need to go create your
+campaign publish it and then set a goal
+and you're done let me know if you have
+any questions right so this worked
+really well and it got the book
+of those people on boarded to be honest
+them the list by this time had grown up
+to 17 because people kept emailing me
+wanting to go on and people referring
+people so if we went from 11 to 17 and I
+think ultimately like 10 to 12 of those
+we're using the app and started paying
+for it so it was it was worthwhile
+now the pricing I dropped down to 49
+bucks trying to think if I talk about
+that later if not you can ask me later
+because I don't don't have time to talk
+about it here but it was just a better
+it was a better price point the more I
+talk to people the one wrong turn I did
+take is based on a recommendation I let
+a blogger into mine early access and I
+know in the back of my mind that I
+shouldn't do this and it's not bloggers
+or great people but my app is not
+targeted the bloggers you know it just
+and I knew this from it I don't know why
+I'd do this but it was it was about a
+week's worth of my time on and off 25
+emails back and forth he was like oh
+there's a bug in this it's like what
+that's not a bug you're not thinking
+about it the right way or technically
+you yeah you don't really heat a non
+technical so we didn't know what he was
+looking at and which is my problem right
+this is my problem is that as the
+founder but he wanted like deep
+WordPress integration with all these
+metrics he wanted an Android app in an
+iOS app to look at his metrics he wanted
+drag and drop template building and a
+dragon drop visual email building on and
+on he wanted me to build MailChimp and
+obviously as a non developer you just
+that weed the sweater used to write he's
+been using MailChimp so he wants very
+sophisticated tools and I said boy
+that's like a year that's probably a
+year for us and be hiring other
+developers so the what I I killed some
+time on this one so this is where you
+can coming back you can easily make a
+wrong turn and I'll be the first to say
+I made a lot of mistakes like this
+during this whole process I don't want
+it to appear like I'm in hindsight I can
+tell you I did some things right but I
+did probably just as many things wrong
+other benefits kind of side benefit is I
+had a literal FAQ I didn't have to make
+up any of the FAQ because I kept getting
+these questions over and over they were
+frequently asked
+I got a via email via these 17 people
+and so all this is is a text talk of
+people's they would email me I'd answer
+it and then I poofed poof into a text
+doc boom boom and so by the end I had
+like 12 questions I was like everybody's
+been asking these we need to make our
+onboarding better and there's
+is going on the FAQ so that was kind of
+cool so the lessons from this this is
+the member this is the first part of the
+slow launch and the lessons are to pick
+the right early customers that makes all
+the difference
+to pick early customers with similar
+needs right who are kind of if you have
+a lot of software founders they're going
+to need some other things you get a
+blogger in there their needs are
+probably going to be different
+go high-touch I was probably 22 well in
+the end it was probably 25 hours a week
+I was spending on email and Skype to
+onboard the 17 people over the course of
+about 60 to 90 days very very intense
+and then naming your price upfront I
+already talked about so but when I would
+email I'd be like hey it's right for you
+it so again it's 49 bucks a month we're
+not going to charge you now let's wait
+till you see value if you never see
+value you're not gonna pay if you do
+that's it so I had people with unlimited
+trial lengths basically don't charge
+until a customer receives ample value
+and this is in that early list right
+this is not the mass emails because then
+you have to have a controlled if you
+have 300 people onboarding you can't do
+this this is that first 17 at your first
+folks that have opted in your customer
+development people and the last thing is
+save correspondence to build FAQ and
+trial emails a little bit of an aside
+but I I was surprised at how much of
+that I reuse this stuff that a hand
+wrote and then said oh this is perfect
+for like my whole trial email sequence
+all right one more intermission then
+part four and we are eating dinner
+who'sa calm I'm a bit of an iconic West
+a rebel I rejected the dogma of other
+languages and how things are supposed to
+be that's why I use Ruby on Rails sure I
+could I could program in PHP but I could
+also use a sundial to tell me the time
+people ask me if we have like a
+programming schedule I'll tell you a
+programming schedule
+you ready it'll be done when it's done
+[Music]
+boom we add lose I have a model when it
+comes to programming fast good and cheap
+you get two out of those three and the
+two have to be fast and cheap we're all
+on it good booze and calm is um it's
+kind of like the office it's a bunch of
+little web snippets that are like that
+it's a whole company that they're like
+making fun of the liens and the startup
+stuff so it's pretty cool all right
+oh goodness all right I'm gonna that's
+five twelve so I'm gonna move a little
+fast on this one
+this is onboarding and this is one of
+the keys to how many people we actually
+got in and got value we're able to get
+value out of yep
+so this remember the setup email I sent
+to John earlier that was basically just
+hey here's these three steps so we're
+not have onboarding do this do that do
+this that was our onboarding like I
+realized those are the only three steps
+someone needs and I started realizing as
+I thought about this I took huh MPA the
+minimum path to awesome that's what you
+have to find the minimum path until
+someone gets the awesome experience of
+holy crap I just got my first person who
+purchased or I just got my first email
+subscriber is what I later learned that
+was the awesome experience for a lot of
+people and so some people have a more
+complicated one some people have a very
+very much simpler one but with drip
+which is you know think about MailChimp
+what does it name and path the awesome
+and MailChimp you kind of log in the
+first time and you're all disoriented I
+don't know you don't know you you don't
+really know what to do right
+waits rip I said we got it we got to get
+you down and I'm gonna have two steps
+first thing is we need to encourage
+people to install the tracking the
+JavaScript snippet because without that
+we're really not worth much because you
+don't have analytics you can't embed the
+form you can't do a bunch of stuff
+second thing is people don't get value
+until they have a few emails that they
+can send out and build this course so
+that people can can actually publish it
+on their site and say hey sign up
+something to encourage folks to give
+their email address and so with these
+two steps in mind and the optional third
+step of setting up a goal like a
+purchase goal this is what we did and
+what you'll notice is when you log into
+the app the first time as soon as you
+enter your credit card poof you're here
+this is the app and there's a blank
+slate behind it right there's a blurred
+out image that's just gonna show you
+what you're going to see later and we
+have this big this big div in the center
+pop-up and then we have this thing in
+the upper left this whole header is all
+about onboarding and I received a lot of
+compliments on this approach actually
+and Josh Kaufman yesterday was very kind
+he said yeah I'm in drip and I'm I'm not
+finishing some of the steps because I
+just want to see what emails you're
+gonna send me next I want to collect
+them like I want to I want to see you
+know how you're approaching this and so
+you know if you see what this says it
+says you're all the way in the upper
+left says you're in setup mode and
+there's a red X and it says create your
+campaign you can really do two things
+you can learn more and you can do it now
+so learn more is a video screencast of
+me talking do it now is we take you to
+the page to do it and that's what same
+with these two buttons they do the exact
+same thing down here you can click
+around the app if you want
+you're not like locked into this page
+but it is kind of a wizard walking you
+through so as you start to go through
+your name your campaign you give it a
+title and a headline and then you get at
+this point and this is where it's like
+alright son you need some emails and
+it's like this is where everyone started
+bailing right so this is where we came
+to the concierge and we said some people
+want to do it themselves let's give them
+as a bunch of templates like entire
+sequences where they just paste in their
+content five-day sequences a month
+sequence blah blah blah let's also offer
+to do it for free for them I have a
+support guy taught him how to do it if
+you send an e-book to us or you send a
+five blog links that are kind of related
+we build the course for free started
+charging for it early on that was not a
+good idea right the lifetime value is in
+that getting them using it not in this
+upfront fee and then so the free
+concierge is they're choosing a
+blueprint is the middle one and then
+totally custom I pass along my cost I
+pay a copywriter 500 bucks totally
+custom email course and they build it so
+this is the idea is to like go one step
+how do you go one step further than
+MailChimp right MailChimp is not doing
+this they're big and they're very
+successful but how can I be different
+and this is the approach so this gets a
+lot of people past this step because a
+lot of people just say well yeah this
+have you build it you're at blog content
+it's a piece of cake I don't have to do
+anything and those are some of the
+templates that we you can take a look at
+them later and then if they do that may
+get it live then JavaScript comes next
+you know you see now that one's clear
+and then this little red X is basically
+the JavaScript snippet saying install
+that and then once they get done the
+header goes away and they can actually
+use the app so that's the basic aspect
+the basis of the onboarding I do have
+one tip if you're in if you need someone
+to install JavaScript tracking code
+integrate with segment IO because
+there's quite a few people using that
+how ins if they're using if your
+customer is using segment at i/o and
+you've integrated with them then
+installing your app is one click in the
+segment dot IO dashboard right because
+they take segments that iOS code and
+they put it in their footer and then
+they'll just settle out and activate
+drip and hit tile on Google Analytics
+and poof poof poof poof poof and it puts
+it all there it renders it out
+so segment two that was pretty cool I
+both hit tail and drip integrated if
+you're installing tracking code it's a
+good idea last couple things trial
+emails this is the raw text from a
+couple of them but we basically say the
+same thing that we said in the app but
+we start saying it in the email with a
+little bit of a value proposition
+welcome to drip this is a welcome email
+right our goal I don't go on and say hey
+welcome to drip get signed up or you
+know get this thing going I say our goal
+is to help you make more money but
+enabling you to easily create an email
+mini course I don't know so first thing
+is here's the value this is my goal and
+then it says you know it's setting up
+takes three steps and it's the same it's
+the two steps plus the optional that
+I've already mentioned so you're
+basically saying the same thing again a
+couple times so the lessons from this
+part are to determine your apps minimum
+path to awesome guide your new users
+through it using some kind of a wizard
+approach some type of something in the
+GUI so they're not abandoned when they
+sign in and then do it again via email
+right which is really what what I've
+done here and finally to consider a
+concierge you can swing it at all it's
+made a huge difference and this is the
+results like by the time we were done
+getting
+thirty four hundred people on sixty
+percent of them were activated fully
+activated they hadn't so we got 60% of
+trials to install JavaScript and get a
+five-day email course live I know if you
+realize how hard that is but it's that's
+a very high number for that kind of
+effort so it's good I want it to be more
+of course but it's pretty good
+so last and I got two slides remaining
+maybe the slow launch part two the last
+part of this which it was funny is the
+hard work was done before I emailed the
+first of the thirty four hundred people
+right I have thirty four hundred people
+now to email but I know that a huge
+chunk of them are gonna be able to get
+on board it automate it because I've
+done all this hard work with the first
+seventeen so by the time the launch came
+the hard work for us was done so it slow
+launch part to wait until onboarding is
+working wait until you have at least a
+few people who've done it
+divide your list into cohorts so I had
+thirty four hundred you may have to say
+you have a thousand take ten to twenty
+percent of them send that email sequence
+get him on board you send this launch
+email sequence with a time-limited
+discount this is my formula I've been
+talking about for years when you get the
+slides that link launch email sequence
+our thief it's a four sequence four
+email sequence the exact emails I sent
+for drip and has all the images and all
+the stuff so you can see how I did it
+and I'm probably gonna take that down in
+about a week I haven't published that
+anywhere and I don't really plan on it
+so being a micro conf you can download I
+think it's a big zip file of Word docs
+that's what it is then you wait trial
+length days trial length is 21 days
+whatever 14 you wait because you got to
+see who gets through where do they have
+problems and then you repeat it until
+your list is done and that's that we did
+three to six hundred people at a time
+we on-boarded thirty four hundred people
+not all of them honestly but as many
+signed up over the course of trying to
+think of that took three months I think
+it was three months to do that and the
+result of course was seven thousand
+bucks in recurring revenue in month one
+I robbed Erica market vibe I'm so
+excited about your talk because I feel
+like we're twins in a way it's weird we
+just launched with the 10 customers
+thing and we did it by invite only we're
+doing similar customers I was taking
+frantic notes the entire time so I
+really appreciate everything that you
+said and I just sent our CTO a message
+and said we need to integrate with some
+segments ago so I was wondering and this
+is this is I guess kind of a weird
+question and maybe an obvious question
+but we have three people currently
+full-time with us and we have one says
+that makes enough money to pay one
+person full-time but not three we've
+tried to close that gap with funding and
+do the same kind of slow launched and I
+was wondering how did you work it out
+with your employees so that you could
+pay them while you did the slow launch
+or did you not pay them I'm all about
+Derek wouldn't have been happy if I
+didn't pay him you know my approach is
+like long-term and repeatable like
+that's kind of been my whole thing is a
+few thousand bucks a month in two
+thousand five and just build that up
+what paid Derek's salary and my salary
+during this time was was hit tail was my
+last project so for me I like to eat his
+words self-funded I am self-funded I've
+funded myself from my previous efforts
+and I started with hip feed shot that
+made 50 bucks a month and I put that and
+then I gotten an invoice that made two
+thousand bucks a month one to two
+thousand and then I leveraged that and
+it you know i'm sanna and i leveraged
+each one so I did pay him it's because I
+had a previous something so yeah I was
+curious about of all the people that you
+had sign up whether or not they actually
+stopped putting their feet in both camps
+of mayochamp bands Trevor just went
+whole hog for one versus the other yeah
+you know I don't have exact data on it I
+know that there are there are still
+people doing both my at this point we
+aside from like fancy email templates
+and drag and drop and Android app and
+iOS
+a bunch we don't have but we have the
+basics so we have a lot of people who
+have stopped doing the MailChimp thing
+because it's just you know easier to
+stay with Europe but we all we do have
+people doing both I got to be honest I
+hope to fix that but you can't fix it on
+day one you know Sam like day one you
+have a four-month-old product and
+MailChimp's like nine years ahead of you
+and so and again I'm not chasing male
+super actually going in the email
+marketing automation to be honest we're
+going after infusionsoft office
+autopilot that's that's our next market
+and that'll be in the next one to two
+weeks but yeah it was it's a good
+question it definitely was a bridge I
+don't regret building the mail we build
+MailChimp Aweber a couple others I don't
+regret building those because it allowed
+people to feel more comfortable using
+drip and not feel like they had to you
+know they couldn't stand on both islands
+I think but I think it's a we'll leave
+them in but it was more of a temporary
+thing I don't think we're gonna build 50
+integrations mad Mimi and all these
+other things you know how did you figure
+which price you would set for your
+products especially since in your first
+initial eleven people you are at seven
+was at seventeen and in turn at eleven
+he said you wanted to see what response
+was and then some bloggers would say eh
+it's not worth the price but maybe it
+would have been five people would have
+been okay with a 99 but not the rest
+there you could have tweaked it I'm just
+curious
+yeah so I did I you know Josh Pigford
+said earlier 99 do you want a nine or a
+$99 customer and so when I originally
+thought of drip I said I want an app
+I've already done hit tail write which
+is 10 20 40 80 dollar price points and I
+realized that wanted the bottom end to
+try to be a hundred that was my goal was
+to do my next app bigger and which means
+the bottom end should be larger so that
+was my initial goal the further I got
+into it the further I realized I'm gonna
+need like a year to get there so
+ultimately once we've launched this
+marketing automation people will be
+grandfathered in who are using it but
+we're gonna raise prices because then
+it's worth it because all the other
+we're gonna have the same feature set or
+very close to things that charge 300 and
+up so yes I want to get there but I
+realized I was trying to jump the gun
+and say hey look we coded for five
+months and I want to charge everybody 99
+bucks
+it's not a no brainer price so that's
+why I backed off actually had a
+conversation with Patrick McKenzie and a
+couple other people who I
+trust I'm in two masterminds and I asked
+everybody and we batted it back and
+forth about the pros and cons and looked
+at everything and eventually I decided
+it was a gut call but it was the
+feedback I was getting was 99 bucks it's
+not a no-brainer and you're not you'll
+have a name recognition yet you know and
+so I said all right yet right you don't
+have it yet so that's what we're working
+for how did you iterate on each new
+launch that you did yeah and was there
+something or a few things specific that
+you learned as you went right converted
+each new bit better than the last yeah
+that's a good question so you know you
+have this thirty four hundred people and
+then you send an email the three hundred
+you look what happened
+what do you change right for the next
+300 think there I made some changes but
+it was nothing so big that I think it
+made a difference to be honest I didn't
+split test if I had more time I was in
+Europe for a month of this at micro conf
+Europe and if I had more time I would
+have split tested emails and done all
+that I didn't do that to be honest yeah
+and we did we did update the onboarding
+because some people got confused so it
+was more user feedback stuff where it
+was like oh do I really need to do this
+third step we had goals built in you
+have to enter a goal you have to say how
+much you're gonna get if someone buys
+something and people were like only 10%
+15% of people knew what that was so we
+did make that optional in the end and
+really toned it down I got a couple
+feedback from a couple people who said
+you know your emails are kind of like
+feel like you're pushing your agenda
+rather than trying to help me so I toned
+the verbage instead of saying get on
+board and get on boarded I was kind of
+like hey drips here you know it can do
+this for you so I did stuff like that
+but I never I didn't I wasn't super
+analytical and a/b split testing about
+it which normally I would be but yeah
+just on this one there's only so much
+time you know yes was the last question
+about the where you segmented the the
+emails out to the customer 10 to 20
+percent yes
+and it was whether I changed him from
+launch to launch I tweaked some little
+things the answer was but I didn't make
+dramatic changes well actually that was
+my question so okay cool thanks awesome
+talk how did you come up with the budget
+for your Facebook Ads to get those 900
+emails I didn't
+come up with a budget what I said was
+I'm gonna go and spend a couple hundred
+and see how much I have to pay per email
+and then do a judgment call and I've ran
+out you run quick math on it right and I
+got to whereas between three and four
+bucks per email collected so they click
+through and you pay so much and then
+wherever it was converting and I started
+doing math of like alright if I get
+thousand people from Facebook I'm gonna
+spend three to four thousand dollars
+this is little under three bucks right
+cuz I think I said I spent around 2,500
+but let's say I spent three grand on
+Facebook Ads if I'm charged in 49 bucks
+a month
+most people no lifetime value is gonna
+be between 6 and 24 months even early on
+and so do quick math you don't have to
+convert many of those thousand people to
+pay for itself so as long as you have
+that self-funded bucket I was spending
+as much as I could as much as I could
+manage and still get the app done
+I was just crank in the facebook ads
+that was as much as I could spend at the
+time so maybe want one more it's pretty
+well yes alright so do you have other
+ideas about a viral loop that you
+mentioned about hard wet grip what what
+other methods are there I don't know
+because I I'm not a big viral like
+that's never been my I the tool belt
+right things I know and virality has
+never been one so we literally stumbled
+upon it when Heaton said it we
+implemented it it worked fantastic I
+would say go to someone like Andrew Chen
+you know go to his blog and read about
+it alright
+there has to be someone if you heat and
+who knows a lot about virality and who
+could a viral loop Heaton said there's a
+lot of content online in most cases you
+don't need it what you did with the
+powered by is as good as it gets or in
+the bottom of an email or something I
+mean yeah I don't know that have more on
+it because I just haven't it's not my
+wheelhouse you know it works great but I
+yeah that's what it is that's it a thank
+you

@@ -1,0 +1,1053 @@
+﻿and we are live. Welcome back to
+Microconf on Air just about every other
+week at 10 a.m. Pacific, 1 PM Eastern,
+we live stream for yeah 20 or 30 minutes
+and we talk about all things SAS,
+startup, sometimes life, sometimes
+freedom, purpose, and relationships. And
+I'm really glad that you join me today
+because it is this is the most
+creatively titled on air we've ever had.
+Rob answers audience questions. Um, we
+are going to be talking for the next 15,
+20 minutes, maybe 30 until the questions
+run out. I see we already have several
+that have come in to the MicroCom onair
+channel in Microcom Connect. If you're
+not in there, head to microconnect.com,
+get signed up. That's the easiest way to
+answer questions and those get a slight
+priority over over the uh the other
+avenues. We have crossed 3,000 founders
+and aspiring founders in Microsoft
+Connect as of just a few days ago. So,
+it's exciting news. There's a lot of
+great conversations. Um, and there's
+channels ranging from whiskey to rants
+to SAS pricing to hiring to micro on air
+where folks are asking questions today.
+If you are watching on YouTube, you can
+also uh ask them in the chat. And
+producer Ron is manning the switchboard
+today. So, he'll be pulling those into
+uh this lovely outline doc that I have
+here. And I'm excited to get into it.
+All topics are allowed. Doesn't mean
+I'll answer every question that you ask,
+but um we can talk about startups, we
+can talk about Star Wars, talk about the
+Beatles, duckized horses, or horse-sized
+ducks. Let's dive in without further
+ado.
+All right, first question from Fast
+Eddie from YouTube. Thanks for asking
+this one, Eddie. He says, "What are
+three key tips for pre-launch,
+pre-revenue
+to make sure you absolutely must do?"
+Okay, so there's a lot of tips here.
+I'll try to stick it to stick to three.
+Um the first one is I would absolutely
+be building some type of launch list.
+Usually it's an email list that you have
+of interested parties. Sometimes it's as
+simple as literally a Trello board. Like
+if this is an enterprise product where
+you are going to be doing hight touch
+sales and your contract values are $500
+a month, $5,000 a month, like really
+expensive stuff, then maybe you only
+have five or 10 on this launch list who
+are interested in hearing about it and
+you're handing and doing calls and doing
+demos and they're doing customer
+development with them where they have
+input. If it's something that's priced
+more in the $10 a month, $100 a month
+range, then you want to build more of an
+email list in a in an ESP like a drip, a
+Mailchimp, an active campaign. And this
+is where I say I used to say start
+marketing the day you start coding. And
+in fact, that is a title of my third
+book. It's available for free. Download
+as a PDF. Um, go to robing.com, enter
+your email, and you can get that book.
+Now I say start marketing before you
+start coding because I think a huge
+mistake that so many developers make is
+they go off build a product that no one
+wants. And oftentimes it isn't that the
+product is completely unwantable or
+unusable but it's they missed the mark
+by 20% or 50% and if they had just had
+more conversations with folks on their
+launch list then you know they would
+have been able to build build a better
+product. That's the first one. Second
+one is have conversations. Um whether
+these are email conversations, whether
+these are Zoom conversations, whether
+these are in person,
+there should be folks who want what you
+are building. If you're building B2B
+SAS, then you're trying to solve a pain
+point. 92 93% of B2B SAS, according to
+the state of independent SAS, they are
+uh people who have built SAS apps, 93%
+are doing it to solve a specific pain.
+And that is really what that's really
+what SAS is about, right? Um, it we're
+not building video games to entertain.
+We're not building Netflix so people can
+chill. We're trying to solve a problem
+that is that that businesses, maybe it's
+small businesses, maybe it's proumers,
+but someone is willing to pay for. And
+so if you're not having that
+conversation in advance of writing code
+as you're writing code, and when I say
+writing code, you know, maybe it's no
+code, maybe you're building it in
+bubble. I think we have a question that
+might be coming up uh around that. Um,
+but you know, think about having these
+conversations up front and whether it's
+whether you want to do validation,
+whether you want to pre-ell, whether you
+want to just ask for verbal commits,
+whether you just want to ask if if I
+built this, would you use it? And then
+dig into, you know, what have you done
+to solve this problem uh to date and and
+going to some place like um the mom test
+if you haven't read that book. Asking
+those types of questions of, you know,
+will you actually use this product? I
+think is is number two. So that's
+getting some type of validation. And I
+don't just mean one time of like, well,
+five people said they want it and now
+I'm going to go spend 6 months building
+it. That's not how you do it. It's
+iterative, right? You have to iterate
+and iterate. Much like all the geniuses
+of our time have done. If you go back,
+listen to podcast episode 600 that I
+released this week, I talked about how,
+you know, it's not, you don't just come
+up with the genius idea and run with it.
+The Beatles didn't do it. Um, Einstein
+didn't do it and and Picasso didn't do
+it. They often iterated and iterated
+until they find found the right answer.
+So unless you think you are a better
+better musicians in the Beatles, smarter
+than Einstein and or better artist than
+Picasso, you're probably going to have
+to iterate too. So that's number two.
+First was launchless. Second is having
+conversations ongoing um as you go. And
+then the third one, let's see,
+pre-launch, pre-revenue.
+I think I would start toying with some
+marketing approaches because the biggest
+so the biggest risk when you are
+launching a B2B SAS these days it's not
+technology risk you can build any idea
+you have pretty much the risk is that no
+one cares or that you can't reach anyone
+who cares and so how do you reach folks
+well there's Facebook groups there are
+um there's SEO there's content marketing
+there are paid paper pay-per-click ads
+there are partnerships and integrations
+There's all these things that you can be
+thinking about and even dipping your toe
+into the water, testing before you
+launch. So when before we launched Drip,
+I was already running Facebook and
+Google ads to a couple different landing
+pages, split testing headlines, and
+gathering emails. And I wound up
+gathering a total of about 3,400 emails
+on our launch list. That was from
+podcast appearances I was doing. That
+was from Inerson conversations. And
+about I think about 500 of those were
+were paid. they didn't, you know, they
+didn't convert amazingly well, but I was
+learning the space, learning how people
+talked about it. And so, I think um
+that's the other thing I'd be doing is
+is figuring out one approach that I that
+I feel good about, you know, that that
+when the day we hit launch, I know we're
+going to be, you know, doing the product
+hunt thing and emailing our list. But
+beyond that, what are we thinking about?
+Um Oh, my screen just went black.
+Hopefully, I'm still streaming. Yeah, it
+looks good. All right. So, thanks for
+that question, Eddie. It's It's a really
+good question. Um, probably deserves,
+you know, a blog post or a whole podcast
+episode, to be honest. All right, next
+question is from David. He says, "What
+has the body of a unicorn and the head
+of a Pegasus? I love the um I This is
+like the duck size one." So, I will
+admit, David, I didn't know the answer
+to this, and that's why it's amazing
+that we have Google at our disposal. So
+according to Google, this creature has
+no specific name, but in some literature
+and media, it has been referred to as an
+alicorn, a Latin word for the horn of a
+unicorn, especially an alchemical text.
+I don't know what alchemical means, but
+I like it. And producer Ron, let's skip
+down to Justin Jackson's question. Yeah,
+looks like we have three down here at
+the bottom.
+Um, next question is from Justin Jackson
+on YouTube and he says, "Hi Justin, uh,
+you originally launched Startups Rest of
+Us in 2010. Later, you launched Tiny
+Seed Tales. How was launching Tiny Seed
+Tales different than Startups for the
+Rest of Us, which is a podcast. What's
+changed in terms of podcast launch
+strategy since then?" It's a really good
+question because I've actually been
+noodling and yeah, don't quote me on
+this, but we've been noodling on, you
+know, should should we launch yet
+another podcast? And so I was actually
+revisiting this topic over the past few
+weeks. So launching Tiny Seed Tales was
+a lot. Well, it's interesting because
+when we launched Startups for the rest
+of us, I actually did go all in on
+promoting it and we got on Apple's new
+and noteworthy. Um, we followed the
+these basic principles that I'm not 100%
+sure if they're still valid today, but
+back in 2010, you you didn't have
+trailers. You would record four episodes
+of your podcast and you would put all of
+those in the iTunes store. It was iTunes
+podcast thing. It's called Apple Podcast
+today, right? There was no Spotify.
+There were none, you know, most of these
+other others didn't exist. So, it was
+all after iTunes and you did four
+episodes because I believe when someone
+clicked subscribe by default it
+downloaded up to four episodes and it
+would goose your download numbers giving
+you if you only had one it would give
+you a quarter of the download numbers
+and so download numbers get Apple's
+attention and I believe if you have it's
+it was like good artwork and good
+quality and reasonable downloads they
+would put you in uh new and noteworthy
+and so that was a big thing that that
+tried and we we succeeded. Tiny seed
+tails was different. I didn't launch it
+like that. We actually just used our own
+audience because we have you know across
+microcom tiny seed robing.com startups
+the rest of us like literally tens of
+tens and tens of thousands of folks who
+already know about us. So we were able
+to send some emails do some social and
+and we really did parlayed that. Um what
+so what I don't know is if that same
+strategy would still work today you know
+to try to get on new and noteworthy. My
+gut is that it is so competitive today
+that it it it might still work but it
+it's a much more long shot and that's
+actually why we decided not to spend all
+the time on that launch strategy um of
+kind of targeting Apple trying to get
+the reviews early. Like I've never asked
+for reviews on Tiny Tales because it's
+just not like a main focus. So, um, and
+these days, you know, I launched Tiny
+Sea Tails as a separate podcast and then
+a couple months later, um, I was having
+a conversation with Dan Andrews of
+Tropical MBA and he said, "Why is it
+even on a different feed? You're the
+same host. You're still talking about
+SAS and startups and bootstrapping.
+It's kind of the same thing. I would
+just put on the same feed. you already
+have the distribution there, you know,
+because startups, the rest of us at the
+time probably had 10 times maybe 20 10
+to 20 times the listener base that Tiny
+Tales did because starting the next
+thing is really hard. Um, it is hard to
+to launch your next startup. I think we
+have a question about that later. It's
+hard to launch your next podcast. It's
+hard to launch your next blog because it
+it doesn't have the same um I I think
+it's kind of like you've moved past
+there often, you know, after you've been
+doing it for a decade. you're like,
+"Well, I'm used to there being tens of
+thousands of listeners and to go back to
+a thousand people listening to you."
+It's kind it can be kind of tough. No,
+on the flip side, it's easier because
+you already have an audience and you can
+point them there. Um, but you know, not
+everyone subscribes. So, that uh thanks
+for the question, Justin. I appreciate
+that. Next question is from Carlos from
+Micromp Connect. He says, "I'm starting
+a new SAS business and despite a
+successful previous experience, I can't
+stop feeling extremely anxious about
+it." Hey, this is the exact topic we
+are. This is a great segue. Is this
+something you're familiar with? How did
+you deal with it? Absolutely. So, every
+time I launch something, whether it's a
+new podcast, a single blog post, um
+a new conference, um launching Tiny
+Seed, launching Drip, each of these I
+get that terror of firsts, that Google
+terror of first. It's a blog post I
+wrote years ago, an essay, and I
+absolutely had it with Drip. already had
+um literally created millions of dollars
+in SAS revenue before um Drip. I had you
+know written a book that became a
+bestseller about starting startups. Like
+I had been doing this for a long time
+and let's see when we launched Drip it
+was when was it? It was 2013 and I
+started Yeah. So I was about eight years
+in. Um, and I had multiple successes
+under my belt. Like I had been working
+for myself for, you know, six years or
+something. And I was still
+pretty anxious about it. And I think the
+stakes get, well, I think there's a
+couple things. The stakes get a little
+higher when you're perhaps a little well
+more well known because there's more
+eyeballs on you. So that can be one
+thing. And I'm not sure, Carlos, if you
+have that. But the other thing is, like
+I said, it's hard to go back. It's we
+forget how difficult it is in the early
+days. You know, you forget what it's
+like to sit and code for three months
+and really only have a handful of people
+that you're talking to about it. Not
+knowing if you're going to get the
+positioning right, not knowing if you're
+building something people wants,
+something people want, not knowing if
+if it's going to work and to spend
+months and months and then launch and
+then it you know, even if the launch
+goes well, you'll often have a lot of
+churn up front and then you'll feel bad
+like I'm not really good at this. you
+get imposter syndrome again like you
+have already many many times. So um
+absolutely you know uh I've I've felt
+it. I think the thing to think about or
+what the way I've thought about it is a
+just because I've succeeded in the past
+does not mean I can do it again. Um so I
+try not to almost I try to almost let
+that let that go and it makes me I think
+work harder and focus more on doing the
+right things. It's blocking and
+tackling, right? launching these
+products. As long as you're not trying
+to launch Facebook or Netflix or or you
+know Uber or something like you're
+launching B2B SAS, we have some pretty
+specific blueprints, guidelines on how
+to get that done. And you still have to
+put in the work. Like it's hard work,
+it's luck and skill. You can't control
+luck. So you have more skill than you
+used to. You probably have more revenue
+money in the bank than you used to if
+you've had a win. And you probably have
+more experience than you used to. and
+you still need to put in that hard work.
+And I think that's something um I think
+I I think it's something that's easy to
+forget. The other thing is
+well a expect it to be a little longer
+and a little harder than you know than
+you want it to be. But also sanity check
+this. Do you have a co-founder? Do you
+have a mastermind group? Do you have a
+spouse? Do you have someone who's been
+on your journey with you who can not you
+know blow smoke at you, but who can say
+look this is going to be challenging but
+like I'm going to be here with you.
+you're good at this and the odds of you
+succeeding somehow, pivoting and
+figuring it out eventually are really,
+really high. When you look at folks like
+Jason Cohen who started multiple
+startups, um Ruben Gomez, myself, um you
+know, Heat and Shaw, like you do get
+better at it as you go. And while it's
+still hard every time, I I think that
+it's I think keeping that in mind as a
+healthy fear, but then letting the
+anxiety go, knowing that the odds of you
+succeeding are probably much much much
+higher than they were five years ago
+when you did your last effort. So, it's
+a good question. You know, I I say the
+what is it majority of being an
+entrepreneur is managing your own
+psychology. This is exactly point on um
+to that, you know, to that uh that
+topic. So, thanks for that question.
+Carlos Devon on Microsoft Connect asks,
+"I'm actively picking customer pain for
+my company's segment as opposed to
+competitor pain, and I'll define those
+in a second. Do you have any general
+observations about SAS for non-technical
+customers? Okay, so customer pain is
+where your customers are more
+challenging to reach. Perhaps there may
+be lower tech, so you have to do high
+touch and a lot of onboarding. they're
+probably more effort to support. Think
+of like legal or real estate agents or
+um any, you know, a lot of
+brickandmortars where it's just harder
+to serve those folks than saying serving
+developers, designers, and entrepreneurs
+who probably going to get your product.
+They may be a little more picky, but
+they're going to get the basics of stuff
+and not going to need nearly as much
+handholding to do it. And then
+competitor pain is where you enter a
+space like email service providers or
+CRM where it's like oh it's a lot of
+entrepreneurs and technically skilled
+people but good lord are there a lot of
+competitors and so the pain is just
+dealing with that you know it's dealing
+with how many competitors you have. So
+um so Devon has said I'm actively
+picking customer pain instead of
+competitor. Do you have any general
+observations about SAS for nontechnical
+customers? Um, yeah. I think, you know,
+I think it's kind of what I said. We we
+actually fund quite a few of these with
+Tiny Seed. Um, ranging from H I'm trying
+to think like Builder Prime is for home
+improvement contractors and, uh, um,
+Senior Place is for placement agents who
+help seniors find assisted living
+facilities. Um, yeah, there there's a
+lot and if you go just click through
+tinyc.com/portfolio,
+you can see it. So, I'm very bullish on
+these segments. they just have different
+they have different challenges than if
+you pick competitor pain and so so here
+are the some of the challenges I see and
+here's the folks that are winning in the
+in you know in the the customer pain
+spaces um number one they do hight touch
+sales especially in the early days like
+as high touch as you can possibly do
+without going crazy and spending you
+know 40 hours onboarding somebody um
+they just they're doing a lot of things
+that aren't that don't scale very well
+and in fact we have a company who's
+Still, I think to onboard a customer and
+import all their data, it takes like 8
+to 10 hours of dev work and they're but
+they're doing tens of thousands a month
+in MR. So, you would think, well,
+shouldn't they be past that? And it's
+like, well, no, because they've
+optimized for customer acquisition, not
+for optimizing that one piece of it, and
+they're in the process of doing it now
+after they know they have a business
+that they're pretty confident can grow
+into seven figures. So that's one thing
+is like spend a lot of time uh both in
+the sales touch and also in the success
+and onboarding. Another thing is you
+have to price your product accordingly
+if you're going to spend that much time.
+And so you cannot charge $50 a month um
+in these spaces. Now you could say $50 a
+seat if you think your average company
+will have you know four seats or five
+seats. It's in that low $100 range. Uh,
+and I would say two 200 250 a month is
+probably bottom end what I would look
+at. It depends on how much customer pain
+it is, right? Um, if you're dealing with
+folks who are really really
+nontechnical, it may need to be $500 or
+$1,000 a month. And dealing with folks
+who are uh, you know, just slightly more
+tech technically savvy, um, that's in
+that 2 to 250. Again, I think that's a
+minimum price point. And if you can't
+ask for that, it may be a nonviable
+business, right? Right? So, you have to
+price it in because of all the time that
+you are going to have to spend or you're
+going to have to hire someone to do it
+eventually and you have to be able to
+afford that.
+Last thing with customer pain is there
+does tend to be a lot of word of mouth
+in these spaces. Um, and it's it's in
+and you have to find out where they are
+because while we in, you know, we hang
+out in Microcom Connect, we hang out in
+our Slack rooms, um, we hang out on hang
+out on Twitter, there's a lot of people
+that don't hang out in any of those
+spaces and they hang out in old bulletin
+board for like old forums. Um, like so
+like if I were serving silver age comic
+book collectors, they're in Facebook
+groups and they're on on the CGC, which
+is a grading company, forums, they call
+them the boards. That's those are the
+two biggest on Instagram now. Those are
+the two or three places. And ver versus
+if you're serving uh lawyers, then where
+are they? I don't actually know. I know
+that there's a few podcasts they listen
+to. I know there's a website called The
+Lawyerist who a friend of mine runs.
+It's very popular. Um and then they
+probably have some Facebook groups, but
+I don't know. I don't know. I don't know
+if they're still in Facebook groups or
+if they've, you know, migrated. And so
+you have to find those places. And I
+would get in there early and I would
+start to understand those customers
+really well. Word of mouth goes really
+fast in these spaces because they'll try
+something new and they'll either rave
+about it or they'll rant against it. And
+you want to be present for that. And if
+they rant against it, then you come in
+and you say, um, "Hey, so sorry you had,
+you know, I'm the founder. So sorry I
+had that experience. I'm willing to fix
+it. Like we're work in progress and blah
+blah blah." Like you jump in. So those
+are I could go on, but you know, we have
+to have to move on. But those are the
+three off the top of my head kind of of
+um elements that I would be or or things
+I would be looking to do for customer
+pain. Thanks for that question, Devin.
+All right, reindeer Jiggy from YouTube.
+If you were starting over today and
+trying to find a net invoice to acquire
+and iterate on, where would you look?
+Yeah. So, I do you know what you know
+what question I really don't like is
+when people say this is not this, but
+when they say if you were starting over
+today with nothing and none of your
+experience, none of your network, what
+would you do? and because I'm just like
+probably something very similar to what
+I did back then just you know I may need
+to work harder today or something. Um
+but this is not that question. This is
+like I bought I bought an app for
+$11,000 in 200 I always forget the year.
+I think it was like 2006 if I were to
+guess. Net invoice. It was doing a
+couple hundred a month. It was in
+shambles. I was told it was in great
+shape. It wasn't. I uh rewrote half the
+codebase. I relaunched it. I marketed it
+and I got it up to between $3 and $5,000
+a month in revenue. who ultimately um
+before I took on a business partner when
+I started doing HitTail Drip and then
+eventually just just gave it to him. But
+these days and back then I looked at
+some certain sites that basically don't
+even exist anymore. So these days I
+would be looking at a couple places. One
+I would uh subscribe to Quietite
+Brokerages um buyers list uh FE
+International as well and Empire
+Flippers. Those are the three. And I
+would look at micro acquire and there
+are there also there's like 1k projects
+and side projects.com. There's a couple
+really low-end ones where it's like
+$1,000 with no customers. And
+personally,
+I'm I don't know that that's much of a
+head start, you know, unless you have
+some type of customer base, some type of
+revenue, like has the idea even been
+proven? Because the hard part is proving
+it, not writing the code, right? It's
+timeconuming to write the code, but the
+uncertainty is in the customer base. So,
+I would personally save up a few more
+thousand dollars and look for something
+that has at least a bit of traction. I'm
+trying to think if there's there's got
+to be another Oh, the I know what the
+other thing cuz I bought HitTail. I was
+cold emailing. So, I sent like 30 or 30
+or 40 cold emails and eventually bought
+Hitale and I basically looked for apps
+that that didn't look like they were
+maintained and um was just pitching
+like, "Hey, I'm looking to acquire
+something." So, that that's kind of the
+fourth or fifth, I guess, approach uh
+that I'd be thinking about. That's a
+good good question. Reindeer Jiggy Dan
+on YouTube asks, "Looking for our first
+sales hire, where should the balance
+fall between domain knowledge, industry
+connections, and general sales skills?"
+Oo,
+I think
+industry connections are the least. I
+mean, it'd be amazing. It'd be amazing,
+but to to get someone with industry
+connections, but I that's a nice to
+have. I think you almost have to just
+write it off as it would be great if it
+happened. But I think general sales
+skills is number one. Um because teach
+if you're good as a founder and you've
+trained your customer success people,
+your support people, your developers to
+generally understand your domain, you
+can do that with a good salesperson.
+But can you teach sales skills to
+someone who doesn't have them? I would
+say it's a lot harder. Right? Right? If
+someone innately is a great developer or
+a salesperson or customer success, you
+can teach them. I mean, look, I'm going
+to be honest. Drip is a complicated
+product. It's amaz It's simple to use.
+It's uh, you know, super powerful. But
+there is, when I say complicated, I
+mean, there's a lot to it. It's very
+powerful. I should probably
+who had and Gmail before and we could
+educate them in a handful of days about
+Drip, how it works, who the customer
+base is enough that they could start
+answering emails that week. And you
+know, by the time I left Drip, we had
+12, is that right? 12 or 14 uh customer
+support people doing live chat and
+email. And we had an additional six
+customer success staff who would
+actually do um zoom call screen shares
+and also email with like high you know
+the VIP or the higherend customers. We
+trained all of those folks. So domain
+knowledge while again it's it' be you
+know when people came over from other
+ESPs yes it was a quick start but that
+was just a week of training you know or
+three to three to five days or a
+learning curve of a couple weeks. um
+training someone on sales skills months,
+six months. I mean, someone like me, you
+can never train me on sales skills.
+Like, I'm never going to be as good as
+someone who, you know, either is
+naturally uh that, you know, engineered
+towards that or who someone who just has
+learned how to do it. So, that would be
+my order. Number one, sales skills.
+Number two, I think domain knowledge.
+Number three, industry connections. It's
+like when I'm thinking about, so if I
+was thinking about business development,
+someone who's going to do partnerships,
+industry connections would be really
+high on the list. But for a salesperson,
+I think we should be we should be
+bringing in the leads inbound and or
+doing outbound to bring in, you know,
+prospects for that um salesperson. So, I
+don't know that I expect my sales people
+to, you know, essentially bring their
+own prospects. But thanks for that
+question, Dan. I think it's a good one.
+David, this might be our last question.
+We'll see how much time we have left. If
+you still have a question, do feel free
+to post it and I I may be able to zip
+through these. David on connect asks,
+"What is the best thing to do if revenue
+has plateaued? Am I doomed?" David be
+chin up, man. No, you're not doomed. Um,
+so it really depends on why revenue has
+plateaued. Usually, it's that you have
+churn. Usually, it's that your churn is
+high or your your um, you know, new
+trial count. I'll say I'm just going to
+assume you have a free trial that your
+new trial count is is too low. Usually
+you want to be looking ahead. There's a
+pretty simple formula for when am I
+going to plateau and I would always be
+calculating that um when I was running
+SAS apps it because it's just it's
+simple math right if your churn is this
+your customer base is this large you
+need this many new trials every month to
+stay flat at this point or you need you
+know twice that to keep growing at at x
+amount and so best thing to do if
+revenue is plateaued is a couple things.
+Number one, go to startups for rest of
+us.com and Google and uh there's a
+search bar in the upper right. Type in
+Ruben Gomez G-Z plateau. And he and I
+recorded an episode five years ago about
+this topic, this exact topic of revenue
+plateauing because of the founders I
+know, he is one of the most thoughtful
+and one of the most knowledgeable about
+breaking through plateaus. So go listen
+to that. But aside from that, as I said
+before, turn's too high, not enough
+trials, or your um pricing's too low,
+right? These are your three levers. And
+so if you the odds are your pricing's
+too low anyways, so I would consider
+raising prices. Um
+but only well, it it's a really depends
+answer. So in general, I would consider
+raising prices. However, um if you're
+not landing some of these trials because
+your pricing's because you're not
+providing the value in the product, then
+that's not a good time to do it. But um
+anyway, so pricing is a big lever. I
+would consider that. Um churn, I would
+find out why people are churning. Are
+they turning early? Are they turning
+late? Are they never getting because if
+they're never getting onboarded and
+they're turnurning all in the first 60
+days, then you know you have an
+onboarding problem. But if people are
+after the first 60 or 90 they are
+sticking around or they're they're
+turning after six to 12 months then you
+have to ask yourself is this um
+is this something is it a product that
+people don't use long term or am I
+dropping the ball and people are
+graduating from this product up right
+you have to figure out that reason by
+looking at the numbers so you do want to
+segment churn by price point and you
+want to segment churn based on month so
+you have a full grid of it because if
+you just have a number like churn is
+10%. That doesn't tell you anything. You
+need to know that in the first 30 days
+churn is 15% and then it drops down to
+like 4%. It's like oh we just people are
+either using it as a trial or um they're
+yeah using it as a trial or they are um
+not getting onboarded. You need to work
+on that. Last thing I'll say is
+oh some products really are one-time use
+products and they have enormous churn
+20% 25% churn and you just can't get
+around it. is like I want to research
+what products I should sell on you know
+insert e-commerce platform here on
+Amazon. Well, unless you build
+additional things like rank tracking to
+keep them around, then I'm going to go
+research and then I'm going to cancel
+and that's it. You're going to have
+lifetime value of a month, right? And so
+you have to ask yourself, is that what
+your product is today? And do you just
+let it go and and hey, it's plateaued
+and I'm all good or um you know, do you
+adjust the product as such? Final thing,
+I know I just said final thing, but
+final thing is I was talking about
+leads. A lot of people you just don't
+get enough traffic and
+that's like the number one enough
+traffic or enough prospects, you know,
+if you're doing outbound stuff and
+that's like the number one cause of
+plateauing that well churn and and then
+that um so it's like try more marketing
+approaches, get better at the marketing
+approaches you have. Like that's that's
+what I'd be looking at. So without more
+context, that's what I got for you,
+David. Thank you. A couple more
+questions and we will wrap. Bill on
+Microsoft Connect asks, "I know you've
+touched on this before being a struggle
+when you were in the weeds with drip.
+What advice do you have for staying
+positive in spite of frequent fires
+caused by platform risk?" Oh, I know
+that feeling. It is hard to remain
+positive about the future with
+platforms, frequent frequent changes,
+and potential for sudden massive
+changes. It is. And I live in the future
+like, you know, my wife lives in the
+present and I live in the future. And I
+know founders, I know some people, you
+know, I have a relative who lives in the
+past, right? When you live in the future
+and you have platform risk, it is scary.
+Um, so the things you have to ask
+yourself is, is this platform risk real?
+Like, have they smoked other uh, you
+know, competitors of yours or, you know,
+do you think that there's a real
+possibility that they will. So, you
+know, in that case, then um, you either
+have to decide, do I diversify across
+multiple platforms? Do I just take this
+risk and live with it? Can I live with
+it? Or do I sell this this company?
+because you can sell companies with
+platform risk, they just may be
+discounted, you know, based on um uh
+based on what would otherwise be a full
+purchase price. But look, if you can get
+if you're SAS and you can get 5x annual
+revenue, 6x, and you can take that, even
+if it's 50 grand, 50 grand to 500 grand,
+and you can move on to something that
+doesn't have platform risk, it might not
+be a bad call. You just have to think
+about it. Um, what doesn't help is to
+worry about it all the time because you
+do have to ask yourself, can I control
+this? The answer is probably not. But
+then when I think about that, I actually
+think what platform is it? And can we
+build relationships with people on the
+inside there so that we have a little
+bit of of an inside track like what can
+I do to lessen my platform risk? And the
+folks who I see who deal well with
+platform risk are kind of good
+networkers and they start talking
+partnership or they connect with um
+let's say you're on uh Heroku that you
+go to Heroku's event and you you know go
+to events where Heroku employees might
+go and you connect with them or you
+connect with them on Twitter or if you
+see someone on Indie Hackers or
+Microsoft connect who works at Heroku
+like you make it a point to start
+relationships with them and just be like
+hey we have an app on Heroku we love it.
+it it it can help you like build a
+little bit of immunity. Obviously, it
+can't make you 100% immune, but it can
+give you a leg up versus doing nothing.
+So, there's a lot there, right? It's
+like, can you first thing is can you do
+anything about it? If the answer is yes,
+try to do those things. Um, if you can't
+do anything about it, then you need to
+stop worrying about it. And if you can't
+stop worrying about it, then you either
+diversify. So, you fix it or you may
+need to move on. And that's what I did
+with HitTail actually, right? about
+every 12 to 18 months, Google would just
+it was so annoying. I was working on
+drip. It's like trying to run this team
+and like Hitail's being being decimated
+by Google. And so, um, that was when I I
+just sold it. And I actually sold it for
+not a great multiple because it was
+declining at the time, but I did I just
+didn't have the time and focus to do it.
+So, hope that's helpful, Bill. It's a
+really good question. Last question for
+today and then we'll wrap. Pacidu on
+YouTube asks, "How do I find a good SAS
+idea? Is e-commerce a good niche?"
+There's a bunch of good niches. There's
+I you know I I venture to say there are
+no bad niches. There are only niches
+where people don't charge enough money
+or um they don't understand the
+customer's pain. So I think ruling a a
+niche out as good or bad I don't think
+is super helpful. How to find a good SAS
+idea. So
+most state of independence asks most
+people find a problem and they find a
+problem that either they are
+experiencing and want to fix with
+software that their spouse significant
+other is experiencing that a colleague
+at work is experiencing or that they
+experience as a customer of another
+platform. And so back to an example I
+gave earlier Jonathan founder of Builder
+Prime which is CRM software for home
+improvement contractors.
+He had a home improvement job done on
+his house and he hated the communication
+so much that he said I'm going to build
+software to do this. Um, and that is
+often the way people do it. Now, scratch
+your own itch has been something around
+for years of well, you should only solve
+problems that you're an expert on. I
+don't believe that. I I believe it gives
+you a leg up, but it's not binary of
+well, you're going to succeed if you do
+and you're not if you don't, right? But
+I do think that um I keep an idea
+notebook of like problems that I see
+kind of in in the world and if I were
+ever going to start another SAS, you
+know, maybe I would solve um them. The
+there you know there is some common
+advice out there that it's like go
+research in Facebook groups and look for
+pains and I think that's cool and
+interesting. I think that's neat to
+validate things. What we've seen in
+state of independence ass is it's like
+5% of companies that launch do that find
+it that way and the overwhelming
+majority are actually finding it through
+themselves their network at work seeing
+it in the wild having conversations. I
+would
+depends on where you are in the stairst
+step like I should
+should you even start a sassite think
+about go the stair step to bootstrapping
+and think about maybe I'm just going to
+look at all these platforms and in fact
+where is there's a list of a bunch of
+marketplaces I'm going to find it for
+you it is rocketgeems.comblog
+and search that for SAS marketplaces and
+there are 68 marketplaces, app stores,
+things like Shopify, Salesforce,
+HubSpot, Pipe Drive, Zoho, CRM, Zenesk,
+on and on and on. Do you have any
+familiarity with any of those or a
+desire to go into any of them? Because
+to me, that's a that's an easier way to
+build a SAS because the distribution is
+built in and
+um
+yeah, I'll link it up in the show notes
+here, but the the distribution is built
+in. And so
+that's where you don't have to learn all
+at once and you can build you still have
+platform risk but you can build some
+small things. You get the quick wins.
+You can uh build enough revenue to quit
+your day job and then you go and start
+the harder SAS. Like you shouldn't go
+and try to start drip. Like drip is a is
+a good it was a good SAS idea and it
+still is but I really wouldn't advise
+you to do that unless you have what I
+had which was an audience experience
+confidence and $200,000 being thrown off
+of a prior app. You know, it all depend
+like good SAS idea really depends on
+your stage. And so I'd be looking at
+simpler ideas including things that I
+could solve with no code. Bubble.io air
+table. Um I think those are some pretty
+great ideas today. And with that we are
+going to move towards wrapping up. I
+went a little long but those were really
+good questions. Thanks so much for
+showing up today. A couple housekeeping
+items. Microcom remote is in just about
+a week. It is microconf.com/reote
+May 3rd through the 5th. It's from 11:00
+a.m. to 12:30 p.m. Eastern time. We're
+diving into all things money. It's going
+to be super fun. And the venue that
+Xander has picked out is pretty amazing.
+Um, it's a 3D walkthrough venue where
+it's almost like a first-person, you
+know, interaction where you're walking
+around. It's really cool. and the the
+topics ranging from uh you know
+investing as a founder to um what do we
+have sales to like uh
+prediction promotion what is it it's
+looking forward it's uh oh my god
+forecasting it's like forecasting your
+SAS revenue anyway it's going to be
+great in addition we have microcom local
+in London uh in about two and a half
+weeks it's in miday and that's
+microcom.comlocal-london
+from 10 a.m. to 5:00 PM on um May May
+something. Go to that URL because I
+forget the URL or I forget the the exact
+date. And thank you to hey.com and
+Stripe for being our headline partners
+once again in 2022. They've been with us
+since 2020 and they make everything we
+do just a little easier. Thanks again
+for showing up today and uh your
+questions were awesome and I look
+forward to connecting again hopefully at
+Microcom Remote and or Microcom London.
+Talk to you soon.

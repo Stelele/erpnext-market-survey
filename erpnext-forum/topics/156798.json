@@ -1,0 +1,51 @@
+{
+  "topic_id": 156798,
+  "title": "Found trigger for bug that causes doubling of bom items on work orders and production plan",
+  "slug": "found-trigger-for-bug-that-causes-doubling-of-bom-items-on-work-orders-and-production-plan",
+  "category_id": 6,
+  "tags": [
+    "bug"
+  ],
+  "created_at": "2025-11-13T11:24:28.402Z",
+  "last_posted_at": "2025-11-13T11:24:28.560Z",
+  "bumped_at": null,
+  "archetype": "regular",
+  "url": "https://discuss.frappe.io/t/found-trigger-for-bug-that-causes-doubling-of-bom-items-on-work-orders-and-production-plan/156798",
+  "views": 13,
+  "reply_count": 0,
+  "post_count": null,
+  "like_count": 0,
+  "has_accepted_answer": null,
+  "accepted_answer_post_id": null,
+  "closed": false,
+  "archived": false,
+  "visible": true,
+  "pinned": false,
+  "featured_link": null,
+  "op_username": "bryanveler",
+  "posts": [
+    {
+      "id": 486368,
+      "username": "bryanveler",
+      "name": "",
+      "created_at": "2025-11-13T11:24:28.560Z",
+      "cooked": "<p><strong>Version:</strong> v15.75.1 (and likely other recent versions)</p>\n<h3><a name=\"p-486368-summary-1\" class=\"anchor\" href=\"#p-486368-summary-1\" aria-label=\"Heading link\"></a>Summary:</h3>\n<p>There is a core bug in the manufacturing module that incorrectly <strong>doubles the required quantity</strong> of a raw material in both <strong>Production Plans</strong> (via “Get Materials”) and <strong>Work Orders</strong>.</p>\n<p>I have done extensive testing and have 100% confirmed the trigger:</p>\n<p><strong>The bug only happens if an item’s <code>Item Code</code> is identical to its <code>Item Group</code> name.</strong> (e.g., an item with Item Code <code>Labor</code> is assigned to the Item Group <code>Labor</code>).</p>\n<h3><a name=\"p-486368-steps-to-reproduce-on-a-100-clean-install-2\" class=\"anchor\" href=\"#p-486368-steps-to-reproduce-on-a-100-clean-install-2\" aria-label=\"Heading link\"></a>Steps to Reproduce (on a 100% Clean Install)</h3>\n<p>This bug is present on a brand-new, un-customized installation (tested on a fresh Docker setup).</p>\n<ol>\n<li>\n<p><strong>Create Item Group:</strong> Create a new Item Group named <code>Test Group</code>.</p>\n</li>\n<li>\n<p><strong>Create “Bad” Item:</strong> Create a new Item with the <strong>Item Code</strong> <code>Test Group</code> (the <em>exact same name</em> as the group). Assign this item to the <code>Test Group</code> Item Group.</p>\n</li>\n<li>\n<p><strong>Create “Good” Item:</strong> Create a new Item with the <strong>Item Code</strong> <code>Good Item</code> and assign it to the <em>same</em> <code>Test Group</code>.</p>\n</li>\n<li>\n<p><strong>Create BOM:</strong> Create a BOM for a finished product. In the materials list, add:</p>\n<ul>\n<li>\n<p>1 unit of <code>Test Group</code> (the “bad” item)</p>\n</li>\n<li>\n<p>1 unit of <code>Good Item</code></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Create Work Order:</strong> Create a new Work Order for 1 unit of the finished product.</p>\n</li>\n<li>\n<p><strong>Observe Bug:</strong> In the “Required Items” table, the quantity for <code>Good Item</code> will be correct (1), but the quantity for <code>Test Group</code> will be <strong>incorrectly doubled to 2</strong>.</p>\n</li>\n</ol>\n<h3><a name=\"p-486368-in-depth-analysis-proof-3\" class=\"anchor\" href=\"#p-486368-in-depth-analysis-proof-3\" aria-label=\"Heading link\"></a>In-Depth Analysis &amp; Proof</h3>\n<p>This is not a configuration, cache, or data error. This is a flaw in the application’s code logic.</p>\n<ul>\n<li>\n<p><strong>Proof 1: The Trigger is Proven</strong></p>\n<ul>\n<li>\n<p>If I <strong>rename the Item Code</strong> of the “bad” item from <code>Test Group</code> to <code>Test Group-2</code> (but keep it in the same group), the bug <strong>disappears</strong>.</p>\n</li>\n<li>\n<p>If I delete the item and recreate it with the <em>exact same Item Code</em> in the <em>exact same Item Group</em>, the bug <strong>comes back</strong>.</p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Proof 2: It is NOT a Caching Bug</strong></p>\n<ul>\n<li>\n<p>Running <code>bench clear-cache</code> does <strong>nothing</strong>.</p>\n</li>\n<li>\n<p>Running <code>redis-cli flushall</code> (to nuke the entire Redis cache) does <strong>nothing</strong>. The bug happens instantly when the data is re-fetched from the database.</p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Proof 3: It is NOT a Database Error</strong></p>\n<ul>\n<li>\n<p>I did a full database <code>diff</code> by dumping the SQL rows for the “good” item and the “bad” item from the <code>tabItem</code> table.</p>\n</li>\n<li>\n<p>I also did a <code>diff</code> on their parent <code>tabItem Group</code> records.</p>\n</li>\n<li>\n<p><strong>The records are 100% functionally identical.</strong> There is no “ghost” property, flag, or setting that is different.</p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>Conclusion:</strong> The core manufacturing code is incorrectly checking <code>if item.name == item.item_group</code> (where <code>item.name</code> is the database field for Item Code). When this condition is true, it mistakenly treats the item as a sub-assembly and “explodes” it, which incorrectly doubles the quantity.</p>\n<h3><a name=\"p-486368-the-workaround-for-other-users-4\" class=\"anchor\" href=\"#p-486368-the-workaround-for-other-users-4\" aria-label=\"Heading link\"></a>The Workaround (For Other Users)</h3>\n<p>The only solution is to <strong>ensure no Item has an Item Code that is identical to its Item Group name.</strong></p>\n<p>Renaming either the Item Code or the Item Group so they do not match will immediately fix the problem for that item.</p>",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/b/7cd45c/{size}.png",
+      "trust_level": 1,
+      "post_number": 1,
+      "post_type": 1,
+      "like_count": null,
+      "like_action": null,
+      "Reads": 7,
+      "wikis": null,
+      "can_edit": false,
+      "can_delete": false,
+      "can_recover": false,
+      "can_view_edit_history": true,
+      "can_wiki": false,
+      "version": 1,
+      "last_edited_at": null,
+      "edited_at": null
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+﻿[Music]
+hey it's Arvid and this is the boot
+[Music]
+founder this episode is sponsored by
+paddle.com my favorite payment provider
+I use them on several of my software
+projects and I've been very happy with
+them over the last couple years they
+take care of sales taxs and expiring
+credit cards invoices all that kind of
+stuff so I can focus on my business
+instead of chasing money they can do
+that for me so go to pad.com to check it
+out it's one of those important
+foundational choices you have to get
+right for your business paddle.com
+the way we buildt software is changing
+fundamentally and I want to talk about
+this today we have these AI systems and
+they are transforming the process of
+creation into something very different
+something almost like a managerial thing
+like now as a developer as a technical
+person you're kind of have to manage an
+AI instead of writing code like you get
+to manage a junior because AI often
+behaves like a junior developer in terms
+of their competency and their vision of
+the product but you get to manage them
+you have to manage them and then deal
+with the Fallout of this so when you
+build software with AI assistance you
+become less of an Explorer less of an
+implementor and more of a validator or a
+verifier so you are the person who
+checks and judges the quality of code
+instead of generating it we're moving
+from generators to validators from
+creators to judges in the best sense of
+the word and this shift got me thinking
+about how how we have all those famous
+laws and principles that have guided
+software development and
+Entrepreneurship in the past and how
+those things might be changing in this
+new AI assisted world you know the ones
+right like Murphy's Law Brooks law
+Conway's law those short phrases that
+people attribute some kind of Truth to
+so I want to explore how developing
+software and software enabled businesses
+particularly with AI assistance changes
+these laws and maybe affects them in
+some way sometimes you will see laws
+that are still the exact same and others
+they're flipping around that is a very
+interesting development so let me share
+some insights from my own personal
+experiences building pot scan with AI
+assistant and how those classic laws now
+apply or don't in this Brave New World
+of prompts and completions one of the
+clearest and most applicable laws when
+working with AI systems is kid Lin's law
+that's k l i n if you want to look it up
+which states that if you write a problem
+down clearly specifically you have
+solved half of it and this becomes even
+more true than ever before with AI
+assistant the specification of how you
+want to get your work done through a
+well formulated prompt to an AI system
+involves most of the actual thinking if
+you're working like this consideration
+of things like structure and tasks
+specific subtasks the results you want
+the inputs you have the outputs you
+expect when I provide a prompt to any AI
+system I'm communicating this intention
+with varying levels of inputs right
+sometimes it's just create a list of XYZ
+to something like a much more complex
+set of instructions with like 10
+different things that I give as context
+to a machine for example I might say
+here's my existing codebase and I want a
+feature that takes data from this
+database with this schema and plays it
+on a page that looks kind of like this
+one or uses a backend process to
+transform it into something else that
+fits into this database this prompt you
+kind of have already defined the input
+like the data structure and the code
+that currently handles it and the output
+what I want the result to look like
+sometimes that's visual sometimes that's
+code and often even how the
+transformation should happen I might
+explicitly state things like aggregate
+this data over a 7-Day time frame when
+it comes to kind of time frame analytics
+or implicitly figure this out from the
+existing code that describes how this
+data is currently being handled and
+displayed you can put all of this in
+there just to different degrees how you
+define it will impact the output so
+kin's law applies even more strongly
+than before because of old style specs
+being more vague in the sense that they
+left a lot of room for experimentation
+during implementation software specs
+particularly the waterfall specs try to
+be precise but they can't really be as
+precise as they need to be to be super
+precise if that makes sense there's
+still room in there for the developer to
+actually implement it and even if you
+build software in an agile way with
+Sprints and rough planning sessions
+there's always room for Discovery during
+the actual implementation process and
+with AI assist with development that
+room gets much more granular when I
+write a spec for a feature I want it to
+be so well defined that the machine that
+I hand this task off to has minimal room
+to get it wrong the thinking about
+structure tasks Parts results input
+outputs that kind of stuff all needs to
+be a well formulated prompt that
+includes most of this work up front that
+is novel because most of the developers
+that I know we're used to reading a spec
+and dealing with it not to create one as
+a form of code in a way writing a good
+spec is coding because it's just like if
+you write Java code that then gets
+compiled into bite code the bite code is
+what runs You could argue that if you
+have a website let's say PHP that spec
+that you write is similar to the Java
+code that an AI then compiles into the
+PHP code that then runs on your website
+it's kind of a shaky example but you
+kind of know what I mean right it's one
+abstraction layer on top it's just like
+we had machine code we had assembler we
+had compiled code we have interpreted
+code and now we have generated code
+that's the thing on top of it and the
+better you define whatever you need the
+better that abstract thing gets at being
+the exact thing or being kind of
+compiled down into the the exact thing
+that you want it to be at the end and
+here's another interesting flip in terms
+of a law poels law
+pel also known as the robustness
+principle it traditionally States be
+conservative in what you send and
+liberal in what you accept and it was
+meant to express that a system is best
+assigned if it's very limited in the
+randomness of the data the structure of
+the data that it sends out making it
+more reliable but being good at
+interoperating with other systems by
+accepting different various kinds of
+data it's kind of network thinking right
+like if I can send a very specific kind
+of data out there others will integrate
+with me and because I want to integrate
+with others I will take whatever random
+stuff they send makes perfect sense but
+working with AI systems where you as a
+person are the center of information and
+the AI kind of applies back to you I
+found that this has completely turned
+around when communicating with AI I want
+to be or you want to be very liberal in
+what you send because you don't fully
+understand how AI systems interpret
+information still kind of blackbox is
+but you must be very conservative in
+what you accept from the AI case in
+point when I code with AI for part scan
+the more context I provide the better
+the result fits my needs and the less I
+have to discriminate against the code
+that comes back the more often I give a
+lot of context the more often the result
+is good enough for me to say yes does
+this allowed to to my code base I don't
+have cursor write all my code and just
+build my code base for me I still give
+tasks to AI to generate code which I
+then manually take back into my code
+base because I feel I cannot let a
+random tool randomly change my code base
+I would completely lose oversight and an
+understanding of my codebase and as a
+solopreneur I cannot have this so I'm
+not a cursor user for podt scan it's too
+big to fail you know for failure to
+happen but but that is the reason why I
+say no to a lot of code generated by AI
+when building a feature I try to find
+every single file that touches the data
+model or the request flow that the
+feature involves and I hand it over as
+context to the AI system for instance
+when I need something related to podcast
+episodes I get the podcast episode data
+model the database schema for episodes
+the controllers that touch it maybe
+views that show that model so the ey
+will know what kind of information is
+relevant and what is not there are a lot
+of different things in the code base
+that I find and put into my prompt as
+context for the machine so I'm very
+liberal in how much data I Supply how
+much I send even if many of the podcast
+model functions have nothing to do with
+the feature that I specifically might
+want right if I have something that is
+supposed to change a style of
+transcription from having time stamps to
+not having time stamps but different
+encoding or whatever a lot of the logic
+on like how an episode is liked or
+disliked or exported that's really
+irrelevant but but I give that context
+with it so the machine can see how the
+code feels because I still want the AI
+to understand how I usually interact
+with data how I write it to the database
+and how I handle caching on most
+occasions the AI needs to get this
+feeding for the smell of my code the
+processes and the concepts that are
+integrated into the system but other
+side I'm really extremely conservative
+and accepting what fits back into the
+code base I frequently find myself
+saying No this is completely wrong or
+this do doesn't follow how I want that
+data to be handled or this implements a
+completely new paradigm of data
+interaction don't do this the AI has to
+do it as it has seen it in other
+functions I provided not introduce new
+paradigms so liberal and what you send
+conservative and what to take
+in this brings us to Gilbert's law which
+says that when you take on a task
+finding the best way to achieve the
+desired results is always your
+responsibility I kind of like this
+generally as a lot in life whenever you
+do a thing finding the best way to do it
+is your job and nobody else's until
+software is written completely by
+autonomous agents without any human
+involvement you will be responsible for
+verifying or dismissing what the machine
+produces when I tell an AI system to
+write code for podan I need to read
+every single line of it I have to make
+sure that the intention of what I had in
+my task is to build this feature
+accurately Ely and is reflected in the
+code The Machine's best way in quotes
+might not actually be the best due to a
+lack of context or the wrong context or
+the wrong prompt or the wrong examples
+that it has in its training data I don't
+know my responsibility is to take the
+code and judge it harshly not because
+the machine did something wrong but
+because I don't know what the right code
+is until I see a result that fits I
+might need to ask the AI to rewrite it
+in a different style to better fit my
+code base or building it differently for
+future extensibility there are many
+reasons to change things and that
+judgment remains my responsibility and
+that is something that Gilbert's law
+still captures perfectly faan's law
+states that if you don't have to make a
+decision about something then don't
+decide I'm a big fan of abstractions and
+that's why I'm mentioning this here in
+making things more extensible from the
+start you don't need to full rewrite
+when extensions are required later so AI
+systems are surprisingly good at
+building things in an extensible way
+without over optimizing for future
+extensibility so in my prompts I often
+specify make it extensible but not crazy
+extensible make it extensible enough so
+I can switch email providers if needed
+or so that if I need a new payment
+platform I can easily integrate it or
+make it extensible so I can switch to
+back end for this micros service that is
+the kind of extensibility you can tell
+the machine to implement and then
+neither you nor the AI has to make
+decisions about direct implementation
+that can be just an interface the I can
+implement the interface or module or
+whatever is appropriate in your language
+of choice but there's an abstraction
+layer in there that makes it more
+flexible and this extensibility is
+particularly important because when you
+later extend the code the surface for
+error becomes much much larger if you
+didn't build it with extension in mind
+when AI tooling takes old code to
+rewrite it it might and often does
+forget that other components depend on
+it start starting with reasonable
+extensibility helps with those future
+headaches it helps avoid them I often
+put this in my prompts and it usually
+does it the way I want it and again put
+in the context of how you made other
+things extensible and it will make them
+extensible just like it it's really nice
+give code examples it's really what it
+is and cursor and all these tools they
+kind of do it by hopefully putting the
+right files that you're working on into
+the context but you can do this
+consciously so learn how to do this this
+is a new developer skill
+it's a skill to be able to prompt
+obviously you should definitely figure
+out how to prompt effectively but also
+to understand what information might be
+useful not required but useful is a new
+skill to develop so if you haven't
+really looked into this yet talk to your
+peers that use it a lot and ask them how
+they do it what the thought is that
+comes to mind which file to attach they
+will tell you and you will hopefully
+figure out how to do this with your own
+code now let's look at some laws that
+are being challenged by AI Brooks law is
+one of them Brooks law states famously
+that adding manpower to a late project
+makes it later it's the mythical man
+month compressed into one sentence and
+honestly with AI tools it's kind of
+feeling different for me your mileage
+may vary here but for me hey if you have
+agents building software in the
+background if you have Claude up here
+cursor up here chup up here and they're
+all doing stuff for you adding one more
+agent particularly if then these things
+start communicating with each other in
+the future and can test their Solutions
+and that would actually benefit
+development speed it does clash with
+what we just discussed in gilbbert law
+you're still responsible for integration
+but the more we move towards
+self-contained agented coding systems
+that can build run and verify code
+adding more engineering power actually
+becomes a benefit rather than a drawback
+I think AI spawns additional people and
+that is something that the manow and the
+man month never really had to take into
+account because resources like good
+developers are pretty scarce but if your
+AI system is better than 95% of all
+developers out there and you can easily
+spawn a new one for like what 5 cents an
+hour it becomes a different
+story the less human verification is
+needed in those moments and these things
+will get better better and better and
+the more machines can verify their own
+Creations writing code compiling code
+running code checking the results the
+more we might be able to overcome the
+limitations that books identified
+decades ago having multiple agents
+working in parallel could fundamentally
+change the economics of software
+development here and I'm all for it I
+Envision a world where I push some code
+because I still want to do that and then
+in the background hundreds of machines
+start running this code and making small
+changes to it and looking at the
+database did something change is it for
+the better is it for the worse are tests
+still working are new tests necessary
+like can I make it faster all of these
+things work all the time I go to bed and
+for eight and a half hours or however
+long I sleep hopefully eight hours
+because you need eight hours of sleep
+you get to have machines doing all of
+this work in the background you come
+back to work in the next morning and you
+get presented the best solution from a
+100 machines doing each eight hours of
+calculation on how to make your code
+more effective Plus testing and
+everything and that's going to cost you
+a couple bucks cuz that compute is going
+to be cheap that is the future I want to
+see and I think we're going to go there
+I've seen more and more people trying to
+build these systems already and with
+compute cost coming down and
+effectiveness of these models going up
+even having one agent run for you
+overnight is going to be a massive
+impact on your
+productivity and there's a similar law
+hofus law that says it always takes
+longer than than you expect even when
+you take into account Hof star's law one
+of the recursive ones that I really like
+software projects certainly take time
+but AI might actually offer a way to
+speed up development here by having
+multiple agents work simultaneously give
+different systems to same task with
+slightly different prompts with slightly
+different priorities and have them kind
+of fight it out have them built together
+or just built individually and then
+compare at the end I find it fascinating
+to imagine not just one agent working on
+your code the way it is right now but
+several doing it concurrently and
+competing for Speed performance
+reliability maybe security or anything
+else you can Benchmark having multiple
+sources generate the same feature in
+different ways then seeing how each
+performs man that's such an interesting
+Prospect for AI assisted coding it's
+like having multiple providers multiple
+sources of code multiple people working
+for you but virtual people generating
+the same feature in different ways and
+seeing how they work out against each
+other competitive coding like this I
+wouldn't people do this like I I know
+that in the aviation industry that's how
+it's done different teams develop the
+same software and then they Benchmark it
+against each other but to have that be
+done for you in the background that's
+really cool and it might overcome some
+of the scheduling challenges that have
+plagued software development for
+decades there's one law that will always
+be true here and that's Conway's law
+that states that organizations which
+Design Systems are constrained to
+produce designs which are copies of the
+communication structures of these
+organizations I believe we'll see the
+way people prompt AI become an
+organizational structure or a means of
+communication structures in
+organizations in itself and that will
+produce certain kinds of code that
+others who prompt differently might not
+even understand the benefit of working
+with humans in software development is
+multi-level feedback your colleagues
+give professional experience
+clearly but they also provide feedback
+on communication Clarity hey you're
+pretty unclear when you say this and I
+think you mean to say that but to me it
+means something else or here in this
+code your naming convention implies this
+but it really means something else to me
+an AI system might not criticize your
+communication style it simply tries to
+infer your meaning and projects that
+into the code but you might not be
+criticized for the way you communicate
+it just tries to deal with it it just
+takes what you say and runs with it and
+that means that something will be
+encoded in your work that isn't
+necessarily related to functionality
+it's how you communicate how it should
+be and since we all communicate with AI
+individually right now we all sit in
+front of our computers and type into
+cursor type into chat upt but just us in
+the computer it's always between
+ourselves and the Machine with nobody
+else seeing communication I think that
+might be a fascinating challenge here
+keeping prompting Styles consistent and
+compatible within organizations I
+haven't heard or read much of this yet
+because I think the Fallout of this is
+only going to come later but I think we
+might see unexpected siloing even within
+smaller developer teams because
+different prompting Styles start
+clashing continually perhaps we need
+prompt mediators or prompt translators
+that normalize communication styles to
+prevent Conway's law from affecting code
+quality on a prompt basis something that
+I never thought i' talk about two years
+ago now I'm thinking about how prompting
+might affect Enterprise software
+companies I have no solution for for
+this challenge yet but I think Conway
+law will very likely affect code on a
+per prompt generation basis which is
+pretty interesting when you think about
+it finally because it's always funny to
+think about this one there's the Peter
+Principle in a hierarchy every employee
+tends to rise to his level of
+incompetence and with developers using
+AI systems to write increasingly complex
+code we'll find these systems push to
+the point where they become unreliable
+or frankly incompetent at creating
+solutions that actually work like I said
+I'm not using cursor on pot scan because
+it's already at the limit of keeping the
+system in its complexity maintainable
+because it's extremely easy to build a
+crud app with AI assistance and as Peter
+levels has shown it is apparently very
+easy to build a flight simulator with
+3GS a 3D flight simulator with WAP
+sockets for multiple people with AI
+assistant it's easy to build a game
+simple game but complicated apps games
+with highly interdependent backend
+processes or AI systems or machine
+approximate code that needs to be Memory
+safe and secure AI might not match this
+tcid knowledge of experienced developers
+there's something in having a lot of
+experience in development that you
+cannot really communicate cannot really
+say but you do it anyway and so far at
+least AI has not really figured that out
+we will make more and more things with
+AI systems until we find their
+capability ceiling and the AIS we use
+right now have a certain capacity and a
+certain limit and of course new and
+better models will be trained on more
+reliable code and think about this
+though there might be skill atrophy in
+the humans using Ai and then there's
+certainly a skill ceiling in AI systems
+trained only on publicly available code
+written by people with skill atrophy
+which is its own problem and you know
+the code itself may not be complete
+capable or secure when you look on
+GitHub a lot of code is good most code
+is not is that what AI are trained on
+right you have to think about that too
+there is a level of incompetence and
+even that might be very high right now
+hard to even reach for humans like I
+said 95% of developers are worse than
+the best AI systems out there but I
+think that level of incompetence still
+exists for AI systems and it becomes
+ever more dangerous to let these systems
+run by themselves as agentic systems
+once they reach that level so for now as
+long as we still test and reliably
+verify the results of AI systems
+hopefully we do that we still have
+control but if they run autonomously and
+get better and better in quotes I guess
+they might eventually hit a point where
+they actually get worse and worse
+because believing themselves to be
+correct due to a history of assumed
+correctness does not make you correct
+but might well be a bias that these
+systems operate under and most of these
+laws are still applicable in the AI era
+and I think it's good to know them which
+is why I mentioned them all I have a
+little list of them that I regularly
+consult to make sure that I'm not making
+the biggest mistakes that I possibly
+could do as a developer and as an
+entrepreneur I think it's important to
+understand laws like this because in
+terms of the unintended side effects of
+prompting AI systems and using AI
+generated code in collaborative code
+bases we need to keep an eye out for
+problems the key takeaway from my
+experience here is the importance of
+clearly specifying what you want with as
+much context as possible to get results
+that don't come back to bite you as much
+upfront as you can context all the way
+and as we transition from creators to
+validators to judges the
+responsibilities shift they don't
+diminish if anything it becomes more
+crucial than ever to really really pay
+attention some principles remain
+unchanged some flip completely and there
+are a couple that bring up challenges in
+this AI assisted world and we get
+dynamics that we need to understand to
+navigate this weird landscape of AI that
+impacts everything we do as Founders and
+developers so I would love to hear your
+thoughts on these laws maybe I missed
+one or two and how you've seen them play
+out in your own AI assistant development
+I'm really excited to know more about
+this because these things are so
+omnipresent in our lives yeah are there
+any principles that you've seen that
+have changed for you do you have
+strategies for dealing with these new
+challenges well let me know I'm always
+curious to learn from other Founders and
+Builders experiences in this super
+rapidly evolving space and that's it for
+today thank you so much for listening to
+the boots OFA you can find me on Twitter
+at a KHL if you want to support me in
+this show please share pocan FM my SAS
+with your professional peers and those
+who you think will benefit from tracking
+mentions of Brands their businesses
+names their own names on podcasts out
+there podan is this near real-time
+database of podcast with a really
+interesting API a push and a pull API so
+please share the word with those who
+need to stay on top of the podcast
+ecosystem this episode was edited and
+mixed by my sound engineer Danielle
+Simpson thank you so much for listening
