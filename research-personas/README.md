@@ -10,31 +10,52 @@ research-personas/
 ├── synthesis.md                       # Cross-persona analysis and ERPNext application
 ├── missing-personas.md                # Personas and sources not yet mined
 │
-├── [Confirmed Personas]
+├── [Validation Personas]
 ├── community-listener.md              # Finding pain through community immersion
-├── small-bets-statistician.md         # Portfolio diversification, small experiments
-├── speed-first-concierge.md           # Speed as competitive advantage
 ├── pre-sale-interrogator.md           # Validating with money before building
 ├── stair-step-market-sizer.md         # Consulting → productized service → SaaS
-├── engineering-marketer.md            # Engineering rigor applied to marketing
-├── freedom-ladder-climber.md          # Building toward lifestyle freedom
-├── calm-biz-rationalist.md            # Measured, deliberate business building
-├── wave-catcher.md                    # Spotting macro shifts before they become obvious
+├── alternative-solution-auditor.md    # Researching all non-SaaS alternatives before building
+├── customer-discovery-specialist.md    # Structured research from every customer conversation
+├── founder-fit-analyzer.md            # Validating three-way market/founder/product fit
 │
-└── [Subtle Personas]
+├── [Execution Personas]
+├── speed-first-concierge.md           # Speed as competitive advantage
+├── small-bets-statistician.md         # Portfolio diversification, small experiments
+├── vanity-rejector.md                 # Distinguishing founder vanity from customer value
+├── ai-first-delegator.md              # AI as first-call collaborator
+├── freelance-pivot-builder.md         # Productizing consulting demand into software
+├── boring-is-profitable-founder.md    # Building unsexy tools with willing-to-pay customers
+├── delegation-architect.md            # Hiring to fill founder's own weaknesses
+├── documentation-obsessive.md         # Building internal docs as a business asset
+├── system-buyer.md                    # Buying proven systems over building from scratch
+├── emotional-cooling-off-founder.md    # Deliberate delay of major decisions
+├── ownership-paradox-navigator.md     # Managing owned vs. rented dependencies
+├── agnostic-stack-founder.md           # Choosing tech by AI compatibility, not preference
+├── ai-agent-manager.md               # Building and managing AI agent workflows
+│
+├── [Psychology Personas]
+├── psychology-manager.md              # Internal psychological management as core skill
+├── productive-procrastinator.md       # Channeling procrastination into high-impact work
+├── freedom-ladder-climber.md         # Building toward lifestyle freedom
+├── calm-biz-rationalist.md           # Measured, deliberate business building
+├── tool-hoarder-purger.md             # Auditing and simplifying the software stack
+│
+├── [Strategy Personas]
+├── wave-catcher.md                   # Spotting macro shifts before they become obvious
+├── moat-architect.md                 # Building competitive moats from day one
+├── castle-builder.md                  # Owning what compounds, renting what depreciates
 ├── constraints-navigator.md           # Turning resource limits into creative advantages
-├── castle-builder.md                   # Owning what compounds, renting what depreciates
-├── productive-procrastinator.md        # Channeling procrastination into high-impact work
-├── anti-virality-purist.md             # Deliberately avoiding viral growth
-├── data-defender.md                    # Protecting own data, ethically scraping others
-├── ai-first-delegator.md               # AI as first-call collaborator
-├── founder-fit-analyzer.md             # Validating three-way market/founder/product fit
-├── slow-burn-marketer.md               # Building audiences over years through consistency
-├── psychology-manager.md               # Internal psychological management as core skill
-├── moat-architect.md                   # Building competitive moats from day one
-├── vanity-rejector.md                  # Distinguishing founder vanity from customer value
-├── exit-planner.md                     # Designing for sellability from day one
-└── alternative-solution-auditor.md     # Researching all non-SaaS alternatives before building
+├── exit-planner.md                   # Designing for sellability from day one
+├── data-flywheel-founder.md          # Data as compounding moat from day one
+├── vertical-saas-specialist.md       # Deliberately serving industry-specific niches
+│
+├── [Marketing Personas]
+├── slow-burn-marketer.md             # Building audiences over years through consistency
+├── engineering-marketer.md           # Engineering rigor applied to marketing
+├── anti-virality-purist.md           # Deliberately avoiding viral growth
+├── pricing-psychologist.md           # Pricing as the most powerful product lever
+├── small-army-builder.md            # Building distribution through agencies and partners
+└── data-defender.md                  # Protecting own data, ethically scraping others
 ```
 
 ## How to Use These Personas
@@ -66,21 +87,24 @@ Each persona includes an **ERPNext Ecosystem Lens** section with specific opport
 
 **Primary source document:** `summaries.md` (523 lines, 16 transcript summaries)
 
-**Full transcripts read:** 12 episodes across TBF and Rob Walling, plus Pieter Levels, Daniel Vassallo, Patrick McKenzie summaries, and multiple partial reads.
+**Full transcripts read:** 24 episodes across TBF and Rob Walling (see Round 1 + Round 2 in missing-personas.md), plus Pieter Levels, Daniel Vassallo, Patrick McKenzie summaries, and multiple partial reads.
 
 ## Methodology
 
-Personas were extracted through:
+ Personas were extracted through:
 
 1. Full transcript analysis of priority episodes (Pieter Levels TBF, Daniel Vassallo TBF, Arvid Kahl constraints/moat/procrastination/scraping/virality/validation/vanity series, Rob Walling 16 Lessons)
 2. `summaries.md` structured analysis of 16 transcripts
-3. Pattern identification across transcripts for subtle personas beyond the original 9 confirmed
+3. Pattern identification across transcripts for personas beyond the existing set
 4. Cross-referencing discovery triggers and validation thresholds against ERPNext ecosystem specifics
 
 ## Persona Count
 
-- **9 confirmed personas** (specified in project brief)
-- **13 subtle personas** (discovered through additional transcript analysis)
-- **22 total personas**
+- **6 validation personas** — how founders find and validate problems
+- **13 execution personas** — how founders build and ship
+- **5 psychology personas** — how founders manage themselves
+- **7 strategy personas** — how founders position and protect their businesses
+- **7 marketing personas** — how founders reach and convert customers
+- **38 total personas**
 
-Plus **9 additional personas identified but not yet built** (listed in `missing-personas.md`), and **16-episode Calm SaaS series** (TBF #148-163) that could deepen Calm Biz Rationalist and spawn new personas.
+Plus **16-episode Calm SaaS series** (TBF #148-163) that could deepen Calm Biz Rationalist and spawn additional personas. See `missing-personas.md` for full backlog.

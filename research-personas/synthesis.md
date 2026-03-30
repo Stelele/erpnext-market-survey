@@ -61,24 +61,43 @@ Understanding these tensions helps identify the right target customer for a give
 - Speed-First Concierge
 - Pre-Sale Interrogator
 - Vanity Rejector
+- Boring-is-Profitable Founder
+- Freelance Pivot Builder
+- AI Agent Manager
+- Agnostic Stack Founder
 
 ### ERPNext Service Providers (Consulting-first)
 - Stair-Step Market Sizer
 - Community Listener
 - Founder Fit Analyzer
 - Slow Burn Marketer
+- Customer Discovery Specialist
+- Freelance Pivot Builder
+- Trust Architect
+- Delegation Architect
 
 ### ERPNext Platform/Infrastructure Players
 - Castle Builder
 - Moat Architect
 - Data Defender
 - Exit Planner
+- Data Flywheel Founder
+- Small Army Builder
+- Documentation Obsessive
+- Ownership Paradox Navigator
 
 ### ERPNext Methodology/Audience Builders
 - Engineering Marketer
 - Psychology Manager
 - Freedom Ladder Climber
 - Anti-Virality Purist
+- Tool Hoarder Purger
+- Pricing Psychologist
+- System Buyer
+- Emotional Cooling-Off Founder
+
+### ERPNext Vertical Specialists
+- Vertical SaaS Specialist
 
 ---
 
