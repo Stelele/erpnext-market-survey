@@ -1,0 +1,876 @@
+{
+  "115508": {
+    "title": "E-invoicing - PEPPOL integration for Belgium - ERPNext 14",
+    "views": 2951,
+    "category": "PEPPOL Belgium",
+    "posts": [
+      {
+        "name": "Pedro Van der Eecken",
+        "username": "pedro_vde",
+        "created_at": "2024-01-06",
+        "text": "Hello, Our Belgian government has decided that all invoices B2B should be sent over the PEPPOL network. As we rely on a self-hosted ERPNext v14 for all our planning and administration, I need to figure out how to handle this. I’ve searched the forum and found a lot of info about the Indian e-invoicing implementation. Besides that, I’ve found a few German, Swiss, and Austrian posts, but looking specifically for PEPPOL does not return any valuable information. Is there someone who could get me started to integrate e-invoicing by PEPPOL to ERPNext v14?"
+      },
+      {
+        "name": "Peer",
+        "username": "Peer",
+        "created_at": "2024-01-06",
+        "text": "Pan-European Public Procurement OnLine ( PEPPOL ) DE: PEPPOL – Wikipedia EN: PEPPOL - Wikipedia"
+      },
+      {
+        "name": "Peer",
+        "username": "Peer",
+        "created_at": "2024-01-06",
+        "text": "Do you mean all B2B invoices, or only those who have a government institution as one of the two contracting parties?"
+      },
+      {
+        "name": "Peer",
+        "username": "Peer",
+        "created_at": "2024-01-06",
+        "text": "There also is an org: https://peppol.org/ The language used and the aspects not expressed could suggest that it started as a government procurement digitization instigation, but is meant to mission creep into the whole economy, even beyond EU territory, complete with new “governance” bodies, digital “authorities”, certifications and whatnot to get people to voluntarily use it. To illustrate, here’s an excerpt from the current german wikipedia article: “Deutschland: „Der IT-Planungsrat verpflichtet Bund und Länder, mit Ablauf der Umsetzungsfrist der Richtlinie 2014/55/EU mindestens PEPPOL anzubieten, wenn sie einen Webservice zur Einlieferung von elektronischen Rechnungen zur Verfügung stellen.“ [30] Die gesetzlichen Vorgaben verpflichten die öffentliche Verwaltung in Deutschland, E-Rechnungen ab dem 27. November 2018 zu empfangen und zu verarbeiten. Die Koordinierungsstelle für IT Standards (KoSIT) ist im Auftrag des IT-Planungsrats als PEPPOL Authority für Deutschland im PEPPOL-Netzwerk tätig.” It seems to have started as a B2Gov, but these B’s might be required to have subcontractors also integrate this “network”. So that could be a big number of B entities and subentities for a start. Is this already outdated or does it reflect the current situation?"
+      },
+      {
+        "name": "Pedro Van der Eecken",
+        "username": "pedro_vde",
+        "created_at": "2024-01-06",
+        "text": "It started indeed as a B2Gov in 2021(?) but by 2026 all B2B invoices should also be handled over PEPPOL… At least over here in Belgium."
+      },
+      {
+        "name": "Peer",
+        "username": "Peer",
+        "created_at": "2024-01-06",
+        "text": "There also is a members list of said organization: OpenPeppol Full members list - OpenPeppol Full members list Members list latest updated January 4th 2024. Est. reading time: 21 minutes"
+      },
+      {
+        "name": "Peer",
+        "username": "Peer",
+        "created_at": "2024-01-06",
+        "text": "What does “handled over” mean? Are businesses required to use an open data exchange format? Or are they even required to do ALL their B2B, even if without any government procurement link, over a centralized API w/ servers, etc.? The latter would sound like some kind of power grab, wouldn’t it? Not exactly typical for democracy and free enterprise, so I’d be astonished if this were the case."
+      },
+      {
+        "name": "Pedro Van der Eecken",
+        "username": "pedro_vde",
+        "created_at": "2024-01-06",
+        "text": "Peer: Or are they even required to do ALL their B2B, even if without any government procurement link, over a centralized API w/ servers, etc.? The latter would sound like some kind of power grab, wouldn’t it? Not exactly typical for democracy and free enterprise, so I’d be astonished if this were the case. The Belgian government has taken the decision that all B2B invoices should be sent via PEPPOL. They also make no bones about the fact that this is an obligation to minimise the discrepancy between the VAT received and the VAT that may effectively be charged. So you are correct that this is a way of gaining total control. Of course, no one is talking about the cost of aligning all systems with this new law. Let alone the additional costs that may have to be incurred to intermediaries, and time for in-house staff training. I don’t want to turn this post into a rant, but so I want to look for a solution. I am sure it is possible to meet the requirements through ERPNext. I fear I will need quite a bit of help from the community, though."
+      },
+      {
+        "name": "Peer",
+        "username": "Peer",
+        "created_at": "2024-01-06",
+        "text": "I guess there are already code snippets that could be reused. E.g. OpenPeppol · GitHub After all, it’s more like an add-on to invoicing (which has to conform to certain standards anyway), and then some API to a financial authorities’ server, which also needs configuration and some crypto keys which need to be properly secured in the ERP system. Or maybe on some other communication system, for instance if your governmant does prescribe some special hardware box or so (like they do in the german health system where doctor cabinets are required to get such a system – see KIM | gematik , in german – for communication purposes; these boxen have their own security and privacy issues, unfortunately, although they are pushed with publicity claiming to solve such problems)."
+      },
+      {
+        "name": "El Pilouu",
+        "username": "ElPilouu",
+        "created_at": "2025-01-28",
+        "text": "Hello Pedro, I’d like to make an app based on Erpnext as well for a dentist in Belgium as well. and I was wandering if you found a solution about this issue ? Kind regards, Julien"
+      },
+      {
+        "name": "Pedro Van der Eecken",
+        "username": "pedro_vde",
+        "created_at": "2025-01-28",
+        "text": "@ ElPilouu Unfortunately not for the moment. I’m looking in to this: https://github.com/alyf-de/eu_einvoice . But currently no idea if this would work."
+      },
+      {
+        "name": "",
+        "username": "daanl",
+        "created_at": "2025-02-01",
+        "text": "We are working on an open Peppol integration, along with an open Peppol Access Point, but I don’t have an ETA yet."
+      },
+      {
+        "name": "Raffael Meyer",
+        "username": "rmeyer",
+        "created_at": "2025-02-01",
+        "text": "Peppol has been requested as an extension of the eu_einvoice app by multiple companies and could be crowdfunded, like the rest of this app. I think it would be a natural fit. However, the timeline is not certain yet. We’re currently just getting started with e-invoicing and Peppol could be a second step once that is stable."
+      },
+      {
+        "name": "Mgantech",
+        "username": "Mario_Gandha",
+        "created_at": "2025-03-04",
+        "text": "We are working on something similar for the Singapore / Malaysia market. Let me know if you want to crowdfund. Thanks."
+      },
+      {
+        "name": "Pedro Van der Eecken",
+        "username": "pedro_vde",
+        "created_at": "2025-04-27",
+        "text": "I just got a reply from @rmeyer at ALYF, the company behind the eu_einvoice app. I was asking for the cost to adapt their application to make it work for Peppol UBL XML, but as he pointed out, the price would be a bit too much for one small company to bear. So maybe this adaptation should be crowdfunded indeed… Shout-out to Belgian users of ERPNext. I presume we are all in the same boat, as we need to be able to invoice and receive invoices in the XML format by 01/01/2026. Who would be interested in a joint effort to tackle this?"
+      },
+      {
+        "name": "Julien",
+        "username": "Createdbytriks",
+        "created_at": "2025-05-09",
+        "text": "Hello, I’m currently facing the same issue when trying to migrate my business activities and those of my partners to ERPNext and the Frappe suite of applications. There is a clear interest in making the switch, however, if I understood the discussion correctly, electronic invoicing via the Peppol network and the UBL format are not yet supported at this point? @pedro_vde do you know how this could be handled in practice? I believe einvoicing has submitted a request to Peppol? Would an API integration with an already authorized tool like Billit.eu be a feasible option? If so, perhaps we could look into it together."
+      },
+      {
+        "name": "Pedro Van der Eecken",
+        "username": "pedro_vde",
+        "created_at": "2025-06-15",
+        "text": "Currently, I have no solution yet as the eu_invoice app is not working for Peppol due to an incompatible format of the XML files. I’m talking to a company that has an application using the right format but I did not hear from them in the last few weeks. As I want to be ready for the obliged delivery and receipt of XML’s over Peppol by January 2026, I would be glad to look in this together. What I do know is that accessing the Peppol network always goes by an intermediate and most of them are happy to help out with an API to make the connection."
+      },
+      {
+        "name": "Prilk Consulting",
+        "username": "prilk-consulting",
+        "created_at": "2025-06-15",
+        "text": "Hi Pedro, I will reach out to you separately, we are building it for Netherlands. May be we can extend it for Belgium. Thanks Prilk Consulting"
+      },
+      {
+        "name": "Pedro Van der Eecken",
+        "username": "pedro_vde",
+        "created_at": "2025-06-24",
+        "text": "In the meantime, our ERPNext self-hosted setup is upgraded to v15, but currently, there is no solution for the Peppol integration (yet). The good news is that we are in discussions with the team at @prilk-consulting in the Netherlands. They were working on a local solution, but they would be happy to develop an application that could serve all European countries, as we all need to access Peppol in the long term. If someone with a business in Belgium or Luxembourg - or even in the rest of Europe - is interested in being a part of this development, please do not hesitate to contact me by DM. It is not easy to find out which companies or self-employed people use ERPNext in Belgium. If you or your company are located in Belgium, please let me know. The more interested parties, the faster the solution can come."
+      },
+      {
+        "name": "Pierre Serpe",
+        "username": "PierreSerpe",
+        "created_at": "2025-08-13",
+        "text": "Hi pedro, I m self employed And m using erpnext for invoicing. I dont have that many invoices but would be happy to keep using it in 2026. Pierre Serpe"
+      }
+    ]
+  },
+  "147256": {
+    "title": "Why ERPNext Hosting is Expensive",
+    "views": 1895,
+    "category": "Hosting costs",
+    "posts": [
+      {
+        "name": "francis1",
+        "username": "francis1",
+        "created_at": "2025-05-17",
+        "text": "Why ERPNext Hosting is Expensive , if we compare with other providers like contabo , hetzner cloud clusters , digital ocean . ERPNext looks like it needs to benefit from hosting business this will reduce users on Frappe Cloud . Why cant they just get servers from Contabo at very affordable prices same thing done by Odoo"
+      },
+      {
+        "name": "",
+        "username": "mangroliya",
+        "created_at": "2025-05-17",
+        "text": "Hi, If you consider all the efforts required to manage and maintain the cloud server, frappe cloud is far cheaper compared to any hosting providers you suggested. Certain frappe plans also include the product warranty. Also, note that the Frappe is using the Quality Hosting providers like Oracle, Google and Amazon AWS which are not cheaper but gives the best infrastructure with better security. Also, Frappe is earning only from the hosting business. Frappe is not charging any per user license like Odoo. Thanks, Divyesh Mangroliya"
+      },
+      {
+        "name": "francis1",
+        "username": "francis1",
+        "created_at": "2025-05-18",
+        "text": "Contabo is quite very cheap with 99% , the frappe can get more jobs and revenue when using less costly hosting unlike what they are currently doing they prices are not competative at all . look at those prices , l have been using contabo for 4 years now , l was reffered to contabo on this platform , a lot of people use it . contabo44 1366×730 152 KB"
+      },
+      {
+        "name": "Olamide",
+        "username": "olamide_shodunke",
+        "created_at": "2025-05-18",
+        "text": "For you to be mentioning Contabo as an alternative for an Enterprise hosting solution shows you need to stay away from this topic. No offense intended"
+      },
+      {
+        "name": "Peter",
+        "username": "peterg",
+        "created_at": "2025-05-18",
+        "text": "I bought a notebook and pencil at the stationary store and it’s been working great for me. I don’t know why you all even bother with an ERP."
+      },
+      {
+        "name": "Aadhil P M",
+        "username": "Aadhil_P_M",
+        "created_at": "2025-05-18",
+        "text": "I use Contabo only for development and testing—not for production or client projects. The main issue with Contabo is reliability. If the server goes down for any reason, it takes a long time to get support. We often have to raise multiple tickets, and getting the VPS back online can be a frustrating process. This makes it hard to respond to customers quickly. On the other hand, Frappe Cloud uses reliable servers like AWS and Oracle Cloud , which offer much better uptime and performance. For a live system, even a 5 to 30-minute downtime can seriously impact the customer’s business. So while cheaper hosting like Contabo can save money, it often leads to more downtime, more maintenance work, and unhappy clients . Contabo and Hetzner give you a raw server . You are responsible for: Installing and configuring ERPNext Setting up NGINX, MariaDB, Redis, and Supervisord Managing backups, SSL, firewalls, scaling, and updates Troubleshooting crashes or performance issues Ensuring data security and uptime On the other hand, Frappe Cloud offers a fully managed environment : Pre-configured and optimized ERPNext setup Automated updates , patches, and maintenance Daily backups , disaster recovery, and rollback options One-click app installs, site duplication, and GitHub integration Support from the actual developers of ERPNext (Frappe team) You’re not just paying for a server—you’re paying for peace of mind , stability , and productivity ."
+      },
+      {
+        "name": "francis1",
+        "username": "francis1",
+        "created_at": "2025-05-19",
+        "text": "To solve som downtime you may have with Contabo in my cases we live database cloning and among around 100 clients l have , maybe once in 2 months can have a downtime of 3 to 24 hrs for at least 3 cleints"
+      },
+      {
+        "name": "francis1",
+        "username": "francis1",
+        "created_at": "2025-05-19",
+        "text": "but one way or the other , frappe cloud’s pricing is not competative consindering its not its main business"
+      },
+      {
+        "name": "Rushabh Mehta",
+        "username": "rmehta",
+        "created_at": "2025-05-21",
+        "text": "Thanks for the feedback. We want to make Frappe Cloud as a multi-cloud option so you can pick and choose what Cloud you want to manage on, so you can get the right price / performance mix for your customers. Now that we are here, curious to know where people are hosting their instances Frappe Cloud Hetzner / Contabo / Digital Ocean AWS / Azure / GCP Other 0 voters"
+      },
+      {
+        "name": "Ankush Menat",
+        "username": "ankush",
+        "created_at": "2025-05-21",
+        "text": "francis1: Why cant they just get servers from Contabo at very affordable prices same thing done by Odoo Source or comparison for this? AFAIK they don’t offer any such flexibility of picking a cheaper cloud provider."
+      },
+      {
+        "name": "francis1",
+        "username": "francis1",
+        "created_at": "2025-05-21",
+        "text": "yeah sure if Odoo is doing it why can’t we do it as well"
+      },
+      {
+        "name": "Olamide",
+        "username": "olamide_shodunke",
+        "created_at": "2025-05-21",
+        "text": "You are ok with a downtime of 3 to 24 hours for 5% of your clients every 2 months ? Every two months ??"
+      },
+      {
+        "name": "Muchai",
+        "username": "glz",
+        "created_at": "2025-05-23",
+        "text": "Just saw a post by Odoo of their €20/user/month pricing. And this was them throwing shade at overpriced ERPs The range of users for a distributor can range from 15-70 users in most cases."
+      },
+      {
+        "name": "francis1",
+        "username": "francis1",
+        "created_at": "2025-05-24",
+        "text": "check out on odoo offical site"
+      },
+      {
+        "name": "Muchai",
+        "username": "glz",
+        "created_at": "2025-05-24",
+        "text": "image 1600×871 135 KB In kenya. They display pricing per region. Either way, multiply this by 30 users, just picking a few examples from our end. I’m saying, Frappe Cloud is not expensive, and especially when you factor the warranty bit of FC offering."
+      },
+      {
+        "name": "Peter",
+        "username": "peterg",
+        "created_at": "2025-05-24",
+        "text": "I’m just so curious about these companies… Complicated enough to need an ERP, but also so broke that they’d risk 24h of downtime just to save $10-$20 a month? I can’t even imagine what that looks like."
+      },
+      {
+        "name": "",
+        "username": "ahassoun",
+        "created_at": "2025-05-24",
+        "text": "“Expensive” is subjective. It depends on your business nature—how critical ERP is to you, will your operations halt if your ERP is down?, your cost structure, and your region. Frappe Cloud may not be flexible regarding its underlying cloud provider, but hosting the Frappe Framework is certainly flexible enough because you can pay using any of the following payment methods: Time – Learn to self-host and manage your own servers, whether cloud-based or traditional. Expertise – If you already have the skills, you can effortlessly manage your own Frappe stack. Money – Pay others, either a. Frappe Cloud , for peace of mind and official support, or b. 3rd Party , combining cloud providers, AND system admin services, freelancers or employees. Only option 3.a comes with ease of mind and OEM warranty. The others usually come with hard-learned lessons. I don’t think Odoo offers this level of flexibility in payment flexibility. That said, Frappe Cloud doesn’t suit every use case. In one of my instances, we have a normal database size (~300 MB) that easily fits within the lowest or second-lowest plan, but a file storage size of ~400 GB, which is 10x what the highest plan allows. So yes, in edge cases like this, it can be somewhat limiting."
+      },
+      {
+        "name": "Martin Bhuong",
+        "username": "compgeniuses",
+        "created_at": "2025-05-24",
+        "text": "To Share My sentiments, and recommendation. One of the biggest issue with “Expensive comment” is mainly on the Storage space on Frappe Cloud. Maybe something could be Done fo r Disk Storage. i persoanlly feel $50 for 50 GB Disk Storage, IS sgnificantly low, considering how much storage has gone down in pricing. Now How ERPnext could Solve this Problem. They could allow one to add additional paid storage, as an Option, and additional, Remain on same plan, pay abit more for more storage. They Could Offer Additional Storage on Existing Plans. if it makes business sense for them. Especially for the $25, Pricing Plans and Above. (i honestly don’t get the $38 pricing tier) On Matetrs to do with Bring your Own Server Infra. People do have 3 Server Cluster on Proxmox, running on Hetzner, or other providers, and in some cases on premise. which could be more reliable than contabo, but way cheaper than AWS, or even Frappecloud. Trust me, i am an expert in this subject. What Frappe could do, Instead of Sending this Customers away packing, to SelfDeploy Press on their infrasturcture, (leaving money on the table) They could Allow them to Bring their Own VPS, but still USe FrappeCloud to manage their server infrastructure, While charging them a fee for the convenience. The Custome ris happy, they are using their server for more robust resources, if they can manage their server effectively. and Frappe, still makes some Money, for continued support of building press. Win win. even if $25 is charged, per Node. you get Money without lifting a finger or managing the infrastructure resources yourself."
+      },
+      {
+        "name": "Martin Bhuong",
+        "username": "compgeniuses",
+        "created_at": "2025-05-24",
+        "text": "ahassoun: Money – Pay others, either a. Frappe Cloud , for peace of mind and official support, or b. 3rd Party , combining cloud providers, AND system admin services, freelancers or employees. Only option 3.a comes with ease of mind and OEM warranty. The others usually come with hard-learned lessons. i think there is room for a 4th option. Allow frappecloud function as Dokploy or coolify for erpnext Onprem/ selfhosted options. which offers both peace of mind, flexibility, ownership, cost performance value, and frappe still gets something in their pocket."
+      },
+      {
+        "name": "Olamide",
+        "username": "olamide_shodunke",
+        "created_at": "2025-05-24",
+        "text": "I am as curious as you are, Especially for the dude who claims to have 100 clients on his infrastructure"
+      }
+    ]
+  },
+  "156609": {
+    "title": "Sales Invoice naming to match my old Dolibarr format YYYYMMDD - Facture - XXXXX",
+    "views": 21289,
+    "category": "Invoice naming migration",
+    "posts": [
+      {
+        "name": "",
+        "username": "bca",
+        "created_at": "2025-11-09",
+        "text": "Hello evryone, I migrated historical invoices from my old ERP Dolibarr into ERPNext and preserved their original names. The old convention is: YYYYMMDD - Facture - XXXXX where XXXXX is a global 5-digit sequence (e.g., 00001, 00002, …) that does not reset daily. After migration, the last imported invoice ends at 00174. Going forward, I need ERPNext to continue automatically with: YYYYMMDD - Facture - 00175 (and so on, with the date coming from the invoice date). What I need Keep all imported invoice names as they are. New Sales Invoices should be auto-named as YYYYMMDD - Facture - ##### . The 5-digit sequence must be global and continue after the last import (00174), not per day/month/year. Prefer a configuration approach if possible; code is acceptable if that’s the only supported way. What I tried / what I see I cannot find the Naming Series page in the UI search (neither in setup, nowhere) In Customize Form for Sales Invoice, the naming_series field appears, but its Options are effectively read-only in my environment; edits there do not take effect. I understand that if the date is part of the prefix in a standard naming series, the counter is per-prefix and therefore resets when the date changes. I specifically need a single global counter while still embedding the date at the start of the name. I can access Update Series, but I’m unsure what prefix to use if the date portion is not part of the counter key. Questions for the community Is there a supported, no-code way on v15 to have a name like YYYYMMDD - Facture - ##### where {#####} is a single global sequence (not tied to the date/prefix)? If not, is the recommended approach a small Server Script that: Builds YYYYMMDD from posting_date, Pulls a sequence from a custom key (e.g., FACTURE-GLOBAL-), Sets doc.name = f\"{date} - Facture - {seq}\", And initializes the counter via Update Series (set FACTURE-GLOBAL- to 174 so the next is 00175)? Any caveats with amendments, naming collisions, or upgrades? Why would the Naming Series page be missing/hidden on a stock v15 environment? Which roles/permissions or feature flags control this? I am a System Manager. If there is a clean configuration-only path, could you share the exact steps or examples for v15? Thanks in advance for any guidance or best practices."
+      },
+      {
+        "name": "",
+        "username": "smino",
+        "created_at": "2025-11-09",
+        "text": "In a self hosted Frappe Framework: v15.88.0 (version-15) ERPNext: v15.87.1 , search ‘Document Naming Settings’ leads to this page. Se if that could be used. 2025-11-09_10-39 1294×861 41.4 KB"
+      },
+      {
+        "name": "",
+        "username": "bca",
+        "created_at": "2025-11-09",
+        "text": "I’am actually using a french instance and translation made me struggle, could you please share me the route of the page ?"
+      },
+      {
+        "name": "",
+        "username": "smino",
+        "created_at": "2025-11-09",
+        "text": "Masque de numérotation des documents peut etre? 2025-11-09_11-55 1309×867 45.4 KB"
+      },
+      {
+        "name": "",
+        "username": "bca",
+        "created_at": "2025-11-09",
+        "text": "Exactly, thank you very much !"
+      }
+    ]
+  },
+  "156969": {
+    "title": "Erpnext 16 Beta Version – Navigation Between Modules Feels Confusing",
+    "views": 2791,
+    "category": "ERPNext 16 navigation",
+    "posts": [
+      {
+        "name": "jewel rana",
+        "username": "jewel71",
+        "created_at": "2025-11-18",
+        "text": "Erpnext 16 Beta Version, and the UI and performance improvements are impressive—thank you to the team for the great work. However, the navigation between modules and doctypes feels confusing. For example, when I’m in the Selling module, the left sidebar correctly shows Selling-related items. But if I click a link in the sidebar that belongs to another module, the sidebar switches to that module and then opens the doctype. This makes it difficult to stay oriented. Additionally, returning to the previous module isn’t straightforward. Another usability issue is that returning to the Desk requires clicking twice , which doesn’t feel user-friendly. I kindly request the team to review and improve this navigation flow to make the user experience smoother"
+      },
+      {
+        "name": "Bas de Reus",
+        "username": "Bas_de_Reus",
+        "created_at": "2025-11-18",
+        "text": "I haven’t tested v16 extensively yet, so this is just an initial impression, but I agree the navigation currently feels a bit cumbersome. The two-step process to get back to the Desk also slows things down. I’m curious why the UI shows both Website and Desk as options. In daily use, most users go straight to the Desk, not the Website. Skipping that intermediate selection and opening the Desk immediately would already make the workflow smoother. I also find it harder to keep a sense of the overall structure between modules with the current design. The context switches quickly, and it’s easy to lose track of where you came from. Maybe a hybrid approach could work: something closer to the previous version, where all modules were always visible in a sidebar, combined with the new idea where the sidebar shows items of the currently active module. In that setup you could click a module in the module-list sidebar, and then the sidebar transforms into the detailed view of that module. A simple “back” arrow could bring you back to the module list. That would give both a good overview and quick navigation. Just some thoughts from early impressions, but I think improving this flow could make the UX a lot more intuitive."
+      },
+      {
+        "name": "HB",
+        "username": "Humming_Bird",
+        "created_at": "2025-11-18",
+        "text": "Could anybody share common login credentials to test V16 beta for random usage?"
+      },
+      {
+        "name": "jewel rana",
+        "username": "jewel71",
+        "created_at": "2025-11-18",
+        "text": "I was testing the new GUI, I also often lose track of where I started because of the current UI. The previous version felt cleaner to me—I always knew where I was and where I needed to go. With the new design, navigation feels more difficult, and finding documents can be frustrating since I often have to go back to the Desk to start over or need to search. Improving this flow would definitely make the UX much smoother and more intuitive."
+      },
+      {
+        "name": "Martin Bhuong",
+        "username": "compgeniuses",
+        "created_at": "2025-11-18",
+        "text": "i am wonderign why context on UI is given, without sharing screenshorts"
+      },
+      {
+        "name": "Soham Kulkarni",
+        "username": "sohamkulkarni",
+        "created_at": "2025-11-18",
+        "text": "Hello My name is Soham ( @sokumon ). I am part of the Framework team who has done the Desktop changes. @jewel71 The issue that you are talking about can you share a video."
+      },
+      {
+        "name": "Jurin Liyun",
+        "username": "mrjurin",
+        "created_at": "2025-11-19",
+        "text": "I think what jewel meant was, in prev version, all menu are easier to find from sidebar. even though, while navigating through doctype make people lost because it didnt maintain the navigation, but at least we still have the sidebar to go back to any doctype. i dont know how to explain this myself, but i often found myself lost. i share a video for reference here. Video"
+      },
+      {
+        "name": "jewel rana",
+        "username": "jewel71",
+        "created_at": "2025-11-19",
+        "text": "@mrjurin Eexactly what the video shows — when the sidebar suddenly changes, I get lost because I no longer know where I am. @sohamkulkarni plz check the video @mrjurin shared."
+      },
+      {
+        "name": "Jurin Liyun",
+        "username": "mrjurin",
+        "created_at": "2025-11-19",
+        "text": "hi, i just want to give suggestion, maybe each path can be configured for any workspace so even though the doctype is in other app(let say app: A), it can be configured to be view in other app(let say app:B) as if the doctype is from the current workspace we are in (no workspace and menu change). the current configuration for the workspace is already tackled the link of other doctype but, the problem is that, when i click the link i configure (doctype exists in other app) it will change also the menu and workspace, make people lost while navigating. in my experience with acumatica erp, there is a configuration called site map where we can define the screen path to be viewed in specific workspace."
+      },
+      {
+        "name": "Bas de Reus",
+        "username": "Bas_de_Reus",
+        "created_at": "2025-11-19",
+        "text": "I agree with this. It feels odd to suddenly end up inside another app/workspace just because a linked doctype happens to live there. From a user’s perspective, it usually doesn’t matter at all in which app a doctype or report technically belongs. What matters is that related items are grouped logically under the module they’re working in (e.g. CRM, Accounting, etc.). If a link is opened from within that module, the user should stay within that context, not get pulled into a different workspace without warning. The same happens, for example, when opening a linked Event from an Opportunity. You open it expecting to stay within the CRM flow, but instead the UI switches to the Productivity app. There’s no visual reference back to the Opportunity you came from, which makes the experience feel disconnected. A calendar is typically opened from other doctypes; users don’t need to know (or care) that it technically lives in the Productivity app. Allowing each path to be configured to “belong” to a chosen workspace, and keeping the user inside that workspace when navigating, would make the flow far more intuitive. I also want to add that I can imagine the Desk with icons being a good starting point for users who mainly work in a single app. But for anyone who moves between multiple apps, it quickly becomes cumbersome and everything feels a bit disconnected. A hybrid approach could work much better: keep the Desk and bring back a sidebar similar to the previous versions. When a user selects an app/workspace from either the Desk or the sidebar, the sidebar could transform into an overview of the doctypes and pages that belong to that app/workspace like in this beta version. With one click, you could return to the full app/workspace overview in the sidebar (or to the Desk whatever the user prefer or is configured). I think that combined with the suggestion from @ mrjurin , where paths can be configured so doctypes from other apps open within the current workspace instead of switching the entire UI, this could significantly improve the overall workflow and reduce disorientation for users."
+      },
+      {
+        "name": "Martin Bhuong",
+        "username": "compgeniuses",
+        "created_at": "2025-11-19",
+        "text": "Bas_de_Reus: If a link is opened from within that module, the user should stay within that context, not get pulled into a different workspace without warning. The same happens, for example, when opening a linked Event from an Opportunity. You open it expecting to stay within the CRM flow, but instead the UI switches to the Productivity app. There’s no visual reference back to the Opportunity you came from, which makes the experience feel in terms of UI and workflows, its fine, however from technical standpoint, ic an understand the complexities of achieving this coherently. i guess this is why most systems implement a breadcrumb, that also has navigation history, which enables the system identify the source and destination, therefore making it easier to retain context based on grouping."
+      },
+      {
+        "name": "Gabriel Tapias",
+        "username": "gtapias",
+        "created_at": "2025-11-19",
+        "text": "Are we really trying to solve something so unique here? Isn’t there already a widely accepted best practice for this type of navigation?"
+      },
+      {
+        "name": "Jonathan",
+        "username": "jcastillo30",
+        "created_at": "2025-11-20",
+        "text": "I’ve been using a global left sidebar in v15 (based on the existing Workspaces configuration), and honestly I thought this type of navigation would already be part of v16. In v15 I reuse the Workspace menu to build a single, persistent global sidebar that stays visible in List and Form views. It gives me a stable navigation structure: all modules on the left, and each module expands into its own submenu. Users never lose context, because the sidebar doesn’t change when they open different DocTypes. After reading the feedback in this thread, it seems that many of the navigation issues in v16 come exactly from the lack of a unified sidebar. That’s why I imagined this would be the natural direction of the new UI. A single global sidebar with module submenus feels simpler, more predictable, and avoids the “teleporting” between workspaces. Just sharing my experience from v15, in case it helps clarify what some of us were expecting in v16. https://discuss.frappe.io/t/add-your-existing-workspace-menu-to-the-left-sidebar-list-form-views-frappe-v15/ image 1396×932 73.4 KB image 1435×950 68.6 KB"
+      },
+      {
+        "name": "jewel rana",
+        "username": "jewel71",
+        "created_at": "2025-11-20",
+        "text": "Exactly what I wanted in the new version—just like in your screenshot. But in Version 16, the UI navigation is messed up. It’s very hard to navigate to a specific doctype, and if you want to go back to a particular Module, you have to click multiple times. Users don’t want that; they always prefer a single-click experience."
+      },
+      {
+        "name": "",
+        "username": "zerodiscount",
+        "created_at": "2025-11-20",
+        "text": "I have been doing the same. It is hard to remember all the icons - there are so many of them - so for me the value of the slim side menu is minimal. It is much easier to use the textual link tree in the global sidebar. Frappe is building some awesome productivity tools that are interconnected. I think the slim sidebar in v16 should be used to navigate between apps (CRM, ERP, HRMS, Gameplan) and retain the original v15 navigation within each app…. Don’t know how many users would agree with this…."
+      },
+      {
+        "name": "kovalski",
+        "username": "MrKovalski",
+        "created_at": "2025-11-20",
+        "text": "I think the team did it this way because it should be easier to switch between apps. But now we have a problem: navigation is causing confusion because there are too many possible side navigations, and it’s not clear where you ended up after clicking some link from another app. It should be more consistent. Users should trust the side navigation."
+      },
+      {
+        "name": "Shailesh",
+        "username": "shaileshsaini",
+        "created_at": "2025-11-21",
+        "text": "I am not fully sure about this, but I think it might be better to wait for the official release. The Frappe team may provide updated documentation or a user manual that clarifies these changes."
+      },
+      {
+        "name": "Maydo7777",
+        "username": "maydo7777",
+        "created_at": "2025-11-21",
+        "text": "its a lil bit strange atm, but i think its the right way to go, and im sure they will improve the navigation for good usability"
+      },
+      {
+        "name": "francis1",
+        "username": "francis1",
+        "created_at": "2025-11-21",
+        "text": "yeah true that , we really need great improvement there , in version 15 we have to create a seperate UI for that"
+      },
+      {
+        "name": "Hossam F",
+        "username": "nextgen",
+        "created_at": "2025-11-24",
+        "text": "It would be great if the Frappe team could give users the option to keep using the v15 navigation menu or switch to the new one. The new navigation doesn’t meet expectations, as it forces users to make too many clicks and go through excessive navigation steps."
+      }
+    ]
+  },
+  "157188": {
+    "title": "Add Charges for 3rd party in Landed cost voucher ",
+    "views": 41,
+    "category": "Manufacturing BOM",
+    "posts": [
+      {
+        "name": "AhamdAli",
+        "username": "AhamdAli",
+        "created_at": "2025-11-23",
+        "text": "In Landed Cost Voucher, we intend to record transportation costs incurred by an independent transportation company. The issue is that the system does not allow for the registration of a supplier for the control account related to transportation costs. What is the solution? If the party is not registered, there is no possibility of linking the payment form to the corresponding expenses."
+      }
+    ]
+  },
+  "160127": {
+    "title": "Single company with Multiple GSTIN setup",
+    "views": 141,
+    "category": "India GST multi-state",
+    "posts": [
+      {
+        "name": "Rishabh",
+        "username": "rishabh421",
+        "created_at": "2026-02-01",
+        "text": "Hi, I have a company A with separate GST number in multiple states(i.e. all under one PAN) for which we file separate gst returns. I wanted to know what is the best practice to map that in ERPNext. docs.frappe.io GST for multiple branches https://docs.frappe.io/erpnext/user/manual/en/stock-transfer-with-gst I have studied above blog, but the UI and workflow is outdated compared to V16 as this blog is 6 years old. Do we have any new process to follow? How to do interstate transfers in this process? How to manage if there is Reverse charge mechanism?"
+      },
+      {
+        "name": "Smit Vora",
+        "username": "Smit_Vora",
+        "created_at": "2026-02-02",
+        "text": "Hi, The workflow is same today. It is irrespective of intrastate or interstate transfers. Are you saying you have RCM transactions when billing self? Still, the workflow won’t change. You can make a sale and purchase with RCM."
+      },
+      {
+        "name": "Rishabh",
+        "username": "rishabh421",
+        "created_at": "2026-02-21",
+        "text": "Hi, I did the settings. Removed default tax accounts as we have created specific accounts for each state won’t be using default accounts. But now in item tax templates. it is showing me error: Missing GST Accounts: Output Tax CGST - FRS, Output Tax SGST - FRS, Output Tax IGST - FRS, Output Tax CGST RCM - FRS, Output Tax SGST RCM - FRS, Output Tax IGST RCM - FRS, Input Tax CGST - FRS, Input Tax SGST - FRS, Input Tax IGST - FRS, Input Tax CGST RCM - FRS, Input Tax SGST RCM - FRS, Input Tax IGST RCM - FRS"
+      },
+      {
+        "name": "Lakshit Jain",
+        "username": "Lakshit_Jain",
+        "created_at": "2026-02-23",
+        "text": "State wise gst accounts are not supported in the India Compliance App. India Compliance supports GST Accounts specified in the GST Settings only."
+      },
+      {
+        "name": "Rishabh",
+        "username": "rishabh421",
+        "created_at": "2026-02-23",
+        "text": "I am confused. As per below blog, I concluded that ERPNext supports multiple GSTIN for 1 company. docs.frappe.io GST for multiple branches Now, you are saying that India Compliance app does not support multiple GST. Is there a workaround on how we can use multiple gstin as my company has 1 gstin in many states. I believe this is a very standard requirement as most large businesses have more than 1 gstin in multiple states. Please help with below queries: Where will India compliance app will affect ERPNext multiple gstin setup? I believe it will affect einvoicing, eway integration and return filing. Can you please confirm. Is there a workaround to do things manually ? Can we expect this feature into the app? anytime soon? as we plan to go live this April ?"
+      },
+      {
+        "name": "Lakshit Jain",
+        "username": "Lakshit_Jain",
+        "created_at": "2026-02-23",
+        "text": "rishabh421: here will India compliance app will affect ERPNext multiple gstin setup? I believe it will affect einvoicing, eway integration and return filing. Can you please confirm. Is there a workaround to do things manually ? Can we expect this feature into the app? anytime soon? as we plan to go live this April ? Multiple GSTINs are supported, but maintaining different accounts for different GSTINs is not supported. docs.indiacompliance.app GST Accounts ​ - Configuring GST in ERPNext - India Compliance Documentation Where GST Accounts are auto-created, their settings are automatically updated for your company in GST Settings. This will ensure GST Validations and appropriate GST Reports. | Learn how to configure GST in ERPNext with India Compliance, covering HSN..."
+      },
+      {
+        "name": "Rishabh",
+        "username": "rishabh421",
+        "created_at": "2026-02-23",
+        "text": "Having separate accounts is the recommended approach in frappe guide itself and we configuered the system based on it. docs.frappe.io GST for multiple branches @Smit_Vora confirmed that workflow is same as listed in frappe blog. I don’t see any step by step guide on India Compliance page for multiple gstin setup. There is only one for single gst setup: Configuring GST in ERPNext | India Compliance Can you please help provide a guide for me and future users who have multiple gstin setup. We can connect also, if you need my help with data or anything like changes in tax category, tax templates etc are those required ? Can you please confirm again whose approach is the recommended approach ? ERPNext? or India Compliance app?"
+      },
+      {
+        "name": "Smit Vora",
+        "username": "Smit_Vora",
+        "created_at": "2026-03-09",
+        "text": "There is a very simple difference between intra-company and inter-company transactions. Similar setup can be used for intra-company transactions as well. I am sorry, I did not go into details, but it’s an old article. To keep it short: you need to setup different customers and suppliers as suggested there (allowing them to transact with the same company which they represent). This allows intra-company transactions. However, separate setup of accounts (by branch) is not required. We’ll update the above article."
+      },
+      {
+        "name": "Rishabh",
+        "username": "rishabh421",
+        "created_at": "2026-03-19",
+        "text": "Hi team, As recommended, I have 10 GST, 10 customers and 10 suppliers representing each. When I check internal supplier for 1st supplier it gets assigned, but for all remaining it gives error. Internal Supplier for company A already exists Can you guide with the inter company process documentation ?"
+      },
+      {
+        "name": "Rishabh",
+        "username": "rishabh421",
+        "created_at": "2026-03-19",
+        "text": "Ok, Found the issue. You have to create 1 supplier, 1 customer and 10 GSTIN addresses to it. Then check that 1 supplier with internal supplier and 1 customer with internal customer respectively."
+      }
+    ]
+  },
+  "80601": {
+    "title": "Sorry! We will be back soon!",
+    "views": 9081,
+    "category": "Server crash/production down",
+    "posts": [
+      {
+        "name": "Jason Hollowell",
+        "username": "JLH",
+        "created_at": "2021-09-22",
+        "text": "I had a nice stable instance of ERPNext running for a few months but the power went out this evening and now I’m stuck. Started my server back up, all Nginx apps were running without issue but ERPNext is giving me the: Sorry! We will be back soon. Don’t panic. It’s not you, it’s us. I’ve tried bench restart but get a cryptic message about being in edit mode instead of production mode…read around on the forums but am lost. Any advice will be appreciated. Jason P.S. ERPNext v13"
+      },
+      {
+        "name": "Rio",
+        "username": "rahy",
+        "created_at": "2021-09-22",
+        "text": "Sorry if not answering your problem. I just want to comment on the message. I just got it today (for other reason). The message says “it’s not you, it’s us”. But since it is a self hosted: us = you = me… so I did panic Turned out my problem is bench setup nginx not updating conf after a ssl creation. So the sites can’t be accessed."
+      },
+      {
+        "name": "Jason Hollowell",
+        "username": "JLH",
+        "created_at": "2021-09-22",
+        "text": "Thanks, yes, I agree. I am hosting a demo site so it’s not crucial but I’m in a mini panic as well. Once this turns into a functioning production site it will need to stay up and come back up in the event of a power outage (even if they are rare) so I need to know how to fix the problem. I did install an SSL certificate after getting ERPNext up and running a few months back…maybe I have the same problem. Thanks again"
+      },
+      {
+        "name": "Jason Hollowell",
+        "username": "JLH",
+        "created_at": "2021-09-22",
+        "text": "Well, I’m still experimenting and I’m not “back soon” It seems problematic a power outage (for whatever reason) would render the site so inaccessible…I’m sitting here banging away with lightening and thunder outside…power might go out again before I can figure this out…which will be a sign that I’m supposed to give up and go to bed. Sigh"
+      },
+      {
+        "name": "Lawes Chan",
+        "username": "Lawes_Chan",
+        "created_at": "2021-09-22",
+        "text": "bench show-config what is the output ?"
+      },
+      {
+        "name": "",
+        "username": "smino",
+        "created_at": "2021-09-22",
+        "text": "Try a bench update or bench restart , note any warnings or error messages.``"
+      },
+      {
+        "name": "Jason Hollowell",
+        "username": "JLH",
+        "created_at": "2021-09-22",
+        "text": "Lawes_Chan, Thanks, I’ve just run it and get: My problem now is that I ran bench setup nginx and now I get a different error message. My SSL certificate seems to be corrupted or not correct so the browser won’t proceed. Jason"
+      },
+      {
+        "name": "Jason Hollowell",
+        "username": "JLH",
+        "created_at": "2021-09-22",
+        "text": "smino, Thanks, no error messages with “bench restart” Jason"
+      },
+      {
+        "name": "Lawes Chan",
+        "username": "Lawes_Chan",
+        "created_at": "2021-09-22",
+        "text": "agree, fix Nginx issue first to ensure no error first, then back to troubleshoot frappe / erpnext. I found you have rerun bench setup nginx, it will generate up-to-date config but will also overwrite any customize config being used. I still not found a better way yet so each time execute that command, I will also recheck and compare what should I input back, like SSL cert config as well. Cheers, Lawes"
+      },
+      {
+        "name": "Jason Hollowell",
+        "username": "JLH",
+        "created_at": "2021-09-22",
+        "text": "I give up Going to bed…maybe I’ll make some progress tomorrow. I’m beyond the “Sorry! We will be back soon” message now…SSL not set properly it seems but why…it all worked without issue before the restart… Sigh… A bit frustrated that it can be so hard to get it up and running after a simple restart. Jason"
+      },
+      {
+        "name": "Jason Hollowell",
+        "username": "JLH",
+        "created_at": "2021-09-22",
+        "text": "Lawes_Chan, Thanks…I’m burnt for today. Guess I’ll try and get back at it tomorrow when I’m fresh. Thanks for your help. Jason"
+      },
+      {
+        "name": "Jason Hollowell",
+        "username": "JLH",
+        "created_at": "2021-09-23",
+        "text": "Lawes_Chan, All, I’ve poked around a bit today and am lost. Nginx is running and serving other web apps without any problems. Redis is running and seems to be properly configured. I have the path to my valid SSL certificates set properly…but now, after last night running bench setup nginx My ERPNext is entirely inaccessible. I get a “cannot establish a secure connection” error when trying to access via my domain. The show-config output seems to indicate that it’s configured properly. After adding the ssl certificate path I get the following (with private information blocked out). 08 838×397 73 KB Does anyone have any suggestions as to how I can troubleshoot this? For example, bench commands that allow me to obtain more diagnostic information? Any help/advice will be most appreciated. Jason P.S. I do get the “bench is installed in editable mode” message but that is ok for now as this is a production demo. Or, at least I think that is ok…? P.P.S. One more comment here and then I’m going to take a break. In my sites-available directory (for Nginx) I see no reference to ERPNext…? I’ve forgotten how it was configured prior to the problem I’m experiencing here but it seems like there should be something, somewhere, pointing to ERPNext…no? I have 4 sites-enabled files all pointing to other little web apps and they all work flawlessly. The ‘default’ file seems to just be for port 80…so, this is probably a very ignorant question but, where is the Nginx config to make it ‘aware’ of ERPNext?"
+      },
+      {
+        "name": "Lawes Chan",
+        "username": "Lawes_Chan",
+        "created_at": "2021-09-23",
+        "text": "you seem lost of direction we will try help , hope we can. first, bench setup nginx will overwrite previous config as I mention, so first check should be the config file, the generated file should be ~/frappe-bench/config check the content , at least the config is included ssl setting, then you should check nginx setting, if you have another web service in running, I assume you should has symbol link to ~/frappe-bench/config/nginx.conf for nginx to work. if all is fine, then you may need post the nginx log for error troubleshoot."
+      },
+      {
+        "name": "Jason Hollowell",
+        "username": "JLH",
+        "created_at": "2021-09-23",
+        "text": "Lawes_Chan, Thanks, yes, I’m lost But I’m somewhat used to being lost so it’s ok. I checked ~/frappe-bench/config and can confirm that the path to my ssl certificate information is included. In my Nginx config however, I don’t see a symlink to this file anywhere…which basically answers my question about how Nginx is ‘aware’ of ERPNext. I guess it’s not Wait…yes, there is a symbolic link in sites-enabled and it does, in fact, point to /home/myerpnext/frappe-bench/config/nginx.conf Hmmm…something is off. Guess it’s time to check the Nginx logs. Jason P.S. Well, just did a quick check…I don’t see anything odd or helpful in the access.log or error.log for Nginx…hmmm"
+      },
+      {
+        "name": "Lawes Chan",
+        "username": "Lawes_Chan",
+        "created_at": "2021-09-23",
+        "text": "ok , how about supervisorctl status ouptut ?"
+      },
+      {
+        "name": "Jason Hollowell",
+        "username": "JLH",
+        "created_at": "2021-09-24",
+        "text": "Lawes_Chan, Thanks…but I’m not sure I have the correct syntax. I tried bench supervisorctl status But got an error saying “No such command” So, I tried simply supervisorctl status But nothing happened…I mean the command seemed to execute but there was no output…wait, do I need to include “output”…no, that doesn’t work. Hmm, can you point me in the right direction for the correct command to use? Thanks again for you ongoing support. Jason"
+      },
+      {
+        "name": "Rio",
+        "username": "rahy",
+        "created_at": "2021-09-24",
+        "text": "I think it should be sudo supervisorctl status nginx Also maybe you can check the /etc/letsencrypt/live/ to see if your certs path/name are all correctly referred to (in the site_config.json, common_site_config.json, nginx.conf) You can also use the command sudo certbot certificates ."
+      },
+      {
+        "name": "Jason Hollowell",
+        "username": "JLH",
+        "created_at": "2021-09-24",
+        "text": "rahy, Thanks, but that command gives me an “ERROR (no such process)” message. Regarding the certs name and path, I have checked them and they all seem to be correct. Also, sudo certbot certificates Displays information for the certificates I have with their paths so I guess everything is ok there. Oddly, however, supervisor seems to be either not running or incorrectly setup maybe… Jason"
+      },
+      {
+        "name": "Lawes Chan",
+        "username": "Lawes_Chan",
+        "created_at": "2021-09-24",
+        "text": "Hi JLH, sorry for my lazy here is the sample output image 774×166 4.18 KB or from the info now, I guess it may be: multitenant config issue or mariadb db connection issue or bench update issue for multitenant , em … I have not setup this feature yet , so no rich support can provide for mariadb, can check any access log issue for bench update, if major file(s) has changed, it would better to issue follow command as well: bench build bench clear-cache bench clear-website-cache Regards, Lawes"
+      },
+      {
+        "name": "Jason Hollowell",
+        "username": "JLH",
+        "created_at": "2021-09-24",
+        "text": "Lawes_Chan, Thanks again. Let’s see, I stumbled onto this post: [solution] 'supervisorctl start all' has no response or affect Deployment Here’s my problem report and solution - This command below had no response or effect: sudo supervisorctl start all So I inspected /var/log/supervisor/supervisord.log for a ‘working’ startup session, for eg this output here: 2017-07-10 08:20:18,507 CRIT Supervisor running as root (no user in config file) 2017-07-10 08:20:18,531 WARN Included extra file “/etc/supervisor/conf.d/frappe-bench.conf” during parsing 2017-07-10 08:20:18,580 INFO RPC interface ‘supervisor’ initialized 2017-07-10 08… And noticed that I have the same problem (maybe it’s a problem?) in that there is no supervisor.conf file in home/myerpnext/frappe-bench/config So I made a symbolic link as explained in the post above and then resetup supervisor. But now, when I run supervisorctl status I still get nothing. Am I supposed to be running it inside the frappe directory or inside the ERPNext directory? Or can it be run from anywhere…which is what I was assuming. Jason"
+      }
+    ]
+  },
+  "85135": {
+    "title": "Database or site_config.json may be corrupted",
+    "views": 11252,
+    "category": "Database corruption",
+    "posts": [
+      {
+        "name": "Habibur  Rahman",
+        "username": "Habibur_Rahman",
+        "created_at": "2022-01-22",
+        "text": "Database or site_config.json may be corrupted Facing this while taking backup and restrict us taking backup using crone job as well… What the issue is it please look into it if any help around Thanks"
+      },
+      {
+        "name": "Shadrak Gurupnor",
+        "username": "shadrak98",
+        "created_at": "2022-01-22",
+        "text": "Please share the traceback of the error to help you. You can check the console tab from browser for error traceback."
+      },
+      {
+        "name": "Mohammad Ahmad Zulfiqar",
+        "username": "Mohammad_Ahmad_Zulfi",
+        "created_at": "2022-01-22",
+        "text": "Check site_config.json for any typos"
+      },
+      {
+        "name": "",
+        "username": "centaur",
+        "created_at": "2022-01-24",
+        "text": "Hi What kind of setup do you have ??? production or development ??? Are you using supervisor or manually bench start ??? Most probably this error would crop up if Mariadb is not started."
+      },
+      {
+        "name": "Habibur  Rahman",
+        "username": "Habibur_Rahman",
+        "created_at": "2022-01-25",
+        "text": "Production and mariadb is already up"
+      },
+      {
+        "name": "baha eddine",
+        "username": "bahaou",
+        "created_at": "2022-01-25",
+        "text": "@Habibur_Rahman check the backup folder (sites/site_name/private/backups) and remove all files and repositories , including invisible ones (use ls -a) , if you initialized a git repository , delete it ."
+      },
+      {
+        "name": "Ben Schofield",
+        "username": "ChipwizBen",
+        "created_at": "2022-01-26",
+        "text": "I had the same issue since 2020, and this resolved it for me. Thanks!"
+      },
+      {
+        "name": "New to frappe",
+        "username": "Aditya_Vig",
+        "created_at": "2022-02-04",
+        "text": "@bahaou please tell me how to delete git repository. I am facing the same issue. I am unable to update bench. i have deleted backup files from backup folder."
+      },
+      {
+        "name": "baha eddine",
+        "username": "bahaou",
+        "created_at": "2022-02-04",
+        "text": "@Aditya_Vig hello . you have to delete only if you initialized one . open the backup folder . use (ls -a) . if you find a .git folder , just delete it with (rm -r .git)."
+      },
+      {
+        "name": "New to frappe",
+        "username": "Aditya_Vig",
+        "created_at": "2022-02-04",
+        "text": "@bahaou okay. i didn’t have any git repo. But still i am not able to bench update."
+      },
+      {
+        "name": "baha eddine",
+        "username": "bahaou",
+        "created_at": "2022-02-04",
+        "text": "@Aditya_Vig share the error please"
+      },
+      {
+        "name": "New to frappe",
+        "username": "Aditya_Vig",
+        "created_at": "2022-02-04",
+        "text": "@bahaou WARN: shallow_clone is set in your bench config. However without passing the --reset flag, your repositories will be unshallowed. To avoid this, cancel this operation and run bench update --reset . Consider the consequences of git reset --hard on your apps before you run that. To avoid seeing this warning, set shallow_clone to false in your common_site_config.json Backing up sites… Backup failed for Site demo.com . Database or site_config.json may be corrupted"
+      },
+      {
+        "name": "baha eddine",
+        "username": "bahaou",
+        "created_at": "2022-02-04",
+        "text": "@Aditya_Vig share you site_config file . are you sure there are no hidden files in the backup folder ?"
+      },
+      {
+        "name": "New to frappe",
+        "username": "Aditya_Vig",
+        "created_at": "2022-02-04",
+        "text": "@bahaou “background_workers”: 1, “file_watcher_port”: 6787, “frappe_user”: “aditya”, “gunicorn_workers”: 17, “live_reload”: true, “maintenance_mode”: 1, “pause_scheduler”: 1, “rebase_on_pull”: false, “redis_cache”: “redis://localhost:13000”, “redis_queue”: “redis://localhost:11000”, “redis_socketio”: “redis://localhost:12000”, “restart_supervisor_on_update”: false, “restart_systemd_on_update”: false, “serve_default_site”: true, “shallow_clone”: false, “socketio_port”: 9000, “use_redis_auth”: false, “webserver_port”: 8000"
+      },
+      {
+        "name": "baha eddine",
+        "username": "bahaou",
+        "created_at": "2022-02-04",
+        "text": "@Aditya_Vig ok listen , you can update your system without backing up . there is a risk the system fails to update . if you are willing to take it use (bench update --no-backup) may I ask what is your erpnext version ?"
+      },
+      {
+        "name": "New to frappe",
+        "username": "Aditya_Vig",
+        "created_at": "2022-02-04",
+        "text": "Screenshot%20from%202022-02-04%2015-37-21 750×610 111 KB Please have a look"
+      },
+      {
+        "name": "baha eddine",
+        "username": "bahaou",
+        "created_at": "2022-02-04",
+        "text": "@Aditya_Vig try update without backup as I said"
+      },
+      {
+        "name": "New to frappe",
+        "username": "Aditya_Vig",
+        "created_at": "2022-02-04",
+        "text": "@bahaou okay."
+      },
+      {
+        "name": "New to frappe",
+        "username": "Aditya_Vig",
+        "created_at": "2022-02-04",
+        "text": "Screenshot%20from%202022-02-04%2015-45-36 750×610 83 KB @bahaou It is showing this."
+      },
+      {
+        "name": "baha eddine",
+        "username": "bahaou",
+        "created_at": "2022-02-04",
+        "text": "@Aditya_Vig . well , this is not an error . system can’t update if you have changes not committed . can you push the custom app to your git ?"
+      }
+    ]
+  },
+  "96350": {
+    "title": "Emails stuck in Email Queue",
+    "views": 3802,
+    "category": "Emails stuck",
+    "posts": [
+      {
+        "name": "Matthew Enderle",
+        "username": "MatthewEnderle",
+        "created_at": "2022-10-23",
+        "text": "I just got ERPNext setup and I can get automated emails like password resets, sent immediately (using sendgrid). However when ever I create a email to a user, it gets stuck in the Email Queue. I can go in and hit “Send Now” and then it goes out. root@nerdUniversity:/home/frappe/frappe-bench# bench doctor -----Checking scheduler status----- Workers online: 3 -----embroiderynerduniversity.com/ Jobs----- I’ve ran bench enable-scheduler to ensure the scheduler is running, and also checked the process status. ● supervisor.service - Supervisor process control system for UNIX Loaded: loaded (/lib/systemd/system/supervisor.service; enabled; vendor preset: enabled) Active: active (running) since Sun 2022-10-23 01:33:46 UTC; 40min ago Docs: http://supervisord.org Main PID: 8073 (supervisord) Tasks: 38 (limit: 2324) Memory: 357.6M CPU: 50.766s CGroup: /system.slice/supervisor.service ├─8073 /usr/bin/python3 /usr/bin/supervisord -n -c /etc/supervisor/supervisord.conf ├─8074 \"/usr/local/bin/redis-server 127.0.0.1:13000\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" > ├─8075 \"/usr/local/bin/redis-server 127.0.0.1:11000\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" > ├─8076 \"/usr/local/bin/redis-server 127.0.0.1:12000\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" > ├─8077 /home/frappe/frappe-bench/env/bin/python /home/frappe/frappe-bench/env/bin/gunicorn -b 127.0.0.1:8000 -w 3> ├─8078 /usr/bin/node /home/frappe/frappe-bench/apps/frappe/socketio.js ├─8083 /home/frappe/frappe-bench/env/bin/python -m frappe.utils.bench_helper frappe schedule ├─8088 /home/frappe/frappe-bench/env/bin/python -m frappe.utils.bench_helper frappe worker --queue default ├─8093 /home/frappe/frappe-bench/env/bin/python -m frappe.utils.bench_helper frappe worker --queue short ├─8094 /home/frappe/frappe-bench/env/bin/python -m frappe.utils.bench_helper frappe worker --queue long ├─8121 /home/frappe/frappe-bench/env/bin/python /home/frappe/frappe-bench/env/bin/gunicorn -b 127.0.0.1:8000 -w 3> ├─8122 /home/frappe/frappe-bench/env/bin/python /home/frappe/frappe-bench/env/bin/gunicorn -b 127.0.0.1:8000 -w 3> └─8123 /home/frappe/frappe-bench/env/bin/python /home/frappe/frappe-bench/env/bin/gunicorn -b 127.0.0.1:8000 -w 3>"
+      },
+      {
+        "name": "Omar M. K. Shehada",
+        "username": "Omar_M_K_Shehada",
+        "created_at": "2022-12-15",
+        "text": "Same problem. Did you figure it out?"
+      },
+      {
+        "name": "Hardik Zinzuvadiya",
+        "username": "Hardik_Zinzu",
+        "created_at": "2022-12-15",
+        "text": "By default when you send an email through frappe.sendmail() By default value in that function is delayed=True For send an email instantly without being in queue you can just pass delayed=False frappe.sendmail( recipients=recipients, subject=frappe._('Birthday Reminder'), template='birthday_reminder', args=dict( reminder_text=reminder_text, birthday_persons=birthday_persons, message=message, ), header=_('Birthday Reminder'), delayed=False )"
+      },
+      {
+        "name": "ArunG",
+        "username": "gsarunk",
+        "created_at": "2022-12-15",
+        "text": "Can you check the background jobs and list all the failed queues. yoursite/app/background_jobs"
+      },
+      {
+        "name": "Peter",
+        "username": "peterg",
+        "created_at": "2022-12-15",
+        "text": "It sounds like the scheduler may be disabled for your site. You can run bench doctor to see if you have a backed-up job queue, or bench --site site.name enable-scheduler to turn the scheduler on."
+      },
+      {
+        "name": "Riddhi Solanki",
+        "username": "riddhi1",
+        "created_at": "2023-03-13",
+        "text": "Yes Its Work Fine with sendemail method, but How can we Archive the Same Thing for Notification Email Alert Thank You"
+      },
+      {
+        "name": "Harsh Vadhiya",
+        "username": "harshvadhiya",
+        "created_at": "2024-02-21",
+        "text": "Hi @riddhi1 , I’m facing the same issue as yours. did you find any solution for that?"
+      },
+      {
+        "name": "Mohammed Noureldin",
+        "username": "mnoureldin",
+        "created_at": "2026-01-24",
+        "text": "Same here, support answers in help desk are stuck in the queue. Any way to make them sent instantly?"
+      }
+    ]
+  },
+  "96603": {
+    "title": "Zebra Printers - Setting Up On Local Network and Continuous Label Printing",
+    "views": 3146,
+    "category": "Zebra printers/manufacturing",
+    "posts": [
+      {
+        "name": "Paul",
+        "username": "pmjd",
+        "created_at": "2022-10-28",
+        "text": "Hello, I’m looking to move from an existing database web app,which uses php/JS/SQL, to ERPNext which is going well but I’,unsure where to start with label printing directly to Zebra printers. Currently this is achieved with no locally installed devices drivers or QZ tray middle apps required on the users’ device. The information is taken from the db record the user is accessing via JS, and passed to a php procedure, which sends the ZPL label information via IP address to the printer. All on a simple button press and works well. ( Admittedly no error handling or user feedback but the user is usually nearby to see if the labels have printed ). I’ve searched on the forum and tried various bits of custom formats for Zebra ZPL printing. I want to continue to not have to install additional software on end user devices, so no solutions with drivers or QZ software are going to work. What is the best way to go about this? Do I need to install the Zebra printers on ERPNext? Then setup something via raw printing? Do I create a server side script (API looks best?) from which I can pass variables from the record being viewed to the script and send to the Zebra printer? If so how do I use a button to activate the server script? Just starting out in python, so all very new to me. Also starting out with ERPNext and trying to get my head around the whole setup. Any info or suggestions gratefully received. Thanks, Paul"
+      },
+      {
+        "name": "Pawan",
+        "username": "Pawan",
+        "created_at": "2022-10-29",
+        "text": "You may have to use a library on your ERPNext server and install using pip install zebra . Then you can import the zebra library into your python files and use it."
+      },
+      {
+        "name": "Dany Robert",
+        "username": "rtdany10",
+        "created_at": "2022-10-29",
+        "text": "pmjd: The information is taken from the db record the user is accessing via JS, and passed to a php procedure, which sends the ZPL label information via IP address to the printer. Client Script is JS and I believe you can replicate the same here without the need for server side scripts. pmjd: If so how do I use a button to activate the server script? If you want to trigger a python function on button press, you can use frappe.call to invoke that function."
+      },
+      {
+        "name": "Paul",
+        "username": "pmjd",
+        "created_at": "2022-10-29",
+        "text": "Hi @Pawan I’ve seen a few on pip but they are more to do with generating ZPL label code, which I already have, so it is not a problem for me. Zebra themselves have ther following code to open a socket and send the label code. import socket mysocket = socket.socket(socket.AF_INET,socket.SOCK_STREAM) host = \"10.80.209.106\" port = 9100 try: mysocket.connect((host, port)) #connecting to host mysocket.send(b\"^XA^A0N,50,50^FO50,50^FDSocket Test^FS^XZ\")#using bytes mysocket.close () #closing connection except: print(\"Error with the connection\") Question is where does it belong and how to insert variables from the record to print? The label code is between ^XA and ^XZ, so they would be inserted there. Then make that code accessible to print?"
+      },
+      {
+        "name": "Paul",
+        "username": "pmjd",
+        "created_at": "2022-10-29",
+        "text": "Thanks for how to active the server script, couldn’t easily find it in the docs. If I remember correctly JS can’t open the required sockets, a security feature by design to prevent anything nefarious client side being executed on the server. That’s why I was looking to use a server script instead."
+      },
+      {
+        "name": "Dany Robert",
+        "username": "rtdany10",
+        "created_at": "2022-10-29",
+        "text": "You can’t do this with server script as it has restricted functionalities. Ref: Server Script What you can do it create a custom app, install it on your site and add this python function in some file. Then call it from JS via frappe.call."
+      },
+      {
+        "name": "Paul",
+        "username": "pmjd",
+        "created_at": "2022-10-30",
+        "text": "Thanks for the suggestion. Out of curiousity do you know why/how the network print feature is meant to work? I’ve sent up a network printer on my local install but when I try to print ERPNext default to the browser print manager, and also the report looks nothing like the format in ERPNext’s Print Preview ."
+      },
+      {
+        "name": "Paul",
+        "username": "pmjd",
+        "created_at": "2022-11-27",
+        "text": "I have found a way to print directly from ERPNext to Zebra printer, bypassing the browser print, using JS in and client script. Will write it up soon as a tutorial for others."
+      },
+      {
+        "name": "Paul",
+        "username": "pmjd",
+        "created_at": "2022-12-21",
+        "text": "Here’s a link to the post with the tutorial [Tutorial] Printing DIRECTLY to Zebra Label Printer from Any Local Device Custom Script Just thought I’d share this incase it helps anyone else. This code will allow you to print directly to a networked Zebra label printer from any device connected to your network, without adding any additional software or drivers. NB this is one way printer communication, so no printer issues will be reported back to the end user. For my ERPNext setup, it is a local install, I don’t think this would apply to any cloud based installations for various reasons. For this example I’ll use the Batch…"
+      },
+      {
+        "name": null,
+        "username": "LaineGreen",
+        "created_at": "2025-09-29",
+        "text": "you don’t need to install drivers on the client side. The usual erpnext approach is to create a server-side python script."
+      }
+    ]
+  }
+}

@@ -1,0 +1,990 @@
+topic_id|created|views|replies|likes|tags|category|title
+100230|2023-01|289|0|0||6|Giving an item to an employee
+101004|2023-02|428|1|0||53|Task Progress Auto -update
+101250|2023-02|860|1|0||6|zk.exception.ZKNetworkError: timed out error while doing biometric integration
+101767|2023-02|225|0|0|customization|6|How to Set Company wise Print Format
+102063|2023-03|689|1|1|erpnext|notifications|mobile|sms|6|Auto SMS send on Payment Entry submit (not working)
+104060|2023-04|240|0|0||8|GST TAX Adding problem
+104566|2023-05|307|1|0||9|Not able to select multiple batches in packing list (bundle item)
+104726|2023-05|797|1|0|customization|6|Whatsapp auto reply eprnext
+106070|2023-06|1183|5|1|erpnext|customization|frappe|57|Overriding a DocType in multiple apps
+106218|2023-06|378|0|0||7|Creating SAF-T File on ERPNEXT for authorities taxes reporting
+106984|2023-07|455|2|0|erpnext|installation_problem|update_problem|accounting|7|Uploading Opening Deferred Revenue and Expenses
+107334|2023-07|1373|3|10|customization|6|[Tutorial] Whatsapp Integration - ERPNext
+107589|2023-07|2808|0|17|frappe|tutorial|6|Free ERPNEXT Developer Mastery Course
+107735|2023-07|393|0|0||57|[Discuss] Allow Multiple Price List in Customer
+108018|2023-08|2241|11|2|customization|6|Hikvision Biometric Integration
+108335|2023-08|305|3|0|customization|7|New print format not being applied for POS Invoice
+108500|2023-08|645|0|1|customization|57|Multi Company Setup
+108654|2023-08|399|1|0|report|6|Fix the first column in the script report
+108974|2023-08|411|3|0||65|How to change my E-mail and GSTIN which is registered for India Compliance account
+109174|2023-08|1337|1|2||6|Event Streaming in Version 15
+109933|2023-09|566|0|1|frappe|database|mariadb|54|[Warning] Aborted connection 718646 to db
+110087|2023-09|8097|21|50||6|POS Awesome and ERPNext 15
+110158|2023-09|1088|3|15||6|Login Page - Customization
+110563|2023-09|343|2|0|erpnext|customization|6|How to set role and permission POS awesome app
+110620|2023-09|376|0|1|erpnext|8|Error while doing POS Closing Entry
+110666|2023-10|2112|5|3||6|What frappe.render_template() and how do I use it with routing?
+111046|2023-10|322|1|0||6|CORS error while using React Front End,
+111144|2023-10|1089|6|4|customization|6|How to hide toggle sidebar elements in list view
+111731|2023-10|34644|28|20|customization|6|[Tutorial][Docker] Installing ERPNext-15 on Docker: A Step-by-Step Guide [Production]
+112103|2023-10|8603|2|10|tutorial|6|[Tutorial] ERPNext-15 Setup | Docker
+112486|2023-11|419|0|3|erpnext|itemprice|template_variant|9|Variant Template Price
+112741|2023-11|520|0|5|erpnext|customization|frappe|bug|custom_script|6|How to disable the drag and drop in child table in frappe's doc?
+115092|2023-12|2486|7|4|erpnext|customization|feature|57|Social Media Integration with ERPnext
+115394|2024-01|383|0|1|erpnext|bug|54|Documentation has features I dont have available in the Campaign
+115607|2024-01|463|1|3||6|ERPNext Fresh Install: No CSS?
+116039|2024-01|1377|5|1|install|6|Low end VPS specification to install ERPNext
+116091|2024-01|377|0|2||6|Saving Import tool mappings so the mapping can be selected during import
+116311|2024-01|651|2|0|customization|57|Add customer contact phone number to delivery note
+116656|2024-02|377|0|0|erpnext|multi-currency|7|How do we have multi currency in ledger postings for all transactions
+116730|2024-02|8381|2|0|serial|delivery-item|9|Serial No in Installation Note
+117212|2024-02|647|0|0|erpnext|customization|installation_problem|6|Deploying ERPNext & Frappe HR on Kubernetes Using ArgoCD & GitLab
+117430|2024-02|350|3|0||7|Replicate UAE tax feature in non-UAE company
+117915|2024-02|366|2|0||6|Why the product listing page is empty?
+118009|2024-02|490|0|1|erpnext|hardware|6|Hardware recommendation for stock taking?
+118461|2024-03|485|0|2||40|How to integrate ERP Next with Google Meet
+119327|2024-03|543|3|1|erpnext|customization|tax-withholding|7|Need help for this special Ad Valorem Tax on alcoholic beverages
+119394|2024-03|1140|2|2||6|System Manager permissions
+119690|2024-03|797|7|0|erpnext|6|Error email added to email queue stauts not sent
+119974|2024-03|1093|2|2|erpnext|customization|frappe|bug|installation_problem|6|Module not found error even after install app
+120013|2024-03|428|0|0|erpnext|customization|6|Cronjob for biometric-attendance-sync-tool
+120552|2024-04|461|2|2||6|Nothing to show in Request for Quotation portal
+120701|2024-04|319|0|0||6|ERPNext sso problem
+120841|2024-04|569|3|3|erpnext|stock|9|Getting Qty mismatch between POS and various Stock Reports ERPNext V14
+120847|2024-04|1208|3|2|customization|6|How to make a doctype readonly
+122084|2024-04|826|4|1|erpnext|installation_problem|65|Problem installing Indian Compliance with ERPNext v15.21.2
+123500|2024-05|2297|10|15|notifications|57|Pop-Up Notification?
+124293|2024-05|616|1|1|report|gst-india|gst|65|GSTR 9 & GSTR 9C Report
+127245|2024-06|734|4|2|erpnext|bug|quality-inspection|6|Allow Multiple Quality Inspections for a Single Item in Purchase Receipt
+128228|2024-07|494|2|2||6|Webshop and E-commerce in ERPNext 15
+128616|2024-07|520|2|1|erpnext|bug|11|Unable to save employee details
+128991|2024-07|358|0|0|erpnext|frappecloud|11|Deploy erp next on Azure
+129241|2024-07|833|12|5|print_format|57|ERPNext, How to include Company details to Letter Head?
+129367|2024-07|525|5|0|erpnext|frappe|6|Tax In sales Invoice Items Table
+129585|2024-07|830|1|0|erpnext|customization|frappe|bug|update_problem|6|Bench restart error after production setup
+129994|2024-08|381|1|0||57|Create doctype time fetch from in not visible filed
+130194|2024-08|1508|3|3|erpnext|frappe|installation_problem|6|ERP Next - psycopg2.errors.InFailedSqlTransaction:
+130472|2024-08|374|6|2||6|I have not enabled the "Allow User to Edit Discount", but yet user can play with it
+130593|2024-08|453|3|1||11|I can't see the table columns while login as user
+131376|2024-08|282|1|0|customization|65|Why this error showing only for one customer
+131503|2024-08|2310|5|5||57|Frappe Custom Theme!
+132002|2024-08|1050|6|0|erpnext|customization|custom_script|6|How to make changes in User doctype
+132130|2024-08|561|7|1|erpnext|customization|frappe|customize_form|6|Custom Field to Other site
+132497|2024-09|506|4|1|erpnext|customization|frappe|6|Hide or Restrict Sidebar Options (Assigned to Tags Attachments)
+132599|2024-09|766|2|6|erpnext|9|How to check stock availability of an Item?
+132690|2024-09|413|1|1||40|How Can Switch To Desk From Student-Portal
+132796|2024-09|882|2|0||6|Issue with Custom Docker Build for ERPNext with Additional Apps
+132881|2024-09|1179|1|2||6|Can I use Keycloak as the sole authentication server for ERPNext?
+133234|2024-09|562|0|1|erpnext|integration|e-invoicing|7|Development of ERPNext integrations for incoming invoices (Getmyinvoices, Mail, Sharepoint)
+133668|2024-09|621|1|0|erpnext|customization|frappe|custom_script|frappe-erpnext|6|How can i display two chart or more in script report
+133822|2024-09|506|5|6|erpnext|customization|custom_script|40|Child Table Row Delete
+134172|2024-09|825|1|0|erpnext|frappe|7|What is Salary Withholding? What is the use of it?
+134551|2024-10|445|4|1||6|(Maybe a bug) in ERPNext, website language not reflect if its rtl or ltr for Arabic and Farsi
+134664|2024-10|945|2|0|erpnext|customization|frappe|print_format|report|57|Custom Print format for Report print
+134967|2024-10|602|2|1|user-interface|6|Changing user email from erpnext web login
+136625|2024-11|1271|9|6||6|Is there any alternative to Posawesome since it no longer support V15 ERPNext
+136938|2024-11|270|0|0|erpnext|frappe|api|notifications|security|6|Exciting News: Digimiles SMS Integration for ERPNext is Now Live!
+137033|2024-11|1191|1|1|retail|6|Restaurant POS on ERPNext 15?
+137559|2024-11|548|1|2||57|Remove Multi-Select Checkboxes from Child Table
+138289|2024-12|243|3|2||6|Maintain naming series in fixture as it goes away in every update
+138366|2024-12|223|0|0|customization|26|Translated filter values
+138507|2024-12|230|0|0|erpnext|bug|6|ERPnext goes unresponsive suddenly on wifi but works fine with mobile hotspot
+138694|2024-12|217|0|0||6|Integration of Bitcoin & BTCPay Server
+138876|2024-12|214|0|0|installation_problem|6|PDF Generate Worker time out error
+140074|2025-01|207|0|0||6|Welcome message not sent on account of spam
+140282|2025-01|167|0|0|erpnext|customization|6|Anyone know how to display the accounting ledger preview in delivery note?
+140284|2025-01|460|0|0||6|How to Implement Bulk WhatsApp Messaging in Frappe ERP?
+141843|2025-02|321|4|1|erpnext|frappe|6|How to Use ERPNext for College Management?
+142551|2025-02|187|0|0|backup|6|How To set up S3 Backup Settings
+142690|2025-02|340|2|0|erpnext|65|Module GST India not found error after Installing India_compliance
+142787|2025-02|266|2|2|manufacturing|6|Multiple Material Transfer to Manufacture against Single Work Order (Complete FG) without JobCards
+143131|2025-02|171|0|0|erpnext|10|Unexpected Margin Rate is added to Purchase Order items when it is created from a Material Request
+143390|2025-03|596|1|1||6|Looking for Users from Belgium & The Netherlands
+143489|2025-03|421|4|8|erpnext|6|How to remove this default list view filter
+143572|2025-03|234|1|1|erpnext|frappe|bug|65|India Compliance - Issue
+143763|2025-03|352|0|2|frappe|mysql|6|Issue with bench new-site - MySQL Access Denied (1698) Frappe-bench 15 on ubuntu 22.04.5
+143978|2025-03|234|2|1||9|Stock Ledger and Stock Entry Issues
+144048|2025-03|727|4|4|notifications|frappecloud|6|Push Notifications - Not working
+144601|2025-03|116|0|0|erpnext|7|Changed Warehouse Account, how can i move previous amounts/stock from old account to the new one?
+144809|2025-03|331|0|1|erpnext|customization|email|email_alert|6|How to prevent ERP Next from sending automatic emails
+145129|2025-04|170|1|1|erpnext|customization|7|We need Line item wise TDS calculation in Purchase invoice 
+145583|2025-04|1092|4|1||6|Can i self hosted erp next?
+145869|2025-04|168|0|0|customization|frappe|installation|6|Internal Server Error after install employee_self_service
+146388|2025-04|1030|8|2|erpnext|frappe|bug|installation_problem|update_problem|6|Issue with Build Process: Exit Code 137 and Chunk Size Warning
+146541|2025-04|179|1|0|erpnext|customization|frappe|6|HR is not able to access transferred employee
+147227|2025-05|148|1|1|erpnext|wkhtmltopdf|6|Server Error after clicking clicking PDF in quotation
+147458|2025-05|175|0|0|erpnext|customization|frappe|6|How to embed a pdf inside a pdf for printing purpose
+147579|2025-05|564|11|9|erpnext|customization|frappe|installation_problem|6|Suitability of ERPNext for a SysAdmin Services Company
+147769|2025-05|229|3|1|erpnext|performance|6|Employee and User Bulk Creation/Update
+148017|2025-06|337|1|1|customization|6|Field Sales & Secondary Sales Management App
+148049|2025-06|113|0|0|erpnext|frappe-erpnext|6|User Able to View Unassigned Employee Record Despite User Permissions
+148062|2025-06|343|7|0||6|Negative Expense
+148074|2025-06|119|0|0||6|Package the content and Monetize
+148077|2025-06|216|0|0|erpnext|bug|installation_problem|update_problem|65|Installing india_compliance...
+148352|2025-06|150|1|1|customization|list-view|6|How to show only logged-in Sales Person's invoices in list view?
+148573|2025-06|183|0|1|bench|multitenancy|6|Disable the default site behavior in frappe and restore multitenant mode
+148724|2025-06|203|1|0||40|Fees per Course
+148756|2025-06|768|0|0|erpnext|frappe|installation_problem|6|How to install ERPNext using Docker on Hostinger VPS
+148817|2025-06|136|0|0||26|Aggregate child companies' accounts into the parent company
+149064|2025-06|113|0|0||11|Re-direction to Frappe Cloud not working
+149190|2025-07|578|3|7|docker|6|ERPNext version-15 Fails on dockerized setup due to new update v16 patch
+149320|2025-07|162|2|1|erpnext|6|ERPNext Webhooks are not working
+149470|2025-07|142|0|0|customization|6|How To Edit this Point Of Sale UI
+149572|2025-07|369|6|5|erpnext|e-invoicing|6|ERPNext Needs FIRS E-Invoicing Integration
+149629|2025-07|287|0|0|erpnext|customization|frappe|bug|installation_problem|6|webSocket 'wss://*.*.org/socket.io/?EIO=4&transport=websocket&sid=QbeX6kP7Y3qHkBUpAAAe' failed:
+149734|2025-07|316|1|2|update|6|Updating v15 to the latest version
+149760|2025-07|238|3|0|erpnext|accounting|asset|depreciation|55|Asset Depreciation Schedule Issue
+149934|2025-07|159|1|0|docker|database|6|I am facing some latency in the APIs
+150007|2025-07|152|2|2|erpnext|customization|frappe|6|How make Asset Movement also modify Stock Ledger
+150051|2025-07|151|2|0||6|Stock Entry Approval taking too much time
+150423|2025-07|101|1|0|itemprice|9|Item "Valuation Rate" shows as 0, but exists on Item Price and Stock Entry
+150573|2025-07|193|4|6||11|Please help recommend the hardware configuration for building the server
+150663|2025-07|150|0|0||19|QR Code in Job Card
+150683|2025-07|196|0|1||6|Frappe ERP ERPNext Raven Chat Installation
+150772|2025-07|84|2|0|erpnext|frappe|bug|6|AttributeError: 'NoneType' object has no attribute 'fieldtype' Possible source of error: lending app
+150826|2025-07|68|0|0|erpnext|attendance|6|ValidationError when creating attendance and adding check-in via API
+150829|2025-07|26|0|0||6|Purchase Receipt Return Error
+150863|2025-07|51|0|0|erpnext|customization|6|How can i change the core code for purchase invoice in that Outstanding Amount (INR)
+150912|2025-07|189|6|1|erpnext|customization|frappe|selling|healthcare|6|Sales Invoice Issues
+150914|2025-07|41|0|1|permissions|6|Unexpected permissions change Accounts Receivable Report
+150923|2025-07|118|3|1|frappe|6|Purchase/Access ERPNext Demo/Seed Data
+150925|2025-07|44|0|0|erpnext|frappe|bug|update_problem|6|Rare Case: Field Update Not Persisting to Database
+150931|2025-07|54|0|1|erpnext|bug|materialrequest|6|Request for quotation consolidation
+150936|2025-07|85|0|1|erpnext|customization|frappe|list-view|6|Add Buttons in list view to perform different actions Solved
+150950|2025-07|58|0|0|erpnext|customization|frappe|bug|6|Allow Multiple Shift on Same Date option in HR Settings is Not working
+150955|2025-07|21|0|0|erpnext|26|Printing out Filters applied in Report Builder Reprots
+150962|2025-07|264|0|2|erpnext|customization|custom_script|developer|6|Feature: Role - Wise Custom Sidebar Creation with Custom or Dynamic Links in Sidebar Items
+150970|2025-07|49|0|0|email-accounts|6|Getting error while creating my first email account
+150991|2025-07|77|0|0||6|QuickBooks Enterprise to ERPNext migration
+150993|2025-07|38|0|0||57|busco alguien que me ayude a entender este ERPNext
+151006|2025-08|88|0|0|erpnext|quality-inspection|6|Quality inspection of Finished Good
+151037|2025-08|98|2|1|erpnext|11|Seeking Advice: How to Add Additional Status to Sales Order Document (Not Workflow)
+151055|2025-08|69|3|1|erpnext|customization|frappe|installation_problem|developer|6|Separate apps in sidebar not as in cloud for local
+151072|2025-08|17|0|0|erpnext|6|How to integrate CCAvenue Payment Gateway in Frappe
+151075|2025-08|26|0|0|hr|payroll|6|Getting Max benefits should be greater than zero to dispense benefits in flexible benefite
+151077|2025-08|86|1|0|payroll|6|How to add 4% cess on the tax amount in erpnext
+151084|2025-08|110|5|1||6|Can valuation rate change after the purchase invoice?
+151092|2025-08|56|1|0|erpnext|customization|frappe|bug|6|How can i created Dashbaord chart for attendance (Read Completed Post)
+151094|2025-08|47|1|0|customization|6|You don't have permission to get a report on: Attendance
+151107|2025-08|98|4|0|erpnext|customization|6|How can I allow a user to print a DocType from a custom web page without giving them permission?
+151124|2025-08|131|0|1||57|Container Management For Port or Dock
+151146|2025-08|39|0|1|erpnext|customization|frappe|6|How to fetch Insight charts to our erp dashboard
+151147|2025-08|35|0|0||57|How to show product barcode in sales invoice print format as a barcode image?
+151151|2025-08|55|0|0||6|Restrict selecting future date for all transactions
+151169|2025-08|75|0|0|frappe|6|How to implement push notifications in ERPNext?
+151176|2025-08|55|0|0|erpnext|customization|frappe|installation_problem|healthcare|6|Sales Invoice Service Unit
+151178|2025-08|74|1|0|erpnext|6|Error implementing authentication with Microsoft 365
+151190|2025-08|41|0|1|erpnext|customization|9|Can ERPNext Send Available Items with Images via WhatsApp?
+151200|2025-08|55|0|2|erpnext|email|email_alert|6|Email Not triggered from Workflow
+151210|2025-08|33|0|1|erpnext|customization|frappe|11|How to Change Name of the creator of document to Display Name and not email address?
+151219|2025-08|42|0|0|item|9|Item Aliases , Multiple names of same item
+151220|2025-08|133|2|0|erpnext|item|6|Brand Wise stock Management
+151225|2025-08|41|0|0|erpnext|customization|frappe|stock|item|9|I want Different Name for Purchase and Sales of same item
+151259|2025-08|56|0|0||8|Customer creation from Lead should restrict to duplication of customer name
+151281|2025-08|64|0|3|customization|quotation|8|Group products in quotations
+151373|2025-08|54|1|0||6|UI Server Script returning {} in frappe.call() response
+151397|2025-08|64|0|0||6|ERPNext.com redirect to https://frappe.io/erpnext/us Page not found
+151441|2025-08|260|0|1||6|Implement ERPNEXT Locally
+151451|2025-08|115|4|10||11|I wanna know How the trust level and all things work in frappe forum 
+151524|2025-08|67|1|2|accounting|7|Defered JV belongs to Purchase Invoive
+151631|2025-08|199|2|9||6| How to set up automatic payment reminder emails in ERPNext?
+151634|2025-08|55|0|0|customization|6|I am Facing Issue in adding button in custom Report 
+151654|2025-08|156|0|0|erpnext|frappe|permissions|6|How to Set Up Multi-Level Approval in Frappe?
+151656|2025-08|42|0|0||6|How to Manage Department-Wise Expense Limits in Frappe?
+151715|2025-08|58|0|4||6|How Setup the incoming email?
+151752|2025-08|41|0|0|erpnext|frappe|6|Automatic Created JV
+151775|2025-08|48|0|2||6| Is there a way to display Item Images directly in the Quotation print format?
+151781|2025-08|77|0|5||6|How to integrate ERPNext with Google Calendar for meeting scheduling?
+151782|2025-08|124|6|0||6|fixtures is not shown in my frappe production server
+151790|2025-08|61|3|5|erpnext|57|Can someone explain why can't the fieldnames have special characters?
+151834|2025-08|77|4|0||6|how to revise the quotation
+151868|2025-08|36|1|0|erpnext|sql|6|How to change the datatype from "int" to "bigint" in ERPnext database?
+151900|2025-08|63|1|0|erpnext|customization|frappe|bug|6|"No permission for Accounts Settings" whilte creating purchase order
+151901|2025-08|103|1|0||6|How to restore backup with files
+151949|2025-08|201|2|1|erpnext|customization|custom_script|web|web-browser|57|How to change Website Title (Meta Title) in ERPNext?
+151959|2025-08|80|2|6||11|Subscription invoices not generated automatically
+151965|2025-08|55|0|0||6|Invoice Markup Column
+151977|2025-08|105|0|0||53|I want Advice on Managing Projects in ERPNext
+151993|2025-08|94|1|0|bug|6|Error: Module IT Management not found; The resource you are looking for is not available
+152009|2025-08|80|3|8||9|Item master dashboard and stock in material requisition mismatch
+152016|2025-08|60|0|1|erpnext|customization|frappe|bug|hr|6|How to customize Roaster (HR)
+152079|2025-08|86|0|3||6|How can I handle a Purchase Rate Adjustment?
+152233|2025-08|74|0|6||6|How to make naming series editable
+152368|2025-08|56|0|0|erpnext|frappe|6|Frappeverse India 2025
+152396|2025-08|85|3|0||7|How to Unlock a Company Doctype is Locked
+152405|2025-08|75|0|2|customization|frappe|installation_problem|57|Future Direction of ERPNext: Monolithic vs. Modular Approach
+152407|2025-08|53|0|0||7|Trial Balance and General Ledger balances are different
+152419|2025-08|53|0|0|erpnext|6|Active directory Integration
+152426|2025-08|67|1|3||6|How to get stock balance having inventory dimension in server script?
+152442|2025-08|75|0|2|customization|frappe|6|How Can I Create Partner Portal in Erpnext?
+152461|2025-08|38|1|1|erpnext|frappe|6|Message: Illegal Document Status for Rejected
+152480|2025-08|43|0|0||6|Auto Process Payment Reconciliation
+152489|2025-08|19|0|0||6|Add attachment button on portal
+152501|2025-08|21|0|0||57|Multiple voucher for receive and pay and cash book or day book for day closing.
+152517|2025-08|85|0|0|erpnext|customization|frappe|6|How to approach EDI integration in ERPNext?
+152527|2025-08|77|0|0|erpnext|customization|57|ERPNext Column Width
+152530|2025-08|62|0|0|bench_migrate|6|ERPNext Migration
+152532|2025-08|44|0|0|erpnext|6|Valuation Rate - Landed Cost Voucher
+152535|2025-08|85|1|2|erpnext|11|Error Configuring Email in ERPNext with Office 365
+152541|2025-08|25|0|0||53|Start and end date key errors query report erpnext v15
+152552|2025-08|71|0|0|erpnext|email|email-accounts|6|Config the office 365 in erpnext v15
+152555|2025-08|36|0|0|customization|6|In_words change?
+152561|2025-08|53|0|1|erpnext|customization|installation_problem|6|confused about adding my zebra printer for barcodes .in local network
+152562|2025-08|43|0|0|pos_point_of_sale|pos|6|pos doesn't exist in my erp ?
+152566|2025-08|40|0|1||8|Sale Tender Management System
+152567|2025-08|142|2|1|erpnext|bench_update|update|57|Update Certain Apps
+152593|2025-08|58|0|3||34|Preview Invoice Number (Name/Series) Before Saving the Document
+152611|2025-08|35|0|0|gst-india|item|bom|inventory|9|How to handle Item with multiple GST - HSN code?
+152644|2025-08|31|0|0||6|Budget's Monthly distribution not triggered
+152649|2025-08|74|1|0|erpnext|customization|frappe|custom_script|developer|6|Handling the large dataset with 5 million data
+152658|2025-08|36|1|1||6|Defining a items Attribute Value based on the Group Attribution
+152665|2025-08|159|3|4|erpnext|customization|frappe|custom_script|6|Line Discount by Item Total (Flat Amount & Percentage) â€“ Not Rate
+152686|2025-08|22|0|0||55|incorrect accounting entry for selling repaired fixed asset
+152689|2025-08|54|3|0|chart_of_accounts|6|Cost Center of Cost of Sales
+152701|2025-08|24|0|0|customization|frappe|57|How to save a document with an attached file from a Vue.js frontend?
+152712|2025-08|35|2|1||6|Make incoming mails (communication) visible for all users.
+152729|2025-08|50|2|1||6|Clarification Needed: Correct Repository for ERPNext Documentation Contributions
+152730|2025-08|40|1|0||34|Option to Set Default Number of Print Copies for Documents Like Invoices
+152731|2025-08|51|2|0||34|Support for Custom/Manual Invoice Numbering Instead of Fixed Automatic Series
+152736|2025-08|35|0|0|frappe|6|Frappe HR Roster - Issue with search field
+152742|2025-08|77|1|0|erpnext|customization|6|Adding reactions to comments
+152753|2025-08|43|1|0||6|ERP Next - Advance To Creditors
+152767|2025-08|57|3|0|bug|6|Workflow Action Button is not visible after data restore from version -14 to 15 
+152780|2025-08|68|0|1|erpnext|57|Lock table in database after migrate
+152781|2025-08|131|2|1|erpnext|customization|frappe|bug|custom_script|6|How to add letterhead and page numbering in every page of report print format
+152786|2025-08|88|1|1||34|Partial Billing/Advance Features for POS & POS Invoice
+152787|2025-08|41|0|0|erpnext|customization|frappe|custom_script|developer|6|How to create a single button for evey doctype list_view?
+152800|2025-08|30|0|2||7|Custom app to support budgeting for Capital Expenture
+152802|2025-08|109|3|1|erpnext|customization|frappe|frappeui|57|How to change frappe default UI ?? How to use vuejs components for ui for any frappe app ??
+152812|2025-08|32|0|0|erpnext|6|Help Needed For Implementing Push Notifications
+152830|2025-08|61|2|1|erpnext|6|how can i create gst sales and non gst sales invoice.
+152862|2025-08|37|0|0||9|Stock Balance and Stock Ledger not matching
+152863|2025-08|60|0|0|erpnext|customization|6|How to see values in an app or api calls?
+152873|2025-08|52|0|1|sales-order|11|Wanted to ask what is the calculation of amount in sales order item?
+152886|2025-08|36|0|0|erpnext|customization|frappe|developer|email|6|How to freeze side Bar in All pages 
+152888|2025-08|103|0|1||8|Sales order workflow
+152942|2025-08|103|2|0|erpnext|restore|6|Migrate after restore fails
+152965|2025-09|51|0|0|erpnext|customization|implementation|7|Guidance Required for ERPNext Setup â€“ Transport & Logistics Company
+152967|2025-09|53|2|0|erpnext|frappe|bug|6|Companies not getting filtered as per user permissions in Tree View
+152970|2025-09|50|0|0||6|How to allow a custom Desk Theme (Modern_ui_theme) when saving Email Account in ERPNext?
+152987|2025-09|38|0|0|erpnext|customization|40|Education student portal error v15.68.0
+152990|2025-09|87|3|2||6|Adding options to the sales order type field?
+152995|2025-09|82|1|0||6|How and where do I enter my utility bills (electricity, water, etc.)?
+153000|2025-09|23|0|0||6|required help for purchase material request work flow
+153014|2025-09|76|2|0|rounding|11|How to disable Rounding Amount in all transactions?
+153017|2025-09|102|4|2|erpnext|customization|frappe|6|How to hide awesome search bar
+153033|2025-09|22|0|0||6|Facing an issue while attaching pdf to the email
+153034|2025-09|189|2|0|erpnext|customization|frappe|installation_problem|update_problem|6|How to update ERPNext, Frappe framework, Frappe HR to latest versions
+153035|2025-09|33|0|0|erpnext|customization|6|Can i add filter like that image plz help me
+153048|2025-09|62|0|0|erpnext|customization|6|how to create dynamic Qr for a doctype Item in Print format,
+153049|2025-09|32|0|0|erpnext|customization|frappe|19|In ERPNext, how can I automatically set the **Planned Start Date** of a Work Order based on the **Pl
+153053|2025-09|22|0|0|customization|6|Adding custom fields to sales invoice and pull data from the customer doctype?
+153054|2025-09|52|0|0|erpnext|report|queryreport|26|Query/report filter
+153060|2025-09|32|0|0|erpnext|9|How to handel multiple item tax template in item level
+153062|2025-09|44|0|1|erpnext|customization|frappe|bug|developer|6|Dynamic Filter on a Link Field Options Dropdown inside a Child Table (Based on Conditions)
+153069|2025-09|25|0|0||6|Purchase Invoice - Net Total calculations
+153071|2025-09|57|0|0||6|View/ edit field permissions
+153104|2025-09|101|2|0|bug|7|Use Batch wise valuation check box in Batch in Version 15.62 
+153105|2025-09|124|0|1|customization|developer|6|How To: Set up an erpnext docker dev environment. [Linux All Commands]
+153115|2025-09|30|0|0||11|Using functions in script report
+153119|2025-09|56|0|0||6|Stock Ledger Valuation
+153120|2025-09|38|0|0||6|Can't select project in new issue form in portal?
+153142|2025-09|112|2|0||6|POS-Awesome-V15 installation error: Node version mismatch
+153176|2025-09|87|0|0|erpnext|accounting|7|Serbian Chart of Accounts in ERPNext
+153177|2025-09|29|0|0|erpnext|accounting|account|gst-india|gst|7|How to Configure GST on Selling Price and CESS on MRP in ERPNext?
+153196|2025-09|59|0|0||6|Automating References
+153197|2025-09|39|0|1||6|Adding PAN Number in Salary Slip
+153205|2025-09|13|0|0|email-accounts|6|Connect Cpanel email account with email account in frappe
+153221|2025-09|40|0|0||11|Got error how to solve erpnext bench start is running
+153247|2025-09|247|1|0|erpnext|customization|frappe|developer|6|How to Customize ERPNext Source Code and Build My Own Docker Images for Deployment
+153280|2025-09|44|0|0||6|Lead Documentation
+153285|2025-09|15|0|0||6|previous currecy api 
+153289|2025-09|33|0|0|erpnext|6|PDC Management Or Cheque Management
+153293|2025-09|29|0|0||6|How to disallow issuing quotation if supplier is "draft"
+153299|2025-09|82|4|0|erpnext|frappe|bug|9|Stock Reconciliation performance and validation issues with large data (500+ warehouses, 20k+ rows)
+153308|2025-09|41|0|0|frappe|print|6|Issue with Printing documents as PDF, possibly related to wkhtmltopdf
+153343|2025-09|77|0|0|erpnext|customization|frappe|installation_problem|6|How to Install & Use Summit (E-commerce) with ERPNext
+153359|2025-09|16|0|0|accounting|manufacturing|6|Changing Valuation Method at Item / Item Group Level
+153382|2025-09|26|0|0||6|'Template interview_feedback not found.
+153406|2025-09|116|0|0||40|Looking for Commercial Lending Software Recommendations
+153428|2025-09|52|1|1|frappe|frappecloud|11|In frappe cloud how to update the frappe framework from v15.81.0 to v15.49.1
+153432|2025-09|18|0|0|customization|6|Web list filter does not work for custom doctype erpnext
+153441|2025-09|24|0|0|erpnext|bug|update_problem|6|Unicommerce Item sync
+153463|2025-09|166|2|1|erpnext|installation_problem|6|Implementation of Erpnext in Contabo vps
+153489|2025-09|26|0|0|erpnext|6|After successful payment in Razorpay status not updating in Payment request
+153494|2025-09|58|0|0||6|E-invoice issue
+153500|2025-09|38|0|0|erpnext|customization|frappe|developer|6|Help needed in tough logic for Task Doctype (Challenge for DevelopersðŸ˜‰ðŸ˜‰)
+153504|2025-09|92|0|0|database|6|Error connection to Mariadb
+153531|2025-09|53|0|0|installation_problem|6|Issue after Login in dev installation
+153550|2025-09|47|0|0|erpnext|9|nested location tracking or multi-level warehouse container logic
+153588|2025-09|48|1|0|erpnext|print_format|print|6|Item description is overlaping to the description heading
+153593|2025-09|41|0|0|erpnext|customization|bug|6|Consolidated material request for same item
+153613|2025-09|56|0|0|erpnext|customization|custom_script|developer|6|Side Panel in Home Workspace Hide by Default?
+153619|2025-09|48|0|2|erpnext|customization|custom_script|developer|65|Need Ability to Generate E-Waybill for Internal Stock Transfers Across States
+153625|2025-09|55|4|1|email|email-accounts|6|All emails made as read and i does not read it in outlook after integrate with system
+153633|2025-09|72|4|3||6|Change Bulk operation failed message
+153637|2025-09|123|1|0|pos_point_of_sale|8|ERPNext Creating Credit Sales from POS(Point of Sale)
+153651|2025-09|21|0|0|frappe|57|**Actions button in list view does not follow workflow**
+153652|2025-09|41|0|1||6|Why opening stock entry credited to stock adjustment account?
+153654|2025-09|102|0|0||6|Does ERPNext care about CRM module anymore?
+153685|2025-09|36|0|0|customization|6|Frappe LMS integration with S3 !
+153689|2025-09|58|0|0|erpnext|frappe|6|Profit margin in P&L report
+153717|2025-09|45|0|0|erpnext|installation_problem|6|Stuck in Restoring Database file
+153726|2025-09|28|0|0|erpnext|frappe|bug|9|Error Facing while Creating Product Bundle
+153727|2025-09|56|1|0||6|Period Voucher Closing failed
+153731|2025-09|44|0|0|accounting|item|sales-order|tax-withholding|6|Different HSN and GST breakup for one item & different customer
+153740|2025-09|25|1|0|erpnext|6|Source not found in erpnext
+153746|2025-09|88|2|0|erpnext|customization|frappe|bug|frappe-erpnext|6|Progress Bar Not Working in Both Production and Developer Mode
+153749|2025-09|94|1|2|erpnext|40| In customization of Frappe Education
+153753|2025-09|55|0|1|print_format|report|11|Anyone know how to use print format in script reports?
+153773|2025-09|22|0|0||7|Unable To Change Id In Sales Partner Doctype
+153775|2025-09|139|0|0||11|Installing V16 on local server
+153810|2025-09|17|0|0||6|Navbar image not showing in Frappe Cloud
+153817|2025-09|81|0|0||6|Item has `item_code` field, Why?
+153832|2025-09|72|0|0|erpnext|6|Tile company, dont know where to get started 
+153937|2025-09|59|0|1|erpnext|6|Material Request Price List
+153971|2025-09|21|0|0|erpnext|bug|8|Displaying Duplicate Fields in Items Table in Sales Order
+153989|2025-09|31|0|0|erpnext|customization|bug|print_format|6|How to create sales invoice print format in Arabic
+153991|2025-09|32|0|0|erpnext|customization|frappe|6|I want add a pdf file using api from front-end system into my erpnext
+154006|2025-09|23|0|0|customization|6|How to Create a Ticket from a New Communication with a Specific Sender
+154054|2025-09|33|0|0||6|Bulk Price Set up rules
+154076|2025-09|58|1|0|erpnext|customization|frappe|developer|6|PDF editor integration before printing the document
+154090|2025-09|90|1|0|bug|46|Agricluture module in all doctype page is not found
+154103|2025-09|28|0|0||6|Account not reflecting on Balance Sheet
+154110|2025-09|44|2|0||7|Cost of Sales recognition
+154117|2025-09|40|1|0|erpnext|item|6|Erpnext for photobook shop managment
+154131|2025-09|64|0|4||6|Naming series, Draft
+154192|2025-09|58|0|0|erpnext|customization|6|How to Create Quotation, Sales Order, and Purchase Request Without Item Code in ERP Next
+154223|2025-09|48|0|0||6|[Solved] Reset 2fa for one user
+154226|2025-09|92|1|0|mariadb|6|MARIA DB issue during Installation
+154243|2025-09|35|1|1|erpnext|frappe|8|Concurrency issue
+154277|2025-09|49|0|0|erpnext|19|Unit of Measure Conversion Factor
+154295|2025-09|84|0|0|erpnext|customization|frappe|installation_problem|developer|6|Exim App installation, Export Print Formats
+154300|2025-09|38|0|0|doctype|list-view|6|custom list display
+154309|2025-09|17|0|0|erpnext|frappe|57|Error : Dashboard chart
+154326|2025-09|19|0|0|customization|6|Need support with a legally compliant cash register(nfront) for Germany/EU
+154329|2025-09|214|2|1|erpnext|frappe|installation_problem|6|Frappe Insights installation error in ERPNext v15?
+154357|2025-09|57|0|0|erpnext|customization|frappe|6|Query Report: Optional filter (mode_of_payment) causing KeyError
+154361|2025-09|43|0|0|frappe|6|Hide Columns in the Report
+154365|2025-09|119|1|0|erpnext|manufacturing|bom|19|Erpnext manufacturing, Assgin Operation to selected users
+154373|2025-09|52|2|0||57|Need help in perm level. some fields needs read access and some fields needs write access for a role
+154374|2025-09|81|0|0|email|background-job|6|Emails not automatically sent
+154375|2025-09|63|1|0||6|Enable Numbers on Charts of Accounts
+154417|2025-09|52|1|0||7|Default Asset Account for Item
+154424|2025-09|25|0|0|print_format|11|When master data changes, which values should forms display?
+154455|2025-09|61|0|0|erpnext|19|Clarification on Work Order Return Functionality â€“ ERPNext v15
+154457|2025-09|74|0|0|erpnext|customization|frappe|6|[App showcase] NextAI â€“ Smarter, More Connected, and Transparent ðŸš€
+154477|2025-09|37|0|0||40|In customization of frappe education
+154478|2025-09|17|0|0|erpnext|customization|bug|6|MappingFormatError when converting JSON to X12 (Bots EDI mapping script)
+154480|2025-09|33|0|0||57|How to add custom field in pos awesome v15
+154492|2025-09|27|0|0|erpnext|bug|54|Pick List items in table disappear after saving and submiting pick list
+154495|2025-09|104|0|0||6|Why there is no Frappe developer courses
+154503|2025-09|52|0|0||6|Looking to Hire someone for Frappe Helpdesk
+154544|2025-09|39|0|1|erpnext|frappe|automation|6|Server Side email on Value Change
+154550|2025-09|43|0|0|integration|6|What is the use of Integration Request doctype
+154559|2025-09|57|0|1||6|Does anyone have a script for migrating from version 13 to 15?
+154580|2025-09|56|0|0||8|CRM quotation and products/ items
+154591|2025-09|75|0|2|erpnext|54|How to programmatically retrieve all ERPNext API endpoints with full DocType metadata, fields, permi
+154592|2025-09|38|0|1|customization|6|ERPNEXT Setup facing issues in setting of it in laptop
+154594|2025-09|32|0|1|erpnext|11|After adding a UOM â€˜Drumâ€™ (1 Drum = 235 kg) for itemA (base UOM = kg), posting 2 Drums in Sto
+154611|2025-09|54|0|2||6|Need to Cancel/Delete Test Documents
+154616|2025-09|94|0|2||6|How to use Transaction Deletion Record
+154637|2025-09|111|0|2|erpnext|customization|6|Simple Accounting
+154702|2025-09|29|0|0||65|Bug: Unable to Define Multiple Item Tax Templates with Different Validity Periods and Min/Max Amount
+154706|2025-09|54|0|0||7|How to disable General Ledger?
+154731|2025-09|24|0|0||6|Custom erpnext oauth2
+154775|2025-09|198|2|0|integration|7|ERPNext to Tally Prime / Tally ERP integration
+154779|2025-09|81|1|0|erpnext|import|6|Data Import for Journal Entry in ERPNext
+154810|2025-09|41|0|0||6|POS Remove Sales Tax
+154811|2025-09|66|0|2||65|Issue in Purchase Reco
+154858|2025-09|61|0|0|erpnext|frappe|whatsapp|6|Frappe WhatsApp Group Integration
+154861|2025-09|50|0|0|erpnext|stock|stockentry|9|Stock Transfer between warehouse, one user will create request and other will transfer the stock
+154866|2025-09|32|0|0||6|How to retroactively link submitted Sales Invoice to Sales Order
+154902|2025-10|47|0|0|erpnext|6|Confused about end-of-service settings in ERPNext
+154914|2025-10|24|0|0|accounting|6|In ERPNext can we Assign resource costs to any COA element
+154917|2025-10|38|0|0|erpnext|customization|6|I have to repeat my custom header on my custom print format, how do i do that?
+154918|2025-10|45|0|0|erpnext|frappe|6|How to handle non-stock (service) items in subcontracting receipts?
+154919|2025-10|27|0|0||26|ERPNext v14 â€“ Custom Script Report HTML Print Format Not Rendering After Alignment Changes
+154932|2025-10|60|3|0||7|GL impact not happening
+154934|2025-10|32|1|0||6|How to create a Pick List from PSINV (Draft or Paid)?
+154949|2025-10|57|0|0|erpnext|6|Tax calculation before discounts
+155006|2025-10|41|0|1||6|TypeError: on_trash() takes 1 positional argument but 2 were given
+155022|2025-10|22|0|0||6|Guidence regarding multiple compliances on same site
+155023|2025-10|72|0|0|erpnext|customization|print_format|print|57|Custom print format to print heading on all pages
+155026|2025-10|42|0|0|erpnext|frappe|40|Upload File Video In LMS Course
+155029|2025-10|24|0|0|gst-india|9|Items Taxes Table - entered twice in Item Taxes
+155036|2025-10|33|0|0|erpnext|frappe|9|QR Code Implementation for Stock Count, Ordering & Receiving
+155056|2025-10|71|2|0|erpnext|salesinvoice|8|Edit Submit Invoice with same Sales Invoice Number
+155075|2025-10|88|3|1||7|In journal entry, can I disable or change how the dropdown list of accounts or autofill works?
+155100|2025-10|156|5|0||6|Muti Party Sales Invoice
+155104|2025-10|43|0|0|accounting|7|Discrepancy in Profit and Loss Graph for FY 2024-25
+155113|2025-10|88|0|4||6|Sharing Workspace Best Practices
+155127|2025-10|36|0|0||57|Restrict or show specific ERPNext modules (like Selling, Buying) based on user role using custom app
+155149|2025-10|47|0|0|erpnext|customization|frappe|developer|6|How to Setup Default workspace (currently redirecting to /home)
+155152|2025-10|26|0|0|erpnext|customization|6|Sales invoice Print in Arabic
+155156|2025-10|45|1|0|erpnext|6|Request for Changing Tax Template in Submitted Purchase Order
+155157|2025-10|37|0|0|erpnext|buying|6|Proportional Freight Distribution Across Multiple GST Rates in Purchase Bill
+155183|2025-10|75|1|0||6|calling a server script api
+155215|2025-10|44|3|1|erpnext|customization|frappe|6|Customizations to custom doctype in backend
+155222|2025-10|11|0|0||6|Assignment rule based on Territory
+155224|2025-10|31|0|0||6|How to print Barcode in ERP Next, I am not able to see the settings.
+155232|2025-10|130|0|1||6|Integration with e-Commerce providers - Tiktok
+155262|2025-10|18|0|0|customization|bug|57|Workspace folder module.json in code mean i have shortcut add manual then not ui/ux which problem?
+155272|2025-10|25|0|0|customization|9|Get Available Stock Qty based on my Custom Field
+155274|2025-10|46|0|0|frappe|report|chart|6|Why I cant able to create charts from a report in frappe 15
+155286|2025-10|113|4|3|erpnext|frappe|custom-app|frappe-erpnext|6|How to Share User Login Session Between Two Frappe Sites?
+155291|2025-10|86|0|1||7|Using ERPNext in Belgium, including accounting
+155317|2025-10|28|0|0||19|Change Job Card Planned Start Date Logic to Overlap Operations
+155392|2025-10|44|0|0|erpnext|buying|6|Purchase Order to Supplier A but Delivery to Supplier B (for Processing) â€“ How to Handle?
+155398|2025-10|23|0|0|erpnext|11|Insights app installed but not visible in Workspace on Frappe Cloud site
+155413|2025-10|68|0|1|erpnext|customization|frappe|custom_script|developer|6|How to export one dashboard to another site in Frappe Insights?
+155470|2025-10|24|0|0|erpnext|bug|update_problem|item|9|Error Creating Product Bundle
+155487|2025-10|43|0|0|customization|frappe|57|What is the diff between workspace.json in the workspace folder and workspace in the fixtures folder
+155489|2025-10|92|0|0||6|UK VAT and MTD in ERPNext V15
+155498|2025-10|218|0|0|erpnext|pos|6|POS feedback - ERPNext, Getpos, posnext, posawesome, V16?
+155506|2025-10|55|0|0|erpnext|customization|crm|6|need freelancer for implementation and setup of CRM 
+155520|2025-10|26|0|0|erpnext|6|How to disable reposting of GL Entry in document Stock Entry(Material Issue)?
+155525|2025-10|89|1|0|erpnext|customization|57|How to Restrict Workspace Visibility Based on User Roles
+155526|2025-10|31|0|0|crm|8|Broken CRM website - video not loading
+155536|2025-10|38|0|0||7|How to Return Employee Advance
+155537|2025-10|34|0|0||6|How to fix pymysql.err.OperationalError: 1045, "Access denied"?
+155560|2025-10|1060|3|15|erpnext|customization|pos_point_of_sale|pos|pos-awesome|6|ðŸš€ Introducing POS Next â€” The Future of Open-Source POS for ERPNext
+155564|2025-10|23|0|0|erpnext|frappe|installation_problem|update_problem|6|Insights error: Connection.init() got unexpected keyword argument 'ssl_mode'
+155565|2025-10|211|0|0|erpnext|customization|frappe|6|Frappe V16 coming here is my opinion
+155573|2025-10|27|0|0|erpnext|custom_script|script|6|ZIP code auto complete script error
+155585|2025-10|57|3|1|frappe|bug|report|script|python3|26|Leave Application Reports
+155614|2025-10|25|0|0|frappe|custom_script|script|python3|chart|26|Chart color Differentiate
+155641|2025-10|66|0|0||57|I need a developer to help me integrate ERPNext api into my EMR software 
+155655|2025-10|91|1|0|erpnext|backup|restore|54|Steps to take backup and restore of erpnext 15 on new server
+155660|2025-10|29|0|1||6|Purchase Return-Status
+155671|2025-10|49|0|0|bug|19|Error when creating production plan (workorder) on manufacturing
+155672|2025-10|27|0|0|erpnext|frappe|6|Multi Step in Form Dashboard / CMS Frappe?
+155688|2025-10|250|3|4|erpnext|frappe|installation_problem|update_problem|developer|6|Error while generating PDF using pdfkit on macOS (M4)
+155717|2025-10|96|2|0||57|Aplication Language
+155719|2025-10|35|0|0|customization|wkhtmltopdf|6|Im not bale to get this work, 6 days, and counting
+155727|2025-10|47|1|0|erpnext|customization|frappe|bug|developer|57|Permission Error When Viewing Uploaded Image
+155744|2025-10|87|2|0||6|Bank Clearance more strict than Payment Entry
+155752|2025-10|118|0|2|erpnext|frappe|docker|11|ðŸš€ Introducing Frappe/ERPNext Docker Manager â€“ a fully automated solution to set up and manage your 
+155763|2025-10|21|0|0|erpnext|customization|bug|6|Shift Assignment Tool not Working
+155769|2025-10|76|3|0||6|ERPNext setting up: Default link / hostname
+155779|2025-10|26|0|0|erpnext|customization|bug|6|Employees missing while assigning shift schedule VIA shift assignment tool
+155792|2025-10|66|1|1|erpnext|customization|6|submenus in the main menu of the customer portal
+155798|2025-10|18|0|0||6|My ERPNext url/app/home shows error Not found
+155807|2025-10|48|0|0|erpnext|permissions|11|Giving only view permission to a particular warehouse
+155819|2025-10|55|0|0|erpnext|19|Manufacturing use case
+155890|2025-10|38|0|0||6|Automation of Sales Order and payments
+155910|2025-10|22|0|0||6|Elavon/Converge Payment Gateway Integration help needed
+155917|2025-10|39|0|0||6|integration erpnext with frappecrm
+155918|2025-10|31|0|1|custom_script|date-time|57|Get current time in server script
+155943|2025-10|60|0|0|erpnext|customization|frappe|developer|6|Highlight comment icon
+156014|2025-10|16|0|0|manufacturing|19|When ADD rate in item in BOM creator the rate disappear on save action?
+156023|2025-10|38|0|0|erpnext|11|How to hide specific role in custom html block?
+156032|2025-10|42|0|0|installation_problem|frappecloud|6|How to Enable the Domains of the ERPNext using FrappeCloud
+156101|2025-10|66|0|1|erpnext|customization|frappe|installation_problem|custom_script|6|Whatâ€™s the best architecture to manage multi-tenant frappe ERPNext setup with white-label support?
+156122|2025-10|36|0|0|erpnext|custom_script|sales-invoice|6|Issue with GL Entry Mismatch When Adding Subscription Plans in Sales Invoice
+156130|2025-10|70|1|0||7|Subcontracting Receipt submission error
+156151|2025-10|76|2|2|erpnext|11|How to set fixed valuation rate in Stock Entry purpose = Material Issue
+156170|2025-10|127|1|9|frappe|pos_point_of_sale|6|POSNext Update: Smarter Discounts, Flexible Payments & Intelligent Invoice Control
+156181|2025-10|74|0|0|erpnext|customization|custom_script|6|How to create client script to display pop up on every page
+156212|2025-10|27|0|0|erpnext|manufacturing|performance|6|Calender View Work Orders
+156248|2025-10|66|0|0||6|How to freeze columns in a report using erpnext/frappe?
+156272|2025-11|42|0|0|erpnext|6|Error: (1054, "Unknown column '' in 'SELECT'")
+156276|2025-11|53|1|0||9|how to use purchase receipt with zero valuation without affecting on valuation of goods in stock? 
+156280|2025-11|38|0|0||6|How to show a custom Page inside any custom or standard DocType?
+156286|2025-11|74|4|0|item|uom|9|Peculiar UOM issue
+156318|2025-11|39|0|1||6|Print format not changing in Point of Sale
+156319|2025-11|46|3|0|erpnext|6|I want to create lead via reply of my emails how can i do this
+156320|2025-11|28|0|0|customization|pos_point_of_sale|6|Is it possible to Integrate Razorpay Payments with POS in the Open point of sale for payments
+156321|2025-11|28|0|0|frappe-books|6|How connect ERPNext Sync with Frappe Books?
+156325|2025-11|26|0|0|erpnext|6|Item Attributes Importing from Excel Sheet
+156343|2025-11|50|0|0||11|Executing child-doc code
+156352|2025-11|75|2|1|pos_point_of_sale|pos|6|Item price is not listed on POS profile when Valid Upto field is set in Item Price
+156376|2025-11|68|0|0|bug|installation_problem|6|Energy Point Settings not found
+156377|2025-11|51|1|0|erpnext|import|6|Journal Entires Import to ERPNext From Quickbook
+156379|2025-11|21|0|0|frappe|6|How to automate content updates from external job-notification sites in a Frappe/ERPNext deployment?
+156382|2025-11|51|1|0|erpnext|6|Journal Entires import to ERPNext from Quickbook
+156383|2025-11|72|0|2|pos_point_of_sale|pos|saudi-arabia|6|KLiK POS -A modern ZATCA compliant POS for ERPNext
+156386|2025-11|33|0|0|erpnext|6|uom conversion factor logic
+156392|2025-11|71|2|1|installation_problem|54|After bench create new site not a nice landing page to see in Nginx
+156396|2025-11|55|0|0||11|No Permitted Charts
+156399|2025-11|19|0|0||6|Input and Out put Vat only 1 Item Tax template required or 2 template required?
+156404|2025-11|91|1|0|erpnext|6|Data Migration from Quickbook Desktop 23 to ERPNext
+156407|2025-11|82|3|0||6|Not getting edit option on desk sidebar
+156428|2025-11|64|0|0|erpnext|57|Can I update the basic ui of frappe next
+156452|2025-11|37|0|0|erpnext|6|Import File Error and Warnings
+156477|2025-11|749|3|22|erpnext|customization|frappe|crm|roadmap|6|Frappe CRM UI v/s Desk UI?
+156481|2025-11|127|1|1|projects|tasks|53|How Are You Handling PMO and Project Management Tools Within ERPNext?
+156489|2025-11|61|0|0|erpnext|frappecloud|6|Why is the project dimension not recorded in gl? As you see, it was on the child's table of PR
+156492|2025-11|40|0|0||7|Categorize by Voucher(Consolidated) general report total amount mismatch with closing entry
+156516|2025-11|41|2|0|installation_problem|11|After login is this the right start page and how to continue?
+156520|2025-11|41|0|0||6|ECS Fargate Deployment Issues with EFS on AWS
+156526|2025-11|29|0|0|erpnext|accounting|tax-withholding|6|Mid Year Go Live - TDS Autocalculation based on Thresholds
+156530|2025-11|97|1|2|erpnext|11|Transfer Asset Between Companies with Related Accounting Entries (Depreciation JEs, etc.)
+156582|2025-11|41|1|0|erpnext|salesinvoice|sales-invoice|8|Erpnext sales invoice discount calculation confussion
+156609|2025-11|21289|3|0|erpnext|customization|salesinvoice|6|Sales Invoice naming to match my old Dolibarr format YYYYMMDD - Facture - XXXXX
+156626|2025-11|93|5|0|bug|11|"Sales Invoice Posting Date Time cannot be before Delivery Note Posting Date" Error
+156639|2025-11|54|1|0||6|Help, some questions of the development version
+156646|2025-11|93|1|1|dashboard|6|How to hide this activity section only
+156654|2025-11|31|0|1|erpnext|6|Issue with Leave Encashment Calculation in ERPNext - Amount is not calculated despite "Allow Encashm
+156664|2025-11|26|0|0|erpnext|11|Decimal Difference in Input VAT Total vs. Item Total in Purchase Transactions
+156666|2025-11|57|1|1|erpnext|6|Handling Separate Landed Cost Voucher for Different Supplier in ERPNext
+156722|2025-11|78|1|0||6|Fix Issues with Modules: BUYING, SELLING, STOCK, CRM
+156725|2025-11|42|0|0||56|Quality Inspection Accepted and Rejected
+156737|2025-11|23|0|0||57|How to track employees owings indvidually from payroll entry
+156739|2025-11|38|0|0|erpnext|customization|frappe|bug|57|How to persist and display custom variable values inside a Dialog Table in Frappe?
+156742|2025-11|37|0|0|erpnext|accounting|7|How to do setup for accounting and payable to apply morocco compliance
+156761|2025-11|33|0|0||6|Remove heater and footer from print, but keep print page information
+156774|2025-11|92|4|0||6|Stock Ledger Invariant Check
+156822|2025-11|23|0|0|erpnext|9|UOM Mismatch Issue Between like Purchase PO and Receipt
+156824|2025-11|216|2|1|erpnext|6|Does ERPNext support einvoicing in UAE
+156826|2025-11|50|0|0||65|Ewaybill default print format shows error
+156827|2025-11|61|2|1|customization|9|Duplicate the Stock Entry form
+156829|2025-11|26|0|0|customization|stock|9|Issue with Custom Stock Balance Report â€“ Incorrect Qty After Stock Reconciliation
+156851|2025-11|42|1|0||40|Fees Payment Record outstanding not reducing
+156856|2025-11|54|0|0||19|ERPNext Manufacturing Hybrid/Flexible approach?
+156864|2025-11|48|0|0|erpnext|customization|6|Customer Setup and Advance Payment Handling for Insurance Patients in ERPNext
+156865|2025-11|226|2|1||57|Electronic Invoicing System
+156884|2025-11|83|3|3||57|Show only documents with certian field value
+156907|2025-11|167|3|6|erpnext|11|Question about Accounting Report in ERPNext
+156913|2025-11|74|1|0|customization|bug|integration|6|Partial Data Syncing in Biometric Integration Hikvision Device
+156921|2025-11|43|0|0|erpnext|bug|workflow|10|How to add a Closed state in Purchase Order Workflow
+156929|2025-11|90|2|0||6|Clean Hospitality Workflow
+156937|2025-11|23|0|0||6|Number format # ###,### is not listed. How can I add it to the list?
+156960|2025-11|320|0|1|erpnext|installation_problem|54|Need Help: How to Download and Test ERPNext 16-Beta in Docker Development Setup
+156962|2025-11|61|0|1|pos_point_of_sale|6|[HELP] How to Set Up a Cashier-Only User for POS in ERPNext?
+156973|2025-11|33|0|0|erpnext|6|Stock transfer child company
+156984|2025-11|23|0|0||9|Warehouse Error in Purchase Invoice when trying to Purchase a Fixed Asset
+156990|2025-11|183|5|2|erpnext|6|How to migrate data from Quickbook desktop to ERPNext
+156993|2025-11|84|0|0|erpnext|9|Warehouse layers
+157001|2025-11|63|0|1||7|Handling Bank fees for suppliers payment
+157003|2025-11|65|1|1|erpnext|customization|frappe|bug|6|Why you can't seem edit an Custom Field after you saved it?
+157008|2025-11|37|0|0|erpnext|integration|6|Plaid integration not creating bank accounts
+157009|2025-11|81|0|0|erpnext|customization|frappe|healthcare|6|Negative Quantity in Sales Invoice Not Allowed â€“ Any Alternative?
+157023|2025-11|43|0|1|erpnext|pos_point_of_sale|pos|57|ðŸ“Œ Should POSNext Include an Employee Performance Dashboard?
+157042|2025-11|59|1|0||26|Item Code and Item Name Combining in Reports
+157045|2025-11|98|2|0||6|How to copy a production site to a testing site?
+157048|2025-11|126|1|1|erpnext|frappe|6|Running ERPNext on a Raspberry Pi 4: Is It a Practical Approach?
+157052|2025-11|139|0|1|erpnext|frappe|11|Asking if how difficult it is to upgrade version from v15.45.4 to v-16?
+157079|2025-11|99|0|0|erpnext|frappe|11|Erpnext to Erpnext Sync
+157080|2025-11|56|0|0|customization|57|How to Export Selected Columns from Custom Script Report in ERPNext?
+157085|2025-11|21|0|0|frappe|6|How to show valuation rate in batch selector / any dynamic value in link selection
+157123|2025-11|41|0|0|erpnext|6|Why  ERPNext only support advance receipts and advance payments through Payment Entry?
+157154|2025-11|87|0|0|tax-withholding|7|Tax Withholding not working correctly
+157162|2025-11|54|0|0|erpnext|manufacturing|19|BOM Approach where item is completely dynamic
+157188|2025-11|41|0|0||9|Add Charges for 3rd party in Landed cost voucher 
+157196|2025-11|565|0|8|erpnext|6|ERPNext Production v16 OVA Download
+157216|2025-11|38|1|0|customization|report|doctype|10|Unable To See the Item Name in the RFQ page of the Supplier Portal
+157270|2025-11|56|0|0|customization|web|6|Change the Home Page for a custom Web Page
+157281|2025-11|51|0|0||6|How to add a number/currency format?
+157398|2025-11|88|0|0|erpnext|gst-india|7|GSTR-9 in ERPNext
+157405|2025-11|29|0|0||6|How to seperate transcations by Company
+157435|2025-11|71|1|0||6|create workspace on erpnext15
+157440|2025-11|67|1|0|erpnext|frappe|bug|installation_problem|custom_script|6|Vue Submodule Integration in Frappe App â€“ Assets Not Loading After Adding Submodule
+157452|2025-11|14|0|0||7|when i  do a material transfer from one warehouse to another one the rate of a item fetch incorrect 
+157458|2025-11|19|0|0||6|Can't create grouping in a list ERPNext15
+157472|2025-11|48|0|1|erpnext|customization|frappe|installation_problem|developer|6|Erpnext installation using linux docker
+157517|2025-12|170|0|0|erpnext|frappe|bug|custom_script|developer|6|ERPNext 16 Beta Installation Guide | Complete Step by Step Tutorial (Frappe + Ubuntu 22.04)
+157518|2025-12|110|1|0||6|V16 Cannot Fetch Values 
+157519|2025-12|30|0|0|erpnext|6|Item Variant Settings
+157546|2025-12|34|0|0|erpnext|bug|6|Payment Entry Issue while Submitting
+157548|2025-12|97|2|1|frappe|8|Advanced Customization in CRM/Lending apps with forward compatibility
+157576|2025-12|47|0|0||57|Help with script report in GUI
+157584|2025-12|33|0|0||40|Frappe Education doesn't Appear in Apps Screen
+157585|2025-12|174|0|1||6|V16 - UI Apps Flow
+157587|2025-12|43|0|0|erpnext|report|projects|discussion|53|What Is Your Setup for Dependencies, Resource Allocation, and Portfolio Reporting in ERPNext?
+157607|2025-12|54|0|0||6|Urgent: Sales Invoice Auto-Reverting to Draft - Need Assistance
+157608|2025-12|27|0|0||7|Sales Invoice GL posting reversal issue
+157617|2025-12|27|0|0|erpnext|customization|7|POS Invoice Not creating Accounting & Stock Ledger Entries
+157621|2025-12|50|1|4|erpnext|11|Stock Entry (Manufacture): Understanding How Total Outgoing Value Is Calculated
+157637|2025-12|71|0|0||6|What is the use of this Archived Folder?
+157644|2025-12|27|0|0||7|Exchange Rate Fetching Problem
+157653|2025-12|52|0|0|erpnext|customization|frappe|backup|6|Auto Backup with Cloud& G Drive
+157680|2025-12|42|0|0|erpnext|frappe|57|I want to make UI field according to image and that representation of field is not avaialble in sys
+157689|2025-12|194|0|2||6|ERPNext Windows App
+157703|2025-12|87|0|0||6|Updated to V15.91,so slowly
+157751|2025-12|40|0|0||6|Purchase Returns against Purchase Receipts
+157775|2025-12|99|2|1||6|Company is Mandatory error
+157807|2025-12|225|1|3|erpnext|postgres|6|PostgreSQL Compatibility for ERPNext: Meet frappe_pg
+157824|2025-12|14|0|0||6|I want to fetch customer's PO from sales order when creating delivery note from sales order
+157851|2025-12|22|0|0|erpnext|7|Automatic Depreciation Entry Does Not Inherit Branch from Asset
+157854|2025-12|90|0|7|erpnext|customization|custom_script|developer|print_format|19|How to create QR code and Barcode
+157888|2025-12|69|1|0|erpnext|7|How to change or extend financial year
+157903|2025-12|59|0|1|erpnext|email|6|Scheduler not processing Email Queue automatically (manual flush works)
+157928|2025-12|88|0|2|erpnext|frappe|6|Request: Add Full Multi-Language Support for Sidebar and Filters in ERPNext version 16
+157933|2025-12|62|2|2|erpnext|7|Authorization in Purchasing
+157961|2025-12|112|2|1|erpnext|6|Stock Settings "Allow Internal Transfers at Arm's Length Price"
+157986|2025-12|58|0|0||6|Non stock item stock entry
+158016|2025-12|107|0|4|erpnext|frappe|bug|6|ON ERPNEXT AM GETTING THE ERROR ON ANY frappe.get_all FUNCTION THAT USES sum or count function
+158047|2025-12|60|2|0|erpnext|accounting|7|A question about ERPNext Accounting entries 
+158056|2025-12|34|0|0|erpnext|bug|6|Issue with Awesome Bar Search Returning Broad Results Instead of Exact Match
+158076|2025-12|78|1|0|erpnext|accounting|quotation|7|Want To Create Separate Zone/Sections inside Quotation and enter Items Section Wise
+158104|2025-12|96|1|1|erpnext|6|What's the preferable setup?
+158107|2025-12|25|0|0||10|How to open default email app (Outlook) from PO?
+158113|2025-12|44|0|0|erpnext|custom-app|permissions|6|How to add a web page (URL) link on Desk for all users (not only Administrator)?
+158131|2025-12|21|0|0|notifications|frappecloud|6|Real-time notification at exact datetime for Datetime field on Frappe Cloud
+158133|2025-12|234|1|3|frappe|6|Frappe/ERPNext setup
+158134|2025-12|60|1|0||57|Child table columns not changing
+158140|2025-12|68|0|0||6|Frappe/ERPNext v15: 500 Internal Server Error After Installing HRMS, LMS, Education Apps
+158164|2025-12|18|0|0|erpnext|bug|55|Asset form leftover option bug throwing error during customization
+158168|2025-12|21|0|0|erpnext|customization|frappe|6|Client-side event after Pricing Rule applied?
+158169|2025-12|40|0|3||6|Built an hospitality app that integrates with erpnext
+158170|2025-12|203|1|1|erpnext|customization|6|[ERPNext 15] Hide Modules Globally
+158197|2025-12|63|1|1|customization|65|Can E-Way Bill functionality be implemented on a custom DocType?
+158202|2025-12|115|1|0|erpnext|docker|6|Reducing build time and Docker image size for ERPNext / Frappe v15 builds
+158203|2025-12|96|1|4|erpnext|6|Anyone know how to change the default page of desk
+158218|2025-12|57|1|0|erpnext|customization|40|Student import error
+158242|2025-12|70|0|0||6|ERPNext Email Delivery Service: This email was blocked as it was flagged as spam.
+158261|2025-12|65|0|0|erpnext|print_format|wkhtmltopdf|6|Installing Correct wkhtmltopdf for ERPNext v12
+158270|2025-12|156|0|0|erpnext|customization|frappe|developer|57|custom AI chatbot inside ERPNext
+158272|2025-12|41|0|0|erpnext|6|Item valuation rate change post the purchase done, stock updated and maybe partially/fully consumed.
+158280|2025-12|34|0|0|bug|error|manufacturing|stock-entry|19|100% process loss stock entry error
+158281|2025-12|15|0|0|custom_script|delivery-note|6|Generate some custom fields on Delivery note While Filling Items from Get Items
+158294|2025-12|84|2|7|erpnext|accounting|gst-india|65|Customer or Supplier with multiple GSTIN
+158330|2025-12|54|0|0||9|Bundle Item Sales Return for Batch and Serialize Items.Not reflecting in Stock Ledger/General Ledger
+158336|2025-12|65|0|0||19|Continuous Manufacturing Process
+158338|2025-12|91|0|1|erpnext|ecommerce|6|Can anybody share Ecommerce website build on erpnext
+158364|2025-12|37|0|0|erpnext|40|Manage Student Fee
+158366|2025-12|80|2|2|erpnext|65|Clarification on GSTR-3B Behavior for Purchase Invoices Based on Supplier Return Filing Status
+158404|2025-12|42|0|1|erpnext|7|You don't have permission to get a report on: Sales Invoice
+158405|2025-12|109|2|2||6|How can i hide modules of the side menu bar
+158411|2025-12|99|0|1|erpnext|customization|installation_problem|developer|57|How to install only selected modules (e.g. Accounting, Buying, Selling) in ERPNext?
+158438|2025-12|61|1|0||6|ERPNext site works on some networks but not accessible on others
+158441|2025-12|37|0|0|erpnext|depreciation|57|Guidance Required for Deploying ERPNext & Frappe Custom App to Server
+158453|2025-12|99|1|3||34|ERPNext POS in a physical store/kiosk together with a physical card/payment terminal at the checkout
+158469|2025-12|42|0|0||6|Data Deletion Still Error
+158475|2025-12|74|1|0||65|I am getting this error, even if the series and everything is correct
+158481|2025-12|167|1|0||6|Recommended server and configuration for 200+ concurrent ERPNext users
+158507|2025-12|53|0|1||57|Document Naming Settings manual entry possible?
+158512|2025-12|407|0|1||6|ERP v16 Clarifications
+158517|2025-12|172|1|0|frappe|6|V16 Desk keeps getting "corrupted"
+158523|2025-12|101|1|0|erpnext|dashboard|6|Dashboards, Roles
+158527|2025-12|195|0|1|erpnext|frappe|installation_problem|update_problem|6|Which version of python needed for ERPnext v16
+158533|2025-12|137|0|2||11|How does ERPNext handle multi-tenancy and data isolation in cloud deployments?
+158537|2025-12|100|1|1||6|Hire ERPNext developer in Chennai, TN, india
+158543|2026-01|87|2|1||6|Custom Docker Build Issues
+158550|2026-01|144|5|0|erpnext|57|How to create print format for query report
+158558|2026-01|75|0|0|erpnext|6|Reusing Coupon Codes
+158562|2026-01|68|2|2|erpnext|selling|6|How to sell items to customers as free samples
+158586|2026-01|36|0|0|erpnext|frappe|7|Some entries didnt reflacted in GSTR-3B report
+158617|2026-01|28|0|0||6|Display data on Listview
+158619|2026-01|33|0|0||6|Displaying data in a Listview?
+158655|2026-01|71|0|4|customization|pos_point_of_sale|57|POS Customisations for supermarkets
+158708|2026-01|21|0|0|erpnext|bug|user-interface|6|User Page Not Loading in Version 13
+158715|2026-01|57|4|4||6|Tax Withholding Category rate set to 10% but showing 0% in Purchase Invoice
+158746|2026-01|64|2|3|erpnext|customization|8|How to customize child table to render in html
+158747|2026-01|74|0|0||6|Hiring: ERPNext / Frappe UI Developer for Dashboard & Theme Polish (Paid Project â€“ â‚¹15k)
+158750|2026-01|66|0|0|erpnext|frappe|installation_problem|developer|6|Can ERPNext be installed on a shared hosting server without VPS?
+158758|2026-01|37|3|3|erpnext|frappe|bug|6|Airplane Mode â€“ Web View Page for Airplane Flight shows only name / throws website & condition_field
+158772|2026-01|34|0|0|erpnext|crm|6|Email List for CRM
+158777|2026-01|22|0|0|erpnext|customization|frappe|developer|6|How to override a function in transaction.js (erpnext/public/js/controllers/transaction.js)
+158779|2026-01|52|2|0|erpnext|frappe|6|HTML editor not saving image
+158792|2026-01|84|0|0|erpnext|customization|accounting|chart_of_accounts|7|How to skip default Chart of Accounts creation and import custom COA from Excel during ERPNext setup
+158796|2026-01|39|1|1|erpnext|6|Material Request Workflow Approval Conditioning
+158798|2026-01|141|1|0|erpnext|pos_point_of_sale|web|ecommerce|6|ERPNEXT (for restaurant with webshop)
+158800|2026-01|15|0|0||6|updating user permission settings
+158801|2026-01|15|0|0|erpnext|frappe|bug|6|show sign in when i want to start the video but i already signed in and enrolled
+158804|2026-01|22|0|0||6|Removing the reply to address in document emails
+158810|2026-01|63|1|0||6|Is it possible to create a Purchase Invoice from the Supplier Portal?
+158816|2026-01|112|1|1||6|Barcode implementation Manufacturing domain
+158821|2026-01|86|0|0||6|Workspace ERPNext v15
+158841|2026-01|44|0|0|customization|frappe|update_problem|shopify|6|Shopify Integration Settings Acceess Token/Api Secret
+158859|2026-01|28|0|0|erpnext|customization|frappe|developer|6|Looking for guidance on implementing secure user authentication in Django for ERPNext custom apps, i
+158862|2026-01|89|1|0|erpnext|installation_problem|54|Unable to Install Helpdesk on ERPNext v15 (vps) â€“ Frappe â‰¥16 Requirement
+158883|2026-01|48|1|0||6|While submitting the sales invoice I am getting below error
+158904|2026-01|67|0|0|erpnext|frappe|6|Hi, I'm Sandeep. New to Frappe Exploring how it goes 
+158943|2026-01|121|0|6|erpnext|pos_point_of_sale|pos|6|ðŸ“¢ New POSNext Feature: Customer Display Screen
+158947|2026-01|43|0|0|credit-note|7|Accounting Issue
+158951|2026-01|86|5|2|bug|8|Amended Sales Order Cannot Generate Pick List
+158968|2026-01|70|0|0|woocommerce|6|Woocommerce Integration Deprecated in Version 15
+158976|2026-01|125|0|0|erpnext|developer|57|ERPNext Customization for SME
+159000|2026-01|38|0|0|erpnext|6|Need help with ERPNEXT UGANDA COMPLIANCE EFRIS INTEGRATION 
+159006|2026-01|73|0|0|erpnext|6|Year Transition concerns from 2025 to 2026
+159010|2026-01|31|0|0|erpnext|11|UI Freeze issue in before_workflow_action event
+159012|2026-01|49|0|1|erpnext|customization|pos|6|Tax template set up in POS based on customer type
+159023|2026-01|27|0|0||40|Best Practice for Guardian (Parent) Portal in Education App?
+159055|2026-01|83|0|1|erpnext|6|ERPNEXT PROBLEM
+159081|2026-01|41|0|1||6|Lending available on V16 yet?
+159094|2026-01|32|0|0|erpnext|accounting|chart_of_accounts|6|Difference in General ledger and chart of accounts for a bank account
+159097|2026-01|44|0|0|erpnext|chart_of_accounts|7|Mismatch in Chart of Accounts and Ledger
+159119|2026-01|55|0|1||6|How can I enable iframe embedding?
+159133|2026-01|21|0|0|erpnext|customization|update_problem|57|Data Import does not connected
+159143|2026-01|29|1|1||6|Payment Entry title, party and party_name usage
+159166|2026-01|93|0|0|installation_problem|6|ERPNext Frappe 16 Installation Docker X K8 Helm
+159183|2026-01|57|0|1|erpnext|6|Should I use the containerized?
+159221|2026-01|51|0|2||54|POS SYSTEM in ERPNEXT
+159222|2026-01|12|0|0|script|6|Prevent Server Scripts from Running During Data Import - ERPNext v12
+159231|2026-01|128|0|1|customization|manufacturing|6|Looking for an ERPNext Developer (Python / Frappe)
+159235|2026-01|58|0|0||6|Bugs fixes across different versions
+159236|2026-01|125|0|4|erpnext|6|Navigation Optimization Suggestion for ERPNext v16
+159241|2026-01|59|0|0||6|ERPNext Domain Change
+159249|2026-01|212|1|2|erpnext|installation_problem|6|Can I deploy ERPNext v16 via easy-install?
+159265|2026-01|14|0|0||6|I am getting this problem after installed hrms.I have installed hrms 17 version
+159283|2026-01|205|3|2|customization|bug|6|Internal Server Error 500 on ERPNext v16
+159284|2026-01|20|0|0|bug|frappecloud|6|Unable to Register Site to Access Support
+159305|2026-01|48|0|0||6|I can't find a VAT report
+159335|2026-01|91|0|0||6|Nonprofit Use Cases v15 vs. v16
+159355|2026-01|215|0|1|erpnext|virtual_machine|6|Virtual Machines ERPNext Production v16.0.1 OVA [Debian 13 Trixie]
+159361|2026-01|66|3|0||6|How to override default functions of erpnext from custom app
+159392|2026-01|26|0|0|erpnext|installation_problem|6|Looking for Realâ€‘World Help: Running ERPNext on Docker Swarm
+159412|2026-01|90|2|1|erpnext|57|POSNEXT Language
+159413|2026-01|70|0|1||6|Need advice on docker
+159425|2026-01|60|3|0|erpnext|6|Asset Creation Bug Issue
+159427|2026-01|41|0|0|dashboard|6|Card to have a certine permission
+159470|2026-01|31|0|0|frappe|bug|6|ERPNext v16 contact or address cannot be linked to Supplier
+159479|2026-01|38|0|0||6|Change "Add Task" button target in CRM Lead doctype
+159494|2026-01|18|0|0||10|Link Purchase invoice , receipt  to PO 
+159503|2026-01|16|0|0||11|Updating of Frappe CLoud from DEVELOP
+159505|2026-01|22|0|0|erpnext|bug|update_problem|6|Company Logo Not Showing in Report Downloads After v14 to v15 Upgrade on Frappe Cloud
+159517|2026-01|23|0|0|erpnext|frappe|40|Student Applicant Workflow
+159547|2026-01|12|0|0||11|I am having troubl ein showing the Total Discount in Sales Invoice?
+159552|2026-01|16|0|0||8|ProblÃ¨me dâ€™ouverture du POS ERPNext cloud
+159576|2026-01|26|0|0||9|I applied a membership card discount, but the total discount is not appearing on the sales invoice ?
+159588|2026-01|92|0|0||6|How to add shortcuts to desktop/workspaceon on ERPNext v16?
+159589|2026-01|29|0|0|customization|6|Employee Checkin using barcodes
+159595|2026-01|16|0|0||6|Purchase invoice total price not updated
+159613|2026-01|59|3|2|print_format|6|Reduce line spacing in print format
+159614|2026-01|140|0|0|erpnext|8|Construction Management for ERPNext â€“ BOQ, Site Reports & Subcontractor Workflow
+159616|2026-01|20|0|0|erpnext|6|Queries Related to Reports and GST Handling in ERPNext Implementation
+159619|2026-01|35|1|0|workflow|6|Apply two diff workflow together in the same doctype
+159631|2026-01|27|0|0|erpnext|customization|quotation|6|How to add manual string on Quotation Item under Quotation screen
+159648|2026-01|18|0|0|erpnext|frappe|11|Stock Balance Report: get_closing_balance method problem with query builder
+159658|2026-01|27|1|0|erpnext|6|Image not showing up
+159666|2026-01|34|0|0|erpnext|bug|6|Issues with erpnext LMS
+159702|2026-01|55|1|1|erpnext|error|6|Not Permitted. Log in to access this page. When user has already logined.
+159713|2026-01|35|0|0||6|Image view bulk select
+159720|2026-01|36|0|0||60|Standard HL7 in help care
+159728|2026-01|20|0|0|erpnext|frappe|6|When I Click Duplicate button it not created and accessed in Version 16 ERPNEXT
+159730|2026-01|79|1|0||7|Accounts Receivable Report
+159735|2026-01|30|0|0||6|Change select options field based on another select field
+159749|2026-01|141|0|2||40|Education App on Frappe version 16
+159782|2026-01|27|0|0||6|Barcode label printing on TSCTTP 244 Pro
+159783|2026-01|62|1|0|erpnext|54|cant access my site nor the frappe cloud support 
+159784|2026-01|65|1|1|bug|manufacturing|6|BOM Item Name not fetched with Item Code
+159832|2026-01|25|0|0|erpnext|6|Enable Email Reply to Be Added as Comment in Document
+159862|2026-01|34|0|0|erpnext|customization|57|How to add Rate & Amount fields to Material Request and carry them to Purchase Order?
+159864|2026-01|121|0|0||6|Version 21-ERPNEXT Features Inspiration
+159870|2026-01|174|0|4||6|ERPNext/Frappe Roadmap?
+159889|2026-01|51|0|1|notifications|6|Remind Me (shift+R)
+159891|2026-01|19|0|0|customization|6|Exchange Rate revaluation on Group cost center basis
+159897|2026-01|18|0|0|customization|bug|frappe-erpnext|frappecloud|57|Calculate_taxes_and_totals override not working in background jobs on Frappe Cloud
+159914|2026-01|62|0|0|erpnext|6|Error generating pdf quotation erpnext v16.1.0
+159920|2026-01|21|0|0||8|Ho to add webhook in frappe crm
+159944|2026-01|189|4|2|erpnext|frappe|chat|chatgpt|6|Need advice to use existing AI chatbot assistants on erpnext v16
+159953|2026-01|24|0|0|erpnext|bug|8|Sales Partners Commission calculation improvement
+159954|2026-01|15|2|0|erpnext|customization|frappe|update_problem|6|pymysql.err.OperationalError: (1292, "Truncated incorrect DECIMAL value: 'PHP'")
+159955|2026-01|27|0|0|erpnext|manufacturing|19|Fractional qty consumption of Raw material to create finished good
+159959|2026-01|68|0|2|erpnext|7|Handling 25,000+ Journal Entries per Day in ERPNext (Without Sales Invoices) â€“ Is ERPNext Suitable?
+159975|2026-01|111|2|4|erpnext|frappe|6|ERPNext v16.3 â€“ Fix Update Items in Sales Order
+159993|2026-01|145|0|0||6|ERPNEXT V16 not stable version pls do not go live the major when there is bug on the core app
+160002|2026-01|34|0|0|erpnext|email|notifications|subscription|6|Subscription E-Mail wrong language ERPNext v15
+160022|2026-01|21|0|0||10|Is there a way to create a PO from a MREQ for transfer if item is short in inventory?
+160023|2026-01|22|0|0|jinja|6|No Jinja Variables renders in the print preview or PDF output for any Contract Template
+160033|2026-01|44|0|0|erpnext|customization|print_format|6|QR Code inside table row in print_designer
+160050|2026-01|75|2|2|erpnext|6|Need help to change system interface language
+160053|2026-01|32|0|0||6|I want to delete all the thumbnail images from item master
+160060|2026-01|49|0|0|erpnext|customization|frappe|crm|6|Change currency frappe crm
+160084|2026-01|280|3|5||6|Reminder: ERPNext v14 has reached end of life
+160105|2026-02|90|2|1||6|ERPNext Screen Size Configuration
+160107|2026-02|17|0|0|erpnext|8|Use of sluggable URL in Contacts, Projects, CRM
+160111|2026-02|118|2|1|customization|6|Budget ERPNext v16 ( can be convert to v15 Budget )
+160127|2026-02|141|6|0|erpnext|gst-india|65|Single company with Multiple GSTIN setup
+160167|2026-02|49|1|2||55|How to change cost center in moving assets?
+160168|2026-02|107|8|1|erpnext|6|Multitenant all sites using same databas
+160199|2026-02|48|0|0||6|V16 purchase order can't have decimal value
+160204|2026-02|23|0|0||6|Monthly Budget validation shows warning/stop on Cancel instead of on Create
+160207|2026-02|17|0|0||6|Changes not reflected after deployment from Frappe Cloud
+160211|2026-02|59|1|1|erpnext|9|Disable Warehouse
+160230|2026-02|26|0|0|customization|40|Unable to get student
+160235|2026-02|79|0|0|erpnext|frappe|update_problem|developer|email|60|The Complete, Professional Guide to Upgrading Frappe to Version 16
+160251|2026-02|104|0|2||6|ERPNext 16 app navigation
+160276|2026-02|59|0|1|erpnext|customization|accounting|chart_of_accounts|7|Best practice for handling Cost Centers in relation to the Chart of Accounts
+160277|2026-02|82|0|2|erpnext|customization|6|Does ERPNext include an eOrdering system for customers?
+160306|2026-02|41|0|0|erpnext|7|Why does the supplier quotation accept a rate of zero?
+160326|2026-02|69|0|0|erpnext|customization|pos-awesome|6|POS Awesome on ERPNext v16: White Screen Issue with @vue/compat
+160340|2026-02|20|0|0||6|Opportunity â†’ Quotation custom field mapping (editable after creation?)
+160358|2026-02|29|0|0||6|Translation at Accounting
+160359|2026-02|25|0|0||11|Searching for Auto Attendance
+160371|2026-02|69|0|0|erpnext|customization|installation_problem|update_problem|57|Help Installing Frappe HR v16
+160385|2026-02|58|1|0|bug|11|How to fix image pos on Erpnext 16
+160388|2026-02|60|0|2|erpnext|7|Business Expense vs Purchase Invoice
+160405|2026-02|125|1|1||6|How to build v16 docker image
+160418|2026-02|30|0|0|erpnext|customization|frappe|pricing-rule|pricing|6|How to skip pricing rule for one item in a Sales Invoice?
+160451|2026-02|23|1|0|import|export|returns|einvoicing|65|Einvoive and EWB for Export Return not handled correctly
+160459|2026-02|13|0|0|bug|fixed-assets|55|Incorrect Asset Depreciation Ledger Report
+160463|2026-02|9|0|0||6|LetterHead Overlapp issue
+160473|2026-02|13|0|0||6|[ERPNext-shipping] Question about integration with Fedex, UPS
+160476|2026-02|22|0|0|erpnext|bug|8|How To Calaculate tax from Sales Taxes and Charges Template when doing bulk import
+160500|2026-02|20|0|0|bug|6|Cashier on POS profile not possible to Open POS
+160511|2026-02|11|0|0||6|Custom Payroll Month Cycle (26thâ€“25th) in ERPNext Query Reports â€“ Best Practices?
+160527|2026-02|17|0|1||10|Overdeliver from Purchase Order but not overbill from Purchase Receipt
+160529|2026-02|40|0|0|erpnext|frappe|update_problem|6|Frappe, ERPNext, HRMS version upgrade advise
+160536|2026-02|57|3|0|erpnext|bug|6|Bug with Account
+160552|2026-02|38|0|0||6|Item with Zero Quantity Issue
+160564|2026-02|12|0|0|erpnext|installation_problem|11|Problem Self Hosted Mercury email server IMAP not able to login
+160571|2026-02|17|0|1|customization|11|RUT Chileno - Custom Field
+160575|2026-02|26|0|0|erpnext|credit-note|7|Best way to record vendor promo rebates (per unit sold) and reduce COGS in the same period
+160585|2026-02|88|1|2|manufacturing|57|Best practices for Multi-Company ERPNext Setup in Garment
+160621|2026-02|43|0|0|erpnext|gst-india|65|Bill of Entry IGST on Import = (Assessable Value + BCD + SWS) Ã— 18%
+160628|2026-02|22|0|0|erpnext|6|How to disable Warehouse in stock/inventory?
+160632|2026-02|18|0|0||6|Server error when downloading PDF in ERPNext
+160645|2026-02|41|1|0|erpnext|6|Data Missing / Loss
+160675|2026-02|20|0|0||7|Issue with General Ledger Display After Payment Entries
+160677|2026-02|34|0|1||6|How to hide framework menu?
+160703|2026-02|30|0|0||6|Bulk Close To Bill Purchase Receipts without Invoicing
+160726|2026-02|23|0|0|erpnext|customization|frappe|update_problem|40|Unable to take attendance using Student Attendance Tool
+160752|2026-02|41|0|0||6|Custom html block and pin to sidebar in erpnext v16
+160755|2026-02|90|0|0||7|New to erpnext from Miracle accounting
+160760|2026-02|48|0|0||6|DTC brands India
+160784|2026-02|57|0|2|customization|6|Erpnext Meet: Jitsi Meet integration for Erpnext
+160789|2026-02|40|0|0|erpnext|customization|7|SAF-T PT Compliance for Portugal
+160799|2026-02|41|0|1||6|UAE E-Invoicing (FTA / PEPPOL) Integration with ERPNext â€“ Any Existing App or Implementation Guide?
+160811|2026-02|23|0|0|erpnext|55|Handling Asset Capitalization for Composite Assets (Assembly & Disassembly)
+160812|2026-02|45|0|0||6|Frappe is not opening in vs code
+160847|2026-02|49|3|4|erpnext|sales-order|6|How to filter sales orders with mulitiple invoices?
+160859|2026-02|78|0|0|erpnext|frappe|accounting|integration|chart_of_accounts|7|Tally Integration in ERPNext
+160869|2026-02|32|0|0|erpnext|frappe|bug|6|The Global Search for a Field Not Working in Version 16
+160875|2026-02|14|0|0||6|Return Landed cost
+160879|2026-02|56|1|1|customization|57|I want to display the new workspace for new user
+160889|2026-02|24|0|0||6|Events not appearing in calendar view
+160890|2026-02|15|0|0|erpnext|frappe|55|How to create an asset having no life but having the Residual Value
+160897|2026-02|55|0|0|erpnext|frappe|6|How to remove search bar in Desktop?
+160902|2026-02|39|0|1|erpnext|6|Restrict User to Only Quotation Doctype & Redirect to Quotation Desk (ERPNext v16)
+160906|2026-02|49|0|0|erpnext|customization|6|erpnext 16 remove the ability to edit the sidebar
+160914|2026-02|16|0|0|erpnext|customization|6|Why failed RQ Jobs and I also cannot import data through excel sheet. Please suggest How can I fix
+160929|2026-02|25|0|0|erpnext|customization|frappe|bug|developer|6|Payment Entry has been modified after you pulled it Issue on Development
+160936|2026-02|43|1|0|erpnext|6|erpnext 16 company deleting transaction tool delete chart of accounts and warehouses
+160967|2026-02|19|0|0||8|Newsletter has its own Repo
+160978|2026-02|30|0|0||57|erpnext desktop/moblie easy icons
+161016|2026-02|19|0|0||11|Creating Twilio Account
+161018|2026-02|26|0|0||6|Add field to Method of Payment in POS
+161021|2026-02|32|0|0|erpnext|bug|6|Default warehouse selection even though no warehouse is set in stock settings or item master
+161031|2026-02|30|0|1||6|Bench Not getting start
+161033|2026-02|29|0|0|erpnext|custom-app|6|Update after Submit
+161050|2026-02|15|0|0||6|Remove "Leave this conversation to stop receiving emails of this type "
+161055|2026-02|69|0|1|erpnext|customization|docker|asset|57|Deep UI Customization After Docker Asset Conflicts â€“ Architectural Clarification Needed
+161059|2026-02|35|0|0|erpnext|frappe|leave_application|6|How to manually adjust leave balance?
+161070|2026-02|48|2|0|erpnext|6|Bulk Update issue
+161085|2026-02|25|0|0|erpnext|accounting|vat|7|SyntaxError - JSON.parse - unexpected character at line 1 column 1 of the JSON data
+161089|2026-02|18|0|1|customization|report|script|chart|6|Making a Custom Script Report with graphs (Not with chart object, with html css js)
+161129|2026-02|137|2|2|erpnext|customization|bug|6|Portal is Broken
+161135|2026-02|20|0|0|erpnext|frappe|6|Account Balance is showing zero balance in payment entry (Internal Transfer)
+161136|2026-02|11|0|0||7|Accounts Receivables not showing data
+161137|2026-02|24|0|0||9|ERPNext for Restaurant Question. BOMs v Bundles
+161150|2026-02|9|0|0|erpnext|customization|frappe|57|Different naming series conventions for draft and submission modes
+161151|2026-02|28|0|0|erpnext|gst-india|65|Social Welfare Surcharge on Bill of Entry - Issue in Calculation and Impact on IGST
+161153|2026-02|66|4|0|frappe|bug|accounting|6|Version 16 - Report Gross Profit - Error in fetching the Valuation of Service Items
+161158|2026-02|28|0|0||9|Cancel then Delete a Stock Entry results in error
+161161|2026-02|24|0|0||7|Allocation of single line item to multiple accounts
+161174|2026-02|76|1|0|customization|frappe|11|Print Designer from Mararshi Patel
+161176|2026-02|81|0|0|customization|frappe|6|Version 16 Customization
+161178|2026-02|63|0|0||40|Version V16 - In Education Workspace - Doctypes appearing 2 times - doubled / duplicated
+161192|2026-02|22|0|0|erpnext|40|Having problem While Fee Schedule
+161204|2026-02|100|0|1|documentation|6|Is the documentation v16 is full?
+161213|2026-03|25|0|0|erpnext|6|Any Canadian users using ERPNEXT for GST Returns in Canada
+161216|2026-03|26|0|0||7|How to Record Purchase Price Difference (No Stock Change) with GST?
+161218|2026-03|28|0|0||6|Request for Marketplace Apps to provide more details
+161225|2026-03|27|1|2|frappe|bug|11|Found a bug using frappe.db.get_list in Client Side (Frappe v15.100.1)
+161240|2026-03|55|0|0|erpnext|customization|6|Handling Customer-Owned Assets for Maintenance Without Accounting Impact
+161245|2026-03|58|0|0|erpnext|6|Does anyone have any experience implementing ERPNext for the jute manufacturing industry?
+161247|2026-03|36|0|0||7|Budget and Accounting Dimension
+161277|2026-03|22|1|0|erpnext|19|FG Item & Rejection Item Single Entry Issue in Manufacture entry
+161284|2026-03|40|0|0|erpnext|gst-india|gst|65|ISD Configuration in ERPNext
+161288|2026-03|21|0|0||7|Journal Entry Custom Voucher Type
+161302|2026-03|34|0|0|print_format|6|Print format selector/dropdown
+161307|2026-03|44|1|0|erpnext|6|Random Margin & Discount in Purchase Receipt & Invoice
+161322|2026-03|95|0|0||6|Editing Home Screen and Sidebar
+161328|2026-03|21|0|1||6|Backup failing â€“ __global_search table marked as crashed and site is not woking
+161344|2026-03|60|1|0|gst-india|6|Cannot cancel the sales invoice
+161346|2026-03|16|0|1|erpnext|gst-india|6|GST on P&F/Freight/Insurance charges with e-Invoice and e-Waybill integration
+161349|2026-03|53|0|0|item|item-variation|implementation|6|Variant by manufacturer vs separate items?
+161371|2026-03|17|0|0||11|Expanded range of platforms for Frappe Cloud
+161373|2026-03|38|0|0|erpnext|6|When creaing a new product, the category is not searchable
+161380|2026-03|16|0|0||11|Connecting Multiple Shopify Stores to a Single ERPNext Instance
+161385|2026-03|13|0|0|customization|frappe|custom_script|6|How to Disable or Remove Charts from Financial Statement Reports in ERPNext v15
+161388|2026-03|18|0|0||55|How to adjust the asset life for a submitted one?
+161389|2026-03|11|0|0||55|Can we modify the Opening Accumulated Depreciation for an existing Asset?
+161394|2026-03|20|0|0||6|Erpnext sales invoice printing based on naming series
+161396|2026-03|32|0|0|erpnext|frappe|stock|batch|serial|6|Backward and Forward Traceability Report in ERPNext v16
+161409|2026-03|37|0|1|manufacturing|6|Adding operations to BOM creator
+161411|2026-03|24|0|0|erpnext|6|Error when Edit Layout on desktop
+161414|2026-03|17|0|0|frappe|6|Budget Not Throwing Error when monthly limit exceeds
+161431|2026-03|37|0|0|erpnext|customization|custom_script|stock|9|Advice Needed: Building a 3PL Warehouse in ERPNext v15 â€“ Use Existing Modules or Build a Custom App?
+161437|2026-03|47|2|0|bug|pos_point_of_sale|salesinvoice|sales-invoice|8|Item Tax Template Issue: Taxes from Multiple Templates Applied to All Items in Sales/POS Invoice
+161442|2026-03|91|1|4|erpnext|user-interface|6|Relation between Doctypes, Workspace Sidebars and Modules
+161444|2026-03|17|0|0|email|workflow|6| Issue with Send Email Alert in ERPNext Workflow
+161453|2026-03|31|0|0|erpnext|stock|stock-entry|6|How to correct valuation issues caused by old incorrect Repack Stock Entries in bulk?
+161456|2026-03|16|0|1|supplier|contact|6|Deleting or archiving Supplier Contacts
+161485|2026-03|39|0|0|erpnext|bug|6|I changed the language but it's not showing up. I've already pressed save.
+161500|2026-03|30|0|1|erpnext|65|Clarification Required â€“ GST Handling for Out-of-State Hotel/Service Bills (CGST+SGST vs IGST)
+161505|2026-03|44|1|0||6|Workspace errror
+161508|2026-03|22|0|0||7|Proposal: Sub Root Type in Accounts for Improved Financial Data Classification and Grouping
+161516|2026-03|13|0|0|erpnext|itemprice|pricelist|8|Building a Secondary Claim / Ship-and-Debit / Chargeback Workflow in ERPNext
+161529|2026-03|22|0|0|files|6|Private/files folder filling with .json.gz files
+161530|2026-03|15|0|0|report|permissions|6|Accounts receivable report blank ver 15
+161534|2026-03|22|0|0|erpnext|customization|frappe|report|frappe-erpnext|6|Direct PO Creation from SQ Comparison Report, A Small Customization, Big Impact
+161539|2026-03|96|1|2|customization|bug|update_problem|6|Desktop Customization Icon and System Console is no longer available
+161543|2026-03|16|0|0|erpnext|notifications|6|Help needed in setting up Notifications for Sales Invoice
+161545|2026-03|29|1|1||65|Create EWay for Stock Entry with Stock entry type as Material Transfer
+161548|2026-03|21|0|2||6|Complex Shift Handling, Double Shift Attendance, and Comp-Off Calculation in ERPNext HRMS
+161555|2026-03|26|0|0||65|Input Service Distributor - Anyone Implemented ? Working on It?
+161559|2026-03|30|0|0||6|Naming Series for Item Code Possible?
+161560|2026-03|18|0|0||6|Help Understanding Document Naming Series
+161561|2026-03|19|1|0|gst|6|Adding CESS % to GST rates in ERPNext
+161566|2026-03|37|0|4|erpnext|customization|report|accounting|newfeature|6|Backport IFRS Report Template Support to ERPNext Version 15
+161582|2026-03|26|0|0|selling|6|Enable tracking sales commissions
+161596|2026-03|29|0|0||7|How to distinguish original vs reversal GL Entries after Stock Entry cancellation?
+161602|2026-03|32|0|0||6|Sales Taxes and Charges Template
+161614|2026-03|16|0|0|erpnext|65|ISD (Input Service Distributor)
+161616|2026-03|46|0|0||19|Production Plan Enhancement Requirements
+161622|2026-03|11|0|0|bug|6|Is Ineligible for Input Tax Credit
+161624|2026-03|32|0|0|erpnext|frappe|integration|crm|feature|6|Facebook Leads auto-syncing into ERPNext CRM â€” this feature is a game changer
+161633|2026-03|31|4|1|erpnext|9|Getting document already modified error on importing, after upgrade to erpnext 15.101.3
+161640|2026-03|16|3|0|customization|custom_field|6|Customisation Form not loading data
+161655|2026-03|18|0|0|report|6|Not Able Generate any reports
+161668|2026-03|27|0|0||6|Helpdesk with Timer (V16)
+161681|2026-03|8|0|0|hr|6|Getting Negative Amount in Salary Slip Payment Days
+161684|2026-03|46|0|0|frappe|6|ERPNext v15 is becoming very difficult to install
+161686|2026-03|21|0|0|erpnext|installation_problem|11|Cannot login to the application
+161691|2026-03|10|0|0|erpnext|9|How Allow a user to create Quality Inspection only from Purchase Receipt
+161698|2026-03|5|0|0||57|Frappe Erpnext Custom Print Invoice HTML
+161699|2026-03|3|0|0||6|Sending emails - auto send invoices
+73166|2021-03|972|0|0||7|Mandatory audit trail for companies in India
+73186|2021-03|549|1|0||10|Default Purchase UOM per Supplier
+73191|2021-03|510|0|0||6|How do I select the Item Default Warehouse during Item creation? (v13beta-production)
+73844|2021-04|537|0|0||6|Auto Create Sales Invoice Submited where Submit Delivery Note
+74329|2021-04|668|2|1|erpnext|7|Help Please: The trial balance doesn't reflect the same value in the general ledger accounts
+75140|2021-05|5828|13|5||6|How to set filter for the link field in web form?
+75880|2021-05|1316|0|4|erpnext|34|3cx support module
+77748|2021-07|2222|5|1||6|Facturacion mexico cfdi erpnext
+78581|2021-07|2210|5|3||6|Partial Invoice
+79905|2021-09|503|1|0||6|Table / Text Editor headers in PDF and print
+80398|2021-09|1248|3|9||6|Attach field type - Allowed file extensions
+81324|2021-10|2506|4|23||6|[New Feature Proposal] doc other than doctype wise default print format based on condition
+81699|2021-10|2355|11|8||65|E-way bill for Sub-contract
+81905|2021-11|519|2|0||6|Read-Only Standard Filter
+83459|2021-12|480|1|0||6|Customization Question - Adding a Shortcut for Communication
+83499|2021-12|4789|9|3|account|6|Account migration from Tally to ERPNext V13
+85241|2022-01|484|0|0|customization|6|Customize html layout
+85760|2022-02|613|0|1|customization|57|How to get data for a field from another doctype?
+88275|2022-04|638|0|1||6|Display Sidebar Menu
+88719|2022-04|400|0|2|bug|6|System Manager Unable to See Private Events Created by Users
+88840|2022-04|3129|2|2|customization|11|How to force a field to be hidden
+89045|2022-04|687|7|3|erpnext|57|Dutch Developers
+91015|2022-06|1766|5|7|erpnext|7|Managing Company Shareholders
+91635|2022-07|614|0|0||19|How to partially reject items in Production at Work Order level?
+93262|2022-08|1551|1|6|erpnext|customization|custom_script|57|How to save a Doc from Client Script?
+94261|2022-09|3073|6|1|customization|frappe|57|[SOLVED] How do you assign a value to table multi-select in the client script?
+94627|2022-09|423|2|0||26|Exclude Service Items from Gross Profit Calculation
+94823|2022-09|1916|1|1||57|Uncaught TypeError: frappe.ui.form.make_control is not a function
+95338|2022-09|2589|4|10|erpnext|frappe|6|Login with Mobile and otp code
+95447|2022-10|1870|3|6||40|LMS v Education Module - Differences?
+95714|2022-10|1356|1|6||34|ERPNext + ONDC Integration?
+95772|2022-10|1134|1|1||7|Having an issue with fetching currency exchange rates when entering old sales orders/invoices
+96452|2022-10|3185|9|13|erpnext|virtual_machine|6|Ready to use Virtual Machine preconfigured Frappe/ERPNext all its dependencies
+96603|2022-10|3146|6|1||6|Zebra Printers - Setting Up On Local Network and Continuous Label Printing
+97470|2022-11|377|2|1|erpnext|customization|frappe|6|How I can handle a huge number of request using ERPnext as Backend
+99227|2023-01|1793|1|3|crm|6|Social Media Posts
+99395|2023-01|469|5|3||65|Multiple Items with multiple tax rates in one purchase / sales invoice?
+99627|2023-01|2360|12|6||6|Child table value Duplication
+99728|2023-01|361|0|1|crm|6|Restrict Users to view only leads that are Assigned to them in list view
