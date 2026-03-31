@@ -554,4 +554,180 @@ Across all 38 personas, four opportunities create genuinely compounding assets:
 
 ---
 
-*Generated from 38 independent persona analyses of 1,742 Frappe Forum topics. Cross-referenced against `research-personas/synthesis.md`.*
+## Non-English Market Opportunity Analysis
+
+**Research:** 8 regional market research streams covering India, MENA, Brazil, China, Germany/DACH, Africa, Southeast Asia, and Latin America.
+**Corpus expansion:** 0 new forum topics (primary research from Telegram communities, GitHub, and web search).
+**New personas added:** 8 regional personas (see `research-personas/`).
+
+---
+
+### Market Opportunity Map (Global)
+
+| Region | Market | ERPNext Readiness | Top Opportunity | Confidence | Solo-Viable? |
+|--------|--------|------------------|-----------------|-----------|-------------|
+| **India** | ~10M Tally users | 3/10 | Tally→ERPNext Toolkit | 10/10 | PARTIAL |
+| **India** | Multi-state cos | 4/10 | Multi-GSTIN Accounting | 9/10 | PARTIAL |
+| **Brazil** | 215M people | 3/10 | NF-e Emission Module | 10/10 | NO |
+| **Germany** | 3.5M+ businesses | 3/10 | DATEV Bridge/Export | 9/10 | YES |
+| **Saudi Arabia** | All businesses | 1/10 | ZATCA Phase 2/3 E-Invoicing | 10/10 | PARTIAL |
+| **MENA** | Arabic businesses | 4/10 | Arabic RTL Print Studio | 8/10 | YES |
+| **Nigeria** | All businesses | 0/10 | FIRS E-Invoicing | 10/10 | NO |
+| **China** | Foreign subs | 1/10 | Chinese Cloud Deploy Toolkit | 8/10 | YES |
+| **Mexico** | All businesses | 0/10 | CFDI Emission Module | 10/10 | NO |
+| **South Africa** | All businesses | 5/10 | SARS VAT Enhancement | 7/10 | PARTIAL |
+| **Indonesia** | All businesses | 4/10 | E-Faktur Integration | 7/10 | PARTIAL |
+| **Malaysia** | All businesses | 2/10 | LHDN E-Invoicing Prep | 8/10 | PARTIAL |
+| **France** | All businesses | 4/10 | France Compliance Pack | 7/10 | PARTIAL |
+| **Vietnam** | All businesses | 1/10 | Vietnamese E-Invoice | 7/10 | PARTIAL |
+
+---
+
+### Priority 1: Non-English Opportunities (Ranked)
+
+**T1-NE-01: E-Invoicing for Government Mandates (Global)**
+**Confidence: 10/10** | **Solo-founder viable: NO** | **Partner model required**
+
+Every country is mandating e-invoicing. ERPNext has zero e-invoice support for most markets.
+
+| Country | Mandate Status | ERPNext Ready? | First Mover |
+|---------|---------------|----------------|------------|
+| Nigeria (FIRS) | PAST (Aug 2025) | NO | Nobody |
+| Saudi Arabia (ZATCA) | ACTIVE (Jul 2025) | NO | Nobody |
+| Mexico (CFDI) | ACTIVE | NO | Nobody |
+| Belgium (PEPPOL) | Jan 2026 | NO | Prilk Consulting (partial) |
+| Morocco (DGCCIQ) | ACTIVE | NO | Nobody |
+| Kenya (KRA) | UPCOMING | NO | Nobody |
+| Brazil (NF-e emit) | ACTIVE | NO | Nobody |
+| India (e-invoice) | ACTIVE | PARTIAL | Resilient Tech |
+
+**Build approach:** Partner with local compliance expert per country. They handle regulatory knowledge; you handle ERPNext integration. 50/50 revenue split or module licensing.
+
+---
+
+**T1-NE-02: Tally → ERPNext Migration Toolkit**
+**Confidence: 10/10** | **Solo-founder viable: PARTIAL** | **India focus**
+
+Tally dominates India (~10M users). Built-in migrator broken since v13/v15. Zero working solutions exist.
+
+- Topic 83499: 4,789 views (highest engagement migration topic in entire corpus)
+- `express_tally` (GitHub): unmaintained since 2022
+- Pricing: $500-3,000 per migration + toolkit licensing
+
+---
+
+**T1-NE-03: DATEV Bridge for Germany**
+**Confidence: 9/10** | **Solo-founder viable: YES**
+
+7+ years of community demand, still unsolved. Germany: 3.5M+ businesses, ERPNext: <500 users.
+
+- 127 replies on "DATEV-kompatibel" thread (21,745 views)
+- SKR04/SKR03 JSON exists but incomplete
+- Approach: Build CSV/XML export that German tax advisors can import. Don't replace DATEV — integrate with it.
+- Pricing: €99-299/month SaaS. €999-2,999 one-time + €29/month.
+
+---
+
+**T1-NE-04: NF-e Emission for Brazil**
+**Confidence: 10/10** | **Solo-founder viable: NO** | **Monopoly opportunity**
+
+ERPNext cannot legally issue invoices in Brazil without NF-e emission. Hard blocker for entire Brazilian market. Nobody has built it.
+
+- Intelligence8 and TechMax building NF-e receive-only. Zero emit solutions.
+- Estimated 3-6 months for experienced developer.
+- Pricing: R$500-2,000/month SaaS. R$15,000-50,000 one-time.
+
+---
+
+**T1-NE-05: Arabic RTL Print Studio**
+**Confidence: 8/10** | **Solo-founder viable: YES**
+
+Arabic businesses need RTL print formats that actually work. ERPNext's Arabic translation is partial; RTL print is nearly nonexistent.
+
+- 12+ Arabic Telegram channels (466 members on main channel)
+- Saudi ZATCA Phase 2/3 active — Fatoora QR code must appear on invoices
+- Pricing: $29-99 per template pack. $500-2,000 for full Arabic print suite.
+
+---
+
+### Priority 2: Regional Opportunities
+
+**India Multi-GSTIN Solution** — Multi-state companies need separate GST registrations per state. ERPNext doesn't support state-wise tax ledgers natively. Topic 160127 active Feb-March 2026. Confidence: 9/10.
+
+**GoBD Compliance Suite (Germany)** — German businesses need document locking (Unveränderlichkeit), tamper-proof audit trails, and cryptographic integrity verification. ERPNext violates GoBD by allowing edits to submitted documents. Confidence: 8/10.
+
+**Brazilian Tax Calculation Engine** — ERPNext cannot compute ICMS, PIS, COFINS, IPI, or ISS. TechMax's `motor_tributario_py` exists but isn't integrated. Confidence: 9/10.
+
+**Chinese Cloud Deployment Toolkit** — ERPNext hard to deploy on Alibaba Cloud/Tencent Cloud. One-click deployment toolkit is solo-viable. Confidence: 8/10.
+
+**OHADA Accounting (Francophone Africa)** — 17 countries use OHADA accounting standards. ZERO ERPNext OHADA implementations exist. Build once, deploy across Francophone Africa. Confidence: 7/10.
+
+**Malaysia LHDN E-Invoicing Prep** — Malaysia's LHDN MyInvois e-invoicing mandate approaching. ERPNext needs LHDN API integration. Confidence: 8/10.
+
+**Mexico CFDI 4.0** — Mexican companies cannot legally invoice without CFDI. ERPNext has zero CFDI support. Confidence: 10/10.
+
+---
+
+### Solo-Founder Market Entry Matrix
+
+| Market | Entry Point | Solo-Viable | Partner Needed |
+|--------|------------|------------|---------------|
+| **Germany** | DATEV Bridge | YES | NO |
+| **MENA** | Arabic RTL Print Studio | YES | NO |
+| **India** | Tally Migration Toolkit | PARTIAL | Tally data expert |
+| **Brazil** | Tax Calc Integration | YES | NO (TechMax integration) |
+| **China** | Cloud Deploy Toolkit | YES | NO |
+| **Nigeria** | FIRS E-Invoicing | NO | Nigerian compliance partner |
+| **Brazil** | NF-e Emission | NO | Brazilian tax law expert |
+| **Saudi Arabia** | ZATCA Phase 3 | NO | ZATCA API knowledge |
+| **Mexico** | CFDI 4.0 | NO | PAC integration partner |
+
+---
+
+### The Mandate Calendar (Non-English)
+
+| Deadline | Country | Mandate | ERPNext Ready? | WTP |
+|----------|---------|---------|----------------|-----|
+| PAST | Nigeria | FIRS e-Invoicing | NO | CRITICAL |
+| ACTIVE | Saudi Arabia | ZATCA Phase 3 | NO | CRITICAL |
+| ACTIVE | Mexico | CFDI | NO | CRITICAL |
+| ACTIVE | Morocco | E-Invoice | NO | HIGH |
+| Jan 2026 | Belgium | PEPPOL | NO | HIGH |
+| UPCOMING | Kenya | KRA e-TIMS | NO | HIGH |
+| UPCOMING | Malaysia | LHDN MyInvois | NO | MEDIUM |
+| TBD | UAE | E-Invoicing | PARTIAL | MEDIUM |
+
+---
+
+### New Personas Added (8 Regional)
+
+| Persona | Source Market | Key Insight |
+|---------|--------------|-------------|
+| Tally Survivor | India | 10M Tally users need migration help |
+| DATEV Prisoner | Germany | 7yr demand, zero solutions |
+| FIRS Deadline Fighter | Nigeria | Crisis mode, max WTP |
+| SPED Compliance Navigator | Brazil | NF-e is the #1 blocker |
+| Totvs Escape Artist | Brazil | R$10K-50K/month captive market |
+| Arabic Digital Transformer | MENA | RTL print is the real gap |
+| GoBD Compliant | Germany | ERPNext violates German law |
+| Mandate Chaser | Global | Build before deadline hits |
+
+Full files in `research-personas/`: `tally-survivor.md`, `datev-prisoner.md`, `firs-deadline-fighter.md`, `sped-compliance-navigator.md`, `arabic-digital-transformer.md`, `totvs-escape-artist.md`, `gobd-compliant.md`, `mandate-chaser.md`.
+
+---
+
+### Cross-Market Patterns (Non-English)
+
+**Pattern 1: E-Invoicing is universal.** Every country mandates e-invoicing. ERPNext has zero support for most markets. Framework is same: tax authority API + compliant invoice format. Regulatory details vary by country.
+
+**Pattern 2: DATEV/Totvs/Tally are monopoly moats.** Each dominant local ERP has unique lock-in: DATEV through tax advisors, Totvs through deep localization, Tally through ubiquity. Breaking lock requires solving compliance, not features.
+
+**Pattern 3: Telegram is the non-English ERPNext community platform.** 50+ country-specific Telegram channels serve as informal job boards, support forums, and community hubs. English corpus captures none of this.
+
+**Pattern 4: China is infrastructure-isolated.** No Frappe Cloud. GitHub is slow. Gitee is the alternative. Fapiao and Golden Tax require government partnerships. Hardest market.
+
+**Pattern 5: Africa is the last greenfield.** Zero comprehensive ERPNext localization for any major African market. Nigeria (largest economy, FIRS mandate, zero solutions) and OHADA (17 countries, single standard, zero implementations) are the two biggest greenfield opportunities on earth.
+
+---
+
+*Generated from 38 independent persona analyses of 1,742 Frappe Forum topics + 8 non-English market research streams. Cross-referenced against `research-personas/synthesis.md` and `market-research/`.*

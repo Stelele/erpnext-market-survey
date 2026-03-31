@@ -56,6 +56,16 @@ research-personas/
 ├── pricing-psychologist.md           # Pricing as the most powerful product lever
 ├── small-army-builder.md            # Building distribution through agencies and partners
 └── data-defender.md                  # Protecting own data, ethically scraping others
+│
+├── [Regional Personas — Non-English Markets]
+├── tally-survivor.md                 # Indian accountant locked into Tally
+├── datev-prisoner.md                 # German accountant locked into DATEV
+├── gobd-compliant.md                 # German GmbH needing GoBD-compliant records
+├── sped-compliance-navigator.md       # Brazilian tax compliance specialist
+├── totvs-escape-artist.md            # Brazilian company fleeing Totvs pricing
+├── firs-deadline-fighter.md          # Nigerian CFO facing FIRS compliance crisis
+├── arabic-digital-transformer.md     # Arabic-speaking business moving to ERPNext
+└── mandate-chaser.md                 # Building compliance solutions before deadlines hit
 ```
 
 ## How to Use These Personas
@@ -105,6 +115,9 @@ Each persona includes an **ERPNext Ecosystem Lens** section with specific opport
 - **5 psychology personas** — how founders manage themselves
 - **7 strategy personas** — how founders position and protect their businesses
 - **7 marketing personas** — how founders reach and convert customers
-- **38 total personas**
+- **8 regional personas** — non-English market opportunity analysis
+- **46 total personas**
+
+Regional personas were added from 8 non-English market research streams (India, MENA, Brazil, China, Germany/DACH, Africa, Southeast Asia, Latin America). See `market-research/` for full market reports.
 
 Plus **16-episode Calm SaaS series** (TBF #148-163) that could deepen Calm Biz Rationalist and spawn additional personas. See `missing-personas.md` for full backlog.
